@@ -1,0 +1,1639 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,-121,90,-120</url>
+    <time>2012-01-04T09:25:02.091-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="-120.0" maxlat="90.0" minlon="-121.0" minlat="-90.0"/>
+    <wpt lon="-120.8509167" lat="35.3003">
+        <time>2011-07-12T21:00:35.000-05:00</time>
+        <name>OXZTT0M</name>
+        <desc>View to a bay by eagle chief, Traditional Cache(2.0/1.4/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTT0M</url>
+        <urlname>View to a bay</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474450">
+            <groundspeak:name>View to a bay</groundspeak:name>
+            <groundspeak:placed_by>eagle chief</groundspeak:placed_by>
+            <groundspeak:owner id="41921">eagle chief</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is on a dead end street in a residential area.  The view of Morro Bay and Los Osos is the main reason to find this cache.  You are looking for a small log only container that is on public property.  Enjoy the View.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>1.4</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>scenic view. available 24/7</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.84205" lat="35.3216333">
+        <time>2011-07-04T22:22:22.000-05:00</time>
+        <name>OX1AWTP</name>
+        <desc>Sweet Springs by eagle chief, Traditional Cache(3.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1AWTP</url>
+        <urlname>Sweet Springs</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1248175">
+            <groundspeak:name>Sweet Springs</groundspeak:name>
+            <groundspeak:placed_by>eagle chief</groundspeak:placed_by>
+            <groundspeak:owner id="41921">eagle chief</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">This beautiful little park is home to the endangered Western Pond Turtle, as well as a natural freshwater spring, lots of birds and awesome views of the bay. It's a wonderful place to come and bird watch, turtle watch or just watch the waves roll by.  Be discrete and careful when looking for this cache. It is located right next to the trail. There is no need to go off the trail or into any sensitive areas at all. There is absolutely NO bushwhacking necessary for this cache. The cache is well hidden and out of view. Please leave it better than you found it. </groundspeak:long_description>
+            <groundspeak:encoded_hints>Watch your step</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>2.8</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.8188833" lat="35.3301167">
+        <time>2011-11-22T20:10:30.000-06:00</time>
+        <name>OXZTNE8</name>
+        <desc>End of the Road by eagle chief, Traditional Cache(1.7/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTNE8</url>
+        <urlname>End of the Road</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28471028">
+            <groundspeak:name>End of the Road</groundspeak:name>
+            <groundspeak:placed_by>eagle chief</groundspeak:placed_by>
+            <groundspeak:owner id="41921">eagle chief</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">I hate to see old caches die out. After taking care of 'Dont' Let the End Stump you' for several months I thought it was time to get the listing in our name. it is in almost the same location as the old cache but hidden better to avoid the young muggles that hang around here.
+
+This use to be the old road to Morro Bay from Los Osos. Once connecting to Turi road over the bridge now hidden in the trees just beyond the cache.</groundspeak:long_description>
+            <groundspeak:encoded_hints>log in log</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.7</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.8439" lat="35.3301">
+        <time>2011-07-30T00:10:51.000-05:00</time>
+        <name>OXZTRP5</name>
+        <desc>What a Tree by eagle chief, Traditional Cache(2.0/1.8/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTRP5</url>
+        <urlname>What a Tree</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474156">
+            <groundspeak:name>What a Tree</groundspeak:name>
+            <groundspeak:placed_by>eagle chief</groundspeak:placed_by>
+            <groundspeak:owner id="41921">eagle chief</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is one amazing tree
+
+located in the small Pasadena Park in Los Osos, just off the parking area. Coordinates and trail will take you to a bushy tree. Follow the trail into the tree. Once you can stand up inside start looking for the cache. You will be amazed at what you find inside.</groundspeak:long_description>
+            <groundspeak:encoded_hints>above your head</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.8</ox:size>
+                <ox:terrain>1.8</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>amazing natural tree</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.907" lat="35.4499">
+        <time>2011-07-08T02:14:29.000-05:00</time>
+        <name>OXZTT4E</name>
+        <desc>beach_road hunt by hfamily, Traditional Cache(1.9/2.8/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTT4E</url>
+        <urlname>beach_road hunt</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474568">
+            <groundspeak:name>beach_road hunt</groundspeak:name>
+            <groundspeak:placed_by>hfamily</groundspeak:placed_by>
+            <groundspeak:owner id="43614">hfamily</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Small tube like case. Look for sweats.  Be safe as you look on the right side of the fence. </groundspeak:long_description>
+            <groundspeak:encoded_hints>The correct side makes a difference.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1402585">
+                    <groundspeak:date>2011-08-05T02:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="41921">eagle chief</groundspeak:finder>
+                    <groundspeak:text encoded="False">Looked but could not find</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.9</ox:difficulty>
+                <ox:size>2.8</ox:size>
+                <ox:terrain>2.8</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.6954167" lat="35.4515333">
+        <time>2011-08-10T22:32:58.000-05:00</time>
+        <name>OXZTRAM</name>
+        <desc>Swimming Hole by eagle chief, Traditional Cache(2.5/2.8/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTRAM</url>
+        <urlname>Swimming Hole</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28473799">
+            <groundspeak:name>Swimming Hole</groundspeak:name>
+            <groundspeak:placed_by>eagle chief</groundspeak:placed_by>
+            <groundspeak:owner id="41921">eagle chief</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">A real nice place on a hot day, a small swimming hole with a rope swing just off why 41.  Can be busy with muggles at times and be careful parking. Its a small container with a stubby pencil but have your own just in case. And a camera might be a good idea, swim suit too.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Think above your head</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.8</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Avail in Winter</ox:tag>
+                <ox:tag>available 24/7</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.42865" lat="37.814533">
+        <time>2010-05-08T02:00:00.000-05:00</time>
+        <name>OX287EA</name>
+        <desc>Skinny Dip by SAT RECON, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX287EA</url>
+        <urlname>Skinny Dip</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2092541">
+            <groundspeak:name>Skinny Dip</groundspeak:name>
+            <groundspeak:placed_by>SAT RECON</groundspeak:placed_by>
+            <groundspeak:owner id="56353">SAT RECON</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">The Red Hills are full of neat places to visit. This is one of them. Bring your own pen. Happy Hunting!
+ &lt;br/&gt;&lt;br/&gt; &lt;p&gt;Additional Waypoints&lt;/p&gt;PK287EA - Parking Area&lt;br/&gt;N 37° 48.736 W 120° 26.404&lt;br/&gt;Parking</groundspeak:long_description>
+            <groundspeak:encoded_hints>seert owt neewteb kcor egral</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Horses</ox:tag>
+                <ox:tag>Poison plants</ox:tag>
+                <ox:tag>Bicycles</ox:tag>
+                <ox:tag>Scenic view</ox:tag>
+                <ox:tag>Ticks</ox:tag>
+                <ox:tag>Recommended for kids</ox:tag>
+                <ox:tag>Dangerous Animals</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.438217" lat="37.92415">
+        <time>2008-11-09T02:00:00.000-06:00</time>
+        <name>OX1J12G</name>
+        <desc>Quentin's Quintessential Quartzite Quarry by SAT RECON, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1J12G</url>
+        <urlname>Quentin's Quintessential Quartzite Quarry</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1460798">
+            <groundspeak:name>Quentin's Quintessential Quartzite Quarry</groundspeak:name>
+            <groundspeak:placed_by>SAT RECON</groundspeak:placed_by>
+            <groundspeak:owner id="56353">SAT RECON</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is one you won't want to miss! Happy Hunting!
+ &lt;br/&gt;&lt;br/&gt; &lt;p&gt;Additional Waypoints&lt;/p&gt;PK1J12G - Parking Area&lt;br/&gt;N 37° 55.468 W 120° 26.540&lt;br/&gt;Please park here and walk in.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Needs maintenance</ox:tag>
+                <ox:tag>Scenic view</ox:tag>
+                <ox:tag>Takes less than an hour</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.392333" lat="37.958767">
+        <time>2008-11-02T01:00:00.000-06:00</time>
+        <name>OX1HTVC</name>
+        <desc>Testosterone by SAT RECON, Traditional Cache(1.5/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1HTVC</url>
+        <urlname>Testosterone</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1454811">
+            <groundspeak:name>Testosterone</groundspeak:name>
+            <groundspeak:placed_by>SAT RECON</groundspeak:placed_by>
+            <groundspeak:owner id="56353">SAT RECON</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br/&gt;&lt;br/&gt; This is a cache that celebrates things that are important to men.
+This is our first ammo can cache and it is an oversized one
+purchased at a swap meet in Honolulu, Hawaii. It was actually
+designed by the military to provide protection during transport for
+a Land Warrior AN/PVS-14 Monocular Night Vision Device. The
+designation AN/PVS translates to Army/Navy Portable Visual Search.
+Because this is a guy thing here are the specs:&lt;br/&gt;
+ * Field of View (Degrees): 40&lt;br/&gt;
+ * Magnification: 1X&lt;br/&gt;
+ * Resolution: 64 lp (typical)&lt;br/&gt;
+ * Brightness Gain: Adjustable from 25 to more than 3000
+fL/fL&lt;br/&gt;
+ * Diopter Adjustment: +2 to -6 diopters&lt;br/&gt;
+ * Objective Lens: F/1.2&lt;br/&gt;
+ * Eyepiece Lens: EFL 26 mm&lt;br/&gt;
+ * Focus Range: 25 cm to Infinity&lt;br/&gt;
+ * Voltage Required: 2.7 - 3.0 Volts&lt;br/&gt;
+ * Battery Type: Two AA batteries&lt;br/&gt;
+ * Battery Life: Approx. 50 hrs at room temp.&lt;br/&gt;
+ * Weight w/ batteries: 13.5 oz (380 grams)&lt;br/&gt;
+ * Dimensions: 4.5&quot; (L) x 2&quot; (W) x 2.25&quot; (H)&lt;br/&gt;
+ * Operating Temperature Range (Degrees Celsius):-51 to +49&lt;br/&gt;
+ * Storage Temperature Range (Degrees Celsius):-51 to +85&lt;br/&gt;
+ * NSN: 5855-01-432-0524&lt;br/&gt;
+In addition, the location chosen will inspire that thing inside
+every boy that desires to be &quot;King of the Mountain&quot;. Finally,
+everything in the cache is stuff that guys in particular enjoy. If
+you take something, please leave something that will continue this
+theme.&lt;br/&gt;
+ Happy Hunting!&lt;br/&gt;
+&lt;br/&gt;
+&lt;p&gt;Additional Waypoints&lt;/p&gt;PK1HTVC - Parking&lt;br/&gt;N 37° 57.737 W 120° 23.201</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>5.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Dogs</ox:tag>
+                <ox:tag>Recommended for kids</ox:tag>
+                <ox:tag>Takes less than an hour</ox:tag>
+                <ox:tag>Scenic view</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.407233" lat="37.962517">
+        <time>2006-12-28T02:00:00.000-06:00</time>
+        <name>OX101T6</name>
+        <desc>California Highway Patrol Welcome by SAT RECON, Traditional Cache(1.5/3.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX101T6</url>
+        <urlname>California Highway Patrol Welcome</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="925263">
+            <groundspeak:name>California Highway Patrol Welcome</groundspeak:name>
+            <groundspeak:placed_by>SAT RECON</groundspeak:placed_by>
+            <groundspeak:owner id="56353">SAT RECON</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Large travel bug friendly cache on Hwy 108. If you take something,
+please leave something. Thanks!</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Available at all times</ox:tag>
+                <ox:tag>Cliff / falling rocks</ox:tag>
+                <ox:tag>Takes less than an hour</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Difficult climbing</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.356033" lat="37.975533">
+        <time>2008-08-26T02:00:00.000-05:00</time>
+        <name>OX1FYMX</name>
+        <desc>5150 by SAT RECON, Traditional Cache(5.0/5.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1FYMX</url>
+        <urlname>5150</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1398903">
+            <groundspeak:name>5150</groundspeak:name>
+            <groundspeak:placed_by>SAT RECON</groundspeak:placed_by>
+            <groundspeak:owner id="56353">SAT RECON</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>5</groundspeak:difficulty>
+            <groundspeak:terrain>5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br/&gt;&lt;br/&gt; WARNING! WARNING! WARNING! WARNING! WARNING! WARNING!&lt;br/&gt;
+&lt;br/&gt;
+ This cache is certifiably crazy! Most cachers should not attempt
+this one.&lt;br/&gt;
+&lt;br/&gt;
+Section 5150 of California's Welfare and Institutions Code
+states,&quot;When any person, as a result of mental disorder, is a
+danger to others, or to himself or herself, or gravely disabled, a
+peace officer, member of the attending staff, as defined by
+regulation, of an evaluation facility designated by the county,
+designated members of a mobile crisis team provided by Section
+5651.7, or other professional person designated by the county may,
+upon probable cause, take, or cause to be taken, the person into
+custody and place him or her in a facility designated by the county
+and approved by the State Department of Mental Health as a facility
+for 72-hour treatment and evaluation.&quot;&lt;br/&gt;
+&lt;br/&gt;
+ This cache is just a therapeutic expression of my insanity. I
+don't want you to hate me....wait, maybe I do....I don't
+know.&lt;br/&gt;
+ Seven out of the ten voices in my head say &quot;Don't Shoot!&quot;&lt;br/&gt;
+You might want the following equipment:&lt;br/&gt;
+ Flashlight&lt;br/&gt;
+ Rope&lt;br/&gt;
+Retrieval Tool&lt;br/&gt;
+ This is a dangerous cache and by attempting to find it you agree
+to accept all responsibility for your actions. It is best that you
+just put this on your ignore list and pretend it never existed.
+Consider yourself warned.&lt;br/&gt;
+ ('k' has nothing to do with this cache)&lt;br/&gt;
+My sympathies to TCCBA for they are apparently afflicted with an
+insanity almost as deep-seated as mine!
+ &lt;br/&gt;
+&lt;p&gt;Additional Waypoints&lt;/p&gt;PK1FYMX - Parking Area&lt;br/&gt;N 37° 58.508 W 120° 21.392&lt;br/&gt;Parking Area</groundspeak:long_description>
+            <groundspeak:encoded_hints>R U INSANE?</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1586201">
+                    <groundspeak:date>2010-09-19T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="61528">Zopster</groundspeak:finder>
+                    <groundspeak:text encoded="False">Yes. Thank you!
+
+This is one of the reasons I geocache.
+To be among my peers [;)]</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1589265">
+                    <groundspeak:date>2010-09-19T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="62135">Cheryl-MuggleN0More</groundspeak:finder>
+                    <groundspeak:text encoded="False">Had to stop. Had no choice. Had to find it. [:)]</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="660649">
+                    <groundspeak:date>2009-09-29T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3940">TEAMTEK</groundspeak:finder>
+                    <groundspeak:text encoded="False">Let me start by saying &quot;I'M BAD!&quot;. Slap me with a wet noodle! I lost the cache container. Here's my story and I'm sticking with it. I made it to the top found the cache and proceed to extract it when it fell out and lost it in the tall grass. We searched for quite some time but only came up with the log. Now we had to replace the log with another container so we sacrificed a pen. Everything was replaced and I was about to replace it as found when it slipped out of my hand and fell into a bottomless hole at the base of the pole to be never heard or seen from again. I'm so sorry. I left the silver tip of the original container on the green box at the base of the pole. I contacted Plantdude and he said he would help replacing the cache. Sorry again! TFTC!!! (#2985)</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>5.0</ox:difficulty>
+                <ox:size>5.0</ox:size>
+                <ox:terrain>5.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Thorns</ox:tag>
+                <ox:tag>Not Recommended at night</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Not Recommended for kids</ox:tag>
+                <ox:tag>Stealth required</ox:tag>
+                <ox:tag>Difficult climbing</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.369867" lat="37.9761">
+        <time>2007-10-26T02:00:00.000-05:00</time>
+        <name>OX16ZJT</name>
+        <desc>Red, White &amp; Buoy by SAT RECON, Traditional Cache(4.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX16ZJT</url>
+        <urlname>Red, White &amp; Buoy</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1131680">
+            <groundspeak:name>Red, White &amp; Buoy</groundspeak:name>
+            <groundspeak:placed_by>SAT RECON</groundspeak:placed_by>
+            <groundspeak:owner id="56353">SAT RECON</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>4</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">I've said too much already! Happy Hunting!
+ &lt;br/&gt;&lt;br/&gt; P.S. Please make sure cache is returned to the place you found it
+and please keep your visit log somewhat vague. Thanks! 
+&lt;p&gt;
+&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>bring two gals</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="660161">
+                    <groundspeak:date>2009-09-29T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3940">TEAMTEK</groundspeak:finder>
+                    <groundspeak:text encoded="False">Out caching with Stashseeker, Darrenjenn (Darren &amp; Jenn), Topee, and Ninja. Had to pick up some extraction equipment from the local store. TFTC!!!! (#2985)</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>4.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Recommended for kids</ox:tag>
+                <ox:tag>Stroller accessible</ox:tag>
+                <ox:tag>Wheelchair accessible</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.327467" lat="37.97815">
+        <time>2009-10-20T02:00:00.000-05:00</time>
+        <name>OX203XY</name>
+        <desc>ILLUMINATI by SAT RECON, Traditional Cache(3.0/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX203XY</url>
+        <urlname>ILLUMINATI</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1850822">
+            <groundspeak:name>ILLUMINATI</groundspeak:name>
+            <groundspeak:placed_by>SAT RECON</groundspeak:placed_by>
+            <groundspeak:owner id="56353">SAT RECON</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">CAUTION: THERE IS POISON OAK NEAR COORDINATES BUT IT CAN BE
+AVOIDED. HAPPY HUNTING!
+ &lt;br/&gt;&lt;br/&gt; The Illuminati, or the &quot;Enlightened Ones&quot;, trace their origins back
+to the 1760s and a man named Adam Weishaupt, who defected from the
+Catholic church and organized the Illuminati, financed by the
+International Bankers. Since then, according to the Illuminati,
+their top goal has been to achieve a “one world
+government” and to subjugate all religions and governments in
+the process. The Illuminati thus attribute all wars since the
+French Revolution as having been fomented by them in their pursuit
+of their goals. Weishaupt wrote out a master plan in the 1770s
+outlining the Illuminati’s goals, finishing on May 1, 1776.
+According to the Illuminati, this great day is still commemorated
+by Communist nations in the form of May Day. At the time
+Weishaupt’s ideology was first introduced, Britain and France
+were the two greatest world powers, and so the Illuminati claimed
+credit for having kindled the Revolutionary War in order to weaken
+the British Empire and the French Revolution to destroy the French
+Empire. In the 1780s, the Bavarian Government found out about the
+Illuminati’s subversive activities, forcing the Illuminati to
+disband and go underground. For the next few decades, the
+Illuminati operated under various names and guises, still in active
+pursuit of their ultimate goal. According to the Illuminati, the
+Napoleonic Wars were a direct result of Illuminati intervention,
+and were intended to weaken the governments of Europe. One of the
+results of these wars was the “Congress of Vienna”,
+supposedly brought about by the Illuminati who there attempted to
+form a one world government in the form of a “League of
+Nations.” However, Russia held out and the league of nations
+was not formed, causing great animosity towards the Russian
+government on the part of the Illuminati.&lt;br/&gt;
+Their short-term plan foiled, the Illuminati adopted a different
+strategy. The Illuminati say that they achieved control over the
+European economy through the International Bankers and directed the
+composition of Karl Marx’s Communist Manifesto and its
+anti-thesis written by Karl Ritter in order to use the differences
+between the two ideologies to enable them to “divide larger
+and larger members of the human race into opposing camps so that
+they could be armed and then brainwashed into fighting and
+destroying each other.” Under new leadership by an American
+general named Albert Pike, the Illuminati worked out a blueprint
+for three world wars throughout the 20th century that would lead to
+a one world government by the end of the 20th century. According to
+the Illuminati, the First World War was fought to destroy Czarism
+in Russia (the Illuminati had held a grudge against the Czarist
+regime since Russia had thwarted its plans for a one world
+government after the Napoleonic Wars) and to establish Russia as a
+stronghold of Communism. Likewise, the Illuminati claim that the
+Second World War pitted the Fascists against the “political
+Zionists” so as to build up International Communism until it
+equaled in strength that of the United Christendom. According to
+Illuminati plans, the Third World War, which is to be fought
+between the political Zionists and the leaders of the Moslem world,
+will drain the international community to the extent that they will
+have no choice but to form a one world government.&lt;br/&gt;
+There are people that believe that symbols of the &quot;enlightened
+ones&quot; are hidden in plain sight in both the architecture and
+currency of these United States. Some say that the year found below
+the all-seeing eye on the back of a one dollar bill does not
+commemorate the founding of our country but marks the completion of
+the Illuminati's plans to form a one world government. Subtract
+DLXIV from this number. This will give you a number that stands for
+inches. When converted to feet, this number will give you an idea
+of what is expected of you upon reaching the posted coordinates. An
+&quot;enlightened&quot; cache seeker will be prepared for the darkness!</groundspeak:long_description>
+            <groundspeak:encoded_hints>msitengam si a lufituaeb gniht</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Flashlight required</ox:tag>
+                <ox:tag>Not Recommended for kids</ox:tag>
+                <ox:tag>Poison plants</ox:tag>
+                <ox:tag>Thorns</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.388667" lat="37.980117">
+        <time>2010-03-09T02:00:00.000-06:00</time>
+        <name>OX24VZV</name>
+        <desc>Locomotive #3 by SAT RECON, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX24VZV</url>
+        <urlname>Locomotive #3</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1992148">
+            <groundspeak:name>Locomotive #3</groundspeak:name>
+            <groundspeak:placed_by>SAT RECON</groundspeak:placed_by>
+            <groundspeak:owner id="56353">SAT RECON</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br/&gt;&lt;br/&gt; This Shay #3 locomotive is a standard gauge, two truck, 60-ton
+locomotive made by the Lima Locomotive &amp; Machine Company of
+Lima, Ohio. It was built on April 30, 1910 and sold to the Standard
+Lumber Company in the timber-rich Sierra Nevada foothills in
+Tuolumne County, California. That same year, the Standard Lumber
+Company pressed this locomotive into service on the Sugar Pine
+Railway, the steam-logging railroad division of the company. The
+new engine hauled many flatcars filled with timber to the mill in
+Standard where they were turned into lumber and sold all over the
+state.&lt;br/&gt;
+In 1925, #3 had a mishap and collided with another engine,
+destroying the original wooden cab. The local workmen at Standard
+Lumber Company fabricated the steel cab that can be seen today. It
+put in many more years of service before being retired.&lt;br/&gt;
+Around 1976 &quot;Ol' Number 3&quot;, as she was called, was relocated to its
+current location, the entrance to the Mother Lode Fairgrounds near
+downtown Sonora&lt;br/&gt;
+During a monsoon-like storm in 1996 this locomotive was almost lost
+to posterity. May 15, 1996 brought 3.4 inches of rain in 24 hours,
+half of that amount coming down in ONE hour (7 AM to 8 AM) A rain
+guage on Big Hill collected 7.6 inches from Wednesday morning to
+Thursday afternoon! The Save Mart supermarket had six inches of
+standing water in it until the front doors were opened and then a
+stream of once good merchandise was strewn into the parking lot and
+beyond, up to a half-mile away!&lt;br/&gt;
+Near the fairgrounds, the creek bulged against a bridge and ripped
+out 200 feet of a slate wall protecting the creek's bank. All that
+seemed to be holding the bank together was this 60 ton steam train!
+Only now it was sitting on tracks that were hanging 3 ft. above the
+missing bank below. Three tow trucks from Vic's Chevron were
+dispatched to try and save the locomotive from sliding in to the
+creek.&lt;br/&gt;
+They attached six steel cables to the locomotive to stabilize it.
+Working all day long, dump trucks hauled in over 300 yards of dirt
+and rock to be carefully pushed under and around the giant machine
+with backhoes. A 125-ton, $600 an hour crane was brought in from
+Modesto to hoist Old Shay #3, one end at a time, onto new makeshift
+tracks.&lt;br/&gt;
+The Modesto Bee reported local city administrator Greg Applegate as
+saying, &quot; I don't know what it's going to cost, but it's worth it.
+We're saving a piece of history&quot;. Thankfully, this piece of history
+is still a local landmark and even gets some attention during the
+holidays as it is decorated with Christmas lights. Sonora can be
+proud to have such a fine piece of machinery welcome all who visit
+this quaint little city in the heart of the gold country!</groundspeak:long_description>
+            <groundspeak:encoded_hints>[SPOILER]citengam, repmub</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>5.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Stroller accessible</ox:tag>
+                <ox:tag>Takes less than an hour</ox:tag>
+                <ox:tag>Camping available</ox:tag>
+                <ox:tag>Stealth required</ox:tag>
+                <ox:tag>Recommended for kids</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.38185" lat="37.983883">
+        <time>2009-10-24T02:00:00.000-05:00</time>
+        <name>OX2082N</name>
+        <desc>The Undertaker by SAT RECON, Traditional Cache(3.0/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2082N</url>
+        <urlname>The Undertaker</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1854813">
+            <groundspeak:name>The Undertaker</groundspeak:name>
+            <groundspeak:placed_by>SAT RECON</groundspeak:placed_by>
+            <groundspeak:owner id="56353">SAT RECON</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">BYOP! Happy Hunting!
+ &lt;br/&gt;&lt;br/&gt; &lt;p&gt;Additional Waypoints&lt;/p&gt;TR2082N - Trailhead&lt;br/&gt;N 37° 59.051 W 120° 22.874&lt;br/&gt;Start here and follow the pipe!</groundspeak:long_description>
+            <groundspeak:encoded_hints>citengam woleb rednilyc</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Not Recommended for kids</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.375167" lat="37.994733">
+        <time>2009-10-18T02:00:00.000-05:00</time>
+        <name>OX2017P</name>
+        <desc>KILLSWITCH REACTOR by SAT RECON, Traditional Cache(4.0/4.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2017P</url>
+        <urlname>KILLSWITCH REACTOR</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1848242">
+            <groundspeak:name>KILLSWITCH REACTOR</groundspeak:name>
+            <groundspeak:placed_by>SAT RECON</groundspeak:placed_by>
+            <groundspeak:owner id="56353">SAT RECON</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>4</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">WARNING!! THIS CACHE IS NOT FOR THE FAINT OF HEART OR THOSE NOT IN
+TOP PHYSICAL SHAPE.&lt;br/&gt;
+ ATTEMPT THIS CACHE AT YOUR OWN RISK!!&lt;br/&gt;
+ Be careful as there is broken glass near the cache. No need to
+remove container, Just open lid and remove logsheet to sign. One of
+the best views of Sonora so bring a camera! Bring a pen. Happy
+Hunting!</groundspeak:long_description>
+            <groundspeak:encoded_hints>Flying insect architecture is protecting cache from muggles.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>4.0</ox:difficulty>
+                <ox:size>5.0</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Difficult climbing</ox:tag>
+                <ox:tag>Dangerous area</ox:tag>
+                <ox:tag>Not Recommended for kids</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.294333" lat="38.009133">
+        <time>2008-07-06T02:00:00.000-05:00</time>
+        <name>OX1DY0M</name>
+        <desc>Five Little Indians by SAT RECON, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1DY0M</url>
+        <urlname>Five Little Indians</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1338693">
+            <groundspeak:name>Five Little Indians</groundspeak:name>
+            <groundspeak:placed_by>SAT RECON</groundspeak:placed_by>
+            <groundspeak:owner id="56353">SAT RECON</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br/&gt;&lt;br/&gt; One little, two little, three little Indians&lt;br/&gt;
+ Four little, five little, six little Indians&lt;br/&gt;
+ Seven little, eight little, nine little Indians&lt;br/&gt;
+ Ten little Indian boys.&lt;br/&gt;
+&lt;br/&gt;
+ Ten little, nine little, eight little Indians&lt;br/&gt;
+ Seven little, six little, five little Indians&lt;br/&gt;
+ Four little, three little, two little Indians&lt;br/&gt;
+ One little Indian boy.&lt;br/&gt;
+&lt;br/&gt;
+Congratulations to Bluebutton for finding it first!</groundspeak:long_description>
+            <groundspeak:encoded_hints>Stand over largest grinding hole for three minutes to let your GPS settle down. Then start searching.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Takes less than an hour</ox:tag>
+                <ox:tag>Not Recommended at night</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.276717" lat="38.024917">
+        <time>2006-12-31T02:00:00.000-06:00</time>
+        <name>OX103XR</name>
+        <desc>Crystal Falls by SAT RECON, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX103XR</url>
+        <urlname>Crystal Falls</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="927296">
+            <groundspeak:name>Crystal Falls</groundspeak:name>
+            <groundspeak:placed_by>SAT RECON</groundspeak:placed_by>
+            <groundspeak:owner id="56353">SAT RECON</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">About the best view of Crystal Falls that you will ever see. I
+think that this spot is breathtaking.
+ &lt;br/&gt;&lt;br/&gt; Just off Phoenix Lake Rd, there is parking on either side of the
+road. Just be careful if you have to cross the road as it is on a
+curve. Enjoy the photo opportunity and happy hunting!</groundspeak:long_description>
+            <groundspeak:encoded_hints>Between a hard place and a hard place</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Takes less than an hour</ox:tag>
+                <ox:tag>Dangerous Animals</ox:tag>
+                <ox:tag>Scenic view</ox:tag>
+                <ox:tag>Not Wheelchair accessible</ox:tag>
+                <ox:tag>Available at all times</ox:tag>
+                <ox:tag>Recommended for kids</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.26855" lat="38.027083">
+        <time>2008-09-11T02:00:00.000-05:00</time>
+        <name>OX1G6VR</name>
+        <desc>THOR'S THUNDER THROWDOWN by SAT RECON, Traditional Cache(5.0/5.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1G6VR</url>
+        <urlname>THOR'S THUNDER THROWDOWN</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1406773">
+            <groundspeak:name>THOR'S THUNDER THROWDOWN</groundspeak:name>
+            <groundspeak:placed_by>SAT RECON</groundspeak:placed_by>
+            <groundspeak:owner id="56353">SAT RECON</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>5</groundspeak:difficulty>
+            <groundspeak:terrain>5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br/&gt;&lt;br/&gt; This cache is not for the faint of heart or those not in peak
+physical condition. As the terrain is extremely steep and slippery
+please do not take children to this cache. It is extremely
+dangerous. All it takes is one slip. This cache recommends the use
+of rock climbing gear. Especially shoes and safety rope. Please use
+the buddy system. If you fall and break a leg at least someone will
+know what happened. Cache might not be accesible in winter. By
+seeking this cache, you alone are responsible for your actions.
+Please be careful. Consider yourself warned.&lt;br/&gt;
+&lt;br/&gt;
+While relatively tame in the summer, in the winter Crystal Falls
+becomes a roaring torrent of water that can be heard from a great
+distance. This inspired me to place a cache at the &quot;heart&quot; of this
+thundering waterfall. Thor challenges you to brave the thunder and
+see who comes out triumphant.&lt;br/&gt;
+&lt;br/&gt;
+&lt;p&gt;Additional Waypoints&lt;/p&gt;PK1G6VR - Parking&lt;br/&gt;N 38° 01.477 W 120° 16.165&lt;br/&gt;It is safe to park here.&lt;br/&gt;TH1G6VR - Trailhead&lt;br/&gt;N 38° 01.527 W 120° 16.203&lt;br/&gt;From this trailhead, keep going up the river to the reference waypoint.&lt;br/&gt;WY1G6VR - Waypoint&lt;br/&gt;N 38° 01.574 W 120° 16.175&lt;br/&gt;When you get to this large rock, go straight up this leg of the river.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>5.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>5.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Thorns</ox:tag>
+                <ox:tag>Poison plants</ox:tag>
+                <ox:tag>Cliff / falling rocks</ox:tag>
+                <ox:tag>Scenic view</ox:tag>
+                <ox:tag>Climbing gear</ox:tag>
+                <ox:tag>Difficult climbing</ox:tag>
+                <ox:tag>Not Takes less than an hour</ox:tag>
+                <ox:tag>Not Recommended at night</ox:tag>
+                <ox:tag>Not Recommended for kids</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.244333" lat="38.028083">
+        <time>2007-07-01T02:00:00.000-05:00</time>
+        <name>OX14252</name>
+        <desc>BUNS OF STEEL by SAT RECON, Traditional Cache(4.0/4.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX14252</url>
+        <urlname>BUNS OF STEEL</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1044764">
+            <groundspeak:name>BUNS OF STEEL</groundspeak:name>
+            <groundspeak:placed_by>SAT RECON</groundspeak:placed_by>
+            <groundspeak:owner id="56353">SAT RECON</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>4</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">!! WARNING !!The terrain is VERY steep, this cache is inherently
+DANGEROUS and is not recommended for children or those not in peak
+physical shape.&lt;br/&gt;
+Please DO NOT attempt this cache between 10PM and 7AM per parking
+area rules.
+ &lt;br/&gt;&lt;br/&gt; Don't forget to take in a beautiful view of the valley where you
+can see the lights of Oakdale/Modesto on a clear night. The
+coordinates are listed below. Happy Hunting! Congratulations to
+Bluebutton for the First to Find!&lt;br/&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;PK14252 - Parking Area&lt;br/&gt;N 38° 01.773 W 120° 14.657&lt;br/&gt;Park in this general area observing all posted signs and walk to waypoint.&lt;br/&gt;VP14252 - Valley Overlook&lt;br/&gt;N 38° 01.700 W 120° 14.736&lt;br/&gt;From here you can see a great view of the valley!</groundspeak:long_description>
+            <groundspeak:encoded_hints>You climbed down, now climb up.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>4.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Difficult climbing</ox:tag>
+                <ox:tag>Cliff / falling rocks</ox:tag>
+                <ox:tag>Not Wheelchair accessible</ox:tag>
+                <ox:tag>Not Recommended for kids</ox:tag>
+                <ox:tag>Available during winter</ox:tag>
+                <ox:tag>Not Available at all times</ox:tag>
+                <ox:tag>Not Recommended at night</ox:tag>
+                <ox:tag>Scenic view</ox:tag>
+                <ox:tag>Dangerous Animals</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.406283" lat="38.029583">
+        <time>2008-05-13T02:00:00.000-05:00</time>
+        <name>OX1C80B</name>
+        <desc>Hydraulic Hell by SAT RECON, Multi-cache(4.5/4.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1C80B</url>
+        <urlname>Hydraulic Hell</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="1288712">
+            <groundspeak:name>Hydraulic Hell</groundspeak:name>
+            <groundspeak:placed_by>SAT RECON</groundspeak:placed_by>
+            <groundspeak:owner id="56353">SAT RECON</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>4.5</groundspeak:difficulty>
+            <groundspeak:terrain>4.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
+&lt;p&gt;This is a unique challenge. There is
+poison oak in the area but it can be avoided. Children not
+recommended. Seek only during daylight. Rated 4.5 stars for the
+rock scrambling that is involved.&lt;/p&gt;
+&lt;p&gt;Hydraulic mining was a variation on
+ground sluicing where the water delivered to the site would be shot
+through a nozzle at high pressure onto the face of the cliff,
+thereby washing away tons of boulders, gravel, dirt, and ounces of
+gold.&lt;br/&gt;
+The first use of this method is credited to Edward Mattison in 1853
+who supplied the water through a rawhide hose to a nozzle he carved
+out of wood. Later miners upgraded their hoses to metal or the more
+desirable canvas, and the nozzle soon became iron. Technological
+advances made the hose and nozzle connections more flexible and
+allowed greater movement. Lavish attention was paid to the design
+and specifications of the nozzle and companies began producing
+their competing appliances. The product names were various —
+Hoskin’s Dictator and Hoskin’s Little Giant are examples. But the
+name that stuck was the product name of the Craig Company — the
+Monitor.&lt;br/&gt;
+The Monitors were powerful to say the least. When the water reached
+the Monitor it was compressed into a nozzle that was anywhere from
+one inch to eight inches in diameter. The stream of water that
+could wash down whole hillsides was impressive to behold. In his
+multi-volume 1874 - 1890 classic History of California, the
+historian Hubert Howe Bancroft stated that an eight-inch Monitor
+could throw 185,000 cubic feet of water in an hour with a velocity
+of 150 feet per second. Other accounts of the force are less
+technical but just as startling. One description points out that a
+strong man could not swing a crowbar through a six-inch Monitor
+stream, yet another commented on the striking phenomenon of a
+fifty-pound boulder riding the crest of a jet with the power of a
+cannonball. Documented evidence recalls that men were killed by the
+force of the water from 200 feet away.&lt;br/&gt;
+ The Monitors operated twenty-fours a day with the mines
+illuminated by high-intensity lighting or locomotive headlights.
+The amount of water needed was enormous. At the North Bloomfield
+mine, sixty million gallons of water was used daily. Thomas Bell,
+the president of the company, estimated in 1876 that the hydraulic
+mine would consume 16 billion gallons of water in that year
+alone.&lt;br/&gt;
+The debris created was equally enormous. North Bloomfield, a mine
+about 1 1/8 mile long and 350 - 550 feet deep excavated 41 million
+cubic yards of material between 1866 and 1884. In 1891, a group of
+government engineers estimated that hydraulic mining had deposited
+210,746,100 cubic yards of debris along the basins of three rivers
+alone -- the Yuba, American, and Bear.&lt;br/&gt;
+ The environmental results were catastrophic. A typical description
+was penned in 1868 by Samuel Bowles, a visitor to the California
+gold country:&lt;br/&gt;
+ Tornado, flood, earthquake and volcano combined could hardly make
+greater havoc, spread wider ruin and wreck, than are to be seen
+everywhere in the track of the larger gold-washing operations. None
+of the interior streams of California, though naturally pure as
+crystal, escape the change to a thick yellow mud from this cause,
+early in their progress from the hills. The Sacramento River is
+worse than the Missouri. Many of the streams are turned out of
+their original channels, either directly for mining purposes, or in
+consequence of the great masses of soil and gravel that come down
+from the gold-washing above. Thousands of acres of fine land along
+their banks are ruined forever by the deposits of this character. A
+farmer may have his whole estate turned into a barren waste by a
+flood of sand and gravel from some hydraulic mining up stream;
+more, if a fine orchard or garden stands in the way of the working
+of a rich gulch or bank, orchard or garden must go. Then the
+tornout, dug- out, washed to pieces and then washed over side-
+hills, masses that have been or are being subjected to the
+hydraulics of the miners, are the very devil's chaos indeed. The
+country is full of them among the mining districts of the Sierra
+Nevada, and they are truly a terrible blot upon the face of
+Nature.&lt;br/&gt;
+(Content from Sierra College Press)&lt;br/&gt;
+&lt;br/&gt;
+ 
+&lt;/p&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;HIDDEN: FI1C80B - Final&lt;br/&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br/&gt;&lt;br/&gt;PK1C80B - Parking&lt;br/&gt;N 38° 01.757 W 120° 24.397&lt;br/&gt;&lt;br/&gt;HIDDEN: S21C80B - STAGE2&lt;br/&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br/&gt;&lt;br/&gt;TH1C80B - Trailhead&lt;br/&gt;N 38° 01.781 W 120° 24.385</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>4.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>4.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Not Recommended for kids</ox:tag>
+                <ox:tag>May require wading</ox:tag>
+                <ox:tag>Dangerous Animals</ox:tag>
+                <ox:tag>Difficult climbing</ox:tag>
+                <ox:tag>Not Recommended at night</ox:tag>
+                <ox:tag>Cliff / falling rocks</ox:tag>
+                <ox:tag>Dangerous area</ox:tag>
+                <ox:tag>Medium hike (1km-10km)</ox:tag>
+                <ox:tag>Poison plants</ox:tag>
+                <ox:tag>Not Takes less than an hour</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.396317" lat="38.040533">
+        <time>2010-03-07T02:00:00.000-06:00</time>
+        <name>OX24Q5Y</name>
+        <desc>Columbia Schoolhouse Zorbonaut Rehearsal by SAT RECON, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX24Q5Y</url>
+        <urlname>Columbia Schoolhouse Zorbonaut Rehearsal</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1988493">
+            <groundspeak:name>Columbia Schoolhouse Zorbonaut Rehearsal</groundspeak:name>
+            <groundspeak:placed_by>SAT RECON</groundspeak:placed_by>
+            <groundspeak:owner id="56353">SAT RECON</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br/&gt;&lt;br/&gt; What is a zorbonaut, you say? A zorbonaut is a person who engages
+in the extreme sport of globe riding.&lt;br/&gt;
+What is globe riding? Globe riding is the act of rolling down a
+hill in a large transparent inflatable rubber globe.&lt;br/&gt;
+What does globe riding have to do with the old Columbia School
+House? Well, not far from the schoolhouse, on a well defined nature
+trail, one can visit a grassy meadow and practice rolling down hill
+sans globe. No equipment required.&lt;br/&gt;
+All one needs to do is lay prone on the ground at a perpendicular
+to the incline and use your upper elbow to start you rolling down
+hill. Once you start to roll, keep your forearms folded close to
+your chest with your hands near your neck to keep your chin from
+hitting the ground.&lt;br/&gt;
+The object is to roll down the hill faster than your competitor or
+you can try to beat your own time by using a stopwatch.&lt;br/&gt;
+Above all, have fun and remember to get up slowly as you will be
+dizzy. But what a rush!&lt;br/&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;/p&gt;</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Takes less than an hour</ox:tag>
+                <ox:tag>Recommended for kids</ox:tag>
+                <ox:tag>Dogs</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.189733" lat="38.066667">
+        <time>2010-07-24T02:00:00.000-05:00</time>
+        <name>OX2C8NF</name>
+        <desc>Le Tour de Mi-Wuk by SAT RECON, Unknown Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2C8NF</url>
+        <urlname>Le Tour de Mi-Wuk</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2212888">
+            <groundspeak:name>Le Tour de Mi-Wuk</groundspeak:name>
+            <groundspeak:placed_by>SAT RECON</groundspeak:placed_by>
+            <groundspeak:owner id="56353">SAT RECON</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">The name says it all! The posted coordinates will take you to a plaque honoring a man very influential in Mi-Wuk's history. There may or may not be a map available to help you in investigating this puzzle. Happy Hunting!
+
+Go to the following waypoints, in the order listed, and complete the simple math required to give you the final coordinates. Please ignore any suffix to the street name such as drive, lane, way, court, road, trail, street, etc. Have fun on the tour!
+
+Additional Waypoints
+Q12C8NF - Question #1
+N 38° 03.712 W 120° 11.307
+Cross Street Name minus 2
+Q22C8NF - Question #2
+N 38° 03.486 W 120° 11.397
+Cross Street Name plus 3
+Q32C8NF - Question #3
+N 38° 03.458 W 120° 11.076
+Cross Street Name minus 6
+Q42C8NF - Question #4
+N 38° 03.563 W 120° 10.836
+Cross Street Name minus 1
+Q52C8NF - Question #5
+N 38° 03.555 W 120° 10.777
+Cross Street Name plus 3
+Q62C8NF - Question #6
+N 38° 03.463 W 120° 10.746
+Cross Street Name plus 2
+Q72C8NF - Question #7
+N 38° 03.378 W 120° 10.671
+Cross Street Name minus 2
+Q82C8NF - Question #8
+N 38° 03.452 W 120° 10.617
+Cross Street Name minus 3
+Q92C8NF - Question #9
+N 38° 03.574 W 120° 10.563
+Cross Street Name minus 2
+ZA2C8NF - Question #10
+N 38° 03.664 W 120° 10.573
+Cross Street Name minus 6
+ZB2C8NF - Question #11
+N 38° 03.726 W 120° 10.615
+Cross Street Name minus 4
+ZC2C8NF - Question #12
+N 38° 03.661 W 120° 10.957
+Cross Street Name minus 3
+ZD2C8NF - Question #13
+N 38° 03.633 W 120° 11.029
+Cross Street Name plus 1
+ZE2C8NF - Question #14
+N 38° 03.617 W 120° 11.258
+Cross Street Name minus 3
+ZF2C8NF - Question #15
+N 38° 03.911 W 120° 11.106
+Cross Street Name (Both Words) minus 4
+HIDDEN: ZG2C8NF - Final
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+GOOD LUCK!</groundspeak:long_description>
+            <groundspeak:encoded_hints>under the highest (elevation) rock in the area</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Not Recommended for kids</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Scenic view</ox:tag>
+                <ox:tag>Field Puzzle</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.056433" lat="38.162517">
+        <time>2008-08-07T02:00:00.000-05:00</time>
+        <name>OX1F11R</name>
+        <desc>Zion by SAT RECON, Traditional Cache(1.5/3.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1F11R</url>
+        <urlname>Zion</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1371402">
+            <groundspeak:name>Zion</groundspeak:name>
+            <groundspeak:placed_by>SAT RECON</groundspeak:placed_by>
+            <groundspeak:owner id="56353">SAT RECON</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">I have wanted to place a cache here for several years but have not
+had the chance to do so before now. Thanks to Bluebutton we were
+able to make this a reality. Happy Hunting!</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Scenic view</ox:tag>
+                <ox:tag>Stealth required</ox:tag>
+                <ox:tag>Takes less than an hour</ox:tag>
+                <ox:tag>Cliff / falling rocks</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.6144" lat="38.23">
+        <time>2007-06-16T02:00:00.000-05:00</time>
+        <name>OX13P6C</name>
+        <desc>Vultures Vortex by SAT RECON, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX13P6C</url>
+        <urlname>Vultures Vortex</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1034234">
+            <groundspeak:name>Vultures Vortex</groundspeak:name>
+            <groundspeak:placed_by>SAT RECON</groundspeak:placed_by>
+            <groundspeak:owner id="56353">SAT RECON</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br/&gt;&lt;br/&gt; This cache is best accessed by starting out at Mountain Ranch. The
+view from this hill is breath-taking. While we were taking in the
+view of Lake Hogan, we saw at least three vultures just riding the
+air currents at the top of the hill. Very cool. I think this spot
+is amazing. Happy Hunting! 
+&lt;p&gt;&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>!luftiurf si hcraes ruoy epoh I</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Available at all times</ox:tag>
+                <ox:tag>Not Medium hike (1km-10km)</ox:tag>
+                <ox:tag>Not Takes less than an hour</ox:tag>
+                <ox:tag>Scenic view</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.4014667" lat="38.8669167">
+        <time>2011-08-01T11:15:10.000-05:00</time>
+        <name>OX2FA57</name>
+        <desc>TrashCache #1: We're Nuts About Caching! by John-eCache, Traditional Cache(1.6/1.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2FA57</url>
+        <urlname>TrashCache #1: We're Nuts About Caching!</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2303679">
+            <groundspeak:name>TrashCache #1: We're Nuts About Caching!</groundspeak:name>
+            <groundspeak:placed_by>John-eCache</groundspeak:placed_by>
+            <groundspeak:owner id="5475">John-eCache</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Located in the El Dorado National Forest near Union Valley Reservoir and just off the main road leading to the Sunset campgrounds. Easy parking and approach.
+
+Big pat on the back for us! This is the first geocache Team Cachew has placed in the wild! And we managed to come up with (what we think is) a great concept for placement. We found this cache container sitting on the trail, a regular piece of garbage that some disrespectful hiker decided to drop in the woods. We thought &quot;that would make a perfect cache container&quot; and then immediately thought &quot;why don't we turn it into one and properly place it in this spot!&quot;. So we cleaned it up and scrounged up some (pretty decent) items for the initial stash. Fortunately, we had something to serve as a log book, and threw a pen in there. And now we're inspired to recycle more aloof discards into fun treasures for others to find. Thanks for visiting and enjoy the view! </groundspeak:long_description>
+            <groundspeak:encoded_hints>You might be able to see the reservoir from here, but this cache has an even &quot;bolder&quot; view of the water. Container is a large mixed nut jar.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>3.6</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Not Available In Winter</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.9530556" lat="39.0940278">
+        <time>2011-10-19T20:09:17.000-05:00</time>
+        <name>OXZTNWP</name>
+        <desc>Dead End by Colbz1994, Traditional Cache(1.6/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTNWP</url>
+        <urlname>Dead End</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28471445">
+            <groundspeak:name>Dead End</groundspeak:name>
+            <groundspeak:placed_by>Colbz1994</groundspeak:placed_by>
+            <groundspeak:owner id="66829">Colbz1994</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">I placed the container in a ziplock bag so the weather won't get to it when it starts raining. Not hard to find but out of sight. FTF gets a free breakfast sandwich from mcdonalds. Our first cache. Good luck! </groundspeak:long_description>
+            <groundspeak:encoded_hints>End of the tracks.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Colfax</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.0213" lat="39.2495">
+        <time>2011-06-05T17:28:03.000-05:00</time>
+        <name>OX2XEXK</name>
+        <desc>Running Out Of Batteries by SENIORSHIZZLE, Traditional Cache(3.8/3.2/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2XEXK</url>
+        <urlname>Running Out Of Batteries</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2695531">
+            <groundspeak:name>Running Out Of Batteries</groundspeak:name>
+            <groundspeak:placed_by>SENIORSHIZZLE</groundspeak:placed_by>
+            <groundspeak:owner id="12442">SENIORSHIZZLE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>4</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Running out of batteries in your GPS? Check this cache out, and drop in some fresh batteries (or anything else) while you're there.
+
+I placed this cache here because I thought that it was a neat place for a cache. It's located by the stream, and by the derelict ruins of the old dam.
+The theme of this cache is batteries. So often people will get stuck out in the wilderness with their GPS batteries running out. I left a couple of AA's out there, as well as some various other things. Feel free to leave anything, but if you've got an extra set of batteries lying around, please drop them in. Maybe you'll save someone's life!
+
+
+Don't worry if you don't have batteries, though, anything is welcome!</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.8</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.2</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>large trail</ox:tag>
+                <ox:tag>Not Available In Winter</ox:tag>
+                <ox:tag>forest</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.70375" lat="42.0903">
+        <time>2011-07-16T08:47:02.000-05:00</time>
+        <name>OXZTRYX</name>
+        <desc>Cocoa Cache by MELTUPPER, Traditional Cache(2.3/2.3/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTRYX</url>
+        <urlname>Cocoa Cache</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474396">
+            <groundspeak:name>Cocoa Cache</groundspeak:name>
+            <groundspeak:placed_by>MELTUPPER</groundspeak:placed_by>
+            <groundspeak:owner id="41629">MELTUPPER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Located on the Fremont-Winema National Forest, near Dog Lake and the Oregon/California border.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Red Earth</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.3</ox:difficulty>
+                <ox:size>3.3</ox:size>
+                <ox:terrain>2.3</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>&quot;Fremont-Winema&quot;</ox:tag>
+                <ox:tag>Dog Lake&quot;</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.6463" lat="43.3585833">
+        <time>2011-06-30T17:34:58.000-05:00</time>
+        <name>OXZTT9G</name>
+        <desc>Twin Fault by MELTUPPER, Traditional Cache(2.4/3.7/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTT9G</url>
+        <urlname>Twin Fault</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474725">
+            <groundspeak:name>Twin Fault</groundspeak:name>
+            <groundspeak:placed_by>MELTUPPER</groundspeak:placed_by>
+            <groundspeak:owner id="41629">MELTUPPER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The last quarter mile of your journey will be a rigorous crossing of a lava flow. Small children, pets, and persons with weak knees are advised to stay home. Wear gloves and hiking boots, and make the crossing in the morning when it is cool. From the Chevron station in Christmas Valley, Oregon, travel 2 miles east on Christmas Valley Highway to Millican Road. Turn left, keeping to the main paved road for another 7.4 miles, at which point the road will turn east. After another mile, the road will turn north again. Travel one mile north, and at the bend in the road, turn left and travel west along a dirt road which follows a wire fence. At one mile from the pavement you will pass through a gate which you should close behind you. Proceed from this point about one half mile west to the edge of the lava flow and park your vehicle. Proceed on foot through the gate at the end of the fence, and skirt around the lava flow, bearing north and northwest for one mile. This will bring you to a point at the edge of the lava that is nearest to the Twin Fault. At this point, you will enter the lava flow, and travel about .25 mile southwest to one end of the fault, which runs from northwest to southeast.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Fault finding!</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.4</ox:difficulty>
+                <ox:size>4.1</ox:size>
+                <ox:terrain>3.7</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Lake County</ox:tag>
+                <ox:tag>Crack-in-the-Ground</ox:tag>
+                <ox:tag>Christmas Valley</ox:tag>
+                <ox:tag>Crack in the Ground</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.8865" lat="44.3367">
+        <time>2008-12-14T02:00:00.000-06:00</time>
+        <name>OX1JX9X</name>
+        <desc>Bailey's Old TeePee by BAILEYBC2008, Traditional Cache(1.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1JX9X</url>
+        <urlname>Bailey's Old TeePee</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1486974">
+            <groundspeak:name>Bailey's Old TeePee</groundspeak:name>
+            <groundspeak:placed_by>BAILEYBC2008</groundspeak:placed_by>
+            <groundspeak:owner id="9753">BAILEYBC2008</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Bailey spotted this TeePee today while on her way to Madras to geocache.  These wigwam burners use to be quite common several decades ago.  Nice to see them not being used any more. 
+
+ Tried to locate this close to the highway right-of-way and yet within safe reach.  When I was working summers in northern California, earning money to attend UCSB in Santa Barbara, I worked at Pacific Lumber Company in Scotia.  Those wigwam burners were perhaps 2-3 times the height of this one and were built on concrete piers with tunnels for capturing the ash.  We use to clean the tunnels each summer, during annual maintenance, a task easily qualified for the &quot;Dirty Jobs&quot; program series.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Base of metal post, under two pieces of wood</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.5304833" lat="46.57205">
+        <time>2010-12-14T15:47:09.000-06:00</time>
+        <name>OXZTXRG</name>
+        <desc>Yakima youth sports complex by xplore19, Traditional Cache(3.1/1.7/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTXRG</url>
+        <urlname>Yakima youth sports complex</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28478073">
+            <groundspeak:name>Yakima youth sports complex</groundspeak:name>
+            <groundspeak:placed_by>xplore19</groundspeak:placed_by>
+            <groundspeak:owner id="6889">xplore19</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is my first cache on this site I have many listed on geocaching this cache is very easy and the first listed on this site in Yakima hope many more follow soon during the summer months this onemay require alot of stealth as the nearby soccer fields are always busy</groundspeak:long_description>
+            <groundspeak:encoded_hints>think about it</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.1</ox:difficulty>
+                <ox:size>1.7</ox:size>
+                <ox:terrain>1.7</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.536583" lat="46.969983">
+        <time>2011-10-29T02:00:00.000-05:00</time>
+        <name>OX36TNP</name>
+        <desc>Army Convoy 2 by HlTMAN, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX36TNP</url>
+        <urlname>Army Convoy 2</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2974007">
+            <groundspeak:name>Army Convoy 2</groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Planted this while in an Army Convoy FTF will probably see a few.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.0193" lat="47.8375167">
+        <time>2011-06-27T23:32:08.000-05:00</time>
+        <name>OXZTTBE</name>
+        <desc>Green &quot;G&quot; by LuLu lemon, Traditional Cache(3.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTTBE</url>
+        <urlname>Green &quot;G&quot;</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474785">
+            <groundspeak:name>Green &quot;G&quot;</groundspeak:name>
+            <groundspeak:placed_by>LuLu lemon</groundspeak:placed_by>
+            <groundspeak:owner id="40579">LuLu lemon</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">a tiny tin wrapped in tin foil and marked with a green letter &quot;G&quot;</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.9201" lat="49.7034167">
+        <time>2009-07-19T02:00:00.000-05:00</time>
+        <name>OX1W365</name>
+        <desc>High Thynne by savant9, Traditional Cache(2.5/3.6/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1W365</url>
+        <urlname>High Thynne</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1730952">
+            <groundspeak:name>High Thynne</groundspeak:name>
+            <groundspeak:placed_by>savant9</groundspeak:placed_by>
+            <groundspeak:owner id="2793">savant9</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;Mt. Thynne is a flat peaked mountain that can be reached by
+quad, 4x4, or hiking. Road is quite rough in some sections, so
+ground clearance is required. 2wd truck can make it, but 4x4 is
+preferred to prevent wheel spin on some of the steeper
+sections.&lt;/p&gt;
+
+&lt;p&gt;There is a decommissioned fire watch tower that you will pass by
+on your route to the cache. If you like waymarking I have also
+posted a nearby benchmark on waymarking.com. 
+(WM6TPN)&lt;/p&gt;
+&lt;p&gt;Cache is located less than 200 meters from the firewatch tower.
+Cache site overlooks an un-named lake below. The views all around
+are amazing. I think it will be findable in the winter as the
+location should be visible even in the snow (unless its over 10
+feet deep, then forget it). A photo hint is in the gallery. Enjoy
+this beautiful area, and post pictures if you can.&lt;/p&gt;
+&lt;p&gt;Cache is a regular sized ammo can, and is placed as a thank you
+to the Tulameen Turtles for all the great caches they have placed
+in the area. FTF gets a wad of Canadian Tire money.&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>At the base of a triple conifer, that stands apart from all the others. (picture in the gallery)</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>offroad</ox:tag>
+                <ox:tag>Firewatch</ox:tag>
+                <ox:tag>tower</ox:tag>
+                <ox:tag>Mountain top</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-120.2875" lat="50.7026333">
+        <time>2010-03-30T02:00:00.000-05:00</time>
+        <name>OX25DMR</name>
+        <desc>Columbo Combo (Cipher Series) by Rokman4, Unknown Cache(5.0/1.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX25DMR</url>
+        <urlname>Columbo Combo (Cipher Series)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2009134">
+            <groundspeak:name>Columbo Combo (Cipher Series)</groundspeak:name>
+            <groundspeak:placed_by>Rokman4</groundspeak:placed_by>
+            <groundspeak:owner id="8887">Rokman4</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">PLEASE READ THE FOLLOWING INSTRUCTIONS VERY CAREFULLY.  STAGE 2 IS THE ONLY PART OF THIS MULTI ON PRIVATE PROPERTY.  MAKE SURE THE LOCK IS LOCKED CORRECTLY.  REHIDE FINAL STAGE WITH LOTS OF COVERAGE, YOU WILL KNOW WHAT I MEAN WHEN YOU ARRIVE THERE.  THANKS&lt;br/&gt;&lt;br/&gt;First, in order to find stage one coordinates, you will have to figure out the code below (see hint).  This code uses a key word in order to decipher it. The key word you need is the size of the container at the first stage. You have five choices of sizes to work with: large, regular, small, MiCRo, nano. The container holds the coordinates for stage two.  The gps was fluctuating wildly, so find the fraternal order. &lt;br/&gt;&lt;br/&gt;aOehU FVTgY SceTl hjO SchR gVeER caE jSfT bbR TjSaTl hjEahl OaS gHeSR SVl SIiS&lt;br/&gt;&lt;br/&gt;Once you have the decoded the aBove coordinates, you will be looking for an obvious, but clever hide. (the previous sentence is a clue to the word combination for the final stage, remember what a synonym is, that is important). Word combination you say? . . . read on . . .&lt;br/&gt;&lt;br/&gt;At stage two I have the owner’s permission for the hide and you will be midway there. To SolVE stage two you will need to print the picture I have included for you and bring it with you to decode the coordinates to the final stage.  Think &quot;green&quot; and you will find stage two, no foraging necessary.&lt;br/&gt;&lt;br/&gt;The final stage will be the most difficult. Ok, it will be somewhat more difficult than the previous two. To help you, somewhere on this page is a key word you will need to have figured out in order to unlock a word lock on the ammo can. This is a combination lock that uses a secret word to open it.&lt;br/&gt;&lt;br/&gt;I have hidden that secret word within the text of this page in the form of a carrier cipher code. I have also provided you with the location of this code in order for you to understand the code and how to apply it in OrdER to decode the secret word.&lt;br/&gt;&lt;br/&gt;And last but not LEast, in the ammo can is another surprise.  No!  Not another one they say!  Yes, one more.  Some of you have solved this puzzle before, some of you have not.  Inside the ammo can is a lock n lock container, and in the lock n lock container is the final puzzle you must solve in order to get to the log and sign it. Please be very careful with this item. You do not have to force it open. It only takes two moves to open it.  Please re-lock so the ammo can cannot be opened, scramble the word and hide the cache exactly as was found.&lt;br/&gt;&lt;br/&gt;So just to recap:&lt;br/&gt;&lt;br/&gt;1. - You need to decode the ciphered text above to get to the first stage.&lt;br/&gt;2. - At the second stage you need to decipher the font and bring along a copy of that alphabet with you in order to find the final stage.&lt;br/&gt;3. - At the final stage, which is VERY WELL HIDDEN FOR MUGGLE SECURITY, you will be faced with a word lock. The word you need to unlock the lock is hidden in the form of a code somewhere in the text of this page and I have provided you with the key to using this code.&lt;br/&gt;4. - Finally when you get the lock open you will have one last puzzle to solve in order to log your find. It can be done easily and in two moves, no need to force anything. It has been successfully done. Please do not force it.&lt;br/&gt;5. - When replacing the lock make sure you place it on correctly so the ammo can cannot be opened and then scramble the word for the next cacher.&lt;br/&gt;6. - Lastly, this is EXTREMELY IMPORTANT, make sure the ammo can is concealed in the same manner you found it.  Another potentially high muggle area.&lt;br/&gt;&lt;br/&gt;Overall, this is a challenge that is going to take time and sleuthing, therefore that is the reason for a level five difficulty.&lt;br/&gt;&lt;br/&gt;As a first to find gift, there will be a rare Gold Country FTF non-trackable Nugget Coin.  I have left a note with the log as to how you can contact me to collect your coin.  If you are really puzzled and are losing your hair just email me.  And remember, everything you need to complete this puzzle cache is right here in front of you. The hint section is very, very important!&lt;br/&gt;&lt;br/&gt;Good luck and Have Fun</groundspeak:long_description>
+            <groundspeak:encoded_hints>srehpiC enilnO-looTpyrC dna rehcaC eoJ elgooG</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1081065">
+                    <groundspeak:date>2011-01-20T21:14:19.000-06:00</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="9586">cognak</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1081062">
+                    <groundspeak:date>2010-04-03T02:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="9586">cognak</groundspeak:finder>
+                    <groundspeak:text encoded="False">I finally got a few minutes today to test the numbers I got the other day. The numbers didn't lie. Thanks for the great puzzle again. As much as I hate puzzle and micro caches, this one was gratifying in the end. I find they are very time consuming and most often frustrating, but when you do manage to figure them out, they are rewarding. Thanks. TFTC. TNLN. SL.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>5.0</ox:difficulty>
+                <ox:size>3.7</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

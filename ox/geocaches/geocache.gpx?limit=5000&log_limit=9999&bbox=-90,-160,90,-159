@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,-160,90,-159</url>
+    <time>2012-01-04T09:24:28.017-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="-159.0" maxlat="90.0" minlon="-160.0" minlat="-90.0"/>
+    <wpt lon="-159.35455" lat="22.06323">
+        <time>2011-08-03T11:40:09.000-05:00</time>
+        <name>OXZTRJB</name>
+        <desc>Respect by mavericknyc, Traditional Cache(1.5/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTRJB</url>
+        <urlname>Respect</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474038">
+            <groundspeak:name>Respect</groundspeak:name>
+            <groundspeak:placed_by>mavericknyc</groundspeak:placed_by>
+            <groundspeak:owner id="22157">mavericknyc</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">We climbed all morning and found the perfect spot to sit and take in the beauty.    When we stood up we found this cache.   You can't take it.  It was already there. But it's a prize still to be shared by all that sit there.     Enjoy!!</groundspeak:long_description>
+            <groundspeak:encoded_hints>If your sitting down.  Stand up and it will be foybd</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>5.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>scenic overlook of kappa</ox:tag>
+                <ox:tag>sleeping giant trail</ox:tag>
+                <ox:tag>moderate hike</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+</gpx>

@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,-63,90,-62</url>
+    <time>2012-01-04T09:28:44.317-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="-62.0" maxlat="90.0" minlon="-63.0" minlat="-90.0"/>
+    <wpt lon="-62.57615" lat="17.1169167">
+        <time>2011-09-05T13:31:41.000-05:00</time>
+        <name>OXZTQN3</name>
+        <desc>Nelson's Lookout by GRAYFINDERS2, Virtual Cache(1.5/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTQN3</url>
+        <urlname>Nelson's Lookout</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Virtual Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28473162">
+            <groundspeak:name>Nelson's Lookout</groundspeak:name>
+            <groundspeak:placed_by>GRAYFINDERS2</groundspeak:placed_by>
+            <groundspeak:owner id="42193">GRAYFINDERS2</groundspeak:owner>
+            <groundspeak:type>Virtual Cache</groundspeak:type>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Nelson’s Lookout on Saddle Hill provides some of the best elevated views of the island and a place to plot your assault on the Banyan Tree, Rock, and Peak Caches on the slopes of Mt Nevis, visible from here.  Views of Redonda, Montserrat, Antigua, St. Kitts and Saba are also visible under the right weather conditions.  The site is one of several Nevis Heritage sites featured by the Nevis Historical and Conservation Society.
+
+Lord Horatio Nelson, in charge of the British fleet for this part of the Caribbean, supposedly spent his free time here looking for approaching enemy ships.  Construction of this fort was completed in the 1740's, prior to Nelson, as a refuge for island residents to flee to in the event of invasion.   Although too far from the water for defensive artillery, the site included a signal canon to alert Charlestown of impending attack.  You will pass the remnants of one wall of that defensive enclosure. 
+
+The site also includes a 1683 memorial to Philippa Prentis Phillips.  Construction of the fort was initiated in the 1600’s when she lived at the site.  Her history is documented in “Rivers of Time” by June Goodfield.  An approximate waypoint to the memorial is provided from mapping included in the book.  The area generally to the south and west of the peak was operated in the 1600’s as the “Prentis Works” plantation, raising indigo, ginger, and tobacco before the growth of the sugar industry and slavery.  Agriculture continued on the site into the 1950’s, producing cotton.
+
+The cache requires a hike of approximately 2 mile roundtrip beginning on a dirt road with the final approach on a steeper single track trail.  As none of the road names in the area are posted, waypoints are provided for each of the turns to get to the trailhead from the main road of the island.  One parking space is available just east of the trail head waypoint.
+
+The code phrase will consist of the combination of words from two features at the site.  The first word is the term used for the fort from the sign at the trailhead.  The second word is the single name inscribed vertically on the wooden post at the cache coordinates.
+
+Main road turn (south) - N17 07.835 W62 34.802
+Turn 2 (Rt) - N17 07.652 W62 34.709
+Turn 3 (Lt) - N17 07.426 W62 34.874
+Trail Head - N17 07.315 W62 34.761
+Memorial - N17 6.976 W62 34.863 (approx)
+Trail intersection - N17 07.065 W62 34.601
+      </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Historic Area</ox:tag>
+                <ox:tag>scenic view</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:phrase>dec5d562645e4cf04094d436c6f077c63a4598640872a22ab22a4c8b3e70ceea</ox:phrase>
+            </ox:verification>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-62.8358383" lat="17.3475583">
+        <time>2011-08-25T20:23:03.000-05:00</time>
+        <name>OXZTQWG</name>
+        <desc>Brimstone Hill Fortress by GRAYFINDERS2, Virtual Cache(1.0/2.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTQWG</url>
+        <urlname>Brimstone Hill Fortress</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Virtual Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28473361">
+            <groundspeak:name>Brimstone Hill Fortress</groundspeak:name>
+            <groundspeak:placed_by>GRAYFINDERS2</groundspeak:placed_by>
+            <groundspeak:owner id="42193">GRAYFINDERS2</groundspeak:owner>
+            <groundspeak:type>Virtual Cache</groundspeak:type>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Brimstone Hill Fortress National Park is a UNESCO World Heritage Site of historical, cultural and architectural significance: a monument to the ingenuity of the British military engineers who designed it and to the skill, strength and endurance of the African slaves who built and maintained it. One of the best preserved historical fortifications in the Americas.
+
+The Fortress, constructed intermittently between the 1690s and 1790s, is of singular importance as being the remains of a large, complete military community of the 18th century. As such, it is a veritable time capsule of international significance.
+
+The prominent Citadel is one of the earliest and finest surviving examples of a new style of fortification known as the 'polygonal system'.
+
+Brimstone Hill is nearly 800 feet high with steep and precipitous slopes which had to be tamed by the disciplines of engineering and architecture, and at the risk and probable loss of human lives. The walls of the structures are predominantly of stone, labouriously and skillfully fashioned from the hard volcanic rock of which the hill is composed. The mortar to cement the stones was produced on site from the limestone which covers much of the middle and lower slopes. The Fortress is virtually a man-made out-growth of the natural hill.
+
+The calm fortress area which is now a national park was once the scene of one of the biggest battles ever witnessed in the Caribbean. With stone walls 7 to 12 feet thick, it is certainly an impressive fort, built by slave labour over a period of 106 years. After the war, having changed from British to French and back again to British hands, the fort was finally abandoned in 1851. It remained neglected and suffered deterioration until 1965, when it was declared a national park. 
+
+Under Marquis de Bouille's command, eight thousand French troops mounted an attack on less than 1,000 British troops guarding the fortress. The British were forced to surrender after a month, but not before their brave resistance impressed their French opponents. As a mark of respect for this determination, the French allowed the defeated British army to leave with their flag flying and in uniform. The island was returned to the British under the Treaty of Paris after just a year, when the French were offered the same privilege. 
+
+The physical location of the Fortress presents attractive panoramic vistas of forested mountains, cultivated fields, the historical township of Sandy Point, and neighbouring Dutch, English and French islands across the Caribbean Sea, including St Eustatius, the center of activity of the real Pirates of the Caribbean.  
+
+The cache location is near the highest point of the Citadel, providing some of the best views.  Fortunately you can drive most of the  way up the 800 vertical, but you still have a substantial climb up a broadly stepped stone sidewalk.  There is a stone marker on the floor at the posted coordinate in front of the flags with a six character inscription.  Those characters are your code phrase with no spaces, numbers last.
+
+Much of the cache description is taken from the Fortress Website - http://www.brimstonehillfortress.org/.  This site includes current entrance fee information.
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Seaward from the flagpole</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Restrooms Available</ox:tag>
+                <ox:tag>steep climb</ox:tag>
+                <ox:tag>snack bar</ox:tag>
+                <ox:tag>Historical site</ox:tag>
+                <ox:tag>Access Fees</ox:tag>
+                <ox:tag>Scenic Overlook</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:phrase>9468c6d19c11a08e8f5c0756ed771450c28f43bc3e41361e16b495ffb842de01</ox:phrase>
+            </ox:verification>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-62.6408833" lat="45.5781">
+        <time>2011-03-18T22:35:39.000-05:00</time>
+        <name>OX2JKHC</name>
+        <desc>On the Road to a Quik Smile by anchor and hold, Traditional Cache(2.6/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2JKHC</url>
+        <urlname>On the Road to a Quik Smile</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2402078">
+            <groundspeak:name>On the Road to a Quik Smile</groundspeak:name>
+            <groundspeak:placed_by>anchor and hold</groundspeak:placed_by>
+            <groundspeak:owner id="14787">anchor and hold</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True"> A quik park and grab. Muggles are high in this area and cache has already gone missing once.
+</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>1.6</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Muggles Everywhere</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-62.6568167" lat="45.7374">
+        <time>2011-05-17T02:00:00.000-05:00</time>
+        <name>OX2TJ8V</name>
+        <desc>Caribou Provincial Park by ACGA, Traditional Cache(3.5/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2TJ8V</url>
+        <urlname>Caribou Provincial Park</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2609389">
+            <groundspeak:name>Caribou Provincial Park</groundspeak:name>
+            <groundspeak:placed_by>ACGA</groundspeak:placed_by>
+            <groundspeak:owner id="600">ACGA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">
+Located along the Northumberland Strait, northwest of the town of Pictou, is a community know as Caribou. Woodland Caribou lived in this region of Nova Scotia until European settlers hunted the herds to extinction in the 19th century. Nearby locations using the name include Caribou Harbour, Caribou Island, Caribou Marsh, Central Caribou and Caribou River. Those place names speak volumes of the population of Caribou that used to roam there. The Mi’kmaq people have hunted and fished the woods and waters of these shores long before the European explorers visited the area. Everyone knows what a Caribou is, it’s that animal that we see on the 25 cent piece, or the animal that pulls Santa’s Sleigh! Caribou originated in the Mi’kmaq language as Qualipu , pronounced “Kull-ee-boo” which means “shoveller” and comes from the Mi’kmaw word Qualipi, meaning “to shovel snow” Caribou shovel snow to get to the grasses and they shovel the lichens and mosses off the trees and stones to feed. The Caribou was one animal the Mi’kmaw made great use of. The hide was used for shelter and clothing, the meat was eaten, the organs used to tan hides, the dried internals and tendons to tie things together and the antlers and bones for tools like hooks and needles. The bladder of two Caribou was used to make water proof foot wear. True to Mi’kmaw protocol the animals are honored by performing a dance called “the dance for your new shoes”.
+
+This geocache is part of the 2011 NS Provincial Parks Geocaching challenge. For more information about the geocaching challenge, click the following LINK for more information. To participate in the challenge, you will need to download the associated PASSPORT. At each geocache, there is a punch that you can mark the corresponding box on your passport. Collect all 5 and you can send in your passport to receive a free trackable geocoin.
+
+The Passport
+You can donwload the passport from &lt;a href=&quot;http://atlanticgeocaching.com/index.php?option=com_docman&amp;amp;task=cat_view&amp;amp;gid=78&amp;amp;Itemid=175&quot;&gt;ACGA or NS Parks&lt;/a&gt;..
+ </groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1572011">
+                    <groundspeak:date>2011-08-20T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
+                    <groundspeak:text encoded="False">TB Drop</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1572012">
+                    <groundspeak:date>2011-08-19T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
+                    <groundspeak:text encoded="False">WE were treated to a view of the ferry arriving while we were here.  TFTC - only one left to go!</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Provincial Park</ox:tag>
+                <ox:tag>Passport</ox:tag>
+            </ox:tags>
+            <ox:series id="10483">
+                <ox:name>2011 Nova Scotia Parks Challenge</ox:name>
+            </ox:series>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-62.90495" lat="45.7585167">
+        <time>2009-05-03T02:00:00.000-05:00</time>
+        <name>OX1QXVZ</name>
+        <desc>Toney River Revisted: Travelling Riverside by Wallace-River, Traditional Cache(1.5/2.0/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1QXVZ</url>
+        <urlname>Toney River Revisted: Travelling Riverside</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1636458">
+            <groundspeak:name>Toney River Revisted: Travelling Riverside</groundspeak:name>
+            <groundspeak:placed_by>Wallace-River</groundspeak:placed_by>
+            <groundspeak:owner id="5497">Wallace-River</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">The cache is a plastic bucket with an inner container for the
+logbook. Also inside are a stash note, pencil and swag. Please be
+respectful in this area.&lt;br/&gt;
+&lt;br/&gt;
+Another pretty river along the North Shore. I do not know how good
+the fishing is but it looks like a promising spot. Have fun&lt;br/&gt;
+&lt;p&gt;&lt;b&gt;&lt;br/&gt;
+Placed by a member of&lt;br/&gt;
+ The Atlantic Canada Geocaching Association&lt;/b&gt;&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Check out our
+website!&lt;/b&gt;&lt;/p&gt; 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>under branches.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-62.7808333" lat="45.7600333">
+        <time>2007-06-19T02:00:00.000-05:00</time>
+        <name>OX13RF3</name>
+        <desc>ACGA Official Geocache - NS - Pictou County by Wallace-River, Traditional Cache(2.0/3.0/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OX13RF3</url>
+        <urlname>ACGA Official Geocache - NS - Pictou County</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1036426">
+            <groundspeak:name>ACGA Official Geocache - NS - Pictou County</groundspeak:name>
+            <groundspeak:placed_by>Wallace-River</groundspeak:placed_by>
+            <groundspeak:owner id="5497">Wallace-River</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;b&gt;&lt;br/&gt;
+The cache is a plastic can covered in black tape. Inside you will
+find a log book, stash note, pencils and some swag.&lt;br/&gt;
+&lt;br/&gt;
+** Please note that the cache has been replaced and does not
+contain any ACGA items at this time ** At the time of placement the
+cache contained a compass, whistle, poncho, light stick, flagging
+tape, mosquito netting and some Nova Scotia souvenirs. Also inside
+are some ACGA patches and brochures. Please carefully replace and
+cover the cache as you found it. Thanks.&lt;br/&gt;
+&lt;br/&gt;
+The FTF prize is an unactivated ACGA NS Geocoin&lt;/b&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;b&gt;&lt;br/&gt;
+Placed by&lt;br/&gt;
+The Atlantic Canada Geocaching Association&lt;/b&gt;&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Check out our
+website!&lt;/b&gt;&lt;/p&gt;
+&lt;b&gt;&lt;br/&gt;
+Take some time to enjoy the park. PEI can be seen in the distance.
+You may even spot the Wood Islands - Caribou Ferry.&lt;br/&gt;
+&lt;br/&gt;
+Look for more official ACGA caches across Atlantic
+Canada.&lt;/b&gt;&lt;br/&gt;
+&lt;br/&gt;
+
+ACGA Official Geocache - NS - Graves Island 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>fallen tree
+
+
+
+</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Provincial Park</ox:tag>
+                <ox:tag>ACGA Official Geocache</ox:tag>
+                <ox:tag>Cemetery</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-62.8602167" lat="45.7710667">
+        <time>2007-06-17T02:00:00.000-05:00</time>
+        <name>OX13PV5</name>
+        <desc>Seaboard by Wallace-River, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX13PV5</url>
+        <urlname>Seaboard</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1034847">
+            <groundspeak:name>Seaboard</groundspeak:name>
+            <groundspeak:placed_by>Wallace-River</groundspeak:placed_by>
+            <groundspeak:owner id="5497">Wallace-River</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The cache is a large lock &amp; lock with log book, stash note,
+pencils and swag. Please take the time to replace the cache as you
+found it.
+&lt;p&gt;&lt;b&gt;&lt;br/&gt;
+Placed by a member of&lt;br/&gt;
+ The Atlantic Canada Geocaching Association&lt;/b&gt;&lt;/p&gt;
+&lt;br/&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Check out our
+website!&lt;/b&gt;&lt;/p&gt;
+Enjoy this tucked away spot! 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>tree cluster</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1172792">
+                    <groundspeak:date>2011-03-18T22:37:23.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="14787">anchor and hold</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

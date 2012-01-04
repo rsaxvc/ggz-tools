@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,23,90,24</url>
+    <time>2012-01-04T09:32:00.859-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="24.0" maxlat="90.0" minlon="23.0" minlat="-90.0"/>
+    <wpt lon="23.7858" lat="35.2433833">
+        <time>2010-08-01T02:00:00.000-05:00</time>
+        <name>OX2BC3V</name>
+        <desc>Lissos by Heidels05, Traditional Cache(2.0/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2BC3V</url>
+        <urlname>Lissos</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2186394">
+            <groundspeak:name>Lissos</groundspeak:name>
+            <groundspeak:placed_by>Heidels05</groundspeak:placed_by>
+            <groundspeak:owner id="981">Heidels05</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Lissos is an ancient city in south-west Crete, in Agios Kirikos
+area, near the small village of Sougia, 70 km south of
+Chania.&lt;br/&gt;
+Lissos and Syia were the harbours of the city of Elyros, the most
+important ancient city of the area, located near the village
+Rodovani. It was established in the Classical period and flourished
+until the Late Antiquity. Its name was made certain by
+inscriptions. The early history of the city is unknown. Based on
+inscriptions and coins of the 3rd century BC, we know the city
+allied with King of Carthage Maga, and joined the League of
+Oreians. The koinon (federation) of the Oreians consisted of the
+cities Lissos, Syia, Poikilassos, Tarra, Yrtakina and Elyros.
+Lissos had powerful trading and fishing navy.&lt;br/&gt;
+There were discovered ruins of a
+theatre, aqueduct, cemetery, baths of the ancient times and
+Palaiochristian basilicas. In the area there were also found many
+votive objects, which are now exhibited at the Archaeological
+Museums of Heraklion and Chania. In no other city of Crete, apart
+from Gortys, there were found so many pieces of sculpture. This
+fact testifies the prosperity and the power of the Asclepieion of
+Lissos. Lissos has its own coins with the images of Artemis and
+dolphin and the word LISION (of the Lisians). Lissos and Yrtakina
+were allies and they had trading intercourse with common currency.
+Their coins had dolphin or flying dove on the one side, and
+eight-ray star with the word L/I/S/I/O/N (of the Lisians) on the
+other.&lt;br/&gt;
+&lt;p&gt;In 1957–58
+the city was excavated by N. Platon.&lt;br/&gt;
+Beside the Asklepieion and the Roman necropolis there are also two
+Greek Orthodox churches: Agios Kyrikos has some nice frescoes and
+the chapel of Panagia is build with ancient marble
+blocks.&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;The small beach is
+a coarse pebble beach. Nobody lives in Lissos nowadays. You can
+reach it from Sougia by boat or by foot (1 hour walk) or from
+Paleochora in a (during hot summertime) strenuous 3 hour walk
+(which we did when placing the cache).&lt;/p&gt;
+&lt;p&gt;The cache container
+is hidden under some stones at the base of a smaller rock, just a
+few steps away from a large overhung red rock with sort of a cave.
+&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1172170">
+                    <groundspeak:date>2011-03-14T02:19:33.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="14447">OMILOS</groundspeak:finder>
+                    <groundspeak:text encoded="False">We found this in the winter, after a nice hike. TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Hike</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="23.9276167" lat="35.2881333">
+        <time>2010-12-07T09:59:02.000-06:00</time>
+        <name>OX1X1J7</name>
+        <desc>Volakias – 2.116 m by Heidels05, Traditional Cache(2.5/4.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1X1J7</url>
+        <urlname>Volakias – 2.116 m</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1759195">
+            <groundspeak:name>Volakias – 2.116 m</groundspeak:name>
+            <groundspeak:placed_by>Heidels05</groundspeak:placed_by>
+            <groundspeak:owner id="981">Heidels05</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>4.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br/&gt;&lt;h4&gt;The Mountain&lt;/h4&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Volakias with its 2.116 metres is the westernmost summit reaching&lt;br/&gt;2.000 m of the Lefka Ori Range, the White Mountains of Crete. Like&lt;br/&gt;its neighbour Gigilos (1.980 m) it towers high above Europe's&lt;br/&gt;longest canyon, the famous Samaria Gorge and thanks to the&lt;br/&gt;popularity of the canyon, millions of visitors have seen its east&lt;br/&gt;faces from the canyon floor. Though higher and larger than Gigilos,&lt;br/&gt;Volakias stands in the shadow of its lower neighbour. Gigilos with&lt;br/&gt;its dolomite east face dominates Xiloskalo, the northern entry&lt;br/&gt;point to the gorge so that few people even remember the broad&lt;br/&gt;top which peeps out behind the vertical Gigilos rock.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Moreover, Gigilos, perhaps after Crete's highest mountain,&lt;br/&gt;Psiloritis, is the island's most popular and most frequently&lt;br/&gt;climbed mountain. Tour groups climb the sharp edged ledges towards&lt;br/&gt;its summit but few head onwards to the neighbour, Volakias. They&lt;br/&gt;miss one of the best panoramas the island has to offer but they&lt;br/&gt;also miss a very difficult route to the summit and back. Difficult&lt;br/&gt;due to route finding problems.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h4&gt;The Ascent&lt;/h4&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The regular route to Volakias heads across the Gigilos western&lt;br/&gt;summit with its large stone pyramid, and while guidebooks claim&lt;br/&gt;it's just a short traverse to the saddle, which separates the two&lt;br/&gt;mountains, this traverse is all but easy. While Gigilos' eastern&lt;br/&gt;part is made up from solid dolomite, its western and southern parts&lt;br/&gt;are made up from the usual Cretan limestone, too brittle to place&lt;br/&gt;any protection. There is lots of scree on the steep slopes and&lt;br/&gt;rockfall is a serious problem when more than a small party&lt;br/&gt;descends the mountain. There are some cairns which indicate a route&lt;br/&gt;– but to tell the truth, these cairns might also be&lt;br/&gt;accidentally placed rocks. With a little experience the traverse&lt;br/&gt;doesn't get too difficult but it certainly is not a route for&lt;br/&gt;beginners.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;There is a second route to Volakias, traversing the Gigilos western&lt;br/&gt;slopes from saddle to saddle. However, this route at its beginning&lt;br/&gt;(near the saddle between Psilafi and Gigilos) traverses several&lt;br/&gt;dolines, collapsed caves which today form crater-like depressions&lt;br/&gt;in the slope. Crossing this labyrinth is far from easy and you&lt;br/&gt;might find yourself descending far too low to reach the saddle&lt;br/&gt;between Gigilos and Volakias. This route is used as a return-route&lt;br/&gt;from Volakias.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Volakias itself is made up from large limestone blocks and&lt;br/&gt;boulders. There is a decent path, which leads close to the summit&lt;br/&gt;but near the top you are left to yourself. Volakias has two&lt;br/&gt;summits, the northern (and higher one) carries a (fallen) summit&lt;br/&gt;pillar. The southern one can be reached by somewhat exposed rock&lt;br/&gt;hopping along the connecting ridge. (Text in parts courtesy of www.summitpost.org)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h4&gt;&lt;/h4&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h4&gt;The Cache&lt;/h4&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;You just have to reach Volakias' northern summit (the highest) and locate the&lt;br/&gt;fallen summit pillar. Look under its rock base and&lt;br/&gt;lift a couple of smaller stones. Please rehide carefully!</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>4.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag> Hike</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="23.9187833" lat="35.2961167">
+        <time>2010-12-07T09:32:32.000-06:00</time>
+        <name>OX1X0TJ</name>
+        <desc>Gigilos – 1.980 m by Heidels05, Traditional Cache(2.5/4.0/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1X0TJ</url>
+        <urlname>Gigilos – 1.980 m</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1758462">
+            <groundspeak:name>Gigilos – 1.980 m</groundspeak:name>
+            <groundspeak:placed_by>Heidels05</groundspeak:placed_by>
+            <groundspeak:owner id="981">Heidels05</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br/&gt;&lt;h4&gt;The summit of Gigilos (1.980 m) is probably the most popular
+mountain walk in West Crete&lt;/h4&gt;
+&lt;br/&gt;
+The reasons for this are clear:&lt;br/&gt;&lt;br/&gt;
+&lt;ul&gt;
+&lt;li&gt;This is the most accessible summit walk. You just get yourself
+to the entrance of the gorge of Samaria and the path upwards starts
+there.&lt;/li&gt;
+&lt;li&gt;The summit is probably the most impressive looking in
+Crete.&lt;/li&gt;
+&lt;li&gt;The views along the walk and from the summit are superb,
+embracing both the Aegean sea, the north coast of the island and
+the Libyan Sea to the south. You also get a good bird's eye view of
+the Samaria gorge and can see the summits of the central Lefka Ori
+(White Mountains) to the east.&lt;/li&gt;
+&lt;li&gt;The path has been substantially improved some years ago (at
+least two thirds of the way) and makes the walk much easier than it
+used to be.&lt;/li&gt;
+&lt;/ul&gt;&lt;br/&gt;
+So do not be surprised if you meet a few people and some groups on
+the way. This does not mean that it is crowded: On a busy day there
+might be 50 people walking there but no more.&lt;br/&gt;
+&lt;br/&gt;
+&lt;h4&gt;The walk can roughly be divided into three parts, the return is
+by the same route and the total walking time is approximately 5 to
+6 hours.&lt;/h4&gt;&lt;br/&gt;
+&lt;h4&gt;Part 1&lt;/h4&gt;&lt;br/&gt;
+The walk starts right next to the cafe located above the entrance
+of the Samaria gorge and you first climb steadily on a good path
+for about 30 minutes until the path levels off. Then the path is
+more or less flat or even going down for the next 30 minutes, first
+passing through ancient cypresses then a large arch and interesting
+formations until it climbs up a little bit again and you get to the
+spring of Linoseli. The spring water is superb and it is the only
+water on the way.&lt;br/&gt;&lt;br/&gt;
+&lt;h4&gt;Part 2&lt;/h4&gt;&lt;br/&gt;
+Now you enter a world of stones and rocks. This is a zigzag climb
+(still on a good path) to the saddle, at an altitude of 1.700 m. It
+will take you 30 to 45 minutes. When you arrive at the saddle, you
+are at the entrance of the imposing gorge of Tripiti and have great
+views of the Libyan Sea, the island of Gavdos as well as some views
+of the north coast. On some days it can be very windy from that
+point onward (the first two parts of the walk are well protected
+from the wind).&lt;br/&gt;&lt;br/&gt;
+&lt;h4&gt;Part 3&lt;/h4&gt;&lt;br/&gt;
+The route from there to the summit is steeper and it is not really
+a path but a marked route (red spots and some cairns). Many people
+choose not to go to the summit because the last part takes more
+walking experience than the walk to the saddle. Still it looks more
+difficult than it is. The very start is the steepest part and leads
+past a large hole. Avoid getting too near to it as this cave starts
+with a vertical shaft 150 meters deep and two people have already
+fallen in it. Keep following the red spots (sometimes there are
+several routes marked but don't worry, they all lead to the
+summit).&lt;br/&gt;
+Often, people walking up think that they are going to have great
+difficulties coming back down again, but the rock (which looks like
+granite but is limestone) is very solid and stable underfoot. You
+will have to use your hands in a few places though.&lt;br/&gt;
+The way to the summit takes approximately 45 to 60 minutes from the
+saddle. Once you arrive at the summit with its large stone pyramid
+you will notice that there is a second – even higher –
+summit with kind of a cross a little further on. That is the place
+where you want to go!&lt;br/&gt;
+&lt;br/&gt;
+To locate the cache, look from the
+summit to the southeast (towards 
+Volakias and you will spot a noticeable rock formation at a distance of about 10 metres. At its base you will find a lock'n'lock box hidden under some stones. Please rehide
+well!&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;h4&gt;Some words of
+warning&lt;/h4&gt;&lt;br/&gt;
+Gigilos is one of the first mountains to the west of the Lefka Ori
+(White Mountains) and weather changes can happen very suddenly (bad
+weather generally comes from the west). Whilst the walk to the
+saddle presents no problem in bad weather and poor visibility, high
+winds and fog from then on are extremely dangerous. In case of bad
+weather return immediately and as quickly as possible to the
+saddle. Do not attempt to walk to the summit if there is snow, even
+in good weather unless you are experienced and know the route well.
+The walk to the saddle in early spring can also be snowed in in
+parts and could be dangerous because there are some passages with
+steep drops where you cannot afford to slide down.&lt;br/&gt;
+&lt;br/&gt;
+On the walk down, people often get tired legs and knees (it is a
+long descent) and have to pay special attention not to stumble in
+the last part of the walk. Although the path is well marked it is
+stony. (Text in parts courtesy of www.sougia.info)</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="502049">
+                    <groundspeak:date>2010-07-04T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4739">ThePorterPack</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found it!  O boy was it a LONG day!  Wonderful views and easier trip back.  
+
+In:TB
+Out: Geocoin
+
+TFTC!</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag> Hike</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="23.93055" lat="35.3210667">
+        <time>2010-08-05T02:00:00.000-05:00</time>
+        <name>OX2D1X9</name>
+        <desc>Kallergi Refuge – 1.608 m by Heidels05, Traditional Cache(2.0/2.5/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2D1X9</url>
+        <urlname>Kallergi Refuge – 1.608 m</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2236163">
+            <groundspeak:name>Kallergi Refuge – 1.608 m</groundspeak:name>
+            <groundspeak:placed_by>Heidels05</groundspeak:placed_by>
+            <groundspeak:owner id="981">Heidels05</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The Kallergi mountain
+refuge is located in the western region of Crete, high above the
+plateau of Omalos in the White Mountains (Lefka Ori) mountain range
+at an altitude of 1608 meters. It is situated in an outstanding
+area of the longest gorge in Europe, named Samaria and crossing
+paths with the European E4 trails.
+
+&lt;p&gt;How to get there:
+There is a hiking path from Xiloskalo – the upper entrance of
+Samaria gorge and a dirt road (only recommended for 4WD vehicles).
+The hike up to Kallergi refuge
+will take about 90 minutes, so do not forget to take an appropriate
+amount of water with you.&lt;/p&gt;
+&lt;p&gt;The cache container
+is hidden under some stones at the foot of a mountain pine.&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Not far from the white landmark.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Hike</ox:tag>
+                <ox:tag>Scenic View</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="23.0020167" lat="40.5738167">
+        <time>2011-03-13T16:19:22.000-05:00</time>
+        <name>OX215CT</name>
+        <desc>Thessaloniki 2 Hill Cache by Lelekis Kokotos, Traditional Cache(2.5/3.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX215CT</url>
+        <urlname>Thessaloniki 2 Hill Cache</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1882035">
+            <groundspeak:name>Thessaloniki 2 Hill Cache</groundspeak:name>
+            <groundspeak:placed_by>Lelekis Kokotos</groundspeak:placed_by>
+            <groundspeak:owner id="14412">Lelekis Kokotos</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Pass the great hill that you will see at the end of the road.Go east of that hill, there is a field.From there you can see the second hill and in front of you a football teren.
+Searce for a red clay pipe.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="406303">
+                    <groundspeak:date>2009-11-27T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2117">paulohercules</groundspeak:finder>
+                    <groundspeak:text encoded="False"># 1740
+Greetings from Portugal.
+It’s the second time I signed this logbook now on a reactivated cache.
+The first times was on February 2008 and spend some time to find the cache with the old gps.
+Today it was very easy to find it because the new gps it is very accurate.
+The view still great even at night with the soccer fields illuminated.
+In: ikea Pencil (there was no writing device inside the cache)
+Out: Nil
+TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.5</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="23.1564" lat="47.17795">
+        <time>2011-02-23T02:00:00.000-06:00</time>
+        <name>OX2P7TJ</name>
+        <desc>Back in Time: Porolissum by ANYNEWT, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2P7TJ</url>
+        <urlname>Back in Time: Porolissum</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2509964">
+            <groundspeak:name>Back in Time: Porolissum</groundspeak:name>
+            <groundspeak:placed_by>ANYNEWT</groundspeak:placed_by>
+            <groundspeak:owner id="15891">ANYNEWT</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Cache in Porolissum 
+
+ Porolissum is a former Roman fort in Dacia which was part of the frontier of the Roman Empire.  You can look up all the historical details or read the signs when you visit but this site it well worth the visit if you are in the area.  I am told there is a large festival in the summer but alas when I visited and placed the cache it looked more like Siberia.
+
+The cache is NOT in the wall or any structure so do not disturb the archeology.
+
+Congratulations!  Bravo! 
+
+April 22 by hcalin (2 found)
+FTF @ 18:00 local time on God's Friday</groundspeak:long_description>
+            <groundspeak:encoded_hints>In stones to the left of the porta decumana as you walk towards the amphitheater.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="23.1668167" lat="53.1323667">
+        <time>2011-08-24T08:50:24.000-05:00</time>
+        <name>OXZTQY6</name>
+        <desc>TOM-IV Pałacyk Gościnny by Bombadil, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTQY6</url>
+        <urlname>TOM-IV Pałacyk Gościnny</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28473413">
+            <groundspeak:name>TOM-IV Pałacyk Gościnny</groundspeak:name>
+            <groundspeak:placed_by>Bombadil</groundspeak:placed_by>
+            <groundspeak:owner id="48821">Bombadil</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Pałacyk gościnny Branickich - pałac zbudowany w połowie XVIII wieku (ok. roku 1771) w stylu barokowym, prawdopodobnie według projektu Jana Zygmunta Deybela. Znajduje się przy ul. Kilińskiego 5 w centrum miasta.</groundspeak:long_description>
+            <groundspeak:encoded_hints>magnetyk</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>1.6</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>pałacyk</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="23.3384167" lat="53.1582833">
+        <time>2011-06-26T15:07:48.000-05:00</time>
+        <name>OXZTTCH</name>
+        <desc>Krzyżówka by hulaszczytrybzycia, Traditional Cache(1.6/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTTCH</url>
+        <urlname>Krzyżówka</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474819">
+            <groundspeak:name>Krzyżówka</groundspeak:name>
+            <groundspeak:placed_by>hulaszczytrybzycia</groundspeak:placed_by>
+            <groundspeak:owner id="40445">hulaszczytrybzycia</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Niewielka fioletowa skrzyneczka, szukaj pajęczej nici...</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>near road</ox:tag>
+                <ox:tag>forest</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="23.9806333" lat="56.9251667">
+        <time>2011-07-22T15:51:01.000-05:00</time>
+        <name>OXZTRTC</name>
+        <desc>Riga Aviation museum by neviens, Virtual Cache(1.1/1.5/3.2)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTRTC</url>
+        <urlname>Riga Aviation museum</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Virtual Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474256">
+            <groundspeak:name>Riga Aviation museum</groundspeak:name>
+            <groundspeak:placed_by>neviens</groundspeak:placed_by>
+            <groundspeak:owner id="15436">neviens</groundspeak:owner>
+            <groundspeak:type>Virtual Cache</groundspeak:type>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The Riga Aviation Museum developed over the past 40 years. It became a private museum in 1997 without any support from the Latvian state. This aviation museum is unique in the Baltic countries and one of the largest in Europe. Its collection of Soviet aircraft is also the greatest in in outside of Commonwealth of Independent States (CIS). &lt;br/&gt;&lt;br/&gt;
+
+The museum is near the Riga International Airport. The working hours are from 9 am to 6 pm, saturday and sunday by previous request.&lt;br/&gt;&lt;br/&gt;
+
+&lt;h4&gt;The history of the museum&lt;/h4&gt;
+... began in 1956, when Mr. Tsander established the Young Pilots’ Club (YPC). The organizational work was done by a young aviation engineer, Victor Talpa, who worked for the Latvian Civil Aviation administration. &lt;br/&gt;&lt;br/&gt;
+
+The Young Pilots’ Club was meant to provide professional training and thus was sponsored by the Latvian Civil Aviation administration. Starting at age 14, students studied aviation theory and the airport’s service working procedures, worked in the airport, and underwent physical and rudimentary military training including parachuting. The young pilots were trained on the An-2, Tu-134, and Tu-154. The graduates received a certification and according to the decree of the Ministry of Aviation of the USSR no.550 of 5.09.1969 and obtained the qualification of “2nd grade technician of the An-2”. &lt;br/&gt;&lt;br/&gt;
+
+But YPC needed its own teaching aids, including airplanes; heretofore it had depended for everything on the Civil Aviation administration. The Defence Ministry granted the Club a used Mig-21US that was rebuilt by the students. This is how the club’s collection of equipment began. Later, thanks to good contacts within the military, the quantity of aircraft has considerably grown. It includes some rare models of military airplanes and helicopters. Two more YPC schools were started in the Latvian cities of Liepaja and Ventspils. &lt;br/&gt;&lt;br/&gt;
+
+By 1991 the club had a solid foundation of educational material and technical equipment. Training and certification of junior airmen continued. When applying to the institutes of higher education or technical colleges, the YPC graduates had an advantage over other applicants; this was partly due to the selectivity of the YPC in accepting 14-year-old students and partly to the excellent preparation they received from the club. &lt;br/&gt;&lt;br/&gt;
+
+After the break-up of the Soviet Union, financing ceased. There was also a problem of equipment storage. The Riga Airport administration decided to help and provided space. From 1998 to 1999 the club’s equipment was moved to its new spaces.&lt;br/&gt;&lt;br/&gt;
+
+&lt;h4&gt;Code Phrase&lt;/h4&gt;
+There is an exhibition: Mil Mi - 6, long time largest helicopter ever built, now fourth largest. Your mission is to get number from Mi-6's tail. It contains 9 characters without spaces. </groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1430178">
+                    <groundspeak:date>2011-05-13T16:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="53678">thearmi</groundspeak:finder>
+                    <groundspeak:text encoded="False">Thanks, had a nice visit, liked it a lot.Didn't get the code phrase... found it when searching a geocaching.com trad. hide.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.2</ox:awesomeness>
+                <ox:difficulty>1.1</ox:difficulty>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Riga</ox:tag>
+                <ox:tag>Museum</ox:tag>
+                <ox:tag>USSR</ox:tag>
+                <ox:tag>aircraft</ox:tag>
+                <ox:tag>Helicopters</ox:tag>
+                <ox:tag>Soviet</ox:tag>
+                <ox:tag>Airport</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:phrase>a410893083377d9b7dfefe2d244fd5c142c38cf948fadb3f9e03adbda55aa1ef</ox:phrase>
+            </ox:verification>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="23.1711" lat="56.95895">
+        <time>2011-07-19T05:20:14.000-05:00</time>
+        <name>OX2TVNQ</name>
+        <desc>Monument for the Freedom-Fighters of Tukums by neviens, Multi-cache(1.5/1.7/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2TVNQ</url>
+        <urlname>Monument for the Freedom-Fighters of Tukums</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="2617477">
+            <groundspeak:name>Monument for the Freedom-Fighters of Tukums</groundspeak:name>
+            <groundspeak:placed_by>neviens</groundspeak:placed_by>
+            <groundspeak:owner id="15436">neviens</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">[LAT] Piemineklis Tukuma atbrivotajiem atrodas Malkalna virsotne. Pieminekla autore ir telniece A. Dumpe. Lai ari piemineklis atklats padomju laika - 1975. gada, kad svineta 30. gadadiena, kopš Otra pasaules kara beigam, piemineklis jau tad veidots ka pieminas zime latviešu tautas tragedijai, proti, piemineklis veidots ka ozols, kura vidu atrodas mate, bet vinai abas puses – pretejas frontes puses karojoši deli.
+
+UZDEVUMS: Azimuts 60 gradi, 63m
+_____________________________________________________________
+
+[ENG] Monument for the Freedom-Fighters of Tukums is located on the top of the Clay Hill. The author of the monument is sculptor - A.Dumpe. The monument has been made in a form of an oak-tree, in the centre whereof is the Mother, and on both sides - sons fighting for opposite fronts.
+
+PUZZLE: Azimuth 60 degrees - 63m</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.3</ox:size>
+                <ox:terrain>1.7</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Monument</ox:tag>
+                <ox:tag>Scenic Overlook</ox:tag>
+                <ox:tag>Park</ox:tag>
+                <ox:tag>WW2</ox:tag>
+                <ox:tag>Freedom fighters</ox:tag>
+                <ox:tag>TICKS</ox:tag>
+                <ox:tag>Tukums</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="23.12735" lat="60.2468667">
+        <time>2011-09-28T05:07:04.000-05:00</time>
+        <name>OXZTQD1</name>
+        <desc>Mäyränkolo by geo-orkki, Traditional Cache(2.0/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTQD1</url>
+        <urlname>Mäyränkolo</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28472912">
+            <groundspeak:name>Mäyränkolo</groundspeak:name>
+            <groundspeak:placed_by>geo-orkki</groundspeak:placed_by>
+            <groundspeak:owner id="61099">geo-orkki</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Kun tunget kätesi Mäyränkoloon, tarkasta ensin ettei mäyrä ole kotona.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Kolossa...</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Saurun koululaisten kätkö</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="23.12325" lat="60.2487833">
+        <time>2011-09-28T05:12:21.000-05:00</time>
+        <name>OX3502M</name>
+        <desc>Saurun Salaisuus by geo-orkki, Traditional Cache(2.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3502M</url>
+        <urlname>Saurun Salaisuus</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2919600">
+            <groundspeak:name>Saurun Salaisuus</groundspeak:name>
+            <groundspeak:placed_by>geo-orkki</groundspeak:placed_by>
+            <groundspeak:owner id="61099">geo-orkki</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Saurun koululaisten kätkö II. </groundspeak:long_description>
+            <groundspeak:encoded_hints>Älä juurikaan poistu polulta.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="23.7796333" lat="61.4612167">
+        <time>2011-08-19T15:52:50.000-05:00</time>
+        <name>OX1EQTC</name>
+        <desc>Mustamakkaraspagetti by gifa, Traditional Cache(1.5/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1EQTC</url>
+        <urlname>Mustamakkaraspagetti</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1363485">
+            <groundspeak:name>Mustamakkaraspagetti</groundspeak:name>
+            <groundspeak:placed_by>gifa</groundspeak:placed_by>
+            <groundspeak:owner id="53919">gifa</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is an easy cache next to the four level highway bridge called sometimes as &quot;black-sausage-spagetti&quot; or Lakalaiva junction.
+
+This cache is already on geocaching site. Link: http://coord.info/GC1EQTC   
+
+Note! Logbook is same for all geocachers. Please tag your name with OC or something, so we may distinguish cachers between opencachers and geocachers, thanks.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1445214">
+                    <groundspeak:date>2010-09-17T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2920">Geopulut</groundspeak:finder>
+                    <groundspeak:text encoded="False">Geopulut (puluisä) matkalla Karkkuun, 6/48. En tiedä mistä minulle oli tullut sellainen etukäteisasenne (ehkä nimestä?), mutta odotin jotain puoliksi tiskattua flora-astiaa. Ja mitä löytyi? Upea kätkö upeassa paikassa! Sieltä tuli bongattua Flora ja Fauna koodinkantaja. TFTC! :) 
+
+This entry was edited by Geopulut on Monday, 20 September 2010 at 06:36:23.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1455747">
+                    <groundspeak:date>2009-12-28T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2326">Tltl</groundspeak:finder>
+                    <groundspeak:text encoded="False">Purkki löytyi aika nopeasti. TB in, TB out, GC out.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1506036">
+                    <groundspeak:date>2009-12-03T16:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="19338">JLillia</groundspeak:finder>
+                    <groundspeak:text encoded="False">Gepsi hieman pyöritti mutta löytyihän se. GC in, TB out. KK!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1688706">
+                    <groundspeak:date>2008-07-07T16:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3075">sakura_</groundspeak:finder>
+                    <groundspeak:text encoded="False">Took a while to find. And another while to figure out that which way can I get the container out.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.5</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Child friendly</ox:tag>
+                <ox:tag>Quick and easy</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="23.8035167" lat="61.4788333">
+        <time>2011-11-13T10:46:24.000-06:00</time>
+        <name>OX378X6</name>
+        <desc>Prunni by DustPixy, Traditional Cache(1.6/1.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX378X6</url>
+        <urlname>Prunni</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2987662">
+            <groundspeak:name>Prunni</groundspeak:name>
+            <groundspeak:placed_by>DustPixy</groundspeak:placed_by>
+            <groundspeak:owner id="71458">DustPixy</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Hieman erilainen kätkö Prunnin alueella.
+
+Tämä kätkö esittelee Prunnin pienen kosteikkoalueen, jonka keskellä on pieni, umpeenkasvanut lampi. Laitathan kätkön paikalleen, juuri niin kuin se olikin.
+</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>2.2</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Bicycles allowed</ox:tag>
+                <ox:tag>Not Available during winter</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="23.7815667" lat="61.48035">
+        <time>2011-11-13T10:50:25.000-06:00</time>
+        <name>OX35Y7C</name>
+        <desc>Otra by DustPixy, Traditional Cache(2.2/1.0/2.9)</desc>
+        <url>http://www.opencaching.com/#geocache/OX35Y7C</url>
+        <urlname>Otra</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2947616">
+            <groundspeak:name>Otra</groundspeak:name>
+            <groundspeak:placed_by>DustPixy</groundspeak:placed_by>
+            <groundspeak:owner id="71458">DustPixy</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Nanokätkö Rauta-Otralla
+
+Muista ottaa TERÄVÄ kynä mukaan, sillä kätkössä ei ole kynää. Onnea etsintään!</groundspeak:long_description>
+            <groundspeak:encoded_hints>Kauppaneuvoksen näköala</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1688707">
+                    <groundspeak:date>2011-10-22T16:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3075">sakura_</groundspeak:finder>
+                    <groundspeak:text encoded="False">A bicycle ride here. I spotted one person searching this. We searched it together for a while, but as the cache had been disabled that day we almost gave up. But then I spotted the cache!</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>2.2</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Available during winter</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Stealth required</ox:tag>
+                <ox:tag>Wheelchair accessible</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+</gpx>

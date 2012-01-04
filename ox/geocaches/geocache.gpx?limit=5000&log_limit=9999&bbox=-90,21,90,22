@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,21,90,22</url>
+    <time>2012-01-04T09:31:58.637-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="22.0" maxlat="90.0" minlon="21.0" minlat="-90.0"/>
+    <wpt lon="21.6094" lat="39.4602333">
+        <time>2011-09-05T08:44:59.000-05:00</time>
+        <name>OX32YBA</name>
+        <desc>St. Vissarionas Bridge by gnoul, Multi-cache(3.0/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX32YBA</url>
+        <urlname>St. Vissarionas Bridge</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="2858365">
+            <groundspeak:name>St. Vissarionas Bridge</groundspeak:name>
+            <groundspeak:placed_by>gnoul</groundspeak:placed_by>
+            <groundspeak:owner id="10354">gnoul</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">The given cords lead you near the yard entrance of the historical church Porta Panagia. 
+Count the ancient columns .... this is the number X.
+
+The number Y = X*X
+
+
+Next go to
+
+N 39 27.5Y8
+
+E 021 36.0X8
+
+You will be in the parking area of the bridge of St. Vissarionas.
+
+Read at the sign the length of the bridge .
+
+The number is 65,6Zm.
+
+The cache is situated in:
+
+N 39 27.6Y2
+
+S 021 36.12Z</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.1</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.4135667" lat="39.5384667">
+        <time>2011-08-24T03:01:40.000-05:00</time>
+        <name>OX32QRP</name>
+        <desc>Agia Paraskevi by gnoul, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX32QRP</url>
+        <urlname>Agia Paraskevi</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2853014">
+            <groundspeak:name>Agia Paraskevi</groundspeak:name>
+            <groundspeak:placed_by>gnoul</groundspeak:placed_by>
+            <groundspeak:owner id="10354">gnoul</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">It was once a monastery and today is a church well renovated.
+It lies in a place which has a wonderful view!</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.5099833" lat="39.5514667">
+        <time>2011-08-24T02:59:05.000-05:00</time>
+        <name>OX32QQ3</name>
+        <desc>Pertouli's fields by gnoul, Traditional Cache(1.8/1.8/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX32QQ3</url>
+        <urlname>Pertouli's fields</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2852964">
+            <groundspeak:name>Pertouli's fields</groundspeak:name>
+            <groundspeak:placed_by>gnoul</groundspeak:placed_by>
+            <groundspeak:owner id="10354">gnoul</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">One of the most beautiful landscapes in Greece!
+The cache lies near the ski center and near a small church Agios Pavlos!</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.8</ox:difficulty>
+                <ox:size>2.8</ox:size>
+                <ox:terrain>1.8</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.7689833" lat="39.5550833">
+        <time>2011-08-24T02:46:43.000-05:00</time>
+        <name>OX32BR5</name>
+        <desc>Litheos River by gnoul, Traditional Cache(3.0/1.9/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX32BR5</url>
+        <urlname>Litheos River</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2841465">
+            <groundspeak:name>Litheos River</groundspeak:name>
+            <groundspeak:placed_by>gnoul</groundspeak:placed_by>
+            <groundspeak:owner id="10354">gnoul</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Litheos river is one of the attractions of Trikala, and cross over all the town!
+Banks are linked by bridges, half of which is for pedestrians.
+The central bridge which is a metal arch, built in France in 1886 by French engineers (rebuilt in 1996) and joins the route of Asclepius (shopping street) with the central square!
+The cache is a film canister in the base of a small pedestrian bridge near the central bridge!
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>In a hall covered with a little stone!</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>2.1</ox:size>
+                <ox:terrain>1.9</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.7630167" lat="39.5584667">
+        <time>2011-04-29T14:49:51.000-05:00</time>
+        <name>OXZTWDH</name>
+        <desc>Trikala Fortress by gnoul, Traditional Cache(3.0/1.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTWDH</url>
+        <urlname>Trikala Fortress</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28476772">
+            <groundspeak:name>Trikala Fortress</groundspeak:name>
+            <groundspeak:placed_by>gnoul</groundspeak:placed_by>
+            <groundspeak:owner id="10354">gnoul</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">In the northern side of the town of Trikala dominates the imposing Fortress with its Tower and its Clock. The roots are immersed in the Classic and Hellenistic times.
+The Castle hosts the open-air theatre where every summer visitors can enjoy a variety of theatrical performances. You may also visit the Clock Tower and admire from above the entire city and much of the Thessaly plain.
+
+9:00 - 15:00</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>1.8</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.7638" lat="39.5622667">
+        <time>2011-05-01T04:33:36.000-05:00</time>
+        <name>OXZTWC8</name>
+        <desc>Prophet Elias hill by gnoul, Traditional Cache(2.0/1.9/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTWC8</url>
+        <urlname>Prophet Elias hill</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28476732">
+            <groundspeak:name>Prophet Elias hill</groundspeak:name>
+            <groundspeak:placed_by>gnoul</groundspeak:placed_by>
+            <groundspeak:owner id="10354">gnoul</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">In the northern side of the town of Trikala is the pine-clad hill of Prophet Elias, with the church of Prophet Elias on it since 1896.. The view from the hill is amazing and behind the hill is the zoo of town!</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1287904">
+                    <groundspeak:date>2011-06-13T13:00:51.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="34258">simag</groundspeak:finder>
+                    <groundspeak:text encoded="False">My first GC. Easy to find. Thanks!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1265393">
+                    <groundspeak:date>2011-05-29T16:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="14449">TETRAS61</groundspeak:finder>
+                    <groundspeak:text encoded="False">.i found it.
+thanks</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.9</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.5778167" lat="39.6537">
+        <time>2011-04-29T16:18:12.000-05:00</time>
+        <name>OXZTWDG</name>
+        <desc>Monastery of Vytouma by gnoul, Traditional Cache(3.0/2.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTWDG</url>
+        <urlname>Monastery of Vytouma</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28476771">
+            <groundspeak:name>Monastery of Vytouma</groundspeak:name>
+            <groundspeak:placed_by>gnoul</groundspeak:placed_by>
+            <groundspeak:owner id="10354">gnoul</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The Monastery of the Vytouma is located northwest of Trikala, in the province of KalambakaI It was founded in 1161! From this monastery survives today only a Catholic chapel, around which has grown in recent years a single new building.
+The paintings and the remarkable art of wood carved were made in 1600. Painted icons of the monastery are works of the famous painter Drossinou from Karditsa.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1265391">
+                    <groundspeak:date>2011-05-29T16:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="14449">TETRAS61</groundspeak:finder>
+                    <groundspeak:text encoded="False">i found it.very nice place..Thanks
+FTF</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.1</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.6935333" lat="39.6649333">
+        <time>2011-05-01T04:36:24.000-05:00</time>
+        <name>OXZTWC7</name>
+        <desc>Monastery of Agioi Theodoroi by gnoul, Traditional Cache(2.0/2.1/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTWC7</url>
+        <urlname>Monastery of Agioi Theodoroi</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28476731">
+            <groundspeak:name>Monastery of Agioi Theodoroi</groundspeak:name>
+            <groundspeak:placed_by>gnoul</groundspeak:placed_by>
+            <groundspeak:owner id="10354">gnoul</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">The monastery was formerly a part of St. Stephen's Meteora.
+A major renovation was made in 1718. In 1891  a collapse of part of the monastery has occurred.
+The monastery was burned during the period of German occupation.
+In recent years the monastery was renovated and has been fully restored.
+At the same time a new church was built.
+</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1265392">
+                    <groundspeak:date>2011-05-29T16:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="14449">TETRAS61</groundspeak:finder>
+                    <groundspeak:text encoded="False">..i found it.thanks</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.1</ox:size>
+                <ox:terrain>2.1</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.6335167" lat="39.6683667">
+        <time>2011-08-24T02:51:28.000-05:00</time>
+        <name>OX32QV4</name>
+        <desc>Sarakina bridge by gnoul, Traditional Cache(1.5/1.4/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX32QV4</url>
+        <urlname>Sarakina bridge</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2853058">
+            <groundspeak:name>Sarakina bridge</groundspeak:name>
+            <groundspeak:placed_by>gnoul</groundspeak:placed_by>
+            <groundspeak:owner id="10354">gnoul</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Sarakina bridge south of Kalambaka over Pinios River was built in the 16 c. The original bridge was built with 6 arches of which only 4 exist today. Today bridge is not on operation! It lies next to a beautiful meteora style rock!</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>1.4</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.49855" lat="39.6846167">
+        <time>2011-08-24T02:55:21.000-05:00</time>
+        <name>OX32QVN</name>
+        <desc>Monastery of Chrysino by gnoul, Traditional Cache(1.7/1.8/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX32QVN</url>
+        <urlname>Monastery of Chrysino</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2853075">
+            <groundspeak:name>Monastery of Chrysino</groundspeak:name>
+            <groundspeak:placed_by>gnoul</groundspeak:placed_by>
+            <groundspeak:owner id="10354">gnoul</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">The monastery was built in 13 c!
+Recently renovated and it lies in a place of amazing view!
+You can visit the monastery 10:00 - 12:00 and 15:00-17:00!
+
+The cache is a little taper placed near the monastery!
+</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.7</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>1.8</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.5984667" lat="39.69125">
+        <time>2011-04-26T16:21:21.000-05:00</time>
+        <name>OXZTWF4</name>
+        <desc>WaterMill by gnoul, Traditional Cache(1.6/1.7/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTWF4</url>
+        <urlname>WaterMill</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28476821">
+            <groundspeak:name>WaterMill</groundspeak:name>
+            <groundspeak:placed_by>gnoul</groundspeak:placed_by>
+            <groundspeak:owner id="10354">gnoul</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">My first cache behind an old watermill with wonderful view of Meteora Rocks!</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1265388">
+                    <groundspeak:date>2011-05-31T02:08:59.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="14449">TETRAS61</groundspeak:finder>
+                    <groundspeak:text encoded="False">i found this yesterday.
+thanks</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>3.6</ox:size>
+                <ox:terrain>1.7</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.4766667" lat="48.6742833">
+        <time>2005-10-20T03:00:00.000-05:00</time>
+        <name>OXGETA</name>
+        <desc>Regeta by bikerkiri, Traditional Cache(2.3/3.2/3.2)</desc>
+        <url>http://www.opencaching.com/#geocache/OXGETA</url>
+        <urlname>Regeta</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="490895">
+            <groundspeak:name>Regeta</groundspeak:name>
+            <groundspeak:placed_by>bikerkiri</groundspeak:placed_by>
+            <groundspeak:owner id="558">bikerkiri</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;b&gt;SK:&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Pred&lt;/b&gt; navstevou tejto kesky sa zabezpec, aby si mal pri keske
+co na pitie, najlepsie cistu vodu, aspon &lt;b&gt;2 litre&lt;/b&gt;. Na to
+nezabudni. &lt;br/&gt;
+&lt;br/&gt;
+Keska na teba caka pri krasnom starom strome, ktory ma okolo
+&lt;b&gt;400&lt;/b&gt; rokov. V okoli nieje sam, ma tam aj rovnako starych
+kamaratov. Ale iba on strazi kesku. &lt;br/&gt;
+&lt;br/&gt;
+Ked prides na suradnice, budes stat rovno pod jeho mohutnymi
+konarmi. Keska je &lt;b&gt;priamo pred tebou&lt;/b&gt;, akurat za stromom. Je
+pod velkym kamenom, v malom lesiku pri strome. Kamen opatrne odkry
+a mozes vybrat kesku. Ale postup na vybratie kesky opakuj iba
+&lt;b&gt;raz&lt;/b&gt;, druhy krat uz &lt;b&gt;nie&lt;/b&gt;, nedopadlo by to dobre. &lt;br/&gt;
+&lt;br/&gt;
+Neodporucam navstevu v &lt;b&gt;zime&lt;/b&gt;, a ak
+aj hej, treba po sebe odstranit vsetko co by keske mohlo uskodit.
+Prosim, nevkladajte do kesky ziadne veci, nie je na to
+prisposobena. Dakujem. Dakujem. 
+&lt;p&gt;
+-----$$$$$-----$$$$$-----$$$$$-----$$$$$-----$$$$$-----$$$$$-----&lt;/p&gt;
+&lt;b&gt;EN:&lt;/b&gt; &lt;br/&gt;
+&lt;br/&gt;
+You need &lt;b&gt;2 litres&lt;/b&gt; of water to sucesfully find this cache
+:-). &lt;br/&gt;
+ 
+&lt;p&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Klikni a ohodnot tuto kesku&lt;/b&gt;&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1392244">
+                    <groundspeak:date>2011-08-02T09:06:58.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="49765">makronomik</groundspeak:finder>
+                    <groundspeak:text encoded="False">uiuuuuu</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.2</ox:awesomeness>
+                <ox:difficulty>2.3</ox:difficulty>
+                <ox:size>2.3</ox:size>
+                <ox:terrain>3.2</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.0266833" lat="48.7459667">
+        <time>2005-07-30T02:00:00.000-05:00</time>
+        <name>OXPYCE</name>
+        <desc>Aloha by bikerkiri, Multi-cache(2.0/4.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXPYCE</url>
+        <urlname>Aloha</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="683657">
+            <groundspeak:name>Aloha</groundspeak:name>
+            <groundspeak:placed_by>bikerkiri</groundspeak:placed_by>
+            <groundspeak:owner id="558">bikerkiri</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">Tato keska patri do serie
+&lt;b&gt;Volovskych
+hrebenoviek&lt;/b&gt;. Rozsiahle, vyse 1 300 metrov vysky
+dosahujuce pohorie sa tiahne od Kosic na vychode az po Dobsinú na
+zapade. Hlavny hreben pohoria patri ku najdlhsim vychodoslovenskym
+hrebenovkam a jeho prechod patri ku nezabudnutelnym zazitkom aj
+vdaka vyhladom, ktore ponukaju viacere miesta na tejto trase.
+&lt;br/&gt;
+&lt;br/&gt;
+ &lt;b&gt;SK:&lt;/b&gt; Na tychto suradniciach najdes parkovisko, kde mozes
+zaparkovat. Na tychto suradniciach je aj odbocka do lesa, asi
+jedina najschodnejsia cesta ku &lt;b&gt;STAGE1&lt;/b&gt;. &lt;br/&gt;
+&lt;br/&gt;
+ &lt;b&gt;STAGE1&lt;/b&gt; ma suradnice: &lt;b&gt;N48° 45.524 E021° 02.404&lt;/b&gt; &lt;br/&gt;
+Na tychto suradniciach najdes pri cesticke polovyschnuty strom,
+ktory ti prezradi &lt;b&gt;N&lt;/b&gt; suradnicu &lt;b&gt;FINAL
+STAGE&lt;/b&gt;. Prezri si ten strom, zapis si suradnicu a mozes
+pokracovat dalej. Avsak tu mas poslednu sancu nabrat si
+vodu zo studnicky, dalej uz ziadna
+nebude. &lt;br/&gt;
+ &lt;br/&gt;
+ &lt;b&gt;STAGE2&lt;/b&gt; ma suradnice: &lt;b&gt;N48° 46.573 E020° 58.949&lt;/b&gt; &lt;br/&gt;
+Na tychto suradniciach najdes skalny komplex a par stromov
+rastucich zo skaly. Najvyssie rastuci suchy strom ti prezradi
+&lt;b&gt;E&lt;/b&gt; suradnicu &lt;b&gt;FINAL STAGE.&lt;/b&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+ &lt;b&gt;FINAL STAGE:&lt;/b&gt; &lt;br/&gt;
+Poprosim dobre naspat zamaskovat. &lt;br/&gt;
+&lt;br/&gt;
+ Casovo je to trosku narocnejsia vyprava, takze odporucam pocitat
+minimalne so &lt;b&gt;styrmi&lt;/b&gt; hodinami. &lt;br/&gt;
+&lt;br/&gt;
+ &lt;b&gt;!!!!POZOR!!!! NECHODTE NA FINAL STAGE V
+PRIPADE ZLEHO POCASIA, TEDA BURKA, ALEBO TESNE PRED/PO BURKE. V
+TAKOM PRIPADE JE TO ZIVOTU NEBEZPECNE!!!!&lt;/b&gt; &lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;p&gt;
+-----$$$$$-----$$$$$-----$$$$$-----$$$$$-----$$$$$-----$$$$$-----&lt;/p&gt;
+&lt;b&gt;EN:&lt;/b&gt;You will find a parking place and start point at the
+above mentioned coordinates. There is also a path into the forest
+that I think is the most convenient trail to &lt;b&gt;STAGE1&lt;/b&gt;. &lt;br/&gt;
+&lt;br/&gt;
+ &lt;b&gt;STAGE1&lt;/b&gt; coordinates: &lt;b&gt;N48° 45.524 E021° 02.404&lt;/b&gt; &lt;br/&gt;
+Search for old dried-up tree. Look for &lt;b&gt;N&lt;/b&gt; coordinates of the
+&lt;b&gt;FINAL STAGE&lt;/b&gt; on the tree. In this
+place is spring of drink water (Last
+water on the trail!). &lt;br/&gt;
+&lt;br/&gt;
+ &lt;b&gt;STAGE2&lt;/b&gt; coordinates: &lt;b&gt;N48° 46.573 E020° 58.949&lt;/b&gt; &lt;br/&gt;
+ Here look for small rock complex and a few trees, growing from
+this rock. The highest dried-up tree here will reveal the &lt;b&gt;E&lt;/b&gt;
+coordinates of the &lt;b&gt;FINAL STAGE&lt;/b&gt; to
+you. &lt;br/&gt;
+&lt;br/&gt;
+ &lt;b&gt;FINAL STAGE:&lt;/b&gt; &lt;br/&gt;
+If you have &lt;b&gt;NORTH&lt;/b&gt; and &lt;b&gt;EAST&lt;/b&gt; coordinates of the
+&lt;b&gt;FINAL STAGE&lt;/b&gt;, go to these
+coordinates. &lt;br/&gt;
+&lt;br/&gt;
+ Please consider at least &lt;b&gt;four&lt;/b&gt; hours for this trip. &lt;br/&gt;
+&lt;br/&gt;
+ &lt;b&gt;!!!WARNING!!! DON'T GO TO THE FINAL STAGE
+DURING BAD WEATHER (e.g. STORM), AND BEFORE OR AFTER STORM TOO!!!
+IT IS HIGHLY DANGEROUS PLACE AT THESE CONDITIONS&lt;/b&gt;. &lt;br/&gt;
+&lt;br/&gt;
+ 
+
+
+&lt;b&gt;Pre skratenie trasy (na cca 30minut) pohni rozumom a najdi hint,
+vyriesenim tohto hlavolamu (nehladaj v nom suradnice):
+Geocache
+ALOHA&lt;/b&gt; &lt;br/&gt;
+&lt;br/&gt;
+Pomocky na riesenie:&lt;br/&gt;
+-pozri sa na zdrojovy kod stranky hlavolamu, dost to pomoze&lt;br/&gt;
+-poriadne si precitajte hinty, co su pod obrazkom&lt;br/&gt;
+-maj naplno otvorene oci :), vsetko potrebne na riesenie je pred
+tebou&lt;br/&gt;
+ 
+
+
+&lt;p&gt;&lt;br/&gt;
+&lt;br/&gt;
+&lt;b&gt;Klikni a ohodnot tuto kesku&lt;/b&gt;&lt;/p&gt; 
+ 
+ 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1299450">
+                    <groundspeak:date>2011-02-10T17:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="5436">BALVANKO</groundspeak:finder>
+                    <groundspeak:text encoded="False">Pridal som sa, ked uz sme ju smeli aj pocas jej zimneho spanku odlovit.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.4868833" lat="48.7873833">
+        <time>2009-04-15T02:00:00.000-05:00</time>
+        <name>OX1Q2RF</name>
+        <desc>Kamenica by tomcosk, Traditional Cache(2.0/1.5/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1Q2RF</url>
+        <urlname>Kamenica</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1611395">
+            <groundspeak:name>Kamenica</groundspeak:name>
+            <groundspeak:placed_by>tomcosk</groundspeak:placed_by>
+            <groundspeak:owner id="550">tomcosk</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Skrysa je na zadanych suradniciach zamaskovana kamenmi skoro ako mohyla :-).
+
+Cache vás zavedie na tiché miesto, k vodnej nádrži Vyšná Kamenica. Táto vodná nádrž patrí k obci rovnomenného názvu.
+
+Vyšná Kamenica
+Poloha: 352 metrov n.m., na styku Košickej kotliny zo Slanským pohorím, 25 km na JZ od Secoviec. Kostol sa nachádza približne v strede dnešnej obce.
+
+Patrocínium: kostol reformovaný evanjelický
+
+Datovanie: Pôvodne gotický kostol pravdepodobne z 1. polovice 14. storocia bol v 16. a 17. storocí na západnej strane rozšírený a pokrytý rovným stropom, v 19. storocí bol viackrát upravený.
+
+Obec: Dedina sa prvý krát spomína v roku 1420 (&quot;Kemenche in Abaxyuar. com.&quot;), podla Varsíka ju založili obyvatelia, ktorí sa sem pristahovali z nedalekej zaniknutej dediny Púch, o ktorej máme poslednú zmienku z roku 1370. Podla datovania kostola však musí byt dedina ešte staršia.
+
+Architektúra:
+Lod: jednolodový kostol Presbytérium: polygonálne uzavreté, pravdepodobne z konca 14. storocia
+Vchod: vstupný portál je pod vežou (ranorenesancný) z konca 16. storocia
+Veža: predstavaná na západnej strane zo 17. storocia
+
+Poznámky: Z gotickej stavby sa zachovalo takmer celé obvodové murivo a gotické lomené okná v polygonálnom závere.
+
+Prajem pekné zážitky pri hladaní. 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Medzi velkymi balvanmi, maskovane malymi kamenmi. </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>&quot;jazero&quot;</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.44473" lat="49.42695">
+        <time>2010-05-01T19:00:00.000-05:00</time>
+        <name>OX267E</name>
+        <desc>Cmentarz z I WS Ozenna (Ozenna WW1 cementary) by LzaEla, Traditional Cache(2.1/2.9/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX267E</url>
+        <urlname>Cmentarz z I WS Ozenna (Ozenna WW1 cementary)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="65579">
+            <groundspeak:name>Cmentarz z I WS Ozenna (Ozenna WW1 cementary)</groundspeak:name>
+            <groundspeak:placed_by>LzaEla</groundspeak:placed_by>
+            <groundspeak:owner id="3963">LzaEla</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Cmentarz nr&lt;br/&gt;4&lt;br/&gt;&lt;br/&gt;http://www.cmentarze.gorlice.net.pl/nr1_ozenna.htm#nr_4_Grab&lt;br/&gt;&lt;br/&gt;Usytuowany w miejscu z&lt;br/&gt;ktorego rozposciera sie piekny widok na okolice. Ciekawy&lt;br/&gt;motylkopodobny ksztalt czyni miejsce wartym&lt;br/&gt;wizyty.&lt;br/&gt;&lt;br/&gt;Skrytka poza terenem cmentarza.</groundspeak:long_description>
+            <groundspeak:encoded_hints>przed wejsciem po lewej stronie pod kamieniami.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1308222">
+                    <groundspeak:date>2011-07-01T17:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="35218">BIECZANIN</groundspeak:finder>
+                    <groundspeak:text encoded="False">Naprawdę wyjątkowo spokojne miejsce - a tak wiele się tu działo kiedyś</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1080472">
+                    <groundspeak:date>2010-05-14T17:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3128">Dlugi</groundspeak:finder>
+                    <groundspeak:text encoded="False">Bardzo urocze miejsce oraz ciekawe polozenie cmentarza sprawia ze zawsze z przyjemnoscia wracam w to miejsce. TFTC :-)
+</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.1</ox:difficulty>
+                <ox:size>3.9</ox:size>
+                <ox:terrain>2.9</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.3766333" lat="49.4771167">
+        <time>2010-12-08T10:59:48.000-06:00</time>
+        <name>OXZTY1X</name>
+        <desc>Kapliczka Czarne by LzaEla, Traditional Cache(3.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTY1X</url>
+        <urlname>Kapliczka Czarne</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28478333">
+            <groundspeak:name>Kapliczka Czarne</groundspeak:name>
+            <groundspeak:placed_by>LzaEla</groundspeak:placed_by>
+            <groundspeak:owner id="3963">LzaEla</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">[PL]
+
+Tu, gdzie krzyza cien przerdzewial, stoi kamienna Kapliczka na rozstaju dróg. Stoi jak staruszka przygarbiona. Niepozorna. Jej chlopskie piekno jest az byle jakie. Miejsce, w którym warto byc. I przyjac wzniesiona hostie ksiezyca.
+Skrzyneczka (okolo 7x7cm) ukryta w srodku
+
+___________________________________________
+
+
+[ENG]
+
+Cache (average 7x7cm box) is hidden inside of small old abandoned chappel.
+ 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Pod opatrznoscia. 
+_______
+
+under holly painting 
+
+</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1308221">
+                    <groundspeak:date>2011-07-01T17:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="35218">BIECZANIN</groundspeak:finder>
+                    <groundspeak:text encoded="False">Przez tyle lat przechodziłem obok - aż wreszcie zawitałem do środka - szkoda że tak zapuszczona wiekiem</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="523410">
+                    <groundspeak:date>2010-05-14T17:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3128">Dlugi</groundspeak:finder>
+                    <groundspeak:text encoded="False">Znaleziona po odgonieniu stada owiec a i owczarkom sie nie dalem. dotarlem do niej pokonujac pare brodówTFTC :-) </groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>bikes allowed</ox:tag>
+                <ox:tag>awailable in winter</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.37663" lat="49.47712">
+        <time>2010-04-30T19:00:00.000-05:00</time>
+        <name>OX2678</name>
+        <desc>Kapliczka Czarne by LzaEla, Traditional Cache(2.5/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2678</url>
+        <urlname>Kapliczka Czarne</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="65573">
+            <groundspeak:name>Kapliczka Czarne</groundspeak:name>
+            <groundspeak:placed_by>LzaEla</groundspeak:placed_by>
+            <groundspeak:owner id="3963">LzaEla</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Tu, gdzie krzyza cien&lt;br/&gt;przerdzewial, stoi kamienna Kapliczka na rozstaju drog. Stoi jak&lt;br/&gt;staruszka przygarbiona. Niepozorna. Jej chlopskie piekno jest az byle&lt;br/&gt;jakie. Miejsce, w ktorym warto byc. I przyjac&lt;br/&gt;wzniesiona hostie ksiezyca.&lt;br/&gt;&lt;br/&gt;Skrzyneczka (okolo 7x7cm)&lt;br/&gt;ukryta w srodku.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;kapliczka i okolice</groundspeak:long_description>
+            <groundspeak:encoded_hints>pod opatrznoscia</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.0706" lat="52.14102">
+        <time>2007-10-03T19:00:00.000-05:00</time>
+        <name>OX7F4</name>
+        <desc>filips111: Dab Mieszko by filips, Traditional Cache(2.1/1.1/2.9)</desc>
+        <url>http://www.opencaching.com/#geocache/OX7F4</url>
+        <urlname>filips111: Dab Mieszko</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="7196">
+            <groundspeak:name>filips111: Dab Mieszko</groundspeak:name>
+            <groundspeak:placed_by>filips</groundspeak:placed_by>
+            <groundspeak:owner id="721">filips</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Na wstepie zaznacze, ze byla juz podobna skrzynka w naszym serwisie, ale: a) byla wirtualna b) wspolrzedne byly przesuniete o jakis 1km c) od dluzszego czasu jest &quot;czasowo niedostepna&quot;. Postanowilem wiec zalozyc paczke tradycyjna, zeby to ciekawe miejsce sie nie marnowalo :)
+
+Mikrocache ukryty przy Debie Mieszko, jednym z najstarszych w Polsce a najstarszym na Mazowszu. Jego wiek datowany jest na 1023 lata (23 lata temu oceniany byl na 1000:).
+
+Szukaj magnetycznego mikrokesza przyklejonego nisko do plotu pobliskiego parku natolinskiego. Kesz zawiniety dla niepoznaki w zolty jesienny lisc. Znalazcow prosimy o rownie dobre zamaskowanie pojemnika :)&lt;br/&gt;&lt;br/&gt;Mieszko Mieszko&lt;br/&gt;&lt;br/&gt;Szukaj za slimakiem :)</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1303726">
+                    <groundspeak:date>2011-06-29T09:37:22.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="41198">Overon730</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1172684">
+                    <groundspeak:date>2011-03-16T18:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2402">lavinka</groundspeak:finder>
+                    <groundspeak:text encoded="False">Kiedys z M.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="787381">
+                    <groundspeak:date>2010-03-05T17:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4077">meteor2017</groundspeak:finder>
+                    <groundspeak:text encoded="False">Pudelko pekniete w miejscu magnesu, wiec by nie namakal i sie nie rozpadl, okleilismy tasma... niestety mielismy ze soba tylko srebrna i teraz mniej sie maskuje w czarnym ogrodzeniu, przydaloby sie go okleic czarna tasma izolacyjna przy okazji.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>2.1</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.1</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.0142167" lat="52.2465167">
+        <time>2010-12-07T11:28:02.000-06:00</time>
+        <name>OX1D4F</name>
+        <desc>Mariensztat by r00t7, Traditional Cache(2.1/1.1/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1D4F</url>
+        <urlname>Mariensztat</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="42423">
+            <groundspeak:name>Mariensztat</groundspeak:name>
+            <groundspeak:placed_by>r00t7</groundspeak:placed_by>
+            <groundspeak:owner id="1364">r00t7</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Ulica Mariensztat – dluga na ponad 375 metrów ulica polozona w Sródmiesciu. Biegnie od Dobrej w góre do Krakowskiego Przedmiescia. Jest przejezdna jedynie na 125-metrowym odcinku od Dobrej do Sowiej. Pozostala czesc jest przeznaczona wylacznie dla ruchu pieszego.
+
+Ulica zaczyna sie skrzyzowaniem z ulica Dobra. Biegnac na zachód, krzyzuje sie z ulica Sowia, a nastepnie tworzy poludniowa pierzeje Rynku Mariensztackiego. W dalszym biegu krzyzuje sie z ulica Boczna, po czym dociera na korone Skarpy Wislanej, w poblize ulicy Krakowskie Przedmiescie</groundspeak:long_description>
+            <groundspeak:encoded_hints>~ 2m w razie co mozna sie troche wdrapac. nie magnetyczna </groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="823979">
+                    <groundspeak:date>2010-12-15T15:29:47.000-06:00</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="2402">lavinka</groundspeak:finder>
+                    <groundspeak:text encoded="False">Znalezione bez Meteora, nie bylo latwo bo akurat wtedy filmowali nowo postawiona choinke. Ale jak sobie filmowcy poszli - zlupienie juz trudne nie bylo. Potem drugi raz towarzyszac Meteorowi :)</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="823976">
+                    <groundspeak:date>2010-12-15T15:17:35.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2402">lavinka</groundspeak:finder>
+                    <groundspeak:text encoded="False">Kiedys znalezione z Meteorem.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="237885">
+                    <groundspeak:date>2010-12-07T17:51:31.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="989">Hern</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="787382">
+                    <groundspeak:date>2009-12-09T17:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4077">meteor2017</groundspeak:finder>
+                    <groundspeak:text encoded="False">Jako ze bylismy w poblizu, lavinka mnie tu zaciagnela i kazala szukac, bo fajna skrzynka. rzeczywiscie, fajnie ukryta :-)
+
+wymiana kretów i dorzucilem reniferka </groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.1</ox:difficulty>
+                <ox:size>1.6</ox:size>
+                <ox:terrain>1.1</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.4748333" lat="55.3857833">
+        <time>2010-06-05T02:00:00.000-05:00</time>
+        <name>OX29RNH</name>
+        <desc>Tautrim by MERDIAN, Traditional Cache(1.5/1.5/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OX29RNH</url>
+        <urlname>Tautrim</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2138893">
+            <groundspeak:name>Tautrim</groundspeak:name>
+            <groundspeak:placed_by>MERDIAN</groundspeak:placed_by>
+            <groundspeak:owner id="3693">MERDIAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Lobis pasleptas atvykstant i Silute is siaurines puses, lengvai pasiekiamoje miskingoje vietoveje.
+
+On the road from the north shortly before Silutè this easily accessible cache is located in a wooded area.
+Bring your own pen.
+Additional Hidden Waypoints
+0129RNH - Parkas / Parking
+N 55° 23.179 E 021° 28.347
+
+
+ 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Betoninio vamzdzio pietiniame gale; priesais akmuo
+In the southern end of a concrete pipe; stone in front
+Im südlichen Ende eines Betonrohres; Stein davor</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.0516667" lat="56.5068333">
+        <time>2011-04-14T02:35:43.000-05:00</time>
+        <name>OX26VAX</name>
+        <desc>Liepaja Lake Dam by bonuxs, Traditional Cache(1.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX26VAX</url>
+        <urlname>Liepaja Lake Dam</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2051112">
+            <groundspeak:name>Liepaja Lake Dam</groundspeak:name>
+            <groundspeak:placed_by>bonuxs</groundspeak:placed_by>
+            <groundspeak:owner id="16898">bonuxs</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">[LV]
+Dambis Liepajas ezera
+Maksligi no metalurga izdežiem un šlakas veidota izstiepta pussala/laipa. Padomju laikos bija iecerets izveidot dambi, kas sadalitu Liepajas ezeru, tadejadi pasargajot no piesarnojuma, ko nes metalurga notekudeni. Acimredzot, vesturisko parmainu un dabas aktivistu iebildumu del, šis darbs savulaik nav pabeigts. Tagad ta ir savdabiga pastaigu vieta, lidziga molam, kur visapkart verojams ezera udens un taja mitošie putni, visbiežak gulbji. Vienigi jarekinas ar to, ka pirms šis laipas naksies škersot Zirgu salu (Tauta saukto &quot;Sudu salu&quot;), kura agrak kalpojusi par zirgu kapsetu, bet nesenos laikos par atkritumu izgaztuvi. Bet visapkart sala ir diezgan aizaugusi, tikai vietam un neuzbazigi ir redzamas ši fakta liecibas. Te paveras skats uz Liepajas industrialo fasadi, kas piedod ipašu romantiku šim vietam. Vislabakais apmeklejuma laiks - starpsezona, rudeni vai pavasari. Tad noskana ir atbilstoša un ir lielaka iespeja sastapt gulbjus. Izaicini sevi aiziet lidz mola galam.
+
+[EN]
+Liepaja Lake Dam
+Artificially from the metal factory „Metalurgs” dross formed a peninsula stretching / plank. During Soviet times, was intended to create a dam, which should divide Liepaja Lake, thus preventing contamination by sewage of Metalurgs. Obviously, because of historical changes and nature activists’ objections, this work is not finished. Now it is peculiar walking place similar to breakwater, where all around is lake water with dwelling birds, mostly swans. Only have to consider that before reaching the footbridge have to cross Horse Island (so called &quot;shit island&quot;), which formerly served as a horse cemetery, but in recent times, the waste dump. But all around the island is pretty overgrown, only somewhere are visible evidences of this fact.
+Here you can see the view of Liepaja industrial facade which gives a special romantic to these places. The best time to visit – in between the seasons, autumn or spring. Then the feeling is appropriate, and there is bigger chance to encounter swans. Challenge yourself to go all the way to the end of breakwater. 
+</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1431046">
+                    <groundspeak:date>2011-04-13T16:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3138">wellstar</groundspeak:finder>
+                    <groundspeak:text encoded="False">Tā kā šis ir analogs - http://coord.info/GC26VAX, tad bez sirdsapziņas pārmetumiem  pielogosu arī šeit!!! :D</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>not suitable for wheelchairs</ox:tag>
+                <ox:tag>Bikes Allowed</ox:tag>
+                <ox:tag>scenic view. available 24/7</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.5984333" lat="60.11115">
+        <time>2011-08-16T15:05:09.000-05:00</time>
+        <name>OX1TT9C</name>
+        <desc>Korpo Servicehamnar - Korpoström by _rtl, Traditional Cache(2.3/1.9/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1TT9C</url>
+        <urlname>Korpo Servicehamnar - Korpoström</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1692612">
+            <groundspeak:name>Korpo Servicehamnar - Korpoström</groundspeak:name>
+            <groundspeak:placed_by>_rtl</groundspeak:placed_by>
+            <groundspeak:owner id="53215">_rtl</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">En cache i samband med servicehamnen Korpoström / Kätkö Korpoströmin palvelusataman yhteydessä / A cache nearby the service harbour Korpoström
+
+Korpoström tillhandahåller en av tre servicehamnar för båtgäster, i Korpo. I närheten av hamnen finns också Skärgårdscentrum Korpoström, som är ett centrum för konst och vetenskap med skärgården och dess natur som en gemensam nämnare. I samband med hamnen finns också rätt mycket serviceverksamhet bl.a. för båtgästerna.
+
+Ta vara på koden - den kan behövas, någongång.
+
+Korpoströmissä on yksi kolmesta Korppoon palvelusatamista, veneilijöille. Palvelusataman vieressä toimii Saaristokeskus Korpoström, joka on sellaisen taiteen ja tieteen keskus, jonka yhteinen nimittäjä on saaristo ja sen luonto. Satamassa on myös laajahkot palvelut m.m. veneilijöille.
+
+Ota koodi talteen - voit tarvita sitä joskus.
+
+Korpoström hosts one of three service harbours (for boat tourists) in Korpo.
+
+Memorise the code - you might need it, sometime.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.3</ox:difficulty>
+                <ox:size>2.9</ox:size>
+                <ox:terrain>1.9</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.6435833" lat="60.1128167">
+        <time>2011-08-16T15:07:30.000-05:00</time>
+        <name>OX1TT69</name>
+        <desc>Korpo Servicehamnar - Rumar by _rtl, Traditional Cache(2.5/2.4/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1TT69</url>
+        <urlname>Korpo Servicehamnar - Rumar</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1692516">
+            <groundspeak:name>Korpo Servicehamnar - Rumar</groundspeak:name>
+            <groundspeak:placed_by>_rtl</groundspeak:placed_by>
+            <groundspeak:owner id="53215">_rtl</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">En cache i samband med servicehamnen Rumar / Kätkö Rumarin palvelusataman yhteydessä / A cache nearby the service harbour Rumar
+
+Rumar tillhandahåller en av tre servicehamnar för båtgäster, i Korpo. I samband med hamnen finns också en populär sommar-restaurang.
+
+Ta vara på koden - den kan behövas, någongång.
+
+Rumarissa on yksi kolmesta Korppoon palvelusatamista, veneilijöille. Palvelusataman yhteydessä toimii suosittu kesäravintola.
+
+Ota koodi talteen - voit tarvita sitä joskus.
+
+Rumar hosts one of three service harbours (for boat tourists) in Korpo. In connection to the harbour, there is a popular summer-restaurant.
+
+Memorise the code - you might need it, sometime.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.5</ox:size>
+                <ox:terrain>2.4</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.6675" lat="60.1662667">
+        <time>2011-08-16T15:02:37.000-05:00</time>
+        <name>OX1PN3C</name>
+        <desc>Korpo - Retais Träsk by _rtl, Traditional Cache(2.6/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1PN3C</url>
+        <urlname>Korpo - Retais Träsk</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1599209">
+            <groundspeak:name>Korpo - Retais Träsk</groundspeak:name>
+            <groundspeak:placed_by>_rtl</groundspeak:placed_by>
+            <groundspeak:owner id="53215">_rtl</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">En cache i närheten av Retais Träsk / Kätkö Retais Träskin lähistössä / A cache nearby the Lake Retais Träsk
+
+Vi tänkte kalla denna cache &quot;Somewhere only we know&quot; (som tribut till ett gemensamt favoritband Keane), men det vore ju inte riktigt sant. Men trots det har vi (_rtl + aell65) sommar efter sommar återvänt hit. Svamp- (och bär-) plockandet har varit den huvudsakliga sysslan, men platsen är (enligt oss) sevärd som sådan, ävenom man inte skulle gilla de svampar man råkar stöta på här.
+
+Retais träsk, är den ena av de två insjöarna på Korpo.
+
+Tämän kätkön nimeksi harkittiin &quot;Somewhere only we know&quot; (tribuuttina yhteiselle Keane-suosikkibändille), mutta se ei liene koko totuus. Tänne olemme (_rtl + aell65) kuitenkin vuodesta toiseen palanneet. Sienten (ja marjojen) poiminta on ehkä ollut pääasiallinen toimintamme, mutta paikka itsessään on kylläkin tehnyt vaikutuksen, ja tyydyttänee jopa sienistä piittaamattomiakin.
+
+Retais träsk on toinen Korppoon järvistä.
+
+A beatiful place, _rtl and aell65 have enjoyed numerous times. We thought of naming the cache &quot;Somewhere only we know&quot; (tribute to the band Keane), but that wouldn't be quite true.
+
+Retais träsk is one of the two freshwater-lakes on the island Korpo.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>3.2</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.5567667" lat="60.1747667">
+        <time>2011-08-16T14:59:21.000-05:00</time>
+        <name>OX1PN3J</name>
+        <desc>Korpo Servicehamnar - Verkan by _rtl, Traditional Cache(2.2/2.3/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1PN3J</url>
+        <urlname>Korpo Servicehamnar - Verkan</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1599215">
+            <groundspeak:name>Korpo Servicehamnar - Verkan</groundspeak:name>
+            <groundspeak:placed_by>_rtl</groundspeak:placed_by>
+            <groundspeak:owner id="53215">_rtl</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">En cache i samband med servicehamnen Verkan / Kätkö Verkanin palvelusataman yhteydessä / A cache nearby the service harbour Verkan
+
+Verkan, är en av tre servicehamnar för båtgäster, i Korpo. I samband med hamnen verkar också restaurang Buffalo, som inledningsvis blev känd som en &quot;ribs&quot;-restaurang. Intill servicehamnen avgår MS Finnö, som trafikerar olika mål i den omkringliggande skärgården (sjöfartsverkets rutt 11).
+
+Ta vara på koden - den kan behövas, någongång. Ta med dig en penna, finns ev. ej i cachen.
+
+Verkan on yksi kolmesta Korppoon palvelusatamista, veneilijöille. Palvelusataman yhteydessä toimii ravintola Buffalo, joka alkuaikoinaan tuli tunnetuksi &quot;ribs&quot;-ravintolana. Palvelusataman lähistöstä liikennöi MS Finnö, jonka reitteihin sisältyy useita saaristokohteita (merenkulkulaitoksen reitti 11).
+
+Ota koodi talteen - voit tarvita sitä joskus. Ota kynä mukaan, kätkössä ei kynää välttämättä ole.
+
+Verkan is one of three service harbours (for boat tourists) in Korpo. In connection to the harbour, there is a restaurant called Buffalo, which originally became known as a ribs-restaurant. MS Finnö servicing route 11 of the finnish maritime administration departs right beside the service harbour.
+
+Memorise the code - you might need it, sometime. Bring your own pen, there may be no pen in the cache.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.2</ox:difficulty>
+                <ox:size>1.9</ox:size>
+                <ox:terrain>2.3</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.5893833" lat="60.18285">
+        <time>2011-08-16T14:56:36.000-05:00</time>
+        <name>OX1PN2X</name>
+        <desc>Korpo - Galtby by _rtl, Traditional Cache(2.1/2.3/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1PN2X</url>
+        <urlname>Korpo - Galtby</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1599194">
+            <groundspeak:name>Korpo - Galtby</groundspeak:name>
+            <groundspeak:placed_by>_rtl</groundspeak:placed_by>
+            <groundspeak:owner id="53215">_rtl</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">En cache i närheten av Galtby färjfäste, numera travellervänlig /
+Kätkö Galtbyn lauttarannan läheisyydessä, nykyään reissariystävällinen /
+A cache in the neighbourhood of the Galtby ferry harbour, nowadays traveller friendly
+
+Galtby är numera en knutpunkt i skärgårdens färjtrafik. Färjorna till Houtskär (skärgårdens ringväg) och Norrskata avgår härifrån. Likaså går trafik till Åland. Galtby var redan tidigt en viktig hamn i detta avseende. Den första &quot;sydliga&quot; (genom Åbolands skärgård) bilfärjrutten (S/S Viking 1959) till Sverige avgick härifrån. Galtby torde därmed kunna anses vara en legendarisk hamn, så populär har färjtrafiken mellan Finland och Sverige varit i c.a 50 år.
+
+Galtby on (Turunmaan) saariston solmukohta. Houtskarin (saariston rengastie) ja Norrskatan lautat lähtevät täältä, ja Ahvenanmaallekin on liikennettä. Galtby oli jo aikaisin tärkeä tässä suhteessa. Ensimmäinen &quot;eteläinen&quot; (Turunmaan saariston kautta kulkeva) autolauttayhteys Ruotsiin (S/S Viking 1959) lähti täältä. Galtby on täten jopa legenda, niin suosittua lauttaliikenne Suomen ja Ruotsin välillä on ollut n. 50 vuotta.
+
+Galtby is a &quot;legendary&quot; ferry harbour. Apart from the ferries to Houtskär, Norrskata and Åland, the first &quot;southern&quot; (i.e. through the Turku archipelago) car-ferry route to Sweden (S/S Viking 1959), departed from here. The ferry traffic between Finland and Sweden has been a great success, for roughly 50 years of time, thus Galtby deserves its status as a &quot;legendary&quot; harbour.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.1</ox:difficulty>
+                <ox:size>3.3</ox:size>
+                <ox:terrain>2.3</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.5423333" lat="63.0667167">
+        <time>2010-12-10T09:05:39.000-06:00</time>
+        <name>OX13NX1</name>
+        <desc>Öjen by Juhaz, Traditional Cache(2.0/3.0/3.1)</desc>
+        <url>http://www.opencaching.com/#geocache/OX13NX1</url>
+        <urlname>Öjen</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1033944">
+            <groundspeak:name>Öjen</groundspeak:name>
+            <groundspeak:placed_by>Juhaz</groundspeak:placed_by>
+            <groundspeak:owner id="5794">Juhaz</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;Öjenin suojelualueella lähellä Vaasaa&lt;br/&gt;
+In protected forest of Öjen near Vaasa
+&lt;/p&gt;
+
+&lt;p&gt;Kätkö sijaitsee luontopolun varrella, Öjenin luonnonsuojelualueella lähellä Vaasan keskustaa. Öjen kuuluu vanhojen metsien suojeluohjelmaan, ja alueen puusto on paikoitellen lähes 200 vuotta vanhaa, luonto vaihtelee kangasmetsästä soihin ja rantalehtoihin.&lt;/p&gt;
+
+&lt;p&gt;Kätkö on suunnilleen luontopolun puolivälissä, ja edestakaista kävelymatkaa parkkipaikalta kertyy n. 4km, polun kokonaisuudessaan kiertäminen kasvattaa kokonaismatkan noin viiteen kilometriin ja kannattaa ehdottomasti! Auton voit jättää parkkipaikalle koordinaatteihin 63° 4.183' 21° 34.465' ja polku alkaa koordinaateista 63° 4.129' 21° 34.003'&lt;/p&gt;
+
+&lt;p&gt;Jos patikointi ei kuitenkaan innosta, on polulle kätköpaikan läheisyyteen yhteys myös viereiseltä pikkutieltä, jolloin selviää reilun puolen kilometrin tarpomisella. Tämä yhdyspolku alkaa koordinaateista 63° 3.931' 21° 32.308' ja tiessä on parikymmentä metriä sen jälkeen levennys johon voi jättää auton.&lt;/p&gt;
+
+&lt;p&gt;Kätkörasia on muovinen 0.4 litran pakasterasia. Kätköpaikka on melko pimeä, ja rasian löytäminen saattaa edellyttää päivälläkin taskulamppua ja/tai kopelointia.&lt;/p&gt;
+
+&lt;p&gt;Muistathan että kyse on suojelualueesta, älä siis roskaa tai vahingoita luontoa! Tarkemmat säännöt voit lukea täältä&lt;/p&gt;
+&lt;br/&gt;
+
+&lt;p&gt;The cache is located along a nature trail in protected forest of Öjen near the center of Vaasa. Öjen belongs to nature conservation programme for old growth forests, and the oldest of it's trees are almost 200 years old. The nature on area varies from dry conifer forests to wetlands and coastal groves&lt;/p&gt;
+
+&lt;p&gt;The cache is near the midway point of the trail and distance from parking lot to there and back is about 4km, going around the entire trail increases that to about five kilometers and is heartily encouraged! You can leave your car at parking lot located at 63° 4.183' 21° 34.465' and the trail begins at coordinates 63° 4.129' 21° 34.003'&lt;/p&gt;
+
+&lt;p&gt;If you're not interested in hiking, there is a connecting path from a nearby road which decreases the required plodding to bit over half a kilometer. This connecting trail begins at coordinates 63° 3.931' 21° 32.308' and about twenty meters after that, there is an expansion in the road you can leave your car at.&lt;/p&gt;
+
+&lt;p&gt;The cache container is 0.4 liter plastic box. The area it is hidden in can be dark even during daylight and finding it might require a flashlight and/or feeling for the box with your hands.&lt;/p&gt;
+
+&lt;p&gt;Please remember that this is a protected area, please don't litter or damage the nature!&lt;/p&gt;
+ 
+ 
+ 
+ 
+ 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Sisällä / Inside</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1398629">
+                    <groundspeak:date>2011-08-03T08:34:52.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="49961">tikkujukka</groundspeak:finder>
+                    <groundspeak:text encoded="False">Heh, FTF OpenCachingin puolella :)
+Upea luontopolku ja kätköpaikka!
+KK
+Logged via OpenCaching for iPhone</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.1</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Forest Walk</ox:tag>
+                <ox:tag>Natural Area</ox:tag>
+                <ox:tag>Nature Trail</ox:tag>
+                <ox:tag> Forest</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.0239" lat="64.2213333">
+        <time>2007-07-28T03:00:00.000-05:00</time>
+        <name>OX14PDN</name>
+        <desc>Gumbodahed by TeamJATA, Traditional Cache(2.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX14PDN</url>
+        <urlname>Gumbodahed</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1064251">
+            <groundspeak:name>Gumbodahed</groundspeak:name>
+            <groundspeak:placed_by>TeamJATA</groundspeak:placed_by>
+            <groundspeak:owner id="4465">TeamJATA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Efter 30-åriga krigets slut 1648 började Gumboda Hed användas som övningsplats för Västerbottens regemente. Övningsplatsen var först norr om Gumboda, där inga byggnader fanns, men flyttades i slutet av 1830-talet till nuvarande plats. Här fanns heller inga byggnader men 1840 byggdes en paviljong som användes som ett sk. Spiskvarter för officers- och underofficers-kårerna.
+Det finns en slinga att följa som beskriver historien och som utgår från parkeringskoordinaterna
+There are signs describing the history starting at the parking coordinates</groundspeak:long_description>
+            <groundspeak:encoded_hints>Hål i träd. Hole in tree</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.1958667" lat="64.6898">
+        <time>2011-06-08T07:36:57.000-05:00</time>
+        <name>OX29Z8K</name>
+        <desc>Bron by Ahtenus, Traditional Cache(1.4/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX29Z8K</url>
+        <urlname>Bron</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2144258">
+            <groundspeak:name>Bron</groundspeak:name>
+            <groundspeak:placed_by>Ahtenus</groundspeak:placed_by>
+            <groundspeak:owner id="31792">Ahtenus</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">By the bridge Sundgrundsbron  </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.4</ox:difficulty>
+                <ox:size>3.9</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Scenic Overlook</ox:tag>
+                <ox:tag>Parking nearby</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.1764167" lat="64.7051833">
+        <time>2011-06-08T07:50:40.000-05:00</time>
+        <name>OX2F2KW</name>
+        <desc>Vilken hög och platt vägg... by Ahtenus, Traditional Cache(1.0/3.8/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2F2KW</url>
+        <urlname>Vilken hög och platt vägg...</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2296445">
+            <groundspeak:name>Vilken hög och platt vägg...</groundspeak:name>
+            <groundspeak:placed_by>Ahtenus</groundspeak:placed_by>
+            <groundspeak:owner id="31792">Ahtenus</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">Lätt att hitta, desto svårare att ta sig till.
+
+Easy to find, toughter to get.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>2.8</ox:size>
+                <ox:terrain>3.8</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Rock Climbing</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.1884833" lat="64.7075333">
+        <time>2011-06-08T07:46:41.000-05:00</time>
+        <name>OX2RKVD</name>
+        <desc>Det andra tornet by Ahtenus, Traditional Cache(1.9/1.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2RKVD</url>
+        <urlname>Det andra tornet</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2581104">
+            <groundspeak:name>Det andra tornet</groundspeak:name>
+            <groundspeak:placed_by>Ahtenus</groundspeak:placed_by>
+            <groundspeak:owner id="31792">Ahtenus</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Ursviken har tydligen två vattentorn... </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.9</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.2965833" lat="64.7507667">
+        <time>2011-06-08T07:42:16.000-05:00</time>
+        <name>OX2BKWF</name>
+        <desc>Salta stänk by Ahtenus, Traditional Cache(1.7/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2BKWF</url>
+        <urlname>Salta stänk</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2193854">
+            <groundspeak:name>Salta stänk</groundspeak:name>
+            <groundspeak:placed_by>Ahtenus</groundspeak:placed_by>
+            <groundspeak:owner id="31792">Ahtenus</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">En havsnära cache.
+
+A cache by the sea. </groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1575768">
+                    <groundspeak:date>2011-09-30T10:55:26.000-05:00</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="62971">R!DDARN</groundspeak:finder>
+                    <groundspeak:text encoded="False">Logged via OpenCaching for iPhone</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.7</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Scenic Overlook</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+</gpx>

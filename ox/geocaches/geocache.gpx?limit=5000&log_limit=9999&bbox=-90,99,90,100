@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,99,90,100</url>
+    <time>2012-01-04T09:32:41.207-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="100.0" maxlat="90.0" minlon="99.0" minlat="-90.0"/>
+    <wpt lon="99.5340333" lat="6.8250333">
+        <time>2009-03-14T02:00:00.000-05:00</time>
+        <name>OX1NMYZ</name>
+        <desc>Mango Bay by resope, Traditional Cache(1.6/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1NMYZ</url>
+        <urlname>Mango Bay</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1569281">
+            <groundspeak:name>Mango Bay</groundspeak:name>
+            <groundspeak:placed_by>resope</groundspeak:placed_by>
+            <groundspeak:owner id="8192">resope</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is our first cache hidden on our favourite island, Ko Bulone&lt;br/&gt;Lae. To find the cache, you have to leave the beautiful white sand&lt;br/&gt;beach, cross the small village and get to the small Mango Bay,&lt;br/&gt;which is populated by Chao Lae fishermen. It is better to seek the&lt;br/&gt;cache on low tide! &lt;br/&gt;&lt;p&gt;Don't forget to use a mosquito repellent, because there are lots&lt;br/&gt;of those hungry insects in the rubber tree plantation and in the&lt;br/&gt;wood which you have cross.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;We will be doing cache maintenance about every 1-2 years, beside&lt;br/&gt;this we have a local fisherman having an eye on the cache and we&lt;br/&gt;are also glad for your information about the cache!&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="99.9974333" lat="12.2305">
+        <time>2011-08-26T05:12:40.000-05:00</time>
+        <name>OXZTQWD</name>
+        <desc>Three Tubes by 2000jago, Traditional Cache(1.4/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTQWD</url>
+        <urlname>Three Tubes</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28473358">
+            <groundspeak:name>Three Tubes</groundspeak:name>
+            <groundspeak:placed_by>2000jago</groundspeak:placed_by>
+            <groundspeak:owner id="11107">2000jago</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Located along the Sam Roy Yod beach, a mere 5 minutes walk will get you there.  Great view of Monkey Island nearby.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Do you see 3 tubes?  Check the left one.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.4</ox:difficulty>
+                <ox:size>2.4</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="99.94625" lat="12.2691667">
+        <time>2011-08-02T03:45:44.000-05:00</time>
+        <name>OX2MDQ9</name>
+        <desc>Near Nong Khang View by 2000jago, Traditional Cache(2.0/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2MDQ9</url>
+        <urlname>Near Nong Khang View</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2456077">
+            <groundspeak:name>Near Nong Khang View</groundspeak:name>
+            <groundspeak:placed_by>2000jago</groundspeak:placed_by>
+            <groundspeak:owner id="11107">2000jago</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Located en-route to the Nong Khang west view point, this cache will bring you within 5 minutes drive of one of the best views in the area.
+
+Most of the road to this cache is a dirt road, albeit a pretty good one. A &quot;normal&quot; car could make the trip without too much effort (except perhaps getting a bit dusty), so perhaps a 4x4 or motorcycle/mountain bike would be more appropriate. There may be mud during the rainy season, but the cache site should not be affected.
+The cache itself is located a stone's throw from the roadside.
+ Note:  This cache is listed elsewhere so you may not be the first to find.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Inside the pile of rocks.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Available Day/Night</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="99.9446667" lat="12.26985">
+        <time>2011-08-02T03:36:53.000-05:00</time>
+        <name>OX2N1R1</name>
+        <desc>Nong Khang Shrine by 2000jago, Traditional Cache(2.0/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2N1R1</url>
+        <urlname>Nong Khang Shrine</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2474359">
+            <groundspeak:name>Nong Khang Shrine</groundspeak:name>
+            <groundspeak:placed_by>2000jago</groundspeak:placed_by>
+            <groundspeak:owner id="11107">2000jago</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Located near the shrine at the Nong Khang lookout point. Great views all around and a great place to watch the sun set behind the mountains in the distance.  Beware of ants and cacti nearby. 
+Note: This cache is also listed elsewhere, so you may not be first to find.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Beside the large boulder. Underneath some stones.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>scenic view. available 24/7</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+        </ox:opencaching>
+    </wpt>
+</gpx>

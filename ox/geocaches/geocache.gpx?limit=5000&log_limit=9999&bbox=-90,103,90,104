@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,103,90,104</url>
+    <time>2012-01-04T09:32:42.260-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="104.0" maxlat="90.0" minlon="103.0" minlat="-90.0"/>
+    <wpt lon="103.8301833" lat="1.2397833">
+        <time>2010-12-19T01:52:59.000-06:00</time>
+        <name>OXZTXNV</name>
+        <desc>Beachfront View by whitecowblackcow, Traditional Cache(2.0/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTXNV</url>
+        <urlname>Beachfront View</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477990">
+            <groundspeak:name>Beachfront View</groundspeak:name>
+            <groundspeak:placed_by>whitecowblackcow</groundspeak:placed_by>
+            <groundspeak:owner id="7875">whitecowblackcow</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Located on an island popular with both tourists and locals alike, the search will bring you to a little secluded corner away from the bright lights and jostling crowds. To get there, you can either trek onwards on tarred road or feel the sand between your toes while strolling on the beach, the choice is up to you. GZ is on rocky terrain, be careful where you put your feet. Enjoy the serenity and the gorgeous beachfront view when you arrive!&lt;br/&gt;&lt;br/&gt;You will need a keen eye to spot the cache hidden among the rocks. The cache is a small cylinder of diameter 9.5cm and height 12cm. It contains a log book and pen, and a TB for the first to find.&lt;br/&gt;&lt;br/&gt;After you have found it and enjoyed your stay, please be reminded to replace the cache in the same way so that it does not get dislodged or damaged. As the cache is exposed to the elements, we request that you pay special attention to properly seal all openings.&lt;br/&gt;&lt;br/&gt;Note: Entry to the island will require an admission fee, so be sure to check out the other caches hidden on the island while you're there!</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1383148">
+                    <groundspeak:date>2011-07-28T20:36:07.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="48249">neovinhtru</groundspeak:finder>
+                    <groundspeak:text encoded="False">
+van comment</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1275334">
+                    <groundspeak:date>2011-06-04T23:02:47.000-05:00</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="30261">Audiophilia</groundspeak:finder>
+                    <groundspeak:text encoded="False">What's a TB? :)</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag> Beach</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="103.2279667" lat="1.89635">
+        <time>2008-06-24T02:00:00.000-05:00</time>
+        <name>OX1DGV2</name>
+        <desc>Machap Mana ? by Herr des Waldes, Traditional Cache(1.6/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1DGV2</url>
+        <urlname>Machap Mana ?</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1326988">
+            <groundspeak:name>Machap Mana ?</groundspeak:name>
+            <groundspeak:placed_by>Herr des Waldes</groundspeak:placed_by>
+            <groundspeak:owner id="13065">Herr des Waldes</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Easy to access Cache! The 1.5 Terrain Rating is only because of muggles. 
+
+ Another easy drive-by cache. To give all cachers a possibility for a short rest while driving up and down Malaysian highways ;-) (southbound)
+
+Update December 2009:
+
+I am told that since Malaysia is introducing a limit for 20 l. petrol sales to foreign (eg. Singapore) cars within 50km from the borders, the filling station at Machap is getting very popular (being the last one on the highway outside the 50k limit) and thus lengthy queues can develop that may also affect users of the restpoint itself. 
+
+I suggest that when stopping here to first get into the queue for the filling station, while other passengers go eat/cache. Note that there is no way to drive back to the restpoint from the filling station though :-(</groundspeak:long_description>
+            <groundspeak:encoded_hints>citengam</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="136912">
+                    <groundspeak:date>2010-02-04T02:56:49.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="1013">gzxto</groundspeak:finder>
+                    <groundspeak:text encoded="False">On the way to JB found that one easy without any Muggel attraction. The Cache is in good condition and Dry.
+TFTC!
+Greetings from the Swiss Aliens</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Public restrooms nearby</ox:tag>
+                <ox:tag>Available at all times</ox:tag>
+                <ox:tag>Stealth required</ox:tag>
+                <ox:tag>Takes less than an hour</ox:tag>
+                <ox:tag>Recommended for kids</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+</gpx>

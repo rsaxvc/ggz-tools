@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,56,90,57</url>
+    <time>2012-01-04T09:32:26.683-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="57.0" maxlat="90.0" minlon="56.0" minlat="-90.0"/>
+    <wpt lon="56.7319" lat="23.1704">
+        <time>2011-01-05T23:53:12.000-06:00</time>
+        <name>OX2KYGA</name>
+        <desc>Nessie's Omani Cousin  by Carbon_Hunter, Traditional Cache(2.5/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2KYGA</url>
+        <urlname>Nessie's Omani Cousin </urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2441446">
+            <groundspeak:name>Nessie's Omani Cousin </groundspeak:name>
+            <groundspeak:placed_by>Carbon_Hunter</groundspeak:placed_by>
+            <groundspeak:owner id="3134">Carbon_Hunter</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This one looks a bit like a perified version of the Loch Ness Monster. Hope you enjoy the nice little break from the road looking for this cache. Safe for kids too.
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Replace the rocks as closely as the surrounds as possible </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.7</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Photo opportunitites</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="56.1195833" lat="24.3167167">
+        <time>2010-12-26T06:16:14.000-06:00</time>
+        <name>OX2K00G</name>
+        <desc>Oh! Oasis by Carbon_Hunter, Traditional Cache(2.5/3.8/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2K00G</url>
+        <urlname>Oh! Oasis</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2413087">
+            <groundspeak:name>Oh! Oasis</groundspeak:name>
+            <groundspeak:placed_by>Carbon_Hunter</groundspeak:placed_by>
+            <groundspeak:owner id="3134">Carbon_Hunter</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">Looking for the nearby UNLISTED from geocaching.com on a caching expedition with my brother CINCOL and our family, and a bunch of muggles - we crested this hill and our breaths were taken away by the appearance of this lush green oasis. When we returned to hide the cache- they were felling palm trees and there were many many trunks laying throughout the oasis. Obviously preparation for the next trees that needed planting. Fresh herbs were providing a wonderful scent throughout.
+
+Enjoy this cache dedicated to caching and brothers.
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Scramble up - Peter is a rock </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.6</ox:size>
+                <ox:terrain>3.8</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Photo opportunitites</ox:tag>
+                <ox:tag>Scree slope</ox:tag>
+                <ox:tag>scenic overlook</ox:tag>
+                <ox:tag>Oasis</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="56.1716667" lat="24.69685">
+        <time>2011-07-17T06:22:01.000-05:00</time>
+        <name>OXZTRXV</name>
+        <desc>Rock pool by shams, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTRXV</url>
+        <urlname>Rock pool</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474363">
+            <groundspeak:name>Rock pool</groundspeak:name>
+            <groundspeak:placed_by>shams</groundspeak:placed_by>
+            <groundspeak:owner id="45957">shams</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">It's there, hidden somewhere very next to you.
+Please log your name and date and put it back.
+Enjoy the swim in the rock pool not far from there .... let the small fish eat the dead skin of your feet :)
+Enjoy!</groundspeak:long_description>
+            <groundspeak:encoded_hints>move the obstacle</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1407911">
+                    <groundspeak:date>2011-07-31T17:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="51559">stoelzeleinsOC</groundspeak:finder>
+                    <groundspeak:text encoded="False">Yeh, our first FTF in Oman and on the first day of holy Ramadan.
+This one was not on our map when we prepared the trip. But now we came again to Hatta area, the nice place.
+TFTC the stoelzeleinsOC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>rock</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+</gpx>

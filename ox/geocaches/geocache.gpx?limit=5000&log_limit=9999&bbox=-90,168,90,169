@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,168,90,169</url>
+    <time>2012-01-04T09:33:14.101-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="169.0" maxlat="90.0" minlon="168.0" minlat="-90.0"/>
+    <wpt lon="168.1021167" lat="-44.8053167">
+        <time>2010-12-07T20:36:42.000-06:00</time>
+        <name>OXHXGQ</name>
+        <desc>Marian Falls (Milford Road, Fiordland) by kiwitonita, Traditional Cache(2.2/2.2/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OXHXGQ</url>
+        <urlname>Marian Falls (Milford Road, Fiordland)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="533874">
+            <groundspeak:name>Marian Falls (Milford Road, Fiordland)</groundspeak:name>
+            <groundspeak:placed_by>kiwitonita</groundspeak:placed_by>
+            <groundspeak:owner id="2344">kiwitonita</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">A short way (10 minutes) up the track to Lake Marian, off the Hollyford Valley Road. The track is wide and very easily strolled by young &amp; elderly. Keep an eye on children if they want to run ahead - the boardwalk at the cache site runs above the river.
+
+Head down the Hollyford Valley road about 1.4km to the Lake Marian track car park. Take the (very good - it can take 10 people at a time) swing bridge and follow the track for about 10 minutes through ancient beech forest – it’s all rather lovely and very refreshing.
+
+Reception at the cache site is limited so leave your GPS on from the carpark. The cache is not under the board walk nor will you have to move off the board-walk to find it, thus zero environmental impact. The clues are in order of help.
+
+Container is a 2.2 litre Loc &amp; Loc type so is a decent size for your goodies. 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>[Hint 1.] 3m before 5 steps.
+[Hint 2.] Crouch to see in hole.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="226045">
+                    <groundspeak:date>2005-12-27T02:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2620">Bitsprayer</groundspeak:finder>
+                    <groundspeak:text encoded="False">First cache for the day what a great spot took lots of photos of the rapids, cache in good order.
+
+Many Thanks Bitsprayer
+</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>2.2</ox:difficulty>
+                <ox:size>3.5</ox:size>
+                <ox:terrain>2.2</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag> Milford</ox:tag>
+                <ox:tag>Milford</ox:tag>
+                <ox:tag> Forest</ox:tag>
+                <ox:tag> River</ox:tag>
+                <ox:tag>Fiordland</ox:tag>
+                <ox:tag>Marion</ox:tag>
+                <ox:tag>River</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="168.0792333" lat="-44.8920167">
+        <time>2010-12-07T20:44:16.000-06:00</time>
+        <name>OXHW72</name>
+        <desc>Lake Gunn Fishermans Rest (Milford Rd, Fiordland) by kiwitonita, Traditional Cache(2.4/2.6/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OXHW72</url>
+        <urlname>Lake Gunn Fishermans Rest (Milford Rd, Fiordland)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="532613">
+            <groundspeak:name>Lake Gunn Fishermans Rest (Milford Rd, Fiordland)</groundspeak:name>
+            <groundspeak:placed_by>kiwitonita</groundspeak:placed_by>
+            <groundspeak:owner id="2344">kiwitonita</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Lake Gunn Nature Walk, on the road to Milford Sound
+
+The nature walk is a very attractive short walk to the outlet of Lake Gunn. The ancient beech forest drips with moss and age - it's an easy walk for all ages being a flat, wide path. OK for baby strollers until entering the small path (50-60m long) that runs downstream beside the lake outlet. Mind small children near the water.
+
+Our cache is a couple of minutes downstream of the lake outlet on a narrower but very well defined path. Path is generally straight, beside the river. If you get to a sudden left then right turn in the path you've gone about 5-10 steps to far. Satellite reception is not that flash. Coordinates are on the log hanging out horizontally over the river. In fact you will have walked VERY close or over the cache on the way to the coordinates. Cache is out of sight but can be easily reached below ground level under tree base.
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Under base of large tree that hangs way out horizontally over river. Easiest to reach from upstream side.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="226039">
+                    <groundspeak:date>2005-12-27T02:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2620">Bitsprayer</groundspeak:finder>
+                    <groundspeak:text encoded="False">Great spot, took a few photo's took a wee while to find the right spot, very nice morning here today.
+
+Many Thanks Bitsprayer
+</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>2.4</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Milford</ox:tag>
+                <ox:tag>Lake Gunn</ox:tag>
+                <ox:tag> Forest</ox:tag>
+                <ox:tag>Fiordland</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="168.0071" lat="-44.9997167">
+        <time>2010-12-07T20:49:28.000-06:00</time>
+        <name>OXGEQ6</name>
+        <desc>Deer Flat Wee Hillocks (Milford Road, Fiordland) by kiwitonita, Traditional Cache(2.6/2.8/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXGEQ6</url>
+        <urlname>Deer Flat Wee Hillocks (Milford Road, Fiordland)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="490829">
+            <groundspeak:name>Deer Flat Wee Hillocks (Milford Road, Fiordland)</groundspeak:name>
+            <groundspeak:placed_by>kiwitonita</groundspeak:placed_by>
+            <groundspeak:owner id="2344">kiwitonita</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Located a short distance off the road to Milford Sound at a very popular summer picnic and camping area.
+
+This is the first cache hidden by Kiwitony, now celebrating a new life together with Anita, hence the new user name. Deer Flat is a favourite picnic spot with it's crystal clear river, tree swing rope and ancient forest nestled in the mountains. Take your time driving the Milford Road - the journey is always better than the destination. Even in the rain the trip is wonderful as the mountains come alive with waterfalls.
+
+The cache is a 1 litre camo painted snap lock container. Tree cover is moderate, allowing 3 to 4 satellites at half strength on the GPS12. Tall but not dense beech forest, no undergrowth, no prickles, just centuries of beach leaves &amp; moss making a cushioned, short (2 minute) climb.
+
+Sandflies can be a pest between early January and late December so pack your repellent &amp; wear clothing that covers exposed skin. The area is popular in summer for good reason so watch for others camping.
+
+Also try the very nearby cache at the confluence of 45S / 168E by Donovan, (GC7E7) – it involves a river crossing and is in dense forest and good fun – in the summer!
+
+We hope you enjoy this area and the cache hunt as much as we've enjoyed placing it.</groundspeak:long_description>
+            <groundspeak:encoded_hints> 1. 5m S of top are 3 beech trees in triangle. 
+2. Under base of S most tree, about 40cm in on S side. </groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="450786">
+                    <groundspeak:date>2008-12-15T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4317">grumbier</groundspeak:finder>
+                    <groundspeak:text encoded="False">#273 - 18:00
+What a wonderful place with all the flowers blooming now.
+It's ideal for making a break on the way to or from Milford sound.
+TFTC and greetings from germany,
+Joachim
+
+[This entry was edited by grumbier on Friday, January 02, 2009 at 10:23:01 AM.]
+
+[This entry was edited by grumbier on Friday, January 02, 2009 at 10:58:39 AM.]</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="119112">
+                    <groundspeak:date>2008-09-28T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="1505">BY-Pega</groundspeak:finder>
+                    <groundspeak:text encoded="False">We had luck and the road to Milford was reopened after the tree avalanche on this day. So we could go to this nice spot while we've been on our way back from the sound.
+
+TFTC and greetings from Bavaria,
+
+BY-Pega, [geocaching rindviecher allgaeu]</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="226118">
+                    <groundspeak:date>2003-10-26T01:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2620">Bitsprayer</groundspeak:finder>
+                    <groundspeak:text encoded="False">Another nice spot, once againg the gps was bang on, there were a few campers in the area, the sand files had a good feed on me..
+
+- Kiwicrystal 
++ Buzzy Bee Sharpner
+
+
+Many Thanks Robert ( Bitsprayer )</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>2.8</ox:size>
+                <ox:terrain>2.8</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Fiordland</ox:tag>
+                <ox:tag>Forest</ox:tag>
+                <ox:tag> Milford</ox:tag>
+                <ox:tag>Deer Flat</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+</gpx>

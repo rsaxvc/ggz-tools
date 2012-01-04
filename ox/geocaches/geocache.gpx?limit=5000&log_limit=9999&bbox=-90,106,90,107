@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,106,90,107</url>
+    <time>2012-01-04T09:32:43.091-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="107.0" maxlat="90.0" minlon="106.0" minlat="-90.0"/>
+    <wpt lon="106.6907" lat="10.7686167">
+        <time>2006-05-17T02:00:00.000-05:00</time>
+        <name>OXW34C</name>
+        <desc>Saigons first Micro by CEILORD491, Traditional Cache(3.4/2.5/3.2)</desc>
+        <url>http://www.opencaching.com/#geocache/OXW34C</url>
+        <urlname>Saigons first Micro</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="807376">
+            <groundspeak:name>Saigons first Micro</groundspeak:name>
+            <groundspeak:placed_by>CEILORD491</groundspeak:placed_by>
+            <groundspeak:owner id="8829">CEILORD491</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;b&gt;Saigons first&lt;br/&gt;Micro&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;p&gt;&lt;b&gt;This is Saigons&lt;br/&gt;first (and only) real cache, placed in may 2006 !  Its a&lt;br/&gt;little filmcontainer.&lt;/b&gt;&lt;/p&gt;&lt;br/&gt;&lt;p&gt; &lt;/p&gt;&lt;br/&gt;&lt;p&gt;The Micro is hidden&lt;br/&gt;in the famous traveler area named: &lt;strong&gt;Pham Ngu Lao&lt;/strong&gt;&lt;br/&gt;Street in a park nearby.&lt;br/&gt;&lt;br/&gt;Please be carefull when you log it.&lt;br/&gt;&lt;br/&gt;A lot of Muggels are around and might see you. Asian people are&lt;br/&gt;&lt;strong&gt;VERY VERY&lt;/strong&gt;&lt;br/&gt;&lt;strong&gt;CURIOUS&lt;/strong&gt; in what you do!&lt;br/&gt;&lt;br/&gt;I hid this one @ a special place. Please don´t be &quot;shocked&quot; Maybe&lt;br/&gt;you should read the hint and look at the spoiler.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&lt;br/&gt;&lt;br/&gt;Please bring a pencil&lt;br/&gt;.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&lt;strong&gt;DEUTSCH:&lt;/strong&gt;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;dies ist Saigons erster und bisher einziger realer Cache.&lt;br/&gt;Zu finden Nähe der PHAM NGU LAO Straße.&lt;br/&gt;&lt;br/&gt;Passt auf Muggels auf die Euch beobachten. Der Cache wurde schon 2&lt;br/&gt;mal gemuggeld.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Bitte Stift mitbringen!&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Viel Spaß&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>hidden &quot;in&quot; a little powerstation nearby the big powerstation.grab inside
+Deutsch: im Stromverteiler unten rechts.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1386604">
+                    <groundspeak:date>2011-07-29T23:35:54.000-05:00</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="48249">neovinhtru</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1386598">
+                    <groundspeak:date>2011-07-29T22:14:26.000-05:00</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="48249">neovinhtru</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1382943">
+                    <groundspeak:date>2011-07-28T05:27:34.000-05:00</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="48249">neovinhtru</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1382930">
+                    <groundspeak:date>2011-07-28T04:38:50.000-05:00</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="48249">neovinhtru</groundspeak:finder>
+                    <groundspeak:text encoded="False">adasdsad as dassa</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1382927">
+                    <groundspeak:date>2011-07-28T04:36:05.000-05:00</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="48249">neovinhtru</groundspeak:finder>
+                    <groundspeak:text encoded="False">xzxzxzxX</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.2</ox:awesomeness>
+                <ox:difficulty>3.4</ox:difficulty>
+                <ox:size>2.5</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Saigon</ox:tag>
+                <ox:tag>Pham Ngu Lao</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+</gpx>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,116,90,117</url>
+    <time>2012-01-04T09:32:46.946-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="117.0" maxlat="90.0" minlon="116.0" minlat="-90.0"/>
+    <wpt lon="116.0067667" lat="40.3489667">
+        <time>2010-11-11T02:00:00.000-06:00</time>
+        <name>OX2J32Q</name>
+        <desc>Changcheng Badaling by MERDIAN, Traditional Cache(1.5/3.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2J32Q</url>
+        <urlname>Changcheng Badaling</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2386248">
+            <groundspeak:name>Changcheng Badaling</groundspeak:name>
+            <groundspeak:placed_by>MERDIAN</groundspeak:placed_by>
+            <groundspeak:owner id="3693">MERDIAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The Badaling part of Chángchéng, the Great Wall, is from Beijing
+easily accessable in one or 1,5 hours by public bus or train.
+&lt;p&gt;If you want to find the cache (size is between small and regular
+and has enough space for Travel Bugs) please use the waypoints. You
+need at least 30 minutes from W1 to the cache. The part on the
+Great Wall is quite steep. The following trail, starting at W2 is
+fairly small and slippery in wet conditions and gets thorny on the
+last 10m.&lt;/p&gt;
+&lt;p&gt;Please do not try to find this cache in the snow because your
+footprints will lead the local muggles to the hiding place.&lt;/p&gt;
+&lt;p&gt;Have fun and don't forget the spoiler pictures!&lt;/p&gt;
+&lt;p&gt;Small note on cache maintenance: &quot;bj-b&quot; will
+assist. Thanks!&lt;/p&gt;&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;W12J32Q - Entry to the Great Wall&lt;br/&gt;N 40° 21.249 E 116° 00.399&lt;br/&gt;&lt;br/&gt;W22J32Q - Guizhou Pavilion for the Stele&lt;br/&gt;N 40° 20.919 E 116° 00.223&lt;br/&gt;Down the stairs&lt;br/&gt;W32J32Q - Start of small trail&lt;br/&gt;N 40° 20.932 E 116° 00.256&lt;br/&gt;&lt;br/&gt;W42J32Q - Start of very small trail&lt;br/&gt;N 40° 20.953 E 116° 00.381&lt;br/&gt;Leave the main trail and take the small branch&lt;br/&gt;W52J32Q - End of trail&lt;br/&gt;N 40° 20.940 E 116° 00.408&lt;br/&gt;Only about 10m to go</groundspeak:long_description>
+            <groundspeak:encoded_hints>Hidden under stones. See spoiler pictures!</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1290974">
+                    <groundspeak:date>2011-06-20T00:04:02.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="34058">luxel</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

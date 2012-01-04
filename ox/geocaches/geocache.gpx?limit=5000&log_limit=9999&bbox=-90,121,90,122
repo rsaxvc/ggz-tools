@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,121,90,122</url>
+    <time>2012-01-04T09:32:48.279-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="122.0" maxlat="90.0" minlon="121.0" minlat="-90.0"/>
+    <wpt lon="121.1762" lat="24.7062333">
+        <time>2011-04-21T22:07:52.000-05:00</time>
+        <name>OXZTWHN</name>
+        <desc>Neiwan Water Park by Ruby1988, Multi-cache(3.5/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTWHN</url>
+        <urlname>Neiwan Water Park</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="28476900">
+            <groundspeak:name>Neiwan Water Park</groundspeak:name>
+            <groundspeak:placed_by>Ruby1988</groundspeak:placed_by>
+            <groundspeak:owner id="10970">Ruby1988</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Neiwan Water Park is located within the Bay Street entrance to enter the necessary land. It has different style bridges and pavilions and the modern-style Chinese garden. People can relax in a nice place.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Neiwan Water Park </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>2.5</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.0867833" lat="24.7335667">
+        <time>2011-04-21T21:11:04.000-05:00</time>
+        <name>OXZTWHP</name>
+        <desc>Chutung Forest Trail by Ruby1988, Traditional Cache(2.6/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTWHP</url>
+        <urlname>Chutung Forest Trail</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28476901">
+            <groundspeak:name>Chutung Forest Trail</groundspeak:name>
+            <groundspeak:placed_by>Ruby1988</groundspeak:placed_by>
+            <groundspeak:owner id="10970">Ruby1988</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Situated in Dapeng Mountain, the trail provides a good mountaineering place for the citizens in Chutung Township. Behind Pujhao Temple, there is a path directly leading to the mountain, and there you can get a bird’s eye view of the township.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Red street light</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.0435" lat="24.7493833">
+        <time>2011-03-05T02:42:12.000-06:00</time>
+        <name>OXZTX21</name>
+        <desc>Baoshan Reservoir by shiehyt, Traditional Cache(2.0/3.0/2.9)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTX21</url>
+        <urlname>Baoshan Reservoir</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477376">
+            <groundspeak:name>Baoshan Reservoir</groundspeak:name>
+            <groundspeak:placed_by>shiehyt</groundspeak:placed_by>
+            <groundspeak:owner id="7064">shiehyt</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Baoshan Reservoir is located in Baoshan Township, Hsinchu County, within the catchment area of about 3.20 square kilometers. It supports Hsinchu Science Park(HSP), industrial water, Hsinchu, JuTong, Baoshan, and other regions of drinking water.
+
+Reservoir has a lake trail about 3.2 km, passing through two beautiful suspension bridges. In the end of April and early May each year, there are full of snow-white tung blossom around the reservoir and it is very suitable for outing.
+
+Please bring your own pen with you and happy hunting.</groundspeak:long_description>
+            <groundspeak:encoded_hints>In a tree hole</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1283194">
+                    <groundspeak:date>2011-06-08T08:22:41.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="31787">raphaie</groundspeak:finder>
+                    <groundspeak:text encoded="False">Logged via OpenCaching Android app.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Hsinchu</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.0101667" lat="24.77675">
+        <time>2011-03-05T03:01:22.000-06:00</time>
+        <name>OXZTX20</name>
+        <desc>Hsinchu Science Park (HSP) by shiehyt, Traditional Cache(2.0/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTX20</url>
+        <urlname>Hsinchu Science Park (HSP)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477375">
+            <groundspeak:name>Hsinchu Science Park (HSP)</groundspeak:name>
+            <groundspeak:placed_by>shiehyt</groundspeak:placed_by>
+            <groundspeak:owner id="7064">shiehyt</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The National Science Council set up the Hsinchu Science Park (HSP), the first establishment of its kind in Taiwan, on December 15, 1980. By ushering in technologies and talent from abroad, bringing about the transformation of domestic conventional industry, and fostering the upgrade of industrial technology across the board, the park is intended to help high-tech industry take off in Taiwan.
+
+Straddling the city and county of Hsinchu, the 6.5-square kilometer HSP now mainly houses semiconductor and optoelectronics ventures. Around 450 tenant companies employ roughly 140,000 people.
+ 
+The Hsinchu Science Park is constantly extending its industry capacity as well as competence in semiconductor, opto-electronics, information, and telecommunications industries. Thus, more than 70% of global IT industry products are initiated from companies at the Hsinchu Science Park. As a venue full of chances, the Hsinchu Science Park has turned out to be the first choice of high-tech industry investment globally.
+
+This cache is located in the dormitory area of HSP and near a beautiful artificial lake, Jingsin Lake. Please bring your own pen with you and happy hunting.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Near a tree root.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Hsinchu</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.0399833" lat="24.8070333">
+        <time>2011-03-04T03:25:19.000-06:00</time>
+        <name>OXZTX24</name>
+        <desc>HSR Hsinchu Station by Ruby1988, Traditional Cache(1.1/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTX24</url>
+        <urlname>HSR Hsinchu Station</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477379">
+            <groundspeak:name>HSR Hsinchu Station</groundspeak:name>
+            <groundspeak:placed_by>Ruby1988</groundspeak:placed_by>
+            <groundspeak:owner id="10970">Ruby1988</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">HSR Hsinchu Station is an elevated station with outstanding design which won the Award of Taiwan Architecture 2006.  The design of THSR Hsinchu Station is with the concept of traditional Hakka buildings; wafer and semi-conductor shows the characteristics of Hsinchu, a city with high tech industry and culture of ancient town. 
+
+ The design of streamline roof is for adaptability of the strong wind in Hsinchu.  The first floor is the lobby of ticket office, shops and transfer area, the second floor is the coulisse, and the third floor is the platform. 
+
+ HSR Hsinchu Station provides all-in-one services for travelers to Hsinchu downtown and the Science Park, it will connect to the Neiwan line of Taiwan Railway Administration in the future.  Beside the station is THSR Exhibition, which introduces the whole transportation system and simulation station.  It is free of visit with reservation.
+</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1164216">
+                    <groundspeak:date>2011-03-05T02:09:08.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7064">shiehyt</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found it by my daughter.
+TFTC.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.1</ox:difficulty>
+                <ox:size>3.5</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.0196" lat="24.8223">
+        <time>2011-03-04T03:11:20.000-06:00</time>
+        <name>OXZTX25</name>
+        <desc>Hsinchu County Stadium by Ruby1988, Traditional Cache(1.2/2.0/2.9)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTX25</url>
+        <urlname>Hsinchu County Stadium</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477380">
+            <groundspeak:name>Hsinchu County Stadium</groundspeak:name>
+            <groundspeak:placed_by>Ruby1988</groundspeak:placed_by>
+            <groundspeak:owner id="10970">Ruby1988</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">There are a stadium, gym, and swimming pool with warm water option in the County Stadium, where people can go swimming, play sports, and dance or learn martial arts. Besides large sports events, it is also a great recreational place for county residents.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1206756">
+                    <groundspeak:date>2011-04-17T05:39:23.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="17140">CV1706</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found it. 
+TFTC
+TNLN</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1204921">
+                    <groundspeak:date>2011-04-11T19:44:42.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7664">mikehsiao</groundspeak:finder>
+                    <groundspeak:text encoded="False">Nice hide but easy find
+
+--
+Sent from my iPhone Cache Me App</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1164215">
+                    <groundspeak:date>2011-03-05T02:07:13.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7064">shiehyt</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found this cache. 
+TFTC.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>1.2</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.011875" lat="24.829495">
+        <time>2011-01-19T03:52:28.000-06:00</time>
+        <name>OXZTXD7</name>
+        <desc>Cultural Affairs Bureau of Hsinchu County Government by Ruby1988, Traditional Cache(1.1/1.1/2.9)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTXD7</url>
+        <urlname>Cultural Affairs Bureau of Hsinchu County Government</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477723">
+            <groundspeak:name>Cultural Affairs Bureau of Hsinchu County Government</groundspeak:name>
+            <groundspeak:placed_by>Ruby1988</groundspeak:placed_by>
+            <groundspeak:owner id="10970">Ruby1988</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">A cache close to the Jeibei Kuang Ming Business Areaand the culture centre . There are lots of delicious food, a variety of choices.
+This cache is easy to find and it is offering a convenient place to do your logging. As the container is a yellow plastic box.
+If possible please share some of your Hsinchu pictures you made during the visit of this interesting place.
+Remember to bring a pen with you as there is none in the container and please avoid to use stickers for your log as the log book only has limited space.
+
+Enjoy!!!</groundspeak:long_description>
+            <groundspeak:encoded_hints>Big pothole</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1206758">
+                    <groundspeak:date>2011-04-17T05:42:04.000-05:00</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="17140">CV1706</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found it. 
+TFTC
+TNLN</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1206757">
+                    <groundspeak:date>2011-04-17T05:41:42.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="17140">CV1706</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1198175">
+                    <groundspeak:date>2011-04-04T19:29:46.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="11376">PATRICK.TAIWAN</groundspeak:finder>
+                    <groundspeak:text encoded="False">I found this cache with my family. TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1172232">
+                    <groundspeak:date>2011-03-11T10:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="8843">COOKIE450</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found it,&quot;THIS IS MY FIRST OPENCACHING find. Hope it is a GOOD opening. Happy Hunting. ¿¿¿!!~~</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1162204">
+                    <groundspeak:date>2011-02-27T10:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="13553">Stonez</groundspeak:finder>
+                    <groundspeak:text encoded="False">I found this on the last day of Feburary. This is the second cache we found with my family.It was a nice weather that day and it only took us 5 minutes to find it.  There is only a stamp and few pieces of log cards in it.  So I put a maganent in it and placed it back where it was.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>1.1</ox:difficulty>
+                <ox:size>2.9</ox:size>
+                <ox:terrain>1.1</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.5637833" lat="25.0386333">
+        <time>2008-03-03T02:00:00.000-06:00</time>
+        <name>OX19WVW</name>
+        <desc>Taipei City Hall by KLO25, Traditional Cache(1.6/1.0/2.8)</desc>
+        <url>http://www.opencaching.com/#geocache/OX19WVW</url>
+        <urlname>Taipei City Hall</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1218420">
+            <groundspeak:name>Taipei City Hall</groundspeak:name>
+            <groundspeak:placed_by>KLO25</groundspeak:placed_by>
+            <groundspeak:owner id="3139">KLO25</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">A cache close to the Taipei City Hall and the Taipei 101 building. This cache is easy to find and it is offering a convenient place to do your logging. As the container is a film box, trading is limited to very small objects.
+
+If possible please share some of your Taipei pictures you made during the visit of this interesting place.
+
+Remember to bring a pen with you as there is none in the container and please avoid to use stickers for your log as the log book only has limited space.
+
+Happy Hunting! 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>A dry place.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1518204">
+                    <groundspeak:date>2011-08-06T11:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4876">moloi</groundspeak:finder>
+                    <groundspeak:text encoded="False">Nice hide, quick found. TNLNSL TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1172794">
+                    <groundspeak:date>2011-03-19T00:12:15.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="11376">PATRICK.TAIWAN</groundspeak:finder>
+                    <groundspeak:text encoded="False">TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1093219">
+                    <groundspeak:date>2011-01-25T09:28:31.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="11291">KUOLIAN</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1146038">
+                    <groundspeak:date>2008-12-05T10:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="8843">COOKIE450</groundspeak:finder>
+                    <groundspeak:text encoded="False">A good place to hide the cache in a city.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="954982">
+                    <groundspeak:date>2008-09-16T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="9541">B.F.K.C.</groundspeak:finder>
+                    <groundspeak:text encoded="False">I found this cache during a short business trip to Taipei.
+Thank you for the cache!
+F. of B.F.K.C.
+
+[This entry was edited by BFKC on Sunday, October 05, 2008 at 12:11:26 PM.]</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.8</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.78265" lat="25.1438833">
+        <time>2005-03-20T02:00:00.000-06:00</time>
+        <name>OXN6A2</name>
+        <desc>Historic Battery (back of NTOU) by COOKIE450, Traditional Cache(1.6/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXN6A2</url>
+        <urlname>Historic Battery (back of NTOU)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="631689">
+            <groundspeak:name>Historic Battery (back of NTOU)</groundspeak:name>
+            <groundspeak:placed_by>COOKIE450</groundspeak:placed_by>
+            <groundspeak:owner id="8843">COOKIE450</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">easy to reach. 
+
+ You can start from this coordinate &quot;N 25-08.937 E 121-46.495&quot; the Longun
+Trail in National Taiwan Ocean University, NTOU, that nearby 1st student
+dormitory. Uphill to the top of the trail and follow the goal's coordinate to get it.
+
+With good view to the ocean, fishing port and Keelung island.</groundspeak:long_description>
+            <groundspeak:encoded_hints>bottom of tree trunk</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1158456">
+                    <groundspeak:date>2011-02-25T23:08:05.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="11376">PATRICK.TAIWAN</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found it with family. Good place with great views. TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.8033" lat="25.1458167">
+        <time>2010-02-22T02:00:00.000-06:00</time>
+        <name>OX249WG</name>
+        <desc>New Open Chao-jin Coastal Park by COOKIE450, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX249WG</url>
+        <urlname>New Open Chao-jin Coastal Park</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1975708">
+            <groundspeak:name>New Open Chao-jin Coastal Park</groundspeak:name>
+            <groundspeak:placed_by>COOKIE450</groundspeak:placed_by>
+            <groundspeak:owner id="8843">COOKIE450</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">It is a black film canister. Please take a pen with you to have a log. 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>hang</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1265369">
+                    <groundspeak:date>2011-05-30T23:07:12.000-05:00</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="26693">andy661105</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1265368">
+                    <groundspeak:date>2011-05-30T23:06:42.000-05:00</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="26693">andy661105</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1265367">
+                    <groundspeak:date>2011-05-30T23:06:27.000-05:00</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="26693">andy661105</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1265365">
+                    <groundspeak:date>2011-05-30T23:02:47.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="26693">andy661105</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1158457">
+                    <groundspeak:date>2011-02-26T03:10:49.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="11376">PATRICK.TAIWAN</groundspeak:finder>
+                    <groundspeak:text encoded="False">TFTC.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.409" lat="31.005">
+        <time>2011-01-31T01:09:47.000-06:00</time>
+        <name>OXZTXA9</name>
+        <desc>Chinese sybol by nuvi765, Traditional Cache(2.3/2.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTXA9</url>
+        <urlname>Chinese sybol</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477632">
+            <groundspeak:name>Chinese sybol</groundspeak:name>
+            <groundspeak:placed_by>nuvi765</groundspeak:placed_by>
+            <groundspeak:owner id="11642">nuvi765</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Located in the center of Minhang District of Shanghai, only 18 kilometers (11.18 miles) from the downtown area, Qibao Ancient Town can satisfy your curiosity about ancient water townships without the bother of either long distance or the rush of crowds.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.3</ox:difficulty>
+                <ox:size>1.9</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>very chinese</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.5851667" lat="31.2021167">
+        <time>2011-05-10T07:00:58.000-05:00</time>
+        <name>OXZTW5X</name>
+        <desc>Hulk's Box by happylun, Traditional Cache(2.7/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTW5X</url>
+        <urlname>Hulk's Box</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28476535">
+            <groundspeak:name>Hulk's Box</groundspeak:name>
+            <groundspeak:placed_by>happylun</groundspeak:placed_by>
+            <groundspeak:owner id="20553">happylun</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">&quot;I have a dream&quot;, said Walt. He was 62 years old. &quot;It will come true on this Christmas!&quot;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Wanglaoji</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.7</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>main street</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.0643" lat="38.9092667">
+        <time>2011-05-29T16:11:36.000-05:00</time>
+        <name>OXZTVTZ</name>
+        <desc>field of my youth by DIRTDEVIL530, Traditional Cache(2.9/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTVTZ</url>
+        <urlname>field of my youth</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28476196">
+            <groundspeak:name>field of my youth</groundspeak:name>
+            <groundspeak:placed_by>DIRTDEVIL530</groundspeak:placed_by>
+            <groundspeak:owner id="22575">DIRTDEVIL530</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">this is the field of the school i went to as a youth.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.9</ox:difficulty>
+                <ox:size>2.9</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

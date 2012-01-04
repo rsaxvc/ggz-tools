@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,-69,90,-68</url>
+    <time>2012-01-04T09:28:17.754-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="-68.0" maxlat="90.0" minlon="-69.0" minlat="-90.0"/>
+    <wpt lon="-68.7333333" lat="44.8166667">
+        <time>2008-11-30T02:00:00.000-06:00</time>
+        <name>OX1JJCA</name>
+        <desc>Evil milk by mcano, Unknown Cache(4.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1JJCA</url>
+        <urlname>Evil milk</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1477439">
+            <groundspeak:name>Evil milk</groundspeak:name>
+            <groundspeak:placed_by>mcano</groundspeak:placed_by>
+            <groundspeak:owner id="3756">mcano</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>4.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Imagine you have fridge full of bottles of milk. All bottles look
+the same, however one bottle contains evil milk. Evil milk looks
+and tastes same as regular milk, with one exception. If you drink
+even one drop of evil milk, you will get diarrhea next morning
+before you wake up. You don't know which bottle contains evil milk
+and you need to find out within one day. Good news is you have
+unlimited number of friends who are willing to help you. You may
+invite same number of friends as you have bottles and give each of
+them one drop of milk always from different bottle and next morning
+who ever gets it, will call you. (you put sticker with name on each
+bottle before) However there is a better solution and you don't
+need to use so many friends. So the question is: What's the minimum
+number of friends you need to figure out in which bottle evil milk
+is. &lt;br/&gt;
+&lt;br/&gt;
+Cache is hidden on these coordinates: &lt;b&gt;N44°49.xxx'
+W68°44.yyy'&lt;/b&gt; &lt;br/&gt;
+To get xxx you must solve the puzzle for 1000 bottles of milk in
+your fridge. &lt;br/&gt;
+To get yyy you must solve the puzzle for 1 000 000 000 000 000 000
+000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000 000
+000 000 000 000 000 000 000 000 000 000 bottles of milk in your
+fridge (one and 99 zeroes) (you have a big fridge) &lt;br/&gt;
+if you get smaller than 3 digit number, just use some zeroes (like
+25 -&amp;gt; 025)&lt;br/&gt;
+&lt;br/&gt;
+FYI: number of all particles (electrons, quarks) in (observable)
+universe is one and 80 zeroes. So you would have to take 10 000 000
+000 000 000 000 universes to have the same number of particles as
+you have bottles of milk in your fridge. You have a huge fridge
+indeed.&lt;br/&gt;
+&lt;br/&gt;
+I will post every week one hint to solve the puzzle. I made up the
+story so you won't be able to google it this time, however google
+calculator might by helpful. Remember, you don't drink (for obvious
+reasons) just your friends do. &lt;br/&gt;
+ &lt;br/&gt;
+&lt;p&gt;You can check your answers for this puzzle on
+
+Geochecker.com.&lt;/p&gt;
+&lt;p&gt;Congratulations to Sudonim for FTF. That was fast!&lt;/p&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;HIDDEN: FL1JJCA - Final&lt;br/&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br/&gt;final</groundspeak:long_description>
+            <groundspeak:encoded_hints>Cache: On a tree.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2866">
+                    <groundspeak:date>2010-07-18T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="193">g-o-cashers</groundspeak:finder>
+                    <groundspeak:text encoded="False">Find #2738 @ 07:51 on 7/18/2010:
+
+Not too much of a problem coming up with a solution for this cache although I did find some online resources which helped with one part of the solution.  I'm thinking the real limitation might be how much milk one person can drink in one night!  
+
+Thanks for the brainteaser, no problems finding the cache.
+
+GO$Rs (Boxborough, MA)</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>4.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-68.75285" lat="44.82295">
+        <time>2010-11-21T02:00:00.000-06:00</time>
+        <name>OX2JJ9E</name>
+        <desc>World Class Cacher Challenge by mcano, Unknown Cache(1.5/1.5/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2JJ9E</url>
+        <urlname>World Class Cacher Challenge</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2400871">
+            <groundspeak:name>World Class Cacher Challenge</groundspeak:name>
+            <groundspeak:placed_by>mcano</groundspeak:placed_by>
+            <groundspeak:owner id="3756">mcano</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;Get your passport ready, you are going to travel. The challenge
+is to find a cache in 10 different countries. Not challenging
+enough? Try to do it within one year as a bonus. I did. But you
+don't have to. There is no time limit to complete this challenge.
+You may find any cache type you like (except location less) at any
+time during your lifetime. After you complete this challenge you
+may log your find and claim the World Class Cacher title. In your
+log please write down a list of country names and cache codes and
+mention how you liked your visit and caching there. Don't forget to
+post some nice photos :)&lt;/p&gt;
+&lt;p&gt;Is ten too many for you? You may attempt to claim the World
+Class Cacher Apprentice title by finding a cache in just five
+different countries, you may log your find, but cannot claim FTF.
+FTF is only for those who find a cache in 10 or more countries.&lt;/p&gt;
+&lt;p&gt;This cache is a great place to trade your foreign coins,
+souvenirs, hotel room keys, shells... Cache is not winter friendly,
+but why you would cache in a winter if you can cache in the
+Caribbean, right?&lt;/p&gt;
+&lt;p&gt;Can't decide where to go? Here is some
+inspiration for you.&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+Grand Cayman, Cayman Islands&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+Cozumel, Mexico&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+Roatan, Honduras&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+Roatan, Honduras&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+Belize&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+Belize&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+St. Croix&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+St. Croix&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+St. Maarten&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+St. Maarten&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+Antigua&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+St. Lucia&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+Volcano, St. Lucia&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+Barbados&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+Barbados&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+Puerto Rico&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+Grand Cayman&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+Grand Cayman&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+Jamaica&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+Labadee, Haiti&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+Labadee, Haiti&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+Bermuda&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+Bermuda&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+Nassau, Bahamas&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+Nassau, Bahamas&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+Coco Cay, Bahamas&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+Campobello Island, Canada&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+Praha, Czech Republic&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+Sulov, Slovakia&lt;br/&gt;
+&lt;br/&gt;
+
+&lt;br/&gt;
+I don't remember where, I was drunk :)&lt;br/&gt;
+&lt;br/&gt;&lt;/p&gt; 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>under roots</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-68.7408333" lat="44.8285833">
+        <time>2008-08-01T02:00:00.000-05:00</time>
+        <name>OX1ET93</name>
+        <desc>Prime Factorization by mcano, Unknown Cache(3.5/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1ET93</url>
+        <urlname>Prime Factorization</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1364902">
+            <groundspeak:name>Prime Factorization</groundspeak:name>
+            <groundspeak:placed_by>mcano</groundspeak:placed_by>
+            <groundspeak:owner id="3756">mcano</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">In number theory, the prime factors of a positive integer are the
+prime numbers that divide into that integer exactly, without
+leaving a remainder. The process of finding these numbers is called
+integer factorization, or prime factorization. The prime
+factorization of a positive integer is a list of the integer's
+prime factors, together with their multiplicity. The fundamental
+theorem of arithmetic says that every positive integer has a unique
+prime factorization. Determining the prime factors of a number is
+an example of a problem frequently used to ensure cryptographic
+security in encryption systems; this problem is believed to require
+super-polynomial time in the number of digits- it is relatively
+easy to construct a problem that would take longer than the known
+age of the Universe to calculate on current computers using current
+algorithms. Don't worry, prime factorization of given number, won't
+take you so long ;-) &lt;br/&gt;
+&lt;br/&gt;
+Cache is not winter friendly, you probably won't find it under snow
+and you may damage it if you step on it.&lt;p&gt;Additional Waypoints&lt;/p&gt;HIDDEN: FC1ET93 - Final cache&lt;br/&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br/&gt;Final cache</groundspeak:long_description>
+            <groundspeak:encoded_hints>Cache is hidden under roots of fallen tree.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="388834">
+                    <groundspeak:date>2008-08-25T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3756">mcano</groundspeak:finder>
+                    <groundspeak:text encoded="False">Just checking</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="2622">
+                    <groundspeak:date>2008-08-02T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="193">g-o-cashers</groundspeak:finder>
+                    <groundspeak:text encoded="False">After arriving at camp last night I had planned to visit BCF in the morning.   When I awoke I had a new cache alert for this cache sitting on my phone and since I've done similar before I made quick work out of the puzzle.   Quick stop on the way to BCF.  What a great way to start the week's vacation with a FTF!
+
+Thanks for the puzzle!
+
+GO$Rs (Boxborough, MA)</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-68.7508883" lat="44.8305317">
+        <time>2009-09-14T02:00:00.000-05:00</time>
+        <name>OX1YNQ0</name>
+        <desc>Fine Restaurant by mcano, Unknown Cache(3.5/1.5/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1YNQ0</url>
+        <urlname>Fine Restaurant</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1808354">
+            <groundspeak:name>Fine Restaurant</groundspeak:name>
+            <groundspeak:placed_by>mcano</groundspeak:placed_by>
+            <groundspeak:owner id="3756">mcano</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">I went to the restaurant the other day to celebrate my 100th FTF.
+Waitress brought me this menu of appetizers: &lt;br/&gt;
+&lt;br/&gt;
+ 
+
+
+amnt
+Name
+Price
+
+a
+Thai Phoon Shrimp
+$0.42
+
+b
+Chicken Quesadilla
+$0.77
+
+c
+Fire Wings
+$1.54
+
+d
+Queso Dip
+$2.11
+
+e
+Crab Cake
+$4.20
+
+f
+Cheddar Fries
+$5.87
+&lt;br/&gt;
+&lt;br/&gt;
+ After a quick look I ordered just to bring me a $10 worth of
+appetizers. Waitress looked at me like does it have to be exactly
+$10? Sure, is there any problem? After an hour or so she brought me
+my meal. I have no idea what she was doing so long there. I
+finished my meal and because I was running late I just asked for
+ice-cream sampler menu. I got this menu: &lt;br/&gt;
+&lt;br/&gt;
+ 
+
+
+amnt
+Name
+Price
+
+g
+Vanilla
+$0.59
+
+h
+Chocolate
+$0.72
+
+i
+Strawberry
+$0.86
+
+j
+Coffee
+$0.89
+
+k
+Banana
+$1.07
+
+m
+Hawaiian Deligh
+$1.20
+&lt;br/&gt;
+&lt;br/&gt;
+After a quick look I ordered a $4 worth of ice-cream. It took her
+another hour to bring my order. I really don't know what took so
+long, but I was too late already so I just asked her to put it in a
+box. I was really disappointed and didn't want the ice-cream any
+more, so I just put the box to the nearest guardrail :) &lt;br/&gt;
+&lt;br/&gt;
+ To get the coordinates (and ice-cream) you have to figure out
+number of each item I ordered. Each number is an integer greater or
+equal zero.&lt;br/&gt;
+&lt;b&gt;Coordinates are: N44°49.PQR W68°44.XYZ&lt;/b&gt;&lt;br/&gt;
+where&lt;br/&gt;
+P = a + b + c &lt;br/&gt;
+Q = a - f + d &lt;br/&gt;
+R = a + d - e &lt;br/&gt;
+X = a + c - h &lt;br/&gt;
+Y = a - g + k &lt;br/&gt;
+Z = h + j - m &lt;br/&gt;
+&lt;br/&gt;
+There is a $4 worth of ice-cream reward for FTF, so hurry up before
+it melts :) &lt;br/&gt;
+&lt;br/&gt;
+And because I'm nice I will tell you how to easy solve problems
+like this. Read more
+here&lt;br/&gt;
+
+&lt;br/&gt;
+Congratulations to benandtina for their first FTF :)&lt;p&gt;Additional Waypoints&lt;/p&gt;HIDDEN: FL1YNQ0 - Final Location&lt;br/&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___</groundspeak:long_description>
+            <groundspeak:encoded_hints>guardrail</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-68.72" lat="44.84">
+        <time>2009-04-04T02:00:00.000-05:00</time>
+        <name>OX1PGW1</name>
+        <desc>Lorem Ipsum by mcano, Unknown Cache(2.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1PGW1</url>
+        <urlname>Lorem Ipsum</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1595137">
+            <groundspeak:name>Lorem Ipsum</groundspeak:name>
+            <groundspeak:placed_by>mcano</groundspeak:placed_by>
+            <groundspeak:owner id="3756">mcano</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;Sed velit odio, rhoncus ut, egestas quis, lobortis et, arcu.
+Curabitur lacus ipsum, adipiscing nec, sagittis non, convallis et,
+leo. &lt;b&gt;Pellentesque&lt;/b&gt; vel nulla eu nulla luctus egestas. Sed
+placerat sagittis lorem. Class aptent taciti sociosqu ad litora
+torquent per conubia nostra, per inceptos himenaeos. Nunc iaculis
+elit sed metus. Donec fringilla. Nullam sollicitudin ullamcorper
+purus. Sed ultricies tellus scelerisque sapien tempus mattis. Donec
+id ipsum non quam sagittis pulvinar. Chleba natrety hovnom. Nunc mi
+diam, scelerisque quis, varius non, rutrum at, lorem. Mauris augue
+justo, elementum nec, tempor quis, tristique sed, dui. Cum sociis
+natoque penatibus et magnis dis parturient montes, nascetur
+ridiculus mus. Mauris sed orci. Duis consequat, velit eu consequat
+ullamcorper, nulla metus adipiscing dolor, quis semper felis felis
+id nisl. Curabitur tristique tristique mauris. Proin sed dui vitae
+lectus convallis interdum. Sed et sapien ac nisi luctus suscipit.
+Nullam ut mauris vitae tellus euismod egestas. Vivamus dictum.&lt;/p&gt;
+&lt;p&gt;Etiam est. Ut viverra dolor sit amet risus. In lacus purus,
+imperdiet non, placerat a, iaculis non, mi. Donec accumsan lectus
+in ligula tempor congue. Phasellus nulla lectus, mattis eget,
+consequat eget, mattis ac, velit. Suspendisse a ante. Quisque velit
+risus, consectetur vulputate, suscipit sit amet, ultricies in,
+lacus. Nunc purus quam, ornare sed, mollis non, commodo id, nisi.
+Proin euismod sapien vitae lorem. Nunc cursus, urna a tempor
+congue, tortor felis rhoncus purus, vel congue enim turpis et sem.
+Pellentesque dictum nibh a tortor. Mauris eget lorem in ante
+scelerisque bibendum. Nulla nec dui. Duis sapien.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Duis amet. Pulvinar eget felis odio elit.&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Sapien vehicula. Maecena ut magnata consequat
+et.&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Suspendisse libero mi, euismod id, faucibus id, elementum ut,
+eros. Fusce vestibulum dolor ac turpis. Cras pretium consequat
+eros. In ac ipsum ut ligula porttitor iaculis. Nam sed diam. Etiam
+condimentum felis at sapien sodales pellentesque. Fusce vel est.
+Integer aliquam nulla. Proin felis nisi, auctor in, euismod at,
+dapibus id, turpis. Nullam iaculis est a dolor. Suspendisse iaculis
+orci sed lectus. Nulla aliquam ornare purus. Ut ultricies, urna ac
+aliquet aliquet, urna odio viverra arcu, ac viverra est ligula eu
+orci. Mauris aliquet vestibulum purus. Pellentesque sit amet diam.
+Integer lorem leo, vestibulum quis, faucibus id, feugiat sit amet,
+est. Suspendisse sed ante vel ipsum congue tempor.&lt;/p&gt;
+&lt;p&gt;Duis dignissim, ante at interdum elementum, lectus magna iaculis
+nunc, at fringilla elit turpis in mi. Suspendisse potenti. Proin
+placerat faucibus est. Maecenas quis ipsum. Integer fermentum,
+ipsum et ultrices malesuada, sapien erat gravida lacus, iaculis
+laoreet magna nunc id nisi. Suspendisse potenti.&lt;/p&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;HIDDEN: FL1PGW1 - final location&lt;br/&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br/&gt;Final location</groundspeak:long_description>
+            <groundspeak:encoded_hints>Cachus Magnetus</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2853">
+                    <groundspeak:date>2010-07-18T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="193">g-o-cashers</groundspeak:finder>
+                    <groundspeak:text encoded="False">Find #2741 @ 08:30 on 7/18/2010:
+
+I've seen a variation the theme of this puzzle so it was a pretty quick solution as I was scanning mystery/unknown caches in the area.  Thanks for putting out a bunch of interesting puzzles Cano!
+
+GO$Rs (Boxborough, MA)
+</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-68.3759167" lat="45.5489167">
+        <time>2011-10-17T21:32:05.000-05:00</time>
+        <name>OXZTNXV</name>
+        <desc>find me if you can by dtrickie, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTNXV</url>
+        <urlname>find me if you can</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28471480">
+            <groundspeak:name>find me if you can</groundspeak:name>
+            <groundspeak:placed_by>dtrickie</groundspeak:placed_by>
+            <groundspeak:owner id="66662">dtrickie</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">It's in the mail</groundspeak:long_description>
+            <groundspeak:encoded_hints>Under 235</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-68.51655" lat="47.7594333">
+        <time>2011-07-14T17:14:09.000-05:00</time>
+        <name>OXZTRZ2</name>
+        <desc>ravageur2 by RAVAGEUR2, Traditional Cache(1.5/2.5/2.9)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTRZ2</url>
+        <urlname>ravageur2</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474401">
+            <groundspeak:name>ravageur2</groundspeak:name>
+            <groundspeak:placed_by>RAVAGEUR2</groundspeak:placed_by>
+            <groundspeak:owner id="45089">RAVAGEUR2</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">dans la foret pres du chemin viser a un arbre 
+dans la zec Owen a lejeune
+panorama magnifique avec grande possibiliter de voir des chevreuils</groundspeak:long_description>
+            <groundspeak:encoded_hints>Je suis visé a un arbre</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1382956">
+                    <groundspeak:date>2011-07-28T08:02:10.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="45113">Polaris</groundspeak:finder>
+                    <groundspeak:text encoded="False">super belle balade en fôret </groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>4.2</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>foret</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-68.5524667" lat="48.4331">
+        <time>2011-08-24T15:27:12.000-05:00</time>
+        <name>OXZTQY1</name>
+        <desc>biji by mordu, Traditional Cache(2.1/1.8/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTQY1</url>
+        <urlname>biji</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28473408">
+            <groundspeak:name>biji</groundspeak:name>
+            <groundspeak:placed_by>mordu</groundspeak:placed_by>
+            <groundspeak:owner id="55316">mordu</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Il faut prendre le petit chemin dans le rond poin de Gilles Hocquard.Vous allez arriver a un autre chemin prener a gauche.Vous aller descendre un peu il y avoir un petit chemin a droit.
+</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1718954">
+                    <groundspeak:date>2011-12-31T23:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="81482">PADOUE1</groundspeak:finder>
+                    <groundspeak:text encoded="False">je me dementte si il existe vraiment  . Padoue de saint -lambert de lauzon  en visite dans la région</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.1</ox:difficulty>
+                <ox:size>3.8</ox:size>
+                <ox:terrain>1.8</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>dans une petite trail</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-68.1433" lat="49.2271833">
+        <time>2011-06-13T19:55:21.000-05:00</time>
+        <name>OX2VRGE</name>
+        <desc>Plein la vue by JPET94, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2VRGE</url>
+        <urlname>Plein la vue</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2645182">
+            <groundspeak:name>Plein la vue</groundspeak:name>
+            <groundspeak:placed_by>JPET94</groundspeak:placed_by>
+            <groundspeak:owner id="34418">JPET94</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Stationnement à proximité
+
+à cet endroit, vous pourrez admirer les plaisanciers arrivant avec leurs embarcations, l'hôtel le Manoir, L'usine de pâtes et papiers, le parc de Pionniers sans oublier la vue magnifique sur le fleuve St-Laurent.
+
+La cache contient seulement un registre et un gratteux pour le PAT.
+
+Bon géocaching.
+
+Attention aux Géomoldus!!!
+
+Apportez-votre crayon!
+</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Park</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+</gpx>

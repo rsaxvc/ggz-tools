@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,146,90,147</url>
+    <time>2012-01-04T09:33:06.838-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="147.0" maxlat="90.0" minlon="146.0" minlat="-90.0"/>
+    <wpt lon="146.9777667" lat="-36.7441167">
+        <time>2011-06-12T21:48:19.000-05:00</time>
+        <name>OXZTTZ0</name>
+        <desc>2 To Fly by brianmwebb, Virtual Cache(1.0/1.0/2.9)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTTZ0</url>
+        <urlname>2 To Fly</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Virtual Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28475360">
+            <groundspeak:name>2 To Fly</groundspeak:name>
+            <groundspeak:placed_by>brianmwebb</groundspeak:placed_by>
+            <groundspeak:owner id="33906">brianmwebb</groundspeak:owner>
+            <groundspeak:type>Virtual Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Very close to the BBQ and car park&lt;br/&gt;Mind your head as the gliders go by - it's sign ificant&lt;br/&gt;You will need a marker pen to complete the register then add the mobile number as the virtual tag  </groundspeak:long_description>
+            <groundspeak:encoded_hints>check behind the sign boards</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1627259">
+                    <groundspeak:date>2011-10-15T08:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="61668">ROBT61</groundspeak:finder>
+                    <groundspeak:text encoded="False">yeah good fun, hope to find more in this area soon</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1305600">
+                    <groundspeak:date>2011-07-03T20:53:44.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="33906">brianmwebb</groundspeak:finder>
+                    <groundspeak:text encoded="False">Virtual number tag is 46</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>4.5</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Bike Trail</ox:tag>
+                <ox:tag>Gliding</ox:tag>
+            </ox:tags>
+            <ox:verification/>
+        </ox:opencaching>
+    </wpt>
+</gpx>

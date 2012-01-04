@@ -1,0 +1,1288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,3,90,4</url>
+    <time>2012-01-04T09:29:48.113-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="4.0" maxlat="90.0" minlon="3.0" minlat="-90.0"/>
+    <wpt lon="3.0582167" lat="39.7343167">
+        <time>2011-08-01T11:45:10.000-05:00</time>
+        <name>OX2VEPX</name>
+        <desc>Mallorca goes &quot;Chirp&quot; by benebelter, Unknown Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2VEPX</url>
+        <urlname>Mallorca goes &quot;Chirp&quot;</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2635772">
+            <groundspeak:name>Mallorca goes &quot;Chirp&quot;</groundspeak:name>
+            <groundspeak:placed_by>benebelter</groundspeak:placed_by>
+            <groundspeak:owner id="8075">benebelter</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;&lt;a href=&quot;http://regex.info/exif.cgi&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;ENGLISH:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mallorcas first
+&quot;Chirp-Cache&quot;!&lt;/p&gt;
+&lt;p&gt;This is the first Chirp-Cache on Mallorca and also the first
+geocache in Muro!&lt;/p&gt;
+&lt;p&gt;All you need to do
+is load up the initial coords for this cache, head towards that
+location and when you get close switch on 'Chirp Searching' on your
+GPS (Settings -&amp;gt; Geocaches -&amp;gt; Chirp Searching &amp;gt;
+ON)&lt;/p&gt;
+&lt;p&gt;If you haven´t a GPS device that supports
+&quot;Chirp-Searching&quot; : Search the listing ;-)&lt;/p&gt;
+&lt;p&gt;Have fun!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;DEUTSCH:&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mallorcas
+erster &quot;Chirp-Cache&quot;!&lt;/p&gt;
+&lt;p&gt;Dieser Cache ist der erste Chirp-Cache auf Mallorca und
+zugleich der erste Geocache in Muro!&lt;/p&gt;
+&lt;p&gt;Begebt euch nun zu den Startkoordinaten. Dort angekommen müsst
+ihr, wenn noch nicht geschehen, die 'Chirp-Suche' auf eurem GPS
+aktivieren.&lt;/p&gt;
+&lt;p&gt;(Einstellungen
+-&amp;gt; Geocaches -&amp;gt; Chirp Suche &amp;gt; AN)&lt;/p&gt;
+&lt;p&gt;Für diejenigen welche kein GPS-Gerät mit &quot;Chirp-Suche&quot;
+haben: Sucht im Listing ;-)&lt;/p&gt;
+&lt;p&gt;Viel Spass!&lt;/p&gt; </groundspeak:long_description>
+            <groundspeak:encoded_hints>Chirp: Number / Nummer 19 Final: Tree 2m / Baum 2m</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1515194">
+                    <groundspeak:date>2011-07-04T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3363">D1k74</groundspeak:finder>
+                    <groundspeak:text encoded="False">Der zweite Chirp Cache den wir gemacht haben im vorbeifahren ging der Empfang aber nicht also schnell das Auto abgestellt und schon klappte es und wir konnten zur Dose fahren die war dann schnell gefunden und wir konnten um 11:50Uhr loggen.
+
+Danke für den Cache
+[b][i][green]Claudi und Eik aus Leipzig[/green][/i][/b]</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1477892">
+                    <groundspeak:date>2011-05-20T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="6757">_law_</groundspeak:finder>
+                    <groundspeak:text encoded="False">Zusammen mit rudi.kokoefer diesen Cache auf unserem traumhaften Mallorca-Geocache-Urlaub gefunden. Die Qualtiät der Caches hier ist wirklich 1A, eine Location war schöner wie die Andere!
+
+Mein erster Chirp Cache:D,  hat mir wirklich gut gefallen und hat auch alles super funktioniert. Ich verwendete mein Garmin Gpsmap 62.
+
+Schöne Grüße aus der Steiermark (Austria)
+
+TFTC
+ _law_</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.2</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="3.9369667" lat="44.2931">
+        <time>2011-09-06T05:40:53.000-05:00</time>
+        <name>OX2FKY3</name>
+        <desc>sentier de coudoulous et chateau de verfeuil by F1BBI, Traditional Cache(2.6/2.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2FKY3</url>
+        <urlname>sentier de coudoulous et chateau de verfeuil</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2313068">
+            <groundspeak:name>sentier de coudoulous et chateau de verfeuil</groundspeak:name>
+            <groundspeak:placed_by>F1BBI</groundspeak:placed_by>
+            <groundspeak:owner id="54845">F1BBI</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">on pourra se garer aux coordonnées N 44°17.378 E 3°56.287 et partir sur l'ancienne voie romaine puis poursuivre jusqu'au castrum de verfeuil où se trouve la boite.bonne balade en cévennes.</groundspeak:long_description>
+            <groundspeak:encoded_hints>en face des ruines du castrum</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>2.9</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="3.62455" lat="44.4545833">
+        <time>2011-09-06T04:38:32.000-05:00</time>
+        <name>OX3352Z</name>
+        <desc>Le roc des chiens fous by F1BBI, Traditional Cache(2.6/2.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3352Z</url>
+        <urlname>Le roc des chiens fous</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2864833">
+            <groundspeak:name>Le roc des chiens fous</groundspeak:name>
+            <groundspeak:placed_by>F1BBI</groundspeak:placed_by>
+            <groundspeak:owner id="54845">F1BBI</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">La boite se trouve dans un trou,cachée par des pierres
+coté du couchant de l'amas rocheux.
+on pourra garer sa voiture en:
+N 44°27.276  E 3°36.922
+bonne balade,panorama garanti depuis le sommet du Roc des chiens fous.Peut être indisponible en hiver si il y a de la neige(altitude 1455m).
+</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="3.7587667" lat="44.53845">
+        <time>2011-09-06T05:47:00.000-05:00</time>
+        <name>OX32P35</name>
+        <desc>Sommet du Goulet by F1BBI, Traditional Cache(1.6/2.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX32P35</url>
+        <urlname>Sommet du Goulet</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2851385">
+            <groundspeak:name>Sommet du Goulet</groundspeak:name>
+            <groundspeak:placed_by>F1BBI</groundspeak:placed_by>
+            <groundspeak:owner id="54845">F1BBI</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">sous les branches de sapin altitude 1497m.
+bien recacher après découverte.
+bonne balade en Lozère.</groundspeak:long_description>
+            <groundspeak:encoded_hints>cherchez la borne IGN</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="3.1708333" lat="46.85675">
+        <time>2009-03-28T02:00:00.000-05:00</time>
+        <name>OX1P7K5</name>
+        <desc>Culture de Magny Cours by HOWC, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1P7K5</url>
+        <urlname>Culture de Magny Cours</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1586244">
+            <groundspeak:name>Culture de Magny Cours</groundspeak:name>
+            <groundspeak:placed_by>HOWC</groundspeak:placed_by>
+            <groundspeak:owner id="1799">HOWC</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">No pencil / Kein Stift!</groundspeak:long_description>
+            <groundspeak:encoded_hints>snowproof</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="3.16925" lat="46.95245">
+        <time>2009-04-08T02:00:00.000-05:00</time>
+        <name>OX1PPVC</name>
+        <desc>NADIAAC by HOWC, Traditional Cache(1.5/4.0/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1PPVC</url>
+        <urlname>NADIAAC</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1600883">
+            <groundspeak:name>NADIAAC</groundspeak:name>
+            <groundspeak:placed_by>HOWC</groundspeak:placed_by>
+            <groundspeak:owner id="1799">HOWC</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">Not much of a description. another canal, where I've seen some &quot;Bisamratten&quot; so far and a &quot;Rheier&quot; is joining me in my jogging-runs.
+
+Cache contains no pencil, but logstripe and small trading item.
+
+bonne caching
+
+Additional Waypoints
+PA1PPVC - Parking Area
+N 46° 57.136 E 003° 09.598
+100 meters more to go than from the other side, but very nice!
+ 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>EN: middle, up, left
+FR: milieu, haut, gauche</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>bridge climbing</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="3.1592333" lat="46.9865">
+        <time>2009-03-14T02:00:00.000-05:00</time>
+        <name>OX1NNEE</name>
+        <desc>Wishing Well by HOWC, Traditional Cache(2.0/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1NNEE</url>
+        <urlname>Wishing Well</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1569761">
+            <groundspeak:name>Wishing Well</groundspeak:name>
+            <groundspeak:placed_by>HOWC</groundspeak:placed_by>
+            <groundspeak:owner id="1799">HOWC</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">There's no pencil in the cache, but a logbook&lt;br/&gt;
+Es ist kein Stift im Cache, aber ein Logbuch. &lt;br/&gt;
+
+Make a wish 
+ 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>snowproof</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="3.6112167" lat="50.5931333">
+        <time>2010-12-01T02:00:00.000-06:00</time>
+        <name>OX2JZ7G</name>
+        <desc>Lutosa VI : le Ravel by BobValdez, Traditional Cache(1.5/1.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2JZ7G</url>
+        <urlname>Lutosa VI : le Ravel</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2412343">
+            <groundspeak:name>Lutosa VI : le Ravel</groundspeak:name>
+            <groundspeak:placed_by>BobValdez</groundspeak:placed_by>
+            <groundspeak:owner id="2521">BobValdez</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;h1&gt;Lutosa VI : le Ravel&lt;/h1&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;p&gt;Je vous emmène découvrir la modeste ville de Leuze-en-Hainaut à&lt;br/&gt;travers une série de caches. Je ne vais pas m’attarder sur&lt;br/&gt;l’histoire de la ville. En voici un bref résumé : Leuze fût&lt;br/&gt;longtemps reconnue pour ses industries de bonneterie.&lt;br/&gt;&lt;br/&gt;Gallo-romaine, Leuze s’appelait à l’origine LUTOSA, qui&lt;br/&gt;signifie « villa boueuse », située dans une vallée marécageuse elle&lt;br/&gt;est arrosée par la Dendre occidentale et ses affluents.&lt;br/&gt;&lt;br/&gt;Leuze a pris naissance autour d’un monastère dédié aux Saints&lt;br/&gt;Pierre et Paul vers le milieu du VIIème siècle, à l’époque de&lt;br/&gt;Saint-Amand .&lt;br/&gt;&lt;br/&gt;Depuis la fusion des communes en 1977, Leuze-en-Hainaut regroupe:&lt;br/&gt;Leuze, Chappelle-à-Oie, Chapelle-à-Wattines, Blicquy, Gallaix,&lt;br/&gt;Grandmetz, Pipaix, Thieulain, Tourpes et Willaupuis.&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;p&gt;&lt;u&gt;Sixième et dernière étape de notre voyage&lt;/u&gt; :&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;p&gt;&lt;b&gt;Découvrons le Ravel :&lt;/b&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;p&gt;Leuze-en-Hainaut possède également un circuit Ravel, à la grande&lt;br/&gt;joie des promeneurs du coin… Démarrant de la gare, le Ravel&lt;br/&gt;passe entre les quais et le parking afin de rejoindre Basècles&lt;br/&gt;(Commune de Beloeil) sur une distance d’environ 10 km. En&lt;br/&gt;chemin, vous pourrez croiser un élevage de lamas&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;p&gt;&lt;b&gt;En route pour la cache :&lt;/b&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;p&gt;La cache se trouve aux coordonnées &lt;b&gt;N 50°35.588 E&lt;br/&gt;003°36.673&lt;/b&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;p&gt;Bonne chance, &lt;i&gt;Oliv 74 &amp; co.&lt;/i&gt;&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;h1&gt;Un indice se trouve à l’intérieur de la cache afin de&lt;br/&gt;résoudre prochainement l’énigme :&lt;br/&gt;&lt;br/&gt;« &lt;i&gt;de Lutosa à Leuze-en-Hainaut&lt;/i&gt; »&lt;/h1&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>une petite &quot;grimpette&quot; s'impose...</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1710020">
+                    <groundspeak:date>2011-12-17T17:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="76375">robel</groundspeak:finder>
+                    <groundspeak:text encoded="False">J'ai trouvé la cache avec ma fille et le journal était bien rempli de visite.
+Bien trouvé la petite fiole caché sous le petit tronc dans le creux de la racine, astucieux !
+J’ai échangé les petits bonhommes avec ????? 
+Merci pour la balade le long du Ravel.
+</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>1.9</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="3.8730833" lat="50.7575">
+        <time>2011-05-18T06:24:43.000-05:00</time>
+        <name>OXZTW2J</name>
+        <desc>Kabouterhuisjes by EwoudVL, Traditional Cache(3.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTW2J</url>
+        <urlname>Kabouterhuisjes</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28476432">
+            <groundspeak:name>Kabouterhuisjes</groundspeak:name>
+            <groundspeak:placed_by>EwoudVL</groundspeak:placed_by>
+            <groundspeak:owner id="22289">EwoudVL</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">In dit mooie kleine bos is het prachtig wandelen, de cache ligt op een kleine wandelafstand van vele mogelijke parkeerplaatsen(hoge buizemont)</groundspeak:long_description>
+            <groundspeak:encoded_hints>Als je op de bank zit aan de wortels van de rechtse boom</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1249635">
+                    <groundspeak:date>2011-05-20T07:21:19.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="22289">EwoudVL</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.6</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>FOrest</ox:tag>
+                <ox:tag>bos</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="3.9223833" lat="50.9333167">
+        <time>2011-08-05T21:29:10.000-05:00</time>
+        <name>OX2V0GB</name>
+        <desc>1833 by RIKVDV, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2V0GB</url>
+        <urlname>1833</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2622115">
+            <groundspeak:name>1833</groundspeak:name>
+            <groundspeak:placed_by>RIKVDV</groundspeak:placed_by>
+            <groundspeak:owner id="23358">RIKVDV</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">In 1883 werd de Vlekkemse veldwachter Engelbert Van Den Bossche vermoord door twee wildstropers die hij in de velden tussen Vlekkem en Zonnegem op heterdaad had betrapt. Niemand zou zich dat treurige feit allicht nog herinneren, ware het niet dat een arduinen kruis al decennia lang de plek van gebeuren aanduidt.
+Het gerenoveerd gedachteniskruis aan de vermoorde Vlekkemse champetter Engelbert Van Den Bossche wordt een volksmonument dat oproept tot vrede.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Trra uvag abqvt Decodeer sleutel A|B|C|D|E|F|G|H|I|J|K|L|M ------------------------- N|O|P|Q|R|S|T|U|V|W|X|Y|Z (de bovenste letter komt overeen met de onderste letter en omgekeerd)</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="3.9072833" lat="50.9735833">
+        <time>2011-08-05T21:37:38.000-05:00</time>
+        <name>OXJCC3</name>
+        <desc>Blote heide by RIKVDV, Multi-cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXJCC3</url>
+        <urlname>Blote heide</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="548145">
+            <groundspeak:name>Blote heide</groundspeak:name>
+            <groundspeak:placed_by>RIKVDV</groundspeak:placed_by>
+            <groundspeak:owner id="23358">RIKVDV</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">De opgegeven coördinaten zijn deze van een kapelletje midden in een bos. De kapel is deze van Onze Lieve Vrouw van … ??????
+De eigenlijke cache zal je vinden op
+50° 58,250 3°54,476 als de kapel van OLV van Altijddurende Bijstand is
+50° 58,401 3°54,321 als de kapel van OLV van Vrede is
+50° 58,371 3°54,298 als de kapel van OLV van Hoop is
+50° 58,277 3°54,281 als de kapel van OLV van Fatima is
+50° 58,203 3°54,355 als de kapel van OLV van Troost is
+50° 58,277 3°54,281 als de kapel van OLV van Barmhartigheid is
+50° 58,283 3°54,277 als de kapel van OLV van Toevlucht is
+
+Blijf op de paden : de cache is bereikbaar zonder privaat gebied te moeten betreden !
+English) The given coordinates are those from a chapel in the middle of a forest. The chapel is for “Onze Lieve Vrouw van … ??????”
+The final cache can be found on
+
+50° 58,250 3°54,476 if the chapel is for “OLV van Altijddurende Bijstand”
+50° 58,401 3°54,321 if the chapel is for “OLV van Vrede”
+50° 58,371 3°54,298 if the chapel is for “OLV van Hoop”
+50° 58,277 3°54,281 if the chapel is for “OLV van Fatima”
+50° 58,203 3°54,355 if the chapel is for “OLV van Troost”
+50° 58,277 3°54,281 if the chapel is for “OLV van Barmhartigheid”
+50° 58,283 3°54,277 if the chapel is for “OLV van Toevlucht”
+Stay on the paths, the cache can be reached without walking on private property!</groundspeak:long_description>
+            <groundspeak:encoded_hints>orgbaara ohvf (Ratyvfu) pbapergr cvcr Decodeer sleutel A|B|C|D|E|F|G|H|I|J|K|L|M ------------------------- N|O|P|Q|R|S|T|U|V|W|X|Y|Z (de bovenste letter komt overeen met de onderste letter en omgekeerd)</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1669364">
+                    <groundspeak:date>2008-12-26T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="9410">Webby</groundspeak:finder>
+                    <groundspeak:text encoded="False">Na een korte wandeling en een opvliegende Buizerd gespot te hebben vonden we de stach op prefecte coords in een mooi stukje bos niet zo ver van het juiste kapelletje.
+TFTC.
+
+E
+
+This entry was edited by Webbytje on Tuesday, 15 February 2011 at 06:42:12.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="3.2925333" lat="51.1146833">
+        <time>2011-04-03T03:00:00.000-05:00</time>
+        <name>OX2RE9R</name>
+        <desc>Muizen die vliegen by Webby, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2RE9R</url>
+        <urlname>Muizen die vliegen</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2575783">
+            <groundspeak:name>Muizen die vliegen</groundspeak:name>
+            <groundspeak:placed_by>Webby</groundspeak:placed_by>
+            <groundspeak:owner id="9410">Webby</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Ook in het Challengebos zitten muizen.
+Hier ben je in de buurt van de woning van enkele vliegende
+muizen.
+Wees een beetje stil want die slapen overdag.
+Dit is een oppikkertje tussen de challenge caches. 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Boom</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1287421">
+                    <groundspeak:date>2011-06-12T04:14:42.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="33492">Q-ONE007</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Not Off-road vehicles</ox:tag>
+                <ox:tag>Recommended for kids</ox:tag>
+                <ox:tag>Stealth required</ox:tag>
+                <ox:tag>Not Bicycles</ox:tag>
+                <ox:tag>Not Quads</ox:tag>
+                <ox:tag>Not Motorcycles</ox:tag>
+                <ox:tag>Dogs allowed</ox:tag>
+                <ox:tag>Takes less than an hour</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="3.3758" lat="51.126283">
+        <time>2011-03-30T02:00:00.000-05:00</time>
+        <name>OX2WA57</name>
+        <desc>Met zicht op het water. by Webby, Traditional Cache(1.5/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2WA57</url>
+        <urlname>Met zicht op het water.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2661171">
+            <groundspeak:name>Met zicht op het water.</groundspeak:name>
+            <groundspeak:placed_by>Webby</groundspeak:placed_by>
+            <groundspeak:owner id="9410">Webby</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Geniet van het zicht op het water.
+
+Vroeger lag hier al eens een cache van mij maar door intensief gesnoei van de mensen van Natuurpunt is het hier een kale bedoening geworden.Doch van op dit punt heb je nog een prachtig uitzicht op het water en de omgeving.In de stash zit een stempel die je kan gebruiken om in je boekje te zetten als je een stempelkussentje zelf meebrengt natuurlijk.Gelieve de stempel in de stash te laten,dit is geen ruil item.
+
+Plaats ook de stash terug op de zelfde plaats en bedek hem opnieuw zoals het hoort. Veel dank daarvoor.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Dogs</ox:tag>
+                <ox:tag>Stealth required</ox:tag>
+                <ox:tag>Available at all times</ox:tag>
+                <ox:tag>Scenic view</ox:tag>
+                <ox:tag>Takes less than an hour</ox:tag>
+                <ox:tag>Motorcycles</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Bicycles</ox:tag>
+                <ox:tag>Public transportation</ox:tag>
+                <ox:tag>Recommended for kids</ox:tag>
+                <ox:tag>Picnic tables nearby</ox:tag>
+                <ox:tag>Park and Grab</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="3.3472833" lat="51.1271167">
+        <time>2010-11-27T02:00:00.000-06:00</time>
+        <name>OX2JPZE</name>
+        <desc>Are you up to date ? by Webby, Unknown Cache(3.0/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2JPZE</url>
+        <urlname>Are you up to date ?</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2405366">
+            <groundspeak:name>Are you up to date ?</groundspeak:name>
+            <groundspeak:placed_by>Webby</groundspeak:placed_by>
+            <groundspeak:owner id="9410">Webby</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">
+
+ This puzzle can not be calculated prior to visiting the published coordinates, you will just have to go there. 
+Stop and have a look around and if you have the right equipment you should be able to SEE the clue but the clue wil SEE you first if it is the right time of day or night. 
+Treat this as a stop think then cache and dash.
+
+Please re-hide the cache as you found it as the area is popular for mugglers.
+
+Do not dismantle, unscrew or take apart anything !
+No need to climb anything !
+Do not disturb animals !
+
+One gps = 1 log !!
+
+Deze puzzel kan niet thuis op voorhand berekend worden.Je zal gewoon naar de bovenstaandecoords moeten gaan.
+
+Stop en kijk eens goed rond en als je het juiste materiaal hebt zal je de hint kunnen zien maar de hint zal jou al eerder gezien hebben denk ik als het de juiste tijd van de dag of nacht is.
+Behandel deze cache als een stop denk en dan cache en dash.
+
+Verstop de stash zoals je ze gevonden hebt aub.
+
+Je hoeft niets te ontmantelen,los te schroeven of uit elkaar te halen.
+Niet nodig om te klimmen.
+Verstoor geen dieren aub.
+
+1 gps = 1 log !!
+Additional Hidden Waypoints
+FI2JPZE - Stach
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Final destination.Zoek hier maar naar de stash .</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Not Off-road vehicles</ox:tag>
+                <ox:tag>Not Motorcycles</ox:tag>
+                <ox:tag>Not Snowmobiles</ox:tag>
+                <ox:tag>Not Quads</ox:tag>
+                <ox:tag>Wireless Beacon</ox:tag>
+                <ox:tag>Not Difficult climbing</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="3.3370333" lat="51.1328667">
+        <time>2009-04-19T03:00:00.000-05:00</time>
+        <name>OX1PE5Z</name>
+        <desc>Wedloop met de tijd. by Webby, Unknown Cache(3.5/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1PE5Z</url>
+        <urlname>Wedloop met de tijd.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1592562">
+            <groundspeak:name>Wedloop met de tijd.</groundspeak:name>
+            <groundspeak:placed_by>Webby</groundspeak:placed_by>
+            <groundspeak:owner id="9410">Webby</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Weeeerol een Mystery !
+De difficulty is wat opgekrikt,door de
+enorme plantengroei is het soms moeilijker om iets te vinden!
+Je zal wel al een vermoeden hebben dat de coords bovenaan de listing
+niet de echte startcoords zijn é,
+je kan er wel naar toe gaan maar je zal er niets
+vinden.
+
+Wedloop met de tijd, zet er vaart achter...
+Het is zaterdagavond, de lente hangt in de lucht en we zijn op stap naar het clublokaal.Jaarlijks organiseert onze duikclub een spetterende paëlla-avond.De meeste feestvierders zijn reeds aanwezig en sommigen hebben nu al te veel glazen op.
+Pa- en Maëlla roeren nog even in de reuzenpannen.
+Er wordt gegeten en alweer gedronken.
+Aan alle tafels wordt er gebulderd en gelachen.
+Er wordt druk gepraat over onze hobby tot plotseling iemand roept:
+&quot;Wedden dat ....&quot;
+&quot;Ge durft niet!&quot;
+&quot;Wadde, ik nie durven?&quot;
+&quot;Wie vaart er?&quot;
+&quot;Geen tijd te verliezen,onmiddellijk naar de vaart en zet er vaart achter.&quot;
+De weddingschap zou onmiddellijk worden uitgevoerd.
+Eén zwemmer en één man met een bootje. Ze bepalen een water omloop
+langs de vaart. Ze doen aangepaste kledij aan om de kou te trotseren.
+
+De datum?
+We zijn nu 29/03/09. Het is nog steeds nacht en buiten is het 11°.
+De watertemperatuur bedraagt precies 7° en het is windstil.
+Het startschot wordt gegeven. Zowel de zwemmer als het bootje
+vertrekken gelijktijdig.
+Het is exact 01:11:11 h.
+
+De weddingschap?
+Als de zwemmer met een constante snelheid zwemt die 9x trager is
+dan de snelheid van het bootje, dan kan het bootje hem niet inhalen voor 02:22:22 h.
+De man in het bootje doet zijn uiterste best en vaart 1 volledige
+omloop af in 1u aan een constante snelheid van 9 knopen.
+
+Vraag is nu:
+1) Wat is de juiste tijd op het moment dat het bootje de zwemmer
+inhaalt. AB:CD:EF h
+2) Hoeveel m heeft het bootje dan afgelegd GHIJK,L meter
+3) Hoeveel m heeft de zwemmer dan afgelegd MNOP,Q meter
+R= B+E-F
+S= C+D
+Coördinaten: 
+N LK NO.BHJ
+E P GS.RMF
+
+Wie heeft er nu gewonnen ?
+Neem uw berekeningen mee 
+De stach zit onderaan in de wilg .</groundspeak:long_description>
+            <groundspeak:encoded_hints>Wp1: Blok hout met micro in aan een paaltje.
+Wp2: Paaltje</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>5.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Ticks</ox:tag>
+                <ox:tag>Medium hike (1km-10km)</ox:tag>
+                <ox:tag>Dogs allowed</ox:tag>
+                <ox:tag>Thorns</ox:tag>
+                <ox:tag>Field Puzzle</ox:tag>
+                <ox:tag>Public transportation</ox:tag>
+                <ox:tag>Watch for livestock</ox:tag>
+                <ox:tag>Available at all times</ox:tag>
+                <ox:tag>Not Takes less than an hour</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="3.3110833" lat="51.1354833">
+        <time>2009-04-12T03:00:00.000-05:00</time>
+        <name>OX1PXH7</name>
+        <desc>Ze smelten de PAASHAAS by Webby, Traditional Cache(1.1/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1PXH7</url>
+        <urlname>Ze smelten de PAASHAAS</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1606365">
+            <groundspeak:name>Ze smelten de PAASHAAS</groundspeak:name>
+            <groundspeak:placed_by>Webby</groundspeak:placed_by>
+            <groundspeak:owner id="9410">Webby</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Dit is een simpele oppikker,je bent natuurlijk niet verplicht om
+deze te komen zoeken als stadscachen je ding niet zijn. 
+Het is weer zover,ze smelten de Paashaas voor de zoveelste
+keer.
+Het is altijd leuk om een mooie stach te vinden,zowel voor de grote
+als de kleinsten onder ons (kinderen é)
+Dus op Pasen en de dagen daarna zitten er echte paaseitjes in de
+stachbox.
+FTF: My Dying Bride
+STF: Den trol
+TTF: Carloss
+
+PS:Als ik thuis ben en je opgemerkt heb zou ik plots wel eens naast
+je kunnen staan.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Het is rood en zit onder een dakje,dicht tegen het groen.
+Hij ligt op prive terrein.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1206613">
+                    <groundspeak:date>2010-09-22T17:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="16987">GEOSTRUMPF_TAFFY</groundspeak:finder>
+                    <groundspeak:text encoded="False">#1
+Deze avond mijn oregon met gebroken scherm binnengebracht voor herstelling in
+GPS-center in Oedelem. Op terugweg 4 caches opgezocht en gevonden.
+Deze had ik al eerder eens komen zoeken maar helaas niet gevonden.
+Het was hier toen te druk om deftig te zoeken.
+Vandaag hier opnieuw en dan toch op een niet verwachte plaats toch gevonden.
+Ik werd in het oog gehouden door het hondje van de overbuur.
+IN:GC Sluggy
+OUT: GC Travel Turtle
+Logged @ 18h43 
+Webbytje TFTC! 
+Grtz Geostrumpf_Taffy 
+Zie log  www.geocaching.com</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.1</ox:difficulty>
+                <ox:size>5.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Wheelchair accessible</ox:tag>
+                <ox:tag>Park and Grab</ox:tag>
+                <ox:tag>Recommended for kids</ox:tag>
+                <ox:tag>Bicycles</ox:tag>
+                <ox:tag>Motorcycles</ox:tag>
+                <ox:tag>Quads</ox:tag>
+                <ox:tag>Off-road vehicles</ox:tag>
+                <ox:tag>Available at all times</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Takes less than an hour</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="3.3335667" lat="51.1367667">
+        <time>2009-04-18T03:00:00.000-05:00</time>
+        <name>OX1Q6NR</name>
+        <desc>De fiets- en voetgangersbrug. by Webby, Traditional Cache(2.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1Q6NR</url>
+        <urlname>De fiets- en voetgangersbrug.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1615155">
+            <groundspeak:name>De fiets- en voetgangersbrug.</groundspeak:name>
+            <groundspeak:placed_by>Webby</groundspeak:placed_by>
+            <groundspeak:owner id="9410">Webby</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Een echte NANO op de fiets en voetgangersbrug.
+Op 18 oktober 2008 werd de fietsers -en voetgangersbrug over het
+Kanaal Brugge- Gent plechtig geopend. De brug oogt mooi en is
+beslist een aanwinst voor onze gemeente.
+Tevens betekent de brug een verbetering van het comfort van de
+fietsers en voetgangers die zo de hoge Louisabrug niet meer over
+moeten. Aan de kant Vaart-Noord, was er oorspronkelijk geen
+fietspad voorzien, maar dankzij onze inspanningen komt er dan toch
+één tot aan de brug. Aan de overzijde van het kanaal sluit de brug
+aan op het Provinciaal Functioneel Fietsroutenetwerk, wat een extra
+troef is voor wie langs het kanaal van en naar Brugge of Sint-Joris
+wil fietsen.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Klein en zwart.
+Hangt vanaf 17/10/10 niet meer op de brug zelf, wel nog steeds op metaal.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Takes less than an hour</ox:tag>
+                <ox:tag>Park and Grab</ox:tag>
+                <ox:tag>Available during winter</ox:tag>
+                <ox:tag>Wheelchair accessible</ox:tag>
+                <ox:tag>Dogs allowed</ox:tag>
+                <ox:tag>Bicycles</ox:tag>
+                <ox:tag>Public transportation</ox:tag>
+                <ox:tag>Scenic view</ox:tag>
+                <ox:tag>Stealth required</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="3.35" lat="51.1433333">
+        <time>2011-12-01T08:57:34.000-06:00</time>
+        <name>OX38B7A</name>
+        <desc>A challenge 4 u 2 dive by Webby, Unknown Cache(2.5/5.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX38B7A</url>
+        <urlname>A challenge 4 u 2 dive</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3019689">
+            <groundspeak:name>A challenge 4 u 2 dive</groundspeak:name>
+            <groundspeak:placed_by>Webby</groundspeak:placed_by>
+            <groundspeak:owner id="9410">Webby</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Dit is de onderwater T5 &quot;A challenge For You To Dive (4 u 2 Dive)&quot; die normaal voorzien was voor de duikers op het Meet &amp; Greet &quot;It's Time 2 Dive &quot;1st dive&quot; event. 
+
+
+Om deze cache geldig te kunnen loggen moet je aan de voorwaarden voldoen.
+
+
+
+De voorwaarden zijn:
+
+- je moet in het bezit te zijn van een duikbrevet minimun D2** of &quot;advanced openwater diver&quot;
+- in het bezit zijn van een geldig medisch attest om te mogen duiken.
+- je duikt met je eigen uitrusting.
+- maak een afspraak met Online4U via zijn profiel.
+- samen kiezen jullie de datum en de duikstek in Belgie, Nederland of ...
+- je duikt samen met Online4U en tekent zijn duikboekje.
+- je duikt op eigen verantwoordelijkheid.
+- Online4U maakt de eindbeslissing over het al dan niet duiken. SAFETY FIRST !!!
+Na jullie duik krijg je de coördinaten van de stash.
+Verder wens ik je een save dive en goede zichtbaarheid zodat je er een aangename duikervaring aan overhoudt. Veel suq6,
+Webbytje
+
+Ik moet je zeker niet zeggen dat je op de bovenstaande coördinaten geen cache zal vinden.
+
+
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Onderwater</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>5.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>duik materiaal</ox:tag>
+                <ox:tag>onderwatercache</ox:tag>
+                <ox:tag>recent medisch attest om te duiken</ox:tag>
+                <ox:tag>duik brevet minstens D2**</ox:tag>
+                <ox:tag>echte duikcache</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="3.347233" lat="51.154367">
+        <time>2011-06-01T02:00:00.000-05:00</time>
+        <name>OX2XBWF</name>
+        <desc>Kunst in Beernem - 1 by Webby, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2XBWF</url>
+        <urlname>Kunst in Beernem - 1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2692613">
+            <groundspeak:name>Kunst in Beernem - 1</groundspeak:name>
+            <groundspeak:placed_by>Webby</groundspeak:placed_by>
+            <groundspeak:owner id="9410">Webby</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Dit is 1 van de kunstwerkjes die in groot Beernem te vinden zijn.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Hoger dan je ogen.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Stealth required</ox:tag>
+                <ox:tag>Bicycles</ox:tag>
+                <ox:tag>Takes less than an hour</ox:tag>
+                <ox:tag>Public transportation</ox:tag>
+                <ox:tag>Off-road vehicles</ox:tag>
+                <ox:tag>Motorcycles</ox:tag>
+                <ox:tag>Quads</ox:tag>
+                <ox:tag>Available at all times</ox:tag>
+                <ox:tag>Park and Grab</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="3.0220333" lat="51.16285">
+        <time>2011-04-15T07:13:59.000-05:00</time>
+        <name>OX2AK74</name>
+        <desc>Den Roozenweg by GEOSTRUMPF_TAFFY, Traditional Cache(2.4/1.9/2.9)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2AK74</url>
+        <urlname>Den Roozenweg</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2163432">
+            <groundspeak:name>Den Roozenweg</groundspeak:name>
+            <groundspeak:placed_by>GEOSTRUMPF_TAFFY</groundspeak:placed_by>
+            <groundspeak:owner id="16987">GEOSTRUMPF_TAFFY</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Den Roozenweg
+“Buurtweg nr 10”. Westkerke -Roksem 
+
+
+Startpunt en parkeergelegenheid nabij Slagerij Stefaan &amp; Sabine langs de Brugsesteenweg. Tussen huisnrs 28 &amp;30! 
+Buurtwegen behoren tot het cultureel-landschappelijk erfgoed van Vlaanderen en genieten op basis van de wet van 10 april 1841 een bijzonder statuut.
+Deze weg loopt grotendeels over particuliere gronden. Voor de breedte van de buurtweg (de zate) zijn deze gronden evenwel belast met erfdienstbaarheid van doorgang voor iedereen. Het betreft dus een weg met openbaar karakter.
+Deze weg was de kortste weg tussen Westkerke en Bekegem. Bekegem was gekend voor zijn talrijke stoeten. Dit kleine veldwegeltje was de kortste en veiligste weg tussen Westkerke en Bekegem en liep via de Witte Molen te Roksem verder naar Bekegem.
+Deze rustige weg wordt veel gebruikt voor fiets- en wandeltochten.
+
+Het wandel- of fietspad naar de cache kan soms voorzien zijn van hoog gras!
+Bij langdurig regenweer kan het pad ook drassig zijn!
+Er zit een potloodje en scherper in de cache.
+!!! Gelieve de cache terug te stoppen zoals hij gevonden wordt!!! 
+
+Podium
+
+FTF: Webbytje
+STF: COMERFORD
+TTF: 
+  </groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1514809">
+                    <groundspeak:date>2011-08-26T04:43:13.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7068">COMERFORD</groundspeak:finder>
+                    <groundspeak:text encoded="False">Nice morning walk. Tftc
+Logged via OpenCaching for iPhone</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1672025">
+                    <groundspeak:date>2010-06-23T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="9410">Webby</groundspeak:finder>
+                    <groundspeak:text encoded="False">[p][:)][:)]STF[:)][:)]
+[p]Omdat hij deze morgen nog niet gelogd was dacht ik om even een maagdje te scoren maar terplaatse zag ik al fietsbanden sporen en ik wist al wie hier geweest was.Het logboekje bevestigde het.
+Mooi gemaakt en op de juiste coords,zo moet het zijn (uitstekend voor een beginner)
+TFTC.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1283297">
+                    <groundspeak:date>2010-06-22T17:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="9410">Webby</groundspeak:finder>
+                    <groundspeak:text encoded="False">Logged via OpenCaching for iPhone</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>2.4</ox:difficulty>
+                <ox:size>2.9</ox:size>
+                <ox:terrain>1.9</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>sidewalk</ox:tag>
+                <ox:tag>Not wheelchair accessible</ox:tag>
+                <ox:tag>auch im Winter gut zu finden</ox:tag>
+                <ox:tag>No Bikes</ox:tag>
+                <ox:tag>dogs allowed.</ox:tag>
+                <ox:tag>takes less than 1 hour</ox:tag>
+                <ox:tag>busstop nearby</ox:tag>
+                <ox:tag>24/7</ox:tag>
+                <ox:tag>Bicycles allowed</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="3.3384" lat="51.1741333">
+        <time>2008-06-04T03:00:00.000-05:00</time>
+        <name>OX1CYRV</name>
+        <desc>De oude melkerij - St-Marie by Webby, Multi-cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1CYRV</url>
+        <urlname>De oude melkerij - St-Marie</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="1309652">
+            <groundspeak:name>De oude melkerij - St-Marie</groundspeak:name>
+            <groundspeak:placed_by>Webby</groundspeak:placed_by>
+            <groundspeak:owner id="9410">Webby</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Geschiedenis van Oedelem: Oedelem is sinds 906 terug te vinden in geschreven bronnen. De schrijfwijze was toen Udelhem. De naam komt van ‘odila’ en ‘haima’ en betekent ‘woning van het erfgoed of van het domein’. Een naam die geen verwondering wekt gezien de heren van Praet al in de jaren 900 een ‘Heerlijkheid’ stichtten in Oedelem.De Oedelemse geschiedenis gaat echter veel vroeger terug in de tijd. In een grafheuvel op Wulfsberge zijn sporen teruggevonden van prehistorische bewoning. Er zijn ook sporen van Romeinse aanwezigheid. In de kleiput van de vroegere steenbakkerij is zelfs een waterput uit de Romeinse tijd teruggevonden. In die tijd waren Oedelem, Maldegem en Aardenburg de meest noordelijke bewoonde plaatsen in de streek. Wat noordelijker lag was een groot moerassig gebied. De gebouwen op de plaats waar je parkeert waren vroeger van de oude melkerij tegenwoordig is hier een goede doe het zelf zaak in gevestigd.Maar dit terzijde.Je parkeert je stalen ros op N51°10.448 - E03°20.304 op de parking van de oude melkerij.Laadt je fiets uit of af en rij naar wp1.Als je de cache zal wandelen hoef je je fiets niet af of uit te laden natuurlijk en kan je meteen vertrekken. Bij of na veel regenval is gepast schoeisel wel verstandig,op sommige paden kunnen er plassen staan en een beetje slijk liggen.&amp;lt;br De weg tussen Wp1 &amp; 2 is vrij toegankelijk voor wandelaars en fietsers.Er zijn 9wp in de vorm van alu en dymo tag’s en dan de Stach .De fietswandeltocht is niet zwaar of lastig dus geniet van de natuur en de omgeving.Respecteer de wegcode en de natuur a.u.b. !!!OPGELET bij het oversteken van de baan op je weg naar Wp3!! Tussen Wp7 &amp; 8 volg je 2x de 90-tig !Ga geen doodlopende weg in  naar Wp9 .Om de Stach te bemachtigen moet je eerst kijken wat er achter de grote P staat.Gebruik wat je ziet!
+PS:Een spiegeltje zal soms nuttig zijn op 2 punten.Er is plaats voor TB's of coin's en mss kleine voorwerpen in de stach.De Stach plaats verlaten zoals je ze aangetroffen hebt a.u.b.Het zal waarschijnlijk niet lukken om ongemerkt te loggen.De eigenaar weet er van,maar respecteer zijn eigendom
+Additional 
+Hidden Waypoints Parking:N 51° 10.448 E 003° 20.304 Zet ier jun noto en go te voete no WP1.
+N 51° 10.669 E 003° 20.433 Zoek hier de alu tag om naar Wp2 te gaan.
+Zoek hier een alu tag om naar Wp3 te gaan.
+Zoek hier één van de tags om naar Wp4 te gaan:de alu tag of de dymo tag,je mag zelf kiezen want het zijn de zelfde getallen die er op staan.
+Zoek hier de alu tag om naar Wp5 te gaan.
+Zoek hier ook maar een tag.
+Hier zijn 2 tags te vinden met de zelfde getallen op, de gemakkelijkste om te vinden is de dymo tag.
+Hier zoek je weer een dymo tag,zoek het niet te ver en kijk uit je doppen want het staat voor je neus.
+Zoek hier maar op je gemak naar de alu tag om naar Wp9 te gaan.Ga geen doodlopende straat in naar Wp9.
+Hier zoek je nu de tag om naar stach te gaan.
+Om de stach te bemachtigen moet je eerst kijken wat er achter de grote P staat.Gebruik wat je ziet!
+Na het loggen verlaat je de plaats zoals je hem aantrof.Dank u wel. 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Wp1 : Paard en ruiter
+Wp2 : Hout
+Wp3 : Metaal 82
+Wp4 : Hout
+Wp5 : Hout
+Wp6 : Beton en Metaal
+Wp7 : Hout
+Wp8 : Hout
+Wp9 : Metaal 1 bord
+Stach : Zoek het zelf maar uit.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="3.38075" lat="51.2055333">
+        <time>2010-08-26T03:00:00.000-05:00</time>
+        <name>OX2E83E</name>
+        <desc>St - Alma by Webby, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2E83E</url>
+        <urlname>St - Alma</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2271911">
+            <groundspeak:name>St - Alma</groundspeak:name>
+            <groundspeak:placed_by>Webby</groundspeak:placed_by>
+            <groundspeak:owner id="9410">Webby</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Deze oppikker is opgedragen aan de dames en heren van C1 en C3 die ons elke dag weer opnieuw proberen te verzorgen met volle inzet en aandacht voor hun patiënten. 
+Dit ziekenhuis ontstond in 1927 als een sanatorium voor TBC -
+behandeling. Het ziekenhuis werd genoemd naar de medestichteres
+Hare Majesteit Koningin Elisabeth en werd toevertrouwd aan de
+Congregatie van de Zusters van Liefde van Jezus en Maria van Gent.
+Dankzij de ontplooiing en de vooruitgang van de geneeskunde werd
+TBC eind jaren vijftig grotendeels overwonnen en kreeg het
+sanatorium geleidelijk aan een andere, meer algemene, bestemming.
+Sinds 1972 is het Elisabeth Ziekenhuis een volwaardig acuut ziekenhuis.
+16 september 2009 - Na meer dan vijf jaar voorbereiden, rekenen en
+plannen, heeft AZ Alma de aanvraag voor de bouwvergunning van het
+nieuwbouwziekenhuis aan de Ringlaan in Eeklo ingediend. Het nieuwe
+ziekenhuis zal gebouwd worden aan de rand van Eeklo op de gronden
+gelegen tussen de Ringlaan, Raverschootstraat en Blakstraat –
+richting Maldegem. Patiënten vragen terecht echter nu al een
+moderne infrastructuur met alle mogelijk comfort. Met voortdurende
+verbouwingswerken wil het ziekenhuis aan de verwachtingen van de
+patiënt tegemoetkomen en dit op beide campussen.
+
+Meer info is te vinden op het internet.
+Parkeren op de gewone parkeerplaatsen is verplicht.Parkeertijd
+beperkt tot 30 minuten gratis</groundspeak:long_description>
+            <groundspeak:encoded_hints>20 centimeter hoog.
+Laag bij de grond dus.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1527425">
+                    <groundspeak:date>2011-07-01T17:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="57445">ppschuim</groundspeak:finder>
+                    <groundspeak:text encoded="False">Al gevonden en gelogd op de geocaching.com site :) tftc  ;)</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Public transportation</ox:tag>
+                <ox:tag>Available during winter</ox:tag>
+                <ox:tag>Dogs allowed</ox:tag>
+                <ox:tag>Wheelchair accessible</ox:tag>
+                <ox:tag>Park and Grab</ox:tag>
+                <ox:tag>Takes less than an hour</ox:tag>
+                <ox:tag>Available at all times</ox:tag>
+                <ox:tag>Bicycles</ox:tag>
+                <ox:tag>Motorcycles</ox:tag>
+                <ox:tag>Access or parking fee</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="3.37885" lat="51.2250667">
+        <time>2004-07-10T02:00:00.000-05:00</time>
+        <name>OXJYM4</name>
+        <desc>HOE TOEGETAKELD IS MIJN KRUISPUNT (snif) ! by BobValdez, Traditional Cache(2.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXJYM4</url>
+        <urlname>HOE TOEGETAKELD IS MIJN KRUISPUNT (snif) !</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="564731">
+            <groundspeak:name>HOE TOEGETAKELD IS MIJN KRUISPUNT (snif) !</groundspeak:name>
+            <groundspeak:placed_by>BobValdez</groundspeak:placed_by>
+            <groundspeak:owner id="2521">BobValdez</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True"> 
+beschrijving</groundspeak:long_description>
+            <groundspeak:encoded_hints>      tip</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="365847">
+                    <groundspeak:date>2006-07-20T02:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2521">BobValdez</groundspeak:finder>
+                    <groundspeak:text encoded="False">I searched for the first tag a while but the rest was easy.
+Thanks
+TNLN
+[p][b][font=comic sans ms][red]Su[blue]Ma[/b][br]
+[size=1][black][i]Walk, Search and Log[/i][/b][font=arial][size=2][br]</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="3.3979167" lat="51.2429833">
+        <time>2004-07-10T02:00:00.000-05:00</time>
+        <name>OXJYKN</name>
+        <desc>HOEZO...ONDER DE BRUG ??? by BobValdez, Traditional Cache(2.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXJYKN</url>
+        <urlname>HOEZO...ONDER DE BRUG ???</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="564717">
+            <groundspeak:name>HOEZO...ONDER DE BRUG ???</groundspeak:name>
+            <groundspeak:placed_by>BobValdez</groundspeak:placed_by>
+            <groundspeak:owner id="2521">BobValdez</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True"/>
+            <groundspeak:encoded_hints>      ff</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1081132">
+                    <groundspeak:date>2004-11-02T17:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3408">rabbits</groundspeak:finder>
+                    <groundspeak:text encoded="False">Op stap met een print-out van 11 juli (één dag na plaatsing!). Op die print-out is er wel geen énkele hint! Als ik zie dat er nu zelfs 4 regels tekst staan...
+Vandaar dat we toch een hele tijd hebben gezocht eer we de stash te pakken hadden (en een vuile jas ook).</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="3.2019" lat="51.311083">
+        <time>2011-09-15T02:00:00.000-05:00</time>
+        <name>OX347PJ</name>
+        <desc>De overbrugging. by Webby, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX347PJ</url>
+        <urlname>De overbrugging.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2897154">
+            <groundspeak:name>De overbrugging.</groundspeak:name>
+            <groundspeak:placed_by>Webby</groundspeak:placed_by>
+            <groundspeak:owner id="9410">Webby</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br/&gt;
+De coords bovenaan zijn deze van de stash&lt;br/&gt;
+ &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
+Het havenbedrijf van Zeebrugge heeft op 10 december 2009
+een nieuwe brug in gebruik genomen.&lt;br/&gt;
+De brug laat de havenbedrijven toe om het Verbindingsdok te
+kruisen.&lt;br/&gt;
+
+&lt;br/&gt;
+&lt;br/&gt;
+Een zegen voor het milieu.Door de constructie zijn de verschillende
+autoterminals onderling vlotter met elkaar verbonden.&lt;br/&gt;
+Daardoor zal de CO2-uitstoot in 's werelds belangrijkste haven voor
+de verscheping van nieuwe wagens op jaarbasis met ongeveer 75 ton
+verminderen. 'Met deze investering van 5 miljoen euro optimaliseren
+en versnellen we de verplaatsing van nieuwe wagens in de haven',
+vertelt havenvoorzitter Joachim Coens.&lt;br/&gt;
+'Het noordelijke en zuidelijke deel van de Zeebrugse binnenhaven
+lagen in het verleden twaalf kilometer uit elkaar.&lt;br/&gt;
+Door deze brug wordt dit tot twee kilometer gereduceerd en worden
+ook andere wegen in het havengebied ontlast.&lt;br/&gt;
+De brug zelf is 400 meter lang. In het midden steekt een beweegbaar
+deel over een lengte van 33,5 meter.&lt;br/&gt;
+Het openen en terug sluiten van de brug neemt acht minuten in
+beslag.&lt;br/&gt;
+Havenklanten kunnen tegen betaling van de brug gebruik
+maken.'&lt;br/&gt;
+Bron:de gazette up tinternet.&lt;br/&gt;
+&lt;br/&gt;
+Van op de stash plaats kan je de brug helemaal zien en bij zeer
+hoog water of regen kunnen laarzen handig zijn. </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Park and Grab</ox:tag>
+                <ox:tag>Stealth required</ox:tag>
+                <ox:tag>Bicycles</ox:tag>
+                <ox:tag>Dogs</ox:tag>
+                <ox:tag>Available at all times</ox:tag>
+                <ox:tag>Available during winter</ox:tag>
+                <ox:tag>Not Quads</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Not Off-road vehicles</ox:tag>
+                <ox:tag>Tourist Friendly</ox:tag>
+                <ox:tag>Short hike (less than 1km)</ox:tag>
+                <ox:tag>Scenic view</ox:tag>
+                <ox:tag>Takes less than an hour</ox:tag>
+                <ox:tag>Motorcycles</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+</gpx>

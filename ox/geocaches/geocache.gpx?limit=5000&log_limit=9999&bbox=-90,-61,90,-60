@@ -1,0 +1,2930 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,-61,90,-60</url>
+    <time>2012-01-04T09:28:45.471-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="-60.0" maxlat="90.0" minlon="-61.0" minlat="-90.0"/>
+    <wpt lon="-60.6621667" lat="-32.9537167">
+        <time>2011-07-01T11:51:26.000-05:00</time>
+        <name>OXZTT94</name>
+        <desc>Palomar by quatrinicristian, Traditional Cache(1.3/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTT94</url>
+        <urlname>Palomar</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474713">
+            <groundspeak:name>Palomar</groundspeak:name>
+            <groundspeak:placed_by>quatrinicristian</groundspeak:placed_by>
+            <groundspeak:owner id="34452">quatrinicristian</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Busca a metros de Av. Pellegrini algo macnetico.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Un gabinete metalico verde.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.3</ox:difficulty>
+                <ox:size>1.2</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.6621667" lat="-32.9537167">
+        <time>2011-07-01T22:37:31.000-05:00</time>
+        <name>OXZTT8Q</name>
+        <desc>Palomar by quatrinicristian, Traditional Cache(1.3/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTT8Q</url>
+        <urlname>Palomar</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474701">
+            <groundspeak:name>Palomar</groundspeak:name>
+            <groundspeak:placed_by>quatrinicristian</groundspeak:placed_by>
+            <groundspeak:owner id="34452">quatrinicristian</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Cache macnetici. Busca algun objeto metalico a metros de la avenida Pellegrini.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Gabinete metalico verde</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.3</ox:difficulty>
+                <ox:size>1.5</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.6621667" lat="-32.9537167">
+        <time>2011-06-29T16:30:35.000-05:00</time>
+        <name>OXZTT9Z</name>
+        <desc>palomar by quatrinicristian, Traditional Cache(1.4/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTT9Z</url>
+        <urlname>palomar</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474739">
+            <groundspeak:name>palomar</groundspeak:name>
+            <groundspeak:placed_by>quatrinicristian</groundspeak:placed_by>
+            <groundspeak:owner id="34452">quatrinicristian</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Micro cache macnetico a metros de la calle. Llevar lapiz y comida para palomas :-)</groundspeak:long_description>
+            <groundspeak:encoded_hints>Gabinete metalico verde </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.4</ox:difficulty>
+                <ox:size>1.3</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.6572" lat="-32.9546833">
+        <time>2011-06-29T16:42:51.000-05:00</time>
+        <name>OXZTT9Y</name>
+        <desc>Parque by quatrinicristian, Traditional Cache(1.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTT9Y</url>
+        <urlname>Parque</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474738">
+            <groundspeak:name>Parque</groundspeak:name>
+            <groundspeak:placed_by>quatrinicristian</groundspeak:placed_by>
+            <groundspeak:owner id="34452">quatrinicristian</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Busca una palmera rodeada de arboles. Busca a mas de 1 metro de altura y a menos de 3 metros. Recipiente blanco cilindrico</groundspeak:long_description>
+            <groundspeak:encoded_hints>Tenes que ser alto/a para alcanzar el recipiente</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.63685" lat="-32.9592167">
+        <time>2011-06-29T08:14:03.000-05:00</time>
+        <name>OXZTTA3</name>
+        <desc>Plaza General Lopez by quatrinicristian, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTTA3</url>
+        <urlname>Plaza General Lopez</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474743">
+            <groundspeak:name>Plaza General Lopez</groundspeak:name>
+            <groundspeak:placed_by>quatrinicristian</groundspeak:placed_by>
+            <groundspeak:owner id="34452">quatrinicristian</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">En el interior de un arbol. A unos 10 metros de un Braquiquito. Las especies de arboles estan identificadas con carteles. </groundspeak:long_description>
+            <groundspeak:encoded_hints>Busca en el interior de una Sofora Pendula. Recorda que hay mas de una.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.6369" lat="-32.9592167">
+        <time>2011-07-04T13:35:26.000-05:00</time>
+        <name>OXZTT7A</name>
+        <desc>Plaza Lopez by quatrinicristian, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTT7A</url>
+        <urlname>Plaza Lopez</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474657">
+            <groundspeak:name>Plaza Lopez</groundspeak:name>
+            <groundspeak:placed_by>quatrinicristian</groundspeak:placed_by>
+            <groundspeak:owner id="34452">quatrinicristian</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Microcache oculto dentro de un arbol Sofora Pendula. A unos 10 metros de un Branquiquino. Recuerda que hay mas de un Sofora Pendula.</groundspeak:long_description>
+            <groundspeak:encoded_hints>A mas de 1 metro y a menos de 3 metros de altura</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.6567" lat="-32.9617167">
+        <time>2011-08-30T12:36:31.000-05:00</time>
+        <name>OXZTQRJ</name>
+        <desc>parque independencia hivernadero by quatrinicristian, Traditional Cache(1.3/1.2/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTQRJ</url>
+        <urlname>parque independencia hivernadero</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28473270">
+            <groundspeak:name>parque independencia hivernadero</groundspeak:name>
+            <groundspeak:placed_by>quatrinicristian</groundspeak:placed_by>
+            <groundspeak:owner id="34452">quatrinicristian</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Sigue el sendero de asfalto.
+Busca unas palmeras identificadas como la especie Phoenix Reclinata.
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>El hueco al nivel del piso entre dos palmeras. al lado del cartel identificatorio.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.3</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.2</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.991867" lat="45.540283">
+        <time>2008-10-18T03:00:00.000-05:00</time>
+        <name>OX1H7JT</name>
+        <desc>CELTIC CACHING AT PONDVILLE BROOK by STAGUNNER, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1H7JT</url>
+        <urlname>CELTIC CACHING AT PONDVILLE BROOK</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1437278">
+            <groundspeak:name>CELTIC CACHING AT PONDVILLE BROOK</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt; &lt;/p&gt;
+
+
+
+
+&lt;p&gt;
+  &lt;/p&gt;
+
+
+&lt;h3&gt;&lt;/h3&gt;
+
+CELTIC CACHING ON Pondville
+Brook 
+&lt;h3&gt;Placed on Cape Breton Island. This cache is placed on 
+Pondville Brook. Just a small cahce to graqb on the Isle
+Madame tour. Take pictures of this lovely spot. Have
+fun.&lt;/h3&gt;
+
+
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;If you are a
+Geocacher in Atlantic Canada,&lt;br/&gt;
+ please join us. The ACGA is your gateway to&lt;br/&gt;
+ caching in and around the East Coast.&lt;/b&gt;&lt;/p&gt;
+
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>up high</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1572238">
+                    <groundspeak:date>2010-08-08T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
+                    <groundspeak:text encoded="False">Very near the cache is a large cage or trap - I wonder what its' for?  TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.96475" lat="45.643767">
+        <time>2008-10-18T03:00:00.000-05:00</time>
+        <name>OX1H7HG</name>
+        <desc>CELTIC CACHING ON THE SPORTING MTN RD by STAGUNNER, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1H7HG</url>
+        <urlname>CELTIC CACHING ON THE SPORTING MTN RD</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1437238">
+            <groundspeak:name>CELTIC CACHING ON THE SPORTING MTN RD</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt; &lt;/p&gt;
+
+
+
+
+&lt;p&gt;
+  &lt;/p&gt;
+
+
+&lt;h3&gt;&lt;/h3&gt;
+
+CELTIC CACHING ON THE SPORTING MTN
+RD 
+&lt;h3&gt;Placed for the
+event on Cape Breton Island. This cache is placed near the
+road that leads up to Sproting mountain. It should be an easy
+find.&lt;/h3&gt;
+&lt;h3&gt;Enjoy. &lt;/h3&gt;
+
+
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;If you are a
+Geocacher in Atlantic Canada,&lt;br/&gt;
+ please join us. The ACGA is your gateway to&lt;br/&gt;
+ caching in and around the East Coast.&lt;/b&gt;&lt;/p&gt;
+
+
+&lt;p&gt; &lt;strong&gt;Cape Breton Celtic
+Caching&lt;/strong&gt;&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1572244">
+                    <groundspeak:date>2010-08-08T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
+                    <groundspeak:text encoded="False">A nice quick find today!  TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.859417" lat="45.652883">
+        <time>2008-10-18T03:00:00.000-05:00</time>
+        <name>OX1H7KP</name>
+        <desc>CELTIC CACHING AT ST PETERS INFO CENTER by STAGUNNER, Traditional Cache(2.0/2.1/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1H7KP</url>
+        <urlname>CELTIC CACHING AT ST PETERS INFO CENTER</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1437306">
+            <groundspeak:name>CELTIC CACHING AT ST PETERS INFO CENTER</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt; &lt;/p&gt;
+
+
+
+
+&lt;p&gt;
+  &lt;/p&gt;
+
+
+&lt;h3&gt;&lt;/h3&gt;
+
+CELTIC CACHING AT ST PETERS INFO
+CENTER  
+&lt;h3&gt;Placed on Cape Breton Island. This cache is placed at tourist
+information center in St Peters. The Info Center is open from
+June to October.  Have fun.&lt;/h3&gt;
+
+
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;If you are a
+Geocacher in Atlantic Canada,&lt;br/&gt;
+ please join us. The ACGA is your gateway to&lt;br/&gt;
+ caching in and around the East Coast.&lt;/b&gt;&lt;/p&gt;
+
+</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1572254">
+                    <groundspeak:date>2010-08-08T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
+                    <groundspeak:text encoded="False">A nice quick find while in the area today!  TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.1</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.86695" lat="45.6528333">
+        <time>2010-04-22T02:00:00.000-05:00</time>
+        <name>OX279BV</name>
+        <desc>Battery Provincial Park by ACGA, Multi-cache(3.0/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX279BV</url>
+        <urlname>Battery Provincial Park</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="2064595">
+            <groundspeak:name>Battery Provincial Park</groundspeak:name>
+            <groundspeak:placed_by>ACGA</groundspeak:placed_by>
+            <groundspeak:owner id="600">ACGA</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">
+Overlooking Cape Breton’s rugged southern Atlantic Coast near the scenic Bras d’Or Lake, Battery Provincial Park is located near the historic community of St. Peter’s, Richmond County. Visitors can explore a rich cultural legacy that predates Halifax and Louisbourg.
+
+Used extensively by the Mi’kmaq as a portage and seasonal encampment; the narrow isthmus that separates the Bras d’Or Lake and the Atlantic Ocean was one of the first sites in the New World to be settled by Europeans. Portuguese fishermen established San Pedro near the present park site in 1521, however unaccustomed to the severe winters, they departed in 1525. In 1650, Nicholas Denys, a French merchant adventurer, built a trading post and fort near the former site of San Pedro which he renamed Saint Pierre. The trade was in furs and was carried on with the Mi’kmaq, who supplied a range of pelts in return for European goods. During the winter of 1668-69, the trading post and fort were destroyed by fire. With the help of the Mi’kmaq, Denys and the other French were able to survive the winter, however Denys was financially ruined and forced to leave Saint Pierre. Following the loss of mainland Nova Scotia to England in 1713, France began to encourage the development of Cape Breton. This generated a wave of French immigrants, some of whom settled at Port Toulouse, near Denys’ original fort. In addition to a profitable trade industry, the area supported farming, fishing and boat building. A small fort was built at Port Toulouse and a garrison was established there. In 1745, Fort Toulouse was destroyed by the New England expedition that later captured Louisbourg. When Louisbourg was returned to France three years later, the French proceeded to strengthen their defences on Cape Breton Island.
+
+English Settlement
+
+In 1777, Lawrence Kavanagh, Jr. and his family became the first English people to settle in Saint Pierre. Kavanagh was later elected to the Nova Scotia Legislature, the first Englishspeaking Roman Catholic to hold a legislative seat in the British Empire. The outbreak of war with France in 1793 turned Britain’s attention to the strategic importance of St. Peter’s. Mount Grenville, the highest point of land within the park, commands a view of both the Bras d’ Or Lake and the Atlantic Ocean, and was chosen as Britain’s chief point of defence for Cape Breton Island. At the summit of Mount Grenville, in 1794, Fort Dorchester was completed. It never saw battle and was abandoned four years later when the threat of a French invasion or Acadian uprising had passed.
+
+St. Peter’s Canal
+
+In 1869, after 15 years of drilling, blasting and digging, the St. Peter’s Canal was completed. Eight hundred metres (one-half mile) long and 30 metres (100 feet) wide, the canal enabled vessels to sail between Bras d’Or Lake and the Atlantic Ocean. For many years the canal handled large volumes of commercial traffic and proved to be a vital link in the economy of Cape Breton Island. Today, St. Peter’s Canal is operated by Parks Canada as a National Historic Site and is used primarily by pleasure craft.
+
+This geocache is part of the 2010 NS Provincial Parks Geocaching challenge. For more information about the geocaching challenge, click the following LINK for more information. To participate in the challenge, you will need to download the associated PASSPORT. At each geocache, there is a punch that you can mark the corresponding box on your passport. Collect all 5 and you can send in your passport to receive a free trackable geocoin.
+
+In order to solve this geocache, you will need to brush up on your knowledge of trees. Refer to the following links to help you.
+Dept of Natural Resources Identification ProgramHardwoodSoftwood
+
+
+How to Solve This Multi
+
+1. At the starting coordinates; identify the species of tree that you see. (Hint: you will see a yellow trail marker 5 feet up the tree)
+Answer: 5 letters, you can find this tree either yellow or white. Place each letter in the following slots.
+
+(a) ___
+(b) ___
+(c) ___
+(d) ___
+(e) ___
+
+2. Refer to this cipher key to get the corresponding digits from step 1. (eg. the letter I = 2 + 4 = 6)
+
+0 1 2 3 4 5 
+1 A B C D E 
+2 F G H I J 
+3 K L M N O 
+4 P Q R S T 
+5 U V W X Y 
+
+3. Use your answers in step 2 to discover the final geocache location:
+N de a9.18d W b0 e1.891
+
+4. Verify your answers...
+i. The checksum from step 2 is a + b + c + d + e = 25
+ii. The geocache is located within the park along trails or access road, No bush wacking required
+
+
+The Passport
+You can donwload the passport from &lt;a href=&quot;http://atlanticgeocaching.com/index.php?option=com_docman&amp;amp;task=cat_view&amp;amp;gid=78&amp;amp;Itemid=175&quot;&gt;ACGA or NS Parks&lt;/a&gt;.
+Additional Waypoints
+P1279BV - Park Entrance &amp; Parking
+N 45° 39.409 W 060° 52.008  </groundspeak:long_description>
+            <groundspeak:encoded_hints>The final cache location is 30 feet of trail well hidden, 5 feet up.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1572747">
+                    <groundspeak:date>2010-08-08T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
+                    <groundspeak:text encoded="False">This was our 5th in the series!  we dropped a TB.  Thanks for this series that took us all over the province!</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Provincial Park</ox:tag>
+                <ox:tag>Passport</ox:tag>
+                <ox:tag>Challenge Cache</ox:tag>
+            </ox:tags>
+            <ox:series id="10482">
+                <ox:name>2010 Nova Scotia Parks Challenge</ox:name>
+            </ox:series>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.937217" lat="45.675817">
+        <time>2008-10-18T03:00:00.000-05:00</time>
+        <name>OX1H5HW</name>
+        <desc>CELTIC CACHING AT RIVER TILLARD by STAGUNNER, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1H5HW</url>
+        <urlname>CELTIC CACHING AT RIVER TILLARD</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1435327">
+            <groundspeak:name>CELTIC CACHING AT RIVER TILLARD</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt; &lt;/p&gt;
+
+
+
+
+&lt;p&gt;
+  &lt;/p&gt;
+
+
+&lt;h3&gt;&lt;/h3&gt;
+
+CELTIC CACHING AT RIVER
+TILLARD 
+&lt;h3&gt;Placed for the
+event on Cape Breton Island. This cache is placed near the bridge
+on river Tillard, we took a great photo here. The maple trees are
+RED today.&lt;/h3&gt;
+&lt;h3&gt;Enjoy. &lt;/h3&gt;
+
+
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;If you are a
+Geocacher in Atlantic Canada,&lt;br/&gt;
+ please join us. The ACGA is your gateway to&lt;br/&gt;
+ caching in and around the East Coast.&lt;/b&gt;&lt;/p&gt;
+
+
+&lt;p&gt; &lt;strong&gt;Cape Breton Celtic
+Caching&lt;/strong&gt;&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>GRC</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.5348167" lat="45.8394167">
+        <time>2007-02-02T02:00:00.000-06:00</time>
+        <name>OX10D7D</name>
+        <desc>Cape Breton Oddities # 3 Hang'n Laundry by STAGUNNER, Traditional Cache(1.6/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX10D7D</url>
+        <urlname>Cape Breton Oddities # 3 Hang'n Laundry</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="936244">
+            <groundspeak:name>Cape Breton Oddities # 3 Hang'n Laundry</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Cape Breton Oddities # 3&lt;br/&gt;Hanging out the Laundry&lt;br/&gt;&lt;br/&gt;Take a nice scenic drive along HWY 4 towards Big Pond. Either from the Causeway or from Sydney you will arrive at Loch Lomond Road, look for the huge Aspen trees. &lt;br/&gt;A short journey up the gravel road and you will see some of Cape Breton's strange oddities,,&lt;br/&gt;&lt;br/&gt;Where did the people go?  They left the laundry out and forgot to bring it in!&lt;br/&gt;Maybe the Mrs is gone down the road to get Buddy out of the swamp? 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>none needed</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.5279333" lat="45.8455833">
+        <time>2007-02-02T02:00:00.000-06:00</time>
+        <name>OX10D74</name>
+        <desc>Cape Breton Oddities # 2  Move this Rock by STAGUNNER, Traditional Cache(1.8/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX10D74</url>
+        <urlname>Cape Breton Oddities # 2  Move this Rock</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="936235">
+            <groundspeak:name>Cape Breton Oddities # 2  Move this Rock</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Come on People Let's move this Rock&lt;br/&gt;&lt;br/&gt;Take a nice scenic drive along HWY 4 towards Big Pond. Either from the Causeway or from Sydney you will arrive at Loch Lomond Road, look for the huge Aspen trees. &lt;br/&gt;A short journey up the gravel road and you will see some of Cape Breton's strange oddities,, &lt;br/&gt;&lt;br/&gt;I think if it was painted black to look like coal it might have been moved long ago.&lt;br/&gt;Don't forget to wave at the Mrs heading up the hill on her push bike, maybe she is going down the road to get help.. 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>none needed</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.8</ox:difficulty>
+                <ox:size>3.2</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.5289333" lat="45.8608167">
+        <time>2007-02-02T02:00:00.000-06:00</time>
+        <name>OX10D70</name>
+        <desc>Cape Breton Oddities # 1 Swamp People by STAGUNNER, Traditional Cache(2.0/1.7/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX10D70</url>
+        <urlname>Cape Breton Oddities # 1 Swamp People</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="936231">
+            <groundspeak:name>Cape Breton Oddities # 1 Swamp People</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Take a nice scenic drive along HWY 4 towards Big Pond. Either from the Causeway or from Sydney you will arrive at Loch Lomond Road, look for the huge Aspen trees. &lt;br/&gt;A short journey up the gravel road and you will see some of Cape Breton's strange oddities,, &lt;br/&gt;&lt;br/&gt;Swamp People, &lt;br/&gt;I think the Mrs in the Haley Hansons is trying to get Buddy on his push bike  out of the BOG,, Or they are looking for cranberries. Maybe even getting away from work,,&lt;br/&gt;&lt;br/&gt;Cache is nearby and should be an easy stop and grab 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>None needed</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>1.7</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.2884" lat="45.8716333">
+        <time>2007-01-20T02:00:00.000-06:00</time>
+        <name>OX10FB9</name>
+        <desc>A survey marker is nearby, # 1 So is a Geocache by STAGUNNER, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX10FB9</url>
+        <urlname>A survey marker is nearby, # 1 So is a Geocache</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="938286">
+            <groundspeak:name>A survey marker is nearby, # 1 So is a Geocache</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">A survey marker is nearby, # 1 So is a Geocache.
+A micro   is hiding  somewhere close,,
+find it 
+</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.0246667" lat="45.8805333">
+        <time>2011-04-20T02:00:00.000-05:00</time>
+        <name>OX2TJ0K</name>
+        <desc>Siege Camp Preservation by ACGA, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2TJ0K</url>
+        <urlname>Siege Camp Preservation</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2609134">
+            <groundspeak:name>Siege Camp Preservation</groundspeak:name>
+            <groundspeak:placed_by>ACGA</groundspeak:placed_by>
+            <groundspeak:owner id="600">ACGA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;&lt;a href=&quot;http://www.pc.gc.ca/eng/lhn-nhs/ns/louisbourg/index.aspx&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://www.pc.gc.ca/fra/lhn-nhs/ns/louisbourg/index.aspx&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+&lt;p&gt;Welcome to the Fortress of Louisbourg!&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;You are looking for a small
+container containing a log book.&lt;br/&gt;
+&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Please pay appropriate
+site entry fees.&lt;br/&gt;
+&lt;br/&gt;&lt;/b&gt; As per the Parks
+Canada geocaching policy: Trade items
+are not permitted in caches, this includes Travel
+Bugs.&lt;/p&gt;
+
+
+&lt;p&gt;Bienvenue à la Forteresse-de-Louisbourg!&lt;br/&gt;
+&lt;br/&gt;
+Vous cherchez un contenant renfermant un
+carnet.&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;SVP payer le droit d'entrée
+requis.&lt;br/&gt;
+&lt;br/&gt;
+Tel que stipulé dans la politique de
+géocachette de Parcs Canada, les objets
+d'échange ne sont pas permis dans les géocaches; ceci comprend les
+« travel bugs ».&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p&gt;France's jewel in the 18th century. Canada's treasure
+today. North America's largest historical reconstruction.&lt;br/&gt;
+Discover an 18th-century adventure nestled on the edge of a
+continent-a place where muskets and mortars, women in hoop skirts
+and men in wigs, town criers and the 'iron collar' are a part of
+everyday life.&lt;/p&gt;
+&lt;p&gt;There's lots to see and do-plan to spend the whole day!
+Your first stop is the Visitor Centre, just beyond the modern town
+of Louisbourg. You'll take a 7-minute bus ride from the Visitor
+Centre to the Fortress. Remember to bring your camera, comfy shoes
+and warm clothing!&lt;/p&gt;
+
+
+&lt;p&gt;Joyau français du 18e siècle. Trésor canadien
+du 21e. La plus grande reconstruction historique en
+Amérique du Nord. Vivez une aventure de la Nouvelle-France dans cet
+endroit agrippé au bord de la mer - un endroit où les hommes ont
+des perruques et les femmes, des baleines; et où les fusils et les
+mortiers, le crieur du village et la carcan font partie de la vie
+de tous les jours.&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;Les choses à faire et à voir ne manquent pas - planifier
+de passer la journée! Votre premier arrêt est au Centre d'accueil,
+juste en sortant de la ville moderne de Louisbourg. De là vous
+monterez à bord d'un autobus qui vous amènera, en sept minutes, du
+Centre d'accueil à la forteresse. N'oubliez pas votre
+appareil-photo, des souliers confortables et des vêtements
+chauds!&lt;/p&gt;
+
+
+&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;P12TJ0K - Full Season Parking access&lt;br/&gt;N 45° 52.876 W 060° 01.256&lt;br/&gt;&lt;br/&gt;P22TJ0K - Off Season Parking access&lt;br/&gt;N 45° 53.308 W 059° 59.953&lt;br/&gt;&lt;br/&gt;T12TJ0K - Trailhead access&lt;br/&gt;N 45° 52.877 W 060° 01.328&lt;br/&gt;Trailhead access </groundspeak:long_description>
+            <groundspeak:encoded_hints>In a tree, it is not necessary to visit the Visitor Centre to access this geocache.Dans un arbreIl n’est pas nécessaire d’aller au Centre des Visiteurs pour trouver cette géocache.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1572346">
+                    <groundspeak:date>2011-08-20T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
+                    <groundspeak:text encoded="False">This cache was in place with no issues.  The ones that are disable according to the parks staff are Fortifications and Ruined Walls.  TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1377219">
+                    <groundspeak:date>2011-05-29T22:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="1193">STAGUNNER</groundspeak:finder>
+                    <groundspeak:text encoded="False">FTF to boot yay</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>National Historic Site</ox:tag>
+            </ox:tags>
+            <ox:series id="10484">
+                <ox:name>2011 Fortress of Louisbourg</ox:name>
+            </ox:series>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.2336" lat="45.8835">
+        <time>2007-09-28T03:00:00.000-05:00</time>
+        <name>OX16983</name>
+        <desc>--Sept 29-- Canoe Lake cache by STAGUNNER, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX16983</url>
+        <urlname>--Sept 29-- Canoe Lake cache</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1111167">
+            <groundspeak:name>--Sept 29-- Canoe Lake cache</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Along the Gabarus Road or the Flur des lis trail is a nice road to another one of Cape Bretons nice places, the road is good, a few large puddles but passeable by small truck or a good car.
+
+HAve a good hunt</groundspeak:long_description>
+            <groundspeak:encoded_hints>in a black bag, near a tree,,</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>5.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.1907667" lat="45.9228667">
+        <time>2007-09-28T03:00:00.000-05:00</time>
+        <name>OX16987</name>
+        <desc> Blue Mountain cache by STAGUNNER, Traditional Cache(2.9/3.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX16987</url>
+        <urlname> Blue Mountain cache</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1111171">
+            <groundspeak:name> Blue Mountain cache</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">From Marion Bridge, take Mackiegan's road all the way past the old farm and Trout Brook.  Follow the road to the right  for a bit then take a left..</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.9</ox:difficulty>
+                <ox:size>3.4</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.097083" lat="45.97575">
+        <time>2007-09-28T03:00:00.000-05:00</time>
+        <name>OX163TQ</name>
+        <desc>Macintyre lake cache by STAGUNNER, Traditional Cache(1.9/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX163TQ</url>
+        <urlname>Macintyre lake cache</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1105948">
+            <groundspeak:name>Macintyre lake cache</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">A nice place to go for a swim, and get a cache. Travell out on the Mira, but take Trout Brook road until you see the road  called Big Hill, then go for it!! just be warned it is called Big hill for a reason,  Hope you have some good wheels to get there, it can be a good ride around the turns but be careful,, more cachers might be around the bends.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.9</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.0304167" lat="46.0098833">
+        <time>2007-02-02T02:00:00.000-06:00</time>
+        <name>OX10G4T</name>
+        <desc>End of the road by STAGUNNER, Traditional Cache(1.7/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX10G4T</url>
+        <urlname>End of the road</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="939046">
+            <groundspeak:name>End of the road</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">End Of the Road.&lt;br/&gt;&lt;br/&gt;Left over roadway from the new highway, thought it would be a good spot for a cache, &lt;br/&gt;&lt;br/&gt;Easy to get to some parking, very short walk 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>not white, not down</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1572366">
+                    <groundspeak:date>2011-08-20T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
+                    <groundspeak:text encoded="False">There are lots of these old roads around - I'm glad we found a good use for them.  TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1106196">
+                    <groundspeak:date>2007-08-14T23:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="11681">geotrekkin</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.7</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.0571" lat="46.025683">
+        <time>2010-07-15T03:00:00.000-05:00</time>
+        <name>OX2BT9E</name>
+        <desc>Olde Joe Point cache by STAGUNNER, Unknown Cache(2.5/2.3/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2BT9E</url>
+        <urlname>Olde Joe Point cache</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2199061">
+            <groundspeak:name>Olde Joe Point cache</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Ole Joe hid a treasure
+is this the Mira teasure?
+
+find the clues to find the route
+
+Old Pirate Joe landed at Muggle beach but the way was blocked
+So he sailed to Ammo can beach and explored Pile of Sticks point
+He then hiked to the Forked Trail
+He left clues along the way
+find the clues and find the secret to old Pirate Joe's cache
+
+OLD PIRATE JOE MARKED THE ROUTE BUT HE DID IT AT NIGHT
+
+DUE TO RECENT CONSTRUCTION
+YOU MUST PARK AT THE SECRET SPOT
+CONTINUE ON FOOT 
+TO THE OLD JOE TREASURE
+
+Additional Waypoints
+HIDDEN: FP2BT9E - final point
+N/S  __ ° __ . ___ W/E ___ ° __ . ___</groundspeak:long_description>
+            <groundspeak:encoded_hints>three colours mark the way
+but you must go by night
+and on the trail you must stay
+remember the first two are white</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.4</ox:size>
+                <ox:terrain>2.3</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Scenic view</ox:tag>
+                <ox:tag>Public restrooms nearby</ox:tag>
+                <ox:tag>Not Wheelchair accessible</ox:tag>
+                <ox:tag>Not Quads</ox:tag>
+                <ox:tag>Not Motorcycles</ox:tag>
+                <ox:tag>Camping available</ox:tag>
+                <ox:tag>Recommended at night</ox:tag>
+                <ox:tag>Recommended for kids</ox:tag>
+                <ox:tag>Not Bicycles</ox:tag>
+                <ox:tag>Not Parking available</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.0380833" lat="46.0263833">
+        <time>2007-09-28T03:00:00.000-05:00</time>
+        <name>OX15XNX</name>
+        <desc>Matthew Visits Mira Park by STAGUNNER, Traditional Cache(3.0/2.4/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX15XNX</url>
+        <urlname>Matthew Visits Mira Park</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1100063">
+            <groundspeak:name>Matthew Visits Mira Park</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Off Brickyard Rd. into the Mira provincial park.
+
+ Cache contents: miniature globe,
+kaleidoscope, lobster teddy, and log materials
+
+This Cache Was Placed For
+The Cape Breton CelticCaching Event</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1572363">
+                    <groundspeak:date>2011-08-20T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
+                    <groundspeak:text encoded="False">We were in the park for a geocaching event today and this was one of the many we found.  TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.4</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.03815" lat="46.0278333">
+        <time>2010-07-15T03:00:00.000-05:00</time>
+        <name>OX2BT90</name>
+        <desc>Muggle Beach by STAGUNNER, Traditional Cache(1.8/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2BT90</url>
+        <urlname>Muggle Beach</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2199047">
+            <groundspeak:name>Muggle Beach</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Hidden on Muggle beach is a container  holding a clue to the Mira Treasure&lt;br/&gt;&lt;br/&gt;Find the cache&lt;br/&gt;get the clue&lt;br/&gt;get the treasure 
+</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1572365">
+                    <groundspeak:date>2011-08-20T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
+                    <groundspeak:text encoded="False">Not too many muggles today.  TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.8</ox:difficulty>
+                <ox:size>4.5</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.04195" lat="46.027917">
+        <time>2011-08-13T03:00:00.000-05:00</time>
+        <name>OX325G8</name>
+        <desc>Well Well Well by STAGUNNER, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX325G8</url>
+        <urlname>Well Well Well</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2835454">
+            <groundspeak:name>Well Well Well</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">An easy cache to get 
+Be careful parking along the road, I would use the parking just past the Admin building
+Have fun caching in Mira River Park</groundspeak:long_description>
+            <groundspeak:encoded_hints>maison de ouseau</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1572360">
+                    <groundspeak:date>2011-08-20T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
+                    <groundspeak:text encoded="False">Well, well, well... that's a deep subject!  TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>5.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Drinking water nearby</ox:tag>
+                <ox:tag>Scenic view</ox:tag>
+                <ox:tag>Recommended for kids</ox:tag>
+                <ox:tag>Takes less than an hour</ox:tag>
+                <ox:tag>Short hike (less than 1km)</ox:tag>
+                <ox:tag>Stealth required</ox:tag>
+                <ox:tag>Available during winter</ox:tag>
+                <ox:tag>Bicycles</ox:tag>
+                <ox:tag>Public restrooms nearby</ox:tag>
+                <ox:tag>Telephone nearby</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.0459167" lat="46.0281667">
+        <time>2010-07-15T03:00:00.000-05:00</time>
+        <name>OX2BT9A</name>
+        <desc>The Forked Trail by STAGUNNER, Traditional Cache(2.0/2.2/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2BT9A</url>
+        <urlname>The Forked Trail</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2199057">
+            <groundspeak:name>The Forked Trail</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Hidden  at the Forked Trail is a container  holding a clue to the Mira Treasure&lt;br/&gt;&lt;br/&gt;Find the cache&lt;br/&gt;get the clue&lt;br/&gt;get the treasure 
+</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1572357">
+                    <groundspeak:date>2011-08-20T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
+                    <groundspeak:text encoded="False">This was a quick find.  TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.6</ox:size>
+                <ox:terrain>2.2</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.041333" lat="46.032083">
+        <time>2011-08-13T03:00:00.000-05:00</time>
+        <name>OX325G3</name>
+        <desc>Muggle junction by STAGUNNER, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX325G3</url>
+        <urlname>Muggle junction</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2835449">
+            <groundspeak:name>Muggle junction</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">There is a great potential to be spotted by a muggle when going to find this cache.
+It should be easy though but use your Geostealth abilities to find it
+
+Placed in Mira River Provincial park
+
+Have fun</groundspeak:long_description>
+            <groundspeak:encoded_hints>placed low</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1572362">
+                    <groundspeak:date>2011-08-20T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
+                    <groundspeak:text encoded="False">This was tricky, we almost didn't see it.  TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Bicycles</ox:tag>
+                <ox:tag>Camping available</ox:tag>
+                <ox:tag>Drinking water nearby</ox:tag>
+                <ox:tag>Public restrooms nearby</ox:tag>
+                <ox:tag>Takes less than an hour</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Available at all times</ox:tag>
+                <ox:tag>Recommended for kids</ox:tag>
+                <ox:tag>Picnic tables nearby</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.0460333" lat="46.0340333">
+        <time>2010-07-15T03:00:00.000-05:00</time>
+        <name>OX2BT8V</name>
+        <desc>Ammo Can beach by STAGUNNER, Traditional Cache(1.9/1.7/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2BT8V</url>
+        <urlname>Ammo Can beach</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2199042">
+            <groundspeak:name>Ammo Can beach</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Hidden on Ammo Can beach is a container  holding a clue to the Mira Treasure&lt;br/&gt;&lt;br/&gt;Find the cache&lt;br/&gt;get the clue&lt;br/&gt;get the treasure 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>old birch</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1572359">
+                    <groundspeak:date>2011-08-20T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
+                    <groundspeak:text encoded="False">We found this while enjoying the event at the park.  TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.9</ox:difficulty>
+                <ox:size>5.0</ox:size>
+                <ox:terrain>1.7</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.0469667" lat="46.0357667">
+        <time>2010-07-15T03:00:00.000-05:00</time>
+        <name>OX2BT8N</name>
+        <desc>Pile of Sticks Point by STAGUNNER, Traditional Cache(2.3/2.1/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2BT8N</url>
+        <urlname>Pile of Sticks Point</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2199037">
+            <groundspeak:name>Pile of Sticks Point</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Pile of sticks point&lt;br/&gt;&lt;br/&gt;Hidden on pile of sticks point is a container holding a clue to the &lt;br/&gt;old Mira treasure&lt;br/&gt;&lt;br/&gt;Find the cache&lt;br/&gt;get the clue&lt;br/&gt;find the treasure 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>pile of sticks</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1572358">
+                    <groundspeak:date>2011-08-20T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
+                    <groundspeak:text encoded="False">We dropped off a TB at this stop.  TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.3</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.1</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.005017" lat="46.056033">
+        <time>2011-08-13T03:00:00.000-05:00</time>
+        <name>OX325GN</name>
+        <desc>Along the Gisborne by STAGUNNER, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX325GN</url>
+        <urlname>Along the Gisborne</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2835467">
+            <groundspeak:name>Along the Gisborne</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">be surprised and have a great caching time
+Cache is winter friendly</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.171033" lat="46.0575">
+        <time>2007-05-06T03:00:00.000-05:00</time>
+        <name>OX12PRV</name>
+        <desc>Front by STAGUNNER, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX12PRV</url>
+        <urlname>Front</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1005015">
+            <groundspeak:name>Front</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">A small container hidden in a nice spot,
+It will be obvious once you arrive, but  it will be a bit tough to get is during the warm months..
+Please hide as found.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.0158" lat="46.056367">
+        <time>2011-08-13T03:00:00.000-05:00</time>
+        <name>OX325GH</name>
+        <desc>Hornes Road  cache 1 by STAGUNNER, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX325GH</url>
+        <urlname>Hornes Road  cache 1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2835463">
+            <groundspeak:name>Hornes Road  cache 1</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">A quick easy cache to grab while going down the Hornes Road
+
+Cache is hidden near a stump</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Parking</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.242283" lat="46.096567">
+        <time>2007-05-06T03:00:00.000-05:00</time>
+        <name>OX12PRM</name>
+        <desc>Causeway Cache by STAGUNNER, Traditional Cache(2.9/1.7/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX12PRM</url>
+        <urlname>Causeway Cache</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1005009">
+            <groundspeak:name>Causeway Cache</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">It'snear a causeway , that's for sure,, but not the big one.
+Out near Sydney River is a nice subdivision which has it's own causeway to get to it.
+
+Hidden in a tree you will find a camouflaged tabaco can.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.9</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.7</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.15935" lat="46.1214667">
+        <time>2007-02-10T02:00:00.000-06:00</time>
+        <name>OX10W6H</name>
+        <desc>Troll holes by STAGUNNER, Traditional Cache(3.0/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX10W6H</url>
+        <urlname>Troll holes</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="949671">
+            <groundspeak:name>Troll holes</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Placed after the 2007 winter cache event, to see if the Capers are still ready to go get more.&lt;br/&gt;Have fun getting this one. &lt;br/&gt;Plan your attack  on the Trolls carefully, don't attempt to jump down on their heads,, sneak up on them from the downstream side, and park your car close as you can, suggest coming from Patnick road. 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Normy used to talk to this guy at Cheers but don't jump down</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.205117" lat="46.122617">
+        <time>2007-02-11T02:00:00.000-06:00</time>
+        <name>OX10X1A</name>
+        <desc>Populus balsamifera by STAGUNNER, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX10X1A</url>
+        <urlname>Populus balsamifera</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="950470">
+            <groundspeak:name>Populus balsamifera</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">There are some nice specimens of the Populus balsamifera in this area.
+So, which one is hiding the cache.
+I have seen lots of woodpecker living in these trees but they nest way up, you wont have to go that high.</groundspeak:long_description>
+            <groundspeak:encoded_hints>not 2 meters</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="578543">
+                    <groundspeak:date>2007-08-02T02:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="1738">DRAGONFLYS</groundspeak:finder>
+                    <groundspeak:text encoded="False">Awesome camo, TFTC
+
+dragonflys</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Takes less than an hour</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Not Wheelchair accessible</ox:tag>
+                <ox:tag>Available during winter</ox:tag>
+                <ox:tag>Available at all times</ox:tag>
+                <ox:tag>Recommended for kids</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.07875" lat="46.123433">
+        <time>2007-09-23T02:00:00.000-05:00</time>
+        <name>OX166N2</name>
+        <desc>Dont Wander From the Cobble Stone Path by MAC102004, Traditional Cache(2.0/4.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX166N2</url>
+        <urlname>Dont Wander From the Cobble Stone Path</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1108686">
+            <groundspeak:name>Dont Wander From the Cobble Stone Path</groundspeak:name>
+            <groundspeak:placed_by>MAC102004</groundspeak:placed_by>
+            <groundspeak:owner id="23525">MAC102004</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">Located FAR away from civilization. Near the guard rail swamp on Cow Bay Road. On the intersection to go to Broughton or to Sydney. Only accessible by ATV unless you want to make a day trip and walk in.</groundspeak:long_description>
+            <groundspeak:encoded_hints>None needed.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.15845" lat="46.1322333">
+        <time>2007-02-02T02:00:00.000-06:00</time>
+        <name>OX10DNJ</name>
+        <desc>Stuck in the Woods by STAGUNNER, Traditional Cache(1.8/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX10DNJ</url>
+        <urlname>Stuck in the Woods</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="936683">
+            <groundspeak:name>Stuck in the Woods</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Stuck in the woods, well the container is stuck in the woods, Or you could be if you decide to drive in as close as you can.&lt;br/&gt;Proceed to Cossit Heights Drive and go past the gate. Cache is not to far  but far enough off the main road.&lt;br/&gt;best way to get to it is from the end of Centennial Dr 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>base of a tree</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1106194">
+                    <groundspeak:date>2008-09-18T23:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="11681">geotrekkin</groundspeak:finder>
+                    <groundspeak:text encoded="False">Heather, Tyler and Nanny found this cache.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.8</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.1841" lat="46.1487833">
+        <time>2007-02-11T02:00:00.000-06:00</time>
+        <name>OX10X0R</name>
+        <desc>The old Steel Mill by STAGUNNER, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX10X0R</url>
+        <urlname>The old Steel Mill</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="950453">
+            <groundspeak:name>The old Steel Mill</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&quot;The site has just been landscaped and is now the Memorial site for all the Steelworkers that have lost their lives at Sydney Steel works,&quot;
+
+Enjoy the area. 
+
+Near the site of the old Sydney Steel Mill, and close to a water tank,
+Have a look around as new developments wiil change this area, The Tar Ponds will get changed and make it a better place for everyone.
+Enjoy this Stop and Grab,,</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>1.7</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.0917167" lat="46.1716833">
+        <time>2007-12-17T02:00:00.000-06:00</time>
+        <name>OX17M56</name>
+        <desc>Stone Hedge by STAGUNNER, Traditional Cache(2.3/2.8/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX17M56</url>
+        <urlname>Stone Hedge</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1151439">
+            <groundspeak:name>Stone Hedge</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">A small cache located along Grand Lake Road. the name gives it's possible location away. but it is not there just close by!!!!
+So have fun finding this one,</groundspeak:long_description>
+            <groundspeak:encoded_hints>not in the stone hedge in a tree</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.3</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.8</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.0787833" lat="46.1721667">
+        <time>2007-05-06T03:00:00.000-05:00</time>
+        <name>OX12PT1</name>
+        <desc>Runaway Tire?? by STAGUNNER, Traditional Cache(2.6/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX12PT1</url>
+        <urlname>Runaway Tire??</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1005021">
+            <groundspeak:name>Runaway Tire??</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Runaway tire.
+
+So here I was driving down Grand Lake Road on my way to Glace Bay, and there it goes. Whizzing past me  and heading for the boonies,,, My right rear tire, 
+So now what,, off I go on a chase to find it, somewhere  down Evergreen Road I go, with just three wheels on the pavement,,
+I can see the path it made, but how far in the woods did it go..
+
+I will need some help on this one.. any takers to find my lost tire?
+
+!!  you  might get a bit of black  stuff on your hands!!
+So where some gloves when extracting the cache from it's hiding spot!</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.033783" lat="46.202033">
+        <time>2007-09-28T03:00:00.000-05:00</time>
+        <name>OX167N3</name>
+        <desc>A Mossy place by STAGUNNER, Traditional Cache(1.8/1.9/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX167N3</url>
+        <urlname>A Mossy place</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1109648">
+            <groundspeak:name>A Mossy place</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">On the way to pick some nice blue berries I found a good spot for a cache. Like the name says its in a mossy place so you might get your feet wet, should be an easy find.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.8</ox:difficulty>
+                <ox:size>2.4</ox:size>
+                <ox:terrain>1.9</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.0387667" lat="46.2119">
+        <time>2007-05-06T03:00:00.000-05:00</time>
+        <name>OX12PTB</name>
+        <desc>Gunner's Ocean View by STAGUNNER, Traditional Cache(1.7/1.9/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX12PTB</url>
+        <urlname>Gunner's Ocean View</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1005031">
+            <groundspeak:name>Gunner's Ocean View</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">The Gunner family has moved to Cabe Breton and established a cache near their home,  The cache is located in my back yard, a safe place to drop off Travel Bugs and Geocoins, if you want.
+
+You are welcome to stop by for a cool or warm drink, weather dependant and if someone is home,
+
+On a side note, too make things a whole lot easier and less troublesome, all cachers should use Warburton Road as a parking place, pretend you are checking your mail or something like that.
+Happy caching!!!</groundspeak:long_description>
+            <groundspeak:encoded_hints>it's not the bug zapper!!!</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.7</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>1.9</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.1627833" lat="46.2426667">
+        <time>2009-12-28T02:00:00.000-06:00</time>
+        <name>OX22C0Q</name>
+        <desc>Ghosts of the past by tiggy00, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX22C0Q</url>
+        <urlname>Ghosts of the past</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1918179">
+            <groundspeak:name>Ghosts of the past</groundspeak:name>
+            <groundspeak:placed_by>tiggy00</groundspeak:placed_by>
+            <groundspeak:owner id="1688">tiggy00</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br/&gt;
+ &lt;b&gt;Congrats to MineRP on FTF&lt;/b&gt; &lt;br/&gt;
+ &lt;br/&gt;
+&lt;br/&gt;
+ Out caching with my kids and father while home from Halifax for
+Christmas. We were heading up Lake Rd to find one of the caches up
+here when Dad tells me how years ago he used to work for the
+department of highways. He helped put in that road. 
+&lt;p&gt;Before the road went in, there was a large bog there. They
+thought they had it all cleared out when they left on a Saturday.
+Since they didn't work on Sundays, they came back on Monday. To
+their surprise, there was still a lot of bog left and a bulldozer
+ended up almost completely submerged in the bog. It was beyond
+salvage.&lt;/p&gt;
+&lt;p&gt;So, when you get to this geocache, stand on the road adjescent
+to it and keep in mind, you are standing over a burried bulldozer.
+:-)&lt;/p&gt;
+&lt;p&gt;Dad has graciously offered to check in on this ever now and then
+while we are in Halifax and I will check on it ever visit we make
+home. Happy Hunting.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;If you are
+aGeocacher in Atlantic Canada,&lt;br/&gt;
+ please join us. The ACGA is your gateway to&lt;br/&gt;
+ caching in and around the East Coast.&lt;br/&gt;
+&lt;br/&gt;
+Si vous êtes un géocacheur dans les provinces de
+l'Atlantique,&lt;br/&gt;
+ venez nous voir à ACGA&lt;/b&gt;&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>about 6 feet up</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.140683" lat="46.2496">
+        <time>2008-02-08T02:00:00.000-06:00</time>
+        <name>OX192K6</name>
+        <desc>where have the dam builders gone **Feb8** by STAGUNNER, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX192K6</url>
+        <urlname>where have the dam builders gone **Feb8**</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1194157">
+            <groundspeak:name>where have the dam builders gone **Feb8**</groundspeak:name>
+            <groundspeak:placed_by>STAGUNNER</groundspeak:placed_by>
+            <groundspeak:owner id="1193">STAGUNNER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;2&lt;/p&gt;
+
+
+ 
+
+
+&lt;p&gt; &lt;/p&gt;
+&lt;h1&gt; Winter Caching in Cape
+       Breton &lt;/h1&gt;
+&lt;h1&gt;
+Where have the Dam Builders
+gone?&lt;/h1&gt;
+&lt;h1&gt;
+
+Get out of the cabins, and Enjoy the Great
+outdoors!&lt;/h1&gt;
+&lt;p&gt;Second Annual mid winter
+event&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;
+ &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;
+This cache is hidden  somewhere near New
+Victoria at Ratchford Brook&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;
+There is a small place to park if the snowbank
+is small.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+   &lt;b&gt;
+This cache was placed for&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+ &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;see the links below
+for cache page details&lt;/p&gt;
+&lt;p&gt;WINTER PLACEMENT EVENT
+      MGA  &lt;/p&gt;
+&lt;p&gt; 
+WINTER PLACEMENT EVENT 08 ACGA&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;If you are a
+Geocacher in Atlantic Canada,&lt;br/&gt;
+ please join us. The ACGA is your gateway to&lt;br/&gt;
+ caching in and around the East Coast.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+ 
+&amp;lt;/ P&amp;gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>eager beavers did not build this one</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.96905" lat="46.6281">
+        <time>2008-12-26T02:00:00.000-06:00</time>
+        <name>OX1K5W4</name>
+        <desc>Frenchy's Playground - Gypsum Mines by AcadianCacheSpies, Traditional Cache(1.7/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1K5W4</url>
+        <urlname>Frenchy's Playground - Gypsum Mines</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1495196">
+            <groundspeak:name>Frenchy's Playground - Gypsum Mines</groundspeak:name>
+            <groundspeak:placed_by>AcadianCacheSpies</groundspeak:placed_by>
+            <groundspeak:owner id="2075">AcadianCacheSpies</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;This was the actual site of a working gypsum mine in the early
+1900s opened by one of my Ancestors. Now, all that is left is a
+rotted out mine shaft and the most beautiful man made swimming
+hole.&lt;/p&gt;
+&lt;p&gt;This is a very popular spot for teenage muggles and can be very
+busy during hot summer days. I have placed the cache away from
+peering eyes but once you have found your treasure, please make
+sure to make it around the bend and see one of my favourite
+treasures.&lt;/p&gt;
+
+&lt;p&gt;You can park and walk the trail or take out your ATV and ride
+in. There are also several ATV trails that will get you there.
+Depending on the time of year, there is a good chance you will
+encounter huge water puddles. Please be prepared to get your feet
+wet or do some fancy footwork. It will be worth it.&lt;/p&gt;
+&lt;p&gt;The cache is a camo'd .30 cal ammo can and contains a log book,
+pencil, Geocaching tatoo, NASCAR lanyard, 2008 Canada Mirco coin,
+original Palms Casino playing cards and for the FTF - A complete
+set of 1991-92 High Series Upper Deck hockey cards.&lt;/p&gt;&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;PK1K5W4 - Parking
+
+N 46° 37.835 W 060° 58.830</groundspeak:long_description>
+            <groundspeak:encoded_hints>Mossy Rock</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1558962">
+                    <groundspeak:date>2011-09-14T22:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="60554">Margaree</groundspeak:finder>
+                    <groundspeak:text encoded="False">My first cache ever, awesome and addictive.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.7</ox:difficulty>
+                <ox:size>3.9</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Bike Trail</ox:tag>
+                <ox:tag>Forest </ox:tag>
+                <ox:tag>Scenic Overlook</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.397" lat="46.6477833">
+        <time>2010-12-08T10:26:46.000-06:00</time>
+        <name>OX1V4D7</name>
+        <desc>ALIENS INVADE FRESHWATER LAKE! by ACGA, Traditional Cache(1.8/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1V4D7</url>
+        <urlname>ALIENS INVADE FRESHWATER LAKE!</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1702341">
+            <groundspeak:name>ALIENS INVADE FRESHWATER LAKE!</groundspeak:name>
+            <groundspeak:placed_by>ACGA</groundspeak:placed_by>
+            <groundspeak:owner id="600">ACGA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Welcome to Cape Breton Highlands National Park!
+ This cache is placed on the Freshwater Lake trail - 0.3 km (return). 
+
+A nice smooth trail with wheel chair access.  
+
+You are looking for a small green lexan container containing a log book, pencil &amp; punch (for your cacheport). Read the article, answer the question at the end.    
+  
+To claim your geocoin, bring your completed passport (including answers) to the Chéticamp or Ingonish Visitor Centre.                          
+
+use the punch in each of the 5 caches to punch your cacheport.  When you complete all 5 you have a chance to earn a limited edition geocoin (only 250 minted!- first-come first- served). 
+
+The geocache is  a partnership of the Atlantic Canada Geocache Association and Cape Breton Highlands National Park. Please pay appropriate park entry feesand collect your Cacheport at the Ingonish or Chéticamp Visitor Centre.  Stay on trails.
+
+As per the Parks Canada geocaching policy: Trade items are not permitted in caches, this includes Travel Bugs.
+
+For more background about the area you will be visiting, please follow this LINK. 
+
+http://atlanticgeocaching.com/uploads/CNHNP/FreshWaterlake_EN.pdf
+
+Scientists were dismayed to discover the presence of an invasive, ‘alien’
+species, the Spinycheek crayfish, in Cape Breton Highlands National Park’s Freshwater Lake. This species could threaten the survival of native aquatic species in the waterbodies of the park.
+
+Native to the northeastern United States, this is the first and only known occurrence of the Spinycheek crayfish in Nova Scotia.
+
+They were introduced sometime after 2002, either accidentally by sport fishermen (who use them as bait) or by people releasing unwanted crayfish pets.
+
+Park scientists suspect that their presence has already had a negative impact on the native Freshwater mussels.
+
+So far the crayfish population has been contained to Freshwater Lake.</groundspeak:long_description>
+            <groundspeak:encoded_hints>6x6 </groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1644807">
+                    <groundspeak:date>2011-09-06T17:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="67054">WOMBAT378A</groundspeak:finder>
+                    <groundspeak:text encoded="False">Nice cache, and ever again something tourists can learn, TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1572356">
+                    <groundspeak:date>2010-06-06T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
+                    <groundspeak:text encoded="False">Now that we have hiked just over 25 kms in the park, we are ready to claim our much deserved geocoins!  Thanks to Fundy and Valley for keeping us company and thanks to the park for the informative, educational, physically demanding, fun and scenic weekend!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1396057">
+                    <groundspeak:date>2009-07-17T22:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="1193">STAGUNNER</groundspeak:finder>
+                    <groundspeak:text encoded="False">do hoomans counts as alien?? we saw some swimming</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.8</ox:difficulty>
+                <ox:size>2.8</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Passport</ox:tag>
+                <ox:tag>Challenge Cache</ox:tag>
+                <ox:tag>National Park</ox:tag>
+            </ox:tags>
+            <ox:series id="10486">
+                <ox:name>2009 Cape Breton Highlands National Park Challenge</ox:name>
+            </ox:series>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.3848667" lat="46.6554667">
+        <time>2009-07-13T02:00:00.000-05:00</time>
+        <name>OX1VX0A</name>
+        <desc>CB Highlands National Park Middle Head Multi by ACGA, Multi-cache(2.5/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1VX0A</url>
+        <urlname>CB Highlands National Park Middle Head Multi</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="1725005">
+            <groundspeak:name>CB Highlands National Park Middle Head Multi</groundspeak:name>
+            <groundspeak:placed_by>ACGA</groundspeak:placed_by>
+            <groundspeak:owner id="600">ACGA</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">There are five caches in this multi-cache and - the theme of this multi-cache being cultural history - each cache will be concerned with a different element of the history of Middle Head.  On each card you will be given partial co-ordinates to the next cache.  In order to get the full co-ordinates it will be necessary to solve the rhyming riddle on each card. 
+
+When you’ve figured out the missing word on the card, use the chart below to match the first letter of the word to a number.  This will be the missing number of the co-ordinate. 
+For example:
+
+If the missing word is “park” then take the first letter, ‘p’ and find it on the chart below: 
+A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R	S	T	U	V	W	X	Y	Z
+6	2	7	4	5	0	3	6	9	2	3	2	4	1	5	0	7	4	6	8	1	9	3	8	5	1
+ 
+Then take the number and fill in the blank on the co-ordinate:
+
+N 49.874’ W 060.95_’   
+So “park” gives us N 49.874’ W 060.950’  and that would be your co-ordinate.
+
+  
+
+In this way, you will be capable of finding all five caches. 
+
+As well, on each card you are given one word  in a sentence.  Remember each word from each card, because when you reach the last cache, you can put them all together to form a message.  Note: These do not have anything to do with finding the co-ordinates, it is just an extra puzzle for you to solve.
+
+Additional Waypoints
+M11VX0A - Middel head Multi cache 1
+N 46° 39.328 W 060° 23.092
+
+P11VX0A - Middle head Parking
+N 46° 39.319 W 060° 22.338
+
+ 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>National Park</ox:tag>
+            </ox:tags>
+            <ox:series id="10486">
+                <ox:name>2009 Cape Breton Highlands National Park Challenge</ox:name>
+            </ox:series>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.9643333" lat="46.6542333">
+        <time>2010-06-05T02:00:00.000-05:00</time>
+        <name>OX2A01C</name>
+        <desc>Terre Rouge by AcadianCacheSpies, Traditional Cache(1.8/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2A01C</url>
+        <urlname>Terre Rouge</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2144995">
+            <groundspeak:name>Terre Rouge</groundspeak:name>
+            <groundspeak:placed_by>AcadianCacheSpies</groundspeak:placed_by>
+            <groundspeak:owner id="2075">AcadianCacheSpies</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache was placed in memory of a would have been avid Geocacher. In May of 2009, he began geocaching, found some local caches and like most of us, became hooked. 
+
+After a few finds, he made plans to hide some of his own. Unfortunately, due to his illness and business requirements, he did not get a chance to hide any before his passing.
+ 
+After his funeral, his wife gave me some of the stuff he had prepared for his hides. I took that stuff and combined it with my own and hid this cache near one of his favorite salmon fishing spots.
+
+It is an easy walk along an ATV trail with a moderate incline on your way back up. You will encounter tree roots and puddles at the very first part of the trail so be careful. Feel free to continue along the river after you have found the cache as it can be a very peaceful walk with just the birds in the trees and the sound of the flowing water.
+Additional Hidden Waypoints
+TR2A01C - Trailhead
+N 46° 39.474 W 060° 57.873
+Park your vehicle on the side of the road and enter here.
+
+ 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>6 White birches</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1558960">
+                    <groundspeak:date>2011-09-14T22:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="60554">Margaree</groundspeak:finder>
+                    <groundspeak:text encoded="False">Beautiful spot along the River.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.8</ox:difficulty>
+                <ox:size>3.8</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Forest </ox:tag>
+                <ox:tag>Scenic Walk</ox:tag>
+                <ox:tag>Bike Trail</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.94355" lat="46.6677">
+        <time>2009-07-18T02:00:00.000-05:00</time>
+        <name>OX1V4CD</name>
+        <desc>MOOSE ON THE LOOSE!!! by ACGA, Traditional Cache(3.0/4.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1V4CD</url>
+        <urlname>MOOSE ON THE LOOSE!!!</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1702316">
+            <groundspeak:name>MOOSE ON THE LOOSE!!!</groundspeak:name>
+            <groundspeak:placed_by>ACGA</groundspeak:placed_by>
+            <groundspeak:owner id="600">ACGA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;h4&gt;The content and images found on this cache listing was
+developed by Cape Breton Highlands National Park. The geocache was
+placed by Cape Breton Highlands National Park with assistance from
+ACGA.&lt;/h4&gt;
+ 
+
+Cape Breton Highlands National
+Park - Parc national du Canada des
+Hautes-Terres-du-Cap-Breton
+
+
+&lt;p&gt;&lt;strong&gt;Welcome to Cape Breton Highlands National
+Park!&lt;/strong&gt;&lt;/p&gt;
+This cache is placed on the Acadian
+trail - 8.4 km (loop).&lt;br/&gt;
+&lt;br/&gt;
+ Trail is smooth in some parts but has fist size rocks and roots in
+several places, trail on the right leads through a steep valley,
+satelite reception is poor but returns when you reach the summit of
+the trail.&lt;br/&gt;
+&lt;br/&gt;
+ Recomended route to the cache is to keep to the left trail and
+then follow the other trail on the return Not recomended for small
+children.&lt;br/&gt;
+&lt;br/&gt;
+ You are looking for a small green lexan container containing a
+log book, pencil &amp; punch (for your
+cacheport). 
+Read the article, answer the question at the end.
+   &lt;br/&gt;
+   &lt;br/&gt;
+ To claim your geocoin, bring your completed passport (including
+answers) to the Chéticamp or Ingonish Visitor
+Centre.                          
+
+&lt;p&gt;use the punch in each of the 5 caches
+to punch your cacheport.  When you complete all 5 you have a
+chance to earn a limited edition geocoin (only 250 minted!-
+first-come first- served). &lt;/p&gt;
+&lt;p&gt;The geocache is  a partnership
+of the Atlantic Canada Geocache Association and
+Cape Breton
+Highlands National Park.
+Please pay appropriate park entry
+fees
+and collect your Cacheport at the
+Ingonish or Chéticamp Visitor
+Centre
+.  Stay on trails.&lt;/p&gt;
+&lt;p&gt;As
+per the Parks Canada geocaching policy: Trade items are not
+permitted in caches, this includes Travel
+Bugs.&lt;/p&gt;
+
+&lt;p&gt;
+Bienvenue
+au Parc national
+des Hautes-Terres-du-Cap-Breton!&lt;/p&gt;
+
+Cette cache est située sur le sentier L'Acadien
+- 8,4 km (boucle).&lt;br/&gt;
+Sentier est bon dans certaines endroits, mais il y a des roches et
+des racines en plusieurs endroits. Le sentier sur la droite mène à
+travers une vallée escarpée, la réception par satellite est faible
+mais revient quand vous atteignez le sommet de la piste. Route
+recommandée pour le cache est de suivre à gauche et de faire le
+retour en suivant le sentier pour faire un boucle. N'est pas
+recommandé pour les petits enfants.&lt;br/&gt;
+ Vous cherchez un contenant vert de
+lexan, carnet, crayon
+et perforateur. 
+Lisez l'article, répondez à la question à la fin
+de l'article. &lt;br/&gt;
+&lt;br/&gt;
+ Pour recevoir votre géopièce, apportez votre cacheport rempli
+au Centre d’accueil de Chéticamp ou à celui
+d’Ingonish.&lt;br/&gt; 
+&lt;p&gt;pour télécharger votre passeport que
+vous poinçonnerez à chacune des cinq caches du parc. Lorsque vous
+aurez découvert les cinq caches, vous courrez la chance de gagner
+une géopièce à tirage limité. (Seulement 250 géopièces ont été
+frappées! Premier arrivé, premier servi.)&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;Les activités de géocachette sont le
+résultat d’un partenariat entre l’Atlantic Canada Geocache
+Association et le
+parc national
+des
+Hautes-Terres-du-Cap-Breton
+. N’oubliez pas de payer les
+droits d’entrée du parc aussi le cacheport
+au centre d’accueil
+de Chéticamp ou à celui
+d’Ingonish
+. Suivez les sentiers.&lt;/p&gt;
+&lt;p&gt;
+Conformément
+aux lignes directrices sur la géocachette de Parcs Canada, les
+objets d’échange (y compris les « Travel Bugs ») sont interdits
+dans les caches.&lt;/p&gt;
+&lt;p&gt;
+______________________________________________________________________________________________________________&lt;/p&gt;
+ 
+
+
+
+
+&lt;h2&gt;For more background about the area you will be visiting, please
+follow this
+
+LINK.&lt;/h2&gt;
+&lt;br/&gt;
+If you ask any moose, they’ll tell you that Cape Breton Highlands
+National Park is a moose’s paradise. With few natural predators and
+hectares of protected forests, moose have thrived here since their
+reintroduction in the&lt;br/&gt;
+late 1940s.&lt;br/&gt;
+&lt;br/&gt;
+“Yeah, we pretty much got it made here,” said one moose, “all the
+trees you could ever wish to eat; free to roam about without fear
+of being hunted, what more could a moose ask for?”&lt;br/&gt;
+&lt;br/&gt;
+Moose were extirpated from Cape Breton by the early 20th century
+but were reintroduced from Elk Island National Park in Alberta and
+their numbers have risen from 18 to about 3000 in the highlands in
+just 60 years.&lt;br/&gt;
+
+&lt;h2&gt;Pour en savoir plus de la région que vous allez visiter,
+cliquez
+
+ICI.&lt;/h2&gt;
+&lt;br/&gt;
+N’importe quel orignal vous dira que le parc national des
+Hautes-Terres-du-Cap-Breton est un vrai paradis!&lt;br/&gt;
+&lt;br/&gt;
+Comme il y a peu de prédateurs et des hectares de forêts
+protégées,la population d’orignaux n’a fait que croître depuis la
+réintroduction de l’espèce à la fin des années 1940.&lt;br/&gt;
+&lt;br/&gt;
+« Oui, c’est la belle vie ici, de dire un original. Des arbres à
+brouter en quantité; nous sommes libres d’aller où bon nous semble
+sans craindre les chasseurs. Quoi de mieux ? »&lt;br/&gt;
+&lt;br/&gt;
+L’orignal avait disparu du Cap-Breton au début du 20e siècle, mais
+des orignaux ont été apportés du parc national Elk Island, en
+Alberta, et l’espèce a ainsi été réintroduite. Leur nombre n’a fait
+que croître dans les hautes-terres, passant de 18 à environ 3000 en
+seulement 60 ans.
+
+&lt;br/&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;T11V4CD - Trail Head #1&lt;br/&gt;N 46° 38.813 W 060° 57.011&lt;br/&gt;&lt;br/&gt;T21V4CD - Trail Head #2&lt;br/&gt;N 46° 38.800 W 060° 56.799</groundspeak:long_description>
+            <groundspeak:encoded_hints>Rocks</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1459657">
+                    <groundspeak:date>2010-07-12T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="54684">lib53</groundspeak:finder>
+                    <groundspeak:text encoded="False">1431. Find
+
+Visiting from Ontario, we toured Nova Scotia clockwise from Halifax to Halifax between July 2 and July 17. Thanks to geocaching we found some places that we would have otherwise missed. Most caches were outstanding, a few of those &quot;million dollar view caches&quot; even make my top 25 list. Thank you to the cache owners for taking us there.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1572300">
+                    <groundspeak:date>2010-06-05T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
+                    <groundspeak:text encoded="False">I think maybe we are a little crazy for choosing this hike on the same day as Fishing Cove!  In any event, the excellent company made it feel almost easy and the time surely passed by quickly, even in the rain!  Congratulations to F&amp;V for your 2400th find!  I'm glad to have been a part of this milestone with you.   Now, I just need to catch you!  [;)]</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1396053">
+                    <groundspeak:date>2009-07-17T22:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="1193">STAGUNNER</groundspeak:finder>
+                    <groundspeak:text encoded="False">Thanks for the fun and adventures</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Challenge Cache</ox:tag>
+                <ox:tag>Passport</ox:tag>
+                <ox:tag>National Park</ox:tag>
+            </ox:tags>
+            <ox:series id="10486">
+                <ox:name>2009 Cape Breton Highlands National Park Challenge</ox:name>
+            </ox:series>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.8082333" lat="46.7411667">
+        <time>2009-07-18T02:00:00.000-05:00</time>
+        <name>OX1V4CV</name>
+        <desc>RAVENOUS PREDATOR  RELEASED IN PARK! by ACGA, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1V4CV</url>
+        <urlname>RAVENOUS PREDATOR  RELEASED IN PARK!</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1702329">
+            <groundspeak:name>RAVENOUS PREDATOR  RELEASED IN PARK!</groundspeak:name>
+            <groundspeak:placed_by>ACGA</groundspeak:placed_by>
+            <groundspeak:owner id="600">ACGA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;h4&gt;The content and images found on this cache listing was
+developed by Cape Breton Highlands National Park. The geocache was
+placed by Cape Breton Highlands National Park with assistance from
+ACGA.&lt;/h4&gt;
+ 
+
+
+Cape Breton Highlands National
+Park - Parc national du Canada des
+Hautes-Terres-du-Cap-Breton
+
+
+&lt;p&gt;&lt;strong&gt;Welcome to Cape Breton Highlands National
+Park!&lt;/strong&gt;&lt;/p&gt;
+ This cache is placed on the
+Benjie's Lake trail - 3 km (return).&lt;br/&gt;
+&lt;br/&gt;
+ Parking is on the OPPOSITE side of the road, take care when
+crossing the highway. Trail is relatively good, some roots and
+stones, and a nice boardwalk in some places.&lt;br/&gt;
+ &lt;br/&gt;
+You are looking for a small green lexan container containing a
+log book, pencil &amp; punch (for your
+cacheport). 
+Read the article, answer the question at the end.
+   &lt;br/&gt;
+   &lt;br/&gt;
+ To claim your geocoin, bring your completed passport (including
+answers) to the Chéticamp or Ingonish Visitor
+Centre.                          
+
+&lt;p&gt;use the punch in each of the 5 caches to punch your
+cacheport.  When you complete all 5 you have a chance to earn
+a limited edition geocoin (only 250 minted!- first-come first-
+served). &lt;/p&gt;
+&lt;p&gt;The geocache is  a partnership
+of the Atlantic Canada Geocache Association and
+Cape Breton
+Highlands National Park.
+Please pay appropriate park entry
+fees
+and collect your Cacheport at the
+Ingonish or Chéticamp Visitor
+Centre
+.  Stay on trails.&lt;/p&gt;
+&lt;p&gt;As
+per the Parks Canada geocaching policy: Trade items are not
+permitted in caches, this includes Travel
+Bugs.&lt;/p&gt;
+
+&lt;p&gt;
+Bienvenue
+au Parc national
+des Hautes-Terres-du-Cap-Breton!&lt;/p&gt;
+
+Cette cache est située sur le sentier
+Lac Benjie's - 3 km (aller-retour).&lt;br/&gt;
+&lt;br/&gt;
+Le stationnement est sur le côté opposé de la route, soyez prudent.
+Le sentier est relativement bon, quelques racines et les pierres,
+et un joli trottoir à certains endroits.&lt;br/&gt;
+           &lt;br/&gt;
+ Vous cherchez un contenant vert de
+lexan, carnet, crayon
+et perforateur. 
+Lisez l'article, répondez à la question à la fin
+de l'article. &lt;br/&gt;
+&lt;br/&gt;
+ Pour recevoir votre géopièce, apportez votre cacheport rempli
+au Centre d’accueil de Chéticamp ou à celui
+d’Ingonish.&lt;br/&gt; 
+&lt;p&gt;Lorsque vous aurez découvert les cinq caches, vous courrez la
+chance de gagner une géopièce à tirage limité. (Seulement 250
+géopièces ont été frappées! Premier arrivé, premier servi.)&lt;/p&gt;
+&lt;p&gt;Les activités de géocachette sont le
+résultat d’un partenariat entre l’Atlantic Canada Geocache
+Association et le
+parc national
+des
+Hautes-Terres-du-Cap-Breton
+. N’oubliez pas de payer les
+droits d’entrée du parc aussi le cacheport
+au centre d’accueil
+de Chéticamp ou à celui
+d’Ingonish
+. Suivez les sentiers.&lt;/p&gt;
+&lt;p&gt;
+Conformément
+aux lignes directrices sur la géocachette de Parcs Canada, les
+objets d’échange (y compris les « Travel Bugs ») sont interdits
+dans les caches.&lt;/p&gt;
+&lt;p&gt;
+______________________________________________________________________________________________________________&lt;/p&gt;
+ 
+
+
+
+
+&lt;h2&gt;For more background about the area you will be visiting, please
+follow this
+
+LINK.&lt;/h2&gt;
+Over the past 2 years, scientists at Cape Breton Highlands National
+Park have been releasing American Marten into the park to increase
+their numbers.&lt;br/&gt;
+&lt;br/&gt;
+In total 75 marten, an endangered species in the province of Nova
+Scotia and a native of the park, were released.&lt;br/&gt;
+&lt;br/&gt;
+Marten prefer old growth forest, where they have lots of room to
+hide beneath dead trees to prey on small mammals such as squirrels
+&amp; mice.&lt;br/&gt;
+&lt;br/&gt;
+The Canada Lynx is also an endangered species in Nova Scotia. The
+Cape Breton Highlands are the last stronghold of these cats in the
+whole province.&lt;br/&gt;
+
+&lt;h2&gt;Pour en savoir plus de la région que vous allez visiter,
+cliquez
+
+ICI.&lt;/h2&gt;
+Depuis les deux dernières années, des scientifiques ont relâché des
+martres d’Amérique dans le parc national des
+Hautes-Terres-du-Cap-Breton pour en augmenter la population.&lt;br/&gt;
+&lt;br/&gt;
+En tout 75 martres d’Amérique, espèce en voie de disparition en
+Nouvelle-Écosse et espèce indigène du parc, ont été
+relâchées.&lt;br/&gt;
+&lt;br/&gt;
+La martre préfère les forêts anciennes où, les cachettes étant
+nombreuses sous les arbres morts, elle peut chasser les petits
+mammifères comme les écureuils et les souris.&lt;br/&gt;
+&lt;br/&gt;
+Le lynx du Canada qui est aussi une espèce en voie de disparition
+en Nouvelle-Écosse. Les hautes-terres du Cap-Breton sont le dernier
+bastion de ces félins dans la province. &lt;br/&gt;
+
+&lt;br/&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;P11V4CV - Parking&lt;br/&gt;N 46° 44.825 W 060° 49.307</groundspeak:long_description>
+            <groundspeak:encoded_hints>Under boardwalk</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1459658">
+                    <groundspeak:date>2010-07-11T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="54684">lib53</groundspeak:finder>
+                    <groundspeak:text encoded="False">1430. Find
+
+Visiting from Ontario, we toured Nova Scotia clockwise from Halifax to Halifax between July 2 and July 17. Thanks to geocaching we found some places that we would have otherwise missed. Most caches were outstanding, a few of those &quot;million dollar view caches&quot; even make my top 25 list. Thank you to the cache owners for taking us there.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1572322">
+                    <groundspeak:date>2010-06-06T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
+                    <groundspeak:text encoded="False">We had to do a little bit of bushwhacking (swamp trodding?) to get to this cache, as the main trail was closed due to storm damage.  Lots of water here today!  TFTC - two down, 3 to go for the coin!!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1396054">
+                    <groundspeak:date>2009-07-17T22:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="1193">STAGUNNER</groundspeak:finder>
+                    <groundspeak:text encoded="False">A pleasant walk but no wildlife present</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Passport</ox:tag>
+                <ox:tag>Challenge Cache</ox:tag>
+                <ox:tag>National Park</ox:tag>
+            </ox:tags>
+            <ox:series id="10486">
+                <ox:name>2009 Cape Breton Highlands National Park Challenge</ox:name>
+            </ox:series>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.32435" lat="46.7805">
+        <time>2010-12-10T11:46:05.000-06:00</time>
+        <name>OX1V4D6</name>
+        <desc>FIRE!!! JACK PINE IS PYROMANIAC! by ACGA, Traditional Cache(2.6/3.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1V4D6</url>
+        <urlname>FIRE!!! JACK PINE IS PYROMANIAC!</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1702340">
+            <groundspeak:name>FIRE!!! JACK PINE IS PYROMANIAC!</groundspeak:name>
+            <groundspeak:placed_by>ACGA</groundspeak:placed_by>
+            <groundspeak:owner id="600">ACGA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The content and images found on this cache listing was developed by Cape Breton Highlands National Park. The geocache was placed by Cape Breton Highlands National Park with assistance from ACGA.
+ACGA logo 	
+PC logo
+Cape Breton Highlands National Park - Parc national du Canada des Hautes-Terres-du-Cap-Breton
+
+Welcome to Cape Breton Highlands National Park!
+This cache is placed on the Jack Pine trail - 2.3 km loop. 
+
+Parking is good. Several routes to this cache the Left trail is narrow but has interpretive signs along the way.
+
+Recomend this trail to start and follow the other trial on the return to see some spectacular seaside views and Squeaker's Hole.  
+
+You are looking for a small green lexan container containing a log book, pencil &amp; punch (for your cacheport). Read the article, answer the question at the end.    
+  
+To claim your geocoin, bring your completed passport (including answers) to the Chéticamp or Ingonish Visitor Centre.                          
+
+use the punch in each of the 5 caches to punch your cacheport.  When you complete all 5 you have a chance to earn a limited edition geocoin (only 250 minted!- first-come first- served). 
+
+The geocache is  a partnership of the Atlantic Canada Geocache Association and Cape Breton Highlands National Park. Please pay appropriate park entry feesand collect your Cacheport at the Ingonish or Chéticamp Visitor Centre.  Stay on trails.
+
+As per the Parks Canada geocaching policy: Trade items are not permitted in caches, this includes Travel Bugs.
+	
+
+Bienvenue au Parc national des Hautes-Terres-du-Cap-Breton!
+Cette cache est située sur le sentier Pin Gris - 2,3 km (boucle).
+
+Le stationnement est disponible. Suivre le sentier à gauche qui est étroit, mais a des panneaux d'interprétation le long du sentier.
+
+Recommande de suivre cette piste au début et à suivre un autre sentier pour le retour pour voir des vues spectaculaires à Squeaker's Hole.
+           
+Vous cherchez un contenant vert de lexan, carnet, crayon et perforateur. Lisez l'article, répondez à la question à la fin de l'article.
+
+Pour recevoir votre géopièce, apportez votre cacheport rempli au Centre d’accueil de Chéticamp ou à celui d’Ingonish.
+
+Lorsque vous aurez découvert les cinq caches, vous courrez la chance de gagner une géopièce à tirage limité. (Seulement 250 géopièces ont été frappées! Premier arrivé, premier servi.)
+
+Les activités de géocachette sont le résultat d’un partenariat entre l’Atlantic Canada Geocache Association et le parc national des Hautes-Terres-du-Cap-Breton. N’oubliez pas de payer les droits d’entrée du parc aussi le cacheport au centre d’accueil de Chéticamp ou à celui d’Ingonish. Suivez les sentiers.
+
+Conformément aux lignes directrices sur la géocachette de Parcs Canada, les objets d’échange (y compris les « Travel Bugs ») sont interdits dans les caches.
+
+______________________________________________________________________________________________________________
+For more background about the area you will be visiting, please follow this LINK.
+
+Picture it: Cape Breton, June 1921. Prospectors working on Mica Hill accidentally start a forest fire that will change the face of the forest in that
+area forever.
+
+In the searing heat, seeds from a stand of Jack pine trees break open and are carried on an updraft of wind created by the fire. Ten kilometres away, theseseeds settle, nice and cosy, into the coast where they will happily live out their life cycle in what will, 15 years later, become Cape Breton Highlands
+National Park of Canada.
+
+Now zip back to the future, to the year 2009: a healthy stand of Jack pines now grow; clinging to the rocks, firmly planted. And all because of a forest fire…
+
+While no one would ever go out and randomly set fire anywhere, people are beginning to recognise the importance of fire in nature. Forest fires have been
+happening much longer than we’ve been around to control them and so
+nature has adapted accordingly.
+
+In fact, the seeds of many plants and trees will not germinate unless they are subjected to extreme temperatures; which fires can supply. The Jack Pine
+is one such plant.
+
+	
+Pour en savoir plus de la région que vous allez visiter, cliquez ICI.
+
+Imaginez la situation : Cap-Breton, juin 1921. Des prospecteurs qui travaillent sur la colline Mica déclenchent accidentellement un feu de forêt qui va transformer à tout jamais le paysage forestier de cette région.
+
+Sous l’effet de la chaleur intense, des cônes d’un peuplement de pins griss’ouvrent et un courant ascendant créé par le feu transporte leurs semences.
+
+Dix kilomètres plus loin, ces semences s’établissent confortablement le long de la côte rocheuse, où elles suivent leur cycle de vie en toute tranquillité à l’endroit qui deviendra, 15 ans plus tard, le parc national des Hautes-Terres-du-Cap-Breton.
+
+Revenons maintenant en 2009 – des pins gris en santé poussent aujourd’hui, solidement plantés dans les anfractuosités des rochers.. Et tout ça grâce à un feu de forêt…
+
+Évidemment, personne ne mettrait jamais le feu au hasard, mais on commence à reconnaître l’importance du feu dans la nature. Des feux de forêt se produisent depuis bien avant la présence des humains pour les contrôler, et la nature s’est adaptée en conséquence.
+
+D’ailleurs, les semences de plusieurs plantes et arbres ne germent que si elles sont soumises à de hautes températures, comme celles que dégagent les feux. Le pin gris est l’un ces arbres.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Near Sign </groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1415713">
+                    <groundspeak:date>2011-08-08T22:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="16261">DJSASSO</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found this in the rain. Got pretty soaked doing it. Should have paid more attention to the hint than I did and I wouldn't have gotten that wet.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1459660">
+                    <groundspeak:date>2010-07-11T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="54684">lib53</groundspeak:finder>
+                    <groundspeak:text encoded="False">1429. Find
+
+Visiting from Ontario, we toured Nova Scotia clockwise from Halifax to Halifax between July 2 and July 17. Thanks to geocaching we found some places that we would have otherwise missed. Most caches were outstanding, a few of those &quot;million dollar view caches&quot; even make my top 25 list. Thank you to the cache owners for taking us there.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1572382">
+                    <groundspeak:date>2010-07-03T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
+                    <groundspeak:text encoded="False">Hubby's geocoin was earned here and he wants it to begin its journey.  Just going for a dip...</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1572381">
+                    <groundspeak:date>2010-06-06T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
+                    <groundspeak:text encoded="False">Getting closer to our goal of achieving the geocoin!  An enjoyable (and wet) day with Fundy and Valley!  TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1396056">
+                    <groundspeak:date>2009-07-17T22:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="1193">STAGUNNER</groundspeak:finder>
+                    <groundspeak:text encoded="False">ahh look it is right there where i put it,,
+or helped put there</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>3.1</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>National Park</ox:tag>
+                <ox:tag>Passport</ox:tag>
+                <ox:tag>Challenge Cache</ox:tag>
+            </ox:tags>
+            <ox:series id="10486">
+                <ox:name>2009 Cape Breton Highlands National Park Challenge</ox:name>
+            </ox:series>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.8742333" lat="46.7967667">
+        <time>2010-05-25T02:00:00.000-05:00</time>
+        <name>OX2969P</name>
+        <desc>Fishing Cove by ACGA, Traditional Cache(2.5/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2969P</url>
+        <urlname>Fishing Cove</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2121228">
+            <groundspeak:name>Fishing Cove</groundspeak:name>
+            <groundspeak:placed_by>ACGA</groundspeak:placed_by>
+            <groundspeak:owner id="600">ACGA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;h4&gt;The content and images found on this cache listing was
+developed by Cape Breton Highlands National Park. The geocache was
+placed by Cape Breton Highlands National Park with assistance from
+ACGA.&lt;/h4&gt;
+
+
+Cape Breton Highlands National
+Park - Parc national du Canada des
+Hautes-Terres-du-Cap-Breton
+
+
+
+
+&lt;p&gt;&lt;strong&gt;Welcome to Cape Breton Highlands National
+Park!&lt;/strong&gt;&lt;/p&gt;
+This cache is placed near the former
+fishing community of Fishing Cove.&lt;br/&gt;
+&lt;br/&gt;
+You are looking for a small green lexan container containing a
+log book &amp; pencil. This geocache is not part of the
+cacheport.
+&lt;p&gt;The geocache is  a partnership
+of the Atlantic Canada Geocache Association and Cape Breton
+Highlands National Park.
+Please pay appropriate park entry
+feesand collect your
+Cacheport at the Ingonish or Chéticamp Visitor
+Centre.  Stay on trails.&lt;/p&gt;
+&lt;p&gt;As
+per the Parks Canada geocaching policy: Trade items are not
+permitted in caches, this includes Travel Bugs.&lt;/p&gt;
+
+
+&lt;p&gt;Bienvenue au Parc national
+des Hautes-Terres-du-Cap-Breton!&lt;/p&gt;
+Cette
+cache est située  à l’ancienne communauté de
+pêche.&lt;br/&gt;
+Vous cherchez un contenant vert de lexan carnet
+  crayon. Cet geocache ne fait pas parti du
+cacheport.&lt;br/&gt;
+&lt;p&gt;Les activités de géocachette sont le
+résultat d’un partenariat entre l’Atlantic Canada
+Geocache Association et le parc national des
+Hautes-Terres-du-Cap-Breton. N’oubliez pas de payer les droits
+d’entrée du parc aussi le cacheport
+au centre d’accueil de Chéticamp ou à celui
+d’Ingonish. Suivez les
+sentiers.&lt;/p&gt;
+&lt;p&gt;Conformément aux lignes directrices sur la
+géocachette de Parcs Canada, les objets d’échange (y compris
+les « Travel Bugs ») sont interdits dans les
+caches.&lt;/p&gt;
+
+
+
+
+&lt;p&gt;Additional Waypoints&lt;/p&gt;P12969P - South Parking (long way)&lt;br/&gt;N 46° 46.268 W 060° 50.195&lt;br/&gt;&lt;br/&gt;P22969P - North Parking (short way)&lt;br/&gt;N 46° 47.874 W 060° 50.802</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1572321">
+                    <groundspeak:date>2010-06-05T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
+                    <groundspeak:text encoded="False">A beautiful hike with wonderful company.  Thanks for the cache and the event!</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>National Park</ox:tag>
+            </ox:tags>
+            <ox:series id="10486">
+                <ox:name>2009 Cape Breton Highlands National Park Challenge</ox:name>
+            </ox:series>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.7607333" lat="46.8078833">
+        <time>2009-07-18T02:00:00.000-05:00</time>
+        <name>OX1V4D4</name>
+        <desc>FACE OF ELVIS FOUND IN LICHEN! by ACGA, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1V4D4</url>
+        <urlname>FACE OF ELVIS FOUND IN LICHEN!</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1702338">
+            <groundspeak:name>FACE OF ELVIS FOUND IN LICHEN!</groundspeak:name>
+            <groundspeak:placed_by>ACGA</groundspeak:placed_by>
+            <groundspeak:owner id="600">ACGA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;h4&gt;The content and images found on this cache listing was
+developed by Cape Breton Highlands National Park. The geocache was
+placed by Cape Breton Highlands National Park with assistance from
+ACGA.&lt;/h4&gt;
+ 
+
+
+Cape Breton Highlands National
+Park - Parc national du Canada des
+Hautes-Terres-du-Cap-Breton
+
+
+&lt;p&gt;&lt;strong&gt;Welcome to Cape Breton Highlands National
+Park!&lt;/strong&gt;&lt;/p&gt;
+This cache is placed on the MacIntosh
+Brook trail - 1.7 km (loop) &lt;br/&gt;
+&lt;br/&gt;
+ Parking is good, with rest area nearby. Trail is good on both
+sides of the brook, either will lead to the cache. Some Roots and
+rocks.&lt;br/&gt;
+&lt;br/&gt;
+ You are looking for a small green lexan container containing a
+log book, pencil &amp; punch (for your
+cacheport). 
+Read the article, answer the question at the end.
+   &lt;br/&gt;
+   &lt;br/&gt;
+ To claim your geocoin, bring your completed passport (including
+answers) to the Chéticamp or Ingonish Visitor
+Centre.                          
+
+&lt;p&gt;use the punch in each of the 5 caches
+to punch your cacheport.  When you complete all 5 you have a
+chance to earn a limited edition geocoin (only 250 minted!-
+first-come first- served). &lt;/p&gt;
+&lt;p&gt;The geocache is  a partnership
+of the Atlantic Canada Geocache Association and
+Cape Breton
+Highlands National Park.
+Please pay appropriate park entry
+fees
+and collect your Cacheport at the
+Ingonish or Chéticamp Visitor
+Centre
+.  Stay on trails.&lt;/p&gt;
+&lt;p&gt;As
+per the Parks Canada geocaching policy: Trade items are not
+permitted in caches, this includes Travel
+Bugs.&lt;/p&gt;
+
+&lt;p&gt;
+Bienvenue
+au Parc national
+des Hautes-Terres-du-Cap-Breton!&lt;/p&gt;
+
+Cette cache est située sur le sentier
+Ruisseau MacIntosh - 1,7 km (boucle)&lt;br/&gt;
+          
+ &lt;br/&gt;
+ Le stationnement est disponible, avec un endroit de picnic à
+proximité. Le sentier est bon des deux côtés du ruisseau, pour vous
+conduire à la cache. Des racines et des roches visible sur le
+sentier.&lt;br/&gt;
+&lt;br/&gt;
+Vous cherchez un contenant vert
+de lexan, carnet, crayon
+et perforateur. 
+Lisez l'article, répondez à la question à la fin
+de l'article. &lt;br/&gt;
+&lt;br/&gt;
+ Pour recevoir votre géopièce, apportez votre cacheport rempli
+au Centre d’accueil de Chéticamp ou à celui
+d’Ingonish.&lt;br/&gt; 
+&lt;p&gt;Lorsque vous aurez découvert les cinq
+caches, vous courrez la chance de gagner une géopièce à tirage
+limité. (Seulement 250 géopièces ont été frappées! Premier arrivé,
+premier servi.)&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;Les activités de géocachette sont le
+résultat d’un partenariat entre l’Atlantic Canada Geocache
+Association et le
+parc national
+des
+Hautes-Terres-du-Cap-Breton
+. N’oubliez pas de payer les
+droits d’entrée du parc aussi le cacheport
+au centre d’accueil
+de Chéticamp ou à celui
+d’Ingonish
+. Suivez les sentiers.&lt;/p&gt;
+&lt;p&gt;
+Conformément
+aux lignes directrices sur la géocachette de Parcs Canada, les
+objets d’échange (y compris les « Travel Bugs ») sont interdits
+dans les caches.&lt;/p&gt;
+&lt;p&gt;
+______________________________________________________________________________________________________________&lt;/p&gt;
+ 
+
+
+
+
+&lt;h2&gt;For more background about the area you will be visiting, please
+follow this
+
+LINK.&lt;/h2&gt;
+&lt;br/&gt;
+With the luck of having such a beautiful place as Cape Breton&lt;br/&gt;
+Highlands National Park to enjoy, so comes the responsibility to
+look after it.&lt;br/&gt;
+&lt;br/&gt;
+Lichens are good indicators of air quality because they are
+sensitive to air pollution and can only grow in areas that have
+very clean air.&lt;br/&gt;
+&lt;br/&gt;
+They are just one group of what scientists call ‘indicator
+species’. These species are the first to show signs of stress when
+an ecosystem is under environmental stress.&lt;br/&gt;
+&lt;br/&gt;
+Another indicator species, the Red-backed salamander (a type of
+amphibian), is also being studied here.&lt;br/&gt;
+
+&lt;h2&gt;Pour en savoir plus de la région que vous allez visiter,
+cliquez
+
+ICI.&lt;/h2&gt;
+&lt;br/&gt;
+Pouvoir profiter d’un endroit magnifique comme le parc national des
+Hautes-Terres-du-Cap-Breton implique également la responsabilité
+d’en prendre soin.&lt;br/&gt;
+&lt;br/&gt;
+Les lichens sont de bons indicateurs de la qualité de l’air parce
+qu’ils sont sensibles à la pollution de l’air et ne peuvent pousser
+que dans des endroits où l’air est très pur.&lt;br/&gt;
+&lt;br/&gt;
+ils ne sont qu’un groupe de ce que les scientifiques appellent les
+« espèces indicatrices ». Il s’agit d’espèces qui sont les
+premières à manifester des signes de perturbation quand un
+écosystème subit un stress environnemental.&lt;br/&gt;
+&lt;br/&gt;
+Une autre espèce indicatrice, la salamandre cendrée (un amphibien),
+fait également l’objet d’une étude dans le parc.
+
+&lt;br/&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;P11V4D4 - Parking&lt;br/&gt;N 46° 48.732 W 060° 46.066</groundspeak:long_description>
+            <groundspeak:encoded_hints>under the second bridge, west bank</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1459659">
+                    <groundspeak:date>2010-07-11T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="54684">lib53</groundspeak:finder>
+                    <groundspeak:text encoded="False">1428. Find
+
+Visiting from Ontario, we toured Nova Scotia clockwise from Halifax to Halifax between July 2 and July 17. Thanks to geocaching we found some places that we would have otherwise missed. Most caches were outstanding, a few of those &quot;million dollar view caches&quot; even make my top 25 list. Thank you to the cache owners for taking us there.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1572328">
+                    <groundspeak:date>2010-06-06T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
+                    <groundspeak:text encoded="False">There were no Elvis sightings today, only cache sightings!  TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1396055">
+                    <groundspeak:date>2009-07-17T22:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="1193">STAGUNNER</groundspeak:finder>
+                    <groundspeak:text encoded="False">no faces seen but a nice walk</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Challenge Cache</ox:tag>
+                <ox:tag>National Park</ox:tag>
+                <ox:tag>Passport</ox:tag>
+            </ox:tags>
+            <ox:series id="10486">
+                <ox:name>2009 Cape Breton Highlands National Park Challenge</ox:name>
+            </ox:series>
+        </ox:opencaching>
+    </wpt>
+</gpx>

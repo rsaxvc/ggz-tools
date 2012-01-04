@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,142,90,143</url>
+    <time>2012-01-04T09:33:05.444-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="143.0" maxlat="90.0" minlon="142.0" minlat="-90.0"/>
+    <wpt lon="142.0156167" lat="-36.4995667">
+        <time>2010-12-25T06:26:50.000-06:00</time>
+        <name>OX29KHG</name>
+        <desc>Lookout Horseshoe Bend by honeysucker, Traditional Cache(1.7/1.9/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX29KHG</url>
+        <urlname>Lookout Horseshoe Bend</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2133963">
+            <groundspeak:name>Lookout Horseshoe Bend</groundspeak:name>
+            <groundspeak:placed_by>honeysucker</groundspeak:placed_by>
+            <groundspeak:owner id="8691">honeysucker</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">area can be a little slippery so take care. your looking for a big yellow container so make sure you place it back well covered
+
+nice quite location most of the time, the location over looks the Wimmera river and Horseshoe Bend Camp ground.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1163871">
+                    <groundspeak:date>2010-10-02T09:30:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="10260">dazzpete</groundspeak:finder>
+                    <groundspeak:text encoded="False">The area is so different to what it was like when we came through a couple of year ago. After a night camped nearby we packed up the tent to continue our way to Tasmania. A reasonably quick find for geoD with the fisherman nearby.
+
+TNLN SL TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="243411">
+                    <groundspeak:date>2010-06-13T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2664">dessek</groundspeak:finder>
+                    <groundspeak:text encoded="False">We found this one at 15:05 after today's bushwalk around this wonderful area.  We were actually meant to start the walk here [:I] but short-circuited it a bit and started in the camping area instead.  What a beautiful spot for a cache and it was great to see some water in the river [:D].
+
+As Alsume pulled the cache from its hidey-hole, that gave LinearZZ and us a high DRC rating for this one [8)] [B)].  Oh well, tough [;)].  
+
+TNLNSL.  Thanks honeysucker.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.7</ox:difficulty>
+                <ox:size>2.9</ox:size>
+                <ox:terrain>1.9</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="142.521583" lat="-38.403983">
+        <time>2009-03-10T02:00:00.000-05:00</time>
+        <name>OX1NJZ8</name>
+        <desc>A whale of a time by jgc3, Traditional Cache(1.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1NJZ8</url>
+        <urlname>A whale of a time</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1567368">
+            <groundspeak:name>A whale of a time</groundspeak:name>
+            <groundspeak:placed_by>jgc3</groundspeak:placed_by>
+            <groundspeak:owner id="11814">jgc3</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Great views and an easy cache to get to. Car park close. If you are able to do this cache around May - Oct you may see whales out to sea. Amazing views. Nearby parking. Disabled access to viewing platform. If you wish you can also access the beach via steps from viewing platform ( not required to get cache ). This area can get very busy so please be aware you might need to wait to retrieve cache especially during whale season. It can easily be retrieved at night with a torch. You do NOT need to leave the viewing platform. Please place cache back so not to be seen easily. Please bring pen to log your find. Thank you. Enjoy.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Next to second support beam on far left of viewing platform near vegetation growing</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Dogs on leash</ox:tag>
+                <ox:tag>Ocean Views</ox:tag>
+                <ox:tag>Easy Parking</ox:tag>
+                <ox:tag>Boardwalk</ox:tag>
+                <ox:tag>Available 24 hours</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+</gpx>

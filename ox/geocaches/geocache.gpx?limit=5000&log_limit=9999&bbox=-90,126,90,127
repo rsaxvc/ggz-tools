@@ -1,0 +1,3128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,126,90,127</url>
+    <time>2012-01-04T09:32:50.211-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="127.0" maxlat="90.0" minlon="126.0" minlat="-90.0"/>
+    <wpt lon="126.26895" lat="33.1227">
+        <time>2009-09-13T02:00:00.000-05:00</time>
+        <name>OX1YR61</name>
+        <desc>Marado by Jiho Kim, Traditional Cache(2.0/2.0/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1YR61</url>
+        <urlname>Marado</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1810711">
+            <groundspeak:name>Marado</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Rock hole</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.5348167" lat="33.3634333">
+        <time>2010-12-07T19:45:26.000-06:00</time>
+        <name>OXZTY3K</name>
+        <desc>Hallasan by Jiho Kim, Traditional Cache(2.3/3.8/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTY3K</url>
+        <urlname>Hallasan</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28478386">
+            <groundspeak:name>Hallasan</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">Location : Hallasan, Jeju-si, Jeju-do, Korea
+
+Please BYOP! (Bring your own pen)</groundspeak:long_description>
+            <groundspeak:encoded_hints>Rock hole</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.3</ox:difficulty>
+                <ox:size>1.6</ox:size>
+                <ox:terrain>3.8</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.5348167" lat="33.3634333">
+        <time>2009-09-15T02:00:00.000-05:00</time>
+        <name>OX1YR6W</name>
+        <desc>Hallasan by Jiho Kim, Traditional Cache(2.5/3.5/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1YR6W</url>
+        <urlname>Hallasan</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1810737">
+            <groundspeak:name>Hallasan</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Rock hole</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.5421667" lat="33.4046">
+        <time>2009-09-15T02:00:00.000-05:00</time>
+        <name>OX1YR70</name>
+        <desc>Coal pit (Suchgamateo)  by Jiho Kim, Traditional Cache(2.0/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1YR70</url>
+        <urlname>Coal pit (Suchgamateo) </urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1810741">
+            <groundspeak:name>Coal pit (Suchgamateo) </groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Micro capsul size</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.2255667" lat="34.3847167">
+        <time>2009-07-05T02:00:00.000-05:00</time>
+        <name>OX1VG5X</name>
+        <desc>Korean Namdo Performing Arts by Jiho Kim, Traditional Cache(2.0/1.5/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1VG5X</url>
+        <urlname>Korean Namdo Performing Arts</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1713646">
+            <groundspeak:name>Korean Namdo Performing Arts</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&quot;Please BYOP! (Bring your own pen)&quot; 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>12th right, Rock wall</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.3004" lat="34.5711833">
+        <time>2010-02-26T02:00:00.000-06:00</time>
+        <name>OX24CEC</name>
+        <desc>Jindo Haebyeon Park by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX24CEC</url>
+        <urlname>Jindo Haebyeon Park</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1978184">
+            <groundspeak:name>Jindo Haebyeon Park</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.2947" lat="34.77835">
+        <time>2010-09-17T02:00:00.000-05:00</time>
+        <name>OX2FAH2</name>
+        <desc>HanOkMinBak by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2FAH2</url>
+        <urlname>HanOkMinBak</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2304046">
+            <groundspeak:name>HanOkMinBak</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The cache container is a round, but smaller than a film canister&lt;br/&gt;and bigger than a nano.&lt;br/&gt;&lt;br/&gt;Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.2925833" lat="34.77885">
+        <time>2010-09-17T02:00:00.000-05:00</time>
+        <name>OX2FAGZ</name>
+        <desc>Oedaldo stairway by Jiho Kim, Traditional Cache(2.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2FAGZ</url>
+        <urlname>Oedaldo stairway</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2304043">
+            <groundspeak:name>Oedaldo stairway</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The cache container is a round, but smaller than a film canister&lt;br/&gt;and bigger than a nano.&lt;br/&gt;&lt;br/&gt;Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.2963" lat="34.7808167">
+        <time>2010-09-17T02:00:00.000-05:00</time>
+        <name>OX2FAH1</name>
+        <desc>Oedaldo bench by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2FAH1</url>
+        <urlname>Oedaldo bench</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2304045">
+            <groundspeak:name>Oedaldo bench</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The cache container is a round, but smaller than a film canister&lt;br/&gt;and bigger than a nano.&lt;br/&gt;&lt;br/&gt;Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.2945167" lat="34.7824">
+        <time>2010-09-17T02:00:00.000-05:00</time>
+        <name>OX2FAH0</name>
+        <desc>Oedaldo beach by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2FAH0</url>
+        <urlname>Oedaldo beach</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2304044">
+            <groundspeak:name>Oedaldo beach</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The cache container is a round, but smaller than a film canister&lt;br/&gt;and bigger than a nano.&lt;br/&gt;&lt;br/&gt;Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.37835" lat="34.7891833">
+        <time>2010-09-17T02:00:00.000-05:00</time>
+        <name>OX2FAGY</name>
+        <desc>DalSeonGak by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2FAGY</url>
+        <urlname>DalSeonGak</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2304042">
+            <groundspeak:name>DalSeonGak</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">The cache container is a round, but smaller than a film canister&lt;br/&gt;and bigger than a nano.&lt;br/&gt;&lt;br/&gt;Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Mini-skirt</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.5084" lat="35.0380167">
+        <time>2010-02-26T02:00:00.000-06:00</time>
+        <name>OX24CE9</name>
+        <desc>Hampyeongnabi by Jiho Kim, Traditional Cache(2.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX24CE9</url>
+        <urlname>Hampyeongnabi</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1978181">
+            <groundspeak:name>Hampyeongnabi</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.4783833" lat="35.0699">
+        <time>2009-03-28T02:00:00.000-05:00</time>
+        <name>OX1PCGR</name>
+        <desc>Hampyeonghyugeso by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1PCGR</url>
+        <urlname>Hampyeonghyugeso</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1590975">
+            <groundspeak:name>Hampyeonghyugeso</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br/&gt;
+&lt;br/&gt;
+The cache container is a round, but smaller than a film canister
+and bigger than a nano.&lt;br/&gt;
+Please BYOP! (Bring your own pen)&lt;br/&gt;
+Have a nice trip and caching. 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>&quot;7&quot; Magent</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9064833" lat="35.1728667">
+        <time>2010-02-26T02:00:00.000-06:00</time>
+        <name>OX24CE6</name>
+        <desc>Jeonnam UV by Jiho Kim, Traditional Cache(2.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX24CE6</url>
+        <urlname>Jeonnam UV</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1978178">
+            <groundspeak:name>Jeonnam UV</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Magnet</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1287428">
+                    <groundspeak:date>2011-06-12T05:34:32.000-05:00</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="33520">38sinper</groundspeak:finder>
+                    <groundspeak:text encoded="False">oldman rest place.
+I can't founded it
+(위 장소에 도착해보니 지피에스는 나무를 가르키고 있었으나 노인들이 화투와 윷놀이를 하고 있어서 적극적으로 찾지는 못하였다.주변에 조형물이 있었으나 오차는 6미터 나무를 가르키고 있어서 땅을 파보지는 않았다.
+사진이라도 있었으면 찾기가 더 쉬웠을텐데 아쉽다..</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.8056833" lat="35.3951167">
+        <time>2010-02-26T02:00:00.000-06:00</time>
+        <name>OX24CE2</name>
+        <desc>Baekyangsa HyuGeSo by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX24CE2</url>
+        <urlname>Baekyangsa HyuGeSo</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1978174">
+            <groundspeak:name>Baekyangsa HyuGeSo</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.4154667" lat="35.8080333">
+        <time>2010-09-26T02:00:00.000-05:00</time>
+        <name>OX2FV3C</name>
+        <desc>MuNyeoGyo by Jiho Kim, Traditional Cache(2.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2FV3C</url>
+        <urlname>MuNyeoGyo</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2318998">
+            <groundspeak:name>MuNyeoGyo</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The cache container is a round, but smaller than a film canister&lt;br/&gt;and bigger than a nano.&lt;br/&gt;&lt;br/&gt;Please BYOP! (Bring your own pen)</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.41635" lat="35.81065">
+        <time>2010-09-26T02:00:00.000-05:00</time>
+        <name>OX2FV3D</name>
+        <desc>SeonYuDo harbor by Jiho Kim, Traditional Cache(2.0/1.5/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2FV3D</url>
+        <urlname>SeonYuDo harbor</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2318999">
+            <groundspeak:name>SeonYuDo harbor</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The cache container is a round, but smaller than a film canister
+and bigger than a nano.
+
+
+Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.4132167" lat="35.8114833">
+        <time>2010-09-26T02:00:00.000-05:00</time>
+        <name>OX2FV3W</name>
+        <desc>SeonYuDo MS by Jiho Kim, Traditional Cache(2.0/1.5/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2FV3W</url>
+        <urlname>SeonYuDo MS</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2319013">
+            <groundspeak:name>SeonYuDo MS</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The cache container is a round, but smaller than a film canister
+and bigger than a nano.
+
+
+Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.4014333" lat="35.8124667">
+        <time>2010-09-26T02:00:00.000-05:00</time>
+        <name>OX2FV3B</name>
+        <desc>20100926 JangJaGyo by Jiho Kim, Traditional Cache(2.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2FV3B</url>
+        <urlname>20100926 JangJaGyo</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2318997">
+            <groundspeak:name>20100926 JangJaGyo</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The cache container is a round, but smaller than a film canister&lt;br/&gt;and bigger than a nano.&lt;br/&gt;&lt;br/&gt;Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.4058167" lat="35.8129167">
+        <time>2010-09-26T02:00:00.000-05:00</time>
+        <name>OX2FV3A</name>
+        <desc>SeonYuDo guid rail by Jiho Kim, Traditional Cache(1.5/1.5/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2FV3A</url>
+        <urlname>SeonYuDo guid rail</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2318996">
+            <groundspeak:name>SeonYuDo guid rail</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">
+The cache container is a round, but smaller than a film canister
+and bigger than a nano.
+
+
+Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.40795" lat="35.81375">
+        <time>2010-09-26T02:00:00.000-05:00</time>
+        <name>OX2FV39</name>
+        <desc>SeonYuDo road side wall by Jiho Kim, Traditional Cache(2.0/1.5/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2FV39</url>
+        <urlname>SeonYuDo road side wall</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2318995">
+            <groundspeak:name>SeonYuDo road side wall</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The cache container is a round, but smaller than a film canister
+and bigger than a nano.
+
+
+Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.41065" lat="35.8151667">
+        <time>2010-09-26T02:00:00.000-05:00</time>
+        <name>OX2FV37</name>
+        <desc>SeonYuDo bench by Jiho Kim, Traditional Cache(2.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2FV37</url>
+        <urlname>SeonYuDo bench</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2318993">
+            <groundspeak:name>SeonYuDo bench</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The cache container is a round, but smaller than a film canister&lt;br/&gt;and bigger than a nano.&lt;br/&gt;&lt;br/&gt;Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.4124333" lat="35.8186167">
+        <time>2010-09-26T02:00:00.000-05:00</time>
+        <name>OX2FV38</name>
+        <desc>SeonYuDo top of the wall by Jiho Kim, Traditional Cache(1.5/1.5/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2FV38</url>
+        <urlname>SeonYuDo top of the wall</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2318994">
+            <groundspeak:name>SeonYuDo top of the wall</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The cache container is a round, but smaller than a film canister
+and bigger than a nano.
+
+
+Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9403167" lat="35.95905">
+        <time>2010-09-26T02:00:00.000-05:00</time>
+        <name>OX2FV3E</name>
+        <desc>BaeSan paking area by Jiho Kim, Traditional Cache(1.5/1.5/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2FV3E</url>
+        <urlname>BaeSan paking area</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2319000">
+            <groundspeak:name>BaeSan paking area</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The cache container is a round, but smaller than a film canister
+and bigger than a nano.
+
+
+Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9390667" lat="35.9611">
+        <time>2010-09-26T02:00:00.000-05:00</time>
+        <name>OX2FV3F</name>
+        <desc>BaeSan fountain by Jiho Kim, Traditional Cache(1.5/1.5/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2FV3F</url>
+        <urlname>BaeSan fountain</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2319001">
+            <groundspeak:name>BaeSan fountain</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The cache container is a round, but smaller than a film canister
+and bigger than a nano.
+
+
+Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.79975" lat="36.2577333">
+        <time>2010-02-27T02:00:00.000-06:00</time>
+        <name>OX24CF6</name>
+        <desc>Buyebaekje by Jiho Kim, Traditional Cache(1.5/1.5/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OX24CF6</url>
+        <urlname>Buyebaekje</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1978209">
+            <groundspeak:name>Buyebaekje</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">
+
+
+Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9119" lat="36.28845">
+        <time>2009-04-03T02:00:00.000-05:00</time>
+        <name>OX1PG8K</name>
+        <desc>Busosanseong by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1PG8K</url>
+        <urlname>Busosanseong</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1594566">
+            <groundspeak:name>Busosanseong</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.8401167" lat="36.6225833">
+        <time>2010-10-03T02:00:00.000-05:00</time>
+        <name>OX2G6BD</name>
+        <desc>YeSanHyuGeSo by Jiho Kim, Traditional Cache(1.5/1.5/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2G6BD</url>
+        <urlname>YeSanHyuGeSo</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2329818">
+            <groundspeak:name>YeSanHyuGeSo</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The cache container is a small aluminum barrel.
+
+
+Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.8792833" lat="37.1431667">
+        <time>2009-12-27T02:00:00.000-06:00</time>
+        <name>OX22AH7</name>
+        <desc>Hwaseong by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX22AH7</url>
+        <urlname>Hwaseong</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1916768">
+            <groundspeak:name>Hwaseong</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>magnet</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9812833" lat="37.2825167">
+        <time>2009-05-19T02:00:00.000-05:00</time>
+        <name>OX1RJXQ</name>
+        <desc>Yeogisan park by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1RJXQ</url>
+        <urlname>Yeogisan park</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1656694">
+            <groundspeak:name>Yeogisan park</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9317167" lat="37.2962">
+        <time>2010-01-16T02:00:00.000-06:00</time>
+        <name>OX23121</name>
+        <desc>20100116 Bravo Ansan by Jiho Kim, Traditional Cache(2.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX23121</url>
+        <urlname>20100116 Bravo Ansan</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1937439">
+            <groundspeak:name>20100116 Bravo Ansan</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">BYOP! 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Magnet</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.8454667" lat="37.3172333">
+        <time>2010-04-23T02:00:00.000-05:00</time>
+        <name>OX27DTW</name>
+        <desc>Bus stop(Ansan terminal) by Jiho Kim, Traditional Cache(2.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX27DTW</url>
+        <urlname>Bus stop(Ansan terminal)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2068874">
+            <groundspeak:name>Bus stop(Ansan terminal)</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="338918">
+                    <groundspeak:date>2010-11-27T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3347">HlTMAN</groundspeak:finder>
+                    <groundspeak:text encoded="False">Pretty Easy Cache, but you need to be Stealthy, lots of muggles.  A Mirror and Slight of Hand, will come in handy here.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.714" lat="37.3563">
+        <time>2009-01-18T02:00:00.000-06:00</time>
+        <name>OX1KXJA</name>
+        <desc>Okgu Park #1 by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1KXJA</url>
+        <urlname>Okgu Park #1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1517026">
+            <groundspeak:name>Okgu Park #1</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Flat</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.7123333" lat="37.35765">
+        <time>2009-01-18T02:00:00.000-06:00</time>
+        <name>OX1KXJ7</name>
+        <desc>Okgu Park #2 by Jiho Kim, Traditional Cache(1.5/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1KXJ7</url>
+        <urlname>Okgu Park #2</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1517023">
+            <groundspeak:name>Okgu Park #2</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Flat</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.5109667" lat="37.3582">
+        <time>2009-01-18T02:00:00.000-06:00</time>
+        <name>OX1KX9G</name>
+        <desc>Palmido Light Tower by Jiho Kim, Traditional Cache(2.0/3.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1KX9G</url>
+        <urlname>Palmido Light Tower</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1516753">
+            <groundspeak:name>Palmido Light Tower</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.5135333" lat="37.3585333">
+        <time>2009-01-18T02:00:00.000-06:00</time>
+        <name>OX1KX9V</name>
+        <desc>Palmido by Jiho Kim, Traditional Cache(2.0/3.5/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1KX9V</url>
+        <urlname>Palmido</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1516763">
+            <groundspeak:name>Palmido</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Flat</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9728167" lat="37.3667667">
+        <time>2009-04-11T02:00:00.000-05:00</time>
+        <name>OX1PZ6H</name>
+        <desc>Moraksan Rock under by Jiho Kim, Traditional Cache(2.0/2.5/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1PZ6H</url>
+        <urlname>Moraksan Rock under</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1607956">
+            <groundspeak:name>Moraksan Rock under</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Logbook &amp; pen include. Some item... 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Rock</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9116667" lat="37.3691833">
+        <time>2009-02-21T02:00:00.000-06:00</time>
+        <name>OX1N07X</name>
+        <desc>Surisan View by Jiho Kim, Traditional Cache(2.0/3.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1N07X</url>
+        <urlname>Surisan View</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1549377">
+            <groundspeak:name>Surisan View</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The military is near. To be careful in the winter Climb a mountain 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Rock</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9209333" lat="37.3768">
+        <time>2010-10-17T02:00:00.000-05:00</time>
+        <name>OX2GZ7T</name>
+        <desc>GwanMoBong trail by Jiho Kim, Traditional Cache(2.0/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2GZ7T</url>
+        <urlname>GwanMoBong trail</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2352770">
+            <groundspeak:name>GwanMoBong trail</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The cache container is a round, but smaller than a film canister&lt;br/&gt;and bigger than a nano.&lt;br/&gt;&lt;br/&gt;Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.7806667" lat="37.3936667">
+        <time>2009-05-17T02:00:00.000-05:00</time>
+        <name>OX1RXJP</name>
+        <desc>Baramgaebi by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1RXJP</url>
+        <urlname>Baramgaebi</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1665993">
+            <groundspeak:name>Baramgaebi</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">bring your own pen.
+&lt;p&gt;Have a good time.&lt;/p&gt; 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.7383" lat="37.3971833">
+        <time>2009-01-18T02:00:00.000-06:00</time>
+        <name>OX1KXB7</name>
+        <desc>Sorae Jangdo Podaeji by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1KXB7</url>
+        <urlname>Sorae Jangdo Podaeji</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1516806">
+            <groundspeak:name>Sorae Jangdo Podaeji</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9964333" lat="37.4754">
+        <time>2010-01-16T02:00:00.000-06:00</time>
+        <name>OX23126</name>
+        <desc>BangBe pavilion by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX23126</url>
+        <urlname>BangBe pavilion</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1937444">
+            <groundspeak:name>BangBe pavilion</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1156898">
+                    <groundspeak:date>2011-02-22T18:10:46.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2681">DTS113@GMAIL.COM</groundspeak:finder>
+                    <groundspeak:text encoded="False">[;)]Thanks for bring me there. for good hunt. Signed Log... and cheers!...^/^...</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="951163">
+                    <groundspeak:date>2010-12-30T09:17:11.000-06:00</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="3241">lunaforce</groundspeak:finder>
+                    <groundspeak:text encoded="False">find okay</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="951162">
+                    <groundspeak:date>2010-12-30T09:16:15.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3241">lunaforce</groundspeak:finder>
+                    <groundspeak:text encoded="False">find okay</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1088187">
+                    <groundspeak:date>2010-12-26T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3347">HlTMAN</groundspeak:finder>
+                    <groundspeak:text encoded="False">This was a tricky little guy, but it didn't take long to find.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9977333" lat="37.4817667">
+        <time>2010-09-11T02:00:00.000-05:00</time>
+        <name>OX2EZPJ</name>
+        <desc>North or South (Bangbae Station) by HlTMAN, Traditional Cache(2.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2EZPJ</url>
+        <urlname>North or South (Bangbae Station)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2293646">
+            <groundspeak:name>North or South (Bangbae Station)</groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Once you get off at this station you can either go North or South to find more Caches.  There are several in this area, to the North you can follow the Seocho Ole trail Cache Series.  To the South there are several in Bangbae Park.  Whether you're finishing up your caching day, or just starting out, you always have time for one more cache.</groundspeak:long_description>
+            <groundspeak:encoded_hints>6624, feel for it</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1156899">
+                    <groundspeak:date>2011-02-22T18:11:02.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2681">DTS113@GMAIL.COM</groundspeak:finder>
+                    <groundspeak:text encoded="False">[;)]Thanks for bring me there. for good hunt. Signed Log... and cheers!...^/^...</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1616902">
+                    <groundspeak:date>2011-02-05T09:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2737">Jiho Kim</groundspeak:finder>
+                    <groundspeak:text encoded="False">I found it at 06:52
+Nice place &amp; nice hide.
+TFTC ^_^</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9823833" lat="37.5001">
+        <time>2010-12-26T02:00:00.000-06:00</time>
+        <name>OX2KPMK</name>
+        <desc>Dongjak fence by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2KPMK</url>
+        <urlname>Dongjak fence</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2434852">
+            <groundspeak:name>Dongjak fence</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>eye level</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1088242">
+                    <groundspeak:date>2011-01-18T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3347">HlTMAN</groundspeak:finder>
+                    <groundspeak:text encoded="False">What a helluva stair climb, once I caught my breath I signed the log.  Whew.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9552833" lat="37.5023833">
+        <time>2010-12-04T02:00:00.000-06:00</time>
+        <name>OX2K1TD</name>
+        <desc>Not Another Micro by HlTMAN, Traditional Cache(3.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2K1TD</url>
+        <urlname>Not Another Micro</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2414820">
+            <groundspeak:name>Not Another Micro</groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">To get to this cache you can get off at Sangdo Station Line # 7</groundspeak:long_description>
+            <groundspeak:encoded_hints>Under a Flat Rock</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.96341" lat="37.53321">
+        <time>2010-09-06T02:00:00.000-05:00</time>
+        <name>OX2EPAM</name>
+        <desc>Yongsan Electronics Market by HlTMAN, Traditional Cache(3.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2EPAM</url>
+        <urlname>Yongsan Electronics Market</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2285588">
+            <groundspeak:name>Yongsan Electronics Market</groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Yongsan Electronics Market is a retail area in Seoul, South Korea, comprising over 20 buildings housing 5,000 stores that sell appliances, stereos, computers and peripherals, office equipment, telephones, lighting equipment, electronic games and software, videos and CDs. A variety of electronic components for constructing computers and other items can also be found. Korean-made products generally cost 20% less in this location than other retail outlets, while imported items can be as much as 50% cheaper.
+
+The market has a variety of stores, each with different operating procedures. Some stores operate like traditional retail shops, with set prices, name brands, and warranties. Other shops accept, or even expect, customers to bargain and may not have any posted prices for items.
+
+The Electronics Market is located on Subway line 1, at Yongsan Station. One should walk through the train station to enter through the Terminal Shopping Center or walk around the station at ground level to enter the market. The major stores are open from 10:00 am to 8:00 pm, while many smaller stores keep a variety of hours. Most stores in the area are closed on the 1st and 3rd Sunday of every month. The department stores and many shops in Seoul are closed on Mondays
+
+YONGSAN ELECTRONICS MARKET: This area is very big, and has major bargains for all kinds of electronics. Take the subway Line # 1 to Yongsan metro station. You can also take the subway line # 4 to Sinyongsan station. Yongsan Station is located above, and Sinyongsan Station is located below ground. There are many signs pointing to the electronics mart, but they are all in Korean. To get to the electronics mart, look for one of the yellow signs with the phrase ? ? ? ? (jun ja song ga, &quot;Electronics Mart&quot;). It will direct you to a pedestrian skyway that enters the Terminal Electronics Mart (? ? ? ? ? ? ?) on the third floor. If in doubt, follow the crowd, most people are going to or coming from the mart.
+
+The electronics mart is not a single entity, but a large complex of thousands of independent shops. There is an outdoor flea market in the area on the first and third Sunday of the month, when things are even cheaper. The shops open around 11 AM. Be warned, the area is not that easy to navigate through.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Light Pole</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1628342">
+                    <groundspeak:date>2011-10-13T17:34:33.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7068">COMERFORD</groundspeak:finder>
+                    <groundspeak:text encoded="False">Had time to kill so grabbed this one. Tftc
+
+Logged via OpenCaching for iPhone</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1156896">
+                    <groundspeak:date>2011-02-22T18:09:43.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2681">DTS113@GMAIL.COM</groundspeak:finder>
+                    <groundspeak:text encoded="False">[;)]Thanks for bring me there. for good hunt. Signed Log... and cheers!...^/^...</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1616903">
+                    <groundspeak:date>2010-12-25T09:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2737">Jiho Kim</groundspeak:finder>
+                    <groundspeak:text encoded="False">I found it at 07:42
+Nice hide. 
+TFTC ^_^</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>1.6</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.8963833" lat="37.5429667">
+        <time>2009-12-26T02:00:00.000-06:00</time>
+        <name>OX229HN</name>
+        <desc>SeonYuGyo by Jiho Kim, Traditional Cache(1.5/2.0/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OX229HN</url>
+        <urlname>SeonYuGyo</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1915821">
+            <groundspeak:name>SeonYuGyo</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">BYOP! 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.8940167" lat="37.5435">
+        <time>2009-12-26T02:00:00.000-06:00</time>
+        <name>OX229HT</name>
+        <desc>Seonyugyo View by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX229HT</url>
+        <urlname>Seonyugyo View</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1915825">
+            <groundspeak:name>Seonyugyo View</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">BYOP! 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9573667" lat="37.5686167">
+        <time>2010-11-19T02:00:00.000-06:00</time>
+        <name>OX2JEGN</name>
+        <desc>Ansan 1 (Trail Start) by HlTMAN, Traditional Cache(3.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2JEGN</url>
+        <urlname>Ansan 1 (Trail Start)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2397251">
+            <groundspeak:name>Ansan 1 (Trail Start)</groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">You can get to this cache either from Muakjae Station or Dongnimmun Station on line 3, depending on which way you walk up the Mountain. Dongnimmun Station, is the closest to this cache.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Behind two rocks</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1028362">
+                    <groundspeak:date>2010-11-21T09:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2737">Jiho Kim</groundspeak:finder>
+                    <groundspeak:text encoded="False">FTF at 21 November 2010 09:04:00 Searched and Searched around for 30 minutes.Nice hide.Dip my personal mileage travel bug(Geocoin)TFTC ^_^이 캐시를 찾는데 30분이 소요되었습니다.
+일단 주어진 좌표 주변에서 수십개의 조경석 사이사이를 찾아보았으나..
+캐시는 보이질 않았습니다. 오래곤 550으로 스포일러 사진을 찍어놓은게 있어 자세히 사진을 살펴보니 바위사진에 삼각형의 힌색점이 보여서 좌표 주변의 조경석이 아님을 확인하고 주변으로 범위를 확대하여 찾아보던중 좌표지점에서 남쪽으로 28미터정도 비탈면을 올라가서 보니 힌색점이 있는 바위를 찾을수 있었고 힌트와 같이 두개의 바위조각으로 감쪽같이 막아서 숨겨놓았더군요. 캐시안에 PATHTAGS.COM에 로그하라는 코인(674##08)을 발견했지만 어떻게 하는지 모르겠습니다.
+많은 시간을 소요하여 결국 찾았지만 찾는 기쁨은 두배가 되었습니다.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9537333" lat="37.5695667">
+        <time>2010-11-19T02:00:00.000-06:00</time>
+        <name>OX2JEGX</name>
+        <desc>Ansan 2 (View of Seoul) by HlTMAN, Traditional Cache(2.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2JEGX</url>
+        <urlname>Ansan 2 (View of Seoul)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2397258">
+            <groundspeak:name>Ansan 2 (View of Seoul)</groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">You can get to this cache either from Muakjae Station or Dongnimmun Station on line 3, depending on which way you walk up the Mountain. Dongnimmun Station, is the closest to this cache.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Magnetic Look Under</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1028363">
+                    <groundspeak:date>2010-11-21T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2737">Jiho Kim</groundspeak:finder>
+                    <groundspeak:text encoded="False">FTF at 21 November 2010 
+Nice place &amp; nice hide.
+Dip my personal mileage travel bug(Geocoin)
+TFTC ^_^</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9518667" lat="37.5703">
+        <time>2010-11-19T02:00:00.000-06:00</time>
+        <name>OX2JEHR</name>
+        <desc>Ansan 3 (Rest Stop) by HlTMAN, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2JEHR</url>
+        <urlname>Ansan 3 (Rest Stop)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2397285">
+            <groundspeak:name>Ansan 3 (Rest Stop)</groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">You can get to this cache either from Muakjae Station or Dongnimmun Station on line 3, depending on which way you walk up the Mountain. Dongnimmun Station, is the closest to this cache.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Magnetic</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1028364">
+                    <groundspeak:date>2010-11-21T09:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2737">Jiho Kim</groundspeak:finder>
+                    <groundspeak:text encoded="False">FTF at 21 November 2010 Nice hide.Dip my personal mileage travel bug(Geocoin)TFTC ^_^아침일찍부터 운동하러 산에 올라오신 분이 캐시가 있는 곳 바로 앞에서 체조를 하고 있어 뒤쪽에서 살짝 엎드려서 캐시를 가지고 나와서 몰래 로그하고 다시 원래위치에 잘 숨겨놓았습니다</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.98075" lat="37.57005">
+        <time>2010-10-08T02:00:00.000-05:00</time>
+        <name>OX2GD7E</name>
+        <desc>The Taco Place by HlTMAN, Traditional Cache(2.5/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2GD7E</url>
+        <urlname>The Taco Place</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2336422">
+            <groundspeak:name>The Taco Place</groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Container is a round magnetic micro.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Keeping it Cool</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1156895">
+                    <groundspeak:date>2011-02-22T18:09:13.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2681">DTS113@GMAIL.COM</groundspeak:finder>
+                    <groundspeak:text encoded="False">[;)]Thanks for bring me there. for good hunt. Signed Log... and cheers!...^/^...</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1028188">
+                    <groundspeak:date>2010-12-25T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2737">Jiho Kim</groundspeak:finder>
+                    <groundspeak:text encoded="False">Today morning was very cool. My oregon 550 was big jumping, But no problem with the hint, finally I made it.
+Dip my personal mileage travel bug(Geocoin)
+TFTC ^-^</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.95085" lat="37.5715167">
+        <time>2010-11-19T02:00:00.000-06:00</time>
+        <name>OX2JEJK</name>
+        <desc>Ansan 4 (Exercise Area) by HlTMAN, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2JEJK</url>
+        <urlname>Ansan 4 (Exercise Area)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2397311">
+            <groundspeak:name>Ansan 4 (Exercise Area)</groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">You can get to this cache either from Muakjae Station or Dongnimmun Station on line 3, depending on which way you walk up the Mountain. Dongnimmun Station, is the closest to this cache.</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1233535">
+                    <groundspeak:date>2011-05-02T22:49:29.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="6798">siniya</groundspeak:finder>
+                    <groundspeak:text encoded="False">
+Logged via OpenCaching for iPhone</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1028365">
+                    <groundspeak:date>2010-11-21T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2737">Jiho Kim</groundspeak:finder>
+                    <groundspeak:text encoded="False">FTF at 21 November 2010 09:29:00
+Nice hide.
+Dip my personal mileage travel bug(Geocoin)
+TFTC ^_^</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9579667" lat="37.5734667">
+        <time>2010-11-19T02:00:00.000-06:00</time>
+        <name>OX2JEPR</name>
+        <desc>Seohaemun Independence Park by HlTMAN, Traditional Cache(2.9/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2JEPR</url>
+        <urlname>Seohaemun Independence Park</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2397440">
+            <groundspeak:name>Seohaemun Independence Park</groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is a magnetic nano.
+
+You can get to this cache from Dongnimmun Station on line 3, it's located in Seohaemun Independence Park.</groundspeak:long_description>
+            <groundspeak:encoded_hints>See Spoiler Pic</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1156893">
+                    <groundspeak:date>2011-02-22T18:08:33.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2681">DTS113@GMAIL.COM</groundspeak:finder>
+                    <groundspeak:text encoded="False">[;)]Thanks for bring me there. for good hunt. Signed Log... and cheers!...^/^...</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1028366">
+                    <groundspeak:date>2010-11-21T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2737">Jiho Kim</groundspeak:finder>
+                    <groundspeak:text encoded="False">FTF at 21 November 2010 07:47:00 
+Nice hide.
+Dip my personal mileage travel bug(Geocoin)
+TFTC ^_^</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.9</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.94685" lat="37.5768167">
+        <time>2010-11-19T02:00:00.000-06:00</time>
+        <name>OX2JEFN</name>
+        <desc>Ansan 5 (Muaksan Signal Station) Chirp Multi-Cache by HlTMAN, Multi-cache(3.9/3.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2JEFN</url>
+        <urlname>Ansan 5 (Muaksan Signal Station) Chirp Multi-Cache</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="2397220">
+            <groundspeak:name>Ansan 5 (Muaksan Signal Station) Chirp Multi-Cache</groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>4</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">You can get to this cache either from Muakjae Station or Dongnimmun Station on line 3, depending on which way you walk up the Mountain.
+
+The above coordinates are to the starting point of this Multi-Cache.  This is a Chirp Enabled Multi-Cache.  There are two ways to get the coordinates to the actual cache.  You can either solve the simple problem below, or you can download the coordinates by enabling Chirp searching on a compatible Garmin GPS.   
+
+To get the coordinates without using the Chirp, look at the Trail Information sign at the posted coordinates.  Just above the dog on the sign you will see the following numbers  You will get the best signal to the Chirp next to this same sign.
+
+38A.B m
+2C
+D36.E kcal
+
+Substitute the letters for the numbers on the sign and you can get the coordinates for the actual cache.
+
+N 37° 34.EAC
+E 126° 56.ABD
+
+Any logs or Photos containing spoilers will be deleted by the cache owner.
+
+Additional Waypoints
+HIDDEN: FN2JEFN - GC2JEFN Final
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+ 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Sandbags</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1028361">
+                    <groundspeak:date>2010-11-21T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2737">Jiho Kim</groundspeak:finder>
+                    <groundspeak:text encoded="False">FTF at 21 November 2010 09:49:00 
+This multi-cache is First Chirp cache in Korea. 
+It's very fun cache.
+Took : Geocoin 2ea{HlTMAN's Whitney Benchmark Micro Geocoin and the3defaus' Climbing and Caching (AS) Geocoin} and ball-pen
+L : Nothing.
+Dip my personal mileage travel bug(Geocoin)
+TFTC ^_^</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.9</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>chirp</ox:tag>
+                <ox:tag>chirp enabled</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9600833" lat="37.5775833">
+        <time>2010-11-19T02:00:00.000-06:00</time>
+        <name>OX2JEQ7</name>
+        <desc>Inwangsan 1 (Entrance) by HlTMAN, Traditional Cache(2.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2JEQ7</url>
+        <urlname>Inwangsan 1 (Entrance)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2397454">
+            <groundspeak:name>Inwangsan 1 (Entrance)</groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Cache is a small pill bottle.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Rock marks the Spot</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1156894">
+                    <groundspeak:date>2011-02-22T18:08:48.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2681">DTS113@GMAIL.COM</groundspeak:finder>
+                    <groundspeak:text encoded="False">[;)]Thanks for bring me there. for good hunt. Signed Log... and cheers!...^/^...</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1028367">
+                    <groundspeak:date>2010-11-21T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2737">Jiho Kim</groundspeak:finder>
+                    <groundspeak:text encoded="False">FTF at 21 November 2010 07:58:00 
+Nice hide.
+Dip my personal mileage travel bug(Geocoin)
+TFTC ^_^</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9593" lat="37.5794667">
+        <time>2010-11-19T02:00:00.000-06:00</time>
+        <name>OX2JEQG</name>
+        <desc>Inwangsan 2  by HlTMAN, Traditional Cache(2.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2JEQG</url>
+        <urlname>Inwangsan 2 </urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2397463">
+            <groundspeak:name>Inwangsan 2 </groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">      </groundspeak:long_description>
+            <groundspeak:encoded_hints>behind rocks</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1028368">
+                    <groundspeak:date>2010-11-21T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2737">Jiho Kim</groundspeak:finder>
+                    <groundspeak:text encoded="False">FTF at 21 November 2010 08:09:00
+Nice hide.
+T : X
+L : Geocoin(Silverquill's Korea Geocoin No. 2)
+Dip my personal mileage travel bug(Geocoin)
+TFTC ^_^</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9476" lat="37.5809">
+        <time>2010-12-05T02:00:00.000-06:00</time>
+        <name>OX2K2Q4</name>
+        <desc>Ansan 6 (Trail Start/End) by HlTMAN, Traditional Cache(3.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2K2Q4</url>
+        <urlname>Ansan 6 (Trail Start/End)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2415710">
+            <groundspeak:name>Ansan 6 (Trail Start/End)</groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">You can get to this cache either from Muakjae Station or Dongnimmun Station on line 3, depending on which way you walk up the Mountain. Muakjae Station, is the closest to this cache. 
+
+This cache is a waterproof micro container, larger than a film canister, but smaller than a pill bottle.</groundspeak:long_description>
+            <groundspeak:encoded_hints>TFTC</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1615463">
+                    <groundspeak:date>2011-02-04T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2737">Jiho Kim</groundspeak:finder>
+                    <groundspeak:text encoded="False">I found it at 17:27 with dts113.
+Nice place &amp; nice hide.
+TFTC ^_^</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1615462">
+                    <groundspeak:date>2011-01-29T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="2737">Jiho Kim</groundspeak:finder>
+                    <groundspeak:text encoded="False">Searched and Searched around for 13 minutes but DNF.
+I'll next time.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9300833" lat="37.583">
+        <time>2011-02-12T02:00:00.000-06:00</time>
+        <name>OX2NP23</name>
+        <desc>Baekryeonsan 11 by HlTMAN, Traditional Cache(2.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2NP23</url>
+        <urlname>Baekryeonsan 11</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2493860">
+            <groundspeak:name>Baekryeonsan 11</groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is in a series of 11 caches hidden along the main trail around Baekryeonsan. To get to this series you can get off at Hongje Station Line # 3 Exit 4. It's highly suggested that you start this series at Baekryeonsan 1 to avoid back tracking. All Photos are Geotagged and can be uploaded to your GPS and navigated to as waypoints. 
+
+ This cache is located at the end of the trail, in the park area.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Don't get Arrested</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1616777">
+                    <groundspeak:date>2011-04-23T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2737">Jiho Kim</groundspeak:finder>
+                    <groundspeak:text encoded="False">I found it at 12:31
+Nice hide
+TFTC ^_^</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.93205" lat="37.5834167">
+        <time>2011-02-12T02:00:00.000-06:00</time>
+        <name>OX2NP1K</name>
+        <desc>Baekryeonsan 10 by HlTMAN, Traditional Cache(2.0/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2NP1K</url>
+        <urlname>Baekryeonsan 10</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2493845">
+            <groundspeak:name>Baekryeonsan 10</groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is in a series of 11 caches hidden along the main trail around Baekryeonsan. To get to this series you can get off at Hongje Station Line # 3 Exit 4. It's highly suggested that you start this series at Baekryeonsan 1 to avoid back tracking. All Photos are Geotagged and can be uploaded to your GPS and navigated to as waypoints. 
+
+ This cache is located a little off the main trail.</groundspeak:long_description>
+            <groundspeak:encoded_hints>rock</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1616909">
+                    <groundspeak:date>2011-04-22T10:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2737">Jiho Kim</groundspeak:finder>
+                    <groundspeak:text encoded="False">I found it at 12:37
+Nice hide
+TFTC ^_^</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.93" lat="37.5857833">
+        <time>2011-02-12T02:00:00.000-06:00</time>
+        <name>OX2NP17</name>
+        <desc>Baekryeonsan 9 by HlTMAN, Traditional Cache(2.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2NP17</url>
+        <urlname>Baekryeonsan 9</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2493833">
+            <groundspeak:name>Baekryeonsan 9</groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is in a series of 11 caches hidden along the main trail around Baekryeonsan. To get to this series you can get off at Hongje Station Line # 3 Exit 4. It's highly suggested that you start this series at Baekryeonsan 1 to avoid back tracking. All Photos are Geotagged and can be uploaded to your GPS and navigated to as waypoints. 
+
+ This cache is located right off the main trail.</groundspeak:long_description>
+            <groundspeak:encoded_hints>stump</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1616033">
+                    <groundspeak:date>2011-04-23T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2737">Jiho Kim</groundspeak:finder>
+                    <groundspeak:text encoded="False">I found it at 12:44
+Nice hide
+TFTC ^_^</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9290833" lat="37.5871667">
+        <time>2011-02-12T02:00:00.000-06:00</time>
+        <name>OX2NP0E</name>
+        <desc>Baekryeonsan 8 by HlTMAN, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2NP0E</url>
+        <urlname>Baekryeonsan 8</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2493809">
+            <groundspeak:name>Baekryeonsan 8</groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is in a series of 11 caches hidden along the main trail around Baekryeonsan. To get to this series you can get off at Hongje Station Line # 3 Exit 4. It's highly suggested that you start this series at Baekryeonsan 1 to avoid back tracking. All Photos are Geotagged and can be uploaded to your GPS and navigated to as waypoints. 
+
+ This cache is located right off the main trail.</groundspeak:long_description>
+            <groundspeak:encoded_hints>roots</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1615776">
+                    <groundspeak:date>2011-04-23T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2737">Jiho Kim</groundspeak:finder>
+                    <groundspeak:text encoded="False">I found it at 12:59
+Nice hide
+TFTC ^_^</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9280167" lat="37.5883667">
+        <time>2011-02-12T02:00:00.000-06:00</time>
+        <name>OX2NNZQ</name>
+        <desc>Baekryeonsan 7 by HlTMAN, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2NNZQ</url>
+        <urlname>Baekryeonsan 7</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2493787">
+            <groundspeak:name>Baekryeonsan 7</groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is in a series of 11 caches hidden along the main trail around Baekryeonsan. To get to this series you can get off at Hongje Station Line # 3 Exit 4. It's highly suggested that you start this series at Baekryeonsan 1 to avoid back tracking. All Photos are Geotagged and can be uploaded to your GPS and navigated to as waypoints. 
+
+ This Cache is in an Exercise area off the main trail just past the Signal Station.</groundspeak:long_description>
+            <groundspeak:encoded_hints>magnetic</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1233529">
+                    <groundspeak:date>2011-05-02T21:20:21.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="6798">siniya</groundspeak:finder>
+                    <groundspeak:text encoded="False">
+Logged via OpenCaching for iPhone</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1616032">
+                    <groundspeak:date>2011-04-23T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2737">Jiho Kim</groundspeak:finder>
+                    <groundspeak:text encoded="False">I found it at 13:06
+Nice hide
+TFTC ^_^</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9280167" lat="37.5900667">
+        <time>2011-02-12T02:00:00.000-06:00</time>
+        <name>OX2NNYV</name>
+        <desc>Baekryeonsan 6 by HlTMAN, Traditional Cache(1.5/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2NNYV</url>
+        <urlname>Baekryeonsan 6</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2493759">
+            <groundspeak:name>Baekryeonsan 6</groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is in a series of 11 caches hidden along the main trail around Baekryeonsan. To get to this series you can get off at Hongje Station Line # 3 Exit 4. It's highly suggested that you start this series at Baekryeonsan 1 to avoid back tracking. All Photos are Geotagged and can be uploaded to your GPS and navigated to as waypoints. 
+
+ This Cache is in a break area off the main trail.</groundspeak:long_description>
+            <groundspeak:encoded_hints>What Time is it?</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1616908">
+                    <groundspeak:date>2011-04-22T10:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2737">Jiho Kim</groundspeak:finder>
+                    <groundspeak:text encoded="False">I found it at 13:13
+Nice hide
+TFTC ^_^</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9401" lat="37.59135">
+        <time>2011-02-12T02:00:00.000-06:00</time>
+        <name>OX2NNJP</name>
+        <desc>Baekryeonsan 1 by HlTMAN, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2NNJP</url>
+        <urlname>Baekryeonsan 1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2493414">
+            <groundspeak:name>Baekryeonsan 1</groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is in a series of 11 caches hidden along the main trail
+around Baekryeonsan. To get to this series you can get off at
+Hongje Station Line # 3 Exit 4. It's highly suggested that you
+start this series at Baekryeonsan 1 to avoid back tracking. All
+Photos are Geotagged and can be uploaded to your GPS and navigated
+to as waypoints. 
+
+ This cache is located at the start of the trail.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Rocks</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1615579">
+                    <groundspeak:date>2011-04-23T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2737">Jiho Kim</groundspeak:finder>
+                    <groundspeak:text encoded="False">I found it at 14:50
+Nice hide
+TFTC ^_^</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.928883" lat="37.592867">
+        <time>2011-04-23T02:00:00.000-05:00</time>
+        <name>OX2TZ67</name>
+        <desc>20110423 Baekryeonsan 5-1 by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2TZ67</url>
+        <urlname>20110423 Baekryeonsan 5-1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2620840">
+            <groundspeak:name>20110423 Baekryeonsan 5-1</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is along the main trail around Baekryeonsan.
+
+이 캐시는 HlTMAN님이
+설치한 백련산
+시리즈 캐시에
+추가한 캐시입니다.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1710683">
+                    <groundspeak:date>2011-07-24T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3347">HlTMAN</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found it while checking on my caches in the area</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.93165" lat="37.595167">
+        <time>2011-04-23T02:00:00.000-05:00</time>
+        <name>OX2TZ6C</name>
+        <desc>20110423 Baekryeonsan 4-1 by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2TZ6C</url>
+        <urlname>20110423 Baekryeonsan 4-1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2620845">
+            <groundspeak:name>20110423 Baekryeonsan 4-1</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is along the main trail around Baekryeonsan.
+
+이 캐시는 HlTMAN님이
+설치한 백련산
+시리즈 캐시에
+추가한 캐시입니다.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1710684">
+                    <groundspeak:date>2011-07-24T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3347">HlTMAN</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found while checking on my caches in the area</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.936467" lat="37.595467">
+        <time>2011-04-23T02:00:00.000-05:00</time>
+        <name>OX2TZ6H</name>
+        <desc>20110423 Baekryeonsan 3-1 by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2TZ6H</url>
+        <urlname>20110423 Baekryeonsan 3-1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2620850">
+            <groundspeak:name>20110423 Baekryeonsan 3-1</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is along the main trail around Baekryeonsan.
+
+이 캐시는 HlTMAN님이
+설치한 백련산
+시리즈 캐시에
+추가한 캐시입니다.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1710685">
+                    <groundspeak:date>2011-07-24T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3347">HlTMAN</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found while checking on my caches in the area</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9352833" lat="37.5974167">
+        <time>2011-02-12T02:00:00.000-06:00</time>
+        <name>OX2NNKJ</name>
+        <desc>Baekryeonsan 4 by HlTMAN, Traditional Cache(2.5/3.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2NNKJ</url>
+        <urlname>Baekryeonsan 4</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2493441">
+            <groundspeak:name>Baekryeonsan 4</groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is in a series of 11 caches hidden along the main trail around Baekryeonsan. To get to this series you can get off at Hongje Station Line # 3 Exit 4.  It's highly suggested that you start this series at Baekryeonsan 1 to avoid back tracking.  All Photos are Geotagged and can be uploaded to your GPS and navigated to as waypoints. 
+
+ This is off the main trail, be aware that winter conditions my raise the terrain level one star.</groundspeak:long_description>
+            <groundspeak:encoded_hints>rock</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1616415">
+                    <groundspeak:date>2011-04-23T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2737">Jiho Kim</groundspeak:finder>
+                    <groundspeak:text encoded="False">I found it at 14:22
+Nice hide
+TFTC ^_^</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9554333" lat="37.60385">
+        <time>2010-01-17T02:00:00.000-06:00</time>
+        <name>OX2325W</name>
+        <desc>Sangmyeong UV stone wall by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2325W</url>
+        <urlname>Sangmyeong UV stone wall</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1938519">
+            <groundspeak:name>Sangmyeong UV stone wall</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1156892">
+                    <groundspeak:date>2011-02-22T18:07:30.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2681">DTS113@GMAIL.COM</groundspeak:finder>
+                    <groundspeak:text encoded="False">[;)]Thanks for bring me there. for good hunt. Signed Log... and cheers!...^/^...</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="936448">
+                    <groundspeak:date>2010-12-28T05:46:09.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3241">lunaforce</groundspeak:finder>
+                    <groundspeak:text encoded="False">find today</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9409333" lat="37.6114167">
+        <time>2010-02-07T02:00:00.000-06:00</time>
+        <name>OX23R7C</name>
+        <desc>Dokbakgol  by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX23R7C</url>
+        <urlname>Dokbakgol </urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1959708">
+            <groundspeak:name>Dokbakgol </groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Mabnet</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1156885">
+                    <groundspeak:date>2011-02-22T17:59:57.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2681">DTS113@GMAIL.COM</groundspeak:finder>
+                    <groundspeak:text encoded="False">*FTF! [;)]Thanks for bring me there. for good hunt. Signed Log... and cheers!...^/^...</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1088188">
+                    <groundspeak:date>2011-01-08T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3347">HlTMAN</groundspeak:finder>
+                    <groundspeak:text encoded="False">I was going for FTF on other caches in this area and had to walk by this one, so I thought I would grab it real quick.  Nice hide, the hint actually helped.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9508667" lat="37.6156833">
+        <time>2011-01-08T02:00:00.000-06:00</time>
+        <name>OX2M5PR</name>
+        <desc>Tangchoon Ten by HlTMAN, Traditional Cache(2.5/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2M5PR</url>
+        <urlname>Tangchoon Ten</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2448373">
+            <groundspeak:name>Tangchoon Ten</groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache makes an even ten in the area.  This cache is not officially part of the Tangchoon Series, but you will walk right by it while walking from 6 to 7. 
+
+ Bulgwang Station, Line # 6 is the closet station, but if you are doing the Tangchoon series in the area you will go from From Nokbeon Station Line #3 To Bulgwang Station Line #6.
+
+Cache is a micro waterproof container.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Walk the Wall</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1616907">
+                    <groundspeak:date>2011-02-04T09:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2737">Jiho Kim</groundspeak:finder>
+                    <groundspeak:text encoded="False">I found it at 11:08
+Nice place &amp; nice hide.
+TFTC ^_^</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.94255" lat="37.6177333">
+        <time>2010-02-07T02:00:00.000-06:00</time>
+        <name>OX23R7V</name>
+        <desc>BukHanSan(JjokDuRiBaWi) by Jiho Kim, Traditional Cache(2.5/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX23R7V</url>
+        <urlname>BukHanSan(JjokDuRiBaWi)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1959722">
+            <groundspeak:name>BukHanSan(JjokDuRiBaWi)</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1156886">
+                    <groundspeak:date>2011-02-22T18:02:29.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2681">DTS113@GMAIL.COM</groundspeak:finder>
+                    <groundspeak:text encoded="False">[;)]Thanks for bring me there. for good hunt. Signed Log... and cheers!...^/^...&quot;FTF!&quot;</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1088189">
+                    <groundspeak:date>2011-01-15T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3347">HlTMAN</groundspeak:finder>
+                    <groundspeak:text encoded="False">This was by far my favorite cache of the day.  The view up here is nothing short of spectacular.  And it's a SMALL!!  Still too small for the TB I had with me, but would be a great place to drop some off.  I am really surprised more people don't visit this cache.  It was a little hard to find, and I am not sure how DTS put it where it was.  I have longer arms than him and I couldn't reach it.  I had to use my walking stick to drag it out.  It was really jammed up in there.  There are lots of muggles here, so be careful.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1175287">
+                    <groundspeak:date>2011-01-15T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="3347">HlTMAN</groundspeak:finder>
+                    <groundspeak:text encoded="False">Dip Bug</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="936446">
+                    <groundspeak:date>2010-12-28T05:44:02.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3241">lunaforce</groundspeak:finder>
+                    <groundspeak:text encoded="False">find today</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9385167" lat="37.62215">
+        <time>2010-12-23T02:00:00.000-06:00</time>
+        <name>OX2KJ80</name>
+        <desc>Bukhansan Tree by HlTMAN, Traditional Cache(2.5/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2KJ80</url>
+        <urlname>Bukhansan Tree</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2430617">
+            <groundspeak:name>Bukhansan Tree</groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is located at the base of Bukhansan
+
+To get to this cache you can get off at Dokbawi station line #6 
+
+ This cache is a waterproof camouflaged container a little bigger then a film canister.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Get to the Root of the problem</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1616906">
+                    <groundspeak:date>2010-12-24T09:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2737">Jiho Kim</groundspeak:finder>
+                    <groundspeak:text encoded="False">FTF at 08:06
+Nice place &amp; nice hide
+TFTC ^_^</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.95025" lat="37.6225667">
+        <time>2010-02-07T02:00:00.000-06:00</time>
+        <name>OX23R82</name>
+        <desc>BukHanSan(HyangRoBong) by Jiho Kim, Traditional Cache(3.0/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX23R82</url>
+        <urlname>BukHanSan(HyangRoBong)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1959729">
+            <groundspeak:name>BukHanSan(HyangRoBong)</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1156890">
+                    <groundspeak:date>2011-02-22T18:05:19.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2681">DTS113@GMAIL.COM</groundspeak:finder>
+                    <groundspeak:text encoded="False">[;)]Thanks for bring me there. for good hunt. Signed Log... and cheers!...^/^...&quot;FTF!&quot;</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9361833" lat="37.6231167">
+        <time>2010-12-25T02:00:00.000-06:00</time>
+        <name>OX2KPMF</name>
+        <desc>Bulgwangsa by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2KPMF</url>
+        <urlname>Bulgwangsa</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2434848">
+            <groundspeak:name>Bulgwangsa</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Magnet</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1156887">
+                    <groundspeak:date>2011-02-22T18:03:34.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2681">DTS113@GMAIL.COM</groundspeak:finder>
+                    <groundspeak:text encoded="False">[;)]Thanks for bring me there. for good hunt. Signed Log... and cheers!...^/^...</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1004920">
+                    <groundspeak:date>2011-01-08T03:47:11.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3347">HlTMAN</groundspeak:finder>
+                    <groundspeak:text encoded="False">FTF @ 1340, I was in this area a couple of weeks ago and thought to myself that this would be a good spot for a cache. Good to see that someone else thought the same thing. This was a two for one FTF</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9527333" lat="37.6257667">
+        <time>2010-02-07T02:00:00.000-06:00</time>
+        <name>OX23R85</name>
+        <desc>BukHanSan(BaWiGuMeong) by Jiho Kim, Traditional Cache(2.0/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX23R85</url>
+        <urlname>BukHanSan(BaWiGuMeong)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1959732">
+            <groundspeak:name>BukHanSan(BaWiGuMeong)</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1156891">
+                    <groundspeak:date>2011-02-22T18:06:04.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2681">DTS113@GMAIL.COM</groundspeak:finder>
+                    <groundspeak:text encoded="False">[;)]Thanks for bring me there. for good hunt. Signed Log... and cheers!...^/^...</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9594833" lat="37.6280833">
+        <time>2010-02-07T02:00:00.000-06:00</time>
+        <name>OX23R87</name>
+        <desc>BukHanSan(SaMoBaWi)  by Jiho Kim, Traditional Cache(2.5/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX23R87</url>
+        <urlname>BukHanSan(SaMoBaWi) </urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1959734">
+            <groundspeak:name>BukHanSan(SaMoBaWi) </groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9743167" lat="37.6318833">
+        <time>2010-02-07T02:00:00.000-06:00</time>
+        <name>OX23R9R</name>
+        <desc>BukHanSanSeong(DaeNamMun)  by Jiho Kim, Traditional Cache(2.5/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX23R9R</url>
+        <urlname>BukHanSanSeong(DaeNamMun) </urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1959782">
+            <groundspeak:name>BukHanSanSeong(DaeNamMun) </groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9771" lat="37.6331833">
+        <time>2010-02-07T02:00:00.000-06:00</time>
+        <name>OX23R9Y</name>
+        <desc>BukHanSanSeong(DaeSeongMun) by Jiho Kim, Traditional Cache(2.5/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX23R9Y</url>
+        <urlname>BukHanSanSeong(DaeSeongMun)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1959787">
+            <groundspeak:name>BukHanSanSeong(DaeSeongMun)</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">BYOP! 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9385833" lat="37.6362167">
+        <time>2010-12-23T02:00:00.000-06:00</time>
+        <name>OX2KJ85</name>
+        <desc>Dulegil Trail (Bunker) by HlTMAN, Traditional Cache(2.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2KJ85</url>
+        <urlname>Dulegil Trail (Bunker)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2430622">
+            <groundspeak:name>Dulegil Trail (Bunker)</groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is located on the  Dulegil trail of Bukhansan 
+
+ This cache is a small camouflaged pill bottle</groundspeak:long_description>
+            <groundspeak:encoded_hints>Rock stands guard</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1616904">
+                    <groundspeak:date>2010-12-24T09:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2737">Jiho Kim</groundspeak:finder>
+                    <groundspeak:text encoded="False">FTF at 09:07
+Nice place &amp; nice hide
+TFTC ^_^
+</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9895167" lat="37.6394167">
+        <time>2010-02-07T02:00:00.000-06:00</time>
+        <name>OX23RA4</name>
+        <desc>Bukhansan(waterfall) by Jiho Kim, Traditional Cache(3.0/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX23RA4</url>
+        <urlname>Bukhansan(waterfall)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1959793">
+            <groundspeak:name>Bukhansan(waterfall)</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9774333" lat="37.6445333">
+        <time>2010-02-07T02:00:00.000-06:00</time>
+        <name>OX23RA9</name>
+        <desc>20100207 BukHanSanSeong-Small bridge by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX23RA9</url>
+        <urlname>20100207 BukHanSanSeong-Small bridge</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1959798">
+            <groundspeak:name>20100207 BukHanSanSeong-Small bridge</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9991" lat="37.6503833">
+        <time>2009-12-27T02:00:00.000-06:00</time>
+        <name>OX22AH2</name>
+        <desc>Ibseokbawi by Jiho Kim, Traditional Cache(1.5/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX22AH2</url>
+        <urlname>Ibseokbawi</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1916763">
+            <groundspeak:name>Ibseokbawi</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br/&gt;&lt;br/&gt;Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9389667" lat="37.6515833">
+        <time>2010-12-23T02:00:00.000-06:00</time>
+        <name>OX2KJ89</name>
+        <desc>Dulegil Trail (Follow the Trail) by HlTMAN, Traditional Cache(2.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2KJ89</url>
+        <urlname>Dulegil Trail (Follow the Trail)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2430626">
+            <groundspeak:name>Dulegil Trail (Follow the Trail)</groundspeak:name>
+            <groundspeak:placed_by>HlTMAN</groundspeak:placed_by>
+            <groundspeak:owner id="3347">HlTMAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is located on the Dulegil trail of Bukhansan 
+
+ This is a nano cache</groundspeak:long_description>
+            <groundspeak:encoded_hints>Rousseau</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1616905">
+                    <groundspeak:date>2010-12-24T09:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2737">Jiho Kim</groundspeak:finder>
+                    <groundspeak:text encoded="False">FTF at 09:43
+Nice place &amp; nice hide
+TFTC ^_^</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.9559167" lat="37.6534167">
+        <time>2010-02-07T02:00:00.000-06:00</time>
+        <name>OX23RAA</name>
+        <desc>20100207 BukHanSanSeong-DaeSeoMun by Jiho Kim, Traditional Cache(2.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX23RAA</url>
+        <urlname>20100207 BukHanSanSeong-DaeSeoMun</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1959799">
+            <groundspeak:name>20100207 BukHanSanSeong-DaeSeoMun</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="126.99195" lat="37.6577333">
+        <time>2009-12-27T02:00:00.000-06:00</time>
+        <name>OX22AGY</name>
+        <desc>20091227 Doseonsa Parking area by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX22AGY</url>
+        <urlname>20091227 Doseonsa Parking area</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1916759">
+            <groundspeak:name>20091227 Doseonsa Parking area</groundspeak:name>
+            <groundspeak:placed_by>Jiho Kim</groundspeak:placed_by>
+            <groundspeak:owner id="2737">Jiho Kim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br/&gt;&lt;br/&gt;Please BYOP! (Bring your own pen) 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

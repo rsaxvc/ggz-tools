@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,169,90,170</url>
+    <time>2012-01-04T09:33:14.419-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="170.0" maxlat="90.0" minlon="169.0" minlat="-90.0"/>
+    <wpt lon="169.32305" lat="-45.53925">
+        <time>2005-05-01T03:00:00.000-05:00</time>
+        <name>OXNQMQ</name>
+        <desc>Apricot Valley View (Central Otago) by JAMESGREENE, Traditional Cache(2.9/2.6/3.5)</desc>
+        <url>http://www.opencaching.com/#geocache/OXNQMQ</url>
+        <urlname>Apricot Valley View (Central Otago)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="648357">
+            <groundspeak:name>Apricot Valley View (Central Otago)</groundspeak:name>
+            <groundspeak:placed_by>JAMESGREENE</groundspeak:placed_by>
+            <groundspeak:owner id="4474">JAMESGREENE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The container is 1.5 litre “Prestige Perfect Seal” transparent container with a push on lid (please push lid on firmly). It is hidden at chest level but is invisible from 0 metres. On the lid is written “Geocache”.
+
+&lt;p&gt;Take some time out to admire the view.&lt;/p&gt;
+
+&lt;p&gt;When hidden it contained:&lt;/p&gt;&lt;ul&gt;
+&lt;li&gt;Log book with pencil and sharpener.&lt;/li&gt;
+&lt;li&gt;Fishing float key ring.&lt;/li&gt;
+&lt;li&gt;1964 Australian (Perth) penny.&lt;/li&gt;
+&lt;li&gt;Roxburgh postcard.&lt;/li&gt;
+&lt;li&gt;Clyde fridge magnet.&lt;/li&gt;
+&lt;li&gt;NZ “Touring &amp; Accommodation Map”&lt;/li&gt;&lt;/ul&gt;
+
+&lt;p&gt;The township had its genesis in the discovery of gold. The early miners used water from the surrounding catchments to sluice the gold from the old creek and river beds. Many of the old water races can still be seen on the surrounding hillsides.  In time these water races came to be used to deliver irrigation water to the stone fruit orchards that succeeded gold mining as the principal source of income in this valley. The development of hydro electrical generation started with the damming of Lake Onslow. Today there are a number of small storage lakes, canals and generation plants on the Teviot River from its source at Lake Onslow to its confluence with the Clutha River on the east bank at Roxburgh. It was at this confluence that alluvial gold was discovered by Young and Woodhouse in 1862. The water use is truly multi use as a considerable volume of water is still taken by means of the old water races to fill irrigation dams on the eastern terraces of the Clutha River. Two of the generation stations are within a short distance of the Geocache Site.&lt;/p&gt;
+
+&lt;p&gt;Today the gold is to be found in the brilliant autumn colours that adorn the trees in this valley, and in the export value of the Cherries and Apricots grown here.&lt;/p&gt;
+
+&lt;p&gt;Cross over the river and turn north, then turn right after 0.15 km.&lt;/p&gt; 
+ 
+ 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>The Cache is hidden under a rock overhang facing the township, Turn your back on two smallish kowhai trees one at about ten meters and then another twelve meters further on, to the west (bearing 240° magnetic), and then put your right hand out at chest height.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="227014">
+                    <groundspeak:date>2005-12-11T02:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2620">Bitsprayer</groundspeak:finder>
+                    <groundspeak:text encoded="False">Another great spot with a good view, froogal got his hands to the cache before me [:(]
+Many Thanks Bitsprayer
+</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>2.9</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>scenic</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,47,90,48</url>
+    <time>2012-01-04T09:32:23.898-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="48.0" maxlat="90.0" minlon="47.0" minlat="-90.0"/>
+    <wpt lon="47.6655" lat="30.5681167">
+        <time>2010-07-05T02:00:00.000-05:00</time>
+        <name>OX2BA35</name>
+        <desc>Basra GeoCSH by ERIKEDGE, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2BA35</url>
+        <urlname>Basra GeoCSH</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2184451">
+            <groundspeak:name>Basra GeoCSH</groundspeak:name>
+            <groundspeak:placed_by>ERIKEDGE</groundspeak:placed_by>
+            <groundspeak:owner id="12165">ERIKEDGE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Sometimes caches are CSH's. 
+
+ This is the place for all your travel bug first aid needs!
+
+GENERAL RULES FOR CACHING IN IRAQ: This cache is located in a war zone. It is on a coalition controlled installation. You will need proper credentials to gain access to the area. Do not post logs that give any references to what is around the cache site or might otherwise compromise Operations Security!</groundspeak:long_description>
+            <groundspeak:encoded_hints>The Red Cross marks the spot.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1606146">
+                    <groundspeak:date>2011-10-07T03:42:43.000-05:00</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="64309">H.SALMANZADEH</groundspeak:finder>
+                    <groundspeak:text encoded="False">Logged via OpenCaching for iPhone</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1606150">
+                    <groundspeak:date>2011-10-06T16:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="64309">H.SALMANZADEH</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1526333">
+                    <groundspeak:date>2011-09-02T02:38:16.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="57455">DR.FADEL</groundspeak:finder>
+                    <groundspeak:text encoded="False">
+Logged via OpenCaching for iPhone</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

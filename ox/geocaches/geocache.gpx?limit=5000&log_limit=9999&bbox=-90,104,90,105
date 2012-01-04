@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,104,90,105</url>
+    <time>2012-01-04T09:32:42.572-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="105.0" maxlat="90.0" minlon="104.0" minlat="-90.0"/>
+    <wpt lon="104.1261667" lat="2.7566833">
+        <time>2011-10-22T15:45:24.000-05:00</time>
+        <name>OXZTNV6</name>
+        <desc>Waterfall in Genting Village by SUPERNIAL, Traditional Cache(2.5/2.2/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTNV6</url>
+        <urlname>Waterfall in Genting Village</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28471398">
+            <groundspeak:name>Waterfall in Genting Village</groundspeak:name>
+            <groundspeak:placed_by>SUPERNIAL</groundspeak:placed_by>
+            <groundspeak:owner id="38013">SUPERNIAL</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">After you're done with relaxing and snorkeling you can do some Jungle Tracking and see this nice waterfall that has fresh water to drink.
+
+Start your quest at Impiana Inn and follow the road to the jungle. Nice walk will take you through the house with talking birds and you can stay and talk to them for a while. Then follow the road up the hill , cross the bridge and there you are. A nice fresh water waterfall. Water comes from the top of the hill and is filtered by layers of rocks and soil. Perfectly good to drink. Enjoy and log the cache nearby. </groundspeak:long_description>
+            <groundspeak:encoded_hints>under. north</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>2.2</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="104.12315" lat="2.7594">
+        <time>2011-10-22T15:43:12.000-05:00</time>
+        <name>OXZTNV7</name>
+        <desc>Diving in Genting by SUPERNIAL, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTNV7</url>
+        <urlname>Diving in Genting</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28471399">
+            <groundspeak:name>Diving in Genting</groundspeak:name>
+            <groundspeak:placed_by>SUPERNIAL</groundspeak:placed_by>
+            <groundspeak:owner id="38013">SUPERNIAL</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">During my stay in Pulau Tioman I have visited a small village called Genting. It was an amazing place with friendly staff that agreed to take care of the cache I placed. Nearby you have a snorkeling/diving club where you can get a PADI. You can also jungle track and see a nice waterfall and talking birds. Tioman island lies about 56km off the coast of Pahang, according to legend, this island is the final resting place of a mythical dragon princess. The warm waters and good visibility make Tioman a paradise for diving &amp; snorkeling. It is an idyllic sport for leisurely days under the sun. Swim in its emerald waters, enjoy a stroll by the beach or go jungle trekking around the island. A quick advice is to visit it during off peak season. For example October. You will get lots of attention and better prices.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Consierge</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="104.9423833" lat="11.5501333">
+        <time>2011-03-21T15:59:22.000-05:00</time>
+        <name>OX2P2M5</name>
+        <desc>The big river - Mekong by KaMo_cz, Traditional Cache(2.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2P2M5</url>
+        <urlname>The big river - Mekong</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2504991">
+            <groundspeak:name>The big river - Mekong</groundspeak:name>
+            <groundspeak:placed_by>KaMo_cz</groundspeak:placed_by>
+            <groundspeak:owner id="15045">KaMo_cz</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">[eng] Mekong - No. 10 world's largest river (4900 km long) springs on the Tibetian plateau, runs through China's Yunnan province, forms the border between Myanmar (Burma) and Thailand, then between Thailand and Laos, goes through Cambodia, and flows to its end in Vietnam, where it forms a huge delta to the South China Sea.
+
+This cache would like to invite you to a real river, I went there because I wanted to see the real stream. I was born and still live by small river called Silent Eagle. Now I've seen this great river and as the memorial of this meeting is placed geocache.
+
+PS: And when you take a look at Angkor Wat, also have a stop at the Tonle Sap Lake.
+
+cache is 350ml L&amp;L box (8*11*5cm)
+
+[czech]
+MEKONG - 10. nejvetší reka sveta pramenící na Tibetské náhorní plošine. Jeho 4900 km dlouhý tok se line Tibetem, Cínou, tvorí hranici mezi Myanmarem (Barma) a Laosem, poté mezi Thajskem a Laosem, z Laosu vtéká do Kambodže a na konec do Vietnamu, kde vytvárí mohutnou deltu vlévající se do Jihocínského more.
+
+Touto keší bych vás chtel pozvat k opravdové rece, návšteva stojí za to. Já jsem pri své ceste touto krajinou chtel videt veletok, protože jsem se narodil a žiju u reky, u malé reky Tichá Orlice. Nyní jsem už videl velkou reku a na památku tohoto setkání zde založil cache.
+PS: A až se pojedete podívat na Angkor Wat, tak se zastavte i u jezera Tonle Sap.
+
+cache je 350ml L&amp;L box (8*11*5cm)
+</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1401552">
+                    <groundspeak:date>2011-08-04T21:14:55.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="48249">neovinhtru</groundspeak:finder>
+                    <groundspeak:text encoded="False">
+Logged via OpenCaching for iPhone</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="104.067" lat="30.6667">
+        <time>2011-01-18T06:09:23.000-06:00</time>
+        <name>OXZTXE1</name>
+        <desc>chengdu by tcheng, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTXE1</url>
+        <urlname>chengdu</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477748">
+            <groundspeak:name>chengdu</groundspeak:name>
+            <groundspeak:placed_by>tcheng</groundspeak:placed_by>
+            <groundspeak:owner id="9264">tcheng</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">It isn't big than a nano. </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>All Seasons - Open Field &amp; Forest Trails</ox:tag>
+                <ox:tag>Night Cache Only</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+</gpx>

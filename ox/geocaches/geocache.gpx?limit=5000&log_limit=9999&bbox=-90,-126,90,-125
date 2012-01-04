@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,-126,90,-125</url>
+    <time>2012-01-04T09:24:43.665-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="-125.0" maxlat="90.0" minlon="-126.0" minlat="-90.0"/>
+    <wpt lon="-125.1205" lat="49.871767">
+        <time>2011-06-29T02:00:00.000-05:00</time>
+        <name>OX2Z65R</name>
+        <desc>Old Swimming Hole by VICMORDA, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2Z65R</url>
+        <urlname>Old Swimming Hole</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2746717">
+            <groundspeak:name>Old Swimming Hole</groundspeak:name>
+            <groundspeak:placed_by>VICMORDA</groundspeak:placed_by>
+            <groundspeak:owner id="58419">VICMORDA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Past the new bridge to the end of the old trail
+
+Along the river trail you pass the Old Swimming Hole, complete with the rope swing. If it is a hot day, take a dip!</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-125.2734" lat="49.89495">
+        <time>2011-08-01T02:00:00.000-05:00</time>
+        <name>OX31BAV</name>
+        <desc>The Baby Menagerie – Pen 6 by VICMORDA, Traditional Cache(2.0/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX31BAV</url>
+        <urlname>The Baby Menagerie – Pen 6</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2811261">
+            <groundspeak:name>The Baby Menagerie – Pen 6</groundspeak:name>
+            <groundspeak:placed_by>VICMORDA</groundspeak:placed_by>
+            <groundspeak:owner id="58419">VICMORDA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">To locate the FINAL for this series you need to retrieve a number from each PEN. Each cache in this series will have a letter and a number on the lid of the cache container. Those numbers will form the REAL coordinates for this cache. A=? B=? C=?   D=? E=? F=?
+To form the coordinates N 49 53.ABC W 125 16.DEF
+
+We recommend that you park at N49.53.785 W125.16.472 along the Inland Highway near Cranberry Road and use the wildlife gate to access this area - Iron River Road does come up here but it is extremely rough.
+.
+This is meant to be a fun cache for the kids to do. Mostly the caches are easy to find. Each cache has an animal pen - PLEASE DO NOT FEED OR REMOVE THE ANIMALS.
+. 
+There is a FTF Certificate in this cache</groundspeak:long_description>
+            <groundspeak:encoded_hints>the elephant is the toughie - he is about 30 meters off the road by a stump</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-125.273917" lat="49.89695">
+        <time>2011-08-01T02:00:00.000-05:00</time>
+        <name>OX31B9X</name>
+        <desc>The Baby Menagerie - Pen 1 by VICMORDA, Traditional Cache(2.2/2.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX31B9X</url>
+        <urlname>The Baby Menagerie - Pen 1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2811232">
+            <groundspeak:name>The Baby Menagerie - Pen 1</groundspeak:name>
+            <groundspeak:placed_by>VICMORDA</groundspeak:placed_by>
+            <groundspeak:owner id="58419">VICMORDA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">To locate the FINAL for this series you need to retrieve a number from each PEN. Each cache in this series will have a letter and a number on the lid of the cache container. Those numbers will form the REAL coordinates for this cache. A=? B=? C=?   D=? E=? F=?
+To form the coordinates N 49 53.ABC W 125 16.DEF
+
+We recommend that you park at N49.53.785 W125.16.472 along the Inland Highway near Cranberry Road and use the wildlife gate to access this area - Iron River Road does come up here but it is extremely rough.
+.
+This is meant to be a fun cache for the kids to do. Mostly the caches are easy to find. Each cache has an animal pen - PLEASE DO NOT FEED OR REMOVE THE ANIMALS.
+. 
+There is a FTF Certificate in this cache - Please bring your own writin stick.</groundspeak:long_description>
+            <groundspeak:encoded_hints>The moose is in the bush</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.2</ox:difficulty>
+                <ox:size>3.7</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-125.2702" lat="49.89905">
+        <time>2011-08-01T02:00:00.000-05:00</time>
+        <name>OX31BA7</name>
+        <desc>The Baby Menagerie Pen - 2 by VICMORDA, Traditional Cache(2.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX31BA7</url>
+        <urlname>The Baby Menagerie Pen - 2</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2811242">
+            <groundspeak:name>The Baby Menagerie Pen - 2</groundspeak:name>
+            <groundspeak:placed_by>VICMORDA</groundspeak:placed_by>
+            <groundspeak:owner id="58419">VICMORDA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">To locate the FINAL for this series you need to retrieve a number from each PEN. Each cache in this series will have a letter and a number on the lid of the cache container. Those numbers will form the REAL coordinates for this cache. A=? B=? C=?   D=? E=? F=?
+To form the coordinates N 49 53.ABC W 125 16.DEF
+
+We recommend that you park at N49.53.785 W125.16.472 along the Inland Highway near Cranberry Road and use the wildlife gate to access this area - Iron River Road does come up here but it is extremely rough.
+.
+This is meant to be a fun cache for the kids to do. Mostly the caches are easy to find. Each cache has an animal pen - PLEASE DO NOT FEED OR REMOVE THE ANIMALS.
+. 
+There is a FTF Certificate in this cache</groundspeak:long_description>
+            <groundspeak:encoded_hints>Believe it or not the giraffe is under a log?</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-125.265017" lat="49.89985">
+        <time>2011-08-01T02:00:00.000-05:00</time>
+        <name>OX31BAH</name>
+        <desc>The Baby Menagerie – Pen 4 by VICMORDA, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX31BAH</url>
+        <urlname>The Baby Menagerie – Pen 4</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2811252">
+            <groundspeak:name>The Baby Menagerie – Pen 4</groundspeak:name>
+            <groundspeak:placed_by>VICMORDA</groundspeak:placed_by>
+            <groundspeak:owner id="58419">VICMORDA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">To locate the FINAL for this series you need to retrieve a number from each PEN. Each cache in this series will have a letter and a number on the lid of the cache container. Those numbers will form the REAL coordinates for this cache. A=? B=? C=?   D=? E=? F=?
+To form the coordinates N 49 53.ABC W 125 16.DEF
+
+We recommend that you park at N49.53.785 W125.16.472 along the Inland Highway near Cranberry Road and use the wildlife gate to access this area - Iron River Road does come up here but it is extremely rough.
+.
+This is meant to be a fun cache for the kids to do. Mostly the caches are easy to find. Each cache has an animal pen - PLEASE DO NOT FEED OR REMOVE THE ANIMALS.
+. 
+There is a FTF Certificate in this cache</groundspeak:long_description>
+            <groundspeak:encoded_hints>baby Roo is under a tree - across the road UGH messy.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-125.228233" lat="49.899917">
+        <time>2011-07-25T02:00:00.000-05:00</time>
+        <name>OX30XDQ</name>
+        <desc>Hiding Place 5 by VICMORDA, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX30XDQ</url>
+        <urlname>Hiding Place 5</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2797897">
+            <groundspeak:name>Hiding Place 5</groundspeak:name>
+            <groundspeak:placed_by>VICMORDA</groundspeak:placed_by>
+            <groundspeak:owner id="58419">VICMORDA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">4 1/2&quot; loc 'n loc - with FTF Certificate
+
+Getting the Hiding Places is the goal
+If you have 4 you're on a roll
+This is the last of the set
+Got it too? - Well met!</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-125.246767" lat="49.900233">
+        <time>2011-07-20T02:00:00.000-05:00</time>
+        <name>OX30J79</name>
+        <desc>The Hiding Place 3 by VICMORDA, Traditional Cache(2.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX30J79</url>
+        <urlname>The Hiding Place 3</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2788087">
+            <groundspeak:name>The Hiding Place 3</groundspeak:name>
+            <groundspeak:placed_by>VICMORDA</groundspeak:placed_by>
+            <groundspeak:owner id="58419">VICMORDA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">cache is a small lock n' lock. Took a long hike for peanuts and felt the need to add a few caches.
+
+the robin flew the coop    
+the logger could be heard to chortle
+the geo cacher who finds this
+must be as patient as the turtle</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-125.268467" lat="49.900617">
+        <time>2011-08-01T02:00:00.000-05:00</time>
+        <name>OX31BAD</name>
+        <desc>The Baby Menagerie – Pen 3 by VICMORDA, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX31BAD</url>
+        <urlname>The Baby Menagerie – Pen 3</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2811248">
+            <groundspeak:name>The Baby Menagerie – Pen 3</groundspeak:name>
+            <groundspeak:placed_by>VICMORDA</groundspeak:placed_by>
+            <groundspeak:owner id="58419">VICMORDA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">To locate the FINAL for this series you need to retrieve a number from each PEN. Each cache in this series will have a letter and a number on the lid of the cache container. Those numbers will form the REAL coordinates for this cache. A=? B=? C=?   D=? E=? F=?
+To form the coordinates N 49 53.ABC W 125 16.DEF
+
+We recommend that you park at N49.53.785 W125.16.472 along the Inland Highway near Cranberry Road and use the wildlife gate to access this area - Iron River Road does come up here but it is extremely rough.
+.
+This is meant to be a fun cache for the kids to do. Mostly the caches are easy to find. Each cache has an animal pen - PLEASE DO NOT FEED OR REMOVE THE ANIMALS.
+. 
+There is a FTF Certificate in this cache</groundspeak:long_description>
+            <groundspeak:encoded_hints>Check the log under the spruce tree and see the antelope</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-125.243633" lat="49.900533">
+        <time>2011-07-20T02:00:00.000-05:00</time>
+        <name>OX30J6E</name>
+        <desc>The Hiding Place by VICMORDA, Traditional Cache(3.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX30J6E</url>
+        <urlname>The Hiding Place</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2788061">
+            <groundspeak:name>The Hiding Place</groundspeak:name>
+            <groundspeak:placed_by>VICMORDA</groundspeak:placed_by>
+            <groundspeak:owner id="58419">VICMORDA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">cache is a small pill bottle. Took a long hike for peanuts and felt the need to add a few caches.
+
+the robin flew the coop    
+the sailor went to sea
+the logger's home from logging
+chortling with glee
+.
+need to take your own writing stick</groundspeak:long_description>
+            <groundspeak:encoded_hints>Hint is in the Name</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-125.239583" lat="49.900617">
+        <time>2011-07-20T02:00:00.000-05:00</time>
+        <name>OX30J71</name>
+        <desc>The Hiding Place 2 by VICMORDA, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX30J71</url>
+        <urlname>The Hiding Place 2</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2788079">
+            <groundspeak:name>The Hiding Place 2</groundspeak:name>
+            <groundspeak:placed_by>VICMORDA</groundspeak:placed_by>
+            <groundspeak:owner id="58419">VICMORDA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Small lock and lock - Took a long hike for peanuts and felt the need to add a few caches. Should need no hints for this one
+
+the robin flew the coop
+the logger chortled with glee
+this geo cache is between
+the peanut and the three</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-125.233817" lat="49.9011">
+        <time>2011-07-25T02:00:00.000-05:00</time>
+        <name>OX30XDP</name>
+        <desc>Hiding Place 4 by VICMORDA, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX30XDP</url>
+        <urlname>Hiding Place 4</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2797896">
+            <groundspeak:name>Hiding Place 4</groundspeak:name>
+            <groundspeak:placed_by>VICMORDA</groundspeak:placed_by>
+            <groundspeak:owner id="58419">VICMORDA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">4 1/2&quot; loc 'n loc - with FTF Certificate
+
+Sage is wise - Not just a hen
+The sword is the power - Behind the pen
+Can't find this cache - Then PAF!</groundspeak:long_description>
+            <groundspeak:encoded_hints>come before dusk or the skeeters will eat you alive!</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-125.268683" lat="49.902567">
+        <time>2011-08-01T02:00:00.000-05:00</time>
+        <name>OX31BAN</name>
+        <desc>The Baby Menagerie – Pen 5 by VICMORDA, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX31BAN</url>
+        <urlname>The Baby Menagerie – Pen 5</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2811256">
+            <groundspeak:name>The Baby Menagerie – Pen 5</groundspeak:name>
+            <groundspeak:placed_by>VICMORDA</groundspeak:placed_by>
+            <groundspeak:owner id="58419">VICMORDA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">To locate the FINAL for this series you need to retrieve a number from each PEN. Each cache in this series will have a letter and a number on the lid of the cache container. Those numbers will form the REAL coordinates for this cache. A=? B=? C=?   D=? E=? F=? To form the coordinates N 49 53.ABC W 125 16.DEF
+
+We recommend that you park at N49.53.785 W125.16.472 along the Inland Highway near Cranberry Road and use the wildlife gate to access this area - Iron River Road does come up here but it is extremely rough.
+.
+This is meant to be a fun cache for the kids to do. Mostly the caches are easy to find. Each cache has an animal pen - PLEASE DO NOT FEED OR REMOVE THE ANIMALS.
+. 
+There is a FTF Certificate in this cache</groundspeak:long_description>
+            <groundspeak:encoded_hints>past the pit the zebra finds room under the broom</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-125.261633" lat="49.90935">
+        <time>2011-08-01T02:00:00.000-05:00</time>
+        <name>OX31B9N</name>
+        <desc>The Baby Menagerie Final Pen by VICMORDA, Unknown Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX31B9N</url>
+        <urlname>The Baby Menagerie Final Pen</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2811225">
+            <groundspeak:name>The Baby Menagerie Final Pen</groundspeak:name>
+            <groundspeak:placed_by>VICMORDA</groundspeak:placed_by>
+            <groundspeak:owner id="58419">VICMORDA</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">The FINAL for this series IS NOT found at these coordinates. Each cache in this series will have a letter and a number on the lid of the cache container. Those numbers will form the REAL coordinates for this cache. A=? B=? C=?   D=? E=? F=?
+To form the coordinates N 49 53.ABC W 125 16.DEF
+
+We recommend that you park at N49.53.785 W125.16.472 along the Inland Highway near Cranberry Road and use the wildlife gate to access this area - Iron River Road does come up here but it is extremely rough.
+.
+This is meant to be a fun cache for the kids to do. Mostly the caches are easy to find. Each cache has an animal pen - PLEASE DO NOT FEED OR REMOVE THE ANIMALS.
+. 
+There is a FTF Certificate in this cache - Please bring your own writin stick.
+Additional Hidden Waypoints
+HIDDEN: FX31B9N - The Baby Menagerie Final Pen
+N/S  __ ° __ . ___ W/E ___ ° __ . ___</groundspeak:long_description>
+            <groundspeak:encoded_hints>The Chimp is in the stump</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-125.34005" lat="50.0449167">
+        <time>2011-08-11T09:31:59.000-05:00</time>
+        <name>OX2XEVW</name>
+        <desc>B11: Hephaestus' Workshop by GRIZZLEBIXX572, Traditional Cache(2.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2XEVW</url>
+        <urlname>B11: Hephaestus' Workshop</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2695477">
+            <groundspeak:name>B11: Hephaestus' Workshop</groundspeak:name>
+            <groundspeak:placed_by>GRIZZLEBIXX572</groundspeak:placed_by>
+            <groundspeak:owner id="51945">GRIZZLEBIXX572</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is part of a two cache series along with the geocache Pandora's Box.
+
+
+Hephaestus was a Greek god whose Roman equivalent was Vulcan. He is the son of Zeus and Hera, the King and Queen of the Gods or else (according to some accounts) of Hera alone. He was the god of technology, blacksmiths, craftsmen, artisans, sculptors, metals, metallurgy, fire and volcanoes. Like other mythic smiths but unlike most other gods, Hephaestus was lame, which gave him a grotesque appearance in Greek eyes. He served as the blacksmith of the gods, and he was worshipped in the manufacturing and industrial centers of Greece, particularly in Athens. Hephaestus's symbols are a smith's hammer, an anvil and a pair of tongs, although sometimes he is portrayed holding an axe.
+
+
+This is Hephaestus' Workshop. Here, Hephaestus built Pandora's Box,
+and here Hephaestus holds The key to Pandora's Box.
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Added a piece of flagging above cache on branch.V isible from trail. Please try to spot it before trampling the area.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-125.745783" lat="50.228917">
+        <time>2011-06-30T02:00:00.000-05:00</time>
+        <name>OX2Z8DB</name>
+        <desc>Spirit Creek by VICMORDA, Traditional Cache(2.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2Z8DB</url>
+        <urlname>Spirit Creek</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2748874">
+            <groundspeak:name>Spirit Creek</groundspeak:name>
+            <groundspeak:placed_by>VICMORDA</groundspeak:placed_by>
+            <groundspeak:owner id="58419">VICMORDA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Right beside the road.
+
+Although not shown on the map, there is a very drivable logging road that runs right from the highway on past this cache. This is a pretty little creek where you may be able to watch salmon spawning in the fall. Cache is in a 6 inch stubby loc n' loc.</groundspeak:long_description>
+            <groundspeak:encoded_hints>under discarded bridge timbers</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

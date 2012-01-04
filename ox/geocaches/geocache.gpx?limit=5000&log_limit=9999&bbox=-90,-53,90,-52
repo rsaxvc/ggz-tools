@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,-53,90,-52</url>
+    <time>2012-01-04T09:28:48.847-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="-52.0" maxlat="90.0" minlon="-53.0" minlat="-90.0"/>
+    <wpt lon="-52.7057667" lat="47.6996333">
+        <time>2011-09-25T10:48:57.000-05:00</time>
+        <name>OX30YVP</name>
+        <desc>Round Rocks in Flatrock by maxyyt, Traditional Cache(2.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX30YVP</url>
+        <urlname>Round Rocks in Flatrock</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2799260">
+            <groundspeak:name>Round Rocks in Flatrock</groundspeak:name>
+            <groundspeak:placed_by>maxyyt</groundspeak:placed_by>
+            <groundspeak:owner id="59892">maxyyt</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is hidden on Flatrock beach. You can park at the play ground then walk across the road to the cache. You may have to scramble across some rocks for the last few feet. 
+
+NOTE: This cache may not be accessible in the winter or in stormy weather, be sure to check for waves before going on the beach as they can reach higher than you were expecting.
+
+This cache is a plastic container hidden in some rocks. The cache has a piece of rope attached to it that can be used to retrieve the cache from its hiding spot. At the time of placement the cache contained a travel tag, some pins, an alen key and a bean bag.</groundspeak:long_description>
+            <groundspeak:encoded_hints>under rocks, wood</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.5</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Use Stealth</ox:tag>
+                <ox:tag>Family Friendly</ox:tag>
+                <ox:tag>Nice View</ox:tag>
+                <ox:tag>not available in stormy weather or snow</ox:tag>
+                <ox:tag>Plenty Of Parking Available</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+</gpx>

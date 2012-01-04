@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,-101,90,-100</url>
+    <time>2012-01-04T09:25:50.829-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="-100.0" maxlat="90.0" minlon="-101.0" minlat="-90.0"/>
+    <wpt lon="-100.20005" lat="30.443067">
+        <time>2011-01-30T02:00:00.000-06:00</time>
+        <name>OX2MNZ1</name>
+        <desc>William's Pit Stop by SKNIGHT579, Traditional Cache(2.5/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2MNZ1</url>
+        <urlname>William's Pit Stop</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2463974">
+            <groundspeak:name>William's Pit Stop</groundspeak:name>
+            <groundspeak:placed_by>SKNIGHT579</groundspeak:placed_by>
+            <groundspeak:owner id="7383">SKNIGHT579</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Welcome to Williams pit stop, meant to be access from the small
+road south of the cache not the interstate.&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+A view from the parking location a few years back at
+sunset.
+ &lt;br/&gt;&lt;br/&gt; When my son was an infant and we went to San Antonio he would every
+time like clock work both going and coming from San Antonio wake up
+and want to be fed just before we got to this location.&lt;br/&gt;
+&lt;br/&gt;
+So of course I had to place a cache here! Should be a fairly easy
+grab I hope you enjoy.&lt;br/&gt;
+&lt;br/&gt;
+Recommended Parking: N 30 26.559, W 100 12.025</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-100.745067" lat="30.616167">
+        <time>2006-07-30T02:00:00.000-05:00</time>
+        <name>OXXEK5</name>
+        <desc>Watch your Step! by SKNIGHT579, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXXEK5</url>
+        <urlname>Watch your Step!</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="848196">
+            <groundspeak:name>Watch your Step!</groundspeak:name>
+            <groundspeak:placed_by>SKNIGHT579</groundspeak:placed_by>
+            <groundspeak:owner id="7383">SKNIGHT579</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Watch your Step!
+
+At a rest stop just outside of Sonora (west bound) I drive through
+here fairly often and decided that it really needed something
+here.&lt;br/&gt;
+&lt;br/&gt;
+Camo'd 35mm container, only the log is in it, bring your own
+pen.&lt;br/&gt;
+&lt;br/&gt;
+They have a wireless hot spot here now, so if you have the ability,
+log onto the internet and log it while your there!
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Pets gotta potty too! (sign..)</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Available at all times</ox:tag>
+                <ox:tag>Public restrooms nearby</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Motorcycles</ox:tag>
+                <ox:tag>Dogs</ox:tag>
+                <ox:tag>Truck Driver/RV</ox:tag>
+                <ox:tag>Picnic tables nearby</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-100.4388833" lat="37.1710167">
+        <time>2011-05-24T03:00:00.000-05:00</time>
+        <name>OX2WX9M</name>
+        <desc>Meade 2011 by KDWPT, Multi-cache(1.5/2.9/2.9)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2WX9M</url>
+        <urlname>Meade 2011</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="2678606">
+            <groundspeak:name>Meade 2011</groundspeak:name>
+            <groundspeak:placed_by>KDWPT</groundspeak:placed_by>
+            <groundspeak:owner id="32678">KDWPT</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Welcome to Meade State Park and the 2011 KWPT State Parks Challenge! This multi-cache is part of a state-wide contest with a total of 31 participating State Parks and Wildlife Areas. The contest ends on November 1, 2011, and only Official KWPT Challenge caches are eligible for this statewide contest.  Normal park access fees apply. 
+
+See the KWPT webpage http://kdwp.state.ks.us/news/Other-Services/Outdoor-Activities/Geocaching for specific details and instructions.
+
+
+Meade State Park was originally carved out of the Turkey Track Ranch in 1927.  Meade State park rests in the High Plains of southwest Kansas, just west of the Red Hills, 8 miles south and 5 miles west of Meade on Highway 23.  The state park and wildlife area comprise 803 acres of land and water.  The park features overnight camping, with or without electrical and water hook-ups.  The lake is surrounded by many trees that provide shade for camping and picnicking.  In the 80 acre lake, bluegill, channel cat, crappie and large mouth bass are plentiful and provide excellent opportunities for the angler.   A boat dock is available for the unloading of boats.  A swimming beach area has been marked off.   For nature lovers who like to identify various different trees, grasses, flowers and birds, a nature trail has been marked at the northwest corner of the lake.  Meade State Park is happy to have group gatherings at the park.
+
+The posted coordinates will take you to the first part of a two-stage multi-cache. This container will be marked &quot;First Geocache&quot; where you will discover a logbook to sign, and the coordinates to the second stage. Once you find the container marked &quot;Second Geocache&quot;, sign the logbook, take a certificate, and then record your find here. Please do not share coordinates or coupons with other players, and make sure your signature in the logbook matches your online user name! Keep all of your certificates together as you travel across our beautiful state completing the Challenge. At the end of the Challenge, mail your entry forms and all collected certificates to KWPT to become eligible for prizes such as camping permits, annual park permits, and more. Completed entry forms and all collected certificates must be received by KWPT by November 1, 2011. See the KWPT webpage http://kdwp.state.ks.us/news/Other-Services/Outdoor-Activities/Geocaching for complete details and instructions.
+
+Additional Waypoints  </groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1374258">
+                    <groundspeak:date>2011-07-02T00:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2959">chubby077</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.9</ox:size>
+                <ox:terrain>2.9</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Public restrooms nearby</ox:tag>
+                <ox:tag>Access or parking fee</ox:tag>
+                <ox:tag>Picnic tables nearby</ox:tag>
+                <ox:tag>Poison plants</ox:tag>
+                <ox:tag>Camping available</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Scenic view</ox:tag>
+                <ox:tag>Ticks</ox:tag>
+            </ox:tags>
+            <ox:series id="10260">
+                <ox:name>2011 Kansas State Park Challenge</ox:name>
+            </ox:series>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-100.8868333" lat="37.9605833">
+        <time>2011-02-20T12:05:21.000-06:00</time>
+        <name>OX2P3FW</name>
+        <desc>Wide Open Space by Alveoli, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2P3FW</url>
+        <urlname>Wide Open Space</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2505819">
+            <groundspeak:name>Wide Open Space</groundspeak:name>
+            <groundspeak:placed_by>Alveoli</groundspeak:placed_by>
+            <groundspeak:owner id="12388">Alveoli</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache will cast back light.
+
+Be mindful of muggles at different times of the year at this location. Please bring a pen to sign log. Only enough space for log. Happy caching.
+
+Please put cache back to original position for the next cacher. Thank you.
+</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-100.85735" lat="37.984">
+        <time>2010-12-10T10:30:22.000-06:00</time>
+        <name>OXZTXX5</name>
+        <desc>Garden Site by ironj679, Traditional Cache(1.1/1.1/2.9)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTXX5</url>
+        <urlname>Garden Site</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28478186">
+            <groundspeak:name>Garden Site</groundspeak:name>
+            <groundspeak:placed_by>ironj679</groundspeak:placed_by>
+            <groundspeak:owner id="3886">ironj679</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Very easy cache... in a vacant lot
+
+The cache is in a big tin can, contents incude : Orange Botle Opener, Wee Clip (for chips), I love my kitchen fridge magnet, Nail file kit, Gardeion Angel key chain, Yellow Car, Blue Pog Slammer, 25 cents Belize.</groundspeak:long_description>
+            <groundspeak:encoded_hints>in a basket</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="629173">
+                    <groundspeak:date>2010-12-10T10:32:49.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3886">ironj679</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>1.1</ox:difficulty>
+                <ox:size>4.2</ox:size>
+                <ox:terrain>1.1</ox:terrain>
+            </ox:ratings>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-100.8843333" lat="38.00525">
+        <time>2011-02-16T18:26:54.000-06:00</time>
+        <name>OX2NJZ9</name>
+        <desc>24 Hour Cache by Alveoli, Traditional Cache(2.5/1.0/3.1)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2NJZ9</url>
+        <urlname>24 Hour Cache</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2490890">
+            <groundspeak:name>24 Hour Cache</groundspeak:name>
+            <groundspeak:placed_by>Alveoli</groundspeak:placed_by>
+            <groundspeak:owner id="12388">Alveoli</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is not a typical cache container. Please bring your own pen to sign log, only space for log. Feel free to grab a drink after locating cache.
+
+This cache is available 24 hours a day. You will have to be on your toes for this one. I did get permission from the property owner. They are aware of geocachers and understand that people might be wondering around like they are lost, but I informed them that they are not lost, they are geocaching. </groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1397756">
+                    <groundspeak:date>2011-03-12T00:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7383">SKNIGHT579</groundspeak:finder>
+                    <groundspeak:text encoded="False">While heading back home from Mingo me and grumpyoldtexan are picking up some caches along the way and the page on this one intrigued me so we just had to stop.  Took alittle looking but I finally spotted what I was looking for.  Very neat idea quite enjoyed it.  Thanks for the cache!</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.1</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.9</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-100.9192" lat="38.6663667">
+        <time>2011-05-24T03:00:00.000-05:00</time>
+        <name>OX2WXCQ</name>
+        <desc>Scott 2011 by KDWPT, Multi-cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2WXCQ</url>
+        <urlname>Scott 2011</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="2678702">
+            <groundspeak:name>Scott 2011</groundspeak:name>
+            <groundspeak:placed_by>KDWPT</groundspeak:placed_by>
+            <groundspeak:owner id="32678">KDWPT</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Welcome to Scott State Park and the 2011 KWPT State Parks Challenge! This multi-cache is part of a state-wide contest with a total of 31 participating State Parks and Wildlife Areas. The contest ends on November 1, 2011, and only Official KWPT Challenge caches are eligible for this statewide contest.  Normal park access fees apply. 
+
+See the KWPT webpage http://kdwp.state.ks.us/news/Other-Services/Outdoor-Activities/Geocaching for specific details and instructions.
+
+
+Rich in history, this park provides an ideal setting for camping, boating, swimming, hiking, hunting, fishing, and wildlife observation.  The Steele home, the dwelling of the original settlers on the area, has been preserved much as it was 100 years ago.  The park also boasts the northernmost pueblo in the U. S. - El Cuartelejo.  Hidden in the western Kansas prairie, Scott State Park is a startling oasis of natural springs, deep wooded canyons, and craggy bluffs.  The 1,020-acre park surrounds the 100-acre, spring fed Scott State Fishing Lake.  Nature trails accommodate hikers, horseback riders, and naturalists and provide excellent opportunities to observe wildlife in natural habitats.  Wild turkey, deer, bobcat and beaver are common in the area.  A horse camp area provides amenities for equestrian visitors.
+
+The posted coordinates will take you to the first part of a two-stage multi-cache. This container will be marked &quot;First Geocache&quot; where you will discover a logbook to sign, and the coordinates to the second stage. Once you find the container marked &quot;Second Geocache&quot;, sign the logbook, take a certificate, and then record your find here. Please do not share coordinates or coupons with other players, and make sure your signature in the logbook matches your online user name! Keep all of your certificates together as you travel across our beautiful state completing the Challenge. At the end of the Challenge, mail your entry forms and all collected certificates to KWPT to become eligible for prizes such as camping permits, annual park permits, and more. Completed entry forms and all collected certificates must be received by KWPT by November 1, 2011. See the KWPT webpage http://kdwp.state.ks.us/news/Other-Services/Outdoor-Activities/Geocaching for complete details and instructions.
+
+Additional Waypoints  </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Camping available</ox:tag>
+                <ox:tag>Picnic tables nearby</ox:tag>
+                <ox:tag>Public restrooms nearby</ox:tag>
+                <ox:tag>Scenic view</ox:tag>
+                <ox:tag>Access or parking fee</ox:tag>
+            </ox:tags>
+            <ox:series id="10260">
+                <ox:name>2011 Kansas State Park Challenge</ox:name>
+            </ox:series>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-100.5844667" lat="46.5126833">
+        <time>2011-11-22T13:56:33.000-06:00</time>
+        <name>OXZTNED</name>
+        <desc>Fort Rice Camp Area by eyeinthesky, Traditional Cache(3.5/3.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTNED</url>
+        <urlname>Fort Rice Camp Area</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28471033">
+            <groundspeak:name>Fort Rice Camp Area</groundspeak:name>
+            <groundspeak:placed_by>eyeinthesky</groundspeak:placed_by>
+            <groundspeak:owner id="20957">eyeinthesky</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Fort Rice Camping Area 
+
+
+This area is full of history. First and most recently is this Geocache located on County Camp area. Originally this was a North Dakota state highway rest stop built around 1970. It was closed and unused for several years until ownership was transferred to Morton County Parks about the year 2000. Several more years of planning and construction resulted in a popular camp area.
+ Across the fence line is the site of “Fort Rice” military POST established 7/7/1864 by General Alfred H Sully as a field base for several expeditions. Named for General James C Rice who died during the Civil War. Fort rice was the first and one of the most important military POSTs on the upper Missouri River serving many expeditions up to 11/25/1878 when it was abandoned. In 1913 the State of North Dakota acquired Fort Rice military POST and in 1940 WPA (Works Progress Administration) marked the Foundations and corners of the buildings. Short history and map is on a site marker in the historic site. Also near this location is the Fort Rice military Cemetery. Enjoy this area while you search for a micro-Geocache, bring a pencil to sign the log.</groundspeak:long_description>
+            <groundspeak:encoded_hints>not located on the historical site property</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>1.6</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Camping available</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-100.8187833" lat="46.8310167">
+        <time>2011-11-27T09:18:42.000-06:00</time>
+        <name>OX19H55</name>
+        <desc>Discover Bismarck/Mandan by dakota cachers, Traditional Cache(1.6/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX19H55</url>
+        <urlname>Discover Bismarck/Mandan</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1208137">
+            <groundspeak:name>Discover Bismarck/Mandan</groundspeak:name>
+            <groundspeak:placed_by>dakota cachers</groundspeak:placed_by>
+            <groundspeak:owner id="73698">dakota cachers</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is located on the grounds of the Bismarck Mandan Convention and Visitors Bureau. The cache is a large style ammo can painted green with the Geocaching logo on the side.
+ 
+
+Feel free to stop in the visitors center during normal business hours to see what the BisMan area has to offer. While your there check out the really cool Steam Ship replica. When placed this cached contained the following: FTF Gift is a Geocaching Journal that we hope you will enjoy. Kids Survival Pack CD Holder Sewing Kit Fleece Head Cover Slinky Flashlight 4 Pack AA Batteries Outdoor Survival Book Tape Measure Electronic Soduko Game SD Pencil Burz Off Lewis and Clark Book Hackey Sack Log Book and Pen
+ </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>3.7</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-100.8176833" lat="46.83285">
+        <time>2011-11-27T09:12:17.000-06:00</time>
+        <name>OX212TA</name>
+        <desc>CITO IGOE  by dakota cachers, Traditional Cache(2.0/1.4/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX212TA</url>
+        <urlname>CITO IGOE </urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1879540">
+            <groundspeak:name>CITO IGOE </groundspeak:name>
+            <groundspeak:placed_by>dakota cachers</groundspeak:placed_by>
+            <groundspeak:owner id="73698">dakota cachers</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Nice little park located in Bismarck. Should be a nice little park and grab, then again, maybe not.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.4</ox:size>
+                <ox:terrain>1.4</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-100.7533" lat="46.8382667">
+        <time>2011-11-27T09:06:33.000-06:00</time>
+        <name>OX18YXB</name>
+        <desc>Path of the Century  by dakota cachers, Traditional Cache(2.5/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX18YXB</url>
+        <urlname>Path of the Century </urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1190597">
+            <groundspeak:name>Path of the Century </groundspeak:name>
+            <groundspeak:placed_by>dakota cachers</groundspeak:placed_by>
+            <groundspeak:owner id="73698">dakota cachers</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is what some call an Evil Blinkie. The size is 7/16&quot; tall x 5/16&quot; in diameter.
+ 
+
+This should be a quick and easy grab. There is no need to climb the structure. We hope you enjoy the view from this cache. Please bring your own pencil or pen to sign the log sheet.
+ </groundspeak:long_description>
+            <groundspeak:encoded_hints>to easy for a hint </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>1.6</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-100.8851667" lat="46.8403333">
+        <time>2011-11-22T14:36:07.000-06:00</time>
+        <name>OXZTNE9</name>
+        <desc>Bill Boardwalk by eyeinthesky, Traditional Cache(2.6/2.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTNE9</url>
+        <urlname>Bill Boardwalk</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28471029">
+            <groundspeak:name>Bill Boardwalk</groundspeak:name>
+            <groundspeak:placed_by>eyeinthesky</groundspeak:placed_by>
+            <groundspeak:owner id="20957">eyeinthesky</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Easy quick GeoCache site. Take your camera for possible wildlife photo-ops 
+
+
+Somewhere between rural and urban this trail takes you past trees, a pond, some farm land and a highway. Cache contains Log, pencil, and a few lapel pins.</groundspeak:long_description>
+            <groundspeak:encoded_hints>You wont be shocked when you find this Geocache</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>bike path</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-100.7780167" lat="46.8508">
+        <time>2011-11-27T08:58:59.000-06:00</time>
+        <name>OX28M45</name>
+        <desc>843 by dakota cachers, Traditional Cache(1.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX28M45</url>
+        <urlname>843</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2104719">
+            <groundspeak:name>843</groundspeak:name>
+            <groundspeak:placed_by>dakota cachers</groundspeak:placed_by>
+            <groundspeak:owner id="73698">dakota cachers</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This should be a pretty simple ammo box, filled with treasures. We decided to put out something a little bigger then our normal difficult caches, and set out a larger fun cache for everyone to find. Dont mind the dogs barking, they are friendly. If we are here, we will probably come out to chat, so dont be suprised if we appear. This cache is not available at night, so please no after dark excursions to log this one.
+ 
+
+Congrats to Dakotagray for being FTF and braving the bears. </groundspeak:long_description>
+            <groundspeak:encoded_hints>Bear is watching you </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>3.7</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-100.89605" lat="46.85785">
+        <time>2011-11-22T13:49:55.000-06:00</time>
+        <name>OXZTNEE</name>
+        <desc>Refined Lewis &amp; Clark Trail by eyeinthesky, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTNEE</url>
+        <urlname>Refined Lewis &amp; Clark Trail</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28471034">
+            <groundspeak:name>Refined Lewis &amp; Clark Trail</groundspeak:name>
+            <groundspeak:placed_by>eyeinthesky</groundspeak:placed_by>
+            <groundspeak:owner id="20957">eyeinthesky</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Lewis &amp; Clark Bike Path 
+
+
+The Corps of Discovery Lewis and Clark Expedition traveled along the Missouri River in 1806. This tribute bike trail parallels North Dakota highway 1806 north of Mandan. As you journey toward your goal, watch for deer and geese among the wildlife inside the fence. You won’t see a Decoy on this 640 acres of habitat provided and maintained by Tesoro Refinery, Industry in Harmony with Nature</groundspeak:long_description>
+            <groundspeak:encoded_hints>No hints needed</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>bike path</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-100.9322833" lat="46.8589667">
+        <time>2011-11-22T14:28:17.000-06:00</time>
+        <name>OXZTNEA</name>
+        <desc>Third Signal by eyeinthesky, Multi-cache(3.5/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTNEA</url>
+        <urlname>Third Signal</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="28471030">
+            <groundspeak:name>Third Signal</groundspeak:name>
+            <groundspeak:placed_by>eyeinthesky</groundspeak:placed_by>
+            <groundspeak:owner id="20957">eyeinthesky</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The life line to the west describes this site best.
+ Third Signal is rather easy terrain and difficulty rated. 
+
+
+History is revisited at this clickity-clack location.
+ You will see lights of green, yellow and red,
+ along with boxes, tanks and beds.
+ Tons of wood and steel within your vision,
+ a look back at the past if you stop, look and listen.
+ 
+This cache is a plastic pint jar that contained these items when placed. pencil and log book, 3 tooth pick umbrellas, golf tee, dinosaur toy, necklace bead, plastic lucky clover, sea-horse, sponge bob charm, marble, friendship bracelet, four leaf clover coin and several North Dakota State history information sheets</groundspeak:long_description>
+            <groundspeak:encoded_hints>Look on the cars trucks</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>3.6</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Museum</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+</gpx>

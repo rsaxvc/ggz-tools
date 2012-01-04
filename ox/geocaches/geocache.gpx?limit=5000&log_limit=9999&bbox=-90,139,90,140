@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,139,90,140</url>
+    <time>2012-01-04T09:33:04.168-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="140.0" maxlat="90.0" minlon="139.0" minlat="-90.0"/>
+    <wpt lon="139.6193167" lat="-34.2703667">
+        <time>2010-10-23T02:00:00.000-05:00</time>
+        <name>OX2H4RV</name>
+        <desc>How Strong are your Arms!!! by FIRESAFE, Traditional Cache(1.6/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2H4RV</url>
+        <urlname>How Strong are your Arms!!!</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2358103">
+            <groundspeak:name>How Strong are your Arms!!!</groundspeak:name>
+            <groundspeak:placed_by>FIRESAFE</groundspeak:placed_by>
+            <groundspeak:owner id="921">FIRESAFE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">........ or you could find this cache on a weekend and watch the
+Scouts take off and land gliders at the nearby airfield which is
+the entrance you are now standing at.&lt;br/&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;br/&gt;
+The Scout Air Activities Centre is a Scout Activity Centre,
+Campsite, located in scrubland near Blanchetown, approximately
+150kms from Adelaide.&lt;br/&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;br/&gt;
+Combine the thrills of a flying experience, with an idyllic bush
+camp surrounded by wombats, kangaroos and birds, and sunsets to die
+for with unspoilt clear skies full of stars, and you have the Scout
+Air Activities Centre!
+&lt;p&gt;&lt;br/&gt;
+Who says Scouts cant have fun .....&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>check the rocks at the back of the drums</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="139.0437833" lat="-34.5068833">
+        <time>2010-06-23T02:00:00.000-05:00</time>
+        <name>OX2ANTC</name>
+        <desc>Whats the Score .... by FIRESAFE, Traditional Cache(2.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2ANTC</url>
+        <urlname>Whats the Score ....</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2165920">
+            <groundspeak:name>Whats the Score ....</groundspeak:name>
+            <groundspeak:placed_by>FIRESAFE</groundspeak:placed_by>
+            <groundspeak:owner id="921">FIRESAFE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Facilities at the Park:
+
+    * Show Hall
+    * Oval
+    * Lawn Area 
+    * Dressing Room
+    * Tennis Courts (6)
+    * Netball Courts (3)
+    * Centenary Building with Changeroom and Kitchenette
+    * Football Clubrooms 
+
+A number of major events are held here including Rallies so it may be a challenge to grab this one at times ......</groundspeak:long_description>
+            <groundspeak:encoded_hints>Sign of the times ...</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1196470">
+                    <groundspeak:date>2011-04-02T17:21:21.000-05:00</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="15915">necrosymbiont</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="139.3493167" lat="-34.5334167">
+        <time>2008-04-27T02:00:00.000-05:00</time>
+        <name>OX1BMTP</name>
+        <desc>Off-Road Sedan by FIRESAFE, Traditional Cache(1.6/1.7/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1BMTP</url>
+        <urlname>Off-Road Sedan</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1271239">
+            <groundspeak:name>Off-Road Sedan</groundspeak:name>
+            <groundspeak:placed_by>FIRESAFE</groundspeak:placed_by>
+            <groundspeak:owner id="921">FIRESAFE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">A local farmer called Louie thought that one of his paddocks would make a good off road race track with a hill in the middle for viewing, some creeks and plenty of open land. So he made one for a one off event.&lt;br/&gt;&lt;br/&gt;That first event was so successful that it is used by the Gawler Road Knights Road Club for regular events as well as the Rover Scouts for their Sand Blast.&lt;br/&gt;&lt;br/&gt;If you keep an eye on the CAMS calendar you may be able to spot an event in action. 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Bend the knees and back to find this one - base of tree</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.7</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="139.3371833" lat="-34.5630667">
+        <time>2009-10-11T02:00:00.000-05:00</time>
+        <name>OX1ZPC0</name>
+        <desc>Sedan Broken Dreams by FIRESAFE, Traditional Cache(2.0/2.0/2.9)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1ZPC0</url>
+        <urlname>Sedan Broken Dreams</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1838765">
+            <groundspeak:name>Sedan Broken Dreams</groundspeak:name>
+            <groundspeak:placed_by>FIRESAFE</groundspeak:placed_by>
+            <groundspeak:owner id="921">FIRESAFE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br/&gt;
+ Historically Sedan was a place to pass through. With no surface
+water it was only visited seasonally by Aborigines who lived along
+the River Murray or those who lived in the hills. White settlers
+lived seasonally in little huts that dotted the countryside. &lt;br/&gt;
+ &lt;br/&gt;
+ They visited in the spring and winter, fed their stock and
+returned to the hills when the feed ran out. The Overlanders, using
+the ‘Old Sydney Track’, which was the stock route between the
+Eastern States and Adelaide, passed through Sedan. &lt;br/&gt;
+ &lt;br/&gt;
+The Hundred of Bagot was proclaimed on the 19th of April 1860. It
+was one of the many land releases of the time, relieving pressure
+on the Adelaide Plains and Hills for the developing Colony. People
+were then able to cultivate the land and settle permanently. &lt;br/&gt;
+ &lt;br/&gt;
+Early settlers were the Germans, seeking religious freedom, from
+Silesia and the British who sought better living conditions. The
+town is surrounded by dry-stone wall structures built by these
+early settlers. &lt;br/&gt;
+ &lt;br/&gt;
+The nearby structure is one of the many structures that still stand
+as a testament to the conditions of the early settlers.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Low and Central</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1305525">
+                    <groundspeak:date>2011-07-02T09:30:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7271">AptyOC</groundspeak:finder>
+                    <groundspeak:text encoded="False">Nice ruin. We were specifically in this area looking for caches near ruins so Ingrid could photograph them. TFTC
+Logged via OpenCaching for iPhone</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="316602">
+                    <groundspeak:date>2009-11-29T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3140">DAZZATRON</groundspeak:finder>
+                    <groundspeak:text encoded="False">Thsi cache marks my 950th cache so hopefully I will break the 1000th this year. Nice spot for a cache. TFTC Firesafe</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="139.33695" lat="-34.5706333">
+        <time>2008-03-21T02:00:00.000-05:00</time>
+        <name>OX1ACM9</name>
+        <desc>Air Sedan by FIRESAFE, Traditional Cache(1.7/1.7/2.9)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1ACM9</url>
+        <urlname>Air Sedan</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1233592">
+            <groundspeak:name>Air Sedan</groundspeak:name>
+            <groundspeak:placed_by>FIRESAFE</groundspeak:placed_by>
+            <groundspeak:owner id="921">FIRESAFE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The Sedan Airfield was originally used by Judge Lewis who used to fly to Tonga. He taught the Prince of Tonga to fly and was the Chief Justice for the Kingdom of Tonga. He has since retired and the airfield is owned by some one else.&lt;br/&gt;&lt;br/&gt;But don't try to land your own plane on this one - it is a private airstrip and visitors on the strip are not welcome.&lt;br/&gt;&lt;br/&gt;The cache is located in the roadside verge, on a well maintained dirt road. 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Bend the back and knees to seek.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1305524">
+                    <groundspeak:date>2011-07-03T01:53:03.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7271">AptyOC</groundspeak:finder>
+                    <groundspeak:text encoded="False">No sign of air planes today - I'm guessing there's not a lot of international flights coming in :oP
+TFTC
+Logged via OpenCaching for iPhone</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="316037">
+                    <groundspeak:date>2009-11-29T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3140">DAZZATRON</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found on the way back from Loxton to the &quot;Christmas By The Lake&quot; Event. Quick find then down the road to the next cache. TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>1.7</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.7</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="139.29105" lat="-34.57745">
+        <time>2009-04-10T02:00:00.000-05:00</time>
+        <name>OX1PP8X</name>
+        <desc>Up There Sedan by FIRESAFE, Traditional Cache(1.6/1.7/2.9)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1PP8X</url>
+        <urlname>Up There Sedan</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1600341">
+            <groundspeak:name>Up There Sedan</groundspeak:name>
+            <groundspeak:placed_by>FIRESAFE</groundspeak:placed_by>
+            <groundspeak:owner id="921">FIRESAFE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Third in the &quot;Around Sedan&quot; Series.&lt;br/&gt;&lt;br/&gt;This cache can be found near the Sedan - Cambrai Football Club.&lt;br/&gt;&lt;br/&gt;Some Facts on the Football club which wears Magpie Colours.&lt;br/&gt;&lt;br/&gt;Timeline :&lt;br/&gt;1947 - Barossa &amp; Murray Valley FA : Sedan-Cambrai participated.&lt;br/&gt;1948 - Barossa Plains FL Grand Final : Truro defeated Sedan-Cambrai.&lt;br/&gt;1955 - Barossa Plains FL : Sedan-Cambrai participated.&lt;br/&gt;1967 - Hills FL Northern Zone : Sedan-Cambrai were a founding club.&lt;br/&gt;1968-71 - Hills FL Northern Zone : Sedan-Cambrai participated.&lt;br/&gt;1972 - Hills FL Division 2 : Sedan-Cambrai participated.&lt;br/&gt;1974 - Hills FL Division 2 : Sedan-Cambrai participated.&lt;br/&gt;1985 - Mid-Murray FA : Sedan-Cambrai commenced.&lt;br/&gt;1986-93 - Mid-Murray FA : Sedan-Cambrai participated.&lt;br/&gt;1994 - Mid-Murray FA Grand Final : Perponda defeated Sedan-Cambrai.&lt;br/&gt;1995-96 - Mid-Murray FA : Sedan-Cambrai participated.&lt;br/&gt;&lt;br/&gt;1997 : &lt;br/&gt;Wunkar Carnival - Sedan-Cambrai won the carnival.&lt;br/&gt;Mid-Murray FA - Sedan-Cambrai participated.&lt;br/&gt;&lt;br/&gt;1998 - Mid-Murray FA : Sedan-Cambrai were premiers.&lt;br/&gt;1999 - Mid-Murray FA : Sedan-Cambrai participated.&lt;br/&gt;2000 - Mid-Murray FA Grand Final : Sedan-Cambrai defeated Robertstown.&lt;br/&gt;2001 - Mid-Murray FA : Sedan-Cambrai participated.&lt;br/&gt;&lt;br/&gt;2002 (Mid-Murray FA) :&lt;br/&gt;Sedan-Cambrai were 4th after H&amp;As.&lt;br/&gt;First Semi-Final - Sedan-Cambrai 10.19.79 defeated Morgan-Cadell 10.9.69 @ Ramco.&lt;br/&gt;Preliminary Final - Ramco 11.9.75 defeated Sedan-Cambrai 7.9.51 @ Robertstown.&lt;br/&gt;&lt;br/&gt;2003 :&lt;br/&gt;Wunkar Carnival Division 2 - Sedan-Cambrai participated.&lt;br/&gt;Mid-Murray FA - Sedan-Cambrai participated.&lt;br/&gt;&lt;br/&gt;2004 - Mid-Murray FA : Sedan-Cambrai participated. 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1305523">
+                    <groundspeak:date>2011-07-03T00:46:28.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7271">AptyOC</groundspeak:finder>
+                    <groundspeak:text encoded="False">Out for the day in Sedan area, specifically to grab the &quot;Come Renovate ... &quot; series and hopefully the power trail.
+TFTC firesafe :o)
+Logged via OpenCaching for iPhone</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="316149">
+                    <groundspeak:date>2009-11-29T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3140">DAZZATRON</groundspeak:finder>
+                    <groundspeak:text encoded="False">Was a quick drive by if the cars would stop going by I think everyone in the area was on the road today seemed like 30 cars (Slight exaggeration) went passed before I could cross the road to get the cache. Thanks again Firesafe</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.7</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="139.216" lat="-34.7531833">
+        <time>2010-06-23T02:00:00.000-05:00</time>
+        <name>OX2APNX</name>
+        <desc>Three Chain Pioneers by FIRESAFE, Traditional Cache(1.6/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2APNX</url>
+        <urlname>Three Chain Pioneers</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2166773">
+            <groundspeak:name>Three Chain Pioneers</groundspeak:name>
+            <groundspeak:placed_by>FIRESAFE</groundspeak:placed_by>
+            <groundspeak:owner id="921">FIRESAFE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The Sanderston cemetery is located approximately 500 on the right from the intersection of Mount Pleasant/Walker Flat road and Three Chain Road. 
+
+Set well back from the road it is surrounded by a rabbit proof fence.
+
+ The reserve has been surveyed and 67 native plants and 12 introduced species have been identified. Because of the rabbit proof fence, one variety which is no longer in the area, the 'Kangaroo Grass' flourishes. 
+
+It once covered a large are of the hlls, but the rabbits have completely eradicated it. This grass may on seasonal occations show rapid growth in the cemetery area and create some untidyness. 
+
+Please understand the need to preserve it.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Dont get tyred ...</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="139.0065333" lat="-34.8411">
+        <time>2009-07-30T02:00:00.000-05:00</time>
+        <name>OX1WJG2</name>
+        <desc>Murray View by FIRESAFE, Traditional Cache(1.7/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1WJG2</url>
+        <urlname>Murray View</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1745674">
+            <groundspeak:name>Murray View</groundspeak:name>
+            <groundspeak:placed_by>FIRESAFE</groundspeak:placed_by>
+            <groundspeak:owner id="921">FIRESAFE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">I was out repairing fence damage this morning after rally cars were doing their &quot;recce&quot; today which is supposed to mean reconnaissance not &quot;wreckie&quot;.
+
+While waiting for the droppers and wire to arrive I looked across and there was a magnificent view with a farm gate saying Murray View. A perfect spot for a cache.
+
+I am not sure if you can see the Murray from here but you couldn't today through the rain and fog.
+
+The steers in the next paddock were friendly and inquisitive.
+
+All I had at the time was an Eclipse tin and you will need to bring your own writing stick. Enjoy the view.</groundspeak:long_description>
+            <groundspeak:encoded_hints>About waist high ...</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1311015">
+                    <groundspeak:date>2011-07-05T06:59:48.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="42894">donlorry</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.7</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="139.7082417" lat="35.6617567">
+        <time>2011-06-14T07:47:37.000-05:00</time>
+        <name>OXZTTXK</name>
+        <desc>National Children's Castle by sawayaka, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTTXK</url>
+        <urlname>National Children's Castle</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28475317">
+            <groundspeak:name>National Children's Castle</groundspeak:name>
+            <groundspeak:placed_by>sawayaka</groundspeak:placed_by>
+            <groundspeak:owner id="34072">sawayaka</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">I hid a cache near the National Children's Castle.
+
+To celebrate the International Year of the Child in 1979, the Ministry of Health (then) initiative by the Children's Center is a large comprehensive built.
+
+Is the management association is shining Shigeru Iku Children Foundation. The hotel has a lobby video library facilities and computer room chamber music, physical education Pureihoru Design Studio, for the healthy development of children, a variety of &quot;play&quot; program offers .
+
+In order to support the welfare of children and various aspects of culture, in addition to children's play area, amphitheater and two theaters and theater Aoyama Aoyama, training room hotel restaurant, child health clinics, childcare facilities, etc. There are complex. 
+
+
+*Taro Okamoto - kodomo no ki (Child's Tree)*
+
+It is sculpture &quot;Child's tree. &quot; of production of Taro Okamoto to would like you to see also. 
+Vigour of the child who grows up and mischievous feeling are very human works in &quot;Child's tree&quot; (1985) that exists in Aoyama's National Children's Castle against &quot;Tower in the sun&quot; (1970) even divine the form that draws features in order that give off a golden gleam in Taro Okamoto's work and a beautiful curve that is. 
+Do the face down of the face on the tip of the branch that extended to eight people as all are seen from children. It seems to be made it to height that the child that it is made to hold in the plinth can get on. 
+
+Please see linked Websites as follows. 
+http://members.jcom.home.ne.jp/nobish/981kodomo.html
+
+
+cache is a small case.
+Please bring a pen to be able to write well.     </groundspeak:long_description>
+            <groundspeak:encoded_hints>The direction where the face of the blue faces.Under the over road step.Diamond Shape Mini Case.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1301071">
+                    <groundspeak:date>2011-06-26T01:42:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="40180">GC.Hidenori</groundspeak:finder>
+                    <groundspeak:text encoded="False">I came shibuya for ARG game casssino,and came this cache before the game.
+
+I got first to find.
+thanks for the cache!
+
+Logged via OpenCaching Android app.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>&quot;Telephone booth&quot; &quot;sign&quot; &quot;map&quot;</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="139.7612" lat="35.6657">
+        <time>2008-12-08T02:00:00.000-06:00</time>
+        <name>OX1JR33</name>
+        <desc>Old Shimbashi Station by LEEWINNIE, Traditional Cache(4.7/1.1/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1JR33</url>
+        <urlname>Old Shimbashi Station</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1482919">
+            <groundspeak:name>Old Shimbashi Station</groundspeak:name>
+            <groundspeak:placed_by>LEEWINNIE</groundspeak:placed_by>
+            <groundspeak:owner id="67991">LEEWINNIE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>4.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">The Old Shimbashi Station reproduces the external appearance of the first Shimbashi Station,the Tokyo terminus of Japan's first railway line opened on 14 October 1872,as faithfully as possible on its original site.The first station building was designed by the American architect R.P.Bridgens(1819-91).Construction started in May 1871 and was completed in December of the same year.Western-style buildings was still rare in Tokyo at that time,but the station's imposing design symbolized Japan's modernization in tandem with the westernized rebuilding of Ginza Dori soon after the opening of the railway.
+
+The Passenger-terminal functions of Shimbashi Station were transferred to the new Tokyo Station when it was opened in 1914 and Shimbashi Station was renamed Shiodome Station and became a freight terminal.The Shimbashi Station name was transferred to Karasumori Station,which still remains as today's Shimbashi Station.In its new role as a freight terminal,Shiodome played a pivotal part in Japan's subsequent economic growth.
+ 
+Unfortunately,the magnificent old station building in Shiodome,which had symbolized Japan's westernization movement during the Meiji period(1868-1912),was destroyed by fire following the Great Kanto Earthquake on 1 September 1923.Renovation works in Shiodome freight terminal from 1934 onwards resulted in the demolition of the old remaining platforms and original structures not destroyed by the 1923 fire.
+Following the closure of Shiodome freight terminal in 1968,archaeological excavations in 1991 led to the discovery of the station site and the unearthing of the platforms and foundations of the first Shimbashi Station building.On 10 December 1996,the Japanese government designated the remains of the station building and part of the platform as the Old Shimbashi Station Historic Site.
+This reproduction of the first station building has been built to conserve and display these historic remains and to commemorate the birthplace of railways in Japan.
+The dotted line shows the extent of the government-designated Old Shimbashi Station Historic Site.
+
+Cache cotainer is a small card cace.
+Please have the pen.
+
+旧新橋停車場は、1872（明治5）年10月14日に開業した日本最初の鉄道ターミナル新橋停車場の駅舎の外観を、当時と同じ位置に、できるだけ忠実に再現したものです。
+新橋停車場駅舎は、アメリカ人R・P・ブリジェンスの設計による木骨石張りの構造で、1871（明治4）年5月に着工、同年12月に完成し、西洋建築がまだ珍しかった時代の東京で、鉄道開業直後に西洋風に整備された銀座通りに向かって、威容を誇っていました。
+1914（大正3）年、新設の東京駅に旅客ターミナルの機能が移り、それまでの烏森（からすもり）駅が新橋の名を引き継いで現在の新橋駅となり、貨物専用駅となった旧駅は汐留駅と改称、物流の大拠点として戦前戦後を通じて東京の経済活動を支えました。
+文明開化の象徴として親しまれていた旧駅舎は、1923（大正12）年9月1日の関東大震災に際して火災のため焼失し、1934（昭和9）年から始まった汐留駅改良工事のため、残存していたプラットホームや構内の初施設も解体されました。
+1986（昭和61）年、汐留駅はその使命を終えて廃止され、敷地の再開発工事に先立つ埋蔵文化財の発掘調査が1991（平成3）年から行われた結果、旧新橋停車場駅舎とプラットホームなど構内の諸施設の礎石が発掘されました。1996（平成8）年12月10日、駅舎とプラットホームの一部の遺構が史跡『旧新橋停車場』として国の指定を受け、この史跡を保護しつつわが国鉄道発祥の往時を偲びために、駅舎を再建することになったものです。
+
+cacheは名刺入れです。
+ペンをお持ちください。 
+
+HA HI HU HE HO </groundspeak:long_description>
+            <groundspeak:encoded_hints>Google maps(Satellite),The stairs,Magnet</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1651602">
+                    <groundspeak:date>2011-10-25T11:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="67991">LEEWINNIE</groundspeak:finder>
+                    <groundspeak:text encoded="False">Hey 
+I can create now..Ha ha.
+</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="296860">
+                    <groundspeak:date>2010-10-12T00:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3076">Romanese</groundspeak:finder>
+                    <groundspeak:text encoded="False">#5 2010-10-12 03:57
+We found the cache on our Ginza tour. T4TC.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="269045">
+                    <groundspeak:date>2010-03-28T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="748">ATSTGM</groundspeak:finder>
+                    <groundspeak:text encoded="False">I found it!
+TNLNSL, TFTC!
+
+=== Japanese ===
+takateru¿¿¿¿¿¿¿¿¿¿
+¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
+¿¿¿¿¿¿¿¿¿¿!
+¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
+
+Syosuke¿¿¿¿¿¿¿¿¿¿¿¿¿¿!
+¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
+¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
+</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>4.7</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>1.1</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,173,90,174</url>
+    <time>2012-01-04T09:33:15.457-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="174.0" maxlat="90.0" minlon="173.0" minlat="-90.0"/>
+    <wpt lon="173.0100667" lat="-41.1344167">
+        <time>2011-02-16T11:32:21.000-06:00</time>
+        <name>OX2NTH4</name>
+        <desc>How Long is a piece of string by STRETCH0, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2NTH4</url>
+        <urlname>How Long is a piece of string</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2497209">
+            <groundspeak:name>How Long is a piece of string</groundspeak:name>
+            <groundspeak:placed_by>STRETCH0</groundspeak:placed_by>
+            <groundspeak:owner id="12575">STRETCH0</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Have you ever wondered how long is a piece of string??? You had better come and check this one out then :-) Almost a drive by cache.
+
+Cache contains logs only and there is no room for pens or swaps so bring your own pen </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>1.6</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>small park</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="173.2402333" lat="-41.31385">
+        <time>2011-03-05T14:56:51.000-06:00</time>
+        <name>OX19D28</name>
+        <desc>A Walk in the Park (Nelson/Marlborough) by Kiwi_Explorer, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX19D28</url>
+        <urlname>A Walk in the Park (Nelson/Marlborough)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1204203">
+            <groundspeak:name>A Walk in the Park (Nelson/Marlborough)</groundspeak:name>
+            <groundspeak:placed_by>Kiwi_Explorer</groundspeak:placed_by>
+            <groundspeak:owner id="10284">Kiwi_Explorer</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is a simple cache in a lovely park south of Nelson. Nearby is a picnic table and seats which would make a great spot for a caching lunch stop. The cache is a 2Lt camo painted sistema container with the usual log, pencil and swaps.
+
+The cache is just off the track, and one step away. Please do not trample any plants as there is no need to search far and wide. This should be an very easy find as the GPS coverage is good if you approach from open ground. Please recover the cache so that it is not visible.
+
+Update: 11/11/09 cache missing and replaced, no trackables in this one please just in case the hiding spot has been compromised. You may need to take two steps off the track to reach the cache now.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1097422">
+                    <groundspeak:date>2008-07-22T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="11424">PSYCHRN</groundspeak:finder>
+                    <groundspeak:text encoded="False">Not far from our &quot;:home&quot; base while we were in town.
+So had to give this a go.
+Easy as thanks</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="231651">
+                    <groundspeak:date>2008-07-18T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2620">Bitsprayer</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found at night, great park for a cache.
+
+Many Thanks Bitsprayer</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="323022">
+                    <groundspeak:date>2008-03-15T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3280">beltfamily</groundspeak:finder>
+                    <groundspeak:text encoded="False">trampled vegetation meant quick find -TB</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="173.1758167" lat="-41.3219333">
+        <time>2011-03-05T14:53:12.000-06:00</time>
+        <name>OX1HNZD</name>
+        <desc>Busy Little Bees (Nelson/Marlborough) by Kiwi_Explorer, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1HNZD</url>
+        <urlname>Busy Little Bees (Nelson/Marlborough)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1451092">
+            <groundspeak:name>Busy Little Bees (Nelson/Marlborough)</groundspeak:name>
+            <groundspeak:placed_by>Kiwi_Explorer</groundspeak:placed_by>
+            <groundspeak:owner id="10284">Kiwi_Explorer</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">To celebrate our 1st year anniversary of being part of the geo-caching family we are placing three caches as a thank you and tribute to Nelson/Marlborough's three biggest cache placers. These cache placers (and many others) have brought us lots of fun over the last year and it seemed fitting to honour them. We will not name them specifically but I'm sure you will guess by the cache description who they are dedicated to.
+This 2nd cache in the series is dedicated to a caching team who has been very busy, in fact they have been busy little bees, their caches are spread far and wide throughout the region. There are still a couple we are yet to track down but what we have found so far is that they are all of high quality, are placed in interesting spots, have accurate co-ordinates and are of varying camo designs – a real credit to the caching community. 
+
+These cachers have also been very busy in the finding department with a good tally to their name. Thanks very much for your caches, they are an inspiration to us all.
+
+For this cache you will enjoy a short 5 minute walk along a developing walkway system and hopefully it should be an easy find. There are some bees near gz so be careful not to disturb them, we would hate for anyone to get stung. You cannot see the cache from any distance but you will know where to look for it when you find the GC1HNZD label. As always please put everything back how you found it so that the next cacher has the same experience you had.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="231974">
+                    <groundspeak:date>2009-04-11T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2620">Bitsprayer</groundspeak:finder>
+                    <groundspeak:text encoded="False">Ha ha ha very well done.
+
+Thanks Bitsprayer</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="324163">
+                    <groundspeak:date>2008-11-08T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="3280">beltfamily</groundspeak:finder>
+                    <groundspeak:text encoded="False">Argh... forgot to log the coin in!</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="173.2784833" lat="-41.4854833">
+        <time>2010-10-31T02:00:00.000-05:00</time>
+        <name>OX2HHG9</name>
+        <desc>Slaty Hut (Nelson/Marlborough) by beltfamily, Traditional Cache(2.0/4.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2HHG9</url>
+        <urlname>Slaty Hut (Nelson/Marlborough)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2370331">
+            <groundspeak:name>Slaty Hut (Nelson/Marlborough)</groundspeak:name>
+            <groundspeak:placed_by>beltfamily</groundspeak:placed_by>
+            <groundspeak:owner id="3280">beltfamily</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>4.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;h2&gt;Slaty Hut&lt;/h2&gt;
+ 
+
+
+
+&lt;p&gt;This cache is more about getting there than being there, because
+there is no such thing as a bad day on the tops (in good weather
+;)&lt;/p&gt;
+&lt;p&gt;Just be grateful my legs said &quot;No&quot; to the original plan for this
+cache: Slaty Peak. No doubt the usual suspects will rectify that
+during their next visit.&lt;/p&gt;
+&lt;p&gt;Please take the precise hint, as we don't want you to frown all
+the way back down. Note that the cache is wedged in with a stone,
+and it is appreciated if you could do the same.&lt;/p&gt;
+&lt;p&gt;This is part of the Richmond Alpine and Te Araroa Trails. You
+shouldn't be here unless you have the right gear and at least some
+experience. Only the Über-Fit would be able to do this in a single
+day, so most would need to spend at least one night up here,
+somewhere.&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>under hut, south side, right of door, on top of frame timber, wedged in by a stone - please try to wedge in before leaving</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>4.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="173.85865" lat="-41.5121667">
+        <time>2011-03-05T14:27:56.000-06:00</time>
+        <name>OX1HGTF</name>
+        <desc>Sierra Alpha Echo (Nelson/Marlborough) by Kiwi_Explorer, Traditional Cache(2.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1HGTF</url>
+        <urlname>Sierra Alpha Echo (Nelson/Marlborough)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1446134">
+            <groundspeak:name>Sierra Alpha Echo (Nelson/Marlborough)</groundspeak:name>
+            <groundspeak:placed_by>Kiwi_Explorer</groundspeak:placed_by>
+            <groundspeak:owner id="10284">Kiwi_Explorer</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">A small micro cache located between Renwick and Blenheim in the province of Marlborough. You are looking for a black eclipse mint tin held in place by an invisible force. The co-ordinates should be quite accurate except for the influence of the overhead obstruction.
+
+The cache name will become more obvious once at GZ. There you will find an item of historical significance to the New Zealand aviation industry. It is the last of it's kind in the world. There are information signs at GZ where you can find out more about the history. The cache has been placed with permission but as always be discrete with your search and retrieval. No night time visits please.
+
+There is a small donation required if you would like to go inside. The funds go to a trust and are used for maintenance and restoration. You do not need to go inside to find the cache so entry is purely optional. The feature is open weekends only and the nearby cafe is now closed but may open again in the future.
+
+If you cache with children ask them if they can find the resident owl.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1287942">
+                    <groundspeak:date>2011-06-13T18:38:22.000-05:00</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="34374">kingruss</groundspeak:finder>
+                    <groundspeak:text encoded="False">searches whole area but couldn't find it. been 2 years since last found log might not be there.  Good location though.
+</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="231992">
+                    <groundspeak:date>2009-04-24T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2620">Bitsprayer</groundspeak:finder>
+                    <groundspeak:text encoded="False">Great spot for a cache, had a look through the plane watched the videos, then had lunch at the cafe.
+
+Many Thanks Bitsprayer</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="324184">
+                    <groundspeak:date>2009-01-04T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3280">beltfamily</groundspeak:finder>
+                    <groundspeak:text encoded="False">The cafe was closed today so not many muggles to worry about!  A sneaky hide which Mr B had in hand in about a minute!  The kids really enjoyed the feature here .. although Toddler B's &quot;climbing&quot; had both parents dying a thousand deaths. TFTC our last of the trip</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="173.0023833" lat="-41.7253333">
+        <time>2010-11-14T02:00:00.000-06:00</time>
+        <name>OX2J6ZZ</name>
+        <desc>Red Hill Savannah (Nelson/Marlborough) by beltfamily, Traditional Cache(2.0/4.0/3.1)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2J6ZZ</url>
+        <urlname>Red Hill Savannah (Nelson/Marlborough)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2390006">
+            <groundspeak:name>Red Hill Savannah (Nelson/Marlborough)</groundspeak:name>
+            <groundspeak:placed_by>beltfamily</groundspeak:placed_by>
+            <groundspeak:owner id="3280">beltfamily</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;h2&gt;Red Hill Savannah&lt;/h2&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;About 30 - 45 minute walk, 150 m up and just under 1 km from Red
+Hills hut there is an amazing rocky outcrop. As soon as you see it
+your minds eye expects to see a lion resting on top surveying its
+territory.&lt;/p&gt;
+&lt;p&gt;Check GC282P6 for info
+on how to get to Red Hills hut - you starting point for this cache.
+Another 100 m up and 20 - 30 minutes will get you to the Red Hills
+&quot;summit&quot;.&lt;/p&gt;
+&lt;p&gt;Sturdy footwear recommended.&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>on ground, under rocks, less than one meter south west of tree.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1247749">
+                    <groundspeak:date>2010-11-11T05:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="10284">Kiwi_Explorer</groundspeak:finder>
+                    <groundspeak:text encoded="False">Signed this one off when it was placed.  Awesome area for a walk and an overnight hut stay.  TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.1</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

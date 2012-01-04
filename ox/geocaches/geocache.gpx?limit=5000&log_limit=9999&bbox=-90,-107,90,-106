@@ -1,0 +1,2857 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,-107,90,-106</url>
+    <time>2012-01-04T09:25:42.792-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="-106.0" maxlat="90.0" minlon="-107.0" minlat="-90.0"/>
+    <wpt lon="-106.5233667" lat="31.6723833">
+        <time>2011-08-22T10:09:08.000-05:00</time>
+        <name>OXZTR1G</name>
+        <desc>Trepachanga1 by rimugu, Traditional Cache(2.5/3.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTR1G</url>
+        <urlname>Trepachanga1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28473516">
+            <groundspeak:name>Trepachanga1</groundspeak:name>
+            <groundspeak:placed_by>rimugu</groundspeak:placed_by>
+            <groundspeak:owner id="53621">rimugu</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Ve en la direccion a donde las antenas se juntan/Go in direction where antennas meet.
+Entre parede de piedras artificiales y pared de piedras artificiales, solo un poco arriba del camino/Between man made stone wall and man made stone wall, just a bit above the road.
+30 pesos por persona para entrar al parque/30 pesos per person to enter the park.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Yoghurt</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.4</ox:size>
+                <ox:terrain>3.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Juarez</ox:tag>
+                <ox:tag>Mountain</ox:tag>
+                <ox:tag>Mexico</ox:tag>
+                <ox:tag>Desert</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.2677167" lat="31.79955">
+        <time>2011-08-02T14:27:01.000-05:00</time>
+        <name>OX2P8M2</name>
+        <desc>Derek Fisher by EKDJ!, Traditional Cache(3.5/3.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2P8M2</url>
+        <urlname>Derek Fisher</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2510754">
+            <groundspeak:name>Derek Fisher</groundspeak:name>
+            <groundspeak:placed_by>EKDJ!</groundspeak:placed_by>
+            <groundspeak:owner id="10136">EKDJ!</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Part of a series of caches dedicated to the LA Lakers big men, both past and present.
+
+Another cache for the El Paso geocachers and those simply passing through.
+
+Derek Fisher is one of the most &quot;clutch&quot; players currently in the Lakers lineup, and I named this one after him because, while only 6'8&quot; tall, he plays really big and has sealed some pretty big games with his phenomenal 3-point jumper.
+&quot;One of Fisher's finest playoff moments came in Game 5 (May 13, 2004) of the 2004 Western Conference semi-finals between the Lakers and the defending champion San Antonio Spurs. The series was tied 2–2, and Game 5 was a closely contested affair. With 11 seconds remaining, Kobe Bryant hit a jump shot to put the Lakers up 72–71. Tim Duncan then made an 18-foot shot in double coverage despite falling away from the basket to give the Spurs a 73–72 lead with 0.4 seconds on the clock.
+
+To devise strategies, three consecutive time-outs were called: the first by the Lakers, the second by San Antonio to set up the defense, and the last by the Lakers to re-set up the offense. When the game resumed, Gary Payton in-bounded the ball to Fisher, who managed to catch, turn, and shoot the game-winning basket all in 0.4 seconds. Fisher sprinted off the court, as he later admitted he was uncertain he beat the buzzer and wanted to exit before the play could be reviewed. The Spurs immediately filed a dispute regarding the shot and after reviewing video footage of the play, the referees concluded that the ball had indeed left Fisher's hands before the clock expired. The &quot;0.4&quot; shot counted and the Lakers won.&quot; (from wikipedia)
+
+He's done that so many times, but it's his off-court life that impresses me the most. So, a cache here for you in his honor!
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Big Men series, get it?</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>2.5</ox:size>
+                <ox:terrain>3.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.5530333" lat="31.8137167">
+        <time>2011-08-02T14:21:58.000-05:00</time>
+        <name>OX2TK24</name>
+        <desc>BTV #4 by EKDJ!, Traditional Cache(2.7/1.8/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2TK24</url>
+        <urlname>BTV #4</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2610142">
+            <groundspeak:name>BTV #4</groundspeak:name>
+            <groundspeak:placed_by>EKDJ!</groundspeak:placed_by>
+            <groundspeak:owner id="10136">EKDJ!</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Another in the BTV series, one for the West El Paso cachers!
+
+Figured a new container idea, and so far it's been loved by the folks who've found #1-3 up in Albuquerque. I plan on placing a few dozen of these, so more to look forward to as I get them prepped and placed. Not a hard to find cache, a PnG for sure, but are you sure you aren't being watched by the very bored clerks inside? Plus, it's on a pretty busy street, so you have that challenge as well to contend with. No room for swag, and you'll need your own writing device.
+Happy hunting! The 2008 Cab Sav was delicious, if you can find it! </groundspeak:long_description>
+            <groundspeak:encoded_hints>Under where?</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1399008">
+                    <groundspeak:date>2011-08-03T21:26:13.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="50166">ApacheX</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.7</ox:difficulty>
+                <ox:size>1.9</ox:size>
+                <ox:terrain>1.8</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.5343833" lat="31.8634833">
+        <time>2011-05-14T22:04:47.000-05:00</time>
+        <name>OXZTW3D</name>
+        <desc>Milagro Cache  by ANTHO777, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTW3D</url>
+        <urlname>Milagro Cache </urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28476458">
+            <groundspeak:name>Milagro Cache </groundspeak:name>
+            <groundspeak:placed_by>ANTHO777</groundspeak:placed_by>
+            <groundspeak:owner id="21652">ANTHO777</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">This regular size cache  Has log book and small items to share/exchange.  Easy to access for just about anyone. It provides a nice trip into a nice family oriented neighborhood on El Paso's westside.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>3.6</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.4939444" lat="31.9026944">
+        <time>2011-07-29T14:19:18.000-05:00</time>
+        <name>OXZTRPA</name>
+        <desc>Estefania Andrew by aostiles, Traditional Cache(1.2/3.4/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTRPA</url>
+        <urlname>Estefania Andrew</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474161">
+            <groundspeak:name>Estefania Andrew</groundspeak:name>
+            <groundspeak:placed_by>aostiles</groundspeak:placed_by>
+            <groundspeak:owner id="48437">aostiles</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">A rock with the names &quot;Estefania&quot; and &quot;Andrew&quot; on it from when we went hiking on my birthday. </groundspeak:long_description>
+            <groundspeak:encoded_hints>From the top, explore the southwest corner and the rock is sitting on a larger rock. </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.2</ox:difficulty>
+                <ox:size>2.8</ox:size>
+                <ox:terrain>3.4</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.4820167" lat="35.0514167">
+        <time>2011-10-25T15:43:43.000-05:00</time>
+        <name>OXZTNT5</name>
+        <desc>Survey of 4 Hills by Lo and B, Traditional Cache(3.0/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTNT5</url>
+        <urlname>Survey of 4 Hills</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28471366">
+            <groundspeak:name>Survey of 4 Hills</groundspeak:name>
+            <groundspeak:placed_by>Lo and B</groundspeak:placed_by>
+            <groundspeak:owner id="67772">Lo and B</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is my first cache.
+It's the most challenging place I could think of within a reasonable distance from my house.
+I'll go ahead and say that it is a 35mm film canister.
+You won't need any climbing equipment to get to it, but you will need to bring a pen or pencil to sign the log.
+The first finder will get a nifty souvenir from a little country in Europe.  </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Open Space Park</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.6138" lat="35.0599333">
+        <time>2011-08-02T14:12:05.000-05:00</time>
+        <name>OX2ABRM</name>
+        <desc>Pau Gasol by EKDJ!, Traditional Cache(3.5/2.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2ABRM</url>
+        <urlname>Pau Gasol</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2156287">
+            <groundspeak:name>Pau Gasol</groundspeak:name>
+            <groundspeak:placed_by>EKDJ!</groundspeak:placed_by>
+            <groundspeak:owner id="10136">EKDJ!</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">L. A. Lakers fast break makers
+kings of the court shake and bake all takers
+back to back is a bad-xss fact a claim that remains in tact! -RHCP &quot;Magic Johnson&quot;
+
+So, being a Laker Fan (and tall) I figured I'd place one in honor of Pau Gasol, one of the best Power-Forward/Centers to come from Europe. Awesome to see him almost Triple-Double a few nights back in Game 6's blowout over the Celtics. Also awesome to have the Lakers do it Back to Back 09-10!
+
+The Cache is at those gps listings, but I'm not sure how many of those looking will find it. For one thing it's not a low-down-dirty-shame like my previous caches that favored all sizes, and a quick-trip to the hardware store might be in order so you have some steps.
+
+It's definitely a micro, so no room for swag or writing utensils, so bring your own for the log. I'm not super-vet with placing caches, so you may think my ratings are off. Remember though, this series is about the L.A. Lakers Big Men. As far as the micros go, I'll be soon placing bigger stuff, as I love to trade booty!
+
+Enjoy!</groundspeak:long_description>
+            <groundspeak:encoded_hints>Part of a series to the BIG MEN of the LA Lakers... Do you really think it's down low?</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1614986">
+                    <groundspeak:date>2011-06-01T01:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="40442">Team TJ</groundspeak:finder>
+                    <groundspeak:text encoded="False">Took a few minutes to find due to the coordinates putting me in the parking lot. Glad im taller then average and was able to retrieve the cache easily.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1502412">
+                    <groundspeak:date>2011-05-12T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4151">opusterra</groundspeak:finder>
+                    <groundspeak:text encoded="False">09h58
+Nice placement for sure!
+=================
+While waiting for my wife to arrive by a flight from Montreal, I visited some nearby caches.
+-----
+[:)] [i]Salutations du Québec[/i] [:)].
+-----
+[font=Comic Sans MS][size=4][green][i]Merci/Thanks[/i][/green] [^][size=2][font=Verdana]</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1087688">
+                    <groundspeak:date>2010-07-08T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="11160">wer2ys4u</groundspeak:finder>
+                    <groundspeak:text encoded="False">Having played basketball I was able to slam dunk this one. Did not even need the hardware help and the was no monkey business going on. White men can jump!</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>1.8</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.5309833" lat="35.0714833">
+        <time>2011-08-02T14:15:01.000-05:00</time>
+        <name>OX2M6YE</name>
+        <desc>BTV #1 by EKDJ!, Traditional Cache(2.7/1.9/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2M6YE</url>
+        <urlname>BTV #1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2449541">
+            <groundspeak:name>BTV #1</groundspeak:name>
+            <groundspeak:placed_by>EKDJ!</groundspeak:placed_by>
+            <groundspeak:owner id="10136">EKDJ!</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">First of a series, with a new container idea. Would love to get your input as you find it/sign it/replace it. NOT THE ORIGINAL CONTAINER, but if you follow the series you might find one! Not a difficult hide, just incredible muggle traffic so super-stealthy-geo skills are needed! Coordinates are off a little (on purpose), so those aforementioned geo-skills are of prime importance!
+
+As stated above in the short-description, you'd be unseen when the local businesses are closed (early morning/late night) as it's a very-busy car access point with a lot of traffic. Safe parking is available nearby. Not much room for trade/swag or a pencil, so be sure to have a writing tool to get your log-on!
+
+NEW CONTAINER: Being that the original container was left out of it's original place (and was worse for wear), I decided to crank-up the difficulty a little bit for those on the hunt.
+
+PLEASE PLACE IT BACK LIKE YOU FOUND IT, that is, if you find it! There is a lot of foot-traffic mixed in with the muggles-in-cars so hide it like you found it please!
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Under where? </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.7</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.9</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.5285333" lat="35.07655">
+        <time>2011-08-02T14:03:41.000-05:00</time>
+        <name>OX3PCN</name>
+        <desc>BTV #5 by EKDJ!, Traditional Cache(2.6/1.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3PCN</url>
+        <urlname>BTV #5</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="110908">
+            <groundspeak:name>BTV #5</groundspeak:name>
+            <groundspeak:placed_by>EKDJ!</groundspeak:placed_by>
+            <groundspeak:owner id="10136">EKDJ!</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Fifth of a series, with a new container idea. Not a difficult hide, just incredible muggle traffic (usually it makes it more challenging!) so super-stealthy-geo skills are needed!
+
+Don't forget your tweezers as these logs will be harder to access without them. If you're legal and into wine, the BT Rio Rojo was worth finding and pairing with a red-chile dish, a nice table wine. You'll see what I mean when you find the cache! </groundspeak:long_description>
+            <groundspeak:encoded_hints>Hints are for kids!</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1614987">
+                    <groundspeak:date>2011-08-10T01:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="40442">Team TJ</groundspeak:finder>
+                    <groundspeak:text encoded="False">Nice find after work. TFTC.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>1.6</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.5144167" lat="35.0817333">
+        <time>2011-08-02T14:24:14.000-05:00</time>
+        <name>OX20PDF</name>
+        <desc>BTV #6 by EKDJ!, Traditional Cache(2.7/1.7/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX20PDF</url>
+        <urlname>BTV #6</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1868602">
+            <groundspeak:name>BTV #6</groundspeak:name>
+            <groundspeak:placed_by>EKDJ!</groundspeak:placed_by>
+            <groundspeak:owner id="10136">EKDJ!</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">6th of a series, with a new container idea. Not a difficult hide, just incredible muggle traffic so super-stealthy-geo skills are needed!
+
+So if you've played this series already, you are probably familiar with the way these get placed/found. Stealth skills are needed, but maybe not as much as other locations (BTV #1,#2,#3,and #4).
+
+The Muscat Canneli is a great lighter dessert-wine, worth picking up if you'd like to try a NM Wine that earned an 88 rating!
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>under where?</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.7</ox:difficulty>
+                <ox:size>1.9</ox:size>
+                <ox:terrain>1.7</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.4967667" lat="35.0843833">
+        <time>2011-01-06T21:48:23.000-06:00</time>
+        <name>OX2930Z</name>
+        <desc>Find My First by EKDJ!, Traditional Cache(3.6/3.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2930Z</url>
+        <urlname>Find My First</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2118074">
+            <groundspeak:name>Find My First</groundspeak:name>
+            <groundspeak:placed_by>EKDJ!</groundspeak:placed_by>
+            <groundspeak:owner id="10136">EKDJ!</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">It's my first cache, with a necessary upgrade after the construction-crew that re-did the Tramway bike-path eliminated the first one (on purpose? who knows!)  More description on www.geocaching.com.  If you found it first through Open Caching, you're lucky, it's a premium cache over at the other site!</groundspeak:long_description>
+            <groundspeak:encoded_hints>Do Birds really next there?</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1645381">
+                    <groundspeak:date>2011-10-23T01:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="67772">Lo and B</groundspeak:finder>
+                    <groundspeak:text encoded="False">First cache I have found.  I took my two daughters &quot;treasure hunting.&quot;  They had fun.
+I took the Singapore keychain, and left an old Sark (Tron) action figure.
+This cache needs a log book (and pencil).</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1395955">
+                    <groundspeak:date>2011-08-02T13:53:24.000-05:00</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="10136">EKDJ!</groundspeak:finder>
+                    <groundspeak:text encoded="False">Cache is muggled, down, and otherwise not where you'd go hunting.  After three re-loads I retired it, and yes, I'm the CO. ~Ekdj</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1087593">
+                    <groundspeak:date>2010-05-31T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="11160">wer2ys4u</groundspeak:finder>
+                    <groundspeak:text encoded="False">Ratings seem to be ok for the challange to get this one. TFTH</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.6</ox:difficulty>
+                <ox:size>1.6</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Trolls live here</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.5001667" lat="35.0874333">
+        <time>2011-08-02T14:30:35.000-05:00</time>
+        <name>OX2EMXX</name>
+        <desc>Kurt Rambis by EKDJ!, Traditional Cache(2.9/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2EMXX</url>
+        <urlname>Kurt Rambis</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2284232">
+            <groundspeak:name>Kurt Rambis</groundspeak:name>
+            <groundspeak:placed_by>EKDJ!</groundspeak:placed_by>
+            <groundspeak:owner id="10136">EKDJ!</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">As a part of a series of the L.A. Lakers big men, A tribute to #31 of the Lakers, &quot;Superman&quot; Kurt Rambis
+
+I'm a big-guy, often asked if I play bball, so it's natural that a cache in this series honoring the big-men of the Lakers be up where us big-guys can get to it. The shorter folks on this particular cache-hunt (or hunting the series) may want to bring a chair, step-stool, or develop some climbing skills so they can RISE UP for the challenge. Totally park-n-grab, but finding it might be the challenge.
+
+As per the Cache Title:
+
+During his playing days, Rambis was a favorite among the Lakers fans because of his status as an over-achieving underdog and ultimate team-player. Known for his defensive and rebounding skills, Rambis also was an efficient clean-up man on offense, with his field goal percentage reaching 59.5% at the peak of his career. He was remembered in both Santa Clara and Los Angeles for his all-out effort and willingness to do the &quot;dirty work&quot; that many players do not embrace. Rambis usually wore a thick moustache and thick-rimmed black glasses, prompting Lakers announcer Chick Hearn to nickname him &quot;Superman&quot; (in reference to the character's alter ego, Clark Kent). He finally retired with the Lakers in 1995 after 14 years in the NBA. After 7 seasons as assistant-coach with the Lakers, he serves as the head coach the Minnesota Timberwolves.  
+
+Please place it back exactly where you found it! Bring a pen/pencil to sign the log, and there is a little room for trade-swag. 
+
+Best to get it in the evenings or weekends as not to arouse muggle interest.
+.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Big Men series, basket-ball tribute, not too hard now is it?</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1645382">
+                    <groundspeak:date>2011-10-23T01:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="67772">Lo and B</groundspeak:finder>
+                    <groundspeak:text encoded="False">Good one.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1087875">
+                    <groundspeak:date>2010-11-06T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="11160">wer2ys4u</groundspeak:finder>
+                    <groundspeak:text encoded="False">I no trouble with this one but I think the season helped just a bit. TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.9</ox:difficulty>
+                <ox:size>2.1</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.50685" lat="35.1009">
+        <time>2011-08-02T14:17:21.000-05:00</time>
+        <name>OX2PFXD</name>
+        <desc>BTV #2 by EKDJ!, Traditional Cache(2.6/1.7/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2PFXD</url>
+        <urlname>BTV #2</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2517740">
+            <groundspeak:name>BTV #2</groundspeak:name>
+            <groundspeak:placed_by>EKDJ!</groundspeak:placed_by>
+            <groundspeak:owner id="10136">EKDJ!</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Second of a series, with a new container idea. Not a difficult hide, just incredible muggle traffic so super-stealthy-geo skills are needed! Coordinates are off a little (on purpose), use your noodle and you'll surely find it!
+
+Don't forget your tweezers as these logs will be hard to access without them. The container originally was used to keep a fine liquid in it's bottle. Who knew such great liquid could be produced in New Mexico! Give it a try at your local grocery! (You'll see what I mean when you find the cache!)
+As stated above in the short-description, please be quite and orderly while stealthin' up to get this one, I'd rather not have to move it! Safe parking is available really-close nearby. No room for trade/swag or a pencil, so be sure to pack a pen/pencil with your tweezers! Please put log back in just like you found it! </groundspeak:long_description>
+            <groundspeak:encoded_hints>Under where?</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>1.8</ox:size>
+                <ox:terrain>1.7</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.4759333" lat="35.1018333">
+        <time>2011-03-15T17:44:50.000-05:00</time>
+        <name>OXZTX0B</name>
+        <desc>Son's First by CITSGT, Multi-cache(2.8/3.2/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTX0B</url>
+        <urlname>Son's First</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477324">
+            <groundspeak:name>Son's First</groundspeak:name>
+            <groundspeak:placed_by>CITSGT</groundspeak:placed_by>
+            <groundspeak:owner id="14431">CITSGT</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Start from the parking area at the end of Indian School Road. Great hiking trails. My son wanted to make it fun, this was his first, so the contents are great for kids and a log book to sign. </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.8</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.2</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>&quot;Scenic Overlook&quot;</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.5067667" lat="35.1089833">
+        <time>2011-08-02T14:19:26.000-05:00</time>
+        <name>OX2PFWH</name>
+        <desc>BTV #3 by EKDJ!, Traditional Cache(2.6/1.8/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2PFWH</url>
+        <urlname>BTV #3</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2517713">
+            <groundspeak:name>BTV #3</groundspeak:name>
+            <groundspeak:placed_by>EKDJ!</groundspeak:placed_by>
+            <groundspeak:owner id="10136">EKDJ!</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Third of a series, with a new container idea. Not a difficult hide, just incredible muggle traffic so super-stealthy-geo skills are needed! Coordinates are off a little (on purpose), use your noodle and you'll surely find it!
+
+Don't forget your tweezers as these logs will be hard to access without them. If you're legal and into wine, the 2004&amp;2005 Cabernet Sauvignon was worth finding and pairing with a nice cut of meat. You'll see what I mean when you find the cache!
+
+As stated above in the short-description, you'd be unseen when the local businesses (really late or really early) are closed as it's a very-busy car access point with a lot of traffic, Safe parking is available really-close nearby. No room for trade/swag or a pencil, so be sure to pack a pen/pencil with your tweezers! Please put log back in just like you found it!
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Under where?</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>1.9</ox:size>
+                <ox:terrain>1.8</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.5722" lat="35.1203333">
+        <time>2011-12-16T18:38:20.000-06:00</time>
+        <name>OX360MB</name>
+        <desc>look up by the weezlys, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX360MB</url>
+        <urlname>look up</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2949940">
+            <groundspeak:name>look up</groundspeak:name>
+            <groundspeak:placed_by>the weezlys</groundspeak:placed_by>
+            <groundspeak:owner id="58601">the weezlys</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">When planning an excursion to this cache, keep in mind that there is parking less than 500 feet from the cache. Look on Google Erath to see what I am talking about. Aside from that, access could not be simpler. One last note: the cache is magnetic. Don’t go pulling random things too hard. also note that because of the small size, you need to bring your own pencil. some also tell me that a &quot;tool&quot; is needed.
+ 
+Congratulations to trackthecashe10 (of geocaching.com)for FTF! </groundspeak:long_description>
+            <groundspeak:encoded_hints>look at the bolts</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.5766" lat="35.1222833">
+        <time>2011-12-16T18:52:17.000-06:00</time>
+        <name>OX37393</name>
+        <desc>happy trails #1 by the weezlys, Traditional Cache(2.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX37393</url>
+        <urlname>happy trails #1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2982265">
+            <groundspeak:name>happy trails #1</groundspeak:name>
+            <groundspeak:placed_by>the weezlys</groundspeak:placed_by>
+            <groundspeak:owner id="58601">the weezlys</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache was placed for the happy trails series, placed to thank the city of Albuquerque, AMFACA, and parks and rec. for the fabulous new park. Go cabq!! Should be a really easy find, not too hard. We will see however, how well it holds up.
+ PLEASE be careful and be ultrastealthy when finding.
+ Happy hunting!</groundspeak:long_description>
+            <groundspeak:encoded_hints>in the planter, but DO NOT WALK IN THE PLANTER!!</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>1.2</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.7152167" lat="35.1482333">
+        <time>2005-08-15T01:00:00.000-05:00</time>
+        <name>OXQ1QY</name>
+        <desc>Trust Your GPSr by GEO-BISHOP, Traditional Cache(2.0/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXQ1QY</url>
+        <urlname>Trust Your GPSr</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="686896">
+            <groundspeak:name>Trust Your GPSr</groundspeak:name>
+            <groundspeak:placed_by>GEO-BISHOP</groundspeak:placed_by>
+            <groundspeak:owner id="11374">GEO-BISHOP</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">How much do you trust your GPSr?
+
+Some of you might figure it out right away, others, you might have to try a couple times.
+
+If you've been stumped by this one twice or more, drop me a note and I'll give you a clue that should get you a find.
+
+This is a log only cache and you'll need your own writing instrument. </groundspeak:long_description>
+            <groundspeak:encoded_hints>The Aha! moment will be most enlightening.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1083185">
+                    <groundspeak:date>2007-12-02T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="11160">wer2ys4u</groundspeak:finder>
+                    <groundspeak:text encoded="False">Been here many times and came up with the find today. THFC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.3851167" lat="35.1695333">
+        <time>2011-08-02T14:06:55.000-05:00</time>
+        <name>OXZTRJT</name>
+        <desc>Hope Springs Eternal by EKDJ!, Traditional Cache(3.4/3.4/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTRJT</url>
+        <urlname>Hope Springs Eternal</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474052">
+            <groundspeak:name>Hope Springs Eternal</groundspeak:name>
+            <groundspeak:placed_by>EKDJ!</groundspeak:placed_by>
+            <groundspeak:owner id="10136">EKDJ!</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">A great place for a summer-evening's dinner....But pay the $3 dollar parking fee and get this one and many others in the vicinity! ..
+
+Just East of this cache location is a historic picnic-place in my family. We try to get up here with some Boston Market at least 2 or 3 times a summer to get into cooler weather and away from the crowds/rif-raf down in the city. A Great place to bring the kids, mine loved stomping around in the creek-bed getting all filthy, climbing trees, hunting insects, you name it (they're kids!).
+Cache location, as you'll see on the approach, is near the source of a pleasant little stream that weaves it's way through the picnic area. It's not within the barbed-wire, so don't believe your GPSR if it says it is... just really close!
+
+Changed the difficulty based on trouble people have had finding it. Hopefully you'll be the FTF!
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>sticky, in a mess-free way!</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1518184">
+                    <groundspeak:date>2011-08-27T01:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="56029">Redbone</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found it, tough location very hard to find.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.4</ox:difficulty>
+                <ox:size>2.4</ox:size>
+                <ox:terrain>3.4</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.70175" lat="35.2364333">
+        <time>2010-12-07T13:08:04.000-06:00</time>
+        <name>OX1NM7X</name>
+        <desc>How About Here by KKMICHIK, Traditional Cache(1.6/1.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1NM7X</url>
+        <urlname>How About Here</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1568597">
+            <groundspeak:name>How About Here</groundspeak:name>
+            <groundspeak:placed_by>KKMICHIK</groundspeak:placed_by>
+            <groundspeak:owner id="1898">KKMICHIK</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is a micro. It is a log only, so bring your writing implement. It is very close to a dirt road.
+
+Cache is permanently attached to it's &quot;container&quot; so please do not try to remove it - top unscrews easily. Not sure but good guess is that ATVs might be an issue at times so be aware. Nice view of a deep arroyo.
+As some finders have very wisely advised - do not approach from the west. A couple turns off Southern will get you right there.</groundspeak:long_description>
+            <groundspeak:encoded_hints>It's not hanging in the tree.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="881615">
+                    <groundspeak:date>2010-12-20T10:11:27.000-06:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="8104">TeamTuxawuxa</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found this one under another name in Geocaching.com.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1301688">
+                    <groundspeak:date>2009-07-24T01:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="40442">Team TJ</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found this awhile ago, wanted to try out this new system.  Thanks.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1168020">
+                    <groundspeak:date>2009-04-16T01:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="14217">whybenormal</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found this one a while back.  TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1085859">
+                    <groundspeak:date>2009-03-14T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="11160">wer2ys4u</groundspeak:finder>
+                    <groundspeak:text encoded="False">Had it not been for the night owls we might have been first. TFTH</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>2.5</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.0820667" lat="39.3751833">
+        <time>2010-12-11T18:55:05.000-06:00</time>
+        <name>OXCB9C</name>
+        <desc>Hoosier Daddy? by JDASENBROCK, Traditional Cache(3.0/3.0/3.2)</desc>
+        <url>http://www.opencaching.com/#geocache/OXCB9C</url>
+        <urlname>Hoosier Daddy?</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="368354">
+            <groundspeak:name>Hoosier Daddy?</groundspeak:name>
+            <groundspeak:placed_by>JDASENBROCK</groundspeak:placed_by>
+            <groundspeak:owner id="5285">JDASENBROCK</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Let Hoosier Pass summit be your starting point. A 4x4 is recommended or you may choose to hike the 2 miles (one way) with an elevation gain of roughly 400ft. Ascend the road up from the Hoosier Pass summit and take the sharp right-hand turn which will lead you along the east side of the ridge. If driving, we recommend parking at Crystal Lake near the abandoned mine shaft at N 39 22.535, W 106 04.738, then hiking the rest of the way to the cache. Your experience will be more pleasant if you hike along the 4x4 trail until very near the cache.
+
+Safety Note: The cache is not in a mine, so we strongly suggest staying out of the shafts.
+</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1375865">
+                    <groundspeak:date>2011-07-19T01:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="46631">MTMANIAM</groundspeak:finder>
+                    <groundspeak:text encoded="False">Had a blast finding my 1st cashe! I tried to find it last week but I had to turn around due to bad weather. Went back with a friend and found it! Thank you for an excellent hunt and taking me somewhere awesome!!!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1223963">
+                    <groundspeak:date>2011-04-28T20:13:16.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="16053">TGRAY936</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found this  several years ago under GC.com.  First one of our favorites that I found listed here.  Wanted to log to post our awesome rating and to see how the system worked</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.2</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>scenic</ox:tag>
+                <ox:tag>4X4</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.06945" lat="39.6075833">
+        <time>2009-06-23T03:00:00.000-05:00</time>
+        <name>OX1V3HT</name>
+        <desc>Over Joey's Shoulder by KKrew, Traditional Cache(3.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1V3HT</url>
+        <urlname>Over Joey's Shoulder</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1701522">
+            <groundspeak:name>Over Joey's Shoulder</groundspeak:name>
+            <groundspeak:placed_by>KKrew</groundspeak:placed_by>
+            <groundspeak:owner id="4744">KKrew</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Look over Joey's shoulder. Leave no stone left unturned. 
+
+ This is a nice place to sit off the bike trail to watch the sun set.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1247473">
+                    <groundspeak:date>2011-05-14T14:22:15.000-05:00</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="21582">KSESOCK</groundspeak:finder>
+                    <groundspeak:text encoded="False">Possibly disturbed or removed  cache. Area has seen great amount of damage due to forest destruction by mountain pine beetle.
+Logged via OpenCaching for iPhone</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Not Available during winter</ox:tag>
+                <ox:tag>Bicycles</ox:tag>
+                <ox:tag>Picnic tables nearby</ox:tag>
+                <ox:tag>Scenic view</ox:tag>
+                <ox:tag>Recommended for kids</ox:tag>
+                <ox:tag>Takes less than an hour</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.3732167" lat="39.6422">
+        <time>2011-05-31T15:24:17.000-05:00</time>
+        <name>OXZTVM0</name>
+        <desc>Colorado Ski Museum by Teva Games, Traditional Cache(1.5/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTVM0</url>
+        <urlname>Colorado Ski Museum</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28476011">
+            <groundspeak:name>Colorado Ski Museum</groundspeak:name>
+            <groundspeak:placed_by>Teva Games</groundspeak:placed_by>
+            <groundspeak:owner id="26983">Teva Games</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">In finding this cache, you can learn much more about the history of the famed 10th Mountain Division which helped shape Colorado's ski heritage, innovators an achievers within the skiing industry that have been selected to the Hall of Fame, and skiing's national treasures, Olympians.  </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>4.5</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:series id="10000">
+                <ox:name>Teva Mountain Games 2011</ox:name>
+            </ox:series>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.3373667" lat="42.8088333">
+        <time>2011-06-26T11:15:35.000-05:00</time>
+        <name>OX2WWYF</name>
+        <desc>Where's the log? by shawntrout, Traditional Cache(3.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2WWYF</url>
+        <urlname>Where's the log?</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2678260">
+            <groundspeak:name>Where's the log?</groundspeak:name>
+            <groundspeak:placed_by>shawntrout</groundspeak:placed_by>
+            <groundspeak:owner id="40341">shawntrout</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Cache is located near yesness park about 100ft off a bike path. 
+
+
+Found it! Or did you? Did you sign the log? You didn't? Then you didn't find it! In order to log this cache as found you MUST sign the log. No sign, NO FIND! :) 
+
+Put cache together in my office so container(s) hold office related swag like paper clips, pens, and scotch tape but there is no theme. HOWEVER, please do not place &quot;paper&quot; items in container(s) so they won't be confused as being the log!
+
+GO!
+
+</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>1.5</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.3423167" lat="42.8303833">
+        <time>2011-06-26T11:25:16.000-05:00</time>
+        <name>OX2VRHG</name>
+        <desc>Garden Creek Series #1 by shawntrout, Traditional Cache(1.6/1.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2VRHG</url>
+        <urlname>Garden Creek Series #1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2645215">
+            <groundspeak:name>Garden Creek Series #1</groundspeak:name>
+            <groundspeak:placed_by>shawntrout</groundspeak:placed_by>
+            <groundspeak:owner id="40341">shawntrout</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Along the bank of the Garden Creek that runs off the mountain. the 1st is a series 
+
+
+This Cache is located along the bank of the Garden Creek that runs off the mountain. It is the first in a series that will feature the Garden Creek. 
+Located in a City Park so Park hours must be observed.
+
+The Cache is a regular sized Rubbermaid container with glow sticks, baseball cards, and dog treats.
+
+Go!
+
+</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>3.7</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.3516667" lat="42.8334333">
+        <time>2011-06-26T11:21:41.000-05:00</time>
+        <name>OX2VVWB</name>
+        <desc>Garden Creek Series #2 by shawntrout, Traditional Cache(1.6/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2VVWB</url>
+        <urlname>Garden Creek Series #2</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2647442">
+            <groundspeak:name>Garden Creek Series #2</groundspeak:name>
+            <groundspeak:placed_by>shawntrout</groundspeak:placed_by>
+            <groundspeak:owner id="40341">shawntrout</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">2nd geocache in a series featuring garden creek, the terrain is an unpaved walking path or &quot;deer trail&quot; 
+
+
+This cache is the 2nd in a series featuring the Garden Creek. It is located just &quot;outside&quot; Westwood Park near the Garden Creek. City Park hours need to be observed 
+Container is a rubbermaid container filled with tradeables for kids. Take Caution when bringing little ones as some parts of the trail get very close to the creek edge. Please try to hide better then found with &quot;camo&quot; you might encounter along the trail (tree bark, sticks) Area might be prone to muggle traffic.
+
+GO!
+
+</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>3.6</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.3607333" lat="42.8370167">
+        <time>2011-06-26T11:06:23.000-05:00</time>
+        <name>OX2YBF</name>
+        <desc>Garden Creek Series #4 by shawntrout, Traditional Cache(1.8/1.7/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2YBF</url>
+        <urlname>Garden Creek Series #4</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="87807">
+            <groundspeak:name>Garden Creek Series #4</groundspeak:name>
+            <groundspeak:placed_by>shawntrout</groundspeak:placed_by>
+            <groundspeak:owner id="40341">shawntrout</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Located at the end of the Garden Creek, parking is available within 20 feet of cache but terrain is not wheel chair friendly 
+
+
+You've made it to the end! At this point the garden creek begins dumping into the North Platte river. 
+Cache is a lock-n-lock container that holds some basic swag. please try to hide container as good as you found it.
+
+Go!
+
+</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.8</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>1.7</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Park and Grab</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.3577333" lat="42.8370833">
+        <time>2011-06-26T11:12:40.000-05:00</time>
+        <name>OX2Y8KX</name>
+        <desc>Garden Creek Series #3 by shawntrout, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2Y8KX</url>
+        <urlname>Garden Creek Series #3</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2719286">
+            <groundspeak:name>Garden Creek Series #3</groundspeak:name>
+            <groundspeak:placed_by>shawntrout</groundspeak:placed_by>
+            <groundspeak:owner id="40341">shawntrout</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">cache is located along the Garden Creek. Easy find with easy terrain. Park and grab on a dirt road. 
+
+
+3rd in a series featuring the Garden Creek. accessed by driving down the alley and onto the phone service road. 
+Container is a bison tube
+
+</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>1.6</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Park and Grab</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.3267" lat="42.8459667">
+        <time>2011-06-26T11:18:02.000-05:00</time>
+        <name>OX2YBZM</name>
+        <desc>Downtown Walking Path by shawntrout, Traditional Cache(2.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2YBZM</url>
+        <urlname>Downtown Walking Path</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2722502">
+            <groundspeak:name>Downtown Walking Path</groundspeak:name>
+            <groundspeak:placed_by>shawntrout</groundspeak:placed_by>
+            <groundspeak:owner id="40341">shawntrout</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Located along the new David Street extension and the Downtown walking path, should be accessible by everybody! 
+
+
+The city has been doing a lot of work with the downtown beautification projects. this is part of it and has really come a long way. feel free to bring your pet, stroller, bicycle, or any other path friendly items for a pleasant stroll through downtown. this particular cache offers park benches with a great view of the mountain! 
+
+Go!
+
+</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>1.5</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Park and Grab</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.724883" lat="51.937633">
+        <time>2010-07-06T03:00:00.000-05:00</time>
+        <name>OX2B69H</name>
+        <desc>Otopassa Trails by candlelightforge, Multi-cache(2.0/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2B69H</url>
+        <urlname>Otopassa Trails</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="2180805">
+            <groundspeak:name>Otopassa Trails</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">You are searching for a two part multi-cache
+which is located on the public right-of way near the Otopassa
+Trails.  Stage 1 is not a container but will assist you in
+computing the final cache location.  Bring a pen and paper. A
+calculator may be an asset?  The final stage is a regular ammo
+box filled with a good assortment of trade items for all ages. The
+first to find prize is your choice of the SWAG.  Enjoy the
+hunt and thank you for caching with Beaver Dude and I
+
+The Otopassa Trails BMX/ATV recreational park is
+a private facility, membership is required.  It is located
+approximately 20 kilometres South of Saskatoon on The Chief
+Whitecap Trail (Provincial Highway #219). There is no need to
+access the site to complete this cache, please comply with all
+posted signs.
+
+Additional Hidden Waypoints
+HIDDEN: FN2B69H - GC2B69H Final
+N/S  __ ° __ . ___ W/E ___ ° __ . ___  Otopassa Trails final cache location 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>The mature cacher may find a magnifying glass useful.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Not Wheelchair accessible</ox:tag>
+                <ox:tag>Dogs allowed</ox:tag>
+                <ox:tag>Not Stroller accessible</ox:tag>
+                <ox:tag>Bicycles</ox:tag>
+                <ox:tag>Ticks</ox:tag>
+                <ox:tag>Takes less than an hour</ox:tag>
+                <ox:tag>Available at all times</ox:tag>
+                <ox:tag>Recommended for kids</ox:tag>
+                <ox:tag>Motorcycles</ox:tag>
+                <ox:tag>Horses</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.807767" lat="51.959667">
+        <time>2010-03-28T03:00:00.000-05:00</time>
+        <name>OX25RHZ</name>
+        <desc>Windmill Road Canoe Launch by candlelightforge, Traditional Cache(2.5/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX25RHZ</url>
+        <urlname>Windmill Road Canoe Launch</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2019618">
+            <groundspeak:name>Windmill Road Canoe Launch</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">You are searching for an ammo box which is well hidden at a canoe launch  site on the South Saskatchewan River, South of Saskatoon.
+
+This is an easy to find cache which contains a cache note, cache log book, pencil, pen and an assortment of trade items. Please park at the posted parking co-ordinates as the trail into the canoe launch is only suited for &quot;high clearance&quot; vehicles.  A trail hike of approximately 200 meters will be required. The launch site also has very limited parking and turn-around space. There is approximately 30 meters of &quot;bush whacking&quot; from the canoe launch to the cache site. Suitable hiking boots and clothing is recommended.
+
+Congratulations to: ....schnor for his &quot;FTF&quot;....
+
+
+Windmill Road Canoe/Boat Launch - N 51° 57.578 W 106° 48.433
+
+Windmill Road Canoe Launch Parking &amp; Trailhead - N 51° 57.463 W 106° 48.508</groundspeak:long_description>
+            <groundspeak:encoded_hints>A &quot;UPS&quot; (unidentified pile of sticks)</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Dogs allowed</ox:tag>
+                <ox:tag>Scenic view</ox:tag>
+                <ox:tag>Thorns</ox:tag>
+                <ox:tag>Not Wheelchair accessible</ox:tag>
+                <ox:tag>Not Stroller accessible</ox:tag>
+                <ox:tag>Ticks</ox:tag>
+                <ox:tag>Available at all times</ox:tag>
+                <ox:tag>Not Campfires</ox:tag>
+                <ox:tag>Takes less than an hour</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.822383" lat="51.96075">
+        <time>2010-03-29T03:00:00.000-05:00</time>
+        <name>OX25TRY</name>
+        <desc>Windmill Road Cache by candlelightforge, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX25TRY</url>
+        <urlname>Windmill Road Cache</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2020795">
+            <groundspeak:name>Windmill Road Cache</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">You are searching for an ammo box which is hidden on a public road allowance.  The cache is located near the junction of highway #60 and Windmill Road, South of Saskatoon.
+
+This is an easy to find cache which contains a cache note, cache log book, pencil, pen and an assortment of trade items.  This road can be very busy at times, therefore stealth and deception should be employed.  If you carry a CITO bag your actions should go un-noticed.  As always, re-hide well so that it is not visible to muggles.
+
+Congratulations to:....bennykidd for the &quot;FTF&quot;............
+
+</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Ticks</ox:tag>
+                <ox:tag>Dogs allowed</ox:tag>
+                <ox:tag>Recommended for kids</ox:tag>
+                <ox:tag>Bicycles</ox:tag>
+                <ox:tag>Motorcycles</ox:tag>
+                <ox:tag>Available at all times</ox:tag>
+                <ox:tag>Takes less than an hour</ox:tag>
+                <ox:tag>Stealth required</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.788117" lat="51.96895">
+        <time>2009-08-26T03:00:00.000-05:00</time>
+        <name>OX1XJZT</name>
+        <desc>A View of Paradise by candlelightforge, Traditional Cache(3.0/5.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1XJZT</url>
+        <urlname>A View of Paradise</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1775922">
+            <groundspeak:name>A View of Paradise</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>5</groundspeak:terrain>
+            <groundspeak:long_description html="True">
+You are searching for an orange 1.5 liter Marine Safety Kit Canister with a weather-proof screw top lid.   It contains a Cache note, cache log, cache pencil and pen, various
+trade items suitable for canoeing/hiking.
+
+The location is near a great view of the Paradise Beach area which is located south of Saskatoon.   The cache site is located across the river from the Paradise Beach parking lot (N51 58.510 W106 47.285) and can be accessed by canoe , boat or the use of a dingy/life raft.  
+
+The South Saskatchewan river is a favourite of canoe enthusiasts and many people complete day trips on the river from Paradise beach to Saskatoon or from other launch sites further up-river. Hopefully some of these are geocachers as well.
+
+The Paradise Beach parking lot and sandbar area are administrated by the Meewasin Valley River Authority.  Please read and comply with  all posted signs regarding parking regulations and recommended river usage.  This is for your information and
+safety.  It is not recommended to try swim across the river due to the fast current and under tows.  Crossing the river ice in winter by foot or snow machine is highly dangerous due to the current and fluctuating water levels.  As a result this cache site is primarily a summer cache. 
+
+The area is also near a small un-named lake (Paradise Lake?) which is fed by the river if the river level is high.  There is a lot of wildlife in the area (beavers, deer, moose) which will add to your caching experience.  The lake entrance is not readily visible but is the best landing place for your canoe journey.
+
+Your journey will require approximately a 100 meter portage from the parking lot and a short 500 meter paddle to cross the river.  The cache is located above the high water mark on the river bank.  Good luck and enjoy the cache.  Remember CITO (cache in – trash out).  Leave nothing behind.  Not even your footprints in the sand.
+
+
+Check current &amp; forcasted South Saskatchewan river flow rates @.
+http://www.swa.ca/WaterManagement/MonthlyForecast/Sask10DayForecastTable.pdf
+
+
+Additional Hidden Waypoints:
+Paradise Beach Parking: N 51° 58.510 W 106° 47.285
+Please read and comply with parking restriction signs (dawn to dusk parking only)  
+
+ </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>5.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Not Off-road vehicles</ox:tag>
+                <ox:tag>Not Quads</ox:tag>
+                <ox:tag>Not Snowmobiles</ox:tag>
+                <ox:tag>Not Wheelchair accessible</ox:tag>
+                <ox:tag>Not Available during winter</ox:tag>
+                <ox:tag>Scenic view</ox:tag>
+                <ox:tag>Not Motorcycles</ox:tag>
+                <ox:tag>Ticks</ox:tag>
+                <ox:tag>Boat</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.78685" lat="51.975017">
+        <time>2010-03-29T03:00:00.000-05:00</time>
+        <name>OX25VJP</name>
+        <desc>Paradise Lost by candlelightforge, Traditional Cache(3.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX25VJP</url>
+        <urlname>Paradise Lost</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2021563">
+            <groundspeak:name>Paradise Lost</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">
+You are searching for a green buffalo tube which is well hidden at the Paradise Beach conservation site on the South Saskatchewan River, South of Saskatoon.
+
+This is a challenging hide which contains a log roll only.  Bring your own writing stick.  This area has a high muggle population, especially on summer weekends. Stealth will be required.  Please park at the posted parking co-ordinates and comply with all posted parking restrictions. Do not park along the road!  These rules are strictly enforced in this area.  The parking site is only available from dawn to dusk.  The Paradise Beach area is always in need of CITO.  Trash barrels are available on site.
+
+Canoes can be launched from this site, and the waters edge landing/launch area is approximately 50 meters from the parking lot.  This varies considerably with the river
+water level.
+
+Additional Hidden Waypoints:
+Paradise Beach Canoe Landing/Launch: N 51° 58.472 W 106° 47.233
+Canoe Landing/Launch (approximate location varies with the water level of the river).
+
+Paradise Beach Parking Lot: N 51° 58.510 W 106° 47.285
+Paradise Beach Parking Lot (dawn to dusk only). 
+
+ </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Takes less than an hour</ox:tag>
+                <ox:tag>Not Available at all times</ox:tag>
+                <ox:tag>Scenic view</ox:tag>
+                <ox:tag>Stealth required</ox:tag>
+                <ox:tag>Horses</ox:tag>
+                <ox:tag>Ticks</ox:tag>
+                <ox:tag>Motorcycles</ox:tag>
+                <ox:tag>Not Campfires</ox:tag>
+                <ox:tag>Bicycles</ox:tag>
+                <ox:tag>Dogs allowed</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.7129167" lat="52.0335833">
+        <time>2011-09-19T06:50:18.000-05:00</time>
+        <name>OXZTQG9</name>
+        <desc>Wilson Island by candlelightforge, Traditional Cache(2.0/5.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTQG9</url>
+        <urlname>Wilson Island</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28473013">
+            <groundspeak:name>Wilson Island</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>5</groundspeak:terrain>
+            <groundspeak:long_description html="True">You are searching for a plastic ice cream container (painted brown) hidden on Wilson Island which is located on the South Saskatchewan River South of Saskatoon. The cache contains a cache note, log book and selection of trade items. This cache is only accessible by boat or canoe and should not be searched for in the winter months when the river is frozen.
+ 
+
+You may park and launch from the posted co-ordinates (canoe launching only). Alternatively you may make this a stop if doing day canoe trips from launching points further up-stream. You may also canoe or boat from the boat launch in Saskatoon however the trip is up-stream against the current which varies throughout the summer season. If you park at the recommended parking it is a 150 meter portage to the river, a short 300 meter paddle to the Southern tip of the island and a pleasant 450 meter hike to the cache along the inner high water river channel.
+ 
+Please replace the cache exactly as found securely so that it doesn't fall out of the host. Also make sure that the lid is closed completely.
+ 
+As with all water/river activities please wear a life jacket and be sure your craft is equipped with the appropriate safety equipment.
+
+ 
+Good luck in your adventure.. FTF prize is an un-activated Travel Bug tag..
+
+Additional Waypoints:
+Parking (Poplar Bluff Conservation Area) - N 52° 01.656 W 106° 43.024 
+Poplar Bluff Canoe Launch - N 52° 01.688 W 106° 42.896 
+Recommended Canoe Landing/Trail Head on the South side of the Island - N 52° 01.786 W 106° 42.709 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Look fo a large fallen tree in the river channel</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.5</ox:size>
+                <ox:terrain>5.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>ticks! poisn plants! special tool required</ox:tag>
+                <ox:tag>Seasonal Access</ox:tag>
+                <ox:tag>need boat</ox:tag>
+                <ox:tag>Not Campfires</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.728" lat="52.0677167">
+        <time>2011-10-04T13:56:10.000-05:00</time>
+        <name>OXZTQ8N</name>
+        <desc>Beaver Dude's Button Box by candlelightforge, Traditional Cache(2.0/3.0/2.9)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTQ8N</url>
+        <urlname>Beaver Dude's Button Box</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28472777">
+            <groundspeak:name>Beaver Dude's Button Box</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Poor Beaver Dude. Fall house cleaning is under way and he has received orders that his button collection must go so he decided to hide a cache to contain his prized button collection and share it with his geocaching friends and fellow button collectors.
+
+You are searching for a large peanut butter container which has been painted brown. It is hidden 5 meters from a lower hiking trail in the Chief Whitecap off-leash dog park South of Saskatoon. It is a moderate 2.5 Km hike from the posted parking co-ordinates.
+
+GZ is located near a “Dog-gone” good beach on the river. Your cache dog will love this area. The trails are frequently used so stealth will be required. It may be prudent to retrieve the cache and take it to the beach area to sign the log and admire Beaver Dude’s button collection. Return the cache stealthily and make sure the lid is nice and tight. Replace it in it’s hiding spot and conceal it well.
+
+The cache also contains a few other small trade items. There is a clearly marked “FTF” prize in the log book baggy.
+
+  </groundspeak:long_description>
+            <groundspeak:encoded_hints>At the base of a large cottonwood tree.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1606188">
+                    <groundspeak:date>2011-10-06T01:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="9796">EL_FUDGEEO</groundspeak:finder>
+                    <groundspeak:text encoded="False">This was a fun and interesting find. I decided to go searching for this one, so I threw the bike into the van (I am glad to have it back), and headed out. It was starting to get pretty dark already, but I had the light on the bike, so I was OK. I met up with a couple of friendly dogs, and some less friendly ones as well. One of the less friendly ones grabbed my pant leg as I biked past. Grrrr.
+
+Once at GZ I could not see a tree for the bush. Hmmm. Thats one of the problems with going out in the dark - you can't see much. My big flashlight was dead, so I only had the bike headlight. Good but not great. So I did eventually find the cache, and signed the log and made off with the prize. No dogs encountered on the way back to the van.
+
+Drove back into town, and stopped at Home Depot to pick up some supplies for the never-ending renovations. For some reason, shopping always takes a lot longer than I expect. Must be all the searching that I do. Got out to the van and pulled away - and the van gave up the ghost.
+
+Now I was stuck on a small side street somewhere, and out of gas (I hope). I started to push towards the Co-op that was a block away (lucky break), when a Friendly Manitoban pulls over and helps push. Then someone else jumps out of their truck and also help push. Great! We get to the pump, and the guy puts in about a litre and the pump stops. Full. Yeah - right. So he tries again and again, but the pump and the van do not agree about things. I guess the pump goes too fast and the gas can't get into the tank quick enough for it. Eventually he puts in 56 litres - pretty good since the van should only take about 50!
+
+I was glad that the bus decided to run out of fuel only a block from the gas station - instead of way out in the countryside! </groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Not winter friendly</ox:tag>
+                <ox:tag>available 24/7</ox:tag>
+                <ox:tag>Kid friendly</ox:tag>
+                <ox:tag>Not Wheelchair accessible</ox:tag>
+                <ox:tag>Ticks</ox:tag>
+                <ox:tag>Medium hike (1km-10km)</ox:tag>
+                <ox:tag>Scenic view</ox:tag>
+                <ox:tag>Bicycles</ox:tag>
+                <ox:tag>Dogs allowed</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.728033" lat="52.081917">
+        <time>2011-09-16T03:00:00.000-05:00</time>
+        <name>OX3498M</name>
+        <desc>Yorath Island by candlelightforge, Traditional Cache(2.5/5.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3498M</url>
+        <urlname>Yorath Island</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2898644">
+            <groundspeak:name>Yorath Island</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>5</groundspeak:terrain>
+            <groundspeak:long_description html="True">You are searching for a 30 Cal. Ammo can hidden on Yorath Island located on the South Saskatchewan River South of Saskatoon. The cache contains a cache note, log book and selection of trade items. This cache is only accessible by boat or canoe and should not be searched for in the winter months when the river is frozen.
+
+You may park and launch from the posted co-ordinates (canoe launching only). Alternatively you may make this a stop if doing day canoe trips from launching points further up-stream. You may also canoe or boat from the boat launch in Saskatoon however the trip is up-stream against the current which varies throughout the summer season.
+
+
+As with all water/river activities please wear a life jacket and be sure your craft is equipped with the appropriate safety equipment. 
+
+
+Good luck in your adventure.. FTF prize is an un-activated Travel Bug tag..
+Additional Hidden Waypoints
+PK3498M - GC3498M Parking
+N 52° 05.117 W 106° 43.456
+Parking and possible canoe launch point..</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>5.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Boat</ox:tag>
+                <ox:tag>Dogs allowed</ox:tag>
+                <ox:tag>Not Campfires</ox:tag>
+                <ox:tag>Ticks</ox:tag>
+                <ox:tag>Not Available during winter</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.724267" lat="52.08515">
+        <time>2010-04-07T03:00:00.000-05:00</time>
+        <name>OX26BPJ</name>
+        <desc>Maple Grove Park by candlelightforge, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX26BPJ</url>
+        <urlname>Maple Grove Park</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2037059">
+            <groundspeak:name>Maple Grove Park</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">You are looking for the Maple Grove Park geocache which contains a cache note, log book, pen, pencil and a selection of trade items. It is located near the entrance to
+the Maple Grove (Liesureland) Public park which is located on the West bank of the South Saskatchewan River south of Saskatoon.
+
+Your adventure begins at the posted parking point and trail-head which is a safe roadside turn out.  A short hike will take you close to the river, follow the river to the cache location.  Enjoy the cache and re-hide exactly as you found it.  Remember to bring along a trash bag to practice CITO . Be kind to nature and she will be kind to you and others. Please remember to be stealthy and watch for muggles
+
+Additional Hidden Waypoints:
+Maple Grove Canoe Landing Point:N 52° 05.104 W 106° 43.455
+Recommended canoe landing to access the Maple Grove Park Cache
+
+Maple Grove Parking &amp; Trail Head: N 52° 05.117 W 106° 43.456
+Parking and Trail Head for access to Maple Grove Park Cache </groundspeak:long_description>
+            <groundspeak:encoded_hints>be carfull on the steep slope..</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Recommended for kids</ox:tag>
+                <ox:tag>Not Campfires</ox:tag>
+                <ox:tag>Not Wheelchair accessible</ox:tag>
+                <ox:tag>Takes less than an hour</ox:tag>
+                <ox:tag>Dogs allowed</ox:tag>
+                <ox:tag>Not Stroller accessible</ox:tag>
+                <ox:tag>Scenic view</ox:tag>
+                <ox:tag>Ticks</ox:tag>
+                <ox:tag>Available at all times</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.7176" lat="52.087367">
+        <time>2010-03-17T03:00:00.000-05:00</time>
+        <name>OX255ZP</name>
+        <desc>Dog Island Spring Cache by candlelightforge, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX255ZP</url>
+        <urlname>Dog Island Spring Cache</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2001754">
+            <groundspeak:name>Dog Island Spring Cache</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">You are looking for an 800ml Lock-n-Lock container which contains a cache note, log book, pen, pencil and a selection of trade items.  It is near a great view of Dog Island (now called Yorath Island) which is located in the South Saskatchewan River south of Saskatoon.  The cache site is a short hike along an established path approximately 100 meters from the posted
+parking.
+
+Your adventure begins at the posted parking point which is a safe roadside turn out.  Please use it as the roadway has considerable traffic.  Hike down the steep path that leads towards the river.  Follow the path upriver (west) until you reach a small stream that empties into the river.  A short hike up the stream (north) will lead you to the cache site.  The stream is fed by one of the many springs that originate along the river bank.  It is a secluded location and should be free of muggles.
+
+Enjoy the cache and re-hide exactly as you found it.  As there is a cache just up the road dedicated to &quot;cats&quot;  you may consider this cache a &quot;dog&quot; theme.  You may add small dog related trade items.  Just remember no chew bones etc. as they may attract other animals.  Remember to bring along a trash bag to practice CITO
+
+Be kind to nature and she will be kind to you and others.
+
+Congratulations:....bennykidd for a speedy &quot;FTF&quot;....
+
+
+
+Dog Island view point parking N 52° 05.274 W 106° 43.022  </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Ticks</ox:tag>
+                <ox:tag>Not Wheelchair accessible</ox:tag>
+                <ox:tag>Recommended for kids</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Takes less than an hour</ox:tag>
+                <ox:tag>Not Campfires</ox:tag>
+                <ox:tag>Available at all times</ox:tag>
+                <ox:tag>Scenic view</ox:tag>
+                <ox:tag>Dogs allowed</ox:tag>
+                <ox:tag>Thorns</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.739483" lat="52.127467">
+        <time>2009-09-07T03:00:00.000-05:00</time>
+        <name>OX1YCRC</name>
+        <desc>Spruce Tree Revenge by candlelightforge, Traditional Cache(2.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1YCRC</url>
+        <urlname>Spruce Tree Revenge</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1799748">
+            <groundspeak:name>Spruce Tree Revenge</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">&quot;Spruce Tree Revenge&quot; has moved to a new &quot;Cacher friendly&quot; location.  You are now searching for a cameod buffalo tube. This is a high muggle location. Stelth will be required.  It is an excellent location to rest and review all the cache locations in the vacinity.  Please bring your own writing stick.
+
+Dedicated to all dedicated geocachers who spend hours searching local spruce trees for cache containers hidden by other dedicated (sadistic) geocachers.  
+
+Is it a spruce tree or not a spruce tree?  Is it high or is it low?  Does it have a magnetic personality?  To cache or not?  So many questions for a cacher to ponder.  Ponder it well.  Enjoy the hunt.
+
+Good luck.. Yellow M&amp;M thinks you may need it.  He has recorded the co-ordinates twice on different days and checked the results against &quot;Google Earth&quot;.  Please replace just as you found it,  nice and secure..
+
+FTF is &quot;dunwrkn/macdog2&quot; ? Hmmmm  how does this work.  Actually dunwrkn is first log entry.  Congradulations to the dynamic duo..</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Stealth required</ox:tag>
+                <ox:tag>Dogs allowed</ox:tag>
+                <ox:tag>Available at all times</ox:tag>
+                <ox:tag>Available during winter</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Stroller accessible</ox:tag>
+                <ox:tag>Bicycles</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.63355" lat="52.1363167">
+        <time>2011-01-02T20:27:35.000-06:00</time>
+        <name>OX2KTJB</name>
+        <desc>Sweet Little Cammo by EL_FUDGEEO, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2KTJB</url>
+        <urlname>Sweet Little Cammo</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2437665">
+            <groundspeak:name>Sweet Little Cammo</groundspeak:name>
+            <groundspeak:placed_by>EL_FUDGEEO</groundspeak:placed_by>
+            <groundspeak:owner id="9796">EL_FUDGEEO</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">You are looking for a 300ml bottle. Contains little besides the log. Should be a fairly easy find. </groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1574948">
+                    <groundspeak:date>2011-09-20T01:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="59425">candlelightforge</groundspeak:finder>
+                    <groundspeak:text encoded="False">Yep found it right where the GPS'r said it would be.. A great fall morning for a bike ride to the University and Beaver Dude made a quick find. TNLNSL..TFTH..</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1290233">
+                    <groundspeak:date>2011-06-17T17:36:06.000-05:00</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="36215">Hildy</groundspeak:finder>
+                    <groundspeak:text encoded="False">My first geocache experience. Hope to find more soon.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.709067" lat="52.13955">
+        <time>2011-09-12T03:00:00.000-05:00</time>
+        <name>OX342E2</name>
+        <desc>Candy Cache by candlelightforge, Traditional Cache(2.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX342E2</url>
+        <urlname>Candy Cache</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2892085">
+            <groundspeak:name>Candy Cache</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">You are searching for a small camouflaged candy container which contains a log only. Please bring your own writing instrument to log your find. The cache may have room for small coins or pins only. As always watch for Muggles and replace the cache exactly as you found it..
+
+We were camping at Crimson Lake this summer and of course made a few cache finds with the grand daughter and her cousins. They enjoyed it so much that they had to hide a cache of their own at the campsite. When we left we of course removed the cache and I promised to re-hide it so that they could find it the next time they were visiting Saskatoon.  Remember to give your GPS time to settle down in this location and you will make the find easily..
+
+***** Congratulations to mackdog2 on a speedy &quot;FTF&quot; *****</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Available during winter</ox:tag>
+                <ox:tag>Motorcycles</ox:tag>
+                <ox:tag>Bicycles</ox:tag>
+                <ox:tag>Available at all times</ox:tag>
+                <ox:tag>Park and Grab</ox:tag>
+                <ox:tag>Takes less than an hour</ox:tag>
+                <ox:tag>Stealth required</ox:tag>
+                <ox:tag>Dogs allowed</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.6952667" lat="52.1401167">
+        <time>2011-09-17T10:31:09.000-05:00</time>
+        <name>OXZTQGW</name>
+        <desc>Saskatoon Cursed FTF #2 by candlelightforge, Traditional Cache(3.0/1.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTQGW</url>
+        <urlname>Saskatoon Cursed FTF #2</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28473031">
+            <groundspeak:name>Saskatoon Cursed FTF #2</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is Cursed!
+ 
+
+
+
+ 
+ 
+The following Curse is optional, if you choose to do so please follow the guidelines below:
+ 
+This is a Cursed cache for the FTFers in Saskatoon! If you are the FTF for a cache in this series, you are cursed with the desire to place another &quot;Saskatoon Cursed FTF&quot; cache, therefore, extending the series.
+ 
+
+The following guidelines are suggested only:
+ 1. FTF'er should place the next cache in the series (Saskatoon Cursed FTF #2) within 30 Days! Otherwise the curse will prevent you from EVER getting another FTF again!!!.....mwahahaha.
+ 2. You can only be a FTF for this series once. This is to give others a chance to be a FTF'er.
+ 3. Cache must be a traditional cache.
+ 4. Caches should be placed within the Saskatoon area! |
+ 
+Lets see how far the series will go.........
+
+Congrats to the following on the FTF'S
+ 
+Saskatoon Cursed FTF #1 - candlelightforge</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.674483" lat="52.154783">
+        <time>2009-10-20T03:00:00.000-05:00</time>
+        <name>OX203GM</name>
+        <desc>&quot;Stick With Cash&quot; by candlelightforge, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX203GM</url>
+        <urlname>&quot;Stick With Cash&quot;</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1850441">
+            <groundspeak:name>&quot;Stick With Cash&quot;</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Do you use your credit card or debit card too much?  This is the time to switch to &quot;cash only&quot;
+
+You are looking for a slightly smaller than a film canister, camo, cache that contains a cache note.  Please log your visit on the back side.  Bring your own writing stick.  The cache may have room for the odd pin or lucky penny. 
+
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>near a large hunk of electrifying metal..</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Bicycles</ox:tag>
+                <ox:tag>Available during winter</ox:tag>
+                <ox:tag>Dogs allowed</ox:tag>
+                <ox:tag>Available at all times</ox:tag>
+                <ox:tag>Takes less than an hour</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.863067" lat="52.609367">
+        <time>2011-09-13T03:00:00.000-05:00</time>
+        <name>OX341M6</name>
+        <desc>Huff-n-Puff by candlelightforge, Traditional Cache(2.0/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX341M6</url>
+        <urlname>Huff-n-Puff</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2891314">
+            <groundspeak:name>Huff-n-Puff</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">You are searching for a 30 Cal. Ammo  box hidden near a prominent hill with a great view of the North Saskatchewan river and valley. The cache contains a cache note, log book and a good assortment of trade items.
+
+It is a pleasant 500 meter hike down a steep hill from the posted recommended parking co-ordinates and a &quot;Huff-n-Puff hike back to the cache mobile. The cache is located slightly down from the crest of the second hill. Please re-hide exactly as found and provide some natural camouflage to prevent it from being found by Muggles..
+
+
+...... The &quot;FTF Prize&quot; in asn un-activated Travel bug......
+
+
+Additional Hidden Waypoints
+PK341M6 - GC341M6 Parking
+N 52° 36.571 W 106° 51.474
+Recommended parking for Huff-n-Puff </groundspeak:long_description>
+            <groundspeak:encoded_hints>two meters north of an old campfire ring in a clump of saskatoon bushes. Look for a semi-circle of rocks.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.8198" lat="52.638633">
+        <time>2011-07-07T03:00:00.000-05:00</time>
+        <name>OX2ZNEA</name>
+        <desc>The Old River Road by candlelightforge, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2ZNEA</url>
+        <urlname>The Old River Road</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2761397">
+            <groundspeak:name>The Old River Road</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">You are searching for a small lock-n-lock cache container hidden on public right-of-way. It contains a log and some small trade items. Please keep trade items small. This cache is only suitable for geo-coin trackables.
+
+This is an easy park-n-grab located approximately 300 meters off Provincial highway #12. It is located on what one was the main road/trail leading to the Petrofka ferry. In the summer when the trail is dry you may drive to witin 10 meters of GZ. If the trail is wet or drifted with heavy snow you would be best to park on the approach just off the highway. It is only a short 300 meter hike from there.
+
+
+Good luck, we hope you enjoy the cache..
+
+
+Congratulations to JGFIJ &amp; A_Canadian_eh for being &quot;FTF&quot;. Well Done..</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Park and Grab</ox:tag>
+                <ox:tag>Available at all times</ox:tag>
+                <ox:tag>Takes less than an hour</ox:tag>
+                <ox:tag>Recommended for kids</ox:tag>
+                <ox:tag>Ticks</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.8444" lat="52.648033">
+        <time>2011-09-13T03:00:00.000-05:00</time>
+        <name>OX341HW</name>
+        <desc>Petrofka boat launch by candlelightforge, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX341HW</url>
+        <urlname>Petrofka boat launch</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2891242">
+            <groundspeak:name>Petrofka boat launch</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">You are searching for a 30 Cal. Ammo box. The cache contains a cache note, log book and an assortment of trade items.
+
+The cache is located a short 100 meter hike south from the posted parking along an established trail. The hide is only 2 meters off this trail and should be an easy find. Good luck and enjoy the cache.. Please replace exactly as found and provide some natural camouflage to prevent it from being discovered by muggles..
+
+
+....The &quot;FTF Prize&quot; is an un-activated Travel bug.....
+
+
+Additional Hidden Waypoints
+PK341HW - GC341HW Parking
+N 52° 38.936 W 106° 50.652 </groundspeak:long_description>
+            <groundspeak:encoded_hints>From the recommended parking hike down the trail to the south. Look behind a diamond willow clump.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Takes less than an hour</ox:tag>
+                <ox:tag>Recommended for kids</ox:tag>
+                <ox:tag>Bicycles</ox:tag>
+                <ox:tag>Motorcycles</ox:tag>
+                <ox:tag>Ticks</ox:tag>
+                <ox:tag>Dogs allowed</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.0812" lat="52.9276">
+        <time>2010-12-16T02:00:00.000-06:00</time>
+        <name>OX2K9TV</name>
+        <desc>Big Spruce Hide by candlelightforge, Traditional Cache(2.0/4.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2K9TV</url>
+        <urlname>Big Spruce Hide</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2422521">
+            <groundspeak:name>Big Spruce Hide</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is cache is part of the Southern - Eb's Trails Ski Adventure Series.
+
+You are searching for a small lock-n-lock that contains the cache log,cache note and a selection of small trade items. Do a small item trade or drop off your personal signature item to mark your visit.
+
+The Big Spruce Trail is classed as a &quot;Back-country Trail&quot; (not for novice skiers). It is a moderate challenge with gentle rolling hills through a big spruce forest. Once you have logged this cache continue to follow the Big Spruce trail to the next cache located near &quot;Spruce Junction&quot;. Remember the Big Spruce trail is a one-way directional trail. Please comply with the recommended directions. You should continue
+the trail to Spruce Junction then back to the South parking lot via the Willow View Trail. So you may as well complete the next five caches.
+
+The Saskatoon Nordic Ski Club (http://saskatoonnordicski.ca/) operate groomed Public cross-country ski trails in the area. Please do not snowmobile, walk, or snowshoe on the groomed ski trails. The course to complete the Southern -Eb's Trails Ski Adventure Series will require approximately 11 Kms of skiing. 
+
+NOTE: The ski trails skill level requirements are rated as:Experienced level skiers. Ski at your own risk. Trails are not patrolled. Ski in a group. Advise others where you are going and when you plan to return. Safety First ! Please do not operate motorized vehicles past the recommended parking lot as your vehicles exhaust system may cause forest fires due to the amount of dry grass on the trails.
+
+Summer Hiking: Completing this cache by summer hiking requires good hiking shoes &amp; clothing. Carry water and trail snacks. Mosquito repellant will be an asset. If the gate to the parking area is closed please ensure it remains closed as there may be livestock in the area.
+
+Good luck, please ski/hike with a friend and have a safe adventure. You can check the trail snow conditions on the &quot;Ski Hot-line&quot; @ (306-343-0191) before heading out on your trip (use the Nordic Ski Club link above). Take your camera and share some photo's with your fellow geo-cachers.
+
+
+Down-load the GPS track file for this adventure from:  &quot;Beaver Dude's Adventure Page&quot; (http://hirkw1.sasktelwebsite.net/)..
+
+
+Additional Waypoints:
+Parking:  N 52° 55.973 W 106° 03.289
+EB's Trails - South parking lot. 
+
+ </groundspeak:long_description>
+            <groundspeak:encoded_hints>Located on the backside of the spruce tree trunk approximately 5 meters NE of posted co-ordinates. You can't miss the host. It is the largest Spruce tree on the Big Spruce trail.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Significant hike</ox:tag>
+                <ox:tag>Available during winter</ox:tag>
+                <ox:tag>Not Snowmobiles</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Scenic view</ox:tag>
+                <ox:tag>Not Quads</ox:tag>
+                <ox:tag>Long Hike (+10km)</ox:tag>
+                <ox:tag>Cross Country Skis</ox:tag>
+                <ox:tag>Not Off-road vehicles</ox:tag>
+                <ox:tag>Not Motorcycles</ox:tag>
+                <ox:tag>Not Dogs</ox:tag>
+                <ox:tag>beware ticks</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.084117" lat="52.931767">
+        <time>2011-10-16T03:00:00.000-05:00</time>
+        <name>OX3640H</name>
+        <desc>Twin Spruce - I by candlelightforge, Traditional Cache(1.5/4.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3640H</url>
+        <urlname>Twin Spruce - I</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2953170">
+            <groundspeak:name>Twin Spruce - I</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">
+This is an easy find located near a rest bench on the &quot;Willow View&quot; Trail and is part of the Southern - Eb's Trails Ski Adventure Series.
+
+You are searching for a small plastic peanut butter jar which contains the cache log, cache note and a selection of small trade items. Do a small item trade or drop off your personal signature item to mark your visit.
+
+To get to this cache you must ski The Big Spruce Trail to Spruce Junction and then follow Willow View Trail back to the parking lot as they are one-way directional trails (Winter). The Big Spruce &amp; Willow View Trail are classed as a &quot;Back-country Trails&quot; (not for novice skiers). They have numerous challenging up/down hill segments. They are extremely winding and will test your navigation skills.
+
+Once you have logged this cache continue to follow the Willow View trail to the South parking lot. Remember the Willow View trail is a one-way directional trail. Please comply with the recommended direction.
+
+The Saskatoon Nordic Ski Club (http://saskatoonnordicski.ca/) operate groomed public cross-country ski trails in the area. Please do not snowmobile, walk, or snowshoe on the groomed ski trails. The course to complete the Southern -Eb's Trails Ski Adventure Series will require approximately 11 Kms of skiing. 
+
+NOTE: The ski trails skill level requirements are rated as: Experienced level skiers. Ski at your own risk. Trails are not patrolled. Ski in a group. Advise others where you are going and when you plan to return. Safety First!!  Please park at the posted parking co-ordinates and ski or hike to ground zero. Operating vehicles on these trails may result in forest fires due to the amount of dead/dry grass!! Obey all posted sinage!!
+
+Summer Hiking: Completion of this cache by summer hiking requires good hiking shoes &amp; clothing. Carry water and trail snacks. Mosquito repellant will be an asset. If the gate to the parking area is closed please ensure it remains closed as there may be livestock in the area.
+
+Good luck, please ski/hike with a friend and have a safe adventure. You can check the trail snow conditions on the &quot;Ski Hot-line&quot; @ (306-343-0191) before heading out on your trip (use the Nordic Ski Club link above). Take your camera and share
+some photo's with your fellow geo-cachers.
+
+
+Down-load the GPS track file for this adventure from: &quot;Beaver Dude's Adventure Page&quot; (http://hirkw1.sasktelwebsite.net/)
+
+
+Additional Waypoints: Parking - N 52° 55.973 W 106° 03.289
+(Please park here.. Only hike/ski to GZ. &quot;No motorized vehicles past this point!!&quot; )
+
+
+ </groundspeak:long_description>
+            <groundspeak:encoded_hints>Of course that is exactly where it is hidden</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Not Snowmobiles</ox:tag>
+                <ox:tag>Cross Country Skis</ox:tag>
+                <ox:tag>Available at all times</ox:tag>
+                <ox:tag>Stealth required</ox:tag>
+                <ox:tag>Ticks</ox:tag>
+                <ox:tag>Not Quads</ox:tag>
+                <ox:tag>Not Off-road vehicles</ox:tag>
+                <ox:tag>Not Dogs allowed</ox:tag>
+                <ox:tag>Medium hike (1km-10km)</ox:tag>
+                <ox:tag>Not Campfires</ox:tag>
+                <ox:tag>Bicycles</ox:tag>
+                <ox:tag>Available during winter</ox:tag>
+                <ox:tag>Watch for livestock</ox:tag>
+                <ox:tag>Not Motorcycles</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.088633" lat="52.932833">
+        <time>2011-10-16T03:00:00.000-05:00</time>
+        <name>OX36415</name>
+        <desc>Twin Spruce - II by candlelightforge, Traditional Cache(1.5/4.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX36415</url>
+        <urlname>Twin Spruce - II</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2953189">
+            <groundspeak:name>Twin Spruce - II</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">
+This is an easy find located near a rest bench on the &quot;Big Spruce&quot; Trail and is part of the Southern - Eb's Trails Ski Adventure Series.
+
+You are searching for a small plastic peanut butter jar which contains the cache log, cache note and a selection of small trade items. Do a small item trade or drop off your personal signature item to mark your visit.
+
+The Big SpruceTrail/Willow View trails are classed as a &quot;Back-country Trail&quot; (not for novice skiers). They have numerous challenging up/down hill segments. They are extremely winding and will test your navigation skills. Once you have logged this cache continue to follow the Big Spruce and Willow View trails to the South parking lot. Remember the Big Spruce &amp; Willow View trails are one-way directional trail. Please comply with the recommended direction.
+
+The Saskatoon Nordic Ski Club (http://saskatoonnordicski.ca/) operate groomed public cross-country ski trails in the area. Please do not snowmobile,walk, or snowshoe on the groomed ski trails. The course to complete the Southern -Eb's Trails Ski Adventure Series will require approximately 11 Kms of skiing. 
+
+NOTE: The ski trails skill level requirements are rated as:Experienced level skiers. Ski at your own risk. Trails are not patrolled. Ski in a group. Advise others where you are going and when you plan to return. Safety First!!  Please park at the posted parking co-ordinates and ski or hike to ground zero. Operating vehicles on these trails may result in forest fires due to the amount of dead/dry grass!! Obey all posted sinage!!
+
+Summer Hiking Completion of this cache by summer hiking requires good hiking shoes &amp; clothing. Carry water and trail snacks. Mosquito repellant will be an asset. If the gate to the parking area is closed please ensure it remains closed as there may be livestock in the area.
+
+Good luck, please ski/hike with a friend and have a safe adventure. You can check the trail snow conditions on the &quot;Ski Hot-line&quot; @ (306-343-0191) before heading out on your trip (use the Nordic Ski Club link above). Take your camera and share some photo's with your fellow geo-cachers.
+
+
+Down-load :the GPS track file for this adventure from: &quot;Beaver Dude's Adventure Page&quot; (http://hirkw1.sasktelwebsite.net/)
+
+Additional Waypoints:
+N 52° 55.973 W 106° 03.289
+Please park here.. Only hike/ski to GZ. &quot;No motorized vehicles past this point!!&quot; 
+
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Reast a bit and yes that is exactly where it is hidden.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Watch for livestock</ox:tag>
+                <ox:tag>Cross Country Skis</ox:tag>
+                <ox:tag>Not Off-road vehicles</ox:tag>
+                <ox:tag>Available during winter</ox:tag>
+                <ox:tag>Stealth required</ox:tag>
+                <ox:tag>Not Dogs allowed</ox:tag>
+                <ox:tag>Not Quads</ox:tag>
+                <ox:tag>Available at all times</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Bicycles</ox:tag>
+                <ox:tag>Not Campfires</ox:tag>
+                <ox:tag>Not Motorcycles</ox:tag>
+                <ox:tag>Medium hike (1km-10km)</ox:tag>
+                <ox:tag>Ticks</ox:tag>
+                <ox:tag>Not Snowmobiles</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.0912" lat="52.936317">
+        <time>2010-12-16T02:00:00.000-06:00</time>
+        <name>OX2K194</name>
+        <desc>Willow View Trail by candlelightforge, Traditional Cache(2.0/4.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2K194</url>
+        <urlname>Willow View Trail</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2414315">
+            <groundspeak:name>Willow View Trail</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">
+This is cache is part  of  the Southern - Eb's Trails Ski Adventure Series. You are  searching for a small lock-n-lock that contains a cache log,cache note and a selection of small trade items. Do a small item trade or drop off your personal signature item to mark your visit.
+
+The Willow View Trail is classed as a &quot;Back-country Trail&quot; (not for novice skiers). It has numerous challenging up/down hill segments. It is extremely winding and will test your navigation skills.
+
+Once you have logged this cache continue to follow the Willow View trail to the South parking lot. Remember the Willow View trail is a one-way directional trail. Please comply with the recommended direction.
+
+The Saskatoon Nordic Ski Club (http://saskatoonnordicski.ca/) operate groomed public cross-country ski trails in the area. Please do not snowmobile, walk, or snowshoe on the groomed ski trails. The course to complete the Southern -Eb's Trails Ski Adventure Series will require approximately 11 Kms of skiing. 
+
+NOTE: The ski trails skill level requirements are rated as:Experienced level skiers. Ski at your own risk. Trails are not patrolled. Ski in a group. Advise others where you are going and when you plan to return. Safety First ! DO NOT operate motor vehicles beyond the posted parking area as you may star a forest fire. There is a lot of dry grass along trails which may be ignited by vehicle exhaust systems...
+
+Completion of this cache by summer hiking requires good hiking shoes &amp; clothing. Carry water and trail snacks. Mosquito repellant will be an asset. If the gate to the parking area is closed please ensure it remains closed as there may be livestock in the area. Good luck, please ski/hike with a friend and have a safe adventure. You can check the trail snow conditions on the &quot;Ski Hot-line&quot; @ (306-343-0191) before heading out on your trip. (use the Nordic Ski Club link above). Take your camera and share some photo's with your fellow geo-cachers.
+
+
+Down-load the GPS track file for this adventure from: &quot;Beaver Dude's
+Adventure Page&quot; (http://hirkw1.sasktelwebsite.net/)
+
+
+
+Additional Waypoints: Parking N 52° 55.973 W 106° 03.289 (EB's Trails - South parking lot. ) </groundspeak:long_description>
+            <groundspeak:encoded_hints>The cache is hanging on the backside of the spruce tree trunk immediately South-West of the ski trail.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Significant hike</ox:tag>
+                <ox:tag>Scenic view</ox:tag>
+                <ox:tag>Long Hike (+10km)</ox:tag>
+                <ox:tag>Not Off-road vehicles</ox:tag>
+                <ox:tag>Cross Country Skis</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Not Motorcycles</ox:tag>
+                <ox:tag>Available during winter</ox:tag>
+                <ox:tag>Not Quads</ox:tag>
+                <ox:tag>Not Snowmobiles</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.092417" lat="52.93865">
+        <time>2010-12-16T02:00:00.000-06:00</time>
+        <name>OX2K190</name>
+        <desc>Big Spruce Trail by candlelightforge, Traditional Cache(2.0/4.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2K190</url>
+        <urlname>Big Spruce Trail</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2414311">
+            <groundspeak:name>Big Spruce Trail</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">
+This is the cache is part of the Southern - Eb's Trails Ski Adventure Series.
+
+You are searching for a small lock-n-lock that contains the cache log,cache note and a selection of small trade items. Do a small item trade or drop off your personal signature item to mark your visit.
+
+The Big Spruce Trail is classed as a &quot;Back-country Trail&quot; (not for novice skiers). It is a moderate challenge with gentle rolling hills through a big spruce forest. Once you have logged this cache continue to follow the Big Spruce trail to the next cache located at &quot;Spruce Junction&quot;. Remember the Big Spruce trail is a one-way directional trail. Please comply with the recommended directions. You should continue the trail to Spruce Junction then back to the South parking lot via the Willow View Trail. So you may as well complete the next three caches.
+
+The Saskatoon Nordic Ski Club (http://saskatoonnordicski.ca/) operate groomed Public cross-country ski trails in the area. Please do not snowmobile, walk, or snowshoe on the groomed ski trails. The course to complete the Southern -Eb's Trails Ski Adventure Series will require approximately 11 Kms of skiing. 
+
+NOTE: The ski trails skill level requirements are rated as: Experienced level skiers. Ski at your own risk. Trails are not patrolled. Ski in a group. Advise others where you are going and when you plan to return. Safety First !  Please do not operate motorized vehicles past the recommended parking lot as the vehicles exhaust system may cause forest fires due to the amount of dry grass on the trails..
+
+Summer Hiking: Completing this cache by summer hiking requires good hiking shoes &amp; clothing. Carry water and trail snacks. Mosquito repellant will be an asset. If the gate to the parking area is closed please ensure it remains closed as there may be livestock in the area.
+
+Good luck, please ski/hike with a friend and have a safe adventure. You can check the trail snow conditions on the &quot;Ski Hot-line&quot; @ (306-343-0191) before heading out on your trip (use the Nordic Ski Club link above). Take your camera and share
+some photo's with your fellow geo-cachers.
+
+
+Down-load the GPS track file for this adventure from: &quot;Beaver Dude's Adventure Page&quot; (http://hirkw1.sasktelwebsite.net/)..
+
+
+
+Additional Waypoints:
+N 52° 55.973 W 106° 03.289 
+EB's Trails - South Parking lot....
+
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Look for a  florescent pink bow  located directly above the cache on the backside of the willow clump at the West edge of the trail.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Available during winter</ox:tag>
+                <ox:tag>Not Quads</ox:tag>
+                <ox:tag>Significant hike</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Scenic view</ox:tag>
+                <ox:tag>Not Snowmobiles</ox:tag>
+                <ox:tag>Not Motorcycles</ox:tag>
+                <ox:tag>Long Hike (+10km)</ox:tag>
+                <ox:tag>Not Off-road vehicles</ox:tag>
+                <ox:tag>Cross Country Skis</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.091467" lat="52.94245">
+        <time>2010-12-16T02:00:00.000-06:00</time>
+        <name>OX22QME</name>
+        <desc>Spruce Junction by candlelightforge, Traditional Cache(2.0/4.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX22QME</url>
+        <urlname>Spruce Junction</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1929361">
+            <groundspeak:name>Spruce Junction</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is  cache is part of of the Southern - Eb's Trails Ski Adventure Series. It is approximately the mid point of the chosen ski route.
+
+You are searching for a medium sized plastic Peanut Butter jar  that contains the
+cache log, cache note and a selection of trade items .  A visible &quot;Winter Trace Line&quot; clearly marks the exact cache location.
+
+The cache location is near the Junction point of the the Hawk Hideaway, the Corral, the Big Spruce and the Willow View ski trails. These trails are classed as &quot;Back-country Trails&quot; (not for novice skiers).
+
+Once you have logged this cache take the Willow View trail to the next cache (or back to the parking lot). The Willow View trail is a one-way directional trail.
+
+The Saskatoon Nordic Ski Club (http://saskatoonnordicski.ca/) operate groomed public cross-country ski trails in the area.  Please do not snowmobile, walk, or snowshoe on the groomed ski trails. The course to the cache will require approximately 11 Kms of skiing. 
+
+NOTE: The ski trails skill level requirements are rated as: Experienced level skiers. Ski at your own risk. Trails are not patrolled. Ski in a group. Advise others where you are going and when you plan to return. Safety First ! Please do not operate motor vehicle past the recommended parking lot as your vehicle exhaust system may cause a forest fire due to the dry grass on the trails.
+
+Summer Hiking:  Completion of this cache by Summer hiking will require a shortest route hike of approximately 9.6 Km (round-trip from the South parking lot). Wear good hiking shoes &amp; clothing. Carry water and trail snacks. Mosquito repellant will be an asset. If the gate to the parking lot is closed please ensure it remains closed at all times as livestock may be in the area.
+
+Good luck, please ski/hike with a friend and have a safe adventure. You should check the trail conditions on the &quot;Ski Hot-line&quot; @ (306-343-0191) before heading out on your trip (use the Nordic Ski Club link above). Take your camera and share some photo's with your fellow geo-cachers.
+
+
+Down-load the GPS track file for this adventure from: &quot;Beaver Dude's Adventure Page&quot; (http://hirkw1.sasktelwebsite.net/).
+
+
+Additional Waypoints:
+Parking: N 52° 55.973 W 106° 03.289
+EB's Trails - South parking lot.. 
+
+ </groundspeak:long_description>
+            <groundspeak:encoded_hints>Look for a florescent pink bow located on an upright tree stump.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Not Dogs</ox:tag>
+                <ox:tag>Scenic view</ox:tag>
+                <ox:tag>Cross Country Skis</ox:tag>
+                <ox:tag>Not Motorcycles</ox:tag>
+                <ox:tag>Long Hike (+10km)</ox:tag>
+                <ox:tag>beware ticks</ox:tag>
+                <ox:tag>Significant hike</ox:tag>
+                <ox:tag>Not Off-road vehicles</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Not Snowmobiles</ox:tag>
+                <ox:tag>Available during winter</ox:tag>
+                <ox:tag>Not Quads</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.0649333" lat="52.95475">
+        <time>2011-10-21T12:45:36.000-05:00</time>
+        <name>OXZTNVJ</name>
+        <desc>The Bog Trail by candlelightforge, Traditional Cache(2.0/3.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTNVJ</url>
+        <urlname>The Bog Trail</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28471410">
+            <groundspeak:name>The Bog Trail</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is an easy find located located near the mid-point of &quot;The Bog Trail&quot; in the Northern portion of Eb's Trails. Approximately 2.0 Kilometers from the Eb's Trails - North parking lot (N 52° 56.865 W 106° 02.587).
+ 
+You are searching for a small plastic peanut butter jar which contains the cache log, cache note and a selection of small trade items. Do a small item trade or drop off your personal signature item to mark your visit.
+ 
+From the posted parking co-ordinates (N 52° 56.865 W 106° 02.587) ski/hike the Jorgens Trail Westerly until you come to the junction of the Bog Trail. Follow the Bog Trail Westerly until you arrive at ground zero. The cache is located 0.5 meters off the trail on the North side. No Bushwhacking is required. Please re-hide well so it is not visible from the trail (Summer and Winter). It is an easy find and could even be done without removing your skis.
+ 
+Once you have logged this cache continue to follow the Bog Trail to the junction of Jorgens Trail then North to the junction of the Porcupine trail, following this cross connection trail back to the parking lot. Of course there is a cache on the Porcupine trail as well.. This route will take you over some gentle rolling terrain and is an excellent ski for the novice skier.
+ 
+The Saskatoon Nordic Ski Club operate groomed public cross-country ski trails in the area. Please do not snowmobile, walk, or snowshoe on the groomed ski trails.
+ 
+NOTE:  Ski at your own risk. Trails are not patrolled. Ski in a group. Advise others where you are going and when you plan to return. Safety First!! 
+ 
+Summer Hiking: Completion of this cache by summer hiking requires good hiking shoes &amp; clothing. Carry water and trail snacks. Mosquito repellant will be an asset. If the gate to the parking area is closed please ensure it remains closed as there may be livestock in the area.
+ 
+Please park your vehicle at the posted parking lot (N 52° 56.865 W 106° 02.587). Ski (Winter) or Hike (Summer) the trails only. Do not operate motor vehicles of any type on the trails....
+
+Good luck, please ski/hike with a friend and have a safe adventure. You can check the trail snow conditions on the &quot;Ski Hot-line&quot; @ (306-343-0191) before heading out on your trip (use the Nordic Ski Club link above). Take your camera and share some photo's with your fellow geo-cachers.
+
+  </groundspeak:long_description>
+            <groundspeak:encoded_hints>Look under a horizontal log a half meter North of the trail</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Not Quads</ox:tag>
+                <ox:tag>beware ticks</ox:tag>
+                <ox:tag>Not Dogs</ox:tag>
+                <ox:tag>Bicycles allowed</ox:tag>
+                <ox:tag>Available during winter</ox:tag>
+                <ox:tag>Medium hike (1km-10km)</ox:tag>
+                <ox:tag>wild animals nearby</ox:tag>
+                <ox:tag>Watch for livestock</ox:tag>
+                <ox:tag>challenging</ox:tag>
+                <ox:tag>Not Snowmobiles</ox:tag>
+                <ox:tag>Not Campfires</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Cross Country Skis</ox:tag>
+                <ox:tag>No off-road vehicles</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.0621833" lat="52.9589">
+        <time>2011-10-21T12:47:37.000-05:00</time>
+        <name>OXZTNVH</name>
+        <desc>Porcupine Trail by candlelightforge, Traditional Cache(2.0/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTNVH</url>
+        <urlname>Porcupine Trail</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28471409">
+            <groundspeak:name>Porcupine Trail</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is an easy find located located near the mid-point of &quot;The Porcupine Trail&quot; in the Northern portion of Eb's Trails. Approximately 3.0 Kilometers from the Eb's Trails - North parking lot (N 52° 05.865 W 106° 02.587) .
+ 
+You are searching for a small plastic peanut butter jar which contains the cache log, cache note and a selection of small trade items. Do a small item trade or drop off your personal signature item to mark your visit.
+ 
+From the Eb's Trails North Parking Lot, ski/hike on a choice of various trail until you arrive at ground Zero. You may follow the route instructions for the Bog Trail cache or navigate a variety of trail choices. The cache is located 0.5 meters off the trail on the North side. No Bushwhacking is required. Please re-hide well so it is not visible from the trail (Summer and Winter). It is an easy find and could even be done without removing your skis. The trails to this cache are excellent for novice skiers.
+ 
+The Saskatoon Nordic Ski Club operate groomed public cross-country ski trails in the area. Please do not snowmobile, walk, or snowshoe on the groomed ski trails.
+ 
+NOTE:  Ski at your own risk. Trails are not patrolled. Ski in a group. Advise others where you are going and when you plan to return. Safety First!! 
+ 
+Summer Hiking: Completion of this cache by summer hiking requires good hiking shoes &amp; clothing. Carry water and trail snacks. Mosquito repellant will be an asset. If the gate to the parking area is closed please ensure it remains closed as there may be livestock in the area.
+ 
+Please park your vehicle at the posted parking lot.. Ski (Winter) or Hike (Summer) the trails only. Do not operate motor vehicles of any type on the trails....
+
+Good luck, please ski/hike with a friend and have a safe adventure. You can check the trail snow conditions on the &quot;Ski Hot-line&quot; @ (306-343-0191) before heading out on your trip (use the Nordic Ski Club link above). Take your camera and share some photo's with your fellow geo-cachers.
+ 
+ </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Ticks</ox:tag>
+                <ox:tag>Not Snowmobiles</ox:tag>
+                <ox:tag>Cross Country Skis</ox:tag>
+                <ox:tag>Not Campfires</ox:tag>
+                <ox:tag>Medium hike (1km-10km)</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Watch for livestock</ox:tag>
+                <ox:tag>Not Quads</ox:tag>
+                <ox:tag>Dangerous Animals</ox:tag>
+                <ox:tag>Available during winter</ox:tag>
+                <ox:tag>challenging</ox:tag>
+                <ox:tag>wild animals nearby</ox:tag>
+                <ox:tag>Not Motorcycles</ox:tag>
+                <ox:tag>Not Dogs allowed</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.052967" lat="52.959483">
+        <time>2011-03-17T03:00:00.000-05:00</time>
+        <name>OX2PCGV</name>
+        <desc>Digital Fortress by candlelightforge, Unknown Cache(5.0/3.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2PCGV</url>
+        <urlname>Digital Fortress</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2514498">
+            <groundspeak:name>Digital Fortress</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br/&gt;&lt;br/&gt; 
+
+
+
+&lt;h1&gt; &lt;/h1&gt;
+&lt;h1&gt;&lt;strong&gt;The final cache is not located at the
+posted&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;co-ordinates
+!!!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Saskatoon branch office of
+CSIS has contacted Inspector La Pep to enlist his assistance in
+solving a diabolical plot to introduce a computer virus into the
+Cities traffic control system. When activated this virus will turn
+every traffic light in the city permanently &lt;strong&gt;RED&lt;/strong&gt; . This will result in mass panic and
+confusion. Geocachers will not be able to get to their local TH to
+enjoy a hot cup of coffee and find caches which have been hidden at
+these locations by the famous &quot;Benny Kidd&quot;.&lt;/p&gt;
+&lt;p&gt;You must assist the inspector to
+break this evil computer virus. Inspector La Pep has obtained a
+copy of the virus code and stored it on a memory stick it's
+contents are listed below. The inspector's effort so far has
+determined that the code contains the GPS co-ordinates of a box
+which is well hidden in a secret location North of Saskatoon.
+Inside the box is a log book which you must sign to verify that you
+have broken the virus code.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Final Cache Location
+Notes:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The final cache is located in a Public Ski Trail
+area (Eb's Trails) in the Nesbit Provincial Forest.&lt;/li&gt;
+&lt;li&gt;In winter only the use of skis are allowed on
+the Ski trails. No hiking, snowshoes or skidoo's.&lt;/li&gt;
+&lt;li&gt;In summer, hike only. No quads or ATV's. If the
+gate to the parking lot is closed please ensure it remains closed
+if you access the parking area. Livestock may be present in the
+area during the summer months.&lt;/li&gt;
+&lt;li&gt;Remember to pack a lunch, water and other items
+you may require on your trip. This is a back-country hike/ski and
+of course the home of a variety of wildlife including
+Bears.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;The Contents of the Memory Stick:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;
+ 
+&lt;/pre&gt;
+&lt;pre&gt;
+M10101000111011100101010101010010101D100010010101100000011010001101&lt;br/&gt;Y10101000001000110001010101001010101L100010010111100100001110001100&lt;br/&gt;C10101001111001001010101010101010101H101000010110101100001010110001&lt;br/&gt;G10111000101010110010101010101010101W100100010110010010001001000110&lt;br/&gt;O10101010100100101101100101010101001Q100010010001100100100010010001&lt;br/&gt;A10101000111000000101110010010010000J100010010111101110100100010000&lt;br/&gt;R10101000101011001101010101011010101B100010000110100001100001000111&lt;br/&gt;K10100100111010100101010101010110101X000010010100000010000110100000&lt;br/&gt;V10101101010100111001010101010100101F100111000001100101001010000111&lt;br/&gt;E10101000100101010100010111010110101K100010010100101000001110000000&lt;br/&gt;L10101010111011001101000100101010101S010010010010010010100010110001&lt;br/&gt;W10101000101010100101010101101010101U100010110010001001011100010010&lt;br/&gt;T10101010011010100010010101010010101Y101010010100011001000010001101&lt;br/&gt;B10101011000110010101010101010110101M100010010001000001000000000100&lt;br/&gt;Z10010100110001000101010001010100101Z100010010000011000001100010001&lt;br/&gt;D10101010010110100101010101010100101C100010010011000100010100010001&lt;br/&gt;S10101000100110010001000101010010101N100010011000100010000000100010&lt;br/&gt;H10100010010011011001010101011010101T100010010001000110000010001101&lt;br/&gt;
+&lt;/pre&gt;
+&lt;p&gt;Bon chance mes
+amis !!&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+
+&lt;a href=&quot;http://www.geocaching.com/track/details.aspx?id=2619721&quot;&gt;&lt;/a&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://evince.locusprime.net/cgi-bin/index.cgi?q=4zzCNE4x7DAQVkx&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt; &lt;/p&gt;
+
+
+
+
+
+
+&lt;p&gt;&lt;strong&gt;This is
+a Beaver Dude   &lt;/strong&gt;&lt;/p&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://hirkw1.sasktelwebsite.net/&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;strong&gt;Approved
+Geo-Challenge&lt;/strong&gt;
+
+
+
+
+
+&lt;p&gt;&lt;a href=&quot;http://www.geocaching.com/track/details.aspx?id=3418007&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://img.geocaching.com/track/f0bd37e0-6f73-4a46-9218-f8076cb98065.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://img.geocaching.com/track/f0bd37e0-6f73-4a46-9218-f8076cb98065.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.geocaching.com/track/details.aspx?id=3418007&quot;&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;
+          
+          &lt;a href=&quot;http://www.geocaching.com/track/details.aspx?id=3418007&quot;&gt;&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://img.geocaching.com/track/f0bd37e0-6f73-4a46-9218-f8076cb98065.jpg&quot;&gt;&lt;/a&gt;                                 &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Congratulations to cam51037 on his &quot;FTF&quot; - May 08, 2011. Well
+done !!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;
+                          &lt;/p&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://www.geocaching.com/track/details.aspx?id=3418007&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+
+
+
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://s06.flagcounter.com/more/k4D1&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;HIDDEN: FN2PCGV - GC2PCGV Final&lt;br/&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br/&gt;&lt;br/&gt;PK2PCGV - GC2PCGV Parking&lt;br/&gt;N 52° 56.865 W 106° 02.587&lt;br/&gt;Eb's Trails North Parking Lot</groundspeak:long_description>
+            <groundspeak:encoded_hints>The final cache is located ten meters north of Jorgen's trail.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>5.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Not Snowmobiles</ox:tag>
+                <ox:tag>Not Off-road vehicles</ox:tag>
+                <ox:tag>Available during winter</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Not Motorcycles</ox:tag>
+                <ox:tag>Significant hike</ox:tag>
+                <ox:tag>Cross Country Skis</ox:tag>
+                <ox:tag>Not Quads</ox:tag>
+                <ox:tag>Medium hike (1km-10km)</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.0673833" lat="52.9601667">
+        <time>2011-10-19T16:24:05.000-05:00</time>
+        <name>OXZTNWR</name>
+        <desc>Inspector LaPep's Adventure - II by candlelightforge, Multi-cache(4.5/4.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTNWR</url>
+        <urlname>Inspector LaPep's Adventure - II</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="28471447">
+            <groundspeak:name>Inspector LaPep's Adventure - II</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>4.5</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">Your adventure begins at the posted coordinates for the Eb's Trails North parking lot (N 52° 56.865 W 106° 02.587). From there you will Ski or Hike approximately 2.75 kilometers over various trails until you arrive at Stage one (the posted cache coordinates). At stage one you must find the coordinates for the final stage. You may need all your keen observation skills to find the coordinates but they are there in plain text. No puzzles to solve or codes to decipher. Stage one is a medium sized plastic peanut butter jar painted brown.
+ 
+The final stage contains the logbook which you must sign to complete your adventure. There is a small selection of trade items as well as a clearly marked &quot;FTF&quot; prize. Please do not share details of your find so that other cachers may enjoy the challenge as well.
+The adventure has been designed so that it may be found in one trip, however the difficulty rating is 4.5 so a &quot;DNF&quot; is quite possible.  Do not dispair.. Simply post a &quot;DNF&quot; and send an email to the cache owner describing stage one and the attempt you made and the Inspector will provide you with an additional hint. You may then chose to return and make the find (the higer terrain rating reflects the possibility of two physical trips to complete the adventure). Please do not remove or change the surroundings at stage one and leave the cache exactly as found so it is possible for the next cacher to make the attempt.
+ 
+The Saskatoon Nordic Ski Club operate groomed public cross-country ski trails in the area. Please do not snowmobile, walk, or snowshoe on the groomed ski trails.
+ 
+NOTE: Ski/Hike at your own risk. Trails are not patrolled. Ski/Hike in a group. Advise others where you are going and when you plan to return. Safety First!!
+ 
+Summer Hiking: Completion of this cache by summer hiking requires good hiking shoes &amp; clothing. Carry water and trail snacks. Mosquito repellent will be an asset. If the gate to the parking area is closed please ensure it remains closed as there may be livestock in the area.
+ 
+Please park your vehicle at the posted parking lot (N 52° 56.865 W 106° 02.587).. Ski (Winter) or Hike (Summer) the trails only. Do not operate motor vehicles of any type on the trails....
+
+Good luck, please ski/hike with a friend and have a safe adventure. You can check the trail snow conditions on the &quot;Ski Hot-line&quot; @ (306-343-0191) before heading out on your trip (use the Nordic Ski Club link above). Take your camera and share some photo's with your fellow geo-cachers.
+
+You may download a GPX track file for this adventure and others from &quot;Beaver Dude's Adventure Page&quot; @ http://hirkw1.sasktelwebsite.net/
+
+
+Good Luck..
+
+   </groundspeak:long_description>
+            <groundspeak:encoded_hints>Inspector LaPep has provided 13 hints for U in the stage one cache.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>4.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Dangerous Animals</ox:tag>
+                <ox:tag>wild animals nearby</ox:tag>
+                <ox:tag>challenging</ox:tag>
+                <ox:tag>Cross Country Skis</ox:tag>
+                <ox:tag>Watch for livestock</ox:tag>
+                <ox:tag>Not Motorcycles</ox:tag>
+                <ox:tag>Parking available</ox:tag>
+                <ox:tag>Not Campfires</ox:tag>
+                <ox:tag>Ticks</ox:tag>
+                <ox:tag>Not Dogs</ox:tag>
+                <ox:tag>Medium hike (1km-10km)</ox:tag>
+                <ox:tag>Available during winter</ox:tag>
+                <ox:tag>Not Snowmobiles</ox:tag>
+                <ox:tag>Not Quads</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.0587" lat="52.968467">
+        <time>2011-03-10T02:00:00.000-06:00</time>
+        <name>OX2NV8J</name>
+        <desc>The Saskatchewan Geo-Triathlon by candlelightforge, Traditional Cache(2.5/3.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2NV8J</url>
+        <urlname>The Saskatchewan Geo-Triathlon</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2497905">
+            <groundspeak:name>The Saskatchewan Geo-Triathlon</groundspeak:name>
+            <groundspeak:placed_by>candlelightforge</groundspeak:placed_by>
+            <groundspeak:owner id="59425">candlelightforge</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br/&gt;&lt;br/&gt; &lt;h1&gt;  The Saskatchewan
+Geo-Triathlon:  &lt;/h1&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The final cache is located in the Nisbet
+Provincial forest in a public ski trail area (Eb's Trails) It is a
+30 cal. ammo box which has been equipped with a Winter trace line
+to make it Winter findable.&lt;/p&gt;
+
+&lt;p&gt;The cache is located approximately 10+ Km
+(6+ miles) round trip, from the posted parking lot. For a
+downloadable GPS track (GPX format) please visit
+&lt;a href=&quot;http://hirkw1.sasktelwebsite.net/&quot;&gt;Beaver Dude's Adventure Page&lt;/a&gt;
+. More information on these trails are
+also available on the &lt;a href=&quot;http://www.saskatoonnordicski.ca/&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://www.saskatoonnordicski.ca/&quot;&gt;Nordic Ski Clubs WEB page&lt;/a&gt; .&lt;/p&gt;
+
+&lt;p&gt;The cache contains a log book, a small selection
+of trade items, and cache completion tags. It is recommended that
+you do not leave travel items in this cache.&lt;/p&gt;
+
+&lt;p&gt;In winter only the use of skis are allowed on the
+Ski trails. No hiking, snowshoes or skidoo's.&lt;/p&gt;
+&lt;p&gt;In summer park at the recommended parking lot,
+hike only. No quads or ATV's allowed on the trails, obey the signs
+posted. If the gate to the parking lot is closed please ensure it
+remains closed if you access the parking area. Livestock may be
+present in the area during the summer months.&lt;/p&gt;
+&lt;p&gt;Remember to pack a lunch, water and other items
+you may require on your trip. This is a back-country hike/ski and
+of course the home of a variety of wildlife including
+Bears.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+
+
+
+
+
+&lt;p&gt;&lt;strong&gt;This is a Beaver
+Dude  &lt;/strong&gt;&lt;/p&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://hirkw1.sasktelwebsite.net/&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;strong&gt;Approved
+Geo-Challenge&lt;/strong&gt;
+
+
+
+
+
+&lt;p&gt;&lt;a href=&quot;http://www.geocaching.com/track/details.aspx?id=3418007&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Congratulations to selvig6 for their &quot;FTF&quot; - March 26, 2011.
+Well done !!&lt;/strong&gt;&lt;/p&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://www.geocaching.com/track/details.aspx?id=3418007&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://s07.flagcounter.com/more/aag&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;BN2NV8J - West Bench&lt;br/&gt;N 52° 57.481 W 106° 04.224&lt;br/&gt;Rest Bench on outer (West) loop of Jorgen's Trail.&lt;br/&gt;HT2NV8J - Warm-up Shelter / Out-Door Restrooms&lt;br/&gt;N 52° 56.890 W 106° 02.736&lt;br/&gt;&lt;br/&gt;PK2NV8J - GC2NV8J Parking&lt;br/&gt;N 52° 56.865 W 106° 02.587&lt;br/&gt;Eb's Trails - North Parking Lot. </groundspeak:long_description>
+            <groundspeak:encoded_hints>The final cache is hidden approx 3 meters west of the ski trail. A thin florescent pink sting is attached to the cache and to a branch above the snow line.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Significant hike</ox:tag>
+                <ox:tag>Available during winter</ox:tag>
+                <ox:tag>Watch for livestock</ox:tag>
+                <ox:tag>Long Hike (+10km)</ox:tag>
+                <ox:tag>Not Snowmobiles</ox:tag>
+                <ox:tag>Not Off-road vehicles</ox:tag>
+                <ox:tag>Not Quads</ox:tag>
+                <ox:tag>Not Motorcycles</ox:tag>
+                <ox:tag>Cross Country Skis</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+</gpx>
