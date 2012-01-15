@@ -1,0 +1,4 @@
+#!/bin/bash
+nice lzma -9k out.db&
+nice bzip2 -9k out.db&
+gzip -9c out.db > out.db.gz
