@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>36 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,-152,90,-151</url>
-    <time>2012-01-04T09:24:34.061-06:00</time>
+    <time>2012-12-19T22:26:13.667Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="-151.0" maxlat="90.0" minlon="-152.0" minlat="-90.0"/>
     <wpt lon="-151.2078333" lat="59.76065">
-        <time>2011-03-12T13:17:19.000-06:00</time>
+        <time>2011-03-12T19:17:19.000Z</time>
         <name>OX1TQHX</name>
         <desc>An Iceworms Triplets by ALASKARAMBO, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1TQHX</url>
@@ -24,19 +24,10 @@
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">There is a small pull out near the cache location 
-
-
-A beautiful view of Iceworm peak with three glacier's flowing towards Kachemak Bay. 
-Grewing Glacier
-Portlock Glacier
-Dixon Glacier
-
-Back your truck into the pullout and enjoy a picnic while enjoying the view. We did! You won't ask why we brought you here (c:
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">There is a small pull out near the cache location &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;A beautiful view of Iceworm peak with three glacier's flowing towards Kachemak Bay. &lt;br/&gt;Grewing Glacier&lt;br/&gt;Portlock Glacier&lt;br/&gt;Dixon Glacier&lt;br/&gt;&lt;br/&gt;Back your truck into the pullout and enjoy a picnic while enjoying the view. We did! You won't ask why we brought you here (c:&lt;br/&gt;</groundspeak:long_description>
             <groundspeak:logs>
                 <groundspeak:log id="516467">
-                    <groundspeak:date>2009-06-20T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2009-06-20T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="4649">Tundra Tim</groundspeak:finder>
                     <groundspeak:text encoded="False">Took a while to find this cache as it had fallen out of it's hidey hole and was on the ground. Signed the log and put it back where it's supposed to be.
@@ -51,14 +42,10 @@ Excellent view from here.</groundspeak:text>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Not available in winter</ox:tag>
-                <ox:tag>scenic overlook</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.66545" lat="60.0505333">
-        <time>2011-03-12T13:44:58.000-06:00</time>
+        <time>2011-03-12T19:44:58.000Z</time>
         <name>OX1TQJJ</name>
         <desc>We Can See Russia from Our Backyard! by ALASKARAMBO, Traditional Cache(3.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1TQJJ</url>
@@ -73,15 +60,10 @@ Excellent view from here.</groundspeak:text>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">One of my favorite places to photograph.... 
-
-
-Ninilchik was settled around the turn of the 19th century by creoles, Russians, Aleuts, and Indians. They were retired hunters and trappers that wanted to find a homeland of their own. Some of their great grandchildren still reside here to this day. Ninilchik is a popular tourist attraction located at the mouth of the Ninilchik river, famous for its fishing and the beaches are known for their clams at low tide. The Russian Orthodox Church was built on the hill above the village. 
-Bring your camera, and your fishing pole..........
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">One of my favorite places to photograph.... &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Ninilchik was settled around the turn of the 19th century by creoles, Russians, Aleuts, and Indians. They were retired hunters and trappers that wanted to find a homeland of their own. Some of their great grandchildren still reside here to this day. Ninilchik is a popular tourist attraction located at the mouth of the Ninilchik river, famous for its fishing and the beaches are known for their clams at low tide. The Russian Orthodox Church was built on the hill above the village. &lt;br/&gt;Bring your camera, and your fishing pole..........&lt;br/&gt;</groundspeak:long_description>
             <groundspeak:logs>
                 <groundspeak:log id="516469">
-                    <groundspeak:date>2009-06-21T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2009-06-21T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="4649">Tundra Tim</groundspeak:finder>
                     <groundspeak:text encoded="False">Took the right road so we could get some exercise walking up the hill. Nice little hide! Thanks for bringing us up here.</groundspeak:text>
@@ -95,13 +77,10 @@ Bring your camera, and your fishing pole..........
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>scenic overlook</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.1625667" lat="60.4373833">
-        <time>2008-09-19T02:00:00.000-05:00</time>
+        <time>2008-09-19T07:00:00.000Z</time>
         <name>OX1GE32</name>
         <desc>Cache Flow by SSOJOAT, Unknown Cache(2.8/1.4/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1GE32</url>
@@ -116,8 +95,7 @@ Bring your camera, and your fishing pole..........
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!  
-Cross posted puzzle from geocaching.com at http://coord.info/GC1GE32 </groundspeak:long_description>
+            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!  &lt;br/&gt;Cross posted puzzle from geocaching.com at http://coord.info/GC1GE32 </groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -129,7 +107,7 @@ Cross posted puzzle from geocaching.com at http://coord.info/GC1GE32 </groundspe
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.1428" lat="60.4737167">
-        <time>2009-08-16T02:00:00.000-05:00</time>
+        <time>2009-08-16T07:00:00.000Z</time>
         <name>OX1XCCX</name>
         <desc>Dorsal Earth by SSOJOAT, Unknown Cache(2.6/1.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1XCCX</url>
@@ -144,9 +122,7 @@ Cross posted puzzle from geocaching.com at http://coord.info/GC1GE32 </groundspe
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">The cache is NOT at the published coordinates!
-This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1XCCX
-This is a PREMIUM MEMBER ONLY cache at geocaching.com</groundspeak:long_description>
+            <groundspeak:long_description html="True">The cache is NOT at the published coordinates!&lt;br/&gt;This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1XCCX&lt;br/&gt;This is a PREMIUM MEMBER ONLY cache at geocaching.com</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -158,7 +134,7 @@ This is a PREMIUM MEMBER ONLY cache at geocaching.com</groundspeak:long_descript
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.025" lat="60.475">
-        <time>2009-10-05T02:00:00.000-05:00</time>
+        <time>2009-10-05T07:00:00.000Z</time>
         <name>OX20HZH</name>
         <desc>AL's Two Bits by SSOJOAT, Unknown Cache(2.9/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX20HZH</url>
@@ -173,8 +149,7 @@ This is a PREMIUM MEMBER ONLY cache at geocaching.com</groundspeak:long_descript
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!
-This puzzle cache is cross posted from geocaching.com at http://coord.info/GC20HZH</groundspeak:long_description>
+            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!&lt;br/&gt;This puzzle cache is cross posted from geocaching.com at http://coord.info/GC20HZH</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -186,7 +161,7 @@ This puzzle cache is cross posted from geocaching.com at http://coord.info/GC20H
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.1038833" lat="60.4755">
-        <time>2009-05-18T02:00:00.000-05:00</time>
+        <time>2009-05-18T07:00:00.000Z</time>
         <name>OX1RH73</name>
         <desc>Sports Center by SSOJOAT, Traditional Cache(1.1/1.6/2.9)</desc>
         <url>http://www.opencaching.com/#geocache/OX1RH73</url>
@@ -204,7 +179,7 @@ This puzzle cache is cross posted from geocaching.com at http://coord.info/GC20H
             <groundspeak:long_description html="True">Cross posted from geocaching.com at http://coord.info/GC1RH73</groundspeak:long_description>
             <groundspeak:logs>
                 <groundspeak:log id="1674542">
-                    <groundspeak:date>2011-11-13T18:41:38.000-06:00</groundspeak:date>
+                    <groundspeak:date>2011-11-14T00:41:38.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="71556">Joeat11</groundspeak:finder>
                     <groundspeak:text encoded="False">Great fun with the kiddos. 
@@ -212,14 +187,14 @@ This puzzle cache is cross posted from geocaching.com at http://coord.info/GC20H
 Logged via OpenCaching for iPhone</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1274069">
-                    <groundspeak:date>2011-06-02T23:43:23.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-06-03T04:43:23.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="28958">akjoek</groundspeak:finder>
                     <groundspeak:text encoded="False">This was my first Cache, took some kids and they loved it. Perfect first Cache-  not too hard and not too easy.
 Logged via OpenCaching Android app.</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="683607">
-                    <groundspeak:date>2010-07-14T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-07-14T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="2209">EL_ROLFO986</groundspeak:finder>
                     <groundspeak:text encoded="False">We have found this cache on our vacation-tour through the Yukon and Alaska.
@@ -229,7 +204,7 @@ Thanks for the cache and greetings from Germany.
 Katrin+Rolf</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="516400">
-                    <groundspeak:date>2009-06-21T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2009-06-21T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="4649">Tundra Tim</groundspeak:finder>
                     <groundspeak:text encoded="False">On a roll with Klondike Kate and Malcore. 3 caches around 1 big parking area. Thanks</groundspeak:text>
@@ -246,7 +221,7 @@ Katrin+Rolf</groundspeak:text>
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.0960833" lat="60.4755833">
-        <time>2010-12-07T22:18:52.000-06:00</time>
+        <time>2010-12-08T04:18:52.000Z</time>
         <name>OX1EX5A</name>
         <desc>Hotdogs &amp; Apple Pie by SSOJOAT, Traditional Cache(1.9/1.6/3.1)</desc>
         <url>http://www.opencaching.com/#geocache/OX1EX5A</url>
@@ -264,7 +239,7 @@ Katrin+Rolf</groundspeak:text>
             <groundspeak:long_description html="True">Cross posted from geocaching.com at http://coord.info/GC1EX5A</groundspeak:long_description>
             <groundspeak:logs>
                 <groundspeak:log id="1674543">
-                    <groundspeak:date>2011-11-13T18:54:59.000-06:00</groundspeak:date>
+                    <groundspeak:date>2011-11-14T00:54:59.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="71556">Joeat11</groundspeak:finder>
                     <groundspeak:text encoded="False">Very cleverly hidden!!!
@@ -272,14 +247,14 @@ Katrin+Rolf</groundspeak:text>
 Logged via OpenCaching for iPhone</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1274070">
-                    <groundspeak:date>2011-06-02T23:49:06.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-06-03T04:49:06.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="28958">akjoek</groundspeak:finder>
                     <groundspeak:text encoded="False">This was a great hide and find. Especially if you do the Sports Center first, it is lots of fun. Super Clever!
 Logged via OpenCaching Android app.</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="682640">
-                    <groundspeak:date>2010-07-14T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-07-14T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="2209">EL_ROLFO986</groundspeak:finder>
                     <groundspeak:text encoded="False">We have found this cache on our vacation-tour through the Yukon and Alaska.
@@ -290,7 +265,7 @@ Katrin+Rolf
 </groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="515782">
-                    <groundspeak:date>2009-06-21T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2009-06-21T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="4649">Tundra Tim</groundspeak:finder>
                     <groundspeak:text encoded="False">Very well-done hide!
@@ -307,8 +282,44 @@ TNLNSL</groundspeak:text>
             </ox:ratings>
         </ox:opencaching>
     </wpt>
+    <wpt lon="-151.109167" lat="60.477983">
+        <time>2012-06-07T07:00:00.000Z</time>
+        <name>OX3N440</name>
+        <desc>Grace's Cache by akairboater, Traditional Cache(2.5/3.4/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3N440</url>
+        <urlname>Grace's Cache</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3400142">
+            <groundspeak:name>Grace's Cache</groundspeak:name>
+            <groundspeak:placed_by>akairboater</groundspeak:placed_by>
+            <groundspeak:owner id="140918">akairboater</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Beautiful mile and a half hike through God's creation. The cache is hidden at the coordinates.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This cache is along a trail in Soldotna.  There are three ways into the trail.  The cache is carefully hidden at the coordinates.  The trail runs along the river and unfortunately the bank is closed to fishing.  Nice hike though.  The trail is walkable all year and clothing needed is per weather conditions.  The trail can be a little muddy at times of the year.  You do not need to bushwhack if your GPS tells you too.  Good spot for kids of all ages. The cache is a small to medium size plastic bottle with a log book inside.   </groundspeak:long_description>
+            <groundspeak:encoded_hints>Reach down in a deep dark hole.  You won't get bit.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.4</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMG_0990.jpg</ox:name>
+                    <ox:size>109994</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
     <wpt lon="-151.1304667" lat="60.4809667">
-        <time>2008-08-31T02:00:00.000-05:00</time>
+        <time>2008-08-31T07:00:00.000Z</time>
         <name>OX1FRYG</name>
         <desc>Slikok Cipher Project by SSOJOAT, Multi-cache(3.6/3.2/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1FRYG</url>
@@ -328,7 +339,7 @@ TNLNSL</groundspeak:text>
 </groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="515876">
-                    <groundspeak:date>2010-06-13T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-06-13T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="4649">Tundra Tim</groundspeak:finder>
                     <groundspeak:text encoded="False">I thought I could get away without doing a puzzle cache, but even your multi-caches are puzzles!
@@ -346,7 +357,7 @@ Clearly, this is the most fun cache we've done in a long time! This was so fun t
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.1153333" lat="60.4815833">
-        <time>2009-07-13T02:00:00.000-05:00</time>
+        <time>2009-07-13T07:00:00.000Z</time>
         <name>OX1ZD67</name>
         <desc>HP5 - The Order of the Phoenix by SSOJOAT, Unknown Cache(4.0/2.2/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ZD67</url>
@@ -361,8 +372,7 @@ Clearly, this is the most fun cache we've done in a long time! This was so fun t
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>4</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!
-This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD67</groundspeak:long_description>
+            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!&lt;br/&gt;This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD67</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -374,7 +384,7 @@ This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.1133333" lat="60.4815833">
-        <time>2009-07-13T02:00:00.000-05:00</time>
+        <time>2009-07-13T07:00:00.000Z</time>
         <name>OX1ZD64</name>
         <desc>HP4 - The Goblet of Fire by SSOJOAT, Unknown Cache(4.0/1.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ZD64</url>
@@ -389,8 +399,7 @@ This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>4</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!
-This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD64</groundspeak:long_description>
+            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!&lt;br/&gt;This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD64</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -402,7 +411,7 @@ This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.13355" lat="60.48185">
-        <time>2009-08-16T02:00:00.000-05:00</time>
+        <time>2009-08-16T07:00:00.000Z</time>
         <name>OX1XCCM</name>
         <desc>Artifact by SSOJOAT, Traditional Cache(1.8/2.2/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1XCCM</url>
@@ -420,7 +429,7 @@ This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD
             <groundspeak:long_description html="True">Cross posted from geocaching.com at http://coord.info/GC1XCCM</groundspeak:long_description>
             <groundspeak:logs>
                 <groundspeak:log id="516640">
-                    <groundspeak:date>2010-06-12T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-06-12T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="4649">Tundra Tim</groundspeak:finder>
                     <groundspeak:text encoded="False">Quick find before attempting the famous Slikok Cipher Project.TN &amp; Left a geocoin.</groundspeak:text>
@@ -437,7 +446,7 @@ This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.1246667" lat="60.4825">
-        <time>2008-09-28T02:00:00.000-05:00</time>
+        <time>2008-09-28T07:00:00.000Z</time>
         <name>OX1GP2F</name>
         <desc>Dmitri 69 by SSOJOAT, Unknown Cache(2.6/1.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1GP2F</url>
@@ -452,12 +461,10 @@ This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">The cache is NOT at the published coordinates!  
-This puzzle is cross posted from geocaching.com at http://coord.info/GC1GP2F
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">The cache is NOT at the published coordinates!  &lt;br/&gt;This puzzle is cross posted from geocaching.com at http://coord.info/GC1GP2F&lt;br/&gt;</groundspeak:long_description>
             <groundspeak:logs>
                 <groundspeak:log id="515933">
-                    <groundspeak:date>2009-05-16T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2009-05-16T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="4649">Tundra Tim</groundspeak:finder>
                     <groundspeak:text encoded="False">I wasn't very prepared coming to the puzzle capital of Alaska, but I did squeak this one out. TN and left a &quot;Geocoin Thief &quot; Geocoin, which may be appropriate for this area.
@@ -475,7 +482,7 @@ TFTC</groundspeak:text>
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.11675" lat="60.48275">
-        <time>2009-07-13T02:00:00.000-05:00</time>
+        <time>2009-07-13T07:00:00.000Z</time>
         <name>OX1ZD6A</name>
         <desc>HP6 - The Half-Blood Prince by SSOJOAT, Unknown Cache(3.5/1.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ZD6A</url>
@@ -490,8 +497,7 @@ TFTC</groundspeak:text>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>3.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!
-This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD6A</groundspeak:long_description>
+            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!&lt;br/&gt;This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD6A</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -503,7 +509,7 @@ This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.1119167" lat="60.48275">
-        <time>2009-07-13T02:00:00.000-05:00</time>
+        <time>2009-07-13T07:00:00.000Z</time>
         <name>OX1ZD60</name>
         <desc>HP3 - The Prisoner of Azkaban by SSOJOAT, Unknown Cache(3.4/1.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ZD60</url>
@@ -518,8 +524,7 @@ This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>3.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!
-This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD60</groundspeak:long_description>
+            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!&lt;br/&gt;This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD60</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -531,7 +536,7 @@ This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.1143333" lat="60.4833333">
-        <time>2009-07-13T02:00:00.000-05:00</time>
+        <time>2009-07-13T07:00:00.000Z</time>
         <name>OX1ZD6H</name>
         <desc>HP8 - The Harry Potter Multi-Puzzle by SSOJOAT, Unknown Cache(5.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ZD6H</url>
@@ -546,9 +551,7 @@ This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!
-This multi-puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD6H
-Note that it requires solving and finding 7 other puzzle caches before this one can even be attempted.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!&lt;br/&gt;This multi-puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD6H&lt;br/&gt;Note that it requires solving and finding 7 other puzzle caches before this one can even be attempted.</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -560,7 +563,7 @@ Note that it requires solving and finding 7 other puzzle caches before this one 
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.0648" lat="60.4831167">
-        <time>2009-06-21T02:00:00.000-05:00</time>
+        <time>2009-06-21T07:00:00.000Z</time>
         <name>OX1V1D0</name>
         <desc>Soldotna Creek Park II by SSOJOAT, Traditional Cache(1.6/1.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1V1D0</url>
@@ -575,18 +578,17 @@ Note that it requires solving and finding 7 other puzzle caches before this one 
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cross posted from geocaching.com at http://coord.info/GC1V1D0
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Cross posted from geocaching.com at http://coord.info/GC1V1D0&lt;br/&gt;</groundspeak:long_description>
             <groundspeak:logs>
                 <groundspeak:log id="1274071">
-                    <groundspeak:date>2011-06-02T23:55:29.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-06-03T04:55:29.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="28958">akjoek</groundspeak:finder>
                     <groundspeak:text encoded="False">Pretty straight forward, great starter Cache, also a toughy to make sure you are discreet about your activity.
 Logged via OpenCaching Android app.</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="516502">
-                    <groundspeak:date>2010-03-26T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-03-26T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="4649">Tundra Tim</groundspeak:finder>
                     <groundspeak:text encoded="False">Driving through Soldotna, one must stop at the local DQ for the treat of choice!
@@ -605,7 +607,7 @@ TFTC</groundspeak:text>
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.0613167" lat="60.4831167">
-        <time>2008-08-23T02:00:00.000-05:00</time>
+        <time>2008-08-23T07:00:00.000Z</time>
         <name>OX1FHRG</name>
         <desc>Down on the Boardwalk by SSOJOAT, Traditional Cache(2.4/1.8/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1FHRG</url>
@@ -623,20 +625,20 @@ TFTC</groundspeak:text>
             <groundspeak:long_description html="True">Cross posted from geocaching.com at http://coord.info/GC1FHRG</groundspeak:long_description>
             <groundspeak:logs>
                 <groundspeak:log id="1274072">
-                    <groundspeak:date>2011-06-03T00:00:15.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-06-03T05:00:15.000Z</groundspeak:date>
                     <groundspeak:type>Additional Find</groundspeak:type>
                     <groundspeak:finder id="28958">akjoek</groundspeak:finder>
                     <groundspeak:text encoded="False">This is a neat hide and find. This is a great cache to teach new folks how to be low-key and sneaky when GC'ing and to show newbies how cleverly hidden Caches can exist in the wild without being messed with.
 Logged via OpenCaching Android app.</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1274073">
-                    <groundspeak:date>2011-06-02T23:58:52.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-06-03T04:58:52.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="28958">akjoek</groundspeak:finder>
                     <groundspeak:text encoded="False">Logged via OpenCaching Android app.</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="515865">
-                    <groundspeak:date>2009-05-17T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2009-05-17T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="4649">Tundra Tim</groundspeak:finder>
                     <groundspeak:text encoded="False">Got up early and snagged a few caches before heading back to Anchortown.
@@ -654,7 +656,7 @@ Nice hide.</groundspeak:text>
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.1161667" lat="60.4843333">
-        <time>2009-07-13T02:00:00.000-05:00</time>
+        <time>2009-07-13T07:00:00.000Z</time>
         <name>OX1ZD6D</name>
         <desc>HP7 - The Deathly Hallows by SSOJOAT, Unknown Cache(4.6/1.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ZD6D</url>
@@ -669,8 +671,7 @@ Nice hide.</groundspeak:text>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>4.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!
-This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD6D</groundspeak:long_description>
+            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!&lt;br/&gt;This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD6D</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -682,7 +683,7 @@ This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.1125" lat="60.4843333">
-        <time>2009-07-13T02:00:00.000-05:00</time>
+        <time>2009-07-13T07:00:00.000Z</time>
         <name>OX1ZD5X</name>
         <desc>HP2 - The Chamber of Secrets by SSOJOAT, Unknown Cache(3.4/1.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ZD5X</url>
@@ -697,8 +698,7 @@ This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>3.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!
-This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD5X</groundspeak:long_description>
+            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!&lt;br/&gt;This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD5X</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -710,7 +710,7 @@ This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.0723833" lat="60.4846">
-        <time>2008-08-27T02:00:00.000-05:00</time>
+        <time>2008-08-27T07:00:00.000Z</time>
         <name>OX1FP90</name>
         <desc>Center of Soldotna by SSOJOAT, Multi-cache(2.6/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1FP90</url>
@@ -725,9 +725,7 @@ This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!  This is a field solved multi-cache that starts at the published coordinates, but there is no cache at that location.
-
-Visit the listing on geocaching.com at http://coord.info/GC1FP90</groundspeak:long_description>
+            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!  This is a field solved multi-cache that starts at the published coordinates, but there is no cache at that location.&lt;br/&gt;&lt;br/&gt;Visit the listing on geocaching.com at http://coord.info/GC1FP90</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -739,7 +737,7 @@ Visit the listing on geocaching.com at http://coord.info/GC1FP90</groundspeak:lo
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.1143333" lat="60.485">
-        <time>2009-07-13T02:00:00.000-05:00</time>
+        <time>2009-07-13T07:00:00.000Z</time>
         <name>OX1ZD5V</name>
         <desc>HP1 - The Sorcerer's Stone by SSOJOAT, Unknown Cache(3.6/1.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ZD5V</url>
@@ -754,8 +752,7 @@ Visit the listing on geocaching.com at http://coord.info/GC1FP90</groundspeak:lo
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>3.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!
-This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD5V</groundspeak:long_description>
+            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!&lt;br/&gt;This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD5V</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -767,7 +764,7 @@ This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.1308333" lat="60.4854167">
-        <time>2008-09-19T02:00:00.000-05:00</time>
+        <time>2008-09-19T07:00:00.000Z</time>
         <name>OX1G984</name>
         <desc>Zoinks! by SSOJOAT, Unknown Cache(3.2/3.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1G984</url>
@@ -782,8 +779,7 @@ This puzzle cache is cross posted from geocaching.com at http://coord.info/GC1ZD
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">The cache is NOT at the published coordinates! 
-This puzzle is cross posted from geocaching.com at http://coord.info/GC1G984</groundspeak:long_description>
+            <groundspeak:long_description html="True">The cache is NOT at the published coordinates! &lt;br/&gt;This puzzle is cross posted from geocaching.com at http://coord.info/GC1G984</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -795,7 +791,7 @@ This puzzle is cross posted from geocaching.com at http://coord.info/GC1G984</gr
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.0572667" lat="60.4866833">
-        <time>2008-08-30T02:00:00.000-05:00</time>
+        <time>2008-08-30T07:00:00.000Z</time>
         <name>OX1FRX8</name>
         <desc>Y Muggle Zone by SSOJOAT, Traditional Cache(1.3/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1FRX8</url>
@@ -813,7 +809,7 @@ This puzzle is cross posted from geocaching.com at http://coord.info/GC1G984</gr
             <groundspeak:long_description html="True">Cross posted from geocaching.com at http://coord.info/GC1FRX8</groundspeak:long_description>
             <groundspeak:logs>
                 <groundspeak:log id="682646">
-                    <groundspeak:date>2010-07-14T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-07-14T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="2209">EL_ROLFO986</groundspeak:finder>
                     <groundspeak:text encoded="False">We have found this cache on our vacation-tour through the Yukon and Alaska.
@@ -834,7 +830,7 @@ Katrin+Rolf</groundspeak:text>
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.1410833" lat="60.4871667">
-        <time>2008-09-28T02:00:00.000-05:00</time>
+        <time>2008-09-28T07:00:00.000Z</time>
         <name>OX1GP2T</name>
         <desc>KB Elementary Retreat by SSOJOAT, Unknown Cache(4.2/1.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1GP2T</url>
@@ -849,10 +845,7 @@ Katrin+Rolf</groundspeak:text>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>4</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">The cache is NOT at the published coordinates!
-This puzzle is cross posted from geocaching.com at http://coord.info/GC1GP2T 
- 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">The cache is NOT at the published coordinates!&lt;br/&gt;This puzzle is cross posted from geocaching.com at http://coord.info/GC1GP2T &lt;br/&gt; &lt;br/&gt;</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -864,7 +857,7 @@ This puzzle is cross posted from geocaching.com at http://coord.info/GC1GP2T
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.0844167" lat="60.4875">
-        <time>2010-06-03T02:00:00.000-05:00</time>
+        <time>2010-06-03T07:00:00.000Z</time>
         <name>OX29RXF</name>
         <desc>Dancing Fall Angies by SSOJOAT, Unknown Cache(3.4/1.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX29RXF</url>
@@ -879,8 +872,7 @@ This puzzle is cross posted from geocaching.com at http://coord.info/GC1GP2T
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>3.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!
-This puzzle cache is cross posted from geocaching.com at http://coord.info/GC29RXF</groundspeak:long_description>
+            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!&lt;br/&gt;This puzzle cache is cross posted from geocaching.com at http://coord.info/GC29RXF</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -892,7 +884,7 @@ This puzzle cache is cross posted from geocaching.com at http://coord.info/GC29R
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.07415" lat="60.4900333">
-        <time>2010-12-07T20:26:08.000-06:00</time>
+        <time>2010-12-08T02:26:08.000Z</time>
         <name>OX1DYK9</name>
         <desc>American Patriotism by SSOJOAT, Traditional Cache(1.6/1.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1DYK9</url>
@@ -907,11 +899,10 @@ This puzzle cache is cross posted from geocaching.com at http://coord.info/GC29R
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cross posted from geocaching.com as http://coord.info/GC1DYK9 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Cross posted from geocaching.com as http://coord.info/GC1DYK9 &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:logs>
                 <groundspeak:log id="515765">
-                    <groundspeak:date>2009-05-16T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2009-05-16T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="4649">Tundra Tim</groundspeak:finder>
                     <groundspeak:text encoded="False">Tried to find this one last year when it went missing, but we came up with the goods this time.
@@ -926,18 +917,10 @@ Thanks</groundspeak:text>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>24/7</ox:tag>
-                <ox:tag>Available in Winter</ox:tag>
-                <ox:tag>Kid Friendly</ox:tag>
-                <ox:tag>Park and Grab</ox:tag>
-                <ox:tag>wheelchair accessible</ox:tag>
-                <ox:tag>Dog Friendly</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.065" lat="60.491">
-        <time>2008-08-23T02:00:00.000-05:00</time>
+        <time>2008-08-23T07:00:00.000Z</time>
         <name>OX1FHR8</name>
         <desc>Soldotna Spur Nano by SSOJOAT, Traditional Cache(2.0/1.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1FHR8</url>
@@ -955,7 +938,7 @@ Thanks</groundspeak:text>
             <groundspeak:long_description html="True">Cross posted from geocaching.com at http://coord.info/GC1FHR8</groundspeak:long_description>
             <groundspeak:logs>
                 <groundspeak:log id="515864">
-                    <groundspeak:date>2009-05-16T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2009-05-16T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="4649">Tundra Tim</groundspeak:finder>
                     <groundspeak:text encoded="False">Didn't take too long to put my finger on it!
@@ -973,7 +956,7 @@ TFTC</groundspeak:text>
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.072" lat="60.4925">
-        <time>2010-08-27T02:00:00.000-05:00</time>
+        <time>2010-08-27T07:00:00.000Z</time>
         <name>OX28KE9</name>
         <desc>Start of a New Revolution by SSOJOAT, Unknown Cache(3.6/1.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX28KE9</url>
@@ -988,8 +971,7 @@ TFTC</groundspeak:text>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>3.5</groundspeak:difficulty>
             <groundspeak:terrain>1</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!
-This puzzle cache is cross posted from geocaching.com at http://coord.info/GC28KE9</groundspeak:long_description>
+            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!&lt;br/&gt;This puzzle cache is cross posted from geocaching.com at http://coord.info/GC28KE9</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -1001,7 +983,7 @@ This puzzle cache is cross posted from geocaching.com at http://coord.info/GC28K
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.1116667" lat="60.495">
-        <time>2009-10-05T02:00:00.000-05:00</time>
+        <time>2009-10-05T07:00:00.000Z</time>
         <name>OX200H6</name>
         <desc>Samurai by SSOJOAT, Unknown Cache(3.4/1.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX200H6</url>
@@ -1016,8 +998,7 @@ This puzzle cache is cross posted from geocaching.com at http://coord.info/GC28K
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>3.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!
-This puzzle cache is cross posted from geocaching.com at http://coord.info/GC200H6</groundspeak:long_description>
+            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!&lt;br/&gt;This puzzle cache is cross posted from geocaching.com at http://coord.info/GC200H6</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -1029,7 +1010,7 @@ This puzzle cache is cross posted from geocaching.com at http://coord.info/GC200
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.12025" lat="60.5153333">
-        <time>2008-09-01T02:00:00.000-05:00</time>
+        <time>2008-09-01T07:00:00.000Z</time>
         <name>OX1FVHD</name>
         <desc>History Search by SSOJOAT, Unknown Cache(2.8/1.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1FVHD</url>
@@ -1044,9 +1025,7 @@ This puzzle cache is cross posted from geocaching.com at http://coord.info/GC200
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!
-
-Cross posted puzzle from geocaching.com at http://coord.info/GC1FVHD</groundspeak:long_description>
+            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!&lt;br/&gt;&lt;br/&gt;Cross posted puzzle from geocaching.com at http://coord.info/GC1FVHD</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -1058,7 +1037,7 @@ Cross posted puzzle from geocaching.com at http://coord.info/GC1FVHD</groundspea
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.21805" lat="60.5271833">
-        <time>2008-08-23T02:00:00.000-05:00</time>
+        <time>2008-08-23T07:00:00.000Z</time>
         <name>OX1FHCD</name>
         <desc>Shifting Migrations by SSOJOAT, Unknown Cache(3.0/1.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1FHCD</url>
@@ -1073,12 +1052,10 @@ Cross posted puzzle from geocaching.com at http://coord.info/GC1FVHD</groundspea
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>1</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!!!  
-
-You must solve the puzzle posted on geocaching.com at http://coord.info/GC1FHCD</groundspeak:long_description>
+            <groundspeak:long_description html="True">Cache is NOT at the published coordinates!!!  &lt;br/&gt;&lt;br/&gt;You must solve the puzzle posted on geocaching.com at http://coord.info/GC1FHCD</groundspeak:long_description>
             <groundspeak:logs>
                 <groundspeak:log id="515860">
-                    <groundspeak:date>2010-06-13T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-06-13T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="4649">Tundra Tim</groundspeak:finder>
                     <groundspeak:text encoded="False">Figured out the puzzle a few months ago and fortunately was able to find it before we went Kenai caching.
@@ -1096,7 +1073,7 @@ TFTC</groundspeak:text>
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.0948" lat="60.53455">
-        <time>2008-08-31T02:00:00.000-05:00</time>
+        <time>2008-08-31T07:00:00.000Z</time>
         <name>OX1FVFY</name>
         <desc>The Pillars by SSOJOAT, Traditional Cache(1.6/1.4/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1FVFY</url>
@@ -1111,8 +1088,7 @@ TFTC</groundspeak:text>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cross posted from geocaching.com at http://coord.info/GC1FVFY
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Cross posted from geocaching.com at http://coord.info/GC1FVFY&lt;br/&gt;</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -1124,7 +1100,7 @@ TFTC</groundspeak:text>
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.2448" lat="60.5551167">
-        <time>2009-05-19T02:00:00.000-05:00</time>
+        <time>2009-05-19T07:00:00.000Z</time>
         <name>OX1RHQE</name>
         <desc>Merchant Mariners Memorial by SSOJOAT, Traditional Cache(1.4/1.1/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1RHQE</url>
@@ -1151,7 +1127,7 @@ TFTC</groundspeak:text>
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.21565" lat="60.5604333">
-        <time>2009-10-02T02:00:00.000-05:00</time>
+        <time>2009-10-02T07:00:00.000Z</time>
         <name>OX1GM38</name>
         <desc>Failure is Not an Option by SSOJOAT, Traditional Cache(2.4/1.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1GM38</url>
@@ -1166,11 +1142,10 @@ TFTC</groundspeak:text>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cross posted from geocaching.com at http://coord.info/GC1GM38
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Cross posted from geocaching.com at http://coord.info/GC1GM38&lt;br/&gt;</groundspeak:long_description>
             <groundspeak:logs>
                 <groundspeak:log id="515929">
-                    <groundspeak:date>2010-06-13T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-06-13T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="4649">Tundra Tim</groundspeak:finder>
                     <groundspeak:text encoded="False">Quick find on the way home. Thanks</groundspeak:text>
@@ -1187,7 +1162,7 @@ TFTC</groundspeak:text>
         </ox:opencaching>
     </wpt>
     <wpt lon="-151.1213833" lat="60.5657167">
-        <time>2008-08-31T02:00:00.000-05:00</time>
+        <time>2008-08-31T07:00:00.000Z</time>
         <name>OX1FT03</name>
         <desc>Snowshoe Races by SSOJOAT, Traditional Cache(1.4/2.4/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1FT03</url>
@@ -1202,8 +1177,7 @@ TFTC</groundspeak:text>
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cross posted from geocaching.com at http://coord.info/GC1FT03
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Cross posted from geocaching.com at http://coord.info/GC1FT03&lt;br/&gt;</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>

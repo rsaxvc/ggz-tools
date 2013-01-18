@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>45 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,26,90,27</url>
-    <time>2012-01-04T09:32:09.427-06:00</time>
+    <time>2012-12-19T22:51:51.726Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="27.0" maxlat="90.0" minlon="26.0" minlat="-90.0"/>
     <wpt lon="26.1605" lat="-29.2797833">
-        <time>2011-10-05T06:18:31.000-05:00</time>
+        <time>2011-10-05T11:18:31.000Z</time>
         <name>OX2ACQ0</name>
         <desc>Leeuwberg 1849 by ZS4BS, Traditional Cache(1.1/1.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2ACQ0</url>
@@ -24,16 +24,7 @@
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1</groundspeak:difficulty>
             <groundspeak:terrain>1</groundspeak:terrain>
-            <groundspeak:long_description html="True">The cache is a small longThe cache is a small long cylinder (about the length of an A4 page) afixed to the fence. The cache contains note paper - no space for anything else! 
-
-After getting this one, visit Pectore Sicut Ferro; T34 and Acrophobia Eland
-
-
-
-The farm Leeuwberg belonged to Gen Kolbe of the Orange Free State. He sold a part of the farm to Pres M.T. Steyn - Onze Rust, as a weekend retreat from the Presidency in Bloemfontein. 
-The great grandson of Pres MT Steyn bought the farm Leeuwberg and has set up a museum on the farm dedicated to the German and Russian forces on the Eastern Front, as well as the British Forces in North Africa during WW 2. Regular activities take place at the Museum.
-
-The original farmhouse has been converted into a comfortable B&amp;B. </groundspeak:long_description>
+            <groundspeak:long_description html="True">The cache is a small longThe cache is a small long cylinder (about the length of an A4 page) afixed to the fence. The cache contains note paper - no space for anything else! &lt;br/&gt;&lt;br/&gt;After getting this one, visit Pectore Sicut Ferro; T34 and Acrophobia Eland&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The farm Leeuwberg belonged to Gen Kolbe of the Orange Free State. He sold a part of the farm to Pres M.T. Steyn - Onze Rust, as a weekend retreat from the Presidency in Bloemfontein. &lt;br/&gt;The great grandson of Pres MT Steyn bought the farm Leeuwberg and has set up a museum on the farm dedicated to the German and Russian forces on the Eastern Front, as well as the British Forces in North Africa during WW 2. Regular activities take place at the Museum.&lt;br/&gt;&lt;br/&gt;The original farmhouse has been converted into a comfortable B&amp;B. </groundspeak:long_description>
             <groundspeak:encoded_hints>Look behind the right-hand lion</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -43,6 +34,9 @@ The original farmhouse has been converted into a comfortable B&amp;B. </groundsp
                 <ox:size>1.0</ox:size>
                 <ox:terrain>1.0</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
             <ox:verification>
                 <ox:QR>true</ox:QR>
                 <ox:number>true</ox:number>
@@ -50,9 +44,9 @@ The original farmhouse has been converted into a comfortable B&amp;B. </groundsp
         </ox:opencaching>
     </wpt>
     <wpt lon="26.9385667" lat="-32.5980167">
-        <time>2010-12-07T09:30:55.000-06:00</time>
+        <time>2010-12-07T15:30:55.000Z</time>
         <name>OX16725</name>
-        <desc>Urst100 by Sabbi, Traditional Cache(3.1/3.4/3.5)</desc>
+        <desc>Urst100 by Sabbi, Traditional Cache(3.1/3.4/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX16725</url>
         <urlname>Urst100</urlname>
         <sym>Geocache</sym>
@@ -65,52 +59,49 @@ The original farmhouse has been converted into a comfortable B&amp;B. </groundsp
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>3.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Many people believe that J.R.R.Tolkien renowned author of “Lord of the Rings” and “The Hobbit” visited Hogsback and inspired by its forests and mountains, reflected them in his stories.&lt;br/&gt;&lt;br/&gt;
+            <groundspeak:long_description html="True">Many people believe that J.R.R.Tolkien renowned author of “Lord of the Rings” and “The Hobbit” visited Hogsback and inspired by its forests and mountains, reflected them in his stories.&lt;br /&gt;&lt;br /&gt;
 
 The beauty of the area seems infused with the other-worldy aura of Tolkien’s “Middle Earth” and the forests envelop you in a world of fantasy.
-&lt;br/&gt;&lt;br/&gt;
+&lt;br /&gt;&lt;br /&gt;
 Old, gnarled trees seem to whisper their wisdom on the breeze and the undergrowth of ferns conceals an imaginary world of “little folk” – goblins, elves, gnomes, dwarves, fairies, and of course hobbits.
-&lt;br/&gt;&lt;br/&gt;
+&lt;br /&gt;&lt;br /&gt;
 The area abounds with Tolkienesque names. One finds properties and farms named Arminel, Wilderland, Tanglewood and River Running.
-&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;
 &lt;b&gt;Instruction:&lt;/b&gt;
-&lt;br/&gt;&lt;br/&gt;
+&lt;br /&gt;&lt;br /&gt;
 !!!The GPS coordinates are not the concrete point of the cache. It's only a starting point!!!
-&lt;br/&gt;&lt;br/&gt;
+&lt;br /&gt;&lt;br /&gt;
 Hogsback is famous for it’s hiking trails. There are many paths to find the cache. It doesn’t matter which trail you choose, you have to follow the RED PIG with a WHITE CROSS on it.
-&lt;br/&gt;&lt;br/&gt;
+&lt;br /&gt;&lt;br /&gt;
 &lt;b&gt;Overview - Map: 
 &amp;gt;&amp;gt;&amp;gt; http://bit.ly/urst100 &amp;lt;&amp;lt;&amp;lt;
 &lt;/b&gt;
-&lt;br/&gt;&lt;br/&gt;
+&lt;br /&gt;&lt;br /&gt;
 You can start your walk at the parking area opposite the Police Station (3-4 hours) or at the parking area near the “Tyume Indigenous Forest Trails” (40-50 min) at the Wolfridge Road.
-&lt;br/&gt;&lt;br/&gt;
+&lt;br /&gt;&lt;br /&gt;
 You will find the Geocache at the “Madonna &amp; Child Falls”, on a slope to the right-hand side.
-&lt;br/&gt;&lt;br/&gt;
-&lt;b&gt;When you have found the Geocache:&lt;/b&gt;&lt;br/&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;When you have found the Geocache:&lt;/b&gt;&lt;br /&gt;
 - pay attention to the muggels, because sometimes there are lots of them
-&lt;br/&gt;- make sure that you hide the cache very well, because there are many Baboons in the forest, they have a good nose
-&lt;br/&gt;&lt;br/&gt;
+&lt;br /&gt;- make sure that you hide the cache very well, because there are many Baboons in the forest, they have a good nose
+&lt;br /&gt;&lt;br /&gt;
 &lt;b&gt;Notice:&lt;/b&gt;
-&lt;br/&gt;- because of the dense forest, it’s possible that your GPS device doesn’t work at all the time&lt;br/&gt;
-- a few paths can be very slippery an dangerous&lt;br/&gt;
+&lt;br /&gt;- because of the dense forest, it’s possible that your GPS device doesn’t work at all the time&lt;br /&gt;
+- a few paths can be very slippery an dangerous&lt;br /&gt;
 - please take an pen with you, it’s possible that my old one doesn’t work</groundspeak:long_description>
             <groundspeak:encoded_hints>When you’re in front of the Madonna &amp; Child Falls, you have to climb a slope on the right-hand side (approximate 10 m), there is a crack in the rock. There you will find the Geocache. </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>3.1</ox:difficulty>
                 <ox:size>3.6</ox:size>
                 <ox:terrain>3.4</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>South Africa Tolkien Sabbi Hobbiton Hogsback Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="26.8451" lat="-33.504983">
-        <time>2009-12-16T02:00:00.000-06:00</time>
+        <time>2009-12-16T08:00:00.000Z</time>
         <name>OX2222V</name>
         <desc>Makulu Pineapple by alien3inc, Traditional Cache(2.0/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2222V</url>
@@ -125,15 +116,7 @@ You will find the Geocache at the “Madonna &amp; Child Falls”, on a slope to
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">This cache is an easy find, near a very well-known landmark in Bathurst.  The container is a magnetic micro.
-
-The Eastern Cape is an unlikely spot to grow pineapples, but the warm sea currents provide an ideal climate.  These and other interesting facts can be found by taking the tour through the unusual large structure nearby, for which there is a small charge (R10 per adult, and R5 per child at the time of planting the cache).
-
-However, you don't need to take the tour or pay anything to locate the cache.  Please take care and watch small children near the cache location as there may be some vehicle traffic around.
-
-There is a convenient spot to park a few metres from the cache location, in the shade of a coral tree.
-
-While you are in the vicinity, you can also start your hunt for the multi-stage cache &quot;The Bathurst Roundabout Renewed&quot; (GC18MZW), the first stage of which is hidden nearby. </groundspeak:long_description>
+            <groundspeak:long_description html="True">This cache is an easy find, near a very well-known landmark in Bathurst.  The container is a magnetic micro.&lt;br/&gt;&lt;br/&gt;The Eastern Cape is an unlikely spot to grow pineapples, but the warm sea currents provide an ideal climate.  These and other interesting facts can be found by taking the tour through the unusual large structure nearby, for which there is a small charge (R10 per adult, and R5 per child at the time of planting the cache).&lt;br/&gt;&lt;br/&gt;However, you don't need to take the tour or pay anything to locate the cache.  Please take care and watch small children near the cache location as there may be some vehicle traffic around.&lt;br/&gt;&lt;br/&gt;There is a convenient spot to park a few metres from the cache location, in the shade of a coral tree.&lt;br/&gt;&lt;br/&gt;While you are in the vicinity, you can also start your hunt for the multi-stage cache &quot;The Bathurst Roundabout Renewed&quot; (GC18MZW), the first stage of which is hidden nearby. </groundspeak:long_description>
             <groundspeak:encoded_hints>Magnetic, on the cattle grid.  In the middle of the rail at the left of the grid as you look down the driveway.</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -143,19 +126,41 @@ While you are in the vicinity, you can also start your hunt for the multi-stage 
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.8666833" lat="37.6550833">
+        <time>2012-01-06T15:16:46.000Z</time>
+        <name>OXZTMRB</name>
+        <desc>cache and pray by AlterWolf, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTMRB</url>
+        <urlname>cache and pray</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28470380">
+            <groundspeak:name>cache and pray</groundspeak:name>
+            <groundspeak:placed_by>AlterWolf</groundspeak:placed_by>
+            <groundspeak:owner id="83457">AlterWolf</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Do you like caching? Do you like praying? You can do it here at the same time. &lt;br/&gt;&lt;br/&gt;Gehst Du gern cachen? Betest Du gern? Hier kannst Du beides gleichzeitig tun.  </groundspeak:long_description>
+            <groundspeak:encoded_hints>in the wall beside the church / In der Mauer neben der Kirche (zum Weg hin)</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
             <ox:tags>
-                <ox:tag>Quads</ox:tag>
-                <ox:tag>Motorcycles</ox:tag>
-                <ox:tag>Takes less than an hour</ox:tag>
-                <ox:tag>Stealth required</ox:tag>
-                <ox:tag>Bicycles</ox:tag>
-                <ox:tag>Parking available</ox:tag>
-                <ox:tag>Available at all times</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
             </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="26.787767" lat="37.762683">
-        <time>2010-01-02T02:00:00.000-06:00</time>
+        <time>2010-01-02T08:00:00.000Z</time>
         <name>OX22M0E</name>
         <desc>Jeep Safari by TUMTUMI, Traditional Cache(3.0/5.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX22M0E</url>
@@ -170,31 +175,7 @@ While you are in the vicinity, you can also start your hunt for the multi-stage 
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>5</groundspeak:terrain>
-            <groundspeak:long_description html="True">&lt;b&gt;Jeep Safari - the other Face of Samos&lt;/b&gt;
-This cache is hidden in the middle of Samos woods, no sea, no beach, no tourism - a other emotion, like forest. Write in the Logbook what you feel.
-
-&lt;b&gt;Equipment&lt;/b&gt;
-Jeep, Enduro or Quads
-Hiking boots!
-Food and water
-
-&lt;b&gt;Depiction&lt;/b&gt;
-This Route take over 3 Hours. You can start form many village near the forest. From Ydroussa is a short way to find the cache, but is little bit difficult to drive. I think the easy way to drive is near from Pyrgos (O-pyrgos).
-Park your Car at this Waypoint: (O-parkCar) and go along the river.
-
-&lt;b&gt;and now
-have fun!!&lt;/b&gt;
-
-
-&lt;b&gt;Extras&lt;/b&gt;
-&lt;u&gt;after you have found the cache you can walk, along the river, to the small church (O-picnic), there can you make a big lunch or sleep a night at 750m altitude&lt;/u&gt;
-
-
-&lt;b&gt;Additional Hidden Waypoints&lt;/b&gt;
-O-parkCar - Jeep Park = N 37° 45.673 E 026° 47.358
-O-pyrgos - The easy forest road = N 37° 42.948 E 026° 47.582
-O-picnic - Nice Place for picnic. = N 37° 45.962 E 026° 46.992 
- </groundspeak:long_description>
+            <groundspeak:long_description html="True">&lt;b&gt;Jeep Safari - the other Face of Samos&lt;/b&gt;&lt;br/&gt;This cache is hidden in the middle of Samos woods, no sea, no beach, no tourism - a other emotion, like forest. Write in the Logbook what you feel.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Equipment&lt;/b&gt;&lt;br/&gt;Jeep, Enduro or Quads&lt;br/&gt;Hiking boots!&lt;br/&gt;Food and water&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Depiction&lt;/b&gt;&lt;br/&gt;This Route take over 3 Hours. You can start form many village near the forest. From Ydroussa is a short way to find the cache, but is little bit difficult to drive. I think the easy way to drive is near from Pyrgos (O-pyrgos).&lt;br/&gt;Park your Car at this Waypoint: (O-parkCar) and go along the river.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;and now&lt;br/&gt;have fun!!&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Extras&lt;/b&gt;&lt;br/&gt;&lt;u&gt;after you have found the cache you can walk, along the river, to the small church (O-picnic), there can you make a big lunch or sleep a night at 750m altitude&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Additional Hidden Waypoints&lt;/b&gt;&lt;br/&gt;O-parkCar - Jeep Park = N 37° 45.673 E 026° 47.358&lt;br/&gt;O-pyrgos - The easy forest road = N 37° 42.948 E 026° 47.582&lt;br/&gt;O-picnic - Nice Place for picnic. = N 37° 45.962 E 026° 46.992 &lt;br/&gt; </groundspeak:long_description>
             <groundspeak:encoded_hints>You found there a little pond, look up and you see many fir trees. And One of this has at the bottom a cavity.</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -204,6 +185,9 @@ O-picnic - Nice Place for picnic. = N 37° 45.962 E 026° 46.992
                 <ox:size>4.0</ox:size>
                 <ox:terrain>5.0</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
             <ox:verification>
                 <ox:QR>true</ox:QR>
                 <ox:number>true</ox:number>
@@ -211,7 +195,7 @@ O-picnic - Nice Place for picnic. = N 37° 45.962 E 026° 46.992
         </ox:opencaching>
     </wpt>
     <wpt lon="26.668267" lat="37.7869">
-        <time>2009-12-25T02:00:00.000-06:00</time>
+        <time>2009-12-25T08:00:00.000Z</time>
         <name>OX228XQ</name>
         <desc>Castle Karlovasi by TUMTUMI, Traditional Cache(2.0/3.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX228XQ</url>
@@ -226,18 +210,7 @@ O-picnic - Nice Place for picnic. = N 37° 45.962 E 026° 46.992
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>3.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">&lt;b&gt;The Castel ancient ruins of Karlovassi&lt;/b&gt;
-This cache show you the nature of Karlovasi and his mystery. The hiding place is in 62 m altitude, you start in 9 m altitude. On the top can you see the &quot;jungle&quot; and the sea.
-
-Start point and parking place is at Potami-Karlovasi: Waypoint GA228XQ. Take the way to the Waterfalls and you will found a church. After there at the left side is a white wall with stairs (Waypoint GB228XQ) follow-up and go to other site of there area and you will found a path, follow this path to the castle. This route is a little bit exertive, because you walk uphill. Good idea is to take water with you.
-
-&lt;u&gt;After this expedition i suggest you to swimm in the cool water of the waterfalls!!&lt;/u&gt;
-
-&lt;b&gt;Happy Hunting&lt;/b&gt;
-
-&lt;b&gt;Additional Hidden Waypoints&lt;/b&gt;
-GA228XQ - Parking Area = N 37° 47.307 E 026° 40.042
-GB228XQ - Turn left = N 37° 47.221 E 026° 40.075 &lt;i&gt;(turn left and follow the path)&lt;/i&gt;</groundspeak:long_description>
+            <groundspeak:long_description html="True">&lt;b&gt;The Castel ancient ruins of Karlovassi&lt;/b&gt;&lt;br/&gt;This cache show you the nature of Karlovasi and his mystery. The hiding place is in 62 m altitude, you start in 9 m altitude. On the top can you see the &quot;jungle&quot; and the sea.&lt;br/&gt;&lt;br/&gt;Start point and parking place is at Potami-Karlovasi: Waypoint GA228XQ. Take the way to the Waterfalls and you will found a church. After there at the left side is a white wall with stairs (Waypoint GB228XQ) follow-up and go to other site of there area and you will found a path, follow this path to the castle. This route is a little bit exertive, because you walk uphill. Good idea is to take water with you.&lt;br/&gt;&lt;br/&gt;&lt;u&gt;After this expedition i suggest you to swimm in the cool water of the waterfalls!!&lt;/u&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Happy Hunting&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Additional Hidden Waypoints&lt;/b&gt;&lt;br/&gt;GA228XQ - Parking Area = N 37° 47.307 E 026° 40.042&lt;br/&gt;GB228XQ - Turn left = N 37° 47.221 E 026° 40.075 &lt;i&gt;(turn left and follow the path)&lt;/i&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Is hidden on/at/in the Wall.</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -250,7 +223,7 @@ GB228XQ - Turn left = N 37° 47.221 E 026° 40.075 &lt;i&gt;(turn left and follo
         </ox:opencaching>
     </wpt>
     <wpt lon="26.97825" lat="37.792817">
-        <time>2010-07-11T02:00:00.000-05:00</time>
+        <time>2010-07-11T07:00:00.000Z</time>
         <name>OX2BD90</name>
         <desc>Island Hopping by TUMTUMI, Multi-cache(2.5/5.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2BD90</url>
@@ -265,48 +238,7 @@ GB228XQ - Turn left = N 37° 47.221 E 026° 40.075 &lt;i&gt;(turn left and follo
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>5</groundspeak:terrain>
-            <groundspeak:long_description html="True">&lt;b&gt;Adventure Cache - (with Swimming)&lt;/b&gt;
-
-&lt;b&gt;Can you good Swimm?&lt;/b&gt;
-- If not, so you can rent a canoe from the «Livadaki Beach» (Sometimes it is free).
-180m you must swimm.
-Don't worry that is easy.
-This is very exciting and fast to swimm.
-Tip: You can use Swimfin and must use beachwalker as facilitate
-PROTECT YOUR GPS DEVICE FOR WATER.
-Use min. 3 plastic bags and print this page better.
-Lets go!
-The Cache is after the town Samos/Vathi. Go to the Hospital of Samos Town and then follow the route to the village Nisi. Befor the village started, turn left to «Livadaki Beach» (Stage-No: 2). Then after 1.6km turn left, agean. (Stage-No: 3) Or follow the road to the Beach and get a canoe.
-
-&lt;b&gt;Riddle 1&lt;/b&gt;
-Now you are at the first Waypoint of the road. Which coating has this road?
-
-Humus	 	A=8
-Asphalt	 	A=2
-Concrete	 	A=5
-Ok. Now start from here and swim to the first small Island there on the Top is the second Riddle.
-
-&lt;b&gt;Riddle 2. Waypoint: (Stage-No: 4)&lt;/b&gt;
-What can you see if you lock to south 180º?
-
-the village Nisi	 	B=6
-Radio Antenna	 	B=3
-a black Container	 	B=9
-You have see it? Now you must swim 150m to the next major Island in West and go to the top, too.
-
-&lt;b&gt;Riddle 3. Waypoint: (Stage-No: 5)&lt;/b&gt;
-How many church bell has it?
-
-One	 	C=1
-Two	 	C=2
-Four	 	C=4
-Cache Coordinates
-So we are near to the End of this game. Here are now the Formel (MinDec):
-
-N 37º 47.[A+C][A-B-C]A' E 26º 58.CCB'
-
-&lt;b&gt;Enjoy it and have a nice holiday on Samos!
-Tobi     &lt;/b&gt; </groundspeak:long_description>
+            <groundspeak:long_description html="True">&lt;b&gt;Adventure Cache - (with Swimming)&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Can you good Swimm?&lt;/b&gt;&lt;br/&gt;- If not, so you can rent a canoe from the «Livadaki Beach» (Sometimes it is free).&lt;br/&gt;180m you must swimm.&lt;br/&gt;Don't worry that is easy.&lt;br/&gt;This is very exciting and fast to swimm.&lt;br/&gt;Tip: You can use Swimfin and must use beachwalker as facilitate&lt;br/&gt;PROTECT YOUR GPS DEVICE FOR WATER.&lt;br/&gt;Use min. 3 plastic bags and print this page better.&lt;br/&gt;Lets go!&lt;br/&gt;The Cache is after the town Samos/Vathi. Go to the Hospital of Samos Town and then follow the route to the village Nisi. Befor the village started, turn left to «Livadaki Beach» (Stage-No: 2). Then after 1.6km turn left, agean. (Stage-No: 3) Or follow the road to the Beach and get a canoe.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Riddle 1&lt;/b&gt;&lt;br/&gt;Now you are at the first Waypoint of the road. Which coating has this road?&lt;br/&gt;&lt;br/&gt;Humus	 	A=8&lt;br/&gt;Asphalt	 	A=2&lt;br/&gt;Concrete	 	A=5&lt;br/&gt;Ok. Now start from here and swim to the first small Island there on the Top is the second Riddle.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Riddle 2. Waypoint: (Stage-No: 4)&lt;/b&gt;&lt;br/&gt;What can you see if you lock to south 180º?&lt;br/&gt;&lt;br/&gt;the village Nisi	 	B=6&lt;br/&gt;Radio Antenna	 	B=3&lt;br/&gt;a black Container	 	B=9&lt;br/&gt;You have see it? Now you must swim 150m to the next major Island in West and go to the top, too.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Riddle 3. Waypoint: (Stage-No: 5)&lt;/b&gt;&lt;br/&gt;How many church bell has it?&lt;br/&gt;&lt;br/&gt;One	 	C=1&lt;br/&gt;Two	 	C=2&lt;br/&gt;Four	 	C=4&lt;br/&gt;Cache Coordinates&lt;br/&gt;So we are near to the End of this game. Here are now the Formel (MinDec):&lt;br/&gt;&lt;br/&gt;N 37º 47.[A+C][A-B-C]A' E 26º 58.CCB'&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Enjoy it and have a nice holiday on Samos!&lt;br/&gt;Tobi     &lt;/b&gt; </groundspeak:long_description>
             <groundspeak:encoded_hints>Under a big stone. Looks like as a stair.</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -316,15 +248,10 @@ Tobi     &lt;/b&gt; </groundspeak:long_description>
                 <ox:size>4.0</ox:size>
                 <ox:terrain>5.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>T5</ox:tag>
-                <ox:tag>swimming required</ox:tag>
-                <ox:tag>island cache</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="26.329717" lat="38.977417">
-        <time>2011-09-28T02:00:00.000-05:00</time>
+        <time>2011-09-28T07:00:00.000Z</time>
         <name>OX3507C</name>
         <desc>Logaras Island by MIMHS.GR, Traditional Cache(1.0/1.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX3507C</url>
@@ -339,11 +266,7 @@ Tobi     &lt;/b&gt; </groundspeak:long_description>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1</groundspeak:difficulty>
             <groundspeak:terrain>1</groundspeak:terrain>
-            <groundspeak:long_description html="True">The sunset view
-
-The site is best to be visited at afternoon ,when the sun becomes red and the view is full of colors . Especialy if in the sky are some clouds. The Aegean sea is at your feet and you can see very far away including Turkey ,Chios and Psara Islands.
-The small rocky island close to the shore is called &quot;Logaras&quot; and the fisherman of the area believe that the weather changes at this exact point ! So if you can't swim on Plomari area you can try the Melinda area. And if you can't fish at Melinda due to weather, you will at Plomari !
-The 6.5 kilometres of road from Plomari to Melinda took about 100 years to finish (from 1908 to 2007)and still some works like protection from falling rocks are not finished or never started!.That's is our curse...</groundspeak:long_description>
+            <groundspeak:long_description html="True">The sunset view&lt;br/&gt;&lt;br/&gt;The site is best to be visited at afternoon ,when the sun becomes red and the view is full of colors . Especialy if in the sky are some clouds. The Aegean sea is at your feet and you can see very far away including Turkey ,Chios and Psara Islands.&lt;br/&gt;The small rocky island close to the shore is called &quot;Logaras&quot; and the fisherman of the area believe that the weather changes at this exact point ! So if you can't swim on Plomari area you can try the Melinda area. And if you can't fish at Melinda due to weather, you will at Plomari !&lt;br/&gt;The 6.5 kilometres of road from Plomari to Melinda took about 100 years to finish (from 1908 to 2007)and still some works like protection from falling rocks are not finished or never started!.That's is our curse...</groundspeak:long_description>
             <groundspeak:encoded_hints>Not all the 10cm holes in the wall are empty...</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -353,19 +276,90 @@ The 6.5 kilometres of road from Plomari to Melinda took about 100 years to finis
                 <ox:size>3.0</ox:size>
                 <ox:terrain>1.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Stroller accessible</ox:tag>
-                <ox:tag>Scenic view</ox:tag>
-                <ox:tag>Available at all times</ox:tag>
-                <ox:tag>Takes less than an hour</ox:tag>
-                <ox:tag>Recommended for kids</ox:tag>
-                <ox:tag>Park and Grab</ox:tag>
-                <ox:tag>Wheelchair accessible</ox:tag>
-            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.440367" lat="38.991083">
+        <time>2012-05-04T07:00:00.000Z</time>
+        <name>OX3JKJX</name>
+        <desc>a SAINT for DNF ? #3 by MIMHS.GR, Traditional Cache(2.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3JKJX</url>
+        <urlname>a SAINT for DNF ? #3</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3325646">
+            <groundspeak:name>a SAINT for DNF ? #3</groundspeak:name>
+            <groundspeak:placed_by>MIMHS.GR</groundspeak:placed_by>
+            <groundspeak:owner id="71643">MIMHS.GR</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;b&gt;Ένας πολύ χρήσιμος Άγιος για geocachers !&lt;br /&gt;
+An extremely usefull Saint for Geocachers !&lt;/b&gt;
+&lt;br /&gt;
+
+ &lt;br /&gt;&lt;br /&gt; &lt;b&gt;Ελληνικά&lt;/b&gt;
+&lt;br /&gt;
+Σε όλες σχεδόν τις θρησκείες του κόσμου, υπάρχουν Άγιοι με παράξενες ειδικότητες που ικανοποιούν ειδικές ανάγκες των πιστών. Ένας τέτοιος Άγιος της Ορθόδοξης Χριστιανοσύνης, ο Άγιος Φανούριος, μπορεί να βοηθήσει στις περιπτώσεις που ένα DNF είναι σχεδόν έτοιμο να δηλωθεί στην ιστοσελίδα της κρύπτης!&lt;br /&gt;
+Θα πρέπει όμως να του τάξετε μια πίτα (ειδική αλλά με απλά υλικά και συνταγή ),και να ζητήσετε την ανεύρεση ενός αντικειμένου, να βρείτε δουλειά αν είστε άνεργος, να βρείτε λύση σε κάποιο πρόβλημα, να επανέλθει η χαμένη υγεία σας ή οτιδήποτε άλλο έχει χαθεί!&lt;br /&gt;
+Μετά το πολυπόθητο χαμόγελο της εύρεσης το μόνο που μένει είναι να κάνετε την πίτα ακολουθώντας την παρακάτω συνταγή :&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;Πίτα του Αγίου Φανουρίου.&lt;/b&gt;
+&lt;b&gt;Υλικά:&lt;/b&gt;&lt;br /&gt;
+1 φλυτζάνι λάδι&lt;br /&gt;
+1 φλυτζάνι ζάχαρι&lt;br /&gt;
+3/4 φλυτζ. χυμό πoρτοκαλιού&lt;br /&gt;
+1/4 φλυτζ. κονιάκ&lt;br /&gt;
+2 κουταλιές τσαγιού τριμένη κανέλα&lt;br /&gt;
+1/4 κουταλιάς τσαγιού γαρύφαλλο&lt;br /&gt;
+1 1/2 κουταλιές baking powder&lt;br /&gt;
+3 φλυτζάνια αλεύρι για όλες τις χρήσεις&lt;br /&gt;
+1/2 φλυτζ.τριμένο καρύδι&lt;br /&gt;
+1/2 φλυτζ. σταφίδες&lt;br /&gt;
+&lt;b&gt;Εκτέλεση :&lt;/b&gt;&lt;br /&gt;
+Προθερμάνετε τον φούρνο στους 350 βαθμούς.&lt;br /&gt;
+Ελαφρά λαδώστε και μετά πασπαλίστε με λίγο αλεύρι, ένα στρογγυλό ταψί διαμέτρου 24 εκατοστών.&lt;br /&gt;
+Σε ένα μεγάλο μπολ ανακατέψτε το λάδι και την ζάχαρι μέχρι να γίνουν ένα. Προσθέστε τον χυμό, το κονιάκ, τα μπαχαρικά και το baking powder. Ανακατέψτε τα υλικά πολύ καλά και στο τέλος προσθέστε το καρύδι και τις σταφίδες.&lt;br /&gt;
+Αδειάστε το μείγμα στο ταψί και στρώστε την επιφάνεια με μιά σπάτουλα.&lt;br /&gt;
+Ψήνουμε στους 350 βαθμούς γύρω στα 45-50 λεπτά ή μέχρι να πάρει χρώμα ελαφρώς καφέ η επάνω πλευρά της πίτας.&lt;br /&gt;
+Το μόνο που μένει είναι να την πάτε σε ένα από τα εκκλησάκια του Αγίου στην περιοχή σας, που θα γιορτάζει στις 27 Αυγούστου, και θα έχετε εκπληρώσει το δικό σας μέρος της συμφωνίας !&lt;br /&gt;
+-Αυτό όμως σημαίνει ότι δεν συνιστώ να ψάξετε γιά την κρύπτη εκείνη την ημέρα, εκτός και αν έχετε στην κατοχή σας τον αόρατο μανδύα του Harry Potter !-&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;English&lt;/b&gt;
+&lt;br /&gt;
+In almost every religion in the world , you find strange Saints that fulfill the peoples needs.&lt;br /&gt;
+At Greek Orthodox Christianity, there is one also . He helps at cases where a DNF for a cache is near to be declared at the Geocaching site !&lt;br /&gt;
+You have to offer a pita (specially made but simple ) and ask for the reveal of a lost item, find a job for someone unemployed, deal on a lost cause, restore the health of someone sick, etc. After the happy smilie you just follow the next recipe :&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;The Pita (cake) of Saint Fanourios.&lt;/b&gt;
+&lt;b&gt;Ingredients:&lt;/b&gt;&lt;br /&gt;
+1 cup sunflower oil&lt;br /&gt;
+1 cup sugar&lt;br /&gt;
+3/4 cup orange juice&lt;br /&gt;
+1/4 cup brandy&lt;br /&gt;
+2 tsp. ground cinnamon&lt;br /&gt;
+1/4 tsp. ground clover&lt;br /&gt;
+1 1/2 tsp. baking powder&lt;br /&gt;
+3 cups all-purpose flour&lt;br /&gt;
+1/2 cup ground walnuts&lt;br /&gt;
+1/2 cup raisins&lt;br /&gt;
+&lt;b&gt;Preparation:&lt;/b&gt;&lt;br /&gt;
+Preheat the oven to 350 degrees.&lt;br /&gt;
+Lightly grease and flour a 9 inch round (24 cm) cake pan.&lt;br /&gt;
+In a large bowl using a whisk, mix together the sunflower oil and the sugar until well combined. Add the orange juice, brandy, spices, and baking powder and mix well.&lt;br /&gt;
+Using a spatula, incorporate the flour into the batter and mix until just combined. Mix in the ground walnuts and raisins. Transfer the batter into the cake pan and smooth the top with the spatula. Bake at 350 degree oven for 45-50 minutes or until the cake is nicely browned.&lt;br /&gt;
+After that bring it to the church of Saint Fanourios on August 27.&lt;br /&gt;
+And You have fulfilled your part of the agreement ! - That also means that searching for this cache at those days is not suggested , unless, you have Harry Potters invisible cloak !-</groundspeak:long_description>
+            <groundspeak:encoded_hints>Did you hear a bell ?</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
         </ox:opencaching>
     </wpt>
     <wpt lon="26.2938" lat="38.995833">
-        <time>2011-05-01T02:00:00.000-05:00</time>
+        <time>2011-05-01T07:00:00.000Z</time>
         <name>OX2VGT4</name>
         <desc>KRIFTI by MIMHS.GR, Traditional Cache(1.8/3.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2VGT4</url>
@@ -380,25 +374,7 @@ The 6.5 kilometres of road from Plomari to Melinda took about 100 years to finis
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">A small uknown to most visitors of the island , beutiffull chapel.
-
-Geocaching brings you to places you would not visit without it.
-
-A small chapel ,that has its sacred place in a small cave.
-The myth says that a small sized trade ship , many years before today , was in trouble due to the pirates so the captain was praying to God for help.
-In the dark night he show a light ,that drove him to a protected place where he founded the icon of Madona and was able to hide his ship also .
-He builded a small chapel and named it PANAGIA KRIFTI ,that in Greek means 'Madona hiden' .
-At the second Monday after Easter each year there is a local church ceremony , that includes Horse ridding and a unique way of Horse dancing .
-That includes also live local music at cofee-shops of the Melinda &quot;vilage&quot; with lot's of ouzo and local food ( meze ).
-Don't be suprized  : The horses move and dance in the middle of coffee shops and I can't recall any accidents all this years I come here.
-You can go to the Krifti two ways:
-A. By rented boat from Melinda or
-B. By foot or car .You continue the asphalt road from Melinda to Palaioxori for about 500m.
-On your left ,on the big U-turn you see a gravel road that goes in parallel with sealine. 
-The road is not very bad if you drive careffully, you can go very close and walk from N 38 59.767 E 026 17.698 for another 100 to 150 meters down for the cache. Park your car at this point -better prepare it for leaving after , since there is not much space to manouver if any  other car comes here (not so likely but ..) - And after that point the road it is only for ATV's or four-wheelers.Continue by foot for about 400m down the well defined path. 
-Don't stop at the cache ! Continue for sixty meters downgoing and you will see why I have to place a cach here !
-One last 'small' detail : on the rocky mountain at west of the cache and about the same height there is a very fainted now path that the children from the western vilages like Vrissa ,Polixnitos and Lisvori where passing every weekend going to the only hischool in southern Lesvos, just few decades of years before now.
- Walking with oil lamps in the night for km .Every Saturday and returning every Monday morning !</groundspeak:long_description>
+            <groundspeak:long_description html="True">A small uknown to most visitors of the island , beutiffull chapel.&lt;br/&gt;&lt;br/&gt;Geocaching brings you to places you would not visit without it.&lt;br/&gt;&lt;br/&gt;A small chapel ,that has its sacred place in a small cave.&lt;br/&gt;The myth says that a small sized trade ship , many years before today , was in trouble due to the pirates so the captain was praying to God for help.&lt;br/&gt;In the dark night he show a light ,that drove him to a protected place where he founded the icon of Madona and was able to hide his ship also .&lt;br/&gt;He builded a small chapel and named it PANAGIA KRIFTI ,that in Greek means 'Madona hiden' .&lt;br/&gt;At the second Monday after Easter each year there is a local church ceremony , that includes Horse ridding and a unique way of Horse dancing .&lt;br/&gt;That includes also live local music at cofee-shops of the Melinda &quot;vilage&quot; with lot's of ouzo and local food ( meze ).&lt;br/&gt;Don't be suprized  : The horses move and dance in the middle of coffee shops and I can't recall any accidents all this years I come here.&lt;br/&gt;You can go to the Krifti two ways:&lt;br/&gt;A. By rented boat from Melinda or&lt;br/&gt;B. By foot or car .You continue the asphalt road from Melinda to Palaioxori for about 500m.&lt;br/&gt;On your left ,on the big U-turn you see a gravel road that goes in parallel with sealine. &lt;br/&gt;The road is not very bad if you drive careffully, you can go very close and walk from N 38 59.767 E 026 17.698 for another 100 to 150 meters down for the cache. Park your car at this point -better prepare it for leaving after , since there is not much space to manouver if any  other car comes here (not so likely but ..) - And after that point the road it is only for ATV's or four-wheelers.Continue by foot for about 400m down the well defined path. &lt;br/&gt;Don't stop at the cache ! Continue for sixty meters downgoing and you will see why I have to place a cach here !&lt;br/&gt;One last 'small' detail : on the rocky mountain at west of the cache and about the same height there is a very fainted now path that the children from the western vilages like Vrissa ,Polixnitos and Lisvori where passing every weekend going to the only hischool in southern Lesvos, just few decades of years before now.&lt;br/&gt; Walking with oil lamps in the night for km .Every Saturday and returning every Monday morning !</groundspeak:long_description>
             <groundspeak:encoded_hints>IN the rock (to avoid rain !)</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -408,19 +384,241 @@ One last 'small' detail : on the rocky mountain at west of the cache and about t
                 <ox:size>3.4</ox:size>
                 <ox:terrain>3.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Not Campfires</ox:tag>
-                <ox:tag>Takes less than an hour</ox:tag>
-                <ox:tag>Available at all times</ox:tag>
-                <ox:tag>Scenic view</ox:tag>
-                <ox:tag>Not Drinking water nearby</ox:tag>
-            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.354383" lat="39.003733">
+        <time>2012-04-30T07:00:00.000Z</time>
+        <name>OX3JATY</name>
+        <desc>a SAINT for DNF ? #2 by MIMHS.GR, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3JATY</url>
+        <urlname>a SAINT for DNF ? #2</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3317215">
+            <groundspeak:name>a SAINT for DNF ? #2</groundspeak:name>
+            <groundspeak:placed_by>MIMHS.GR</groundspeak:placed_by>
+            <groundspeak:owner id="71643">MIMHS.GR</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;b&gt;Ένας πολύ χρήσιμος Άγιος για geocachers !&lt;br /&gt;
+An extremely usefull Saint for Geocachers !&lt;/b&gt;
+&lt;br /&gt;
+
+ &lt;br /&gt;&lt;br /&gt; &lt;b&gt;Ελληνικά&lt;/b&gt;
+&lt;br /&gt;
+Σε όλες σχεδόν τις θρησκείες του κόσμου, υπάρχουν Άγιοι με παράξενες ειδικότητες που ικανοποιούν ειδικές ανάγκες των πιστών. Ένας τέτοιος Άγιος της Ορθόδοξης Χριστιανοσύνης, ο Άγιος Φανούριος, μπορεί να βοηθήσει στις περιπτώσεις που ένα DNF είναι σχεδόν έτοιμο να δηλωθεί στην ιστοσελίδα της κρύπτης!&lt;br /&gt;
+Θα πρέπει όμως να του τάξετε μια πίτα (ειδική αλλά με απλά υλικά και συνταγή ),και να ζητήσετε την ανεύρεση ενός αντικειμένου, να βρείτε δουλειά αν είστε άνεργος, να βρείτε λύση σε κάποιο πρόβλημα, να επανέλθει η χαμένη υγεία σας ή οτιδήποτε άλλο έχει χαθεί!&lt;br /&gt;
+Μετά το πολυπόθητο χαμόγελο της εύρεσης το μόνο που μένει είναι να κάνετε την πίτα ακολουθώντας την παρακάτω συνταγή :&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;Πίτα του Αγίου Φανουρίου.&lt;/b&gt;
+&lt;b&gt;Υλικά:&lt;/b&gt;&lt;br /&gt;
+1 φλυτζάνι λάδι&lt;br /&gt;
+1 φλυτζάνι ζάχαρι&lt;br /&gt;
+3/4 φλυτζ. χυμό πoρτοκαλιού&lt;br /&gt;
+1/4 φλυτζ. κονιάκ&lt;br /&gt;
+2 κουταλιές τσαγιού τριμένη κανέλα&lt;br /&gt;
+1/4 κουταλιάς τσαγιού γαρύφαλλο&lt;br /&gt;
+1 1/2 κουταλιές baking powder&lt;br /&gt;
+3 φλυτζάνια αλεύρι για όλες τις χρήσεις&lt;br /&gt;
+1/2 φλυτζ.τριμένο καρύδι&lt;br /&gt;
+1/2 φλυτζ. σταφίδες&lt;br /&gt;
+&lt;b&gt;Εκτέλεση :&lt;/b&gt;&lt;br /&gt;
+Προθερμάνετε τον φούρνο στους 350 βαθμούς.&lt;br /&gt;
+Ελαφρά λαδώστε και μετά πασπαλίστε με λίγο αλεύρι, ένα στρογγυλό ταψί διαμέτρου 24 εκατοστών.&lt;br /&gt;
+Σε ένα μεγάλο μπολ ανακατέψτε το λάδι και την ζάχαρι μέχρι να γίνουν ένα. Προσθέστε τον χυμό, το κονιάκ, τα μπαχαρικά και το baking powder. Ανακατέψτε τα υλικά πολύ καλά και στο τέλος προσθέστε το καρύδι και τις σταφίδες.&lt;br /&gt;
+Αδειάστε το μείγμα στο ταψί και στρώστε την επιφάνεια με μιά σπάτουλα.&lt;br /&gt;
+Ψήνουμε στους 350 βαθμούς γύρω στα 45-50 λεπτά ή μέχρι να πάρει χρώμα ελαφρώς καφέ η επάνω πλευρά της πίτας.&lt;br /&gt;
+Το μόνο που μένει είναι να την πάτε σε ένα από τα εκκλησάκια του Αγίου στην περιοχή σας, που θα γιορτάζει στις 27 Αυγούστου, και θα έχετε εκπληρώσει το δικό σας μέρος της συμφωνίας !&lt;br /&gt;
+-Αυτό όμως σημαίνει ότι δεν συνιστώ να ψάξετε γιά την κρύπτη εκείνη την ημέρα, εκτός και αν έχετε στην κατοχή σας τον αόρατο μανδύα του Harry Potter !-&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;English&lt;/b&gt;
+&lt;br /&gt;
+In almost every religion in the world , you find strange Saints that fulfill the peoples needs.&lt;br /&gt;
+At Greek Orthodox Christianity, there is one also . He helps at cases where a DNF for a cache is near to be declared at the Geocaching site !&lt;br /&gt;
+You have to offer a pita (specially made but simple ) and ask for the reveal of a lost item, find a job for someone unemployed, deal on a lost cause, restore the health of someone sick, etc. After the happy smilie you just follow the next recipe :&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;The Pita (cake) of Saint Fanourios.&lt;/b&gt;
+&lt;b&gt;Ingredients:&lt;/b&gt;&lt;br /&gt;
+1 cup sunflower oil&lt;br /&gt;
+1 cup sugar&lt;br /&gt;
+3/4 cup orange juice&lt;br /&gt;
+1/4 cup brandy&lt;br /&gt;
+2 tsp. ground cinnamon&lt;br /&gt;
+1/4 tsp. ground clover&lt;br /&gt;
+1 1/2 tsp. baking powder&lt;br /&gt;
+3 cups all-purpose flour&lt;br /&gt;
+1/2 cup ground walnuts&lt;br /&gt;
+1/2 cup raisins&lt;br /&gt;
+&lt;b&gt;Preparation:&lt;/b&gt;&lt;br /&gt;
+Preheat the oven to 350 degrees.&lt;br /&gt;
+Lightly grease and flour a 9 inch round (24 cm) cake pan.&lt;br /&gt;
+In a large bowl using a whisk, mix together the sunflower oil and the sugar until well combined. Add the orange juice, brandy, spices, and baking powder and mix well.&lt;br /&gt;
+Using a spatula, incorporate the flour into the batter and mix until just combined. Mix in the ground walnuts and raisins. Transfer the batter into the cake pan and smooth the top with the spatula. Bake at 350 degree oven for 45-50 minutes or until the cake is nicely browned.&lt;br /&gt;
+After that bring it to the church of Saint Fanourios on August 27.&lt;br /&gt;
+And You have fulfilled your part of the agreement ! - That also means that searching for this cache at those days is not suggested , unless, you have Harry Potters invisible cloak !-</groundspeak:long_description>
+            <groundspeak:encoded_hints>From where the smoke comes out. Use a stick to push it up...</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.315867" lat="39.005133">
+        <time>2012-04-27T07:00:00.000Z</time>
+        <name>OX3J21X</name>
+        <desc>a SAINT for DNF ? #1 by MIMHS.GR, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3J21X</url>
+        <urlname>a SAINT for DNF ? #1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3308782">
+            <groundspeak:name>a SAINT for DNF ? #1</groundspeak:name>
+            <groundspeak:placed_by>MIMHS.GR</groundspeak:placed_by>
+            <groundspeak:owner id="71643">MIMHS.GR</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;b&gt;Ένας πολύ χρήσιμος Άγιος για geocachers !&lt;br /&gt;
+An extremely usefull Saint for Geocachers !&lt;/b&gt;
+&lt;br /&gt;
+
+ &lt;br /&gt;&lt;br /&gt; &lt;b&gt;Ελληνικά&lt;/b&gt;
+&lt;br /&gt;
+Σε όλες σχεδόν τις θρησκείες του κόσμου, υπάρχουν Άγιοι με παράξενες ειδικότητες που ικανοποιούν ειδικές ανάγκες των πιστών. Ένας τέτοιος Άγιος της Ορθόδοξης Χριστιανοσύνης, ο Άγιος Φανούριος, μπορεί να βοηθήσει στις περιπτώσεις που ένα DNF είναι σχεδόν έτοιμο να δηλωθεί στην ιστοσελίδα της κρύπτης!&lt;br /&gt;
+Θα πρέπει όμως να του τάξετε μια πίτα (ειδική αλλά με απλά υλικά και συνταγή ),και να ζητήσετε την ανεύρεση ενός αντικειμένου, να βρείτε δουλειά αν είστε άνεργος, να βρείτε λύση σε κάποιο πρόβλημα, να επανέλθει η χαμένη υγεία σας ή οτιδήποτε άλλο έχει χαθεί!&lt;br /&gt;
+Μετά το πολυπόθητο χαμόγελο της εύρεσης το μόνο που μένει είναι να κάνετε την πίτα ακολουθώντας την παρακάτω συνταγή :&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;Πίτα του Αγίου Φανουρίου.&lt;/b&gt;
+&lt;b&gt;Υλικά:&lt;/b&gt;&lt;br /&gt;
+1 φλυτζάνι λάδι&lt;br /&gt;
+1 φλυτζάνι ζάχαρι&lt;br /&gt;
+3/4 φλυτζ. χυμό πoρτοκαλιού&lt;br /&gt;
+1/4 φλυτζ. κονιάκ&lt;br /&gt;
+2 κουταλιές τσαγιού τριμένη κανέλα&lt;br /&gt;
+1/4 κουταλιάς τσαγιού γαρύφαλλο&lt;br /&gt;
+1 1/2 κουταλιές baking powder&lt;br /&gt;
+3 φλυτζάνια αλεύρι για όλες τις χρήσεις&lt;br /&gt;
+1/2 φλυτζ.τριμένο καρύδι&lt;br /&gt;
+1/2 φλυτζ. σταφίδες&lt;br /&gt;
+&lt;b&gt;Εκτέλεση :&lt;/b&gt;&lt;br /&gt;
+Προθερμάνετε τον φούρνο στους 350 βαθμούς.&lt;br /&gt;
+Ελαφρά λαδώστε και μετά πασπαλίστε με λίγο αλεύρι, ένα στρογγυλό ταψί διαμέτρου 24 εκατοστών.&lt;br /&gt;
+Σε ένα μεγάλο μπολ ανακατέψτε το λάδι και την ζάχαρι μέχρι να γίνουν ένα. Προσθέστε τον χυμό, το κονιάκ, τα μπαχαρικά και το baking powder. Ανακατέψτε τα υλικά πολύ καλά και στο τέλος προσθέστε το καρύδι και τις σταφίδες.&lt;br /&gt;
+Αδειάστε το μείγμα στο ταψί και στρώστε την επιφάνεια με μιά σπάτουλα.&lt;br /&gt;
+Ψήνουμε στους 350 βαθμούς γύρω στα 45-50 λεπτά ή μέχρι να πάρει χρώμα ελαφρώς καφέ η επάνω πλευρά της πίτας.&lt;br /&gt;
+Το μόνο που μένει είναι να την πάτε σε ένα από τα εκκλησάκια του Αγίου στην περιοχή σας, που θα γιορτάζει στις 27 Αυγούστου, και θα έχετε εκπληρώσει το δικό σας μέρος της συμφωνίας !&lt;br /&gt;
+-Αυτό όμως σημαίνει ότι δεν συνιστώ να ψάξετε γιά την κρύπτη εκείνη την ημέρα, εκτός και αν έχετε στην κατοχή σας τον αόρατο μανδύα του Harry Potter !-&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;English&lt;/b&gt;
+&lt;br /&gt;
+In almost every religion in the world , you find strange Saints that fulfill the peoples needs.&lt;br /&gt;
+At Greek Orthodox Christianity, there is one also . He helps at cases where a DNF for a cache is near to be declared at the Geocaching site !&lt;br /&gt;
+You have to offer a pita (specially made but simple ) and ask for the reveal of a lost item, find a job for someone unemployed, deal on a lost cause, restore the health of someone sick, etc. After the happy smilie you just follow the next recipe :&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;The Pita (cake) of Saint Fanourios.&lt;/b&gt;
+&lt;b&gt;Ingredients:&lt;/b&gt;&lt;br /&gt;
+1 cup sunflower oil&lt;br /&gt;
+1 cup sugar&lt;br /&gt;
+3/4 cup orange juice&lt;br /&gt;
+1/4 cup brandy&lt;br /&gt;
+2 tsp. ground cinnamon&lt;br /&gt;
+1/4 tsp. ground clover&lt;br /&gt;
+1 1/2 tsp. baking powder&lt;br /&gt;
+3 cups all-purpose flour&lt;br /&gt;
+1/2 cup ground walnuts&lt;br /&gt;
+1/2 cup raisins&lt;br /&gt;
+&lt;b&gt;Preparation:&lt;/b&gt;&lt;br /&gt;
+Preheat the oven to 350 degrees.&lt;br /&gt;
+Lightly grease and flour a 9 inch round (24 cm) cake pan.&lt;br /&gt;
+In a large bowl using a whisk, mix together the sunflower oil and the sugar until well combined. Add the orange juice, brandy, spices, and baking powder and mix well.&lt;br /&gt;
+Using a spatula, incorporate the flour into the batter and mix until just combined. Mix in the ground walnuts and raisins. Transfer the batter into the cake pan and smooth the top with the spatula. Bake at 350 degree oven for 45-50 minutes or until the cake is nicely browned.&lt;br /&gt;
+After that bring it to the church of Saint Fanourios on August 27.&lt;br /&gt;
+And You have fulfilled your part of the agreement ! - That also means that searching for this cache at those days is not suggested , unless, you have Harry Potters invisible cloak !-</groundspeak:long_description>
+            <groundspeak:encoded_hints>Red stone among lots of gray ?</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.17" lat="39.006667">
+        <time>2012-05-17T07:00:00.000Z</time>
+        <name>OX3KMM4</name>
+        <desc>Άγιος Φωκάς - St.Fokas by MIMHS.GR, Unknown Cache(2.5/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3KMM4</url>
+        <urlname>Άγιος Φωκάς - St.Fokas</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3356436">
+            <groundspeak:name>Άγιος Φωκάς - St.Fokas</groundspeak:name>
+            <groundspeak:placed_by>MIMHS.GR</groundspeak:placed_by>
+            <groundspeak:owner id="71643">MIMHS.GR</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;b&gt;Ancient Temple of Dionysus &amp; St. Fokas chapel&lt;/b&gt;
+
+Η περιγραφή στα Ελληνικά ακολουθεί και είναι λίγο ποιό γεμάτη . Αθάνατη γλώσσα! Σου δίνει την δυνατότητα να εκφραστείς όπως θέλεις !
+
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
+Agios (Saint) Fokas is a natural small harbor as well as a very important historic site, on the west side of Vatera beach.&lt;br /&gt;
+Above the harbour on top of the hill you can see the ruins of the ancient temple of Dionysus Vrissagenis side by side with the contemporary church of Agios Fokas, which dominates the hilltop. From there, looking westwards, you can enjoy one of the most beautiful sunsets of the island.&lt;br /&gt;
+&lt;b&gt;The myth of priest Makar&lt;/b&gt;
+Claudius Aimilian, roman writer of the 2nd century, in his ‘book of various stories’ where he writes myths mostly of moral ethics, talks about a man called ‘Makar’.&lt;br /&gt;
+He was the high priest at the temple of Dionysus and founder of the worship of the god in the cape of Lesbos Vrisa. This priest was punished exemplary by god Dionysus, for failing being good and peaceful on the inside, as he was on the outside! According to a myth, a stranger passing by entrusted Makar with the safe keeping of a large amount of gold until his return from his long journey to some far away country.&lt;br /&gt;
+Makar dug a hole in the temple’s floor and buried the treasure. When the stranger returned and asked for the gold, the priest killed him and buried the body in the same hole inside the temple hoping that he would trick the God as he did with the stranger and escape punishment.&lt;br /&gt;
+After that and when the every ‘three years’ «τριετηρίδες» holiday was being celebrated at the temple, Makar made a grand lamb sacrifice on the temple’s altar and then withdrew inside the temple, where he continued the ceremony in honor of the god.&lt;br /&gt;
+His two young boys, who remained by the altar, tried to react their father’s ritual procedure, so the younger boy placed his neck on the altar and the older one slaughtered him, like his father did to the animal a little while ago.&lt;br /&gt;
+At this moment their mother came out, sees the picture and in madness kills the other boy with a burning wooden stick from the altar.&lt;br /&gt;
+He was arrested and when questioned, he confessed his crime and was sentenced to death. The murdered stranger had a decent funeral and Makar was executed and his bloodline extinct.&lt;br /&gt;
+&lt;br /&gt;
+I know that most of you don't like puzzle caches, so I created an easy one. You have to enter the right coordinates to certitude checker and just follow the hint. So easy !&lt;br /&gt;
+The cache is a glass jar ,in order to keep weather elements away, so be careful when handling and hiding it&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://certitude.comxa.com/certified.php?wp=GC3KMM4&quot;&gt;&lt;/a&gt;&lt;br /&gt;
+You can validate your puzzle solution with &lt;a href=&quot;http://certitude.comxa.com/certitude.php?wp=GC3KMM4&quot;&gt;certitude&lt;/a&gt;.
+&lt;b&gt;Αρχαίος ναός του Διονύσου &amp; το εξωκλήσι του Αγιου Φωκά&lt;/b&gt;
+Στο ακρωτήριο του Άγιου Φωκά, αυτή την πολύ σημαντική ιστορική τοποθεσία, μπορείτε να επισκεφθείτε τα ερείπια του αρχαίου ναού του Διονύσου του Βρησαγενούς και το εξωκλήσι του Αγίου Φωκά που δεσπόζει στην κορυφή του λόφου, ενώ το λιμανάκι στα ριζά του προστατεύει τις βάρκες και τα καΐκια από τις άσχημες καιρικές συνθήκες.&lt;br /&gt;
+Αξίζει να περπατήσετε στα βράχια του ακρωτηρίου και να απολαύσετε το ωραιότερο ηλιοβασίλεμα του νησιού που έχετε δει ποτέ!&lt;br /&gt;
+&lt;b&gt;Η ιστορία του Μάκαρα, iερέα του Διονύσου.&lt;br /&gt;&lt;/b&gt;
+Ο Κλαύδιος Αιλιανός, συγγραφέας του δεύτερου μ.Χ. αιώνα, στην «Ποικίλη Ιστορία» του, που περιλαμβάνει μια σειρά από ανέκδοτα με ηθοπλαστικά επιμύθια, διηγείται την ιστορία ενός Μάκαρα που ήταν ιερέας στο ναό του Διονύσου και ιδρυτής της λατρείας του θεού στο ακρωτήρι της Λέσβου κοντά στην αρχαία Βρίσα.&lt;br /&gt;
+Ο ιερέας λοιπόν Μάκαρας τιμωρήθηκε παραδειγματικά από το θεό για την απληστία του. Σύμφωνα με την παράδοση, ο Μάκαρας, ενώ εξωτερικά φαινόταν καλός και πράος, στην ψυχή του ήταν κακός και αιμοβόρος, όπως αποδείχτηκε με αυτά που συνέβησαν στο ναό που ιερουργούσε.&lt;br /&gt;
+Κάποτε ένας ξένος, περαστικός από το ναό του Διονύσου, εμπιστεύτηκε στο Μάκαρα μια μεγάλη ποσότητα από χρυσάφι και τον παρακάλεσε να του τη φυλάξει στο ναό ώσπου να ξαναγυρίσει. Ο Μάκαρας έσκαψε ένα λάκκο στο μυχό του ναού και παράχωσε το χρυσάφι.&lt;br /&gt;
+Όταν όμως μετά από καιρό γύρισε ο ξένος να πάρει το χρυσάφι του, ο Μάκαρας τον οδήγησε στο βάθος του ναού και, προσποιούμενος ότι σκάβει για να ξεθάψει το χρυσάφι, σκοτώνει τον ξένο και τον ρίχνει στο λάκκο, απ' όπου έβγαλε το χρυσάφι του.&lt;br /&gt;
+Ο Μάκαρας κράτησε το χρυσάφι για τον εαυτό του, πιστεύοντας ότι, όπως ξεγέλασε τους ανθρώπους, θα ξεγελούσε και το θεό. Μετά απ' αυτά, μια μέρα που γιορτάζονταν στο ναό οι «τριετηρίδες», ο Μάκαρας, αφού έκανε μεγαλόπρεπη θυσία στο βωμό του Διονύσου, αποσύρθηκε στο εσωτερικό του ναού, όπου συνέχισε την τελετή προς τιμήν του θεού.&lt;br /&gt;
+Τα δυο μικρά παιδιά του, που είχαν μείνει έξω, όταν τελείωσε ο πατέρας τους τη θυσία, ενώ ακόμα καίγονταν τα σφάγια, πλησίασαν στο βωμό και, μιμούμενα τον πατέρα τους, ο μεν μικρότερος παρέστησε το θύμα, βάζοντας τον τράχηλό του στον βωμό, ο δε μεγαλύτερος, παίρνοντας το παρατημένο εκεί μαχαίρι της θυσίας, έκοψε την καρωτίδα του αδελφού του σαν να ήταν σφαχτάρι.&lt;br /&gt;
+Όσοι βρίσκονταν μέσα στον ναο, μόλις αντιλήφθηκαν το κακό που έγινε, έβαλαν τις φωνές και η μάνα των παιδιών έτρεξε έξαλλη προς το βωμό. Εκεί, μόλις είδε το ένα παιδί της σφαγμένο και το άλλο να κρατά ακόμα στο χέρι το μαχαίρι που έσταζε αίμα, αρπάζει ένα μισοκαμένο ξύλο από το βωμό και μ' αυτό χτυπώντας, σκότωσε και το μεγαλύτερο παιδί της.&lt;br /&gt;
+Ο Μάκαρας, που βρισκόταν ακόμα μέσα στο ναό, μόλις έμαθε για το φόνο των παιδιών του, πάνω στην οργή του, τρέχει και σκοτώνει με το θύρσο, το μαχαίρι των θυσιων, τη γυναίκα του.&lt;br /&gt;
+Όταν μαθεύτηκε ο φοβερός τριπλός θάνατος, συνέλαβαν τον Μάκαρα και, αφού τον ανέκριναν, αυτός ομολόγησε, όλα όσα ανόσια έπραξε στο ναό του Διονύσου.&lt;br /&gt;
+Γι' αυτές του τις πράξεις τιμωρήθηκε με θάνατο, ενώ ο ξένος που σφάχτηκε άδικα από τον Μάκαρα, αφού τιμήθηκε με κανονική κηδεία, θάφτηκε σύμφωνα με τη θεϊκή εντολή.&lt;br /&gt;
+Έτσι ο Μάκαρας πλήρωσε το έγκλημα που διέπραξε όχι μόνο με το δικό του κεφάλι, αλλά και με της γυναίκας του και των δυο παιδιών του.&lt;br /&gt;
+&lt;br /&gt;
+Ξέρω οτι οι περισσοτεροι απο σας δεν συμπαθούν τις κρύπτες-γριφους, γι'αυτο εκανα μια, με πολύ απλη λυση. Το μόνο που χρειαζεται ειναι να δωσετε τις σωστες συντεταγμενες στο certitude και να ακολουθήσετε το hint που θα αποκαλυφθεί. Τόσο απλα !&lt;br /&gt;
+Το κουτί ειναι ενα γυάλινο βαζο μαρμελάδας, γι'αυτο προσεξτε οταν το χειριζεστε ή το ξαναβάζετε στην θέση του.
+&lt;a href=&quot;http://certitude.comxa.com/certified.php?wp=GC3KMM4&quot;&gt;&lt;/a&gt;&lt;br /&gt;
+Μπορείτε να ελέγξετε εδώ την λύση σας με το &lt;a href=&quot;http://certitude.comxa.com/certitude.php?wp=GC3KMM4&quot;&gt;certitude&lt;/a&gt;.
+
+&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;HIDDEN: F23KMM4 - GC3KMM4 Final2&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;Now add .005 to North and .005 to East. IN a cavity of the stone wall 30 cm from ground and covered with smaller ones&lt;br /&gt;HIDDEN: FN3KMM4 - GC3KMM4 Final&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.5</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
         </ox:opencaching>
     </wpt>
     <wpt lon="26.302083" lat="39.012433">
-        <time>2011-06-19T02:00:00.000-05:00</time>
+        <time>2011-06-19T07:00:00.000Z</time>
         <name>OX2YJ4C</name>
-        <desc>Olympian Gods: Ares by MIMHS.GR, Unknown Cache(3.0/3.8/3.0)</desc>
+        <desc>Olympian Gods: Ares by MIMHS.GR, Unknown Cache(3.1/3.6/3.1)</desc>
         <url>http://www.opencaching.com/#geocache/OX2YJ4C</url>
         <urlname>Olympian Gods: Ares</urlname>
         <sym>Geocache</sym>
@@ -432,33 +630,33 @@ One last 'small' detail : on the rocky mountain at west of the cache and about t
             <groundspeak:type>Unknown Cache</groundspeak:type>
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
-            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
             <groundspeak:long_description html="True">The coordinates are not the final ones. Park
-your car and go south.&lt;br/&gt;
+your car and go south.&lt;br /&gt;
 ***This geocache is one of a series of puzzle caches being
-created&lt;br/&gt;
+created&lt;br /&gt;
 in 2011 all over Greece called 'Olympian Gods'.***
- &lt;br/&gt;&lt;br/&gt; 
+ &lt;br /&gt;&lt;br /&gt; 
 
 
 
 &lt;blockquote&gt; &lt;/blockquote&gt;
 
 I was going to start, to
-tell you a story,&lt;br/&gt;
-of great love and death and glory.&lt;br/&gt;
-Four thousand years ago – at Troy,&lt;br/&gt;
-Gods start a war of men, for joy!&lt;br/&gt;
-Ten years of fight, with spear or knife,&lt;br/&gt;
-for honor and beauty, a goddess, a wife.&lt;br/&gt;
-The sister of ARES has started the war&lt;br/&gt;
-by throwing an apple of gold, at the floor&lt;br/&gt;
-Athena and Hera had lost in that game,&lt;br/&gt;
-and god Aphrodite had offered Helene!&lt;br/&gt;
-A piece of the story as Homer was singing&lt;br/&gt;
-is a sad day of fighting, and merciless killing&lt;br/&gt;
-and the love of THE Warrior for a beutiful WOMAN&lt;br/&gt;
-at the day he had found, that he was only, a MAN…&lt;br/&gt;
+tell you a story,&lt;br /&gt;
+of great love and death and glory.&lt;br /&gt;
+Four thousand years ago – at Troy,&lt;br /&gt;
+Gods start a war of men, for joy!&lt;br /&gt;
+Ten years of fight, with spear or knife,&lt;br /&gt;
+for honor and beauty, a goddess, a wife.&lt;br /&gt;
+The sister of ARES has started the war&lt;br /&gt;
+by throwing an apple of gold, at the floor&lt;br /&gt;
+Athena and Hera had lost in that game,&lt;br /&gt;
+and god Aphrodite had offered Helene!&lt;br /&gt;
+A piece of the story as Homer was singing&lt;br /&gt;
+is a sad day of fighting, and merciless killing&lt;br /&gt;
+and the love of THE Warrior for a beutiful WOMAN&lt;br /&gt;
+at the day he had found, that he was only, a MAN…&lt;br /&gt;
 
 
 PENTHESILEA was an Amazonian queen,
@@ -469,7 +667,7 @@ so honorably and in battle. She therefore joins the Trojan War,
 fighting on the side of TROJA defenders. Penthesilea arrives in
 Troy the night before the fighting is due to recommence for the
 first time after Hector's death. She arrived with twelve companions
-and promised the Trojans that she would kill ACHILLES. .&lt;br/&gt;
+and promised the Trojans that she would kill ACHILLES. .&lt;br /&gt;
 ACHILLES eventually kills her, needing only one blow to her
 breastplate to knock her over and leave her begging for her life.
 He is unmoved by her pleas, however, and kills her. He mocks her
@@ -479,29 +677,29 @@ because he wishes that he could have married her. In the Pseudo-
 Apollodorus Epitome of the Bibliotheke is said, that, she have been
 killed by Achilles, &quot;who fell in love with the Amazon after her
 death and slew Thersites for jeering at him, driven by
-anger&quot;.&lt;br/&gt;
+anger&quot;.&lt;br /&gt;
 That sets ACHILLES in a need of purification (Catharsis) and he
-travels to island of Lesvos to beg the Gods for forgiveness.&lt;br/&gt;
+travels to island of Lesvos to beg the Gods for forgiveness.&lt;br /&gt;
 To find what ACHILLES left in the Island you have to calculate
 these 4 coordinates by finding values for these Greek and Trojan
 names;
 
 
  
-&lt;br/&gt;
-&lt;strong&gt;A.&lt;br/&gt;&lt;/strong&gt; N=
-(Dorothea+Nemausa)0.(Agnia+Kalypso)&lt;br/&gt;
-E= (Acamas+Thalia).Achilles&lt;br/&gt;
-&lt;strong&gt;B.&lt;br/&gt;&lt;/strong&gt; N=
-(Irene+Geometria)0.(Theresia+Artemis)&lt;br/&gt;
-E= (Evdokiya+Kreusa).Penthesilea&lt;br/&gt;
-&lt;strong&gt;C.&lt;br/&gt;&lt;/strong&gt; N=
-(Tyche+Aethra)0.(Mathesis+Meliboea)&lt;br/&gt;
-E= (Rhodope+Dollfus).Achilles&lt;br/&gt;
-&lt;strong&gt;D.&lt;br/&gt;&lt;/strong&gt; N=
-(Oceana+Rhodope)0.(Alkmene+Erida)&lt;br/&gt;
-E= ( Prymno + Phereclos ).Penthesilea&lt;br/&gt;
-&lt;br/&gt;
+&lt;br /&gt;
+&lt;strong&gt;A.&lt;br /&gt;&lt;/strong&gt; N=
+(Dorothea+Nemausa)0.(Agnia+Kalypso)&lt;br /&gt;
+E= (Acamas+Thalia).Achilles&lt;br /&gt;
+&lt;strong&gt;B.&lt;br /&gt;&lt;/strong&gt; N=
+(Irene+Geometria)0.(Theresia+Artemis)&lt;br /&gt;
+E= (Evdokiya+Kreusa).Penthesilea&lt;br /&gt;
+&lt;strong&gt;C.&lt;br /&gt;&lt;/strong&gt; N=
+(Tyche+Aethra)0.(Mathesis+Meliboea)&lt;br /&gt;
+E= (Rhodope+Dollfus).Achilles&lt;br /&gt;
+&lt;strong&gt;D.&lt;br /&gt;&lt;/strong&gt; N=
+(Oceana+Rhodope)0.(Alkmene+Erida)&lt;br /&gt;
+E= ( Prymno + Phereclos ).Penthesilea&lt;br /&gt;
+&lt;br /&gt;
 
 &lt;blockquote&gt; &lt;/blockquote&gt;
 
@@ -512,32 +710,915 @@ at the intersection of lines AB &amp; CD.&lt;/strong&gt;
 
 
 
-&lt;a href=&quot;http://geocheck.org/geo_inputchkcoord.php?gid=5980342f26eed1-b4db-4764-b710-d5e7eb3846d5&quot;&gt;&lt;/a&gt;&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;HIDDEN: FN2YJ4C - GC2YJ4C Final&lt;br/&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br/&gt;&lt;br/&gt;I12YJ4C - Intersection 1&lt;br/&gt;N 39° 00.523 E 026° 18.835&lt;br/&gt;Select right road (not in Google maps )&lt;br/&gt;I22YJ4C - Intersection 2&lt;br/&gt;N 39° 00.578 E 026° 18.627&lt;br/&gt;Select LEFT road (not clear in Google maps )&lt;br/&gt;PK2YJ4C - GC2YJ4C Parking&lt;br/&gt;N 39° 00.746 E 026° 18.125</groundspeak:long_description>
+&lt;a href=&quot;http://geocheck.org/geo_inputchkcoord.php?gid=5980342f26eed1-b4db-4764-b710-d5e7eb3846d5&quot;&gt;&lt;/a&gt;&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;HIDDEN: FN2YJ4C - GC2YJ4C Final&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;I12YJ4C - Intersection 1&lt;br /&gt;N 39° 00.523 E 026° 18.835&lt;br /&gt;Select right road (not in Google maps )&lt;br /&gt;I22YJ4C - Intersection 2&lt;br /&gt;N 39° 00.578 E 026° 18.627&lt;br /&gt;Select LEFT road (not clear in Google maps )&lt;br /&gt;PK2YJ4C - GC2YJ4C Parking&lt;br /&gt;N 39° 00.746 E 026° 18.125</groundspeak:long_description>
             <groundspeak:encoded_hints>They are all between Mars and Jupiter,in the same belt...</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1778830">
+                    <groundspeak:date>2012-02-28T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="81542">Stratis</groundspeak:finder>
+                    <groundspeak:text encoded="False">A nice hike and an amazing view</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.1</ox:awesomeness>
+                <ox:difficulty>3.1</ox:difficulty>
+                <ox:size>3.9</ox:size>
+                <ox:terrain>3.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.179633" lat="39.044533">
+        <time>2012-06-19T07:00:00.000Z</time>
+        <name>OX3NVQ5</name>
+        <desc>Paliopirgos of Vrissa by MIMHS.GR, Traditional Cache(2.0/3.1/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3NVQ5</url>
+        <urlname>Paliopirgos of Vrissa</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3421878">
+            <groundspeak:name>Paliopirgos of Vrissa</groundspeak:name>
+            <groundspeak:placed_by>MIMHS.GR</groundspeak:placed_by>
+            <groundspeak:owner id="71643">MIMHS.GR</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;b&gt;Ο Παλιόπυργος της Βρίσας&lt;br /&gt;
+Paliopirgos of Vrissa (Gatelouzian castle)&lt;/b&gt;
+
+
+ &lt;br /&gt;&lt;br /&gt; 
+
+
+&lt;br /&gt;
+&lt;b&gt;Ελληνικά&lt;/b&gt;
+&lt;br /&gt;
+&lt;b&gt;Στην περιοχή «Περιβόλια» έξω από το χωριό Βρίσα δεσπόζει ο μικρός λόφος με το Γατελούζικο πύργο, τον Παλιόπυργο στην ντοπιολαλιά, που λειτουργούσε πιθανώς ως οχυρό για την προστασία των κατοίκων από τις διάφορες επιδρομές. Σήμερα είναι μισογκρεμισμένος, αλλά η ηρεμία και η ομορφιά που αποπνέει το τοπίο είναι μοναδικές.&lt;br /&gt;
+Βρίσκεται στο σημείο όπου συναντώνται οι δύο ποταμοί της περιοχής με τις ευφορότερες κοιλάδες της περιοχής, που αποτελούσαν παλιά την πηγή ζωής για το χωριό με τα περιβόλια, τα μποστάνια, τ' αμπέλια, τους φρουτώνες και τα σιτηρά και άλλα αγροτικά προϊόντα.&lt;br /&gt;
+Στη βυζαντινή εποχή η πεδινή περιοχή γύρω από τον Παλιόπυργο ανήκε στα λεγόμενα Βασιλικά χωριά, τα οποία ως βασιλική γη ανήκαν στον αυτοκρατορικό θρόνο της Κωνσταντινούπολης και παραχωρούνταν για εκμετάλλευση σε άρχοντες ή βετεράνους στρατιωτικούς. Το ίδιο συνεχίστηκε και στην Τουρκοκρατία, κατά την οποία οι εύφορες εκτάσεις, παραχωρούνταν στους άνδρες του οθωμανικού στρατού, ή αξιωματούχους.&lt;br /&gt;
+Στο μέσο λοιπόν αυτής της περιοχής βρίσκεται ο Παλιόπυργος, πάνω στο ύψωμα, αθέατος από τη θάλασσα και αρκετά ψηλά, για να μπορεί να κατοπτεύει τη γύρω περιοχή. εξυπηρετούσε καθαρά στρατιωτικούς-αμυντικούς σκοπούς. Στην περίπτωση που οι σκοποί από τα υψηλότερα σημεία της περιοχής, έστελναν σήμα ότι παρατηρούνται ύποπτες κινήσεις στη θαλάσσια περιοχή, οι καλλιεργητές της γύρω περιοχής και οι κάτοικοι του οικισμού έσπευδαν να κλειστούν στον οχυρό πύργο, όπου υπήρχαν εξασφαλισμένα για αρκετές μέρες νερό (υπόγεια δεξαμενή) και τροφή (αποθήκη οσπρίων κ.λπ.).&lt;br /&gt;
+Είναι κτίσμα της μεσαιωνικής εποχής, βυζαντινό ή υστεροβυζαντινό των Γατελούζων. Πολύ πιθανό να έχει χτιστεί επί της εποχής του Μανουήλ Παλαιολόγου, δηλαδή το 1143-1180, όπως παρόμοιος πύργος στο κοντινό Λισβόρι, το οποίο πιθανώς επισκευάστηκε και ενισχύθηκε από τους Γατελούζους (1355-1462).&lt;br /&gt;
+Το βέβαιο πάντως είναι ότι πολλά υλικά, όπως μάρμαρα από παλαιοχριστιανικό ναό, έχουν μεταφερθεί στον Παλιόπυργο από την παραλιακή αρχαία Βρίσα.&lt;br /&gt;
+Στη μνήμη των κατοίκων της Βρίσας διατηρήθηκε η παράδοση του βυζαντινού μεγαλείου με βαφτιστικά ονόματα όπως Κομνηνός, Δούκας, Παλιολογού, Μελισσηνή, Σκαρλάτω ή Ρήγαινα και κάποια στοιχεία με ισχυρή δόση μυθοπλασίας για το «κάστρο» της περιοχής, το οποίο στους αιώνες που ακολούθησαν φαντάζονταν ως ενδιαίτημα βασιλιάδων και βασιλισσών «που ύφαιναν σε χρυσή κρεβατή» ή την σήραγγα που ένωνε τον Παλιόπυργο, σύμφωνα με το θρύλο, με τον Άγιο Φωκά!&lt;/b&gt;&lt;br /&gt;&lt;b&gt;Προσοχή ! :&lt;/b&gt; Παρά την αναλυτική διάλεξη που έδωσα στα έρποντα ζωντανά της περιοχής, σε άψογη γλώσσα Slithering, για το πόσο άκακοι και ακίνδυνοι είναι οι Geocachers , φοβάμαι ότι κανένα δεν κατάλαβε λέξη. Αργότερα διάβασα στην Wikipedia ότι τα φίδια &lt;u&gt;είναι όλα κουφά !&lt;/u&gt; Προσοχή λοιπόν ! Δημιουργείτε δονήσεις κτυπώντας το έδαφος όταν περπατάτε στα χόρτα και φορέστε σωστά παπούτσια και ρούχα.&lt;br /&gt;
+&lt;b&gt;English&lt;br /&gt;
+&lt;br /&gt;&lt;/b&gt;
+&lt;b&gt;Paliopirgos, Tower, stands there invisible from the sea and high enough, to be able to scout the surrounding area, at the meeting point of the two rivers of the region. This section it is one of the most fertile valleys with trees, gardens, melon fields and vineyards.&lt;br /&gt;
+As a building, is certainly of medieval times, the current building belongs in the early Byzantine period by emperor Manuel Palaiologos 1143-1180, like the one very similar, small also castle, found in Lisvori village. Some features of the Gatelouzian technique, such as rainwater drainage pipes, assure as that it was probably repaired and strengthened by the Gatelouzian (1355-1462).&lt;br /&gt;
+In the strong walls are embedded parts and marbles from the ancient buildings of the area. Like the Ancient, Roman and early Byzantine Vrissa that have been in places South, closer to the sea.&lt;br /&gt;
+Because of the pirate attacks, the inhabitants moved 3-4 km away from the sea, to seek a safer place to live. They were settling in small villages and the area of Paliopirgos was the grater of them. The whole district, because of the fertile valley, became the center of a rural life.&lt;br /&gt;
+But the inhabitants decided to build the tower for defensive military purposes in case the pirates come along to the interior of the island. So, if the watch-outs signaled suspicious movements of the enemies, they could lock themselves in the fortress tower and be secure for several days (the tower had an underground tank with water and a store of food).&lt;br /&gt;
+Only an archaeological research is able to give us more information for the time and the exact role of that tower, but it's certain that Paliopirgos played an defensive role throughout the Gatelouzian period and probably was abandoned by 1462, after the establishment of the Turks in the region. The fear that the Christian inhabitants felt for the Turks forced them to gather in a central village which was not different from today's Vrissa.&lt;br /&gt;
+&lt;br /&gt;Attention ! :&lt;/b&gt; I tried to explain to the serpents of the area, in perfect serpentine language, that Geocachers are absolutely harmless but I’m afraid they understood nothing at all of what I was saying, Maybe it was my dialect. Later I read in Wikipedia that serpents are deaf. Beware! When in high grass, make a lot vibrations by bumping the ground and wear proper shoes and clothes.
+
+
+
+
+&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;PK3NVQ5 - GC3NVQ5 Parking&lt;br /&gt;N 39° 02.692 E 026° 10.883&lt;br /&gt;Αφήστε το μέσον σας εδώ. 
+Park here.&lt;br /&gt;W13NVQ5 - achilopigado&lt;br /&gt;N 39° 02.612 E 026° 11.716&lt;br /&gt;Πηγάδι με χείλος ( αχιλοπήγαδο ), χαρακτηριστικό δημόσιο πηγάδι όπως πολλά στην περιοχή. Στο πλάι έχει μια τρύπα όπου κλείδωνε η άκρη της αλυσίδας με τον κουβά.
+Well with lip (achilopigado) feature found in many public wells in the area. On one of its side there is a hole where the chain with the bucket was locked.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.1</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>The Tower ruins.jpg</ox:name>
+                    <ox:size>111375</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Achilo-pigada.jpg</ox:name>
+                    <ox:size>254939</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>One of the inhabitants.jpg</ox:name>
+                    <ox:size>139389</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.312667" lat="39.053167">
+        <time>2012-05-21T07:00:00.000Z</time>
+        <name>OX3KWXC</name>
+        <desc>Ampeliko by MIMHS.GR, Traditional Cache(2.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3KWXC</url>
+        <urlname>Ampeliko</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3363419">
+            <groundspeak:name>Ampeliko</groundspeak:name>
+            <groundspeak:placed_by>MIMHS.GR</groundspeak:placed_by>
+            <groundspeak:owner id="71643">MIMHS.GR</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;b&gt;Αμπελικό&lt;br /&gt;
+Ampeliko - Vinevillage&lt;/b&gt;&lt;br /&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.handicaching.com/show.php?waypoint=GC3KWXC&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
+&lt;b&gt;Ελληνικά&lt;br /&gt;&lt;/b&gt;
+Πλησιάζετε στην είσοδο ενός πολύ παλιού χωριού . Θα ήταν προτιμότερο να παρκάρετε το αυτοκίνητο σας κάπου στη είσοδο του, και να κάνετε μια μικρή βόλτα με τα πόδια.&lt;br /&gt;
+Πιείτε νερό από τις πολλές βρύσες που θα δείτε! Το νερό είναι καθαρό χωρίς χημικά και έρχεται από το απέραντο δάσος πάνω και γύρω από το χωριό.&lt;br /&gt;
+Το όνομά του στην αρχαιότητα ήταν Βακχεία και φυσικά προέρχεται από την ύπαρξη των αμπελώνων στην περιοχή, την παραγωγή κρασιού και την άμεση σύνδεση της παραγωγής αυτής με τον Θεό Βάκχο, προστάτη του κρασιού και του γλεντιού.&lt;br /&gt;
+Το τωρινό όνομα Αμπελικό, με την ίδια σχεδόν αιτιολόγηση αναφέρεται για πρωτη φορα γύρω στον τρίτο μχ αιώνα.&lt;br /&gt;
+Στα γύρω χωράφια και πλατώματα έχουν αποκαλυφθεί πολλοί τάφοι από την αρχαία, Ρωμαϊκή και Βυζαντινή περίοδο. Τμήματα από κίονες και διάφορα νομίσματα απ’ αυτές τις εποχές έχουν βρεθεί και παρουσιάζονται σε μια καλά οργανωμένη έκθεση του μουσείου του χωριού, με την προσθήκη πολύτιμων αντικειμένων από την εκκλησιαστική ιστορία και την επίσης ενδιαφέρουσα παρουσίαση ενός άλλου επαγγέλματος που γνώρισε το χωριό : Των Ρετσινάδων.&lt;br /&gt;
+Αυτών δηλαδή που με πρωτόγονο τρόπο εξασφάλιζαν το πολύτιμο ρετσίνι από τα πεύκα της περιοχής , μοναδικό οργανικό παράγωγο για δεκάδες χρήσεις του περασμένου αιώνα. Το μουσείο είναι στην βόρεια είσοδο του χωριού ,μια ευχάριστη διαδρομή πέντε λεπτών από το κέντρο του. Αν δεν το βρείτε ανοικτό, ο ιερέας του χωριού δήλωσε ότι θα χαρεί να σας ξεναγήσει.&lt;br /&gt;
+Στην μέση του χωριού ξεχωρίζει ένας πύργος-φυλάκιο Φτιαγμένος προφανώς κατά την Βυζαντινή με Μεσαίωνα εποχή, χρησιμοποιήθηκε αρχικά σε συνδυασμό με έναν ακόμη που βρίσκεται στα Νοτιοδυτικά χαμένος μέσα στο δάσος, για να σημαίνει συναγερμό για την άφιξη πειρατών και να συντονίζει την απομάκρυνση των κατοίκων. Αρχικά είχε ύψος 27 μέτρων αλλά μειώθηκε κάποια στιγμή στα σημερινά 16 λόγω προβλημάτων σταθερότητας .&lt;br /&gt;
+Έχει δυο τζάκια στα δυο επάνω πατώματα και χρησιμοποιήθηκε επίσης σαν αποθήκη κρασιού και λαδιού, σαν κατοικία του Τούρκου τοπικού άρχοντα, και σαν φυλακή. Υπάρχει ένας τοπικός μύθος που μιλάει για μια πολύ όμορφη τουρκάλα κοπέλα που πέταξε ένα κεφάλι σκληρό τυρί, από το ψηλότερο παράθυρο στο νεαρό Ελληνόπουλο που την πείραζε, με αποτέλεσμα να τον σκοτώσει!&lt;br /&gt;
+Ο προηγούμενος ιερέας του χωριού έλεγε ότι υπάρχει ένα τούνελ διαφυγής από τον πύργο μέχρι την εκκλησία της αγ. Αικατερίνης, και ότι ο ίδιος το είχε περπατήσει πριν μερικά χρόνια. Δεν έχουμε όμως άλλα στοιχεία γι’ αυτό.&lt;br /&gt;
+Τα καφενεία είναι στο κέντρο του χωριού και το νερό αρκετά κρύο για ένα δροσερό ουζάκι Πλωμαριού και μεζέ.&lt;br /&gt;
+Για όσους έχουν τις αντοχές υπάρχουν 22 παλιά και νέα ξωκλήσια γύρω από το χωριό , με καλά προσδιορισμένα μονοπάτια σε μικρή σχετικά απόσταση , με το παλαιότερο να έχει φτιαχτεί το 1680μΧ.&lt;br /&gt;
+Μπορειτε να βρείτε περισσότερες πληροφορίες στο σχετικό link( στο πάνω μέρος αυτής της σελίδας ). Υπάρχει μια καλύτερη ανάλυση και περιγραφές , πολλές φωτογραφίες και χάρτης με τις διαδρομές για τα ξωκλήσια.&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;English&lt;br /&gt;&lt;/b&gt;
+You are entering an old village. It is best to stop your car outside the village and make a good tour in it. Drink the fresh mountain water from the fountains you will see.. The water is clear and comes from the mountains all around. The ancient name of this was 'Vakchia' and comes from the lots of wine produced and the old god Vakchus, who was the god of wine and fest.&lt;br /&gt;
+The now used name Ampeliko, comes from Greek 'Ampelos' (vine), and it is used at least from 3rd century and afterwards. Lots of graves from ancient Greek to Roman and Byzantine era, are found around the village mountains, many marble column pieces and some coins are exhibited, at well organized Village's Folklore and Church Museum at the edge of village just west from the cache.&lt;br /&gt;
+If not open at your arrival, the village's priest will help you as he told me. At the middle of Ampeliko you will see a watch-out tower. Builded probably at Byzantine to Middle age period, was used with conjunction with one other, found at south west of it, to signal the pirates alarm for inhabitants.&lt;br /&gt;
+At building time was 27 meters high, but reduced to 16 meters due to stability of the upper parts. It has two fire places in the top two floors and used also for wine and oil storage, Turkish master's home and as a prison.&lt;br /&gt;
+There is a story about a Turkish girl teased by a Greek boy so much, that she killed him by throwing a big hard cheese from the upper window!&lt;br /&gt;
+From the previous priest we have the assurance that an escape tunnel starting from the tower to the chapel of Saint Katerina exists. No confirmation found through.&lt;br /&gt;
+Coffee shops are close and cold water available, so you can eat and drink a local ouzo ! For you, that can and like hiking, there is a lot of interesting chapels (22) with well defined paths and signs, with the oldest build at 1680. You can find more information at the provided link if you can read Greek - Sorry, no English language pages found but you will have a great photo tour !.&lt;br /&gt;
+The chapel map is at http://www.ampeliko.gr/ekklisia/22eksoklisia/22eksoklisia.htm, press the first button lower.&lt;br /&gt;
+&lt;b&gt;&lt;a&gt;&lt;br /&gt;
+&lt;b&gt;Η κρύπτη - The Hide&lt;/b&gt;&lt;br /&gt;
+Η κρύπτη είναι κρυμμένη σχεδόν σε κοινή θέα. Μπορείτε να παρκάρετε δίπλα της. Πράγμα που δεν συνιστώ. Σίγουρα όμως δεν χρειάζεται να ψάχνετε σε θάμνους, δάση και βουνά, ή να βγείτε για κανένα λόγο από τον δρόμο ! Παρακαλώ δείξτε ιδιαιτερη προσοχή στην παρουσία των ντόπιων, οι ξένοι που ψάχνουν γύρω-γυρω κινούν σίγουρα την περιέργεια!&lt;br /&gt;
+Προσέξτε όταν ανοίγετε το κουτί μην σας πέσουν τα περιεχόμενα στο κενό και αν σας περισσεύει ένα μολύβι θα ήταν καλοδεχούμενο !&lt;br /&gt;
+&lt;br /&gt;
+The cache is hidden almost in plain view, you can just park and grab, but I don't recommend it.&lt;br /&gt;
+No need to walk in the bushes or leave the road. Please be careful when discover the 'box' or all will drop in the 'void' !! Have a nice tour !&lt;/a&gt;&lt;/b&gt;
+
+&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;HIDDEN: FN3KWXC - GC3KWXC Final&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;N 39 03.190  E 026 18.760</groundspeak:long_description>
+            <groundspeak:encoded_hints>It is tall, white, with red rectangular patch on it ! Pull upper part .But first use your 'Harry Potters invisible cloak'!!</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>North entrance.jpg</ox:name>
+                    <ox:size>165473</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.326833" lat="39.100067">
+        <time>2012-06-07T07:00:00.000Z</time>
+        <name>OX3N31P</name>
+        <desc>Roman Aqueduct III by MIMHS.GR, Traditional Cache(1.5/1.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3N31P</url>
+        <urlname>Roman Aqueduct III</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3399110">
+            <groundspeak:name>Roman Aqueduct III</groundspeak:name>
+            <groundspeak:placed_by>MIMHS.GR</groundspeak:placed_by>
+            <groundspeak:owner id="71643">MIMHS.GR</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;b&gt;Ρωμαικό Υδραγωγείο ΙΙΙ&lt;br /&gt;
+Roman Aqueduct III&lt;/b&gt;
+
+
+ &lt;br /&gt;&lt;br /&gt; Τμήμα του Ρωμαικού υδραγωγείου Μυτιλήνης. Αν ήδη επισκευθήκατε το Roman Aqueduct I &amp; το Roman Aqueduct II , μπορείτε να δείτε και την αρχικη πηγη τροφοδοσιας του, στο Roman Aqueduct IIΙ.&lt;br /&gt;
+Part of the Roman aqueduct of Mytilene. If you visited already Roman Aqueduct I &amp; Roman Aqueduct II, you might also like to visit the basic source of water, at Roman Aqueduct III.&lt;br /&gt;
+&lt;b&gt;Ελληνικά&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Στη Λέσβο υπάρχει μια περιοχή κοντά στο χωριό Αγιάσσος στο δρόμο για Πολυχνίτο, που λέγεται Μεγάλη Λίμνη. Όπως αναφέραμε ήδη, στην περιγραφή του GC3DJ18 Roman Aqueduct I, το υδρευτικό δίκτυο του ρωμαϊκού υδραγωγείου της Μυτιλήνης ξεκινούσε από το ποτάμι Ανεράϊδα, που πηγάζει από τη Μεγάλη Λίμνη, κατηφόριζε προς τις πηγές του Τσίγκου και έφτανε στα βόρεια του ποταμού Έθερνου ( GC3MTD4 Aqueduct II ).&lt;br /&gt;
+H Μεγάλη Λίμνη, όπως λέει και το όνομα, ήταν λίμνη μέχρις το 1929, που αποξηράνθηκε για να &quot;απελευθερωθούν&quot; γεωργικές εκτάσεις μεγέθους 1200 στρεμμάτων. Από τότε μέχρι σήμερα, όμως, έχουν αλλάξει τα πράγματα και το πρόβλημα της διαθεσιμότητας του νερού στα νησιά μας έγινε κρισιμότατο. Κάτι τέτοιο, εδώ που τα λέμε, ήταν αναμενόμενο. Η περιοχή της Μεγάλης Λίμνης στη Λέσβο σχεδόν κάθε χειμώνα πλημμυρίζει και τα χωράφια ξαναγίνονται πυθμένας με αποτέλεσμα ο ωφέλιμος χρόνος για την καλλιέργειά τους να μην ξεπερνά τους 3-4 μήνες.&lt;br /&gt;
+Η Μεγάλη Λίμνη διατηρείται αποξηραμένη με χίλια ζόρια και την ίδια στιγμή κατασκευάζεται -από πάνω της- μια πανάκριβη λιμνοδεξαμενή. H οποία θα έχει χωρητικότητα πεντακοσίων χιλιάδων κυβικών μέτρων νερού. Το σκεπτικό της κατασκευής της είναι η άρδευση των χωραφιών της Μεγάλης Λίμνης που δεν καλλιεργούνται !&lt;br /&gt;
+Πράγμα που γεννά εύλογα την απορία γιατί, δεν ξανακλείνουμε την τρύπα που ανοίξαμε για να φεύγουν τα νερά της και να -υποτίθεται- αποξηρανθεί; Να ξαναγίνει μία ωραιότατη λίμνη,χωρίς μεγάλο κόστος με την οποία θα αντιμετωπισθεί το πρόβλημα της λειψυδρίας η οποία τυραννάει, σχεδόν κάθε καλοκαίρι, το νησί ;&lt;br /&gt;
+Αν το κατάφεραν οι Ρωμαίοι και με τα μέσα που υπήρχαν πριν 2000 χρόνια , με την σημερινή γνώση και εργαλεία, πόσο δύσκολο θα ήταν ; Το 100 μΧ η λίμνη και οι πηγές του Ρωμαϊκού έργου έδιναν 27.500 κυβικά την ημέρα στην πόλη. Αν προσθέσει κανείς το νερό για το πότισμα των χωραφιών δίπλα στον αγωγό αντιλαμβάνεται την ποσότητα που μπορεί να διακινεί μια τέτοια κατασκευή.&lt;br /&gt;
+Οι προγονοί μας έχουν κάνει ήδη την περισσότερη δουλειά χαράζοντας και υπολογίζοντας τα 26 χιλιόμετρα της διαδρομής. χωρίς επιπλέον κατανάλωση ενέργειας για άντληση και μεταφορά.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;English&lt;/b&gt;
+&lt;br /&gt;
+On the road from Agiassos to Polychnitos there’s an area called the Great Lake. As it’s already been mentioned in the description of GC3DJ18 Aqueduct I. the water supply network of the Roman aqueduct of Mytilene began at the Aneraida river, which originates from the Great Lake, down to the sources of 'Tzigos' and reached the north of the river Ethernos ( GC3MTD4 Roman Aqueduct II).&lt;br /&gt;
+The Great Lake, as the name suggests, was a lake until 1929, when it was drained so the land could be farmed. Its size is 1200 sq. Km. Since then, however, things have changed and the problem of water supply became critical. This, for that matter, was expected. The Great Lake region of Lesvos floods almost every winter so the farmers can only cultivate the land for 3-4 months each year.&lt;br /&gt;
+In my opinion the area should be turned into a lake again in order to solve the water problem of the island and not build a reservoir which will cost much more money. The Romans did it more than 2000 years ago and at 100 ad this construction was feeding the city with 27.500 cubic meters of fresh water and on those are not included, the watering of the farmlands adjacent to it .&lt;br /&gt;
+After all they have calculated and prepared everything! So I don’t see why it can’t be done again and supply the town of Mytilene with more than enough water, without pumping and transferring energy costs.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Στον τοίχο προς το βουνό κάτω από την τέταρτη σιδερένια βέργα, κρυμμένο με μια πέτρα. Ιn the wall under the fourth thin iron pillar hidden with a stone.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Megali Limni.jpg</ox:name>
+                    <ox:size>79359</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.56325" lat="39.1059">
+        <time>2012-06-01T07:00:00.000Z</time>
+        <name>OX3MMX8</name>
+        <desc>Panlesvian Statue of Liberty by MIMHS.GR, Traditional Cache(1.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3MMX8</url>
+        <urlname>Panlesvian Statue of Liberty</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3386479">
+            <groundspeak:name>Panlesvian Statue of Liberty</groundspeak:name>
+            <groundspeak:placed_by>MIMHS.GR</groundspeak:placed_by>
+            <groundspeak:owner id="71643">MIMHS.GR</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;b&gt;ΤΟ ΠΑΝΛΕΣΒΙΑΚΟ ΑΓΑΛΜΑ ΤΗΣ ΕΛΕΥΘΕΡΙΑΣ&lt;br /&gt;
+Ή Η ΠΕΡΙΠΕΤΕΙΑ ΕΝΟΣ ΑΓΑΛΜΑΤΟΣ&lt;br /&gt;
+THE PANLESVIAN STATUE OF LIBERTY OR&lt;/b&gt; &lt;b&gt;&lt;br /&gt;
+THE ADVENTURE OF A STATUE&lt;/b&gt;
+
+
+ &lt;br /&gt;&lt;br /&gt; 
+
+
+
+&lt;b&gt;Ελληνικα&lt;/b&gt;
+&lt;br /&gt;
+Μετά το τέλος του βίαιου πρώτου παγκοσμίου πολέμου, μια νέα πνοή δημιουργίας δόθηκε σε όλες τις χώρες της Ευρώπης.&lt;br /&gt;Ο κόσμος που πια απολάμβανε τα ευεργετήματα της ειρήνης, εξέφραζε την επιθυμία να τιμήσει όσους ηρωικά είχαν δώσει τη ζωή τους για την πατρίδα. Γι αυτό ζητήθηκε να φτιαχτεί ένα μνημείο που να τιμά τους νεκρούς του πολέμου. Η ίδια τάση εκφράστηκε και στο νησι μας κατα τα ετη 1919-20. Ο γενικός διοικητής Λέσβου &lt;b&gt;Ι.Χρυσοβελονης&lt;/b&gt;, θέλησε να χρησιμοποιήσει γι'αυτο ένα όσο γινόταν πρωτότυπο καλλιτεχνικό μνημείο, προσκάλεσε τον Γερμανό αρχιτέκτονα &lt;b&gt;Ed. Chiler&lt;/b&gt; που ήταν ο βετεράνος στην κατασκευή κτισμάτων με κλασικό στυλ.&lt;br /&gt;
+Ο Chiler ήρθε στην Μυτιλήνη και ερεύνησε τα πρόσφορα σημεία για το έργο. Μετά την έρευνα αυτή έκρινε σαν πλέον κατάλληλο για την ανέγερση ενός τέτοιου μνημείου ένα άκρο της πόλης που τώρα ονομάζεται &quot;Μπλόκια&quot;. Στο σημείο αυτό είχε φτιαχτεί από τους Γενοβέζους ένα μικρό αλλά ισχυρό κάστρο-φυλάκιο, που οι ντόπιοι ονόμαζαν 'Καστρέλι'. Αυτό το κάστρο ενέπνευσε τον Chiler με μια υπέροχη σχεδίαση.&lt;br /&gt;
+Θα κράταγε το μικρό Γενοβέζικο κάστρο όπως ήταν, αλλά μέσα θα κατασκεύαζε έναν θόλο όπως περίπου τα Τουρκικά λουτρά της εποχής. Στην κορυφή του θόλου θα συνέχιζε μια μεγάλη στήλη που θα χρησίμευε σαν βάση για ένα άγαλμα. Το εσωτερικό του θόλου θα ήταν καλυμμένο με μαύρο μάρμαρο όπου θα ήταν γραμμένα με χρυσά γράμματα τα ονόματα των θυμάτων.&lt;br /&gt;
+Η οροφή θα είχε τις κατάλληλες ζωγραφιές και η βάση θα είχε γύρω της ένα Δελφικό τρίποδο. Όλος δε ο χώρος θα περιείχε αναμνηστικά από τον πόλεμο. Μια θολωτή γέφυρα θα συνέδεε το μνημείο με τον δρόμο, και θα ήταν διακοσμημένη με κανόνια από τις Γενοβέζικες και Τουρκικές εποχές κατοχής της Λέσβου.&lt;br /&gt;
+Το άγαλμα θα παρουσίαζε την Ελευθερία σαν μια γυναίκα που θα κράταγε έναν δαυλό αναδυομένη από το κάστρο που ήταν κομμάτι από μια ξένη κατοχή. Ο &lt;b&gt;Γρηγ. Ζευγολής&lt;/b&gt; ήταν ο γλύπτης του αγάλματος και ο διάσημος ζωγράφος της Μυτιλήνης &lt;b&gt;Γ. Ιακωβιδης&lt;/b&gt; σχεδίασε το κεφάλι. Όμως τα υπέροχα σχέδια του Chiler δεν πραγματοποιήθηκαν.&lt;br /&gt;
+Η κυβέρνηση του Ελ. Βενιζέλου έπεσε, ο Χρυσοβελόνης παραιτήθηκε και ο νέος διοικητής &lt;b&gt;Γ. Σπηλιοτοπουλος&lt;/b&gt; με το που έφτασε στην Μυτιλήνη άλλαξε τα αρχικά σχέδια με νεοτέρα. Σύμφωνα με τα νέα σχέδια το 'Καστρελι' γκρεμίστηκε παρά τις αντιδράσεις του κόσμου της Μυτιλήνης. Λόγω των αντιδράσεων αυτών το έργο έπαψε και μόνο το άγαλμα γλύτωσε, αφού ήδη είχε παραγγελθεί στην Γερμανία.&lt;br /&gt;
+Χρόνια μετά έφτασε το μήνυμα ότι το άγαλμα τελείωσε, και μετά από ατελείωτα προβλήματα έφτασε στον Πειραιά, όπου όμως έμεινε για πολύ καιρό, αφού δεν υπήρχαν τα μέσα για την μεταφορά του στο νησί, με τα πλοία της εποχής.&lt;br /&gt;
+Ευτυχώς την εποχή εκείνη ένας Μυτιληνιός ο &lt;b&gt;Αργ. Χριστοφίδης&lt;/b&gt; αγόρασε στον Πειραιά μια μεγάλη φορτηγίδα και θέλησε να τελειώσει με την ταλαιπωρία του αγάλματος. Πήρε το ρίσκο και φόρτωσε την Ελευθερία στην φορτηγίδα ρυμουλκώντας την με σχοινί από το πλοίο της γραμμής. Μέχρι και απειλές για κόψιμο του σχοινιού από τον πλοίαρχο υπήρξαν, στην περιπέτεια αυτού του αγάλματος.&lt;br /&gt;
+Το ξεφόρτωσαν με πολλά προβλήματα, λόγω έλλειψης των κατάλληλων εργαλείων και το άγαλμα έμεινε για πολύ καιρό στην αφάνεια. Όταν το θυμήθηκαν, άρχισε νέα διαμάχη με νέα σχέδια σε άλλη θέση από τον &lt;b&gt;A. Ζαχο&lt;/b&gt;, με νέες μελέτες και νέα προβλήματα. Μέχρι που ο νέος δήμαρχος &lt;b&gt;Πετρόπουλος&lt;/b&gt; αποφάσισε να χρησιμοποιήσει ότι είχε μείνει από την στήλη του Chiler και αφού την διαμόρφωσε κατάλληλα μεγαλώνοντας το πλάτος και τα θεμέλια της, έστησε επιτέλους το ταλαίπωρο άγαλμα.&lt;br /&gt;
+Τώρα με μαλλιά που αναδεύει ο αέρας κοιτάζει προς το πέλαγος κρατώντας έναν αναμμένο δαυλό με το τεντωμένο της χέρι. Τα αποκαλυπτήρια έγιναν στις 8 Νοεμβρίου 1930 την ημέρα που γιορτάζεται η απελευθέρωση του νησιού. Ανθοστήλες στις τέσσερεις πλευρές στολίζουν το βάθρο του μπρούτζινου αγάλματος. Σε μία από αυτές γράφει:&lt;br /&gt;
+&lt;b&gt;&lt;b&gt;Η ΜΥΤΙΛΗΝΗ&lt;br /&gt;
+ΣΕ ΑΝΑΜΝΗΣΗ ΟΣΩΝ ΠΕΘΑΝΑΝ ΓΙΑ ΤΗΝ ΓΗ ΤΩΝ ΠΑΤΕΡΩΝ ΤΟΥΣ&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;&lt;/b&gt;
+&lt;b&gt;English&lt;/b&gt;
+&lt;br /&gt;
+After the end of the violence of the 1st world war, a fresh impetus of creation was given to all European nations.&lt;br /&gt;People enjoying all the products of a creative peace expressed their wish to honor all those who heroically died during that war. For this reason they ordered the construction of war memorials. The same trend was also noted on our island during the years of 1919-20.&lt;br /&gt;
+The general commander in Lesvos &lt;b&gt;I. Chrisovelonis&lt;/b&gt;, wishing to have an authentic piece of art, invited &lt;b&gt;Ed. Chiler&lt;/b&gt;the famous German architect who was a veteran in the construction of classical style buildings.&lt;br /&gt;
+Chiler came to Mytilene to study suitable sites.&lt;br /&gt;
+After his study he drew the conclusion that the most appropriate spot for the erection of such a monument would the one known today as «Blokia». A small bastion had been built there during the Genoatic occupation of the island known as «Kastraki» or «Kastrelly» (small castle).&lt;br /&gt;
+This bastion inspired Chiler to come up with a terrific design. He kept the small Genoatic castle in its original form and style but inside it he would construct a slightly vaulted roof such as the ones in the Turkish public baths.&lt;br /&gt;
+The roof was propped up by a projecting pillar which in turn would serve as the base of the statue.&lt;br /&gt;
+The inside of the vaulted building was expected to be covered with black marble slabs on which there would be carved in golden letters the names of the war victims. The ceiling of the vault would be decorated with appropriate paintings while the pillar would be surrounded by a Delphic Tripod. The entire hall would be a museum full of war memorabilia.&lt;br /&gt;
+An arched bridge would span the road with the bastion. Moreover the inside part of the arch would be decorated with old canon remnants from the Turkish and Genoatic occupation. Chilers masterpiece was symbolic. It would present liberty as a woman holding a torch and springing up from the small castle which was also a symbol of foreign occupation.&lt;br /&gt;
+&lt;b&gt;Greg. Zevgolis&lt;/b&gt;was to be sculptor of the statue and &lt;b&gt;G. Iacobides&lt;/b&gt;the famous painter from Lesvos was to be the one to design the statue's head. But Chiler's wonderful designs never materialized.&lt;br /&gt;
+Venizelos' government was overthrown, Chrisovelonis resigned and &lt;b&gt;G. Spiliotopoulos&lt;/b&gt;, the new general commander, arrived in Mytilene. The First thing he did was to change the initial designs and adopt new ones. According to the new designs Kastraki was to be demolished, a thing which finally took place despite the protests of the people of Mytilene.&lt;br /&gt;
+A half -finished pillar which was left was the only reminder of the previous place where the statue of Liberty was to be erected.&lt;br /&gt;
+Due to the interference of the new commander, only the bronze statue of Liberty was saved, because its construction had already been ordered in Germany.&lt;br /&gt;
+Spiliotopoulos was replaced and the new designs were abandoned leaving the pillar as the only remembrance of the Genoatic castle (Kastraki).&lt;br /&gt;
+Years after, the good news came from Germany that the statue had been completed.&lt;br /&gt;
+After endless deliberation payment was made and «Liberty», packed in a wooden box, arrived at Piraeus. But there was more to come.&lt;br /&gt;
+Due to the lack of mechanical means of loading it onto a liner, the statue rested for years at the docks.&lt;br /&gt;
+At that time, a Mytilinian, &lt;b&gt;Arg. Christofides&lt;/b&gt;, went to Piraeus to buy a barge.&lt;br /&gt;
+Wishing to put an end to the hardships of the statue he took the risk of loading it on his barge which would be towed by a liner. Rough sea and even the threat of the captain to cut off the wire rope, which towed the barge, were some of the mishaps during the journey.&lt;br /&gt;
+Finally they came in view of the port of Mytilene. The immense «passenger» was unloaded and innumerable technical devices were used to position it at the Rouselli beach near Mytilene. The statue sank into oblivion but when one day the officials finally decided to erect it strong dissent was expressed concerning the proper place.&lt;br /&gt;
+According to the new architectural designs of &lt;b&gt;A.Zachos&lt;/b&gt; «Darlas» was a good spot for the statue as a park and a stadium were to be constructed there. Strong feelings on all sides were aroused based on the view that a high pedestal was needed, so there would be a visual&lt;br /&gt;
+analogy of its parts . &lt;b&gt;Petropoulos&lt;/b&gt;, the new mayor of Mytilene rejected those designs and decided to take advantage of 'Spiliotopoulos' pillar, which was modified to become wider, with larger foundations and made narrower at the top and a marble coating was put on it.&lt;br /&gt;
+This pillar became the permanent pedestal of the much afflicted statue of Liberty and its unveiling took place on November 8th 1930. Looking at the statuewe can see the bronze, swarthy Liberty gazing at the sea holding a torch in her outstretched right hand. Floral decorations surround the pedestal on four sides.&lt;br /&gt;
+On one of the four sides the following is written in a laurel decorated frame.&lt;br /&gt;
+&lt;b&gt;MYTILENE&lt;br /&gt;
+IN REMEMBRANCE OF ALL THOSE WHO DIED FOR THEIR FATHERLAND&lt;br /&gt;&lt;/b&gt;</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Mytilene Statue Of Liberty.jpg</ox:name>
+                    <ox:size>60494</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Guateluzan 'Kastrely' 1912.jpg</ox:name>
+                    <ox:size>13409</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.56485" lat="39.1114">
+        <time>2012-03-30T04:09:11.000Z</time>
+        <name>OX3E5KD</name>
+        <desc>The Fortress by Stratis, Traditional Cache(2.9/1.9/2.9)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3E5KD</url>
+        <urlname>The Fortress</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3193044">
+            <groundspeak:name>The Fortress</groundspeak:name>
+            <groundspeak:placed_by>Stratis</groundspeak:placed_by>
+            <groundspeak:owner id="81542">Stratis</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Micro Cache containing Logbook and small pencil. Bring a pen with you just in case.</groundspeak:long_description>
+            <groundspeak:encoded_hints>The rocks aren't as hard as they seem.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1786159">
+                    <groundspeak:date>2012-04-23T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="71643">MIMHS.GR</groundspeak:finder>
+                    <groundspeak:text encoded="False">Easy to find .Just two-three meters to SE direction of GZ. Beutifull place and the first to visit when you arrive at the main port of Lesvos.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>2.9</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.9</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>DSC01348.jpg</ox:name>
+                    <ox:size>295783</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Fortress1.jpg</ox:name>
+                    <ox:size>230976</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Fortress.jpg</ox:name>
+                    <ox:size>245027</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>View 1.jpg</ox:name>
+                    <ox:size>144908</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.099217" lat="39.112267">
+        <time>2012-05-15T07:00:00.000Z</time>
+        <name>OX3KJWH</name>
+        <desc>Alum AB(SO4)2·12H2O. by MIMHS.GR, Traditional Cache(1.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3KJWH</url>
+        <urlname>Alum AB(SO4)2·12H2O.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3354744">
+            <groundspeak:name>Alum AB(SO4)2·12H2O.</groundspeak:name>
+            <groundspeak:placed_by>MIMHS.GR</groundspeak:placed_by>
+            <groundspeak:owner id="71643">MIMHS.GR</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Greek language description maybe is longer but was easier for me to say all I wanted to. But English language description follows after ...
+
+ &lt;br /&gt;&lt;br /&gt; &lt;b&gt;Ελληνικά&lt;/b&gt;
+Η κρύπτη μπήκε στα βορειανατολικά της θέσης 'Αποθήκα' μετά τα Παράκοιλα, σε ένα παληό εργαστήρι επεξεργασίας στύψης και πολύ κοντά στο αρχαικό τείχος με την επωνυμία 'Ροδότοιχος'&lt;br /&gt;
+Το κρυσταλλικό άλας της στύψης, aluminum potassium sulfate, K2SO4 ⋅Al2(SO4)3⋅24H2O, αποτέλεσε από την αρχαιότητα βασική υλη σε πολλές βιοτεχνικές και βιομηχανικές εφαρμογές μέχρι και τα μέσα του περασμένου αιώνα , όποτε και παραγκωνίστηκε από τις σύγχρονες χημικές ουσίες.&lt;br /&gt;
+Χρησίμευε στην υφαντουργία για την στερέωση των χρωμάτων, στην βυρσοδεψία, στην ζαχαροποιία και την υαλουργία. Οι χρυσοχόοι την χρησιμοποιούσαν για τον διαχωρισμό του χρυσού από τον χαλκό, και οι αλιείς μπακαλιάρων για την ξήρανση των ψαριών στους τόπους αλιείας.&lt;br /&gt;
+Στην παρασκευή αντιδραστηρίων χρώσεως για το μικροσκόπιο, συγκολλητικών μιγμάτων, επιχάλκωση με ηλεκτρόλυση και στην ποτοποιεία για τον καθαρισμό και συντήρηση ποτών.&lt;br /&gt;
+Λόγω των αιμοστατικών και απολυμαντικών της ιδιοτήτων χρησιμοποιήθηκε για πλήθος ιατρικών εφαρμογών όπως απολύμανση τομών και τραυμάτων, λουτρά για ίαση λειχήνων, εκζεμάτων και αιμορραγίες εγκύων.&lt;br /&gt;
+Ευρύτατα χρησιμοποιήθηκε από τους χωρικούς για την απολύμανση δεξαμενών για το πότισμα των κοπαδιών, αφού παρά την διαύγεια του διαλύματος της στο νερό, το όξινο Ph της δεν επιτρέπει την διατήρηση ζωής και σκοτώνει - απολυμαίνει από μικρόβια και οργανισμούς όπως έντομα, βατράχια και βδέλλες που βλάπτουν τα πολύτιμα ζώα τους.&lt;br /&gt;
+Στα έγγραφα της εποχής των Γουατελουζων (ηγεμόνων του νησιού κατά την περίοδο 1355-1462μχ υπάρχουν πολλαπλές αναφορές για τα ορυχεία CONDICI των Παρακοιλων. Αναφορά γίνεται επίσης στα λιμάνια ‘Ποδαράς’ και ‘Αποθηκα’.&lt;br /&gt;
+Το πρώτο όμως είναι εξαιρετικά εκτεθειμένο σε νότιους ανέμους και παρά την μικρότερη απόσταση του από τα μεταλλεία παραγωγής είχε πολύ μικρότερη χρήση.&lt;br /&gt;
+Στα βορειοανατολικά του σημερινού οικισμού της ‘Αποθήκας’ και σε πολύ μικρή απόσταση , στην άκρη ενός σημαντικού αρχαίου οικισμού που βρίσκεται πολύ κοντά με την επωνυμία Ροδότοιχος, και μετά από ανασκαφές που έκανε η Κ’ Εφορία Προϊστορικών και Κλασικών Αρχαιοτήτων Μυτιλήνης, βρέθηκαν σημαντικές κατασκευές.&lt;br /&gt;
+Πρόκειται για μια κτιστή χωνοειδή κατασκευή , εμφυτευμένη μέσα στο έδαφος. Έχει σχήμα ανεστραμμένου κόλουρου κώνου, ύψους 2.14μ, διάμετρο μεγάλης βάσης 6.20μ, διάμετρο μικρής βάσης 2.30μ και όγκου περί τα 32,5 μέτρα. Είναι κτισμένη με μικρές πέτρες τραχείτη, κομμάτια κεραμικών και συνδετικό κονίαμα.&lt;br /&gt;
+Στον πυθμένα αυτής της πρωτότυπης κατασκευής, που από τα μέχρι στιγμής αρχαιολογικά δεδομένα την χρονολογούν στην Ρωμαϊκή περίοδο (150πχ. – 400 μχ.), βρέθηκε ποσότητα από το στυπτηριουχο υλικό αλουνιτης. Στον ίδιο χώρο βρέθηκαν άλλες τρεις ίδιες κατασκευές οι οποίες δεν έχουν ανασκαφεί πλήρως.&lt;br /&gt;
+Οι τέσσερεις δεξαμενές, τοποθετημένες ανά ζεύγη πολύ κοντά, φαίνεται πως βρίσκονταν σε κλειστό και πιθανότατα στεγασμένο κτίριο, από το οποίο ξεκινά αγωγός κατευθυνόμενος προς την θάλασσα. Πλάι τους βρέθηκαν και ανασκάφηκαν δύο καμίνια.&lt;br /&gt;
+Με βάση τα υπάρχοντα στοιχεία για τον τρόπο παρασκευής της στύψης ( Alum ) από τον αλουνίτη μέσω καθαρισμού, το βασικό μετάλλευμα μεταφερόταν με ζώα από τα κοντινά ορυχεία και έμενε μέσα στις χοάνες μέχρι την πλήρη διάλυση της στύψης στο νερό , που έπαιρναν από τον διπλανό χείμαρρο. Στο κάτω μέρος έμεναν τα στερεά κατάλοιπα όπως πέτρες και καολίνης,.&lt;br /&gt;
+Το διάλυμα μετά από κάποιο διάστημα ζεσταινόταν στα καμίνια στους 90 κελσίου και έτσι είχαν πολύ καθαρή στύψη σε μορφή βραχώδους ( Di Rocca ) στύψης. Η μεταφορά του υλικού γινόταν από βάρκες αφού το μικρό βάθος του αρχαίου λιμανιού δεν επέτρεπε το πλησίασμα των εμπορικών πλοίων της εποχής, των οποίων το συνολικό βάρος εμπορευμάτων δεν υπερέβαινε τους 800 τόνους.&lt;br /&gt;
+Στην Αγγλόγλωσση έκδοση της Wikipedia και στο λύμα 'Alum' αναφέρει :&lt;br /&gt;
+“Η στύψη των αρχαίων, δεν ήταν πάντα η ίδια με αυτή που γνωρίζουμε σήμερα. Είναι βέβαιο ότι γνώριζαν πώς να παράγουν στύψη από το πέτρωμα αλουνίτη, καθώς αυτή η διαδικασία έχει τεκμηριωθεί από τα αρχαιολογικά ευρήματα στην Λέσβο”&lt;br /&gt;
+&lt;b&gt;English&lt;/b&gt;
+Alum, also called potash alum. A crystalline solid, aluminum potassium sulfate, K2SO4 ⋅Al2(SO4)3⋅24H2O, used in medicine as an astringent and styptic, in dyeing and tanning, and in many technical processes. Also used to separate gold from copper and the soldering of various metals... The cache is placed at the northeast of the modern village of Apotheka (Warehouse) and a short distance from the edge of an important ancient settlement named Rodotoichos.&lt;br /&gt;
+Significant structures were found here after excavations made by the Department of Prehistoric and Classical Antiquities of Mytilene,. This is a funnel like construction, implanted in the ground. It has an inverted truncated cone shape, the cone is 6.2 meters in diameter, 2.1 meters in height and its capacity is 32.5 cubic meters.&lt;br /&gt;
+It is built with trachyte stones, pieces of pottery and mortar. At the bottom of this original construction, dating to the Roman period (150pch. - 400 AD.), was found quantity of styptic alunite.&lt;br /&gt;
+There are three more constructions in the area that have not been fully excavated. These four constructions, positioned very close in pairs, must have been in a closed and possibly roofed building, from which a pipeline went towards the sea.&lt;br /&gt;
+Beside them were found and excavated two kilns. Based on existing data on manufacturing method of Stypsi (Alum) from alunite by cleaning, the main ore was transported on donkeys from the nearby mines and remained in the funnels until complete dissolution of Stypsi in water, taken from the adjacent stream. At the bottom remained solid residues such as stones and kaolin.&lt;br /&gt;
+The solution after some time was heated in the kilns at 90 Celsius and thus had a very clean form of rock alum (Di Rocca) Stypsi. It was then carried by small boats to the off shore waiting bigger ones which could carry up to about 800 tons.&lt;br /&gt;
+Wikipedia article about 'Alum' says that :&lt;br /&gt;
+&quot; The alumen of the ancients, was not always the same as the alum of the moderns. They certainly knew how to produce alum from alunite as this process is archaeologically attested on the island Lesvos &quot;</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Easy loading dock.jpg</ox:name>
+                    <ox:size>112351</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>One of the cones.jpg</ox:name>
+                    <ox:size>161753</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Heating Furnage.jpg</ox:name>
+                    <ox:size>176292</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.388267" lat="39.119217">
+        <time>2012-06-19T07:00:00.000Z</time>
+        <name>OX3NWJ4</name>
+        <desc>Karini of Agiasos by MIMHS.GR, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3NWJ4</url>
+        <urlname>Karini of Agiasos</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3422683">
+            <groundspeak:name>Karini of Agiasos</groundspeak:name>
+            <groundspeak:placed_by>MIMHS.GR</groundspeak:placed_by>
+            <groundspeak:owner id="71643">MIMHS.GR</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;b&gt;Καρίνη&lt;br /&gt;
+Karini&lt;/b&gt;&lt;br /&gt;
+
+&lt;br /&gt;
+
+ &lt;br /&gt;&lt;br /&gt; &lt;b&gt;Ελληνικά&lt;/b&gt;
+&lt;br /&gt;
+Στο δρόμο προς την Aγιάσο, θα συναντήσετε την πανέμορφη τοποθεσία Καρίνη. Καθίστε σ’ ένα από τα ωραία καφενεδάκια της, για αναψυκτικό ή φαγητό, κάτω από τη σκιά αιωνόβιων δέντρων.&lt;br /&gt;
+Σε κάποιο απ’ αυτά σώζονται τοιχογραφίες του λαϊκού ζωγράφου Θεόφιλου. Στην κουφάλα του αιωνόβιου πλάτανου κοιμήθηκε ο περιπλανώμενος καλλιτέχνης. Ο Θεόφιλος δεν έζησε για να δει την έκθεση των έργων του στο Λούβρο ένα χρόνο μόλις μετά τον θάνατο του.&lt;br /&gt;
+Στην φωτογραφία του χειρόγραφου κειμένου που αποτελεί και μια ιστορική μαρτυρία αναφέρει :&lt;br /&gt;
+&lt;b&gt;&quot;Ο Θεόφιλος ήρθε εδώ το 1918. Συντροφιά του είχε ένα σκύλο και μια γάτα. Μαζί του είχε και τα πινέλα του που τα είχε σε ένα σακίδιο. Γεννήθηκε το 1870 και πέθανε το 1934 σε ηλικία 64 χρόνων. Όταν ήρθε εδώ τον είδε ο ιδιοκτήτης Καμπούρης Αντώνιος και τον καλωσόρισε. Και τον ρώτησε &quot;Από ποιο μέρος είσαι εσύ βρέ μάστορα ?&quot;.&lt;br /&gt;
+Και τον ρώτησε ο Θεόφιλος αν μπορούσε να τον φιλοξενήσει για μια βραδιά κοντά του και του απάντησε να μείνει αλλά λόγω που ήτανε μικρό του σπίτι, τον κοίμισε για λίγο στη σπηλιά. Όπως και έμεινε.&lt;br /&gt;
+Το επόμενο πρωί ο Θεόφιλος μάζεψε κάποια βότανα και λουλούδια με σκοπό να του φτιάξει μερικούς πίνακες-τοιχογραφίες όπως είναι αυτές πάνω στον εξωτερικό τοίχο στο παλιό καφενεδάκι που υπάρχει στο κάτω μέρος της περιοχής.&quot;&lt;/b&gt;&lt;br /&gt;
+Στην πραγματικά τεράστια κουφάλα του πλάτανου όπου και η κρύπτη, έχουν κοιμηθεί αμέτρητοι κουρασμένοι πεζοπόροι και για κάποια χρόνια ήταν από αποθήκη των τραπεζοκαθισμάτων μέχρι γκαράζ για μια παλιά τρίκυκλη μοτοσυκλέτα !&lt;br /&gt;
+Θα σας βοηθήσει πολύ ένας φακός στην αναζήτηση του μικρού 'κουτιού' , γιατί ο χώρος είναι αρκετά σκοτεινός.&lt;br /&gt;
+Στην είσοδο δεξιά και αριστερά θα βρείτε εκθέσεις με διάφορα βότανα, τυρι, ελιες και πήλινα παραδοσιακά αντικείμενα από την Αγιάσο και τα βουνά της. Αν θέλετε να προμηθευτείτε βότανα συμβουλεύω την επιλογή όσων δεν είναι εκτεθειμένα στον ήλιο. Ζητήστε να σας δώσουν από τα φρέσκα !&lt;br /&gt;
+Η πηγή που θα δείτε στα δεξιά σας μόλις μπαίνετε είναι η Καρίνη με άφθονα νερά από τα γύρω δάση, μέρος της τροφοδοσίας για το Ρωμαϊκό υδραγωγείο της Μυτιλήνης.&lt;br /&gt;
+Φροντίστε στον σχεδιασμό σας για geocaching να υπολογίσετε μια στάση για καφέ ή αναψυκτικό στην δροσιά της Καρίνης, πριν συνεχίσετε το ταξίδι σας στα υπόλοιπα σημεία με κρύπτες. Απολαύστε την εμπειρία να επισκεφτείτε μέρη που διαλέχτηκαν για κρύπτες από το πανέμορφο νησί μας!&lt;br /&gt;
+* Η απόδοση του γραπτού κειμένου της σχετικής φωτογραφίας, έγινε με απλή καθαρογραφή και διατηρήθηκε ο τρόπος και η γλώσσα του πρωτότυπου!&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;English&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+On the way to Agiasos you'll come to a beautiful spot called Karini. It’s a lovely place to stop for a drink or meal in one of the cafés shaded by perennial trees. One of these cafés has a mural painted by the folk artist Theophilos.&lt;br /&gt;
+The itinerant folk painter frequently relaxed and sometimes spent the night in the hollow of a huge plane tree by the cafe. You can visit it but it would help, if you had a torch to search for the small cavity with the cach box.&lt;br /&gt;
+Theophilos’ paintings were exhibited at the Louvre Museum a year after his death in 1935.&lt;br /&gt;
+In the hand written text, which is an historical proof, you can read :&lt;br /&gt;
+&lt;b&gt;&quot;Theophilos came here in 1918 accompanied by a dog and a cat and carrying his brushes in a small backpack. He was born in 1870 and died in 1934 age 64. When he arrived here the owner of the café Kampouris Antonios welcomed him and asked him where he was from.&lt;br /&gt;
+Theophilos asked him if he could spend the night there and the owner told him that his house was too small but he could spend the night in the hollow of the huge plane tree.&lt;br /&gt;
+Theophilos did so and next morning he collected flowers and herbs, which he used to make his paints, and decorated the walls of the café with murals. Unfortunately only a faint one is saved on the outer side of one of the walls.&quot;&lt;/b&gt;&lt;br /&gt;
+A lot of tired passersby have slept in the huge hollow of the plain tree, which at some time was used as a storage room and garage for a tricycle.&lt;br /&gt;
+There are quite a few stalls here, where you can buy herbs and all kinds of local products, like cheese and olives or the famous Agiasos ceramics. But a piece of advice: don’t get anything that has been standing in the sun, ask for fresh ones!&lt;br /&gt;
+The spring called Karini too and never stops running, the water is fresh and quite cold and used to supply with water the Roman aqueduct of Mytilene.&lt;br /&gt;
+Make your plans of geocaching include and count a stop for coffee at this place, before resuming your explorations for our beautiful island and your next caches on your way !&lt;br /&gt;
+* The translation of the photographed script follows as much as possible the original, just to pass the message and it is not exact !&lt;br /&gt;
+Enjoy !</groundspeak:long_description>
+            <groundspeak:encoded_hints>ENG On your left, in a small hole of the tree bark.- GR ΣTA APIΣTEPA ΣE MIA TPYΠA TOY KOPMOY</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>28356145.jpg</ox:name>
+                    <ox:size>42520</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Theophilos Tree 03.jpg</ox:name>
+                    <ox:size>123211</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>images1.jpg</ox:name>
+                    <ox:size>17710</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.5143833" lat="39.1262667">
+        <time>2012-03-02T12:46:24.000Z</time>
+        <name>OX3DJ18</name>
+        <desc>Roman Aqueduct by Stratis, Traditional Cache(2.9/1.0/2.9)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3DJ18</url>
+        <urlname>Roman Aqueduct</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3175183">
+            <groundspeak:name>Roman Aqueduct</groundspeak:name>
+            <groundspeak:placed_by>Stratis</groundspeak:placed_by>
+            <groundspeak:owner id="81542">Stratis</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">It's a nice place to visit if you like ancient buildings,&lt;br/&gt;you can drive all the way or take a walk from the village. I f you feel energetic go all the way up to Profitis Ilias Stunning view to the Gulf of Gera&lt;br/&gt;&lt;br/&gt;Small plastic container with log book pencil and small items</groundspeak:long_description>
+            <groundspeak:encoded_hints>The olive tree will reveal the truth</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1786160">
+                    <groundspeak:date>2012-04-23T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="71643">MIMHS.GR</groundspeak:finder>
+                    <groundspeak:text encoded="False">A must visit cache. Clever hide and interesting historical place. Romans where builders !!</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>2.9</ox:difficulty>
+                <ox:size>3.4</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Moria Aqueduct (6).jpg</ox:name>
+                    <ox:size>134737</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.138883" lat="39.16665">
+        <time>2012-05-18T07:00:00.000Z</time>
+        <name>OX3KMBK</name>
+        <desc>Another Ancient cow by MIMHS.GR, Unknown Cache(2.5/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3KMBK</url>
+        <urlname>Another Ancient cow</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3356172">
+            <groundspeak:name>Another Ancient cow</groundspeak:name>
+            <groundspeak:placed_by>MIMHS.GR</groundspeak:placed_by>
+            <groundspeak:owner id="71643">MIMHS.GR</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;b&gt;Ενας εύκολος γριφος για να βοηθηθουν οι νεοι geocachers στο ειδος των 'Κρυπτων Γριφου' !&lt;br /&gt;
+Easy Puzzle to help new geocachers play with 'unknown cache' riddles !&lt;/b&gt;
+
+
+ &lt;br /&gt;&lt;br /&gt; 
+
+
+&lt;br /&gt;
+&lt;b&gt;Ελληνικά&lt;/b&gt;
+&lt;br /&gt;
+&lt;b&gt;Ο γρίφος&lt;/b&gt;&lt;br /&gt;
+Αυτή η κρύπτη είναι με γρίφο, κατά συνέπεια οι συντεταγμένες που αρχικά δίνονται θα σας οδηγήσουν κοντά αλλά όχι στο ακριβές σημείο. Θα πρέπει να ψάξετε για ένα όνομα δύο γραμμάτων, μιάς Αρχαίας Ελληνίδας που κατά την μυθολογία ήταν μία απο τις πολλές ερωτικές σχέσεις του Δία. Ακόμη και όταν βρείτε το όνομά της δεν θα έχετε την απάντηση. Ψάξτε για τον κωδικό αριθμό του δορυφόρου-αστεροειδούς που φέρει το όνομά της, και αντικαταστήστε με αυτόν τα τελευταία δύο ψηφία της αρχικής Βόρειας συντεταγμένης. Μετά αντιστρέψτε τον κωδικό που βρήκατε και αντικαταστήστε τα δύο τελευταία ψηφία της Ανατολικής συντεταγμένης.&lt;br /&gt;
+&lt;b&gt;Ο μύθος&lt;/b&gt;&lt;br /&gt;
+Ήταν πριγκήπισα του Άργους. Ο θεός Δίας την αποπλάνησε. Προσπάθησε όμως να κρύψει την σχέση αυτή, από την γυναίκα του θεά Ήρα, σκεπάζοντας τον κόσμο με ένα παχύ στρώμα από σύννεφα. Αυτό όμως έβαλε υποψίες στην Ήρα, που κατέβηκε από τον Όλυμπο και άρχισε να διαλύει τα σύννεφα. Ο Δίας σκέφτηκε γρήγορα καί σαν λύση στο πρόβλημα, μεταμόρφωσε την πανέμορφη κοπέλα σε αγελάδα. Όταν η Ήρα διέλυσε τα σύνεφα είδε τον Δία κοντά στην αγελάδα, τον ρώτησε τι γυρεύει η αγελάδα εκεί, αλλά αυτός ορκιζόταν ότι δεν την είχε ξαναδεί ποτέ πριν, καί απλά είχε ξεφυτρώσει από το πουθενά.&lt;br /&gt;
+Όμως η Ήρα είχε καταλάβει τι γίνεται και ζήτησε την αγελάδα σαν δώρο ! Καθώς η άρνηση να ικανοποιήσει την επιθυμία της γυναίκας του θα ξεσκέπαζε την απιστία του, ο Δίας αναγκάστηκε να το κάνει. Η Ήρα έκρυψε την αγελάδα σε άλλο μέρος και άφησε τον Άργο σαν φύλακα. Ένα τέρας με εκατό μάτια που κοιμόταν κλείνοντας τα μισά μάτια του κάθε φορά, ενώ με τα άλλα μισά φύλαγε την αγελάδα.&lt;br /&gt;
+Ο Δίας έστειλε τον πονηρό θεό Ερμή να βρεί και να ελευθερώσει την αγελάδα. Ο Ερμής μεταμφιεσμένος σε βοσκό έβαλε όλη του την τεχνική, παίζοντας μουσική και λέγοντας παραμύθια έκανε τον Άργο να κοιμηθεί και τον σκότωσε. Η Ήρα για να τιμήσει τον Άργο, κράτησε τα μάτια του και στόλισε με αυτά την ουρά του παγωνιού, που ήταν το αγαπημένο της πουλί. Έστειλε όμως μια μεγάλη μυίγα των βοδιών να τσιμπάει συνεχώς την ελεύθερη πλέον αλλά ήδη εγκυμονούσα αγελάδα συνεχώς. Αυτό σχεδόν τρέλανε το άμοιρο ζώο που άρχισε να τρέχει σε όλο τον κόσμο για να γλυτώσει από τα φοβερά τσιμπήματα.&lt;br /&gt;
+Κατά την περιπλάνηση της, πολλές περιοχές πήραν σχετικά ονόματα όπως το Ιόνιο πέλαγος ή ο Βόσπορος που από τα αρχαία Ελληνικά το 'Βοός-Πόρος' μεταφράζεται σε 'πέρασμα του Βοδιού'. Συνάντησε επίσης τον αλυσοδεμένο Προμηθέα που της έδωσε κουράγιο και προέβλεψε όχι μόνο την λύτρωσή της, αλλά και ότι ένας από τους απογόνους της θα ήταν μεγάλος ήρωας και θα τον έσωζε απο το βασανιστήριο του. Πράγμα που έγινε. Ο Δίας της έδωσε πάλι την ανθρώπινη μορφή της και εκείνη γέννησε τον Έπαφο. Έντεκα γενιές αργότερα ο απογονός της, ημίθεος Ηρακλής, ελευθέρωσε τον Προμηθέα από τα δεσμά του.&lt;br /&gt;
+&lt;br /&gt;
+Χρησιμοποιήστε πριν πάτε, το certitude για να σιγουρευτείτε ότι έχετε βρεί τις σωστές συντεταγμένες !&lt;br /&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.certitudes.org/certitude?wp=GC3KMBK&quot;&gt;&lt;/a&gt;&lt;br /&gt;
+Ελέγξτε εδώ την λύση σας&lt;a href=&quot;http://www.certitudes.org/certitude?wp=GC3KMBK&quot;&gt;certitude&lt;/a&gt;.
+&lt;b&gt;English&lt;/b&gt;
+&lt;br /&gt;
+&lt;b&gt;The puzzle&lt;/b&gt;&lt;br /&gt;
+This cache is a puzzle one so the coordinates will take you near but not on the right spot. You have to search for the correct two letter name, of an ancient Greek woman who had a love affair with Zeus . When found you are still not finished. Search for the code number of the Moon/Asteroid that is named after her and put it as the last 2 digits of the North coordinates, then reverse this two digits and use them as the last two digits of the east coord's.&lt;br /&gt;
+&lt;b&gt;The Myth&lt;/b&gt;&lt;br /&gt;
+Princess of Argos. Zeus fell in love and seduced her. To try to keep Hera from noticing he covered the world with a thick blanket of clouds. This backfired, arousing Hera's suspicions. She came down from Mount Olympus and began dispersing the clouds.&lt;br /&gt;
+After some quick thinking Zeus transformed the pretty maiden to a heifer. When the clouds dispersed Hera found Zeus standing next to a white heifer. He then swore that he had never seen the cow before, it had just sprang right out of the earth. Seeing right through this Hera complemented the cow and asked to have it as a present. As turning such a reasonable request down would have given the whole thing away, Zeus presented her with the cow. She sent the cow away and arranged Argus Panoptes to watch over it.&lt;br /&gt;
+Since Argus had a hundred eyes and could have some of them sleep while others were awake he made a fine watchman. Desperate, Zeus sent Hermes to fetch the cow and set her free. Disguised as a shepard, Hermes had to employ all his skill as a musician and story teller to gain Argus confidence and lull him to sleep.&lt;br /&gt;
+Once asleep Hermes killed Argus. As a memorial, Hera took his eyes and set them into the tail of her favorite bird, the peacock. While the cow was now free Hera sent the mother of all gadflies to sting the still bovine animal. The ghost of Argus pursued her as well. This pushed her near madness, trying to escape she wandered the world.&lt;br /&gt;
+During her wanders she came across Prometheus while chained. He gave her hope. He predicted that she would have to wander for many years. But, she would eventually be changed back into human form and would bear a child. He predicted that a descendent of this child would be a great hero and set him free. His predictions came true.&lt;br /&gt;
+During her wanderings many geographical features were named after her including the Ionian Sea, and the Bosporus (which means ford of the cow). She eventually reached the Nile where Zeus did restore her to human form.&lt;br /&gt;
+She bore Epaphus and eleven generations later her descendant Heracles would set Prometheus free.&lt;br /&gt;
+&lt;br /&gt;
+Use the Certitude checker as coordinates checker to be sure for your solution !&lt;br /&gt;
+&lt;a href=&quot;http://www.certitudes.org/certitude?wp=GC3KMBK&quot;&gt;&lt;/a&gt;&lt;br /&gt;
+You can validate your puzzle solution with &lt;a href=&quot;http://www.certitudes.org/certitude?wp=GC3KMBK&quot;&gt;certitude&lt;/a&gt;.
+
+
+
+
+
+&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;HIDDEN: FP3KMBK - Final position&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___</groundspeak:long_description>
+            <groundspeak:encoded_hints>Think like a squirrel ! Cover after with some leaves...</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>DSCN2476.jpg</ox:name>
+                    <ox:size>197678</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.173617" lat="39.251467">
+        <time>2012-06-08T07:00:00.000Z</time>
+        <name>OX3N4F0</name>
+        <desc>Klapados Battle - Η μάχη του Κλαπάδου by MIMHS.GR, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3N4F0</url>
+        <urlname>Klapados Battle - Η μάχη του Κλαπάδου</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3400483">
+            <groundspeak:name>Klapados Battle - Η μάχη του Κλαπάδου</groundspeak:name>
+            <groundspeak:placed_by>MIMHS.GR</groundspeak:placed_by>
+            <groundspeak:owner id="71643">MIMHS.GR</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Η μάχη του Κλαπάδου.&lt;br /&gt;
+The battle at Klapados – History&lt;br /&gt;
+
+
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
+
+
+
+&lt;b&gt;Ελληνικά&lt;/b&gt;
+&lt;br /&gt;
+&lt;b&gt;Ιστορική αναδρομή&lt;br /&gt;
+&lt;br /&gt;
+1912 8 Νοεμβρίου, Εορτή των Ταξιαρχών, ώρα 07:00&lt;/b&gt;&lt;br /&gt;
+Εμφανίζεται έξω από το λιμάνι της Μυτιλήνης μια Μοίρα του Ελληνικού στόλου με επικεφαλής το θωρηκτό &quot;Αβέρωφ&quot;, πέντε αντιτορπιλικά και ένα υπερωκεάνειο μεταγωγικό. Το &quot;Αβέρωφ&quot; προσεγγίζει αργά πολύ κοντά στο Καστρέλι.&lt;br /&gt;
+Συγκαλείται σύσκεψη των τοπικών αρχών στο γραφείο του Τούρκου νομάρχου Αρχιπελάγους Εκρέμ Μπέη όπου συμφωνείται η άμεση παράδοση για την αποφυγή αιματοχυσίας. Ο Τούρκος στρατηγός Γκανή όμως δηλώνει ότι δεν έχει καμιά τέτοια διαταγή και επομένως &lt;u&gt;πρέπει&lt;/u&gt; να αντισταθεί.&lt;br /&gt;
+Όλοι διαμαρτύρονται έντονα.&lt;br /&gt;
+Μια ατμάκατος από το &quot;Αβέρωφ&quot; μπαίνει στο λιμάνι με την Ελληνική σημαία στην πρύμνη και λευκή στην πλώρη. Ο αξιωματικός Β. Καραμούζης, βγαίνει στην προκυμαία για να ζητήσει την παράδοση της πόλης.&lt;br /&gt;
+Εντεταλμένος να ακούσει τις προτάσεις του ναυάρχου, παρουσιάζεται στον Καραμούζη, ο Εράμ Μπέης. Αυτός μεταφέρει στους συσκεπτόμενους την αξίωση να παραδοθεί η πόλη εντός δύο ωρών και συγκεκριμένα μέχρι της 11:00. Η πρόταση αυτή απορρίπτεται μόνο από τον στρ. Γκανή κάτι που προκαλεί τις διαμαρτυρίες των παρισταμένων.&lt;br /&gt;
+Ανεβαίνουν στην ναυαρχίδα ο Τούρκος Διοικητής Αιγαίου με τον Διοικητή Εράμ, ο Μητροπολίτης Κύριλλος και οι ξένοι Πρόξενοι. Ο ναύαρχος Κουντουριώτης απορρίπτει τις δύο πρώτες αντιπροτάσεις του Γκανή και ζητά την άμεση παράδοση των Τουρκικών δυνάμεων για να μη χυθεί αίμα. Δηλώνει δε ότι παρατείνει την προθεσμία παράδοσης της πόλης κατά μιάμιση ώρα έως τις 12:30,οπότε και θα αποβίβαζε άγημα για την κατάληψή της. Πεζοναύτες και στρατιώτες από τα πολεμικά πλοία αποβιβάζονται στην προκυμαία. Η κατάληψη της πόλης συντελείται αναίμακτα.&lt;br /&gt;
+Τα Ελληνικά στρατεύματα αρχίζουν τον στρατωνισμό στη Μυτιλήνη ενώ τα Τουρκικά εγκαταλείπουν την πόλη, με προορισμό τους το στρατόπεδο του Κλαπάδου.&lt;br /&gt;
+&lt;b&gt;9 Νοεμβρίου *&lt;/b&gt; Ο ελληνικός στόλος ειδοποιείται για επεισόδια στο βόρειο τμήμα του νησιού, και στα νερά της Πέτρας φθάνει το τορπιλοβόλο 14 και αγκυροβολεί εκεί.&lt;br /&gt;
+&lt;b&gt;28 Νοεμβρίου έως 1 Δεκεμβρίου *&lt;/b&gt; Φθάνουν στη Μυτιλήνη οι ενισχύσεις που αναμενόταν για την εκκαθάριση του νησιού από τα Τουρκικά στρατεύματα. Η συνολική δύναμη των Ελλήνων ανέρχεται τώρα σε 3.175 άνδρες.&lt;br /&gt;
+&lt;b&gt;2 Δεκεμβρίου *&lt;/b&gt; Ο Διοικητής του αποσπάσματος αντισυνταγματάρχης Απόστολος Συρμακέζης κατανέμει το απόσπασμα σε δύο φάλαγγες αρχίζοντας ουσιαστικά τις επιχειρήσεις.&lt;br /&gt;
+&lt;b&gt;3 Δεκεμβρίου *&lt;/b&gt; Οι δυο φάλαγγες αρχίζουν να κινούνται προς Καλλονή και Αγία Παρασκευή.&lt;br /&gt;
+&lt;b&gt;4 Δεκεμβρίου *&lt;/b&gt; Συναντούν τους Τούρκους στην Αρίσβη. Απωθώντας και πάλι τα εχθρικά τμήματα καταυλίζονται για το βράδυ στα χωριά Δάφια και Παλαιόκαστρο. Το ίδιο βράδυ ο διοικητής Συρμακέζης καλεί του διοικητές των και καθορίζει το τελικό σχέδιο επίθεσης κατά του Τουρκικού στρατοπέδου στον Κλαπάδο.&lt;br /&gt;
+&lt;b&gt;5 Δεκεμβρίου *&lt;/b&gt; Η Αριστερή φάλαγγα συναντά τις εχθρικές δυνάμεις Δυτικά της Μονής Λειμώνος και εμπλέκεται μαζί τους μέχρι το απόγευμα.&lt;br /&gt;
+&lt;b&gt;6 Δεκεμβρίου *&lt;/b&gt; Αρχίζει η κύρια Ελληνική επίθεση κατά του Κλαπάδου με τη συνέχεια της προώθησης της Αριστερής φάλαγγας προς το δύσβατο Σκοτεινοβούνι. Η Δεξιά φάλαγγα φθάνει στον λόφο Πετσοφά και το μεσημέρι ενεργεί ταυτόχρονα διπλή επίθεση στο χωριό Κλαπάδος και τους αναπτυγμένους Τούρκους στρατιώτες. Στις 14:00 καταλαμβάνεται ο λόφος Σκοτεινοβούνι.&lt;br /&gt;
+&lt;b&gt;7 Δεκεμβρίου *&lt;/b&gt; Η συνδυασμένη επίθεση και των δύο φαλάγγων προκαλεί σχεδόν αμέσως Τουρκικό αίτημα για συνάντηση των δύο διοικητών. Η συνάντηση γίνεται στις 11:00 χωρίς όμως ουσιαστικό περιεχόμενο. Η επίθεση αρχίζει ξανά στις 14:00 και συνεχίζεται όλο το απόγευμα. Στις 22:00 οι Τούρκοι στέλνουν με απεσταλμένο τους αίτηση παραδόσεως που γίνεται δεκτή.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;1912 8 Δεκεμβρίου, Ώρα 08:00&lt;/b&gt;&lt;b&gt;&lt;br /&gt;
+&lt;br /&gt;
+*&lt;/b&gt; Υπογράφεται στο ύψωμα Πετσοφάς το πρωτόκολλο της παράδοσης των Τουρκικών δυνάμεων. Το μεσημέρι της ίδιας μέρας αρχίζει στο χωριό Κλαπάδος, η παράδοση του Τουρκικού οπλισμού.&lt;br /&gt;
+&lt;br /&gt;
+Στο σημείο της κρύπτης υπάρχει το μνημείο αλλά και μια ατελείωτη θέα του πεδίου της μάχης.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;English&lt;/b&gt;
+&lt;br /&gt;
+&lt;b&gt;The battle at Klapados – History&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;1912 November 8, Day of the Archangels time 07:00&lt;/b&gt;&lt;br /&gt;
+a squadron of the Greek fleet led by the battleship &quot;Averof&quot;, appears outside the port of Mytilene it is escorted by five destroyers and a personnel carrier. &quot;Averof&quot; slowly approaches Kastrely.&lt;br /&gt;
+The local authorities call a meeting and decide to surrender to avoid the bloodshed. However the Turkish General Ganis declares that since he hasn’t got such an order &lt;u&gt;must&lt;/u&gt; resist the Greek forces. A boat launched from Averof enters the port with the Greek flag at the stern and a white one at the bow.Officer B. Karamouzis comes ashore to demand the surrender of the city.&lt;br /&gt;
+The representative of the authorities Eram Beis listens to the Greek officer’s demands, according to which, the city should be surrendered in two hours at 11.00 o’clock, and then presents them to his superiors. The General Ganis rejects the demands although everybody else wanted to surrender. The Turkish commander of the Aegean islands boards the battleship Averof followed by his general Eram, archbishop Kyrillos and several foreign diplomats.&lt;br /&gt;
+He offers two different options but the admiral turns them both down and demands that the city be surrendered by 12.30 otherwise the Greek forces would land and attack.&lt;br /&gt;
+This is exactly what happened and the town is liberated without any resistance and without casualties on both sides. The Turkish forces move out and retreat to their Klapados base.&lt;br /&gt;
+&lt;b&gt;09 November *&lt;/b&gt; The Greek fleet is notified for incidents in Molybos and p-boat 14 arrives outside Petra.&lt;br /&gt;
+&lt;b&gt;28 November to 01 December *&lt;/b&gt; Reinforces arrive and now the Greek forces number 3175 men.&lt;br /&gt;
+&lt;b&gt;02 December *&lt;/b&gt; Colonel Apostolos Sirmekezis commander of the forces splits the army into two units and they move towards the Turkish forces.&lt;br /&gt;
+&lt;b&gt;03 December *&lt;/b&gt; The two units move towards Kalloni and Ag. Paraskevi regions.&lt;br /&gt;
+&lt;b&gt;04 December *&lt;/b&gt; The Turkish forces retreat and the same night the colonel and his staff plan the final attack at Klapados.&lt;br /&gt;
+&lt;b&gt;05 December *&lt;/b&gt; The unit on the left engage the enemy west of the Limonos monastery and the battle continuous till night fall.&lt;br /&gt;
+&lt;b&gt;06 December *&lt;/b&gt; The attack against Klapados starts and the unit on the left moves towards Skotinovouni (dark mountain) while the unit on the right arrives at Petsofas mountain. At noon a two prone attack is launched on Klapados. At 14.00 hours Skotinovouni is captured.&lt;br /&gt;
+&lt;b&gt;07 December *&lt;/b&gt; The combined attack of the two units causes almost immediately a Turkish request for the meeting of the two commanders. The meeting takes place at 11:00 but nothing is agreed. The attack begins again at 14:00 and continues throughout the afternoon. At 22:00 the Turkish forces surrender without any terms.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;1912 December 8 time 07:00&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+The Commanders of the two armies sign the protocol of the surrendering of the Turkish army and at noon the same day at the Klapados village, the Turkish soldiers surrender their arms.&lt;br /&gt;
+&lt;br /&gt;
+There is a monument at the place where the crypt is, as well as an endless view of the battlefield.
+
+
+
+
+&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;JN3N4F0 - Junction point&lt;br /&gt;N 39° 15.076 E 026° 10.273&lt;br /&gt;At this point go East to the hill top. Road is ok.</groundspeak:long_description>
+            <groundspeak:encoded_hints>στις πέτρες τoυ τoιχoυ. In the stones of the wall. G loves C with arrow pointing the cache.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.191467" lat="39.2745">
+        <time>2012-02-17T08:00:00.000Z</time>
+        <name>OX3CRRB</name>
+        <desc>The Waterfall by Stratis, Traditional Cache(3.0/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3CRRB</url>
+        <urlname>The Waterfall</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3151874">
+            <groundspeak:name>The Waterfall</groundspeak:name>
+            <groundspeak:placed_by>Stratis</groundspeak:placed_by>
+            <groundspeak:owner id="81542">Stratis</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Klapados Waterfall,easy walk,Beautiful place,Elevation 338m&lt;br/&gt;&lt;br/&gt;One of the best waterfalls on the island.(In the summer months it might not be as spectacular as in the winter months still a beautiful place) On the way to Petra from Kalloni or vice versa at the position N39 15.904 E26 12.638 take the unpaved road on the left drive or walk to N39 16.454 E26 11.707 From here you must walk down to the waterfall N39 16.470 E26 11.488 Good Luck!And enjoy the place. Oh the way back go to N39 18.091 E26 10.733 Lafionas Village lovely ride,nice view,bad road.&lt;br/&gt;&lt;br/&gt;The cache is a small plastic Tupperware which contain :&lt;br/&gt;• A Logbook&lt;br/&gt;• A StashNote in English&lt;br/&gt;1. couple of pens&lt;br/&gt;2. a few small items </groundspeak:long_description>
+            <groundspeak:encoded_hints>By the Waterfall</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
                 <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>3.0</ox:difficulty>
-                <ox:size>4.0</ox:size>
-                <ox:terrain>3.8</ox:terrain>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Available at all times</ox:tag>
-                <ox:tag>Short hike (less than 1km)</ox:tag>
-                <ox:tag>Not Wheelchair accessible</ox:tag>
-                <ox:tag>Takes less than an hour</ox:tag>
-                <ox:tag>Parking available</ox:tag>
-                <ox:tag>Off-road vehicles</ox:tag>
-                <ox:tag>Not Drinking water nearby</ox:tag>
-                <ox:tag>Not Campfires</ox:tag>
-                <ox:tag>Not Stealth required</ox:tag>
-                <ox:tag>Scenic view</ox:tag>
-            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Klapados Waterfalls (30).jpg</ox:name>
+                    <ox:size>264136</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Klapados Waterfalls (9).jpg</ox:name>
+                    <ox:size>189818</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Klapados Waterfalls (5).jpg</ox:name>
+                    <ox:size>201863</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Klapados Waterfalls (6).jpg</ox:name>
+                    <ox:size>273305</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.35905" lat="39.2765333">
+        <time>2012-03-02T13:12:22.000Z</time>
+        <name>OX3DJ1K</name>
+        <desc>Mancatcha Waterfall by Stratis, Traditional Cache(3.5/2.5/3.2)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3DJ1K</url>
+        <urlname>Mancatcha Waterfall</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3175194">
+            <groundspeak:name>Mancatcha Waterfall</groundspeak:name>
+            <groundspeak:placed_by>Stratis</groundspeak:placed_by>
+            <groundspeak:owner id="81542">Stratis</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is another beautiful waterfall you can park off the main road N39 16.462 E26 22.276 and then walk 1.6 klm. or drive to N39 16.460 E26 21.636 and then walk down to the waterfall. If you visit the place in the summer months there might not be much water but still a beautiful place to visit&lt;br/&gt;&lt;br/&gt;Small plastic container with log book pencil some small items for you </groundspeak:long_description>
+            <groundspeak:encoded_hints>search high and you'll be rewarded</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1786161">
+                    <groundspeak:date>2012-04-23T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="71643">MIMHS.GR</groundspeak:finder>
+                    <groundspeak:text encoded="False">A MUST VISIT cache ! A place that is like a Gods trailer of Paradise view !!
+If you only have time to do one cache on the island, don't hesitate, don't think about . Do this one !! </groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.2</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>2.9</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Mancatcha Waterfall (3).jpg</ox:name>
+                    <ox:size>280347</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.3143167" lat="39.3733833">
+        <time>2012-03-30T04:33:10.000Z</time>
+        <name>OX3E45D</name>
+        <desc>Kaya by Stratis, Traditional Cache(2.5/1.9/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3E45D</url>
+        <urlname>Kaya</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3191649">
+            <groundspeak:name>Kaya</groundspeak:name>
+            <groundspeak:placed_by>Stratis</groundspeak:placed_by>
+            <groundspeak:owner id="81542">Stratis</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Kaya is a very nice and quiet beach with a couple of nice taverns&lt;br/&gt;&lt;br/&gt;Small Tapper ware&lt;br/&gt;log book&lt;br/&gt;pencil&lt;br/&gt;small items (toys) </groundspeak:long_description>
+            <groundspeak:encoded_hints>The wall is very old</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1786162">
+                    <groundspeak:date>2012-04-23T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="71643">MIMHS.GR</groundspeak:finder>
+                    <groundspeak:text encoded="False">Beutifull place and relatively easy cache . At least at winter time ! </groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.9</ox:size>
+                <ox:terrain>1.9</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Kaya (2).jpg</ox:name>
+                    <ox:size>285941</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Kaya (1).jpg</ox:name>
+                    <ox:size>245353</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Kaya.jpg</ox:name>
+                    <ox:size>212773</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
         </ox:opencaching>
     </wpt>
     <wpt lon="26.1" lat="44.4333">
-        <time>2011-02-02T12:01:39.000-06:00</time>
+        <time>2011-02-02T18:01:39.000Z</time>
         <name>OXZTX9Z</name>
         <desc>Dacia by yocumine, Traditional Cache(1.0/1.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTX9Z</url>
@@ -554,8 +1635,14 @@ at the intersection of lines AB &amp; CD.&lt;/strong&gt;
             <groundspeak:terrain>1</groundspeak:terrain>
             <groundspeak:long_description html="True">x</groundspeak:long_description>
             <groundspeak:logs>
+                <groundspeak:log id="1766789">
+                    <groundspeak:date>2012-03-04T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="97502">GIGY1958</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
                 <groundspeak:log id="1277055">
-                    <groundspeak:date>2011-06-05T16:38:10.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-06-05T21:38:10.000Z</groundspeak:date>
                     <groundspeak:type>Didn't find it</groundspeak:type>
                     <groundspeak:finder id="27237">nexus one</groundspeak:finder>
                     <groundspeak:text encoded="False">Logged via OpenCaching Android app.</groundspeak:text>
@@ -569,10 +1656,13 @@ at the intersection of lines AB &amp; CD.&lt;/strong&gt;
                 <ox:size>1.0</ox:size>
                 <ox:terrain>1.0</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="26.1403617" lat="58.2813067">
-        <time>2002-06-18T00:00:00.000-05:00</time>
+        <time>2002-06-18T05:00:00.000Z</time>
         <name>OXZTWY1</name>
         <desc>Tamme aare by ENNVEE, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTWY1</url>
@@ -602,12 +1692,15 @@ It is recommended to have a look around too, once the cache has been recovered. 
                 <ox:size>4.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="26.36186" lat="58.3410267">
-        <time>2001-11-18T00:00:00.000-06:00</time>
+        <time>2001-11-18T06:00:00.000Z</time>
         <name>OXZTWY4</name>
-        <desc>Kave aare by ENNVEE, Traditional Cache(2.0/2.5/3.0)</desc>
+        <desc>Kave aare by ENNVEE, Traditional Cache(2.0/2.6/2.9)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTWY4</url>
         <urlname>Kave aare</urlname>
         <sym>Geocache</sym>
@@ -639,18 +1732,29 @@ N 58° 20'38.6'' E 26° 21'41.2''
 You can get more information about the sights from the texts in the
 stash.
 </groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1803136">
+                    <groundspeak:date>2011-07-28T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="1831">Kasutaja andres</groundspeak:finder>
+                    <groundspeak:text encoded="False">Et kavas oli pikem sõit seltskonnaga siis sai teekonna kaugemas otsas Tartu ja Viljandi vahel plaani võetud ka paar lihtsamat aaret, no et kodust eemale saamist kasulikult ära kasutada :). Alustuseks Kave. Otsetee näis vägagi kõrge raskusastmega, mistõttu pool seltskonda otsustas asja alt jälgida. Mina valisin kesktee ja jõudsin aarde juba eemalt aimatavast peidikust välja võtta enne kui kõige lihtsama marsruudi valinud Marina kohale jõudis. Selliseid konteinereid oli vanasti igal endast lugupidaval perel :) EVEJ</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:awesomeness>2.9</ox:awesomeness>
                 <ox:difficulty>2.0</ox:difficulty>
-                <ox:size>4.0</ox:size>
-                <ox:terrain>2.5</ox:terrain>
+                <ox:size>3.9</ox:size>
+                <ox:terrain>2.6</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="26.9850833" lat="58.37378">
-        <time>2001-03-04T00:00:00.000-06:00</time>
+        <time>2001-03-04T06:00:00.000Z</time>
         <name>OXZTWY5</name>
         <desc>Essenite aare by ENNVEE, Traditional Cache(1.6/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTWY5</url>
@@ -665,9 +1769,21 @@ stash.
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Essen's stash is located not far from Tartu, near a not-well-known historical monument. 
-
-Vihjed: lähedal on üks vähetuntud ajaloomälestis, mida aardeotsijad vaevalt et teavad. Selgitav tekst selle objekti kohta on ka aardepurgis olemas.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Essen's stash is located not far from Tartu, near a not-well-known historical monument. &lt;br/&gt;&lt;br/&gt;Vihjed: lähedal on üks vähetuntud ajaloomälestis, mida aardeotsijad vaevalt et teavad. Selgitav tekst selle objekti kohta on ka aardepurgis olemas.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1784973">
+                    <groundspeak:date>2012-04-21T12:40:26.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="72927">JANEK.UIN</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1784971">
+                    <groundspeak:date>2012-02-18T10:24:00.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="72927">JANEK.UIN</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -676,12 +1792,23 @@ Vihjed: lähedal on üks vähetuntud ajaloomälestis, mida aardeotsijad vaevalt 
                 <ox:size>4.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Essenite.jpg</ox:name>
+                    <ox:size>20955</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
         </ox:opencaching>
     </wpt>
     <wpt lon="26.7310283" lat="58.3780283">
-        <time>2011-02-10T02:30:38.000-06:00</time>
+        <time>2011-02-10T08:30:38.000Z</time>
         <name>OX2NK22</name>
-        <desc>Siristaja / Chirp by ENNVEE, Unknown Cache(1.5/1.0/3.0)</desc>
+        <desc>Siristaja / Chirp by ENNVEE, Unknown Cache(1.6/1.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2NK22</url>
         <urlname>Siristaja / Chirp</urlname>
         <sym>Geocache</sym>
@@ -717,8 +1844,26 @@ veebruarinumbrist.&lt;/p&gt;
 &lt;p&gt;10 years earlyer was hidden the first cache in Estonia - HE-stash / HE-aare&lt;/p&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Sissekäigu keskmine post / The first column of the entrance</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="1856717">
+                    <groundspeak:date>2012-02-25T20:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="64022">LAURIK87</groundspeak:finder>
+                    <groundspeak:text encoded="False">Esimesel korral sai ikka otsitud väga valest kohast. Kodus sai aga mõistatus lahendatud ja aarde asukoht oli nüüd palju loogilisem. Logitud!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1860212">
+                    <groundspeak:date>2012-01-23T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="46223">pilditibi</groundspeak:finder>
+                    <groundspeak:text encoded="False">Eelmine kord sinna üldse ei vaadanud. Seekord oli liba-&quot;aare&quot; kadunud ja segajaid vähem. Kas Tartus on kogu aeg lumi maas ja jube külm? Sõrves muuseas sai ka eile maa natuke valgeks. Tänud tegelikult lihtsa mõistatuse eest!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1784972">
+                    <groundspeak:date>2012-01-17T10:47:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="72927">JANEK.UIN</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
                 <groundspeak:log id="1339185">
-                    <groundspeak:date>2011-03-17T17:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-03-17T22:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="1338">sookoll7</groundspeak:finder>
                     <groundspeak:text encoded="False">Kuna oman GPS-i, mis peaks toetama &quot;siristaja&quot; siristamist, siis sammusin kohale ja hakkasin ootama, millal see sirin ka &quot;kuulda&quot; on. Mida ei olnud see oli sirin. Jõlkusin siis igal pool ümbruskonnas ringi, arvates et äkki nüüd olen õiges kohas. Aga endiselt ei olnud siristamist. Otsustasin siis abi küsida kohalikust GARMINI poest. Tööl olev noormees oli väga abivalmis minu muret lahendama. Lükkas kohe juhtme järgi gepsule ja selgus, et tarkvara oli nii vana, et ei toetanud &quot;siristajat&quot;. Väikese uuenduse järel oligi siristaja toetus olemas ja ka eesti keele soft sees. Aitähh teenindajale. Peale seda tuli juhis edasiseks tegevuseks kiiresti. Ja poodud rebane oli ikka kohal. Aitähh peitjale!</groundspeak:text>
@@ -728,14 +1873,14 @@ veebruarinumbrist.&lt;/p&gt;
         <ox:opencaching>
             <ox:ratings>
                 <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>1.5</ox:difficulty>
+                <ox:difficulty>1.6</ox:difficulty>
                 <ox:size>1.6</ox:size>
                 <ox:terrain>1.0</ox:terrain>
             </ox:ratings>
         </ox:opencaching>
     </wpt>
     <wpt lon="26.6628667" lat="58.4301483">
-        <time>2003-05-10T00:00:00.000-05:00</time>
+        <time>2003-05-10T05:00:00.000Z</time>
         <name>OXZTWY9</name>
         <desc>Jänese aare by ENNVEE, Traditional Cache(2.0/2.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTWY9</url>
@@ -750,16 +1895,7 @@ veebruarinumbrist.&lt;/p&gt;
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">10.05.03 peitsid Kalle Lange ja Enn Veenpere
-
-Placed to celebrate the opening of the boating season and to mark the start of the second hundred of stashes in Estonia. 
-
-Hint: there is a place that looks liable to fall apart - it will not be necessary to climb there. 
-
-Peidetud paadisõidu-hooaja avamise puhul ja teise aaretesaja alustuseks.
-Enne aarde otsimist tasub tutvuda kohalike vaatamisväärsustega.
-Vihjeks: varisemisohtlikku kohta pole vaja ronida.
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">10.05.03 peitsid Kalle Lange ja Enn Veenpere&lt;br/&gt;&lt;br/&gt;Placed to celebrate the opening of the boating season and to mark the start of the second hundred of stashes in Estonia. &lt;br/&gt;&lt;br/&gt;Hint: there is a place that looks liable to fall apart - it will not be necessary to climb there. &lt;br/&gt;&lt;br/&gt;Peidetud paadisõidu-hooaja avamise puhul ja teise aaretesaja alustuseks.&lt;br/&gt;Enne aarde otsimist tasub tutvuda kohalike vaatamisväärsustega.&lt;br/&gt;Vihjeks: varisemisohtlikku kohta pole vaja ronida.&lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Kõige mugavam on läheneda paadiga.</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -769,10 +1905,13 @@ Vihjeks: varisemisohtlikku kohta pole vaja ronida.
                 <ox:size>4.0</ox:size>
                 <ox:terrain>2.6</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="26.2406933" lat="58.4313617">
-        <time>2001-09-23T00:00:00.000-05:00</time>
+        <time>2001-09-23T05:00:00.000Z</time>
         <name>OXZTWY2</name>
         <desc>Metsavahi by ENNVEE, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTWY2</url>
@@ -790,7 +1929,7 @@ Vihjeks: varisemisohtlikku kohta pole vaja ronida.
             <groundspeak:long_description html="True">&lt;p&gt;                
 &lt;/p&gt;&lt;p&gt;Peitsid 23.09.01 Kalle ja Hans Lange; Elen, Hannes ja Enn Veenpere.             
 &lt;/p&gt;&lt;p&gt;Viktoriiniküsimus - millise Eesti helilooja sünnikodu asub veidi eemal?               
-&lt;br/&gt;&lt;br/&gt;
+&lt;br /&gt;&lt;br /&gt;
 &lt;b&gt;Tähelepanu! Aare asub Alam-Pedja looduskaitsealal. Aarde ümbruses liikumispiirangud küll puuduvad, kuid pead arvestama, et piirangualad ei ole kaugel. Tutvu enne aardekülastust piirkonna kaardiga ja loe lisa seonduvalt URL-ilt.&lt;/b&gt; &lt;/p&gt;
 Tähelepanu! Aare asub Alam-Pedja looduskaitsealal. Aarde ümbruses
 liikumispiirangud küll puuduvad, kuid pead arvestama, et
@@ -811,10 +1950,52 @@ plastic bag.
                 <ox:size>4.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Metsavahi.jpg</ox:name>
+                    <ox:size>28847</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.1538333" lat="58.442665">
+        <time>2012-04-08T14:12:02.000Z</time>
+        <name>OXZTK2D</name>
+        <desc>BrokRogain VI by M2gi, Traditional Cache(2.0/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTK2D</url>
+        <urlname>BrokRogain VI</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28468739">
+            <groundspeak:name>BrokRogain VI</groundspeak:name>
+            <groundspeak:placed_by>M2gi</groundspeak:placed_by>
+            <groundspeak:owner id="106269">M2gi</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">BrokRogain on Afganistani missioonil hukkunud vanemveebel Ivar Brok’i (geopeituse.ee lehel hüüdnimi Ib777) mälestuseks korraldatud matkaüritus, mille raames rännatakse jalgsi läbi Eestimaa. Rogaini eesmärk on tuua loodusesse mõnus seltskond matkahuvilisi, et teha üheskoos Ivari lemmiktegevusi.&lt;br/&gt;&lt;br/&gt;BrokRogain viiakse läbi ühe aasta jooksul 10’ne etapina, alates 2008a detsembrist kuni 2010 a jaanuarini. Iga kuu (va mai) ühel nädalavahetusel korraldatakse 40 – 60 km pikkune etapp, mis on jagatud kahe päeva vahel. Iga järgmine etapp algab sealt, kust eelmine lõppes. Rännakmarsruut viib risti läbi Eesimaa – loodest kagusse, läbides kaheksat erinevat maakonda. Rännaku marsruut valitakse põhimõttel: &quot;Koht, kuhu jalg tavaliselt ei satu.&quot; Vähemalt üks etapp toimub ka mööda vett.&lt;br/&gt;&lt;br/&gt;BrokRogaini käigus otsitakse võimalikult palju marsruudile jäävaid geopeituse aardeid ning igal etapil peidetakse üks “BrokRogaini” nimeline geopeituse aare. Kõikidest peidetud aaretest kokku moodustatakse Mõistatusaare “Risti läbi Eestimaa”, mis peidetakse 2010 a esimeses pooles (leidmiseks on vajalikud BrokRogaini aaretes olevad tähed ja numbrid).</groundspeak:long_description>
+            <groundspeak:encoded_hints>London ei ole kaugel</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>5.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="26.5845283" lat="58.4583317">
-        <time>2001-07-24T00:00:00.000-05:00</time>
+        <time>2001-07-24T05:00:00.000Z</time>
         <name>OXZTWY7</name>
         <desc>Paadimehe aare by ENNVEE, Traditional Cache(1.6/4.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTWY7</url>
@@ -844,12 +2025,15 @@ Contained in a plastic jar wrapped inside a black plastic bag. </groundspeak:lon
                 <ox:size>4.0</ox:size>
                 <ox:terrain>4.0</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="26.48165" lat="58.7768167">
-        <time>2001-06-02T00:00:00.000-05:00</time>
+        <time>2001-06-02T05:00:00.000Z</time>
         <name>OXZTWY0</name>
-        <desc>Allika aare by ENNVEE, Traditional Cache(2.0/1.6/3.0)</desc>
+        <desc>Allika aare by ENNVEE, Traditional Cache(2.0/1.7/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTWY0</url>
         <urlname>Allika aare</urlname>
         <sym>Geocache</sym>
@@ -862,26 +2046,32 @@ Contained in a plastic jar wrapped inside a black plastic bag. </groundspeak:lon
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Hidden near an archeological monument. An introducing text about the object is in the stash. 
-
-The stash is packed into a sheet metal can. 
-
-Vihjed: lähedal on üks arheoloogiamälestis. Selgitav tekst selle objekti kohta on ka aardepurgis olemas. Lugege see läbi ja võib-olla tasub seal kirjutatut katsetada :-)
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Hidden near an archeological monument. An introducing text about the object is in the stash. &lt;br/&gt;&lt;br/&gt;The stash is packed into a sheet metal can. &lt;br/&gt;&lt;br/&gt;Vihjed: lähedal on üks arheoloogiamälestis. Selgitav tekst selle objekti kohta on ka aardepurgis olemas. Lugege see läbi ja võib-olla tasub seal kirjutatut katsetada :-)&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1803133">
+                    <groundspeak:date>2010-05-15T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="1831">Kasutaja andres</groundspeak:finder>
+                    <groundspeak:text encoded="False">Tänase Jõgevamaa ringi üheksas aare. Esialgu sai üritatud läheneda valelt poolt. No ei olnud teed,... Need mida navi teeks pidas ei vastanud auto laiusele või lubatud tõusunurgale. Igatahes lõpuks kuskilt põlluservalt mäkke sõites sattusin tagaküljelt mingi kaitseotstarbelise ehitise juurde.. okastraat, laigulised ja tumerohelised värvid... Aga edasi läks juba lihtsamalt. Tee viis ilusti aarde juurde parklasse. Sai leitud nii allikas kui aare, taas võsast. EVEJ.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
                 <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>2.0</ox:difficulty>
                 <ox:size>4.0</ox:size>
-                <ox:terrain>1.6</ox:terrain>
+                <ox:terrain>1.7</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="26.00964" lat="59.4452217">
-        <time>2002-12-30T00:00:00.000-06:00</time>
+        <time>2002-12-30T06:00:00.000Z</time>
         <name>OXZTWXY</name>
-        <desc>Aastavahetuse aare by ENNVEE, Traditional Cache(2.0/2.6/3.0)</desc>
+        <desc>Aastavahetuse aare by ENNVEE, Traditional Cache(2.1/2.6/3.1)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTWXY</url>
         <urlname>Aastavahetuse aare</urlname>
         <sym>Geocache</sym>
@@ -891,7 +2081,7 @@ Vihjed: lähedal on üks arheoloogiamälestis. Selgitav tekst selle objekti koht
             <groundspeak:placed_by>ENNVEE</groundspeak:placed_by>
             <groundspeak:owner id="3209">ENNVEE</groundspeak:owner>
             <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
             <groundspeak:long_description html="True">&lt;p&gt;Aarde peitsid 30.12.02 Illar Lasting ning Elen, Hannes ja Enn Veenpere.
@@ -906,18 +2096,29 @@ Aardesse sai üksjagu orienteerumiseks vajalikku kraami ja infot ümbritsevamaas
 
 HEAD AASTA LÕPPU JA VEEL PAREMAT JÄRGMIST (GEOPEITUSE) AASTAT!
 &lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1803132">
+                    <groundspeak:date>2009-02-05T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="1831">Kasutaja andres</groundspeak:finder>
+                    <groundspeak:text encoded="False">Tundus et seda aaret on lihtsam külastada talvel kui suvel. Seega teel pealinna veel üks kõrvalepõige suurel teelt. Parklast järvekaldale astudes tuli nentida et täpselt gepsu osutatud suunas kulges tõeline paljurealine geomaantee.... Et päris aus olla, siis seejärel, elektroonilisi ja paberil abivahendeid vaatamata sai tormatud silma jäänud saare suunas.... Ja üllatus-üllatus, kohale jõudes avastatud, et oleks võinud siiski vaadata ja teisele saarele minna.... Kohapeal avanes üsna kole pilt puude alt teostatud kaevamistöödest, ja katsetest niigi oma otsa lõpu leidnud kände täielikult hävitada... Kõike seda vaadates isegi ehk veidi neid juurealuseid uurides sai saarekesele mitu ringi peale tehtud... Ja üsna nõutuks muututud.. Alles siis kui lootus oli pea täielikult kadunud ja asutasin juba tagasiteele, paljastus aare viimasel hetkel silma jäänud kavalast kohast. Loodus oli suurepärase maskeeringu eest hoolitsenud. EVEJ</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>2.0</ox:difficulty>
-                <ox:size>4.0</ox:size>
+                <ox:awesomeness>3.1</ox:awesomeness>
+                <ox:difficulty>2.1</ox:difficulty>
+                <ox:size>2.6</ox:size>
                 <ox:terrain>2.6</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="26.8114167" lat="60.7690167">
-        <time>2011-12-17T09:05:35.000-06:00</time>
+        <time>2011-12-17T15:05:35.000Z</time>
         <name>OX36C0Q</name>
         <desc>Vesitornin takavartio by geomies1, Traditional Cache(2.6/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX36C0Q</url>
@@ -932,8 +2133,7 @@ HEAD AASTA LÕPPU JA VEEL PAREMAT JÄRGMIST (GEOPEITUSE) AASTAT!
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Myllykosken Kurkimäki on kylän uusin asuinalue. Pohjoisosaa hallitsee vanha vesitorni. Kätköpaikka sijaitsee reilu 200 metriä itään vesitornilta, jonne kannattaa pysäköidä kulkupelit.
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Myllykosken Kurkimäki on kylän uusin asuinalue. Pohjoisosaa hallitsee vanha vesitorni. Kätköpaikka sijaitsee reilu 200 metriä itään vesitornilta, jonne kannattaa pysäköidä kulkupelit.&lt;br/&gt;</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -942,15 +2142,10 @@ HEAD AASTA LÕPPU JA VEEL PAREMAT JÄRGMIST (GEOPEITUSE) AASTAT!
                 <ox:size>2.8</ox:size>
                 <ox:terrain>2.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Available at all times</ox:tag>
-                <ox:tag>Dogs</ox:tag>
-                <ox:tag>Bicycles</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="26.6697333" lat="60.8645167">
-        <time>2011-05-20T02:00:00.000-05:00</time>
+        <time>2011-05-20T07:00:00.000Z</time>
         <name>OX2WJ4F</name>
         <desc>Kingdom of spiders by Tmn90, Traditional Cache(2.0/3.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2WJ4F</url>
@@ -965,9 +2160,17 @@ HEAD AASTA LÕPPU JA VEEL PAREMAT JÄRGMIST (GEOPEITUSE) AASTAT!
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">&lt;br/&gt;[Not stroller accessible, no kids, available in winter, parking available, may require wading, flashlight required, thorns!, hike between 1km-10km, ticks!, dogs allowed]&lt;br/&gt;Kätkö kaunisnurmella olevan puron varrella. Kätkön etsimiseen suosittelen saappaita ja taskulamppua. Kätköä ei suositella hämähäkkikammoisille. Short description in english. Cache in Kaunisnurmi, near small stream. To find cache you may need boots and flashlight. Not recommend for peoples who fear spiders.
- &lt;br/&gt;&lt;br/&gt;       PK PARKNG GC2WJ4F Parking (Parking Area) N 60° 51.826 E 026° 40.459     Note: Yksi mahdollinen pysäköintipaikka josta lähtee mukava polku purkille.</groundspeak:long_description>
+            <groundspeak:long_description html="True">&lt;br /&gt;[Not stroller accessible, no kids, available in winter, parking available, may require wading, flashlight required, thorns!, hike between 1km-10km, ticks!, dogs allowed]&lt;br /&gt;Kätkö kaunisnurmella olevan puron varrella. Kätkön etsimiseen suosittelen saappaita ja taskulamppua. Kätköä ei suositella hämähäkkikammoisille. Short description in english. Cache in Kaunisnurmi, near small stream. To find cache you may need boots and flashlight. Not recommend for peoples who fear spiders.
+ &lt;br /&gt;&lt;br /&gt;       PK PARKNG GC2WJ4F Parking (Parking Area) N 60° 51.826 E 026° 40.459     Note: Yksi mahdollinen pysäköintipaikka josta lähtee mukava polku purkille.</groundspeak:long_description>
             <groundspeak:encoded_hints>[FIN]Sisäpuolella [ENG]Inside</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1729643">
+                    <groundspeak:date>2011-10-15T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="1809">NOYBOY</groundspeak:finder>
+                    <groundspeak:text encoded="False">TFTC! Been there, done that!</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -977,21 +2180,12 @@ HEAD AASTA LÕPPU JA VEEL PAREMAT JÄRGMIST (GEOPEITUSE) AASTAT!
                 <ox:terrain>3.0</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>Available in winter</ox:tag>
-                <ox:tag>Not Not stroller accessible</ox:tag>
-                <ox:tag>Parking available</ox:tag>
-                <ox:tag>May require wading</ox:tag>
-                <ox:tag>Not No kids</ox:tag>
-                <ox:tag>Hike between 1km-10km</ox:tag>
-                <ox:tag>Thorns!</ox:tag>
-                <ox:tag>Ticks!</ox:tag>
-                <ox:tag>Flashlight required</ox:tag>
-                <ox:tag>Dogs allowed</ox:tag>
+                <ox:tag>Night</ox:tag>
             </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="26.7078" lat="60.86915">
-        <time>2011-07-30T10:18:07.000-05:00</time>
+        <time>2011-07-30T15:18:07.000Z</time>
         <name>OX2TZM9</name>
         <desc>&quot;Drunkers corner&quot; by jtm90, Traditional Cache(1.5/1.5/2.8)</desc>
         <url>http://www.opencaching.com/#geocache/OX2TZM9</url>
@@ -1009,19 +2203,19 @@ HEAD AASTA LÕPPU JA VEEL PAREMAT JÄRGMIST (GEOPEITUSE) AASTAT!
             <groundspeak:long_description html="True">Kouvolan keskustassa oleva kokoontumispiste, joka on etenkin humalaisten suosiossa. (Siitä kätkön nimi)</groundspeak:long_description>
             <groundspeak:logs>
                 <groundspeak:log id="1532519">
-                    <groundspeak:date>2011-09-04T16:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-09-04T21:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="49720">Tmn90</groundspeak:finder>
                     <groundspeak:text encoded="False">Mukana piiloittamassa</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1391229">
-                    <groundspeak:date>2011-08-01T13:47:52.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-08-01T18:47:52.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="22517">Agent PuFF</groundspeak:finder>
                     <groundspeak:text encoded="False"/>
                 </groundspeak:log>
                 <groundspeak:log id="1424862">
-                    <groundspeak:date>2011-07-04T16:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-07-04T21:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="1197">Bombur1</groundspeak:finder>
                     <groundspeak:text encoded="False">Kirjataan tämä tännekin.  
@@ -1030,7 +2224,7 @@ Kiitos tämän Kouvolan ydinpisteen esittelystä.
 </groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1423438">
-                    <groundspeak:date>2011-06-14T16:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-06-14T21:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="1809">NOYBOY</groundspeak:finder>
                     <groundspeak:text encoded="False"/>
@@ -1044,14 +2238,10 @@ Kiitos tämän Kouvolan ydinpisteen esittelystä.
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>saatavissa pyöratuolista</ox:tag>
-                <ox:tag>Jästivaara</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="26.6671667" lat="60.8732">
-        <time>2011-07-30T10:22:38.000-05:00</time>
+        <time>2011-07-30T15:22:38.000Z</time>
         <name>OX2TZH4</name>
         <desc>Hinkkismäen kuntorata by jtm90, Traditional Cache(4.0/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2TZH4</url>
@@ -1066,12 +2256,16 @@ Kiitos tämän Kouvolan ydinpisteen esittelystä.
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>4</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Hyvät maisemat tarjoava peruskätkö Hinkkismäen kuntoradan läheisyydessä.
-
-Hinkkismäen kuntorata on noin kaksi kilometriä pitkä. Alue on ollut ennen armeijan käytössä sillä alueella on juoksuhautoja ja entinen ampumarata. Kätkön kohdalta on hienot maisemat Kouvolan market-alueelle.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Hyvät maisemat tarjoava peruskätkö Hinkkismäen kuntoradan läheisyydessä.&lt;br/&gt;&lt;br/&gt;Hinkkismäen kuntorata on noin kaksi kilometriä pitkä. Alue on ollut ennen armeijan käytössä sillä alueella on juoksuhautoja ja entinen ampumarata. Kätkön kohdalta on hienot maisemat Kouvolan market-alueelle.</groundspeak:long_description>
             <groundspeak:logs>
+                <groundspeak:log id="1729642">
+                    <groundspeak:date>2011-09-10T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="1809">NOYBOY</groundspeak:finder>
+                    <groundspeak:text encoded="False">TFTC! Been there, done that!</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1391231">
-                    <groundspeak:date>2011-08-01T13:50:28.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-08-01T18:50:28.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="22517">Agent PuFF</groundspeak:finder>
                     <groundspeak:text encoded="False"/>
@@ -1085,17 +2279,61 @@ Hinkkismäen kuntorata on noin kaksi kilometriä pitkä. Alue on ollut ennen arm
                 <ox:size>2.4</ox:size>
                 <ox:terrain>2.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>ei löydettävissä talvella</ox:tag>
-                <ox:tag>Hyvä näköala</ox:tag>
-                <ox:tag>Lapsiystävllinen</ox:tag>
-                <ox:tag>saattaa kestää yli tunnin</ox:tag>
-                <ox:tag>ei saatavissa pyörätuolista</ox:tag>
-            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.780433" lat="60.934333">
+        <time>2009-02-21T08:00:00.000Z</time>
+        <name>OX1MZ6W</name>
+        <desc>Lappala Bird Tower by Metsahiipija, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1MZ6W</url>
+        <urlname>Lappala Bird Tower</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1548384">
+            <groundspeak:name>Lappala Bird Tower</groundspeak:name>
+            <groundspeak:placed_by>Metsahiipija</groundspeak:placed_by>
+            <groundspeak:owner id="10384">Metsahiipija</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Koordinaatit ovat mahdollisesti epätarkat, etsimispaikan voi
+päätellä &lt;b&gt;kätkön nimestä&lt;/b&gt;. Kätkö on todennäköisesti helpompi
+löytää talvella kuin kesällä. 
+&lt;p&gt;The coordinates are perhaps inaccurate but you can judge the
+location of the cache from the &lt;b&gt;cache name&lt;/b&gt;. The cache is
+probably easier to find in the winter than in the summer.&lt;/p&gt;
+ 
+
+Suomessa on yli 500 lintutornia. Ensimmäinen torni pystytettiin
+Porvoon Ruskiksen ruovikon reunaan vuonna 1959. Osa torneista on
+hyvin vilkkaassa käytössä, osa vähemmällä käytöllä. Rehevien
+järvien umpeenkasvu saattaa myös tehdä ennen hyvästä lintutornista
+lähes käyttökelvottoman. BirdLife Suomi on julkaissut vuonna 2005
+Lintutornit -kirjan, jossa esitellään yli 400 Suomen lintutornia
+karttoineen ja ajo-ohjeineen. Toukokuun alussa sadat lintutornit
+ovat kansoitettuna jokavuotisessa Tornien taisto -tapahtumassa.
+Suuri osa torneista löytyy nykyään myös peruskartoilta. 
+&lt;p&gt;There are more than 500 bird observation towers in Finland. The
+first one was erected in Porvoo in 1959. A book presenting over 400
+bird towers was published (in Finnish) in 2005 ('Lintutornit'). In
+the beginning of May each year hundreds of bird towers are crowded
+by birdwatchers participating in the Battle of Towers event. Most
+of the towers are nowadays printed on topographic maps.&lt;/p&gt;   </groundspeak:long_description>
+            <groundspeak:encoded_hints>[FI:] Sopii myös akrofobikoille!
+[EN:] Suitable also for acrophobics!</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
         </ox:opencaching>
     </wpt>
     <wpt lon="26.66345" lat="62.001533">
-        <time>2011-07-02T02:00:00.000-05:00</time>
+        <time>2011-07-02T07:00:00.000Z</time>
         <name>OX2ZB0T</name>
         <desc>Reststop Reissupannu by PeSaKaTo, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2ZB0T</url>
@@ -1110,22 +2348,7 @@ Hinkkismäen kuntorata on noin kaksi kilometriä pitkä. Alue on ollut ennen arm
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Helppo peruskätkö Reissupannun niemessä.
-
-Matkamiehen tie 
-joskus pitkä lie, 
-silloin on tarpeen huilin paikka, 
-voi etsiä yhden kätkön vaikka. 
-Mut jos silloin kuuseen kurkottaa, 
-niin väärää puuta halaa vaan. 
-
-Restplace with beautiful view and cafe. Take a little walk.
-
-HUOM! Älä ota camoa pois paikoiltaan. NOTE! Please don't take camo from it's location.
-
-Additional Waypoints
-PR2ZB0T - Parkki
-N 62° 00.170 E 026° 39.730</groundspeak:long_description>
+            <groundspeak:long_description html="True">Helppo peruskätkö Reissupannun niemessä.&lt;br/&gt;&lt;br/&gt;Matkamiehen tie &lt;br/&gt;joskus pitkä lie, &lt;br/&gt;silloin on tarpeen huilin paikka, &lt;br/&gt;voi etsiä yhden kätkön vaikka. &lt;br/&gt;Mut jos silloin kuuseen kurkottaa, &lt;br/&gt;niin väärää puuta halaa vaan. &lt;br/&gt;&lt;br/&gt;Restplace with beautiful view and cafe. Take a little walk.&lt;br/&gt;&lt;br/&gt;HUOM! Älä ota camoa pois paikoiltaan. NOTE! Please don't take camo from it's location.&lt;br/&gt;&lt;br/&gt;Additional Waypoints&lt;br/&gt;PR2ZB0T - Parkki&lt;br/&gt;N 62° 00.170 E 026° 39.730</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -1137,7 +2360,7 @@ N 62° 00.170 E 026° 39.730</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="26.6822333" lat="65.9794217">
-        <time>2011-07-21T10:12:32.000-05:00</time>
+        <time>2011-07-21T15:12:32.000Z</time>
         <name>OXZTRVC</name>
         <desc>Jumppaa satunnaisille matkailijoille by reyno, Traditional Cache(1.4/2.1/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTRVC</url>
@@ -1163,7 +2386,7 @@ N 62° 00.170 E 026° 39.730</groundspeak:long_description>
                 <ox:terrain>2.1</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>silta</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
             </ox:tags>
         </ox:opencaching>
     </wpt>

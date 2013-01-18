@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>161 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,129,90,130</url>
-    <time>2012-01-04T09:32:58.762-06:00</time>
+    <time>2012-12-19T23:01:08.899Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="130.0" maxlat="90.0" minlon="129.0" minlat="-90.0"/>
     <wpt lon="129.04595" lat="35.19615">
-        <time>2010-05-06T02:00:00.000-05:00</time>
+        <time>2010-05-06T07:00:00.000Z</time>
         <name>OX282Y5</name>
         <desc>Big flat rock by Jiho Kim, Traditional Cache(1.5/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX282Y5</url>
@@ -24,8 +24,7 @@
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -38,7 +37,7 @@
         </ox:opencaching>
     </wpt>
     <wpt lon="129.0432167" lat="35.1984833">
-        <time>2010-05-06T02:00:00.000-05:00</time>
+        <time>2010-05-06T07:00:00.000Z</time>
         <name>OX282Y6</name>
         <desc>Big pin tree by Jiho Kim, Traditional Cache(1.5/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX282Y6</url>
@@ -53,8 +52,7 @@
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -67,7 +65,7 @@
         </ox:opencaching>
     </wpt>
     <wpt lon="129.0639167" lat="35.2236667">
-        <time>2009-12-06T02:00:00.000-06:00</time>
+        <time>2009-12-06T08:00:00.000Z</time>
         <name>OX21TNY</name>
         <desc>Geumgang park by Jiho Kim, Traditional Cache(2.0/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX21TNY</url>
@@ -82,8 +80,7 @@
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Under rock</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -96,7 +93,7 @@
         </ox:opencaching>
     </wpt>
     <wpt lon="129.05945" lat="35.2392667">
-        <time>2009-01-27T02:00:00.000-06:00</time>
+        <time>2009-01-27T08:00:00.000Z</time>
         <name>OX1M55F</name>
         <desc>Geumjeongsan by Jiho Kim, Traditional Cache(2.5/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1M55F</url>
@@ -111,8 +108,7 @@
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>capsule</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -125,7 +121,7 @@
         </ox:opencaching>
     </wpt>
     <wpt lon="129.2461833" lat="35.3783333">
-        <time>2009-01-26T02:00:00.000-06:00</time>
+        <time>2009-01-26T08:00:00.000Z</time>
         <name>OX1M55C</name>
         <desc>Jangan Pavilion by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1M55C</url>
@@ -140,8 +136,7 @@
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -154,7 +149,7 @@
         </ox:opencaching>
     </wpt>
     <wpt lon="129.2452667" lat="35.3801">
-        <time>2009-01-26T02:00:00.000-06:00</time>
+        <time>2009-01-26T08:00:00.000Z</time>
         <name>OX1M55D</name>
         <desc>Jangan Rest by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1M55D</url>
@@ -169,8 +164,7 @@
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -183,7 +177,7 @@
         </ox:opencaching>
     </wpt>
     <wpt lon="129.12245" lat="35.4029">
-        <time>2009-04-26T02:00:00.000-05:00</time>
+        <time>2009-04-26T07:00:00.000Z</time>
         <name>OX1QJF8</name>
         <desc>Chensengsan-Cheoljukjea by Jiho Kim, Traditional Cache(1.5/3.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1QJF8</url>
@@ -198,8 +192,7 @@
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -212,7 +205,7 @@
         </ox:opencaching>
     </wpt>
     <wpt lon="129.123" lat="35.4149">
-        <time>2009-11-07T02:00:00.000-06:00</time>
+        <time>2009-11-07T08:00:00.000Z</time>
         <name>OX20RA2</name>
         <desc>Cheonseongsan 2-bong by Jiho Kim, Traditional Cache(2.0/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX20RA2</url>
@@ -227,8 +220,7 @@
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -241,9 +233,9 @@
         </ox:opencaching>
     </wpt>
     <wpt lon="129.1222667" lat="35.4167833">
-        <time>2009-04-26T02:00:00.000-05:00</time>
+        <time>2009-04-26T07:00:00.000Z</time>
         <name>OX1QM45</name>
-        <desc>Top of the big rock by Jiho Kim, Traditional Cache(2.0/3.0/3.5)</desc>
+        <desc>Top of the big rock by Jiho Kim, Traditional Cache(2.0/3.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1QM45</url>
         <urlname>Top of the big rock</urlname>
         <sym>Geocache</sym>
@@ -256,13 +248,12 @@
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">Need to bring a pen 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Need to bring a pen &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>2.0</ox:difficulty>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>3.0</ox:terrain>
@@ -270,7 +261,7 @@
         </ox:opencaching>
     </wpt>
     <wpt lon="129.1196" lat="35.42415">
-        <time>2009-11-07T02:00:00.000-06:00</time>
+        <time>2009-11-07T08:00:00.000Z</time>
         <name>OX20R9Y</name>
         <desc>View rock by Jiho Kim, Traditional Cache(2.0/3.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX20R9Y</url>
@@ -285,8 +276,7 @@
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -299,7 +289,7 @@
         </ox:opencaching>
     </wpt>
     <wpt lon="129.12015" lat="35.4263">
-        <time>2009-04-26T02:00:00.000-05:00</time>
+        <time>2009-04-26T07:00:00.000Z</time>
         <name>OX1QJEW</name>
         <desc>Jipbuk-jea Tree hole by Jiho Kim, Traditional Cache(2.0/3.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1QJEW</url>
@@ -314,8 +304,7 @@
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -328,7 +317,7 @@
         </ox:opencaching>
     </wpt>
     <wpt lon="129.1154" lat="35.4277167">
-        <time>2009-11-07T02:00:00.000-06:00</time>
+        <time>2009-11-07T08:00:00.000Z</time>
         <name>OX20RA4</name>
         <desc>Rock climbing by Jiho Kim, Traditional Cache(2.5/3.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX20RA4</url>
@@ -343,8 +332,7 @@
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -357,7 +345,7 @@
         </ox:opencaching>
     </wpt>
     <wpt lon="129.1200167" lat="35.4311333">
-        <time>2009-11-07T02:00:00.000-06:00</time>
+        <time>2009-11-07T08:00:00.000Z</time>
         <name>OX20R9W</name>
         <desc>Dead tree by Jiho Kim, Traditional Cache(1.5/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX20R9W</url>
@@ -372,8 +360,7 @@
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -386,7 +373,7 @@
         </ox:opencaching>
     </wpt>
     <wpt lon="129.1128667" lat="35.4313667">
-        <time>2009-11-07T02:00:00.000-06:00</time>
+        <time>2009-11-07T08:00:00.000Z</time>
         <name>OX20RE5</name>
         <desc>Rock &amp; Pin tree by Jiho Kim, Traditional Cache(1.5/3.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX20RE5</url>
@@ -401,8 +388,7 @@
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -415,7 +401,7 @@
         </ox:opencaching>
     </wpt>
     <wpt lon="129.1098167" lat="35.4328667">
-        <time>2009-11-07T02:00:00.000-06:00</time>
+        <time>2009-11-07T08:00:00.000Z</time>
         <name>OX20RE9</name>
         <desc>View point by Jiho Kim, Traditional Cache(2.0/3.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX20RE9</url>
@@ -430,8 +416,7 @@
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -444,7 +429,7 @@
         </ox:opencaching>
     </wpt>
     <wpt lon="129.1061" lat="35.4346833">
-        <time>2009-11-07T02:00:00.000-06:00</time>
+        <time>2009-11-07T08:00:00.000Z</time>
         <name>OX20REA</name>
         <desc>Tree root by Jiho Kim, Traditional Cache(2.0/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX20REA</url>
@@ -459,8 +444,7 @@
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -473,7 +457,7 @@
         </ox:opencaching>
     </wpt>
     <wpt lon="129.1185167" lat="35.4357833">
-        <time>2009-11-07T02:00:00.000-06:00</time>
+        <time>2009-11-07T08:00:00.000Z</time>
         <name>OX20R9P</name>
         <desc>GYNS Twin rock by Jiho Kim, Traditional Cache(2.0/3.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX20R9P</url>
@@ -488,8 +472,7 @@
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -502,7 +485,7 @@
         </ox:opencaching>
     </wpt>
     <wpt lon="129.1027333" lat="35.43795">
-        <time>2009-11-07T02:00:00.000-06:00</time>
+        <time>2009-11-07T08:00:00.000Z</time>
         <name>OX20REB</name>
         <desc>Landscape view by Jiho Kim, Traditional Cache(2.0/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX20REB</url>
@@ -517,8 +500,7 @@
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -531,7 +513,7 @@
         </ox:opencaching>
     </wpt>
     <wpt lon="129.1127167" lat="35.4397167">
-        <time>2009-04-26T02:00:00.000-05:00</time>
+        <time>2009-04-26T07:00:00.000Z</time>
         <name>OX1QM3W</name>
         <desc>Gongnyongneungseon by Jiho Kim, Traditional Cache(2.0/3.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1QM3W</url>
@@ -546,8 +528,7 @@
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>3.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -560,7 +541,7 @@
         </ox:opencaching>
     </wpt>
     <wpt lon="129.1033833" lat="35.4416333">
-        <time>2009-04-26T02:00:00.000-05:00</time>
+        <time>2009-04-26T07:00:00.000Z</time>
         <name>OX1QJER</name>
         <desc>Pine tree &amp; Rock by Jiho Kim, Traditional Cache(1.5/3.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1QJER</url>
@@ -575,8 +556,7 @@
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -589,7 +569,7 @@
         </ox:opencaching>
     </wpt>
     <wpt lon="129.0776" lat="35.44585">
-        <time>2009-11-07T02:00:00.000-06:00</time>
+        <time>2009-11-07T08:00:00.000Z</time>
         <name>OX20REF</name>
         <desc>Yongyen small pavilion by Jiho Kim, Traditional Cache(2.0/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX20REF</url>
@@ -604,8 +584,7 @@
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -618,7 +597,7 @@
         </ox:opencaching>
     </wpt>
     <wpt lon="129.0089167" lat="35.5256">
-        <time>2010-01-01T02:00:00.000-06:00</time>
+        <time>2010-01-01T08:00:00.000Z</time>
         <name>OX22GHE</name>
         <desc>BeNaeChiA by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX22GHE</url>
@@ -633,8 +612,7 @@
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -647,7 +625,7 @@
         </ox:opencaching>
     </wpt>
     <wpt lon="129.0539833" lat="35.5393">
-        <time>2009-10-10T02:00:00.000-05:00</time>
+        <time>2009-10-10T07:00:00.000Z</time>
         <name>OX1ZN5P</name>
         <desc>Nakdongjeongmaek(Top of the Sinbulsan) by Jiho Kim, Traditional Cache(2.0/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ZN5P</url>
@@ -662,8 +640,7 @@
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -676,7 +653,7 @@
         </ox:opencaching>
     </wpt>
     <wpt lon="129.0565833" lat="35.53975">
-        <time>2009-10-10T02:00:00.000-05:00</time>
+        <time>2009-10-10T07:00:00.000Z</time>
         <name>OX1ZN8N</name>
         <desc>Sinbulsan Ridge  by Jiho Kim, Traditional Cache(2.0/3.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ZN8N</url>
@@ -710,7 +687,7 @@ time.&lt;/p&gt;
         </ox:opencaching>
     </wpt>
     <wpt lon="129.0487167" lat="35.5401">
-        <time>2009-10-10T02:00:00.000-05:00</time>
+        <time>2009-10-10T07:00:00.000Z</time>
         <name>OX1ZN8V</name>
         <desc>Nakdongjeongmaek(Sinbulsan range ) by Jiho Kim, Traditional Cache(1.5/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ZN8V</url>
@@ -744,7 +721,7 @@ time.&lt;/p&gt;
         </ox:opencaching>
     </wpt>
     <wpt lon="129.05905" lat="35.5403833">
-        <time>2009-10-10T02:00:00.000-05:00</time>
+        <time>2009-10-10T07:00:00.000Z</time>
         <name>OX1ZN5R</name>
         <desc>Sinbulsan(Kalbawineungseon)  by Jiho Kim, Traditional Cache(2.0/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ZN5R</url>
@@ -759,8 +736,7 @@ time.&lt;/p&gt;
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -773,7 +749,7 @@ time.&lt;/p&gt;
         </ox:opencaching>
     </wpt>
     <wpt lon="129.0484167" lat="35.54265">
-        <time>2009-10-10T02:00:00.000-05:00</time>
+        <time>2009-10-10T07:00:00.000Z</time>
         <name>OX1ZN5K</name>
         <desc>Nakdongjeongmaek(Sinbulsan view) by Jiho Kim, Traditional Cache(2.0/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ZN5K</url>
@@ -788,8 +764,7 @@ time.&lt;/p&gt;
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -802,7 +777,7 @@ time.&lt;/p&gt;
         </ox:opencaching>
     </wpt>
     <wpt lon="129.33685" lat="35.5486833">
-        <time>2010-12-30T02:00:00.000-06:00</time>
+        <time>2010-12-30T08:00:00.000Z</time>
         <name>OX2KT0T</name>
         <desc>Taehwa River  by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2KT0T</url>
@@ -817,8 +792,7 @@ time.&lt;/p&gt;
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">BYOP
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">BYOP&lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Magnet</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -831,7 +805,7 @@ time.&lt;/p&gt;
         </ox:opencaching>
     </wpt>
     <wpt lon="129.0328333" lat="35.5471">
-        <time>2009-10-10T02:00:00.000-05:00</time>
+        <time>2009-10-10T07:00:00.000Z</time>
         <name>OX1ZN5A</name>
         <desc>Jukrimgul(Daejaegongso) by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ZN5A</url>
@@ -846,8 +820,7 @@ time.&lt;/p&gt;
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Under rock</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -860,7 +833,7 @@ time.&lt;/p&gt;
         </ox:opencaching>
     </wpt>
     <wpt lon="129.0455333" lat="35.5476667">
-        <time>2009-10-10T02:00:00.000-05:00</time>
+        <time>2009-10-10T07:00:00.000Z</time>
         <name>OX1ZN5D</name>
         <desc>Nakdongjeongmaek(Ganwoljae) by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ZN5D</url>
@@ -875,8 +848,7 @@ time.&lt;/p&gt;
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -889,7 +861,7 @@ time.&lt;/p&gt;
         </ox:opencaching>
     </wpt>
     <wpt lon="129.0262333" lat="35.5805833">
-        <time>2010-01-01T02:00:00.000-06:00</time>
+        <time>2010-01-01T08:00:00.000Z</time>
         <name>OX22GHA</name>
         <desc>Youngnamalps(BeNaeGoGae) by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX22GHA</url>
@@ -904,8 +876,7 @@ time.&lt;/p&gt;
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -918,7 +889,7 @@ time.&lt;/p&gt;
         </ox:opencaching>
     </wpt>
     <wpt lon="129.13895" lat="35.5958167">
-        <time>2008-12-27T02:00:00.000-06:00</time>
+        <time>2008-12-27T08:00:00.000Z</time>
         <name>OX1K714</name>
         <desc>Eonyang rest area by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1K714</url>
@@ -933,10 +904,7 @@ time.&lt;/p&gt;
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">In the Eonyang express highway resting place.
-The cache container is a round, but smaller than a film canister and bigger than a nano.
-Please BYOP! (Bring your own pen)
-Have a nice trip and caching.</groundspeak:long_description>
+            <groundspeak:long_description html="True">In the Eonyang express highway resting place.&lt;br/&gt;The cache container is a round, but smaller than a film canister and bigger than a nano.&lt;br/&gt;Please BYOP! (Bring your own pen)&lt;br/&gt;Have a nice trip and caching.</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -949,9 +917,9 @@ Have a nice trip and caching.</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.0139167" lat="35.6030667">
-        <time>2009-10-10T02:00:00.000-05:00</time>
+        <time>2009-10-10T07:00:00.000Z</time>
         <name>OX1ZN5T</name>
-        <desc>Gajisan(Seoknamtunnel) by Jiho Kim, Traditional Cache(1.5/2.0/3.5)</desc>
+        <desc>Gajisan(Seoknamtunnel) by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ZN5T</url>
         <urlname>Gajisan(Seoknamtunnel)</urlname>
         <sym>Geocache</sym>
@@ -964,13 +932,12 @@ Have a nice trip and caching.</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>1.5</ox:difficulty>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
@@ -978,7 +945,7 @@ Have a nice trip and caching.</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.1923333" lat="35.72295">
-        <time>2008-12-27T02:00:00.000-06:00</time>
+        <time>2008-12-27T08:00:00.000Z</time>
         <name>OX1K70M</name>
         <desc>Gyeongju rest pavilion by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1K70M</url>
@@ -993,9 +960,7 @@ Have a nice trip and caching.</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">From seoul to busan direction. Have a nice trip and caching.The cache container is a round, but smaller than a film canister and bigger than a nano.
-Please BYOP! (Bring your own pen)
-Have a nice trip and caching.</groundspeak:long_description>
+            <groundspeak:long_description html="True">From seoul to busan direction. Have a nice trip and caching.The cache container is a round, but smaller than a film canister and bigger than a nano.&lt;br/&gt;Please BYOP! (Bring your own pen)&lt;br/&gt;Have a nice trip and caching.</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1008,7 +973,7 @@ Have a nice trip and caching.</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.4832333" lat="35.7399">
-        <time>2009-12-06T02:00:00.000-06:00</time>
+        <time>2009-12-06T08:00:00.000Z</time>
         <name>OX21W93</name>
         <desc>Undersea tomb of King Munmu-wang by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX21W93</url>
@@ -1023,8 +988,7 @@ Have a nice trip and caching.</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1037,7 +1001,7 @@ Have a nice trip and caching.</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.4837833" lat="35.7443833">
-        <time>2009-12-06T02:00:00.000-06:00</time>
+        <time>2009-12-06T08:00:00.000Z</time>
         <name>OX21W99</name>
         <desc>Igyeondae by Jiho Kim, Traditional Cache(2.0/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX21W99</url>
@@ -1052,8 +1016,7 @@ Have a nice trip and caching.</groundspeak:long_description>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1066,7 +1029,7 @@ Have a nice trip and caching.</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.4768" lat="35.74785">
-        <time>2009-12-06T02:00:00.000-06:00</time>
+        <time>2009-12-06T08:00:00.000Z</time>
         <name>OX21W9B</name>
         <desc>Gameunsaji by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX21W9B</url>
@@ -1081,8 +1044,7 @@ Have a nice trip and caching.</groundspeak:long_description>
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1095,7 +1057,7 @@ Have a nice trip and caching.</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.3540667" lat="35.7730833">
-        <time>2009-12-06T02:00:00.000-06:00</time>
+        <time>2009-12-06T08:00:00.000Z</time>
         <name>OX21WA4</name>
         <desc>Traffic Reflector by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX21WA4</url>
@@ -1110,8 +1072,7 @@ Have a nice trip and caching.</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1124,7 +1085,7 @@ Have a nice trip and caching.</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.3732333" lat="35.7749833">
-        <time>2009-12-06T02:00:00.000-06:00</time>
+        <time>2009-12-06T08:00:00.000Z</time>
         <name>OX21W9C</name>
         <desc>Janghangrisaji by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX21W9C</url>
@@ -1139,8 +1100,7 @@ Have a nice trip and caching.</groundspeak:long_description>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1153,7 +1113,7 @@ Have a nice trip and caching.</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.3289333" lat="35.786">
-        <time>2010-01-01T02:00:00.000-06:00</time>
+        <time>2010-01-01T08:00:00.000Z</time>
         <name>OX22GGT</name>
         <desc>Bulguksa parking area by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX22GGT</url>
@@ -1168,8 +1128,7 @@ Have a nice trip and caching.</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1182,7 +1141,7 @@ Have a nice trip and caching.</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.277633" lat="35.7871">
-        <time>2011-07-03T02:00:00.000-05:00</time>
+        <time>2011-07-03T07:00:00.000Z</time>
         <name>OX2ZDED</name>
         <desc>20110703 KACM by Jiho Kim, Traditional Cache(2.0/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2ZDED</url>
@@ -1198,9 +1157,9 @@ Have a nice trip and caching.</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : 646-1, Joyang-dong, Gyeongju-si, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
-Do *not* take the stamp and ink pad.&lt;br/&gt;
-Please bring your own stamp.&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
+Do *not* take the stamp and ink pad.&lt;br /&gt;
+Please bring your own stamp.&lt;br /&gt;
 Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1210,14 +1169,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Parking available</ox:tag>
-                <ox:tag>Stealth required</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.334267" lat="35.78795">
-        <time>2011-07-03T02:00:00.000-05:00</time>
+        <time>2011-07-03T07:00:00.000Z</time>
         <name>OX2ZDD7</name>
         <desc>20110703 BulGukSa by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2ZDD7</url>
@@ -1232,9 +1187,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Location : Jinhyeon-dong, Gyeongju-si, Gyeongbuk, Korea
-
-Please BYOP! (Bring your own pen)</groundspeak:long_description>
+            <groundspeak:long_description html="True">Location : Jinhyeon-dong, Gyeongju-si, Gyeongbuk, Korea&lt;br/&gt;&lt;br/&gt;Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -1243,14 +1196,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>4.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Stealth required</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.3284167" lat="35.7887167">
-        <time>2010-01-01T02:00:00.000-06:00</time>
+        <time>2010-01-01T08:00:00.000Z</time>
         <name>OX22GGV</name>
         <desc>Bulimun by Jiho Kim, Traditional Cache(2.0/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX22GGV</url>
@@ -1265,8 +1214,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1279,7 +1227,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.3501333" lat="35.78955">
-        <time>2009-12-06T02:00:00.000-06:00</time>
+        <time>2009-12-06T08:00:00.000Z</time>
         <name>OX21WA7</name>
         <desc>Seokgulam parking by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX21WA7</url>
@@ -1294,8 +1242,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1308,9 +1255,9 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.3491833" lat="35.7920833">
-        <time>2009-12-06T02:00:00.000-06:00</time>
+        <time>2009-12-06T08:00:00.000Z</time>
         <name>OX21WA6</name>
-        <desc>Seokgulam by Jiho Kim, Traditional Cache(2.0/2.0/3.5)</desc>
+        <desc>Seokgulam by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX21WA6</url>
         <urlname>Seokgulam</urlname>
         <sym>Geocache</sym>
@@ -1323,16 +1270,12 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">
-
-
-Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>2.0</ox:difficulty>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
@@ -1340,9 +1283,9 @@ Please BYOP! (Bring your own pen)
         </ox:opencaching>
     </wpt>
     <wpt lon="129.21105" lat="35.8072167">
-        <time>2008-12-11T02:00:00.000-06:00</time>
+        <time>2008-12-11T08:00:00.000Z</time>
         <name>OX1JTPX</name>
-        <desc>Poseokjung by Jiho Kim, Traditional Cache(1.5/2.0/3.5)</desc>
+        <desc>Poseokjung by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1JTPX</url>
         <urlname>Poseokjung</urlname>
         <sym>Geocache</sym>
@@ -1355,13 +1298,12 @@ Please BYOP! (Bring your own pen)
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>1.5</ox:difficulty>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
@@ -1369,7 +1311,7 @@ Please BYOP! (Bring your own pen)
         </ox:opencaching>
     </wpt>
     <wpt lon="129.1974833" lat="35.8123">
-        <time>2008-12-11T02:00:00.000-06:00</time>
+        <time>2008-12-11T08:00:00.000Z</time>
         <name>OX1JTPZ</name>
         <desc>Seorabeol Gwangjang by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1JTPZ</url>
@@ -1384,8 +1326,7 @@ Please BYOP! (Bring your own pen)
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1398,9 +1339,9 @@ Please BYOP! (Bring your own pen)
         </ox:opencaching>
     </wpt>
     <wpt lon="129.2080333" lat="35.82085">
-        <time>2008-11-29T02:00:00.000-06:00</time>
+        <time>2008-11-29T08:00:00.000Z</time>
         <name>OX1JGTM</name>
-        <desc>Oneung(Five Tombs) by Jiho Kim, Traditional Cache(1.5/1.5/3.5)</desc>
+        <desc>Oneung(Five Tombs) by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1JGTM</url>
         <urlname>Oneung(Five Tombs)</urlname>
         <sym>Geocache</sym>
@@ -1413,13 +1354,12 @@ Please BYOP! (Bring your own pen)
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>1.5</ox:difficulty>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
@@ -1427,9 +1367,9 @@ Please BYOP! (Bring your own pen)
         </ox:opencaching>
     </wpt>
     <wpt lon="129.2230833" lat="35.8314167">
-        <time>2008-12-06T02:00:00.000-06:00</time>
+        <time>2008-12-06T08:00:00.000Z</time>
         <name>OX1JR2Q</name>
-        <desc>BanWolSung by Jiho Kim, Traditional Cache(1.5/1.5/3.5)</desc>
+        <desc>BanWolSung by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1JR2Q</url>
         <urlname>BanWolSung</urlname>
         <sym>Geocache</sym>
@@ -1442,13 +1382,12 @@ Please BYOP! (Bring your own pen)
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>1.5</ox:difficulty>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
@@ -1456,9 +1395,9 @@ Please BYOP! (Bring your own pen)
         </ox:opencaching>
     </wpt>
     <wpt lon="129.2185167" lat="35.8328833">
-        <time>2008-12-06T02:00:00.000-06:00</time>
+        <time>2008-12-06T08:00:00.000Z</time>
         <name>OX1JR2K</name>
-        <desc>Gyerim( Chicken Forest)  by Jiho Kim, Traditional Cache(1.5/2.0/3.5)</desc>
+        <desc>Gyerim( Chicken Forest)  by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1JR2K</url>
         <urlname>Gyerim( Chicken Forest) </urlname>
         <sym>Geocache</sym>
@@ -1471,13 +1410,12 @@ Please BYOP! (Bring your own pen)
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>1.5</ox:difficulty>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
@@ -1485,9 +1423,9 @@ Please BYOP! (Bring your own pen)
         </ox:opencaching>
     </wpt>
     <wpt lon="129.22555" lat="35.8354167">
-        <time>2008-12-06T02:00:00.000-06:00</time>
+        <time>2008-12-06T08:00:00.000Z</time>
         <name>OX1JR2V</name>
-        <desc>AnApji by Jiho Kim, Traditional Cache(1.5/1.5/3.5)</desc>
+        <desc>AnApji by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1JR2V</url>
         <urlname>AnApji</urlname>
         <sym>Geocache</sym>
@@ -1500,13 +1438,12 @@ Please BYOP! (Bring your own pen)
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Tree hall, not ground.</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>1.5</ox:difficulty>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
@@ -1514,9 +1451,9 @@ Please BYOP! (Bring your own pen)
         </ox:opencaching>
     </wpt>
     <wpt lon="129.2142667" lat="35.83615">
-        <time>2008-12-06T02:00:00.000-06:00</time>
+        <time>2008-12-06T08:00:00.000Z</time>
         <name>OX1JR2E</name>
-        <desc>CheonMaChong by Jiho Kim, Traditional Cache(1.5/1.5/3.5)</desc>
+        <desc>CheonMaChong by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1JR2E</url>
         <urlname>CheonMaChong</urlname>
         <sym>Geocache</sym>
@@ -1529,13 +1466,12 @@ Please BYOP! (Bring your own pen)
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>1.5</ox:difficulty>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
@@ -1543,7 +1479,7 @@ Please BYOP! (Bring your own pen)
         </ox:opencaching>
     </wpt>
     <wpt lon="129.41085" lat="35.9595333">
-        <time>2009-10-04T02:00:00.000-05:00</time>
+        <time>2009-10-04T07:00:00.000Z</time>
         <name>OX1ZEHG</name>
         <desc>Mundeok small park by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ZEHG</url>
@@ -1558,8 +1494,7 @@ Please BYOP! (Bring your own pen)
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1572,7 +1507,7 @@ Please BYOP! (Bring your own pen)
         </ox:opencaching>
     </wpt>
     <wpt lon="129.4379333" lat="35.9906">
-        <time>2010-04-17T02:00:00.000-05:00</time>
+        <time>2010-04-17T07:00:00.000Z</time>
         <name>OX26Y8N</name>
         <desc>Seokgok livrary by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX26Y8N</url>
@@ -1587,8 +1522,7 @@ Please BYOP! (Bring your own pen)
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1601,7 +1535,7 @@ Please BYOP! (Bring your own pen)
         </ox:opencaching>
     </wpt>
     <wpt lon="129.3664667" lat="36.0405333">
-        <time>2010-04-17T02:00:00.000-05:00</time>
+        <time>2010-04-17T07:00:00.000Z</time>
         <name>OX26Y8W</name>
         <desc>Origin road by Jiho Kim, Traditional Cache(2.0/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX26Y8W</url>
@@ -1616,8 +1550,7 @@ Please BYOP! (Bring your own pen)
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1630,7 +1563,7 @@ Please BYOP! (Bring your own pen)
         </ox:opencaching>
     </wpt>
     <wpt lon="129.0461167" lat="36.05225">
-        <time>2009-10-04T02:00:00.000-05:00</time>
+        <time>2009-10-04T07:00:00.000Z</time>
         <name>OX1ZEHK</name>
         <desc>Yeongcheonhyugeso by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ZEHK</url>
@@ -1645,8 +1578,7 @@ Please BYOP! (Bring your own pen)
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1659,7 +1591,7 @@ Please BYOP! (Bring your own pen)
         </ox:opencaching>
     </wpt>
     <wpt lon="129.04075" lat="36.0528833">
-        <time>2009-10-25T02:00:00.000-05:00</time>
+        <time>2009-10-25T07:00:00.000Z</time>
         <name>OX208DX</name>
         <desc>Yeongcheonhyugeso-2 by Jiho Kim, Traditional Cache(2.0/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX208DX</url>
@@ -1674,8 +1606,7 @@ Please BYOP! (Bring your own pen)
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Under stone</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1688,7 +1619,7 @@ Please BYOP! (Bring your own pen)
         </ox:opencaching>
     </wpt>
     <wpt lon="129.127867" lat="36.136933">
-        <time>2011-10-09T02:00:00.000-05:00</time>
+        <time>2011-10-09T07:00:00.000Z</time>
         <name>OX35NAZ</name>
         <desc>20111009 NDJM TaeHwaSan trail by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX35NAZ</url>
@@ -1705,11 +1636,11 @@ Please BYOP! (Bring your own pen)
             <groundspeak:terrain>1.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Gamgok-ri, Jukjang-myeon, Buk-gu, Pohang-si, Gyeongbuk,
 Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
-&lt;br/&gt;
-Spoiler&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
+&lt;br /&gt;
+Spoiler&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1719,14 +1650,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.138917" lat="36.1398">
-        <time>2011-10-09T02:00:00.000-05:00</time>
+        <time>2011-10-09T07:00:00.000Z</time>
         <name>OX35NAT</name>
         <desc>20111009 NDJM TaeHwaSan by Jiho Kim, Traditional Cache(2.0/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX35NAT</url>
@@ -1743,11 +1670,11 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:terrain>2.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Gamgok-ri, Jukjang-myeon, Buk-gu, Pohang-si, Gyeongbuk,
 Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
-&lt;br/&gt;
-Spoiler&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
+&lt;br /&gt;
+Spoiler&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1757,15 +1684,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>2.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Scenic view</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.185933" lat="36.164483">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VTC</name>
         <desc>20110925 DeokDongMunHwaMaEul by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VTC</url>
@@ -1782,9 +1704,9 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:terrain>1.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Odeok-ri, Gibuk-myeon, Buk-gu, Pohang-si, Gyeongbuk,
 Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1794,14 +1716,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Parking available</ox:tag>
-                <ox:tag>Scenic view</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.184183" lat="36.1954">
-        <time>2011-10-09T02:00:00.000-05:00</time>
+        <time>2011-10-09T07:00:00.000Z</time>
         <name>OX35N77</name>
         <desc>20111009 NDJM SaGwanRyeong by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX35N77</url>
@@ -1818,11 +1736,11 @@ Spoiler</groundspeak:long_description>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Seongbeop-ri, Gibuk-myeon, Buk-gu, Pohang-si, Gyeongbuk,
 Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
-&lt;br/&gt;
-Spoiler&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
+&lt;br /&gt;
+Spoiler&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1832,14 +1750,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.202317" lat="36.2081">
-        <time>2011-10-09T02:00:00.000-05:00</time>
+        <time>2011-10-09T07:00:00.000Z</time>
         <name>OX35N71</name>
         <desc>20111009 NDJM SeongBeopRyeong by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX35N71</url>
@@ -1856,11 +1770,11 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Seongbeop-ri, Gibuk-myeon, Buk-gu, Pohang-si, Gyeongbuk,
 Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
-&lt;br/&gt;
-Spoiler&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
+&lt;br /&gt;
+Spoiler&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1870,14 +1784,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Short hike (less than 1km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.2586333" lat="36.2150167">
-        <time>2009-10-25T02:00:00.000-05:00</time>
+        <time>2009-10-25T07:00:00.000Z</time>
         <name>OX208EX</name>
         <desc>Pin tree hole by Jiho Kim, Traditional Cache(2.0/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX208EX</url>
@@ -1892,8 +1802,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1906,7 +1815,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.2626833" lat="36.2162167">
-        <time>2009-10-25T02:00:00.000-05:00</time>
+        <time>2009-10-25T07:00:00.000Z</time>
         <name>OX208E6</name>
         <desc>Sumokwon Stone Tower by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX208E6</url>
@@ -1921,8 +1830,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1935,7 +1843,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.20275" lat="36.217533">
-        <time>2011-10-09T02:00:00.000-05:00</time>
+        <time>2011-10-09T07:00:00.000Z</time>
         <name>OX35N6Q</name>
         <desc>20111009 NDJM GSR~SBR trail by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX35N6Q</url>
@@ -1952,11 +1860,11 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Sang-ok-ri, Jukjang-myeon, Buk-gu, Pohang-si, Kyeongbuk,
 Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
-&lt;br/&gt;
-Spoiler&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
+&lt;br /&gt;
+Spoiler&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1966,14 +1874,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.26725" lat="36.2191">
-        <time>2009-10-25T02:00:00.000-05:00</time>
+        <time>2009-10-25T07:00:00.000Z</time>
         <name>OX208EE</name>
         <desc>Sasgasbong  by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX208EE</url>
@@ -1988,8 +1892,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2002,7 +1905,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.2572333" lat="36.2198333">
-        <time>2009-10-25T02:00:00.000-05:00</time>
+        <time>2009-10-25T07:00:00.000Z</time>
         <name>OX208EK</name>
         <desc>Sumokwon under stone by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX208EK</url>
@@ -2017,8 +1920,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2031,7 +1933,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.192533" lat="36.240733">
-        <time>2011-10-09T02:00:00.000-05:00</time>
+        <time>2011-10-09T07:00:00.000Z</time>
         <name>OX35N2B</name>
         <desc>20111009 NDJM TJJ~GSR trail #2 by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX35N2B</url>
@@ -2048,11 +1950,11 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Sang-ok-ri, Jukjang-myeon, Buk-gu, Pohang-si, Kyeongbuk,
 Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
-&lt;br/&gt;
-Spoiler&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
+&lt;br /&gt;
+Spoiler&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2062,14 +1964,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.19705" lat="36.248933">
-        <time>2011-10-09T02:00:00.000-05:00</time>
+        <time>2011-10-09T07:00:00.000Z</time>
         <name>OX35N1Y</name>
         <desc>20111009 NDJM TJJ~GSR trail #1 by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX35N1Y</url>
@@ -2086,11 +1984,11 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Sang-ok-ri, Jukjang-myeon, Buk-gu, Pohang-si, Gyeongbuk,
 Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
-&lt;br/&gt;
-Spoiler&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
+&lt;br /&gt;
+Spoiler&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2100,14 +1998,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.205467" lat="36.261367">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VT2</name>
         <desc>20110925 NDJM-TongJeomJae by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VT2</url>
@@ -2124,7 +2018,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:terrain>1.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Sang-ok-ri, Jukjang-myeon, Buk-gu, Pohang-si, Gyeongbuk,
 Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)</groundspeak:long_description>
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -2136,7 +2030,7 @@ Korea
         </ox:opencaching>
     </wpt>
     <wpt lon="129.2064" lat="36.26565">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VRR</name>
         <desc>20110925 NDJM-JilGoGae~TongJeomJae Trail #13 by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VRR</url>
@@ -2152,9 +2046,9 @@ Korea
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Junggi-ri, Bunam-myeon, Cheongsong-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2164,14 +2058,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.21165" lat="36.269467">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VRH</name>
         <desc>20110925 NDJM-JilGoGae~TongJeomJae Trail #12 by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VRH</url>
@@ -2187,9 +2077,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Junggi-ri, Bunam-myeon, Cheongsong-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2199,14 +2089,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.218983" lat="36.2722">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VRA</name>
         <desc>20110925 NDJM-JilGoGae~TongJeomJae Trail #11 by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VRA</url>
@@ -2222,9 +2108,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Ihyeon-ri, Bunam-myeon, Cheongsong-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2234,14 +2120,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.221483" lat="36.278467">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VR7</name>
         <desc>20110925 NDJM-JilGoGae~TongJeomJae Trail #10 by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VR7</url>
@@ -2257,9 +2139,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Ihyeon-ri, Bunam-myeon, Cheongsong-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2269,14 +2151,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.174383" lat="36.28275">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VNN</name>
         <desc>20110925 NDJM-PiNaMuJae~JilGoGae Trail #2 by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VNN</url>
@@ -2292,9 +2170,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Ra-ri, Budong-myeon, Cheongsong-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2304,14 +2182,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.223417" lat="36.284183">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VR3</name>
         <desc>20110925 NDJM-JilGoGae~TongJeomJae Trail #09 by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VR3</url>
@@ -2327,9 +2201,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Ihyeon-ri, Bunam-myeon, Cheongsong-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2339,14 +2213,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.009933" lat="36.285417">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VK7</name>
         <desc>20110925 MunGeoJaeHyuGeSo by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VK7</url>
@@ -2363,9 +2233,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:terrain>1.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Changyang-ri, Hyeondong-myeon, Cheongsong-gun,
 Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2375,16 +2245,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Public restrooms nearby</ox:tag>
-                <ox:tag>Parking available</ox:tag>
-                <ox:tag>Food Nearby</ox:tag>
-                <ox:tag>Stealth required</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.22325" lat="36.29035">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VQX</name>
         <desc>20110925 NDJM-JilGoGae~TongJeomJae Trail #08 by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VQX</url>
@@ -2400,9 +2264,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Ihyeon-ri, Bunam-myeon, Cheongsong-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2412,14 +2276,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.3770833" lat="36.2956833">
-        <time>2009-11-22T02:00:00.000-06:00</time>
+        <time>2009-11-22T08:00:00.000Z</time>
         <name>OX219GG</name>
         <desc>Gyeong-Bo Fossil Museum by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX219GG</url>
@@ -2434,8 +2294,7 @@ Spoiler</groundspeak:long_description>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2448,7 +2307,7 @@ Spoiler</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.223433" lat="36.29675">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VQR</name>
         <desc>20110925 NDJM-JilGoGae~TongJeomJae Trail #07 by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VQR</url>
@@ -2464,9 +2323,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Ihyeon-ri, Bunam-myeon, Cheongsong-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2476,14 +2335,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.1828" lat="36.30005">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VPA</name>
         <desc>20110925 NDJM-JilGoGae by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VPA</url>
@@ -2499,9 +2354,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Ra-ri, Budong-myeon, Cheongsong-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2514,7 +2369,7 @@ Spoiler</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.1924" lat="36.3003">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VPX</name>
         <desc>20110925 NDJM-JilGoGae~TongJeomJae Trail #02 by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VPX</url>
@@ -2530,9 +2385,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Ihyeon-ri, Bunam-myeon, Cheongsong-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2542,14 +2397,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.1873" lat="36.300267">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VPK</name>
         <desc>20110925 NDJM-JilGoGae~TongJeomJae Trail #01 by Jiho Kim, Traditional Cache(2.0/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VPK</url>
@@ -2565,9 +2416,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Ra-ri, Budong-myeon, Cheongsong-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2577,15 +2428,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Scenic view</ox:tag>
-                <ox:tag>Short hike (less than 1km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.199067" lat="36.3008">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VQ1</name>
         <desc>20110925 NDJM-JilGoGae~TongJeomJae Trail #03 by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VQ1</url>
@@ -2601,9 +2447,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Ihyeon-ri, Bunam-myeon, Cheongsong-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2613,14 +2459,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.220533" lat="36.301183">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VQC</name>
         <desc>20110925 NDJM-JilGoGae~TongJeomJae Trail #06 by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VQC</url>
@@ -2636,9 +2478,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Ihyeon-ri, Bunam-myeon, Cheongsong-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2648,14 +2490,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.208283" lat="36.301283">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VQ2</name>
         <desc>20110925 NDJM-JilGoGae~TongJeomJae Trail #04 by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VQ2</url>
@@ -2671,9 +2509,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Ihyeon-ri, Bunam-myeon, Cheongsong-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2683,14 +2521,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.216917" lat="36.3037">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VQA</name>
         <desc>20110925 NDJM-JilGoGae~TongJeomJae Trail #05 by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VQA</url>
@@ -2706,10 +2540,10 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Ihyeon-ri, Bunam-myeon, Cheongsong-gun, Gyeongbuk,
-Korea&lt;br/&gt;
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+Korea&lt;br /&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2719,14 +2553,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.1754" lat="36.30815">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VP4</name>
         <desc>20110925 NDJM-PiNaMuJae~JilGoGae Trail #4 by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VP4</url>
@@ -2742,9 +2572,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Ra-ri, Budong-myeon, Cheongsong-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2754,14 +2584,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.1725" lat="36.319667">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VNV</name>
         <desc>20110925 NDJM-PiNaMuJae~JilGoGae Trail #3 by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VNV</url>
@@ -2777,9 +2603,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Ra-ri, Budong-myeon, Cheongsong-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2789,14 +2615,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.180467" lat="36.335267">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VNE</name>
         <desc>20110925 NDJM-PiNaMuJae~JilGoGae Trail #1 by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VNE</url>
@@ -2812,9 +2634,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Ra-ri, Budong-myeon, Cheongsong-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2824,14 +2646,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.191633" lat="36.3392">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VN5</name>
         <desc>20110925 NDJM-PiNaMuJae by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VN5</url>
@@ -2847,9 +2665,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Ijeon-ri, Budong-myeon, Cheongsong-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2862,7 +2680,7 @@ Spoiler</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.2207" lat="36.353567">
-        <time>2011-08-28T02:00:00.000-05:00</time>
+        <time>2011-08-28T07:00:00.000Z</time>
         <name>OX335HW</name>
         <desc>20110828 USeolRyeong by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX335HW</url>
@@ -2879,7 +2697,7 @@ Spoiler</groundspeak:long_description>
             <groundspeak:terrain>1.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Naeryong-ri, Budong-myeon, Cheongsong-gun, Gyeongbuk,
 Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen).</groundspeak:long_description>
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen).</groundspeak:long_description>
             <groundspeak:encoded_hints>Magnetic</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2889,14 +2707,10 @@ Korea
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Parking available</ox:tag>
-                <ox:tag>Scenic view</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.199433" lat="36.35365">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VMZ</name>
         <desc>20110925 NDJM-ByeolBaWi~PiNaMuJae Trail by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VMZ</url>
@@ -2912,11 +2726,11 @@ Korea
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Naeryong-ri, Budong-myeon, Cheongsong-gun,
-Gyeongbuk,&lt;br/&gt;
+Gyeongbuk,&lt;br /&gt;
 Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2926,14 +2740,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.22035" lat="36.355167">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VKK</name>
         <desc>20110925 USeolRyeong Trail #1 by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VKK</url>
@@ -2950,9 +2760,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:terrain>1.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Naeryong-ri, Budong-myeon, Cheongsong-gun, Gyeongbuk,
 Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2962,14 +2772,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Short hike (less than 1km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.21815" lat="36.3601">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VMA</name>
         <desc>20110925 USeolRyeong Trail #2 by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VMA</url>
@@ -2985,11 +2791,11 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Naeryong-ri, Budong-myeon, Cheongsong-gun,
-Gyeongbuk,&lt;br/&gt;
+Gyeongbuk,&lt;br /&gt;
 Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -2999,14 +2805,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.209817" lat="36.361083">
-        <time>2011-09-25T02:00:00.000-05:00</time>
+        <time>2011-09-25T07:00:00.000Z</time>
         <name>OX34VMN</name>
         <desc>20110925 NDJM-ByeolBaWi by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX34VMN</url>
@@ -3022,11 +2824,11 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Naeryong-ri, Budong-myeon, Cheongsong-gun,
-Gyeongbuk,&lt;br/&gt;
+Gyeongbuk,&lt;br /&gt;
 Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3036,15 +2838,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Scenic view</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.224533" lat="36.377683">
-        <time>2011-08-28T02:00:00.000-05:00</time>
+        <time>2011-08-28T07:00:00.000Z</time>
         <name>OX335HQ</name>
         <desc>20110828 NDJM-Juwangsan trail #12 by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX335HQ</url>
@@ -3060,9 +2857,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Ijeon-ri, Budong-myeon, Cheongsong-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen).&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen).&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3072,14 +2869,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.221517" lat="36.388333">
-        <time>2011-08-28T02:00:00.000-05:00</time>
+        <time>2011-08-28T07:00:00.000Z</time>
         <name>OX335HG</name>
         <desc>20110828 NDJM-Juwangsan trail #11 by Jiho Kim, Traditional Cache(2.0/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX335HG</url>
@@ -3096,9 +2889,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:terrain>2.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Deoksan-ri, Dalsan-myeon, Yeongdeok-gun, Gyeongbuk,
 Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3108,14 +2901,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.22615" lat="36.399017">
-        <time>2011-08-28T02:00:00.000-05:00</time>
+        <time>2011-08-28T07:00:00.000Z</time>
         <name>OX335H3</name>
         <desc>20110828 NDJM-Juwangsan trail #10 by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX335H3</url>
@@ -3132,9 +2921,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:terrain>1.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Yongdeok-ri, Jipum-myeon, Yeongdeok-gun, Gyeongbuk,
 Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3144,14 +2933,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.4288" lat="36.4089833">
-        <time>2009-10-25T02:00:00.000-05:00</time>
+        <time>2009-10-25T07:00:00.000Z</time>
         <name>OX208F7</name>
         <desc>Changpori by Jiho Kim, Traditional Cache(2.0/1.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX208F7</url>
@@ -3166,8 +2951,7 @@ Spoiler</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>1</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3180,7 +2964,7 @@ Spoiler</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.4217167" lat="36.4149333">
-        <time>2009-10-25T02:00:00.000-05:00</time>
+        <time>2009-10-25T07:00:00.000Z</time>
         <name>OX208FA</name>
         <desc>Guide fence by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX208FA</url>
@@ -3195,8 +2979,7 @@ Spoiler</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3209,7 +2992,7 @@ Spoiler</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.3651167" lat="36.4178167">
-        <time>2009-11-22T02:00:00.000-06:00</time>
+        <time>2009-11-22T08:00:00.000Z</time>
         <name>OX219FV</name>
         <desc>Dream of Blue sea by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX219FV</url>
@@ -3224,8 +3007,7 @@ Spoiler</groundspeak:long_description>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3238,7 +3020,7 @@ Spoiler</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.4203667" lat="36.4239333">
-        <time>2009-10-25T02:00:00.000-05:00</time>
+        <time>2009-10-25T07:00:00.000Z</time>
         <name>OX208FP</name>
         <desc>Wind generators by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX208FP</url>
@@ -3253,8 +3035,7 @@ Spoiler</groundspeak:long_description>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3267,7 +3048,7 @@ Spoiler</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.18805" lat="36.426317">
-        <time>2011-08-28T02:00:00.000-05:00</time>
+        <time>2011-08-28T07:00:00.000Z</time>
         <name>OX3359Z</name>
         <desc>20110828 NDJM-Juwangsan trail #08 by Jiho Kim, Traditional Cache(2.0/3.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX3359Z</url>
@@ -3283,9 +3064,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Gisa-ri, Jipum-myeon, Yeongdeok-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3295,14 +3076,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>3.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Long Hike (+10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.184267" lat="36.429417">
-        <time>2011-08-28T02:00:00.000-05:00</time>
+        <time>2011-08-28T07:00:00.000Z</time>
         <name>OX3359X</name>
         <desc>20110828 NDJM-Juwangsan trail #07 by Jiho Kim, Traditional Cache(2.0/3.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX3359X</url>
@@ -3318,9 +3095,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Gisa-ri, Jipum-myeon, Yeongdeok-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3330,14 +3107,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>3.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Long Hike (+10km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.198067" lat="36.430267">
-        <time>2011-08-28T02:00:00.000-05:00</time>
+        <time>2011-08-28T07:00:00.000Z</time>
         <name>OX335A2</name>
         <desc>20110828 NDJM-Juwangsan trail #09 by Jiho Kim, Traditional Cache(2.0/3.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX335A2</url>
@@ -3353,9 +3126,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Gisa-ri, Jipum-myeon, Yeongdeok-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3365,14 +3138,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>3.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Long Hike (+10km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.171633" lat="36.43435">
-        <time>2011-08-28T02:00:00.000-05:00</time>
+        <time>2011-08-28T07:00:00.000Z</time>
         <name>OX3359K</name>
         <desc>20110828 NDJM-Juwangsan trail #06 by Jiho Kim, Traditional Cache(2.0/3.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX3359K</url>
@@ -3388,9 +3157,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Gisa-ri, Jipum-myeon, Yeongdeok-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3400,14 +3169,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>3.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Long Hike (+10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.170467" lat="36.436317">
-        <time>2011-08-28T02:00:00.000-05:00</time>
+        <time>2011-08-28T07:00:00.000Z</time>
         <name>OX3359E</name>
         <desc>20110828 NDJM-Juwangsan trail #05 by Jiho Kim, Traditional Cache(2.0/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX3359E</url>
@@ -3423,9 +3188,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Gisa-ri, Jipum-myeon, Yeongdeok-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3435,14 +3200,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.160167" lat="36.45325">
-        <time>2011-08-28T02:00:00.000-05:00</time>
+        <time>2011-08-28T07:00:00.000Z</time>
         <name>OX3359A</name>
         <desc>20110828 Daedunsan by Jiho Kim, Traditional Cache(1.5/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX3359A</url>
@@ -3458,9 +3219,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Gisa-ri, Jipum-myeon, Yeongdeok-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3470,14 +3231,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.160467" lat="36.459983">
-        <time>2011-08-28T02:00:00.000-05:00</time>
+        <time>2011-08-28T07:00:00.000Z</time>
         <name>OX33591</name>
         <desc>20110828 NDJM-Juwangsan trail #04 by Jiho Kim, Traditional Cache(2.0/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX33591</url>
@@ -3493,9 +3250,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Gisa-ri, Jipum-myeon, Yeongdeok-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3505,14 +3262,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.1528" lat="36.466917">
-        <time>2011-08-28T02:00:00.000-05:00</time>
+        <time>2011-08-28T07:00:00.000Z</time>
         <name>OX3358R</name>
         <desc>20110828 NDJM-Juwangsan trail #03 by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX3358R</url>
@@ -3528,9 +3281,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Jipum-ri, Jipum-myeon, Yeongdeok-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3540,14 +3293,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.149333" lat="36.4742">
-        <time>2011-08-28T02:00:00.000-05:00</time>
+        <time>2011-08-28T07:00:00.000Z</time>
         <name>OX3358J</name>
         <desc>20110828 NDJM-Juwangsan trail #02 by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX3358J</url>
@@ -3563,9 +3312,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Jipum-ri, Jipum-myeon, Yeongdeok-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3575,14 +3324,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.150333" lat="36.482383">
-        <time>2011-08-28T02:00:00.000-05:00</time>
+        <time>2011-08-28T07:00:00.000Z</time>
         <name>OX33589</name>
         <desc>20110828 NDJM-Juwangsan trail #01 by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX33589</url>
@@ -3598,9 +3343,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Jipum-ri, Jipum-myeon, Yeongdeok-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3610,14 +3355,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.224317" lat="36.489033">
-        <time>2011-08-14T02:00:00.000-05:00</time>
+        <time>2011-08-14T07:00:00.000Z</time>
         <name>OX32872</name>
         <desc>20110814 NDJM-YeoJeongBong by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX32872</url>
@@ -3633,9 +3374,9 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Seokbo-myeon, Yeongyang-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
-Please BYOP! (Bring your own pen)&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
+Please BYOP! (Bring your own pen)&lt;br /&gt;
+&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3645,14 +3386,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.15335" lat="36.48955">
-        <time>2009-11-22T02:00:00.000-06:00</time>
+        <time>2009-11-22T08:00:00.000Z</time>
         <name>OX219FQ</name>
         <desc>Nakdongjeongmaek(hwangjangjae) by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX219FQ</url>
@@ -3667,8 +3404,7 @@ Spoiler</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3681,7 +3417,7 @@ Spoiler</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.216467" lat="36.497083">
-        <time>2011-08-14T02:00:00.000-05:00</time>
+        <time>2011-08-14T07:00:00.000Z</time>
         <name>OX3287Z</name>
         <desc>20110814 NDJM-Pintree #59 by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX3287Z</url>
@@ -3697,8 +3433,8 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Seokbo-myeon, Yeongyang-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
-Please BYOP! (Bring your own pen)&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
+Please BYOP! (Bring your own pen)&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3708,15 +3444,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Off-road vehicles</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.214533" lat="36.499167">
-        <time>2011-08-14T02:00:00.000-05:00</time>
+        <time>2011-08-14T07:00:00.000Z</time>
         <name>OX3288F</name>
         <desc>20110814 NDJM-DangJip #2 by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX3288F</url>
@@ -3732,7 +3463,7 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Seokbo-myeon, Yeongyang-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
 Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3742,14 +3473,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.20385" lat="36.502233">
-        <time>2011-08-14T02:00:00.000-05:00</time>
+        <time>2011-08-14T07:00:00.000Z</time>
         <name>OX3288T</name>
         <desc>20110814 NDJM-Twin Pintree by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX3288T</url>
@@ -3765,8 +3492,8 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Seokbo-myeon, Yeongyang-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
-Please BYOP! (Bring your own pen)&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
+Please BYOP! (Bring your own pen)&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3779,7 +3506,7 @@ Spoiler</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.18125" lat="36.505817">
-        <time>2011-08-14T02:00:00.000-05:00</time>
+        <time>2011-08-14T07:00:00.000Z</time>
         <name>OX32899</name>
         <desc>20110814 NDJM-HwaMaeJae by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX32899</url>
@@ -3795,8 +3522,8 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Hwamae-ri, Seokbo-myeon, Yeongyang-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
-Please BYOP! (Bring your own pen)&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
+Please BYOP! (Bring your own pen)&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3806,14 +3533,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Parking available</ox:tag>
-                <ox:tag>Short hike (less than 1km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.2376" lat="36.51025">
-        <time>2011-08-14T02:00:00.000-05:00</time>
+        <time>2011-08-14T07:00:00.000Z</time>
         <name>OX3284G</name>
         <desc>20110814 NDJM-BakJeomGoGae by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX3284G</url>
@@ -3829,8 +3552,8 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Seokbo-myeon, Yeongyang-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
-Please BYOP! (Bring your own pen)&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
+Please BYOP! (Bring your own pen)&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3840,15 +3563,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Off-road vehicles</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.22625" lat="36.513833">
-        <time>2011-08-14T02:00:00.000-05:00</time>
+        <time>2011-08-14T07:00:00.000Z</time>
         <name>OX32850</name>
         <desc>20110814 NDJM-PodoSan intersection by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX32850</url>
@@ -3864,8 +3582,8 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Seokbo-myeon, Yeongyang-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
-Please BYOP! (Bring your own pen)&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
+Please BYOP! (Bring your own pen)&lt;br /&gt;
 Spoiler</groundspeak:long_description>
             <groundspeak:encoded_hints>Under stone behind pin tree</groundspeak:encoded_hints>
         </groundspeak:cache>
@@ -3879,7 +3597,7 @@ Spoiler</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.225283" lat="36.515633">
-        <time>2011-08-14T02:00:00.000-05:00</time>
+        <time>2011-08-14T07:00:00.000Z</time>
         <name>OX3286T</name>
         <desc>20110814 PoDoSan SamGeoRi by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX3286T</url>
@@ -3895,8 +3613,8 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Seokbo-myeon, Yeongyang-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
-Please BYOP! (Bring your own pen)&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
+Please BYOP! (Bring your own pen)&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3906,14 +3624,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.245317" lat="36.516567">
-        <time>2011-08-14T02:00:00.000-05:00</time>
+        <time>2011-08-14T07:00:00.000Z</time>
         <name>OX3283P</name>
         <desc>20110814 NDJM-MyeongDongSan by Jiho Kim, Traditional Cache(1.5/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX3283P</url>
@@ -3929,7 +3643,7 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Seokbo-myeon, Yeongyang-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
 Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3939,15 +3653,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Scenic view</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.224917" lat="36.520183">
-        <time>2011-08-14T02:00:00.000-05:00</time>
+        <time>2011-08-14T07:00:00.000Z</time>
         <name>OX32867</name>
         <desc>20110814 Top of the PodoSan by Jiho Kim, Traditional Cache(2.0/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX32867</url>
@@ -3963,8 +3672,8 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Seokbo-myeon, Yeongyang-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
-Please BYOP! (Bring your own pen)&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
+Please BYOP! (Bring your own pen)&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -3974,14 +3683,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.2375" lat="36.538083">
-        <time>2011-08-14T02:00:00.000-05:00</time>
+        <time>2011-08-14T07:00:00.000Z</time>
         <name>OX32837</name>
         <desc>20110814 NDJM-BongSuDae by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX32837</url>
@@ -3997,8 +3702,8 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Seokbo-myeon, Yeongyang-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
-Please BYOP! (Bring your own pen)&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
+Please BYOP! (Bring your own pen)&lt;br /&gt;
 Spoiler</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -4008,15 +3713,10 @@ Spoiler</groundspeak:long_description>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Not Recommended for kids</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.239883" lat="36.545567">
-        <time>2011-08-14T02:00:00.000-05:00</time>
+        <time>2011-08-14T07:00:00.000Z</time>
         <name>OX3281M</name>
         <desc>20110814 NDJM-Wind power generator #5 by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX3281M</url>
@@ -4032,7 +3732,7 @@ Spoiler</groundspeak:long_description>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Seokbo-myeon, Yeongyang-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
 Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:encoded_hints>Magnet</groundspeak:encoded_hints>
         </groundspeak:cache>
@@ -4043,16 +3743,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Parking available</ox:tag>
-                <ox:tag>Short hike (less than 1km)</ox:tag>
-                <ox:tag>Off-road vehicles</ox:tag>
-                <ox:tag>Scenic view</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.216467" lat="36.590183">
-        <time>2011-07-24T02:00:00.000-05:00</time>
+        <time>2011-07-24T07:00:00.000Z</time>
         <name>OX30RCK</name>
         <desc>20110724 NDJM-DangJip by Jiho Kim, Traditional Cache(2.0/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX30RCK</url>
@@ -4069,7 +3763,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:terrain>2.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Yanggu-ri, Yeongyang-eup, Yeongyang-gun, Gyeongbuk,
 Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
 Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -4079,14 +3773,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.218083" lat="36.59275">
-        <time>2011-07-24T02:00:00.000-05:00</time>
+        <time>2011-07-24T07:00:00.000Z</time>
         <name>OX30RCC</name>
         <desc>20110724 NDJM-UlChiJae by Jiho Kim, Traditional Cache(2.0/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX30RCC</url>
@@ -4103,7 +3793,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:terrain>2.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Yanggu-ri, Yeongyang-eup, Yeongyang-gun, Gyeongbuk,
 Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
 Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -4113,14 +3803,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.4105167" lat="36.6020667">
-        <time>2009-11-22T02:00:00.000-06:00</time>
+        <time>2009-11-22T08:00:00.000Z</time>
         <name>OX219GA</name>
         <desc>Byeonggok myeonsamuso by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX219GA</url>
@@ -4135,8 +3821,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Under rock</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -4149,7 +3834,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.2384" lat="36.612083">
-        <time>2011-07-24T02:00:00.000-05:00</time>
+        <time>2011-07-24T07:00:00.000Z</time>
         <name>OX30RC1</name>
         <desc>20110724 NDJM-ChangSuRyeong by Jiho Kim, Traditional Cache(2.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX30RC1</url>
@@ -4165,7 +3850,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Changsu-ri, Changsu-myeon, Yeongdeok-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
 Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -4175,14 +3860,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Short hike (less than 1km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.247517" lat="36.61465">
-        <time>2011-07-24T02:00:00.000-05:00</time>
+        <time>2011-07-24T07:00:00.000Z</time>
         <name>OX30RBQ</name>
         <desc>20110724 NDJM-DokGyeongSan by Jiho Kim, Traditional Cache(1.5/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX30RBQ</url>
@@ -4198,7 +3879,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Changsu-ri, Changsu-myeon, Yeongdeok-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
 Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -4208,14 +3889,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.252283" lat="36.623067">
-        <time>2011-07-24T02:00:00.000-05:00</time>
+        <time>2011-07-24T07:00:00.000Z</time>
         <name>OX30RBE</name>
         <desc>20110724 NDJM-Imdo by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX30RBE</url>
@@ -4232,7 +3909,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Changsu-ri, Changsu-myeon, Yeongdeok-gun, Gyeongbuk,
 Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
 Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:encoded_hints>Under stone</groundspeak:encoded_hints>
         </groundspeak:cache>
@@ -4243,14 +3920,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.2572" lat="36.66985">
-        <time>2011-06-12T02:00:00.000-05:00</time>
+        <time>2011-06-12T07:00:00.000Z</time>
         <name>OX2Y2H2</name>
         <desc>20110612 NDJM-SamSeungRyeong by Jiho Kim, Traditional Cache(2.0/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2Y2H2</url>
@@ -4266,7 +3939,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Gisan-ri, Yeongyang-eup, Yeongyang-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
 Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -4276,15 +3949,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Short hike (less than 1km)</ox:tag>
-                <ox:tag>Parking available</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.4617167" lat="36.6819833">
-        <time>2009-11-22T02:00:00.000-06:00</time>
+        <time>2009-11-22T08:00:00.000Z</time>
         <name>OX219G1</name>
         <desc>Deunggisan Park by Jiho Kim, Traditional Cache(2.0/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX219G1</url>
@@ -4299,8 +3967,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Rock hole</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -4313,7 +3980,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.279333" lat="36.6823">
-        <time>2011-06-12T02:00:00.000-05:00</time>
+        <time>2011-06-12T07:00:00.000Z</time>
         <name>OX2Y2GW</name>
         <desc>20110612 NDJM-WisSamSeungRyeong by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2Y2GW</url>
@@ -4329,7 +3996,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Gisan-ri, Yeongyang-eup, Yeongyang-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
 Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:encoded_hints>on the big pin-tree</groundspeak:encoded_hints>
         </groundspeak:cache>
@@ -4340,15 +4007,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Off-road vehicles</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.2992" lat="36.716533">
-        <time>2011-06-12T02:00:00.000-05:00</time>
+        <time>2011-06-12T07:00:00.000Z</time>
         <name>OX2Y2GM</name>
         <desc>20110612 BaekAmSan by Jiho Kim, Traditional Cache(2.0/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2Y2GM</url>
@@ -4364,8 +4026,8 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Onjeong-ri, Onjeong-myeon, Uljin-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
+&lt;br /&gt;
 Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -4375,15 +4037,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>2.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Scenic view</ox:tag>
-                <ox:tag>May require wading</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.185033" lat="36.7279">
-        <time>2011-05-22T02:00:00.000-05:00</time>
+        <time>2011-05-22T07:00:00.000Z</time>
         <name>OX2WPE7</name>
         <desc>20110522 NDJM-ChuRyeong by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2WPE7</url>
@@ -4407,14 +4064,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Short hike (less than 1km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.217417" lat="36.735717">
-        <time>2011-05-22T02:00:00.000-05:00</time>
+        <time>2011-05-22T07:00:00.000Z</time>
         <name>OX2WPEJ</name>
         <desc>20110522 NDJM-DeokJae by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2WPEJ</url>
@@ -4430,7 +4083,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Ogi-ri, Subi-myeon, Yeongyang-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
 Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -4440,13 +4093,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Parking available</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.242767" lat="36.737433">
-        <time>2011-06-12T02:00:00.000-05:00</time>
+        <time>2011-06-12T07:00:00.000Z</time>
         <name>OX2Y2F0</name>
         <desc>20110612 NDJM-Galmisan by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2Y2F0</url>
@@ -4462,7 +4112,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Sinwon-ri, Subi-myeon, Yeongyang-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
 Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -4472,14 +4122,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.233817" lat="36.739517">
-        <time>2011-06-12T02:00:00.000-05:00</time>
+        <time>2011-06-12T07:00:00.000Z</time>
         <name>OX2Y2E1</name>
         <desc>20110612 NDJM-Under pin-tree by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2Y2E1</url>
@@ -4495,8 +4141,8 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Sinwon-ri, Subi-myeon, Yeongyang-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
+&lt;br /&gt;
 Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -4506,15 +4152,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Off-road vehicles</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.24515" lat="36.74095">
-        <time>2011-06-12T02:00:00.000-05:00</time>
+        <time>2011-06-12T07:00:00.000Z</time>
         <name>OX2Y2FF</name>
         <desc>20110612 NDJM-T crossroad by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2Y2FF</url>
@@ -4530,7 +4171,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Sinwon-ri, Subi-myeon, Yeongyang-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
 Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -4540,15 +4181,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Off-road vehicles</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.253733" lat="36.745283">
-        <time>2011-06-12T02:00:00.000-05:00</time>
+        <time>2011-06-12T07:00:00.000Z</time>
         <name>OX2Y2G2</name>
         <desc>20110612 NDJM-GeomMaSan by Jiho Kim, Traditional Cache(1.5/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2Y2G2</url>
@@ -4564,7 +4200,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Location : Sinwon-ri, Subi-myeon, Yeongyang-gun, Gyeongbuk, Korea
- &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
 Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:encoded_hints>Magnetic</groundspeak:encoded_hints>
         </groundspeak:cache>
@@ -4575,15 +4211,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Scenic view</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.189833" lat="36.764617">
-        <time>2011-05-22T02:00:00.000-05:00</time>
+        <time>2011-05-22T07:00:00.000Z</time>
         <name>OX2WPDH</name>
         <desc>20110522 NDJM-HanTiJae by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2WPDH</url>
@@ -4598,8 +4229,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Location : Gye-ri, Subi-myeon, Yeongyang-gun, Gyeongbuk,
-Korea</groundspeak:long_description>
+            <groundspeak:long_description html="True">Location : Gye-ri, Subi-myeon, Yeongyang-gun, Gyeongbuk,&lt;br/&gt;Korea</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -4608,17 +4238,10 @@ Korea</groundspeak:long_description>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Dogs</ox:tag>
-                <ox:tag>Parking available</ox:tag>
-                <ox:tag>Stealth required</ox:tag>
-                <ox:tag>Bicycles</ox:tag>
-                <ox:tag>Short hike (less than 1km)</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.1875" lat="36.785867">
-        <time>2011-05-22T02:00:00.000-05:00</time>
+        <time>2011-05-22T07:00:00.000Z</time>
         <name>OX2WPD5</name>
         <desc>20110522 NDJM-GilDeungJae by Jiho Kim, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2WPD5</url>
@@ -4642,15 +4265,10 @@ Korea</groundspeak:long_description>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Not Recommended for kids</ox:tag>
-                <ox:tag>Short hike (less than 1km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.4214667" lat="36.87325">
-        <time>2009-03-14T02:00:00.000-05:00</time>
+        <time>2009-03-14T07:00:00.000Z</time>
         <name>OX1NR7B</name>
         <desc>Mangyanghyugeso by Jiho Kim, Traditional Cache(2.0/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1NR7B</url>
@@ -4665,9 +4283,7 @@ Korea</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
- 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt; &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Flat</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -4680,7 +4296,7 @@ Korea</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.159983" lat="36.874767">
-        <time>2011-05-08T02:00:00.000-05:00</time>
+        <time>2011-05-08T07:00:00.000Z</time>
         <name>OX2VTEC</name>
         <desc>20110508 NDJM-AeMiRangJae by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2VTEC</url>
@@ -4695,9 +4311,7 @@ Korea</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">애미랑재는 영양군 신암리에서 봉화군 남회룡을 잇는 도로다. 
- 애미랑재(애매랑재?)는 광비령이라고도 불리우며,
- 정맥 구간종주시 남회룡마을로 내려서는 구간접속점으로 많이 활용되는 곳이며 왼쪽은 민물고기의 천국이라 할 만큼 자연생태계의 보고인 왕피천의 상류가 되는 신암천, 오른편으로 흘러내린 물은 회룡천의 지계곡이 되어 답운치 아래에서 광비천으로 이름을 바꾼 후 낙동강으로 흘러든다.</groundspeak:long_description>
+            <groundspeak:long_description html="True">애미랑재는 영양군 신암리에서 봉화군 남회룡을 잇는 도로다. &lt;br/&gt; 애미랑재(애매랑재?)는 광비령이라고도 불리우며,&lt;br/&gt; 정맥 구간종주시 남회룡마을로 내려서는 구간접속점으로 많이 활용되는 곳이며 왼쪽은 민물고기의 천국이라 할 만큼 자연생태계의 보고인 왕피천의 상류가 되는 신암천, 오른편으로 흘러내린 물은 회룡천의 지계곡이 되어 답운치 아래에서 광비천으로 이름을 바꾼 후 낙동강으로 흘러든다.</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -4706,13 +4320,10 @@ Korea</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Stealth required</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.19215" lat="36.8985">
-        <time>2011-05-08T02:00:00.000-05:00</time>
+        <time>2011-05-08T07:00:00.000Z</time>
         <name>OX2VTDT</name>
         <desc>20110508 NDJM-TongGoSan by Jiho Kim, Traditional Cache(2.0/3.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2VTDT</url>
@@ -4727,16 +4338,7 @@ Korea</groundspeak:long_description>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">Location : Samgeun-ri, Seo-myeon, Uljin-gun, Gyeongbuk, Korea
-
-한국의 계곡을 대표하는 불영계곡과 인적이 끊긴 내천인 왕피천을 가슴에 품고 있는 산이다. 낙동정맥의 주맥으로 울창한 원시림과 맑은 물은 가히 선경(仙境)을 방불케한다. 단지 교통이 불편해서 찾기 어렵다는 단점이 있지만, 마음먹고 찾아간 사람들에게는 자연이 줄 수 있는 최상의 선물을 분명 안겨주는 곳이다. 산 입구에는 통고산 자연휴양림이 조성되어 있다.
-
-등산코스
-관리사무소　-　임도고개　-　정상　-　제4야영장　-　관리사무소 : (4시간)
-교통
-중앙고속도 영주IC -&amp;gt; 봉화 -&amp;gt; 36번국도(울진방면) -&amp;gt; 서면 상전리
-대중교통
-울진-통고산자연휴양림(1일 4회 시내버스 운행)</groundspeak:long_description>
+            <groundspeak:long_description html="True">Location : Samgeun-ri, Seo-myeon, Uljin-gun, Gyeongbuk, Korea&lt;br/&gt;&lt;br/&gt;한국의 계곡을 대표하는 불영계곡과 인적이 끊긴 내천인 왕피천을 가슴에 품고 있는 산이다. 낙동정맥의 주맥으로 울창한 원시림과 맑은 물은 가히 선경(仙境)을 방불케한다. 단지 교통이 불편해서 찾기 어렵다는 단점이 있지만, 마음먹고 찾아간 사람들에게는 자연이 줄 수 있는 최상의 선물을 분명 안겨주는 곳이다. 산 입구에는 통고산 자연휴양림이 조성되어 있다.&lt;br/&gt;&lt;br/&gt;등산코스&lt;br/&gt;관리사무소　-　임도고개　-　정상　-　제4야영장　-　관리사무소 : (4시간)&lt;br/&gt;교통&lt;br/&gt;중앙고속도 영주IC -&amp;gt; 봉화 -&amp;gt; 36번국도(울진방면) -&amp;gt; 서면 상전리&lt;br/&gt;대중교통&lt;br/&gt;울진-통고산자연휴양림(1일 4회 시내버스 운행)</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -4745,14 +4347,10 @@ Korea</groundspeak:long_description>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>3.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Significant Hike</ox:tag>
-                <ox:tag>Scenic view</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.148933" lat="36.929133">
-        <time>2011-04-24T02:00:00.000-05:00</time>
+        <time>2011-04-24T07:00:00.000Z</time>
         <name>OX2TW80</name>
         <desc>20110424 NDJM-DapUnChi by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2TW80</url>
@@ -4770,8 +4368,8 @@ Korea</groundspeak:long_description>
             <groundspeak:long_description html="True">경상북도
 울진군서면
 쌍전리와광회리의
-경계에있는 고개.&lt;br/&gt;
- &lt;br/&gt;&lt;br/&gt; 늘 안개가 끼어 있어
+경계에있는 고개.&lt;br /&gt;
+ &lt;br /&gt;&lt;br /&gt; 늘 안개가 끼어 있어
 마치 구름을 밟고
 넘는 듯한 고개라
 하여
@@ -4792,14 +4390,10 @@ Korea</groundspeak:long_description>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Stealth required</ox:tag>
-                <ox:tag>Parking available</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.043483" lat="37.064317">
-        <time>2011-04-10T02:00:00.000-05:00</time>
+        <time>2011-04-10T07:00:00.000Z</time>
         <name>OX2RXQR</name>
         <desc>20110410 YukSongJeongSamGeoRi-DaeHyeonGyo by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2RXQR</url>
@@ -4823,18 +4417,10 @@ Korea</groundspeak:long_description>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Public restrooms nearby</ox:tag>
-                <ox:tag>Picnic tables nearby</ox:tag>
-                <ox:tag>Short hike (less than 1km)</ox:tag>
-                <ox:tag>Parking available</ox:tag>
-                <ox:tag>Food Nearby</ox:tag>
-                <ox:tag>Stealth required</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.132733" lat="37.082733">
-        <time>2011-04-10T02:00:00.000-05:00</time>
+        <time>2011-04-10T07:00:00.000Z</time>
         <name>OX2RXNW</name>
         <desc>20110410 NDJM-SeokGaeJae by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2RXNW</url>
@@ -4861,7 +4447,7 @@ Korea</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.0430167" lat="37.0925333">
-        <time>2009-06-27T02:00:00.000-05:00</time>
+        <time>2009-06-27T07:00:00.000Z</time>
         <name>OX1V7YY</name>
         <desc>Gumunso by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1V7YY</url>
@@ -4876,8 +4462,7 @@ Korea</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -4890,7 +4475,7 @@ Korea</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.068917" lat="37.15855">
-        <time>2011-04-10T02:00:00.000-05:00</time>
+        <time>2011-04-10T07:00:00.000Z</time>
         <name>OX2RXMA</name>
         <desc>20110410 Top of the BaekByeongSan-1259m by Jiho Kim, Traditional Cache(1.5/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2RXMA</url>
@@ -4905,77 +4490,7 @@ Korea</groundspeak:long_description>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Location : Baeksan-dong, Taebaek-si, Gangwon-do, Korea
-
-백병산 산행안내
-태백 동쪽 경계에 있는 백병산(1,259m)은 태백 시계의 연봉중에 있으며,
-백두대간 피재에서 시작해 다대포에 이르는낙동정맥에서 가장 높은 산이다.
-정상 부근에는 병풍을 펼친 듯한 바위절벽(병풍바위)이 있는데 가뭄 때는 흰빛으로 보이고,
-비가 올 때는 검은 빛을 낸다고 하여 백산 또는 백병산이라 전한다.
-산행들머리는 38번 국도상의 통보탄광이 있는 통골 입구의 기차굴 다리다. 
-통골 왼편은 고랭지 채소밭이고 오른편이 백병산이며 계곡에서는 고비덕재에서
-발원한 물소리가 들린다. 
-길은 또렷하지만 발길이 뜸한 산길의 호젓함을 느끼기에 좋다. 
-등산로 도중에 백병산 코스를 알리는 안내판을 두엇 지나고 마침내 입구를 떠난 지
-1시간 가량이면 헬기장이 있는 고비덕재에 도착한다.
-고비덕이란 양치식물 고비가 많이 있는 언덕이란 뜻인데 봄철이면 각종 보호식물들이
-자생하고 있다.
-이곳은 옛날 황지 주민들이 동해로 소금을 구하기 위해 넘던 옛길이다. 한편
-고비덕에서 오르막을 20분 오르면 갈림길을 만날 수 있다.
-왼편으로는
-낙동정맥
-종주길이며
-오른편은 백병산
-정상으로 오르는
-길이다. 정상은
-서너평으로
-사각점이 있다.
-정상부근 칼날능선
-마고할미성터,
-연꽃바우,
-마고할미통시바우
-등이 줄을 선 끝으로
-병풍바우가 보인다.
-지금까지 지나온
-통골이 발아래 있다.
-하산은
-통보탄광쪽을
-내려가면
-원점회귀산행이
-된다. 하산길에서
-유의할 점은 오른쪽
-능선으로 난
-갈림길을 찾는
-일이다.
-통보탄광쪽은
-서릉을 따라가면
-된다. 정상에서
-내려와 서쪽으로
-향하면 50m의 암봉이
-나타난다. 촛대처럼
-생겼다하여
-촛대바우라 하는데
-이곳에서의 조망도
-좋다. 산길이 험하고
-독도가 어려우므로
-경험자를 동반하는
-게 좋다. 오르막길의
-어지러운 산판길은
-헷갈리기 쉬운
-길이고 잎갈나무
-군락지인 큰덕은
-낙동정맥팀도
-헤매는 곳이다.
-산행거리 10km에
-소요시간은 5시간쯤
-걸린다. *교통
-태백에서 통리로
-가는 버스는 06:10부터
-11:50까지 시내버스와
-통리를 경유해 포항,
-경주, 삼척 방면으로
-가는 완행과 직행이
-수시로 있다. </groundspeak:long_description>
+            <groundspeak:long_description html="True">Location : Baeksan-dong, Taebaek-si, Gangwon-do, Korea&lt;br/&gt;&lt;br/&gt;백병산 산행안내&lt;br/&gt;태백 동쪽 경계에 있는 백병산(1,259m)은 태백 시계의 연봉중에 있으며,&lt;br/&gt;백두대간 피재에서 시작해 다대포에 이르는낙동정맥에서 가장 높은 산이다.&lt;br/&gt;정상 부근에는 병풍을 펼친 듯한 바위절벽(병풍바위)이 있는데 가뭄 때는 흰빛으로 보이고,&lt;br/&gt;비가 올 때는 검은 빛을 낸다고 하여 백산 또는 백병산이라 전한다.&lt;br/&gt;산행들머리는 38번 국도상의 통보탄광이 있는 통골 입구의 기차굴 다리다. &lt;br/&gt;통골 왼편은 고랭지 채소밭이고 오른편이 백병산이며 계곡에서는 고비덕재에서&lt;br/&gt;발원한 물소리가 들린다. &lt;br/&gt;길은 또렷하지만 발길이 뜸한 산길의 호젓함을 느끼기에 좋다. &lt;br/&gt;등산로 도중에 백병산 코스를 알리는 안내판을 두엇 지나고 마침내 입구를 떠난 지&lt;br/&gt;1시간 가량이면 헬기장이 있는 고비덕재에 도착한다.&lt;br/&gt;고비덕이란 양치식물 고비가 많이 있는 언덕이란 뜻인데 봄철이면 각종 보호식물들이&lt;br/&gt;자생하고 있다.&lt;br/&gt;이곳은 옛날 황지 주민들이 동해로 소금을 구하기 위해 넘던 옛길이다. 한편&lt;br/&gt;고비덕에서 오르막을 20분 오르면 갈림길을 만날 수 있다.&lt;br/&gt;왼편으로는&lt;br/&gt;낙동정맥&lt;br/&gt;종주길이며&lt;br/&gt;오른편은 백병산&lt;br/&gt;정상으로 오르는&lt;br/&gt;길이다. 정상은&lt;br/&gt;서너평으로&lt;br/&gt;사각점이 있다.&lt;br/&gt;정상부근 칼날능선&lt;br/&gt;마고할미성터,&lt;br/&gt;연꽃바우,&lt;br/&gt;마고할미통시바우&lt;br/&gt;등이 줄을 선 끝으로&lt;br/&gt;병풍바우가 보인다.&lt;br/&gt;지금까지 지나온&lt;br/&gt;통골이 발아래 있다.&lt;br/&gt;하산은&lt;br/&gt;통보탄광쪽을&lt;br/&gt;내려가면&lt;br/&gt;원점회귀산행이&lt;br/&gt;된다. 하산길에서&lt;br/&gt;유의할 점은 오른쪽&lt;br/&gt;능선으로 난&lt;br/&gt;갈림길을 찾는&lt;br/&gt;일이다.&lt;br/&gt;통보탄광쪽은&lt;br/&gt;서릉을 따라가면&lt;br/&gt;된다. 정상에서&lt;br/&gt;내려와 서쪽으로&lt;br/&gt;향하면 50m의 암봉이&lt;br/&gt;나타난다. 촛대처럼&lt;br/&gt;생겼다하여&lt;br/&gt;촛대바우라 하는데&lt;br/&gt;이곳에서의 조망도&lt;br/&gt;좋다. 산길이 험하고&lt;br/&gt;독도가 어려우므로&lt;br/&gt;경험자를 동반하는&lt;br/&gt;게 좋다. 오르막길의&lt;br/&gt;어지러운 산판길은&lt;br/&gt;헷갈리기 쉬운&lt;br/&gt;길이고 잎갈나무&lt;br/&gt;군락지인 큰덕은&lt;br/&gt;낙동정맥팀도&lt;br/&gt;헤매는 곳이다.&lt;br/&gt;산행거리 10km에&lt;br/&gt;소요시간은 5시간쯤&lt;br/&gt;걸린다. *교통&lt;br/&gt;태백에서 통리로&lt;br/&gt;가는 버스는 06:10부터&lt;br/&gt;11:50까지 시내버스와&lt;br/&gt;통리를 경유해 포항,&lt;br/&gt;경주, 삼척 방면으로&lt;br/&gt;가는 완행과 직행이&lt;br/&gt;수시로 있다. </groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -4984,15 +4499,10 @@ Korea</groundspeak:long_description>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>2.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Scenic view</ox:tag>
-                <ox:tag>Medium hike (1km-10km)</ox:tag>
-                <ox:tag>Significant Hike</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.0484" lat="37.1797">
-        <time>2010-03-21T02:00:00.000-05:00</time>
+        <time>2010-03-21T07:00:00.000Z</time>
         <name>OX25CX1</name>
         <desc>Miin waterfall by Jiho Kim, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX25CX1</url>
@@ -5007,8 +4517,7 @@ Korea</groundspeak:long_description>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -5021,7 +4530,7 @@ Korea</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.3266833" lat="37.2696167">
-        <time>2010-01-09T02:00:00.000-06:00</time>
+        <time>2010-01-09T08:00:00.000Z</time>
         <name>OX22TNJ</name>
         <desc>HaeSinDang park by Jiho Kim, Traditional Cache(2.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX22TNJ</url>
@@ -5036,8 +4545,7 @@ Korea</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Magnet</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -5050,9 +4558,9 @@ Korea</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.3226667" lat="37.2723333">
-        <time>2010-01-09T02:00:00.000-06:00</time>
+        <time>2010-01-09T08:00:00.000Z</time>
         <name>OX22TNK</name>
-        <desc>HaeSinDang parking area by Jiho Kim, Traditional Cache(1.5/1.5/3.5)</desc>
+        <desc>HaeSinDang parking area by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX22TNK</url>
         <urlname>HaeSinDang parking area</urlname>
         <sym>Geocache</sym>
@@ -5065,13 +4573,12 @@ Korea</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>1.5</ox:difficulty>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
@@ -5079,7 +4586,7 @@ Korea</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.32275" lat="37.272383">
-        <time>2011-07-03T02:00:00.000-05:00</time>
+        <time>2011-07-03T07:00:00.000Z</time>
         <name>OX2ZDVY</name>
         <desc>20110709 HaeSinDang park by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2ZDVY</url>
@@ -5094,9 +4601,7 @@ Korea</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Location : Gallam-ri, Wondeok-eup, Samcheok-si, Gangwon-do, Korea
-
-Please BYOP! (Bring your own pen)</groundspeak:long_description>
+            <groundspeak:long_description html="True">Location : Gallam-ri, Wondeok-eup, Samcheok-si, Gangwon-do, Korea&lt;br/&gt;&lt;br/&gt;Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:encoded_hints>Magnetic</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -5106,14 +4611,10 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Stealth required</ox:tag>
-                <ox:tag>Parking available</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.3232167" lat="37.2809">
-        <time>2010-01-09T02:00:00.000-06:00</time>
+        <time>2010-01-09T08:00:00.000Z</time>
         <name>OX22TNN</name>
         <desc>GalNamHang View by Jiho Kim, Traditional Cache(2.0/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX22TNN</url>
@@ -5128,8 +4629,7 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Magnetic</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -5142,9 +4642,9 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="129.0127833" lat="37.3846333">
-        <time>2010-07-24T02:00:00.000-05:00</time>
+        <time>2010-07-24T07:00:00.000Z</time>
         <name>OX2CB0W</name>
-        <desc>Baekdudaegan(Daetjae) by Jiho Kim, Traditional Cache(1.5/1.5/3.5)</desc>
+        <desc>Baekdudaegan(Daetjae) by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2CB0W</url>
         <urlname>Baekdudaegan(Daetjae)</urlname>
         <sym>Geocache</sym>
@@ -5157,16 +4657,12 @@ Please BYOP! (Bring your own pen)</groundspeak:long_description>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">
-
-
-Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>1.5</ox:difficulty>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
@@ -5174,7 +4670,7 @@ Please BYOP! (Bring your own pen)
         </ox:opencaching>
     </wpt>
     <wpt lon="129.1609" lat="37.4752167">
-        <time>2009-02-18T02:00:00.000-06:00</time>
+        <time>2009-02-18T08:00:00.000Z</time>
         <name>OX1MW3V</name>
         <desc>Jeungsan beach by Jiho Kim, Traditional Cache(3.0/2.0/3.5)</desc>
         <url>http://www.opencaching.com/#geocache/OX1MW3V</url>
@@ -5189,8 +4685,7 @@ Please BYOP! (Bring your own pen)
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Magnet</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -5203,7 +4698,7 @@ Please BYOP! (Bring your own pen)
         </ox:opencaching>
     </wpt>
     <wpt lon="129.1577167" lat="37.4783333">
-        <time>2009-02-18T02:00:00.000-06:00</time>
+        <time>2009-02-18T08:00:00.000Z</time>
         <name>OX1MW3F</name>
         <desc>Chuam Staion by Jiho Kim, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1MW3F</url>
@@ -5218,8 +4713,7 @@ Please BYOP! (Bring your own pen)
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Magnet</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -5232,7 +4726,7 @@ Please BYOP! (Bring your own pen)
         </ox:opencaching>
     </wpt>
     <wpt lon="129.0552333" lat="37.6572667">
-        <time>2009-02-18T02:00:00.000-06:00</time>
+        <time>2009-02-18T08:00:00.000Z</time>
         <name>OX1MW41</name>
         <desc>Hapgunggol by Jiho Kim, Traditional Cache(2.0/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1MW41</url>
@@ -5247,8 +4741,7 @@ Please BYOP! (Bring your own pen)
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please BYOP! (Bring your own pen) &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Rock, In breast height</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>

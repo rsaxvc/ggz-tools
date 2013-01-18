@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>1 geocache.  Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,119,90,120</url>
+    <time>2012-12-19T23:00:06.891Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="120.0" maxlat="90.0" minlon="119.0" minlat="-90.0"/>
+    <wpt lon="119.7361833" lat="-23.3798167">
+        <time>2012-11-12T03:31:24.000Z</time>
+        <name>OX413J0</name>
+        <desc>Dark Relics by Rustic Relics, Traditional Cache(2.0/2.7/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX413J0</url>
+        <urlname>Dark Relics</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3727316">
+            <groundspeak:name>Dark Relics</groundspeak:name>
+            <groundspeak:placed_by>Rustic Relics</groundspeak:placed_by>
+            <groundspeak:owner id="161272">Rustic Relics</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Well, here I am in Newman on holidays from the Barossa Valley SA, staying with my son and his family, and I also picked up a couple of weeks work while I was here, I also decided that Newman needed another cache and that Darksoull will maintain it for me.&lt;br/&gt;&lt;br/&gt;So here is a breif description of where we decided to leave it :&lt;br/&gt;To start with it's behind the New Light Industrial Area where you will find a motorcross circuit and not far past that is a track leading up the hill to the right, we parked at the bottom and walked to the top and headed on up to the next higher hill to the south. I would recomend that you wear at the very least long sox and covered shoes because of the spinifex in the area and you should be vigilent to the possibility of local reptiles wanting to make friends without your consent.&lt;br/&gt;&lt;br/&gt;The contents that we have left are :&lt;br/&gt;Sewing travel kit&lt;br/&gt;LED tourch&lt;br/&gt;Keyring tourch in a tin&lt;br/&gt;Laptop microphone&lt;br/&gt;Carabina type snap hook&lt;br/&gt;First To Find Pin&lt;br/&gt;Notepad &amp; pen (for logging)&lt;br/&gt;&lt;br/&gt;Happy Hunting :)&lt;br/&gt;Rustic Relics &amp; Darksoull&lt;br/&gt;&lt;br/&gt;</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.7</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Dark Relics Cache.jpg</ox:name>
+                    <ox:size>253644</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>I'd walk.jpg</ox:name>
+                    <ox:size>171840</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+</gpx>

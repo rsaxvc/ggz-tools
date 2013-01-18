@@ -1,15 +1,146 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>9 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,120,90,121</url>
-    <time>2012-01-04T09:32:47.882-06:00</time>
+    <time>2012-12-19T23:00:13.210Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="121.0" maxlat="90.0" minlon="120.0" minlat="-90.0"/>
+    <wpt lon="120.86605" lat="14.0769">
+        <time>2012-05-20T10:51:26.000Z</time>
+        <name>OXZTJ3W</name>
+        <desc>Three in One. by bestvue, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTJ3W</url>
+        <urlname>Three in One.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28467823">
+            <groundspeak:name>Three in One.</groundspeak:name>
+            <groundspeak:placed_by>bestvue</groundspeak:placed_by>
+            <groundspeak:owner id="89174">bestvue</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Cache is called Three in One and nothing to do with the Coffee variety. But because by placing one cache I've covered 3 bases.&lt;br/&gt;1. Open caching&lt;br/&gt;2. A Munzee&lt;br/&gt;3. A Geocache&lt;br/&gt;The cache is located in a Hotel specifically in the associated Italian Restaurant called &quot;Il Gallo Nero&quot; The restaurant is open from 11 am to 9 pm from Sunday to Thursday, and 11 am to 10 pm on Fridays and Saturdays. Which is the only time the cache can be available.&lt;br/&gt;Even if you don't eat it's a cool place to have a quiet drink or three.&lt;br/&gt;N14 04.614 E120 51.959</groundspeak:long_description>
+            <groundspeak:encoded_hints>If you can't see it just ask</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>El-Callo-Nero2.jpg</ox:name>
+                    <ox:size>65202</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>El-Callo-Nero.jpg</ox:name>
+                    <ox:size>36146</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="120.569133" lat="14.382767">
+        <time>2010-04-25T07:00:00.000Z</time>
+        <name>OX27Y9R</name>
+        <desc>Big Guns by bestvue, Traditional Cache(3.0/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX27Y9R</url>
+        <urlname>Big Guns</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2083751">
+            <groundspeak:name>Big Guns</groundspeak:name>
+            <groundspeak:placed_by>bestvue</groundspeak:placed_by>
+            <groundspeak:owner id="89174">bestvue</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">A small Nano (BYOP) hidden on a big Gun.
+ &lt;br /&gt;&lt;br /&gt; Gibraltar of the East
+&lt;p&gt;Corregidor,&lt;/p&gt;
+&lt;p&gt;officially named Fort Mills, was the largest of four fortified
+islands protecting the mouth of Manila Bay from attack and was
+fortified prior to World War I with powerful coastal artillery.&lt;/p&gt;
+
+&lt;p&gt;At 3.5 miles (5.6 km) long and 1.5 miles (2.4 km) across at its
+head, the tadpole-shaped island lay two miles (3 km) from Bataan.
+Its widest but elevated area, known as Topside, contained most of
+its 56 coastal artillery pieces and installations. Middleside was a
+small plateau containing more battery positions as well as
+barracks. Bottomside was the low ground where a dock area and the
+civilian town of San Jose was located. American servicemen
+alternately dubbed it as &quot;The Rock&quot; or the &quot;Gibraltar of the East&quot;,
+in comparison to the peninsular fortress that guards the main
+entrance to the Mediterranean Sea between Europe and Africa. The
+tunnel system under Malinta Hill was the most extensive
+construction on Corregidor. It consisted of a main east-west
+passage 826 feet (252 m) long with a 24 foot (7.6 m) diameter and
+had 25 lateral passages, each about 400 feet (120 m) long,
+branching out at regular intervals from each side of the main
+passage. A separate system of tunnels north of this main tunnel
+housed the underground hospital and had its own 12 laterals and
+space for 1,000 beds. The facility could be reached either through
+the main tunnel or by a separate outside entrance on the north side
+of Malinta Hill. The Navy tunnel system, which lay opposite the
+hospital, under the south side of Malinta was connected to the main
+tunnel by a partially completed low passageway through the
+quartermaster storage lateral. East of this was Malinta Tunnel,
+location of Gen.Douglas MacArthur's headquarters. Reinforced with
+concrete walls, floors, and overhead arches, blowers to furnish
+fresh air, and a double-track electric tramway line along the
+east-west passage, the Malinta Tunnel furnished bombproof shelter
+for the hospital, headquarters, and shops, as well as a maze of
+underground storehouses.&lt;/p&gt;
+&lt;p&gt;More at http://en.wikipedia.org/wiki/Battle_of_Corregidor&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://flagcounter.com/more/RZ4&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Manila,%20PH&quot;&gt;
+&lt;/a&gt;&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Big Barrels pivot here - Not the road side</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>BG-Spoiler.jpg</ox:name>
+                    <ox:size>46698</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Bang.jpg</ox:name>
+                    <ox:size>71053</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
     <wpt lon="120.745317" lat="21.946967">
-        <time>2011-11-01T02:00:00.000-05:00</time>
+        <time>2011-11-01T07:00:00.000Z</time>
         <name>OX372AJ</name>
         <desc>Let's go sailing. Let's go diving. by COOKIE450, Traditional Cache(1.0/1.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX372AJ</url>
@@ -35,16 +166,36 @@
                 <ox:terrain>1.0</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>fire hose</ox:tag>
+                <ox:tag>Verifiable</ox:tag>
             </ox:tags>
             <ox:verification>
                 <ox:QR>true</ox:QR>
                 <ox:number>true</ox:number>
             </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>vitality.jpg</ox:name>
+                    <ox:size>117559</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>vitality group.jpg</ox:name>
+                    <ox:size>108595</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>sail boat.jpg</ox:name>
+                    <ox:size>95019</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
         </ox:opencaching>
     </wpt>
     <wpt lon="120.8617" lat="23.6888">
-        <time>2008-11-17T02:00:00.000-06:00</time>
+        <time>2008-11-17T08:00:00.000Z</time>
         <name>OX1J9ZG</name>
         <desc>Dream Works of the Mei by COOKIE450, Traditional Cache(2.0/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1J9ZG</url>
@@ -59,14 +210,7 @@
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">
-
- The wine of recently famous movie cape no.7 in here. With many super cute big dolls here. This is a black magnetic nano cache.
-
-You can preview through the website here.
-http://www.hsinifa.com.tw/
-
-I need to add one more note for cacher know to reduce the confusion. The coordinate I posted is located in the front gate which with better signal reception. Not the place of the cache. The cache is located in one black color sign that in the left side while cacher faces to the store.</groundspeak:long_description>
+            <groundspeak:long_description html="True">&lt;br/&gt;&lt;br/&gt; The wine of recently famous movie cape no.7 in here. With many super cute big dolls here. This is a black magnetic nano cache.&lt;br/&gt;&lt;br/&gt;You can preview through the website here.&lt;br/&gt;http://www.hsinifa.com.tw/&lt;br/&gt;&lt;br/&gt;I need to add one more note for cacher know to reduce the confusion. The coordinate I posted is located in the front gate which with better signal reception. Not the place of the cache. The cache is located in one black color sign that in the left side while cacher faces to the store.</groundspeak:long_description>
             <groundspeak:encoded_hints>back of the sign in the front door</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -77,7 +221,7 @@ I need to add one more note for cacher know to reduce the confusion. The coordin
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>black</ox:tag>
+                <ox:tag>Verifiable</ox:tag>
             </ox:tags>
             <ox:verification>
                 <ox:QR>true</ox:QR>
@@ -86,90 +230,35 @@ I need to add one more note for cacher know to reduce the confusion. The coordin
         </ox:opencaching>
     </wpt>
     <wpt lon="120.7987667" lat="24.1801167">
-        <time>2005-08-07T03:00:00.000-05:00</time>
+        <time>2005-08-07T08:00:00.000Z</time>
         <name>OXQ1PD</name>
-        <desc>Tou Ke Mountain by jinggeocacher, Traditional Cache(1.6/2.6/3.0)</desc>
+        <desc>Tou Ke Mountain by Jing., Traditional Cache(1.6/2.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXQ1PD</url>
         <urlname>Tou Ke Mountain</urlname>
         <sym>Geocache</sym>
         <type>Geocache|Traditional Cache</type>
         <groundspeak:cache archived="False" available="True" id="686849">
             <groundspeak:name>Tou Ke Mountain</groundspeak:name>
-            <groundspeak:placed_by>jinggeocacher</groundspeak:placed_by>
-            <groundspeak:owner id="1321">jinggeocacher</groundspeak:owner>
+            <groundspeak:placed_by>Jing.</groundspeak:placed_by>
+            <groundspeak:owner id="1321">Jing.</groundspeak:owner>
             <groundspeak:type>Traditional Cache</groundspeak:type>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">  
-
- The Tou Ke Mountain located the eastern border place of Taichung City.
-There are five hiking paths on reach the Tou Ke Mountaintop
-I proposed hiking path V
-
-Hiking Path V
-It is about 2130 meters long and between 595 and 859 meters above sea level. The path mainly goes along the crest line between Tou Ke Mountain and Er Ke Mountain and the main cre st of the Tou Ke Mountain System. It connects Hiking Paths I, II, III, and IV as it winds along the top of each mountain. Along the way are several great viewing points, such as Heisong Pavilion, Gaofong Pavilion, Tou Ke Ridge, and Mu Ta. The Tou Ke Ridge's elevation is 859 meters, the highest point of Taichung City.
-
-
-Original Contents:
-key ring
-toy cat
-toy dinosaur
-pencil
-pencil sharpener
-notebook
-TB Wooden &quot;E=Mc2&quot; Nickel
-
-Additional Waypoints
-J0Q1PD - Mountaintop
-N 24° 10.768 E 120° 47.997
-Have nice view in Mountaintop
-J1Q1PD - Parking area for Hiking Path 3
-N 24° 10.750 E 120° 46.993
-I come back to check this cache on February 1 , 2006
-this time I go to the mountaintop from Hiking Path 3, so I add this waypoint.
-
-it is a parking area if you drive you can parking here (free)
-J2Q1PD - Starting point for Hiking Path 3
-N 24° 10.730 E 120° 47.311
-I come back to check this cache on February 1 , 2006
-this time I go to the mountaintop from Hiking Path 3, so I add this waypoint.
-
-It about 2.5 hours of hiking back and forth on this Path 3
-J3Q1PD - Parking area for Hiking Path 2
-N 24° 11.035 E 120° 47.110
-it is a parking area if you drive you can parking here (free)
-J4Q1PD - Starting point for Hiking Path 2
-N 24° 11.057 E 120° 47.147
-It about 3 hours of hiking back and forth on this Path 2
-J5Q1PD - Starting point for Hiking Path 5
-N 24° 11.532 E 120° 47.762
-It about 3 hours of hiking back and forth on this Path 5
-J6Q1PD - Chung-cheng camping area for Hiking Path 4
-N 24° 10.436 E 120° 46.918
-This coords is the gate of the camping area, you will pass this area first then reaching the starting point of Hiking Path 4 and you can find the place to park the car in this area.
-J7Q1PD - Starting point for Hiking Path 4
-N 24° 10.380 E 120° 47.094
-It about 3 hours of hiking back and forth on this Path 4
-J8Q1PD - Parking area for Hiking Path 1
-N 24° 11.383 E 120° 47.082
-Parking area for Hiking Path 1 (free)
-J9Q1PD - Starting point for Hiking Path 1
-N 24° 11.369 E 120° 47.111
-It about 3.5 hours of hiking back and forth on this Path 1</groundspeak:long_description>
+            <groundspeak:long_description html="True">  &lt;br/&gt;&lt;br/&gt; The Tou Ke Mountain located the eastern border place of Taichung City.&lt;br/&gt;There are five hiking paths on reach the Tou Ke Mountaintop&lt;br/&gt;I proposed hiking path V&lt;br/&gt;&lt;br/&gt;Hiking Path V&lt;br/&gt;It is about 2130 meters long and between 595 and 859 meters above sea level. The path mainly goes along the crest line between Tou Ke Mountain and Er Ke Mountain and the main cre st of the Tou Ke Mountain System. It connects Hiking Paths I, II, III, and IV as it winds along the top of each mountain. Along the way are several great viewing points, such as Heisong Pavilion, Gaofong Pavilion, Tou Ke Ridge, and Mu Ta. The Tou Ke Ridge's elevation is 859 meters, the highest point of Taichung City.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Original Contents:&lt;br/&gt;key ring&lt;br/&gt;toy cat&lt;br/&gt;toy dinosaur&lt;br/&gt;pencil&lt;br/&gt;pencil sharpener&lt;br/&gt;notebook&lt;br/&gt;TB Wooden &quot;E=Mc2&quot; Nickel&lt;br/&gt;&lt;br/&gt;Additional Waypoints&lt;br/&gt;J0Q1PD - Mountaintop&lt;br/&gt;N 24° 10.768 E 120° 47.997&lt;br/&gt;Have nice view in Mountaintop&lt;br/&gt;J1Q1PD - Parking area for Hiking Path 3&lt;br/&gt;N 24° 10.750 E 120° 46.993&lt;br/&gt;I come back to check this cache on February 1 , 2006&lt;br/&gt;this time I go to the mountaintop from Hiking Path 3, so I add this waypoint.&lt;br/&gt;&lt;br/&gt;it is a parking area if you drive you can parking here (free)&lt;br/&gt;J2Q1PD - Starting point for Hiking Path 3&lt;br/&gt;N 24° 10.730 E 120° 47.311&lt;br/&gt;I come back to check this cache on February 1 , 2006&lt;br/&gt;this time I go to the mountaintop from Hiking Path 3, so I add this waypoint.&lt;br/&gt;&lt;br/&gt;It about 2.5 hours of hiking back and forth on this Path 3&lt;br/&gt;J3Q1PD - Parking area for Hiking Path 2&lt;br/&gt;N 24° 11.035 E 120° 47.110&lt;br/&gt;it is a parking area if you drive you can parking here (free)&lt;br/&gt;J4Q1PD - Starting point for Hiking Path 2&lt;br/&gt;N 24° 11.057 E 120° 47.147&lt;br/&gt;It about 3 hours of hiking back and forth on this Path 2&lt;br/&gt;J5Q1PD - Starting point for Hiking Path 5&lt;br/&gt;N 24° 11.532 E 120° 47.762&lt;br/&gt;It about 3 hours of hiking back and forth on this Path 5&lt;br/&gt;J6Q1PD - Chung-cheng camping area for Hiking Path 4&lt;br/&gt;N 24° 10.436 E 120° 46.918&lt;br/&gt;This coords is the gate of the camping area, you will pass this area first then reaching the starting point of Hiking Path 4 and you can find the place to park the car in this area.&lt;br/&gt;J7Q1PD - Starting point for Hiking Path 4&lt;br/&gt;N 24° 10.380 E 120° 47.094&lt;br/&gt;It about 3 hours of hiking back and forth on this Path 4&lt;br/&gt;J8Q1PD - Parking area for Hiking Path 1&lt;br/&gt;N 24° 11.383 E 120° 47.082&lt;br/&gt;Parking area for Hiking Path 1 (free)&lt;br/&gt;J9Q1PD - Starting point for Hiking Path 1&lt;br/&gt;N 24° 11.369 E 120° 47.111&lt;br/&gt;It about 3.5 hours of hiking back and forth on this Path 1</groundspeak:long_description>
             <groundspeak:encoded_hints>Two storeys path, In the bottom</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="1713897">
-                    <groundspeak:date>2011-12-28T10:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2011-12-28T16:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Comment</groundspeak:type>
-                    <groundspeak:finder id="1321">jinggeocacher</groundspeak:finder>
+                    <groundspeak:finder id="1321">Jing.</groundspeak:finder>
                     <groundspeak:text encoded="False">SNEHAGOHAD
 
 Please describe your comment If you really find the cache and I'll delete your log If I didn't see your signature in logbook.
 </groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1198806">
-                    <groundspeak:date>2011-04-03T11:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-04-03T16:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="8843">COOKIE450</groundspeak:finder>
                     <groundspeak:text encoded="False">Finally. I found it after several try. Thanks to the cache owner for this cache. I like the path 5-1. I can enjoy the forest in this path for a such early morning. Happy hunting.</groundspeak:text>
@@ -183,10 +272,115 @@ Please describe your comment If you really find the cache and I'll delete your l
                 <ox:size>3.0</ox:size>
                 <ox:terrain>2.6</ox:terrain>
             </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Hiking Path V.jpg</ox:name>
+                    <ox:size>82069</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="120.68475" lat="24.49375">
+        <time>2010-05-04T07:00:00.000Z</time>
+        <name>OX27ZC4</name>
+        <desc>Tunghsiao Mt. HuTou by rudychung, Traditional Cache(1.5/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX27ZC4</url>
+        <urlname>Tunghsiao Mt. HuTou</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2084785">
+            <groundspeak:name>Tunghsiao Mt. HuTou</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Here are great views and historic places.&lt;br/&gt;&lt;br/&gt;As one whose hometown is so close to the mountain, I wondered why have I never visited this location before when I was a child. This place is so peaceful and with good views. There are also ancient historical buildings around the mountain. I strongly suggest to have an easy walk down the hill.&lt;br/&gt;&lt;br/&gt;There are two benchmark, 2nd and 3nd grades. &lt;br/&gt;A good introductory web page could be found at Tony's Travel Journal, http://www.tonyhuang39.com/tony0700/tony0700.html here.&lt;br/&gt;And my visiting journal, rudyBike, http://rudybike.blogspot.com/2009/10/11.html here.&lt;br/&gt;&lt;br/&gt;Before taking the cache out, please take a close look on how it is placed. And be careful on putting it back. The cache is not in a good waterproofing. Thanks!  [:)]</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Cache 1.jpg</ox:name>
+                    <ox:size>46547</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>On the Mountain Top.jpg</ox:name>
+                    <ox:size>40691</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Geocoin From French Poet.jpg</ox:name>
+                    <ox:size>41547</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="120.73275" lat="24.600133">
+        <time>2007-07-08T07:00:00.000Z</time>
+        <name>OX146Z7</name>
+        <desc>Cape of Good Hope by Jing., Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX146Z7</url>
+        <urlname>Cape of Good Hope</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1049388">
+            <groundspeak:name>Cape of Good Hope</groundspeak:name>
+            <groundspeak:placed_by>Jing.</groundspeak:placed_by>
+            <groundspeak:owner id="1321">Jing.</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br /&gt;&lt;br /&gt; &lt;b&gt;There is a famous scenic site in Miaoli County, you can see the
+sea here, the train and especially is wind power generator, there
+are a lot of wind power generators here, you can close the distance
+to watch them even touch them to experience enormously and
+shake.&lt;/b&gt;&lt;br /&gt;
+
+&lt;b&gt;A lot of people choose to come here during dusk, because here is
+a good place to view and admire the sunset, Please pay attention to
+your security If you come here during dusk, there is not any street
+lamp here.&lt;/b&gt;&lt;br /&gt;
+&lt;p&gt;&lt;b&gt;The site may not be very easy to look for , because the road
+to reach here is not very clear, but I believe that you can find it
+, because you have navigation device and there are some indexes
+here can help you , go to find out this place with good vision and
+hope that you enjoy it.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;J1146Z7 - A fine view&lt;br /&gt;N 24° 36.170 E 120° 43.870&lt;br /&gt;You can't miss this site!!</groundspeak:long_description>
+            <groundspeak:encoded_hints>Do not down to the slopes</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Cape of Good Hope.jpg</ox:name>
+                    <ox:size>29449</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
         </ox:opencaching>
     </wpt>
     <wpt lon="120.97105" lat="24.7760833">
-        <time>2011-01-25T20:50:40.000-06:00</time>
+        <time>2011-01-26T02:50:40.000Z</time>
         <name>OXZTXBX</name>
         <desc>Ching-Tsao Lake  by Ruby1988, Traditional Cache(1.2/1.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTXBX</url>
@@ -204,14 +398,21 @@ Please describe your comment If you really find the cache and I'll delete your l
             <groundspeak:long_description html="True">Ching-Tsao Lake (meaning the lake of green grass) used to be a mini-sized lake hundreds of years ago, which was also used as a dam. After the end of the Japanese colonial period in Taiwan, the first magistrate of Hsin-chu County ordered to reconstruct the dam, resulting in a 30 square kilometer area for storing water. It was the first large-scaled construction in Hsin-chu since the establishment of the local government.</groundspeak:long_description>
             <groundspeak:encoded_hints>a water pipe</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="1766939">
+                    <groundspeak:date>2012-03-03T16:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="94843">JOEJOET3</groundspeak:finder>
+                    <groundspeak:text encoded="False">I search all pipe. But I can't found anything.
+Does this cache still there?</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1172234">
-                    <groundspeak:date>2011-03-11T10:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2011-03-11T16:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Didn't find it</groundspeak:type>
                     <groundspeak:finder id="8843">COOKIE450</groundspeak:finder>
                     <groundspeak:text encoded="False">DNF. After back I rechecked the cache on internet to see one previous log. beside &quot;chair&quot;??? Will find time to hunt this cache again to see any luck. Happy Hunting. ¿¿??¿¿¿¿¿¿</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1159429">
-                    <groundspeak:date>2011-02-27T03:36:35.000-06:00</groundspeak:date>
+                    <groundspeak:date>2011-02-27T09:36:35.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="7064">shiehyt</groundspeak:finder>
                     <groundspeak:text encoded="False">Nice hiding! All of my family with 3 dogs search this cache about 30 minutes. When I am giving up and sitting on a chair, my wife found it near the chair suddenly.
@@ -229,10 +430,13 @@ T.F.T.C.</groundspeak:text>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>1.6</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="120.9787833" lat="24.8017">
-        <time>2011-03-31T21:09:40.000-05:00</time>
+        <time>2011-04-01T02:09:40.000Z</time>
         <name>OXZTWQ3</name>
         <desc>History of glass museum by Ruby1988, Traditional Cache(2.6/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTWQ3</url>
@@ -251,7 +455,7 @@ T.F.T.C.</groundspeak:text>
             <groundspeak:encoded_hints>Big stone</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="1200317">
-                    <groundspeak:date>2011-04-08T23:14:55.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-04-09T04:14:55.000Z</groundspeak:date>
                     <groundspeak:type>Didn't find it</groundspeak:type>
                     <groundspeak:finder id="7064">shiehyt</groundspeak:finder>
                     <groundspeak:text encoded="False">Couldn't find this cache. 
@@ -268,6 +472,9 @@ Sent from my iPhone Cache Me App</groundspeak:text>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
         </ox:opencaching>
     </wpt>
 </gpx>

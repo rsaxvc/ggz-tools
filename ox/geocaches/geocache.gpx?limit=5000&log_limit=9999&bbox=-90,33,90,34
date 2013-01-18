@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>1 geocache.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,33,90,34</url>
-    <time>2012-01-04T09:32:20.565-06:00</time>
+    <time>2012-12-19T22:52:32.545Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="34.0" maxlat="90.0" minlon="33.0" minlat="-90.0"/>
     <wpt lon="33.92095" lat="27.8141">
-        <time>2011-09-11T14:07:17.000-05:00</time>
+        <time>2011-09-11T19:07:17.000Z</time>
         <name>OXZTQK5</name>
         <desc>SS Thistlegorm by scubathori, Virtual Cache(3.0/5.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTQK5</url>
@@ -23,29 +23,29 @@
             <groundspeak:type>Virtual Cache</groundspeak:type>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>5</groundspeak:terrain>
-            <groundspeak:long_description html="True">&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+            <groundspeak:long_description html="True">&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 &lt;h1&gt;English:&lt;/h1&gt;
-&lt;br/&gt;
-&lt;h4&gt;I decided to place a Virtual Cache at my personal favorite divespot.&lt;br/&gt;
-It is necessary to dive the Thistlegorm in order to log this Cache!&lt;br/&gt;
-Log requirements: see below.&lt;br/&gt;
+&lt;br /&gt;
+&lt;h4&gt;I decided to place a Virtual Cache at my personal favorite divespot.&lt;br /&gt;
+It is necessary to dive the Thistlegorm in order to log this Cache!&lt;br /&gt;
+Log requirements: see below.&lt;br /&gt;
 Now some history:&lt;/h4&gt;
-&lt;br/&gt;
+&lt;br /&gt;
 The SS Thistlegorm was built by Joseph Thompson &amp; Sons shipyard in Sunderland for the Albyn Line and launched in April 1940. She was powered by a triple expansion steam engine rated to 365 hp (272 KW). The vessel was privately owned but had been partly financed by the British government and was classified as an armed freighter. She was armed with a 4.7-inch (120mm) anti-aircraft gun and a heavy calibre machine gun attached after construction to the stern of the ship. She was one of a number of &quot;Thistle&quot; ships owned and operated by the Albyn Line; which was founded in 1901, based in Sunderland and had four vessels at the outbreak of World War II.
 The vessel carried out three successful voyages after her launch. The first was to the US to collect steel rails and aircraft parts, the second to Argentina for grain and the third to the West Indies for rum. Prior to her fourth and final voyage she had undergone repairs in Glasgow.
 She set sail on her fourth and final voyage from Glasgow on 2 June 1941 destined for Alexandria, Egypt. The vessel’s cargo included: Bedford trucks, Universal Carrier armoured vehicles, Norton 16H and BSA motorcycles, Bren guns, cases of ammunition, and 0.303 rifles as well as radio equipment, Wellington boots, aircraft parts, and two LMS Stanier Class 8F steam locomotives. These steam locomotives and their associated coal &amp; water tenders were carried as deck cargo and were for the Egyptian Railways. The rest of the cargo was for the Allied forces in Egypt. At the time the Thistlegorm sailed from Glasgow in June this was the Western Desert Force, which in September 1941 became part of the newly formed Eighth Army. The crew of the ship, under Captain William Ellis, were supplemented by 9 naval personnel to man the machine gun and the anti-aircraft gun.
@@ -54,42 +54,48 @@ There was a large build up of Allied troops in Egypt during September 1941 and G
 
 
 
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 
-&lt;h1&gt;Deutsch:&lt;/h1&gt;&lt;br/&gt;
-&lt;h4&gt;Dieser Virtual-Cache liegt an meinem persönlichen Top-Tauchspot.&lt;br/&gt;
-Um den Cache zu loggen ist es notwendig die Thistlegorm zu betauchen!&lt;br/&gt;
-Logbedingungen: siehe unten.&lt;br/&gt;
-Nun etwas Geschichte:&lt;/h4&gt;&lt;br/&gt;
+&lt;h1&gt;Deutsch:&lt;/h1&gt;&lt;br /&gt;
+&lt;h4&gt;Dieser Virtual-Cache liegt an meinem persönlichen Top-Tauchspot.&lt;br /&gt;
+Um den Cache zu loggen ist es notwendig die Thistlegorm zu betauchen!&lt;br /&gt;
+Logbedingungen: siehe unten.&lt;br /&gt;
+Nun etwas Geschichte:&lt;/h4&gt;&lt;br /&gt;
 Die Thistlegorm war ein britisches Frachtschiff, das am 6. Oktober 1941 im Zweiten Weltkrieg von einem Bombenflugzeug der Deutschen Luftwaffe im nördlichen Roten Meer in der Nähe der Südspitze der Sinai-Halbinsel versenkt wurde und heute ein beliebtes Tauchziel ist.
 Der 126 m lange britische Frachter Thistlegorm lief im April 1940 in Sunderland (Nordengland) bei der Werft Joseph L. Thompson &amp; Sons Ltd. für die Reederei Albyn Line vom Stapel. Der englisch-gälische Name bedeutet Blaue Distel (en. thistle = Distel, gäl. gorm = blau).
 Als während des Krieges gebautes Schiff war es geschützt durch ein Flugabwehrgeschütz, eine weitere Kanone am Heck und mehrere Maschinengewehre. Zu ihrer vierten und letzten Reise lief die Thistlegorm im August 1941 in Glasgow in Schottland aus. An Bord befand sich eine Ladung Waffen, Munition und Ausrüstungsgegenstände, darunter Granaten verschiedener Kaliber, Minen, Panzer, Lastwagen, Motorräder, zwei Lokomotiven sowie mehrere Eisenbahnwaggons. Das Material war für die 8. Armee der British Army (später als Desert Rats bekannt) bestimmt, die eine Großoffensive (Operation Crusader) gegen das deutsche Afrikakorps unter Rommel vorbereitete. Aufgrund der Gefährdung durch deutsche und italienische U-Boote und Flugzeuge nahm die Thistlegorm den längeren, aber sichereren Weg um Afrika herum. Am 24. September wurde sie in Aden (Jemen) einem Konvoi von 20 Schiffen unter dem Schutz des Kreuzers HMS Carlisle zugeteilt und fuhr mit diesem durch das Rote Meer nach Norden. Da die Durchfahrt durch den Sueskanal mit einem Wrack blockiert war, musste der Konvoi an einem Ankerplatz (&quot;Safe Anchorage F&quot;) östlich der Südspitze des Sinai gelegenen Riffs Sha'ab Ali auf die Freigabe der Route warten.
 Nach einer zehntägigen Wartezeit wurde der Konvoi in der Nacht des 6. Oktober 1941 von einem deutschen Heinkel He 111-Bomber der II. Gruppe des Kampfgeschwaders 26 (KG26) entdeckt. Zusammen mit einem zweiten He 111-Flugzeug hatte die mit zwei Spezialbomben zur Schiffsbekämpfung ausgerüstete und auf Kreta gestartete Maschine eigentlich den als Truppentransporter eingesetzten Passagierdampfer RMS Queen Mary versenken sollen, ihn aber nicht gefunden. Die Besatzung erkannte die Thistlegorm als lohnendes Ziel und griff sie im Tiefflug an. Eine oder beide Bomben trafen das Schiff im hinteren Teil auf der Höhe des vierten Laderaums. Der Treffer brachte einen Teil der Munitionsfracht zur Explosion und wahrscheinlich auch die unter Druck stehenden Dampfkessel im Maschinenraum. Durch eine Serie von Detonationen brach das Heck ab, und das Schiff sank innerhalb weniger Minuten. Beim Untergang starben neun Besatzungsmitglieder, die 30 Überlebenden wurden von den anderen Schiffen des Konvois gerettet. Das Flugzeug, das die Thistlegorm versenkt hatte, wurde abgeschossen, die Besatzung geriet in Gefangenschaft.
-&lt;br/&gt;
-&lt;br/&gt;&lt;br/&gt;
-&lt;h4&gt;Log requirements / Loggbedingungen: &lt;br/&gt;
-Answer the following questions and crack the CODE / Finde Antworten auf folgende Fragen und knack den CODE:&lt;/h4&gt;&lt;br/&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;h4&gt;Log requirements / Loggbedingungen: &lt;br /&gt;
+Answer the following questions and crack the CODE / Finde Antworten auf folgende Fragen und knack den CODE:&lt;/h4&gt;&lt;br /&gt;
 
-&lt;h5&gt;1.) Look at the starboard propeller. It originally consisted of ??? blades. This number is A / Die Steuerbord-Schiffsschraube bestand ursprünglich aus ??? Blättern? Nimm diese Zahl als A.&lt;/h5&gt; &lt;br/&gt;
+&lt;h5&gt;1.) Look at the starboard propeller. It originally consisted of ??? blades. This number is A / Die Steuerbord-Schiffsschraube bestand ursprünglich aus ??? Blättern? Nimm diese Zahl als A.&lt;/h5&gt; &lt;br /&gt;
 &lt;h5&gt;2.) There's a small room at the port side behind the uppermost (still roofed) room of the tower: What's inside? / Was befindet sich im kleinen Raum hinter dem höchsten (noch überdachten) Raum des Turmes auf der Backbordseite?&lt;/h5&gt;
 &lt;ul&gt;A desk to check sea maps / Ein Seekartentisch: B = 7&lt;/ul&gt;
 &lt;ul&gt;The Radio-Room / Der Funkraum: B = 8&lt;/ul&gt;
-&lt;ul&gt;A toilet and a bathtub / Ein Klo und eine Badewanne: B = 9&lt;/ul&gt;&lt;br/&gt;
+&lt;ul&gt;A toilet and a bathtub / Ein Klo und eine Badewanne: B = 9&lt;/ul&gt;&lt;br /&gt;
 
 &lt;h5&gt;3.) Once your Dive-Boat is moored above the Thistlegorm, look north: What can you see in the distance? / Was ist in der Ferne zu erkennen, wenn man über der Thistlegorm vor Anker liegt und nach Norden blickt?   &lt;/h5&gt;
 &lt;ul&gt;Drilling rigs / Bohrinseln: C=1&lt;/ul&gt;
 &lt;ul&gt;A circular lagoon / Eine kreisrunde Lagune: C = 2&lt;/ul&gt;
 &lt;ul&gt;A lighthouse / Einen Leuchtturm: C = 3&lt;/ul&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 &lt;h2&gt;Most important: Dive safely!! / Am wichtigsten: Tauchsicherheit!!&lt;/h2&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>-</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="1812802">
+                    <groundspeak:date>2012-05-19T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="112136">LILLIBAS</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found this virtual today. Thanks for showing me this place. Very interesting site. TFTV lillibas</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1620160">
-                    <groundspeak:date>2011-10-14T17:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-10-14T22:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="2337">olki69</groundspeak:finder>
                     <groundspeak:text encoded="False">Schönes Rätsel, die Beantwortung der Fragen war aber leicht für mich.
@@ -104,8 +110,9 @@ Danke fürs verstecken und für die Mühe die damit verbunden war.</groundspeak:
                 <ox:terrain>5.0</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>scuba dive</ox:tag>
-                <ox:tag>need boat</ox:tag>
+                <ox:tag>Boat required</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
+                <ox:tag>Diving</ox:tag>
             </ox:tags>
             <ox:verification>
                 <ox:phrase>3ebf3ade1c1685dab1e0fe00fc3b2b177bedf78e802a62d7624eae61d99d8192</ox:phrase>

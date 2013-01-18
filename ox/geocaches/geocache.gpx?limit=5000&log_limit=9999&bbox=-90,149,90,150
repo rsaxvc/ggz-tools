@@ -1,15 +1,258 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>11 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,149,90,150</url>
-    <time>2012-01-04T09:33:08.211-06:00</time>
+    <time>2012-12-19T23:03:04.147Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="150.0" maxlat="90.0" minlon="149.0" minlat="-90.0"/>
+    <wpt lon="149.4080833" lat="-20.90185">
+        <time>2012-11-01T06:48:11.000Z</time>
+        <name>OXZTBY6</name>
+        <desc>Hispaniola by Cache Quest, Traditional Cache(2.0/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTBY6</url>
+        <urlname>Hispaniola</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28461881">
+            <groundspeak:name>Hispaniola</groundspeak:name>
+            <groundspeak:placed_by>Cache Quest</groundspeak:placed_by>
+            <groundspeak:owner id="117632">Cache Quest</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">The Hispaniola, the schooner of Robert Louis Stevenson's Treasure Island.&lt;br/&gt;&lt;br/&gt;&quot;You never imagined a sweeter schooner—a child might sail her—two hundred tons; name, HISPANIOLA&quot; from the novel.&lt;br/&gt;&lt;br/&gt;The cache is off the beach at Connie Bay on Keswick Island, you can get here by plane, boat or ferry.&lt;br/&gt;&lt;br/&gt;Enjoy</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.5</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Ship.jpg</ox:name>
+                    <ox:size>93885</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="149.1088667" lat="-23.7476">
+        <time>2012-04-01T22:20:16.000Z</time>
+        <name>OXZTK6Z</name>
+        <desc>Horseshoe Lookout by FLOISY, Virtual Cache(1.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTK6Z</url>
+        <urlname>Horseshoe Lookout</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Virtual Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28468880">
+            <groundspeak:name>Horseshoe Lookout</groundspeak:name>
+            <groundspeak:placed_by>FLOISY</groundspeak:placed_by>
+            <groundspeak:owner id="102381">FLOISY</groundspeak:owner>
+            <groundspeak:type>Virtual Cache</groundspeak:type>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is VIRTUAL due to the fact that it is in a National Park and as such with respect to Government Laws and the Environment it is not possible to place a physical container in the area... with that in mind, you will still need to visit the site to find the key word's' which will allow you to log this cache.&lt;br/&gt;&lt;br/&gt;While at the lookout you will find the key word's' for the (code phrase) clearly signed as part of the Park information. </groundspeak:long_description>
+            <groundspeak:encoded_hints>Who is the artist accredited with the image</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Historic site</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:phrase>4dac48f8582d6c5931574dbd90cf085364850602183bd61d63b1f554eb622f90</ox:phrase>
+            </ox:verification>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="149.84435" lat="-29.461767">
+        <time>2012-09-15T07:00:00.000Z</time>
+        <name>OX3WV47</name>
+        <desc>Mary's second store by TeamKross, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3WV47</url>
+        <urlname>Mary's second store</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3600037">
+            <groundspeak:name>Mary's second store</groundspeak:name>
+            <groundspeak:placed_by>TeamKross</groundspeak:placed_by>
+            <groundspeak:owner id="164954">TeamKross</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is our first attempt at placing a cache. It's at a quiet area of Moree with tables and relaxing area. You won't generally see many muggles but they may still be watching from the nearby TAFE or homes ;)
+
+ &lt;br /&gt;&lt;br /&gt; The cache is a small plastic container painted black. It's got some swaps in it, log book and pencil. We put a Geo-coin in there to start off as well.&lt;br /&gt;
+&lt;br /&gt;
+Situated on the banks of the Mehi River and representing great significance to Moree's history is Mary Brand Park named after Moree's first store-keeper and hotelier, Mary Brand. Featuring a traditional four-room slab hut 'Meei Cottage', Mary Brand Park offers a spectacular opportunity to relax under the shady canopies of century-old fig trees whilst enjoying the various bird and wildlife that inhabit the surrounding parklands.&lt;br /&gt;
+&lt;br /&gt;
+A must for photographers and an ideal picnic area; the park backs on to the Mehi River jetty where it is popular for fishing and water sports.&lt;br /&gt;
+&lt;br /&gt;
+The park commemorates Mary Brand's return to Moree after the death of her first husband, James Brand. Mary built her second store in Moree on this site. She also founded the town's first Hotel, the Moree Inn in 1861.&lt;br /&gt;
+&lt;br /&gt;
+** The store at the location burnt down shortly after the cache was placed but the history is still there :)</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="149.842567" lat="-29.468433">
+        <time>2012-11-03T07:00:00.000Z</time>
+        <name>OX40NNF</name>
+        <desc>Rocket Park by TeamKross, Traditional Cache(3.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX40NNF</url>
+        <urlname>Rocket Park</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3714931">
+            <groundspeak:name>Rocket Park</groundspeak:name>
+            <groundspeak:placed_by>TeamKross</groundspeak:placed_by>
+            <groundspeak:owner id="164954">TeamKross</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">A nano cache hidden at the Rocket Park (Kirkby park) moree. This is a really cool playground and picnic area. There are BBQ's, tables and toilets here. A great place to stop with the family.
+
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;
+&lt;h3&gt; &lt;/h3&gt;
+&lt;h3&gt;From Moree Plains Shire website;&lt;/h3&gt;
+In a setting of beautiful white &amp; rose pink bauhinias, &lt;strong&gt;Kirkby Park&lt;/strong&gt; features the heritage-listed Moree Band Rotunda which is still in use today. Known colloquially as the &quot;Rocket Park&quot;, it also features a distinctive rocket which is one of only three still standing in Australia. The original rocket was built in Kirkby Park in 1972 to commemorate the Centenary of Education. &lt;br /&gt;
+The old rocket still stands in the park but now, a new giant, brilliantly colourful model has been built standing 14.9 metres tall! Hosting a children's dream playground, the rocket was launched on 11 July 2009 by astronomer in charge Dr Fred Watson.The $220,000 rocket no doubt contributed to Moree’s Kirkby Park being named the third best place to play in NSW, according to the Daily Telegraph on Monday, July 6 2010.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Magnetic. Out of 23 sets of feet, the 16th is interesting</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="149.65895" lat="-29.556833">
+        <time>2012-10-04T07:00:00.000Z</time>
+        <name>OX3Y3HB</name>
+        <desc>Combadello Weir by TeamKross, Traditional Cache(1.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3Y3HB</url>
+        <urlname>Combadello Weir</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3637923">
+            <groundspeak:name>Combadello Weir</groundspeak:name>
+            <groundspeak:placed_by>TeamKross</groundspeak:placed_by>
+            <groundspeak:owner id="164954">TeamKross</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache will take you to the Combadello Weir which is West of Moree on the Gwydir Highway and is known as a excellant fishing spot.
+
+ &lt;br /&gt;&lt;br /&gt; There needed to be a cache placed along this way and it is a really nice area to see, a good quick distraction along the road which connects Moree to Collarenebri.&lt;br /&gt;
+&lt;br /&gt;
+This is one of 3 main weirs located around Moree. It is well known as a fishing and bird watching spot. It does not have any facilities and any car, caravan etc can get there without problems and plenty of space to turn around although take care if it has been raining or the area is wet. &lt;br /&gt;
+&lt;br /&gt;
+The cache is a small plastic container with a log book inside as well as 4-5 small swaps. The starting reference point is just the where the access road meets the Highway.&lt;br /&gt;
+CONGRATS TO Quasar3671 FOR THE FTF!!! :)
+&lt;p&gt;Additional Waypoints&lt;/p&gt;R13Y3HB - Starting Point from Highway&lt;br /&gt;S 29° 32.870 E 149° 37.923&lt;br /&gt;This is the start of the access road from the Highway, it is sign posted as well.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Under some rocks.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="149.12105" lat="-35.2478333">
+        <time>2012-03-24T05:39:37.000Z</time>
+        <name>OXZTKBP</name>
+        <desc>Magpie Hill by elliot, Traditional Cache(2.1/1.5/2.9)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTKBP</url>
+        <urlname>Magpie Hill</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469027">
+            <groundspeak:name>Magpie Hill</groundspeak:name>
+            <groundspeak:placed_by>elliot</groundspeak:placed_by>
+            <groundspeak:owner id="101758">elliot</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Magpie hill is a hill in the middle of Lyneham. There is a small park and a basketball court on the top of the hill. The basketball court is not too great to play basketball on. The ball usually rolls down the side of the hill and it gets annoying chasing it every time you miss the backboard.&lt;br/&gt;&lt;br/&gt;This is my the first cache I've hidden, so I hope it's alright!&lt;br/&gt;&lt;br/&gt;This cache is a sort of cylindrical shape. Inside the cache is a pen and a log sheet and a small swap prize.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1993347">
+                    <groundspeak:date>2012-07-28T07:33:09.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="137606">Claireiscute</groundspeak:finder>
+                    <groundspeak:text encoded="False">Spent an hour looking for this cache with my boyfriend. Checked under every crevice in the playground, looked into the trees, even dug around in the tambark - is this cache even still here?? 
+
+--
+Sent from my iPhone Cache Me App</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="2086495">
+                    <groundspeak:date>2012-04-14T08:35:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="152635">MTCICERO2</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1778936">
+                    <groundspeak:date>2012-03-30T13:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="8334">mtbikeroz</groundspeak:finder>
+                    <groundspeak:text encoded="False">All quiet at 8am, didn't take long to find it as coords were pretty good, nice hide. All signed and Off I go, Thanks Elliot. Nice spot in the middle of suburbia.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1775300">
+                    <groundspeak:date>2012-03-28T13:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="5699">McPhan</groundspeak:finder>
+                    <groundspeak:text encoded="False">Woke up this morning and found an email notification in my mailbox that a new Opencaching cache had been published. This is a very very rare event. In fact I don't think I've ever recieved one before. Anyway decided that I wasn't in a position to race out to try for the FTF and would just pick it up as my daily cache before work in Lyneham,. 
+
+Got to the site and groaned that it was in a playground. Went all over the equipment several times before finally expanding my thinking and finding a quite nasty (but good) hide. Took a while to encourage the lid off and then a virgin logsheet. I know Opencaching is barely looked at but I also know that TE and MBO certainly do (or did)
+
+A wander back down to Mac House and all's good with the day.
+
+TFTC and the swoopers.
+
+(BTW you will get many many more visits listing on the GC site)
+</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>2.1</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
     <wpt lon="149.03065" lat="-35.2906333">
-        <time>2010-12-07T20:33:14.000-06:00</time>
+        <time>2010-12-08T02:33:14.000Z</time>
         <name>OX23G7X</name>
         <desc>All the Rivers Run - No. 1 by RBIRTLES, Traditional Cache(2.0/2.1/3.1)</desc>
         <url>http://www.opencaching.com/#geocache/OX23G7X</url>
@@ -24,49 +267,28 @@
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Please read below for the All the Rivers Run Challenge.
-
-This cache is the 1st part of the All the Rivers Run Series which starts along the Molonglo River and provides a part of the co-ordinates necessary to find All the Rivers Run Puzzle No. 1 on the Murrumbidgee River.
-
-Access to this cache can be done from a number of directions so I'll leave it up to you on deciding which way you'll approach this one. No matter which direction you come please be aware parts of this area of the Molonglo River does have some steep sides and drops with loose ground. If you choose to do this cache at night be very careful.
-
-To get to this cache please do not not cross Private Property without permission. In the A.C.T. all major rivers have a corridor on either side that allows for public access (apart from a few exceptions) and general protection of the natural environment.
-
-Also be careful when it has rained or is raining as the river levels may rise suddenly. Expect a few blackberry bushes along the way but in most circumstances they can be avoided.
-
-The cache is an ammo box and on the inside of the box is 1 number that will be used to obtain the final locations for All the Rivers Run Puzzle No. 1.
-
-Consider this number as A.
-
-
-ALL THE RIVERS RUN CHALLENGE.
-
-As an added incentive I will give the first person a geocoin who completes this multi in 1 day (ie by foot/push bike between 12.01.01am to 11.59.59pm of the same day) and has signed (dated with the individual's personal signature - no stickers) all the cache log books (All the Rivers Run Numbers 1-5 and Puzzle No. 1). I will check the logs to ensure claim is legitimate and of course I will have to rely upon your honesty in this matter also.
-
-I am also seriously considering making a limited edition &quot;All the Rivers Run Challenge&quot; pathtag to give to those cachers who meet the above requirements and there will be a Honor Roll listing with the All the Rivers Run Puzzle No. 1 webpage naming those successful people.
-
-You can attempt this challenge more than once but you will still need to sign the log books on the day of your attempt.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Please read below for the All the Rivers Run Challenge.&lt;br/&gt;&lt;br/&gt;This cache is the 1st part of the All the Rivers Run Series which starts along the Molonglo River and provides a part of the co-ordinates necessary to find All the Rivers Run Puzzle No. 1 on the Murrumbidgee River.&lt;br/&gt;&lt;br/&gt;Access to this cache can be done from a number of directions so I'll leave it up to you on deciding which way you'll approach this one. No matter which direction you come please be aware parts of this area of the Molonglo River does have some steep sides and drops with loose ground. If you choose to do this cache at night be very careful.&lt;br/&gt;&lt;br/&gt;To get to this cache please do not not cross Private Property without permission. In the A.C.T. all major rivers have a corridor on either side that allows for public access (apart from a few exceptions) and general protection of the natural environment.&lt;br/&gt;&lt;br/&gt;Also be careful when it has rained or is raining as the river levels may rise suddenly. Expect a few blackberry bushes along the way but in most circumstances they can be avoided.&lt;br/&gt;&lt;br/&gt;The cache is an ammo box and on the inside of the box is 1 number that will be used to obtain the final locations for All the Rivers Run Puzzle No. 1.&lt;br/&gt;&lt;br/&gt;Consider this number as A.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;ALL THE RIVERS RUN CHALLENGE.&lt;br/&gt;&lt;br/&gt;As an added incentive I will give the first person a geocoin who completes this multi in 1 day (ie by foot/push bike between 12.01.01am to 11.59.59pm of the same day) and has signed (dated with the individual's personal signature - no stickers) all the cache log books (All the Rivers Run Numbers 1-5 and Puzzle No. 1). I will check the logs to ensure claim is legitimate and of course I will have to rely upon your honesty in this matter also.&lt;br/&gt;&lt;br/&gt;I am also seriously considering making a limited edition &quot;All the Rivers Run Challenge&quot; pathtag to give to those cachers who meet the above requirements and there will be a Honor Roll listing with the All the Rivers Run Puzzle No. 1 webpage naming those successful people.&lt;br/&gt;&lt;br/&gt;You can attempt this challenge more than once but you will still need to sign the log books on the day of your attempt.</groundspeak:long_description>
             <groundspeak:logs>
                 <groundspeak:log id="1515940">
-                    <groundspeak:date>2011-08-06T09:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-08-06T14:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="44520">BrigitteT</groundspeak:finder>
                     <groundspeak:text encoded="False">A short bike ride from Belconnen took us straight to the track/road.  Depending on how you approach this cache it will require climbing amongst the blackberries - so come with a decent pair of shoes so that you don't slip and long pants/gaiters. Good view to a fast flowing Molonglo River - interesting to see the impact of the last heavy rains ie: much erosion. We left a small skateboard replica in the container to join many other trinkets. We did not take anything. Look forward to finding the other caches in the group to work out the puzzle. Many people have visited this cache but not reported on this site. Thanks  for this adventure RBirtles. </groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="907213">
-                    <groundspeak:date>2010-12-22T05:51:21.000-06:00</groundspeak:date>
+                    <groundspeak:date>2010-12-22T11:51:21.000Z</groundspeak:date>
                     <groundspeak:type>Comment</groundspeak:type>
                     <groundspeak:finder id="7306">HardcoreHarris</groundspeak:finder>
                     <groundspeak:text encoded="False">Oh mtbikeroz comment wasn't there last time I looked and posted, guess I wont be the first to do it. This beya site is kinda buggy and very iPhone unfriendly :(</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="807718">
-                    <groundspeak:date>2010-12-15T04:23:39.000-06:00</groundspeak:date>
+                    <groundspeak:date>2010-12-15T10:23:39.000Z</groundspeak:date>
                     <groundspeak:type>Comment</groundspeak:type>
                     <groundspeak:finder id="7306">HardcoreHarris</groundspeak:finder>
                     <groundspeak:text encoded="False">Cool, I am keen to do this series of Caches soon, especially as I might be the first :)</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="905752">
-                    <groundspeak:date>2010-02-13T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2010-02-13T20:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="8334">mtbikeroz</groundspeak:finder>
                     <groundspeak:text encoded="False">Logs pretty much the same for all as I DID THEM ALL IN THE ONE DAY. Pics taken for all too.
@@ -94,15 +316,12 @@ Thanks rBirtles for the wonderful series, the sustenance and the geocoin too, we
                 <ox:size>4.0</ox:size>
                 <ox:terrain>2.1</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>no stealth required not recommended at night no difficult climbing not medium hike watch for livestock available in winter available 24-7 scenic view takes less than 1 hour</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="149.12035" lat="-35.30005">
-        <time>2011-01-10T16:44:46.000-06:00</time>
+        <time>2011-01-10T22:44:46.000Z</time>
         <name>OXZTXEW</name>
-        <desc>Throw a line in by ArcherACT, Traditional Cache(1.5/1.0/2.8)</desc>
+        <desc>Throw a line in by ArcherACT, Traditional Cache(1.5/1.0/2.7)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTXEW</url>
         <urlname>Throw a line in</urlname>
         <sym>Geocache</sym>
@@ -115,31 +334,50 @@ Thanks rBirtles for the wonderful series, the sustenance and the geocoin too, we
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1</groundspeak:terrain>
-            <groundspeak:long_description html="True">An easy drive by, if there is nothing on the bite! 
-
-
-One of the closest places to parliament house to fish the lake, This place has it all. You can catch Koi, Carp, Redfin and occasionally native fish from this area. You can even take in a wedding party, jogger, barbecue or cyclist or two. I recommend the use of corn or bread for Carp or Koi. The water rats, possums, and swans are friendly. Especially if you have anything that even remotely seems like food! </groundspeak:long_description>
+            <groundspeak:long_description html="True">An easy drive by, if there is nothing on the bite! &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;One of the closest places to parliament house to fish the lake, This place has it all. You can catch Koi, Carp, Redfin and occasionally native fish from this area. You can even take in a wedding party, jogger, barbecue or cyclist or two. I recommend the use of corn or bread for Carp or Koi. The water rats, possums, and swans are friendly. Especially if you have anything that even remotely seems like food! </groundspeak:long_description>
             <groundspeak:logs>
+                <groundspeak:log id="2070045">
+                    <groundspeak:date>2012-09-19T03:06:14.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="18005">JUSTINCBR</groundspeak:finder>
+                    <groundspeak:text encoded="False">Nice sunny day for a walk.
+TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="2032417">
+                    <groundspeak:date>2012-08-17T14:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="141738">ShaneH</groundspeak:finder>
+                    <groundspeak:text encoded="False">Lovely sunny winter day, a bit breezy but a really nice little first cache for us to find.  We can't wait to look for our next cache.  TFTHSwampy.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1993348">
+                    <groundspeak:date>2012-07-28T07:36:26.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="137606">Claireiscute</groundspeak:finder>
+                    <groundspeak:text encoded="False">Spent quite a while in the cold looking for this cache with my boyfriend. The compass pointed us into the water. Looked around the shore but couldn't find anything. Noticed nobody has logged this in a while - what does the cache look like? And Is it still active? 
+
+--
+Sent from my iPhone Cache Me App</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1537998">
-                    <groundspeak:date>2011-09-02T09:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-09-02T14:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="54707">CORRIE44</groundspeak:finder>
                     <groundspeak:text encoded="False">kitcatt +1 yep found. thanks</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1386847">
-                    <groundspeak:date>2011-07-30T09:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-07-30T14:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="44520">BrigitteT</groundspeak:finder>
                     <groundspeak:text encoded="False">My first cache ever so it was pretty cool. It was an easy 29km bike ride from Belconnen to get here although bitterly cold at 8am on a Canberra winter's morning. There was plenty of varied bird life including a large Black Comorant standing nearby with wings spread wide to absob the sun's warm rays. This scene made for a great photo that I happily snapped up. Despite the number of joggers around it was a relatively peaceful place and a great spot for fishing, and very easily accessible by all. Thanks ArcherACT - you have inspired me to set up cryptic caches around the lake - hope you get to enjoy them - see ya. PS. I left behind a small butterfly clip for the next person - there was nothing to take but the thrill of find was enough for me.</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1361897">
-                    <groundspeak:date>2011-07-07T22:19:27.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-07-08T03:19:27.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="31356">PACMANIA</groundspeak:finder>
                     <groundspeak:text encoded="False">First cache on Opencaching. Went for a walk as the weather has finally changed. Cache all OK. TFTC</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1109877">
-                    <groundspeak:date>2011-02-04T03:13:10.000-06:00</groundspeak:date>
+                    <groundspeak:date>2011-02-04T09:13:10.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="5699">McPhan</groundspeak:finder>
                     <groundspeak:text encoded="False">By the amount of water around GZ I could have thrown a line in here with as much luck as I have in bigger patches of water. Found with no trouble and all good with the cache my first Opencaching one.
@@ -147,28 +385,50 @@ One of the closest places to parliament house to fish the lake, This place has i
 TFTC and the hook</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1093264">
-                    <groundspeak:date>2011-01-25T16:38:33.000-06:00</groundspeak:date>
+                    <groundspeak:date>2011-01-25T22:38:33.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="8334">mtbikeroz</groundspeak:finder>
                     <groundspeak:text encoded="False">A very pleasant RIDE by. A pleasant 50km ride on the bike this morning in the cool of the morning on Australia Day. At 7am, the only people around were joggers, cyclists, dog walkers, traffic was non existent. 
 A lovely morning, nice spot, Thanks.</groundspeak:text>
                 </groundspeak:log>
+                <groundspeak:log id="1048738">
+                    <groundspeak:date>2011-01-13T21:53:55.000Z</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="6489">tankengine1</groundspeak:finder>
+                    <groundspeak:text encoded="False">Oh no! Another caching site! How many more will there be? Maybe someone can create one site to rule them all? :-)
+
+Anyways, Chooo ooo *FTF* on my way to work! (Do those asteriks even work on opencaching?) 
+
+Nice location, very peaceful this morning. Thanks.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1048736">
+                    <groundspeak:date>2011-01-13T20:53:50.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="6489">tankengine1</groundspeak:finder>
+                    <groundspeak:text encoded="False">Oooo a new cache...</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1575461">
+                    <groundspeak:date>2011-01-12T13:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="6489">tankengine1</groundspeak:finder>
+                    <groundspeak:text encoded="False">Chooo ooo *FTF* - nice spot. (Logged earlier, but it seems that opencaching deleted entry...</groundspeak:text>
+                </groundspeak:log>
             </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>2.8</ox:awesomeness>
+                <ox:awesomeness>2.7</ox:awesomeness>
                 <ox:difficulty>1.5</ox:difficulty>
                 <ox:size>1.9</ox:size>
                 <ox:terrain>1.0</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>&quot;Drive By&quot;</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
             </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="149.2238667" lat="-35.3423333">
-        <time>2010-12-19T03:52:48.000-06:00</time>
+        <time>2010-12-19T09:52:48.000Z</time>
         <name>OX2KENC</name>
         <desc>Local Talent by HardcoreHarris, Traditional Cache(2.9/1.0/2.8)</desc>
         <url>http://www.opencaching.com/#geocache/OX2KENC</url>
@@ -187,38 +447,49 @@ A lovely morning, nice spot, Thanks.</groundspeak:text>
             <groundspeak:encoded_hints>See the treated pine posts? elowbay the oundgray</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="1718957">
-                    <groundspeak:date>2012-01-01T07:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2012-01-01T13:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="82242">O319</groundspeak:finder>
                     <groundspeak:text encoded="False">Actually found 05/01/11 when it was a GA cache and before that when it was a GC cache.. Not bad when you can get a 3 for one..</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1515938">
-                    <groundspeak:date>2011-08-26T09:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-08-26T14:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Didn't find it</groundspeak:type>
                     <groundspeak:finder id="44520">BrigitteT</groundspeak:finder>
                     <groundspeak:text encoded="False">Lucian and I drove from Belconnen to Queanbeyan late in the afternoon. The place was very easy to find and the place was deserted. We spend a good amount of time looking for this cache. The ground was very damp and we decided not to dig. Good luck to the next person. </groundspeak:text>
                 </groundspeak:log>
-                <groundspeak:log id="1240389">
-                    <groundspeak:date>2010-12-22T14:00:00.000-06:00</groundspeak:date>
-                    <groundspeak:type>Additional Find</groundspeak:type>
-                    <groundspeak:finder id="8334">mtbikeroz</groundspeak:finder>
-                    <groundspeak:text encoded="False">Worked out the coords with my software, then collected the cache on the way home (just a &quot;small&quot; detour, nothing I've not done before.) TFTC.</groundspeak:text>
-                </groundspeak:log>
                 <groundspeak:log id="1165785">
-                    <groundspeak:date>2010-12-22T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2010-12-22T20:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Additional Find</groundspeak:type>
                     <groundspeak:finder id="8334">mtbikeroz</groundspeak:finder>
                     <groundspeak:text encoded="False">Worked out the coords with my software, then collected the cache on the way home (just a &quot;small&quot; detour, nothing I've not done before.) TFTC.</groundspeak:text>
                 </groundspeak:log>
-                <groundspeak:log id="935273">
-                    <groundspeak:date>2010-12-21T07:00:00.000-06:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
+                <groundspeak:log id="1240389">
+                    <groundspeak:date>2010-12-22T20:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
                     <groundspeak:finder id="8334">mtbikeroz</groundspeak:finder>
-                    <groundspeak:text encoded="False">Worked out the coords with my software, then collected the cache on the way home (just a &quot;small&quot; detour, nothing I've not done before.) TFTC.
-</groundspeak:text>
+                    <groundspeak:text encoded="False">Worked out the coords with my software, then collected the cache on the way home (just a &quot;small&quot; detour, nothing I've not done before.) TFTC.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="2278100">
+                    <groundspeak:date>2010-12-22T20:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="8334">mtbikeroz</groundspeak:finder>
+                    <groundspeak:text encoded="False">Worked out the coords with my software, then collected the cache on the way home (just a &quot;small&quot; detour, nothing I've not done before.) TFTC.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1795375">
+                    <groundspeak:date>2010-12-22T20:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="8334">mtbikeroz</groundspeak:finder>
+                    <groundspeak:text encoded="False">Worked out the coords with my software, then collected the cache on the way home (just a &quot;small&quot; detour, nothing I've not done before.) TFTC.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="2277977">
+                    <groundspeak:date>2010-12-22T20:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="8334">mtbikeroz</groundspeak:finder>
+                    <groundspeak:text encoded="False">Worked out the coords with my software, then collected the cache on the way home (just a &quot;small&quot; detour, nothing I've not done before.) TFTC.</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="924166">
-                    <groundspeak:date>2010-12-21T07:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2010-12-21T13:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="8080">OZ.LURKER</groundspeak:finder>
                     <groundspeak:text encoded="False">Found and logged on GC.com.
@@ -226,6 +497,13 @@ A lovely morning, nice spot, Thanks.</groundspeak:text>
 Easy find early in the morning before GZ became too busy.
 
 TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="935273">
+                    <groundspeak:date>2010-12-21T13:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="8334">mtbikeroz</groundspeak:finder>
+                    <groundspeak:text encoded="False">Worked out the coords with my software, then collected the cache on the way home (just a &quot;small&quot; detour, nothing I've not done before.) TFTC.
+</groundspeak:text>
                 </groundspeak:log>
             </groundspeak:logs>
         </groundspeak:cache>
@@ -236,17 +514,10 @@ TFTC</groundspeak:text>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Easy PNG</ox:tag>
-                <ox:tag>HardcoreHarris</ox:tag>
-                <ox:tag>PNG</ox:tag>
-                <ox:tag>Queanbeyan</ox:tag>
-                <ox:tag>2620</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="149.2234333" lat="-35.3477167">
-        <time>2010-12-15T03:55:49.000-06:00</time>
+        <time>2010-12-15T09:55:49.000Z</time>
         <name>OXZTXQP</name>
         <desc>Morton St Mongrels by HardcoreHarris, Traditional Cache(2.4/1.0/2.8)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTXQP</url>
@@ -261,25 +532,31 @@ TFTC</groundspeak:text>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>1</groundspeak:terrain>
-            <groundspeak:long_description html="True">This is my first ever cache, a traditional micro cache. Bring Your Own Pen to sign the log book. &lt;br/&gt; Oh don't let the name fool you, the cache is in a park not on Morton St, behind it =)&lt;br/&gt; 
+            <groundspeak:long_description html="True">This is my first ever cache, a traditional micro cache. Bring Your Own Pen to sign the log book. &lt;br /&gt; Oh don't let the name fool you, the cache is in a park not on Morton St, behind it =)&lt;br /&gt; 
 
 *FTF* Honours got to Black Bunny and Just a cacher from geocaching.com.au</groundspeak:long_description>
             <groundspeak:encoded_hints>Green Brick Wall, Tree Root</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="1756384">
+                    <groundspeak:date>2012-02-12T02:53:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="94877">YURUGABOY</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
                 <groundspeak:log id="1537996">
-                    <groundspeak:date>2011-09-06T09:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-09-06T14:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="54707">CORRIE44</groundspeak:finder>
                     <groundspeak:text encoded="False">kitcatt +1 found it. thanks.</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1515936">
-                    <groundspeak:date>2011-08-26T09:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-08-26T14:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="44520">BrigitteT</groundspeak:finder>
                     <groundspeak:text encoded="False">Lucian and I took a late afternoon drive from Belconnen to Queanbeyan. This cache was located on the wet ground. The small plastic container was very damp inside. The last vistor was on the 11 June 2011 but it was evident that they had trouble writing on the wet paper. We were not able to log our find as the paper was much too damp but we did return the cache to the same location.  Unfortunately a beautifully white cockatoo had met it's fate in the park and lay beside the cache. A sad ending to such a beautiful day.</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1093267">
-                    <groundspeak:date>2010-12-17T07:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2010-12-17T13:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="8334">mtbikeroz</groundspeak:finder>
                     <groundspeak:text encoded="False">A quick find on my way to a Christmas lunch in Queanbeyan, area deserted (heavy rain!), so an easy muggle free find. Thanks. 
@@ -295,17 +572,12 @@ TFTC</groundspeak:text>
                 <ox:terrain>1.0</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>Queanbeyan</ox:tag>
-                <ox:tag>2620</ox:tag>
-                <ox:tag>PNG</ox:tag>
-                <ox:tag>Easy</ox:tag>
-                <ox:tag>Mongrels</ox:tag>
-                <ox:tag>Morton</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
             </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="149.2301667" lat="-35.3525833">
-        <time>2010-12-23T05:10:06.000-06:00</time>
+        <time>2010-12-23T11:10:06.000Z</time>
         <name>OX2KJ7V</name>
         <desc>Smell the Roses by HardcoreHarris, Traditional Cache(3.0/1.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2KJ7V</url>
@@ -320,37 +592,41 @@ TFTC</groundspeak:text>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>1</groundspeak:terrain>
-            <groundspeak:long_description html="True">This cache has been placed in the heart of Queanbeyan (&quot;Town Park&quot;).
-BYOP
-
-Yet another nice place to bring the family for a BBQ. Bring the geopooch and play frisbee, lie in the grass, cook a BBQ or watch the kids play on the jungle gym.
-
-There is also a water feature with a bridge at the Northern end of the park which in the evening hosts a symphony of Banjo frogs.
-There is also a water fountain and a bed of roses. This place is really green at the time of hiding this cache.
-
-This cache is a micro so please Bring Your Own Pen.</groundspeak:long_description>
+            <groundspeak:long_description html="True">This cache has been placed in the heart of Queanbeyan (&quot;Town Park&quot;).&lt;br/&gt;BYOP&lt;br/&gt;&lt;br/&gt;Yet another nice place to bring the family for a BBQ. Bring the geopooch and play frisbee, lie in the grass, cook a BBQ or watch the kids play on the jungle gym.&lt;br/&gt;&lt;br/&gt;There is also a water feature with a bridge at the Northern end of the park which in the evening hosts a symphony of Banjo frogs.&lt;br/&gt;There is also a water fountain and a bed of roses. This place is really green at the time of hiding this cache.&lt;br/&gt;&lt;br/&gt;This cache is a micro so please Bring Your Own Pen.</groundspeak:long_description>
             <groundspeak:encoded_hints>See the round rose bed?</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="1812869">
+                    <groundspeak:date>2012-05-20T11:33:54.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="118856">Katewandevanh </groundspeak:finder>
+                    <groundspeak:text encoded="False">Logged via OpenCaching Android app.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1775989">
+                    <groundspeak:date>2012-03-28T13:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="5699">McPhan</groundspeak:finder>
+                    <groundspeak:text encoded="False">Any possiblity that the owner can have a look at this?</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1718959">
-                    <groundspeak:date>2012-01-01T07:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2012-01-01T13:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Didn't find it</groundspeak:type>
                     <groundspeak:finder id="82242">O319</groundspeak:finder>
                     <groundspeak:text encoded="False">Had GZ right on the edge of the rose Garden, but no cache and nothing that looks like the clue in the only sucessful find log. As this is a well manicured garden I would suspect that the gardners would notice something a bit odd and toss it...</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1537997">
-                    <groundspeak:date>2011-09-06T09:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-09-06T14:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Didn't find it</groundspeak:type>
                     <groundspeak:finder id="54707">CORRIE44</groundspeak:finder>
                     <groundspeak:text encoded="False">kitcatt +1.....could not find it.  even with BrigitteT wishing us luck.</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1515937">
-                    <groundspeak:date>2011-08-26T09:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-08-26T14:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Didn't find it</groundspeak:type>
                     <groundspeak:finder id="44520">BrigitteT</groundspeak:finder>
                     <groundspeak:text encoded="False">Lucian and I drove from Belconnen to Queanbeyan late in the afternoon. The location was very easy to find however we did not have any luck at finding the cache. The ground was very damp. Good luck to the next person.</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1093265">
-                    <groundspeak:date>2011-01-07T07:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2011-01-07T13:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="8334">mtbikeroz</groundspeak:finder>
                     <groundspeak:text encoded="False">Arrived at the scene to departing hordes of kiddies &amp; their parents. Just strolled over to the roses and sat down where GPS told me too, looked, 1m away looked suspicious, removed cover, found it. Retrieved, signed &amp; replaced while pretending to be sending SMS on phone. Thanks. NICE SPOT.</groundspeak:text>
@@ -364,15 +640,6 @@ This cache is a micro so please Bring Your Own Pen.</groundspeak:long_descriptio
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Queanbeyan</ox:tag>
-                <ox:tag>NSW</ox:tag>
-                <ox:tag>HardcoreHarris</ox:tag>
-                <ox:tag>2620</ox:tag>
-                <ox:tag>Canberra</ox:tag>
-                <ox:tag>PNG</ox:tag>
-                <ox:tag>ACT</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
 </gpx>

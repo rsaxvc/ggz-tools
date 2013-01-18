@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>17 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,139,90,140</url>
-    <time>2012-01-04T09:33:04.168-06:00</time>
+    <time>2012-12-19T23:02:08.534Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="140.0" maxlat="90.0" minlon="139.0" minlat="-90.0"/>
     <wpt lon="139.6193167" lat="-34.2703667">
-        <time>2010-10-23T02:00:00.000-05:00</time>
+        <time>2010-10-23T07:00:00.000Z</time>
         <name>OX2H4RV</name>
         <desc>How Strong are your Arms!!! by FIRESAFE, Traditional Cache(1.6/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2H4RV</url>
@@ -26,21 +26,54 @@
             <groundspeak:terrain>1.5</groundspeak:terrain>
             <groundspeak:long_description html="True">........ or you could find this cache on a weekend and watch the
 Scouts take off and land gliders at the nearby airfield which is
-the entrance you are now standing at.&lt;br/&gt;
+the entrance you are now standing at.&lt;br /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;br/&gt;
+&lt;br /&gt;
 The Scout Air Activities Centre is a Scout Activity Centre,
 Campsite, located in scrubland near Blanchetown, approximately
-150kms from Adelaide.&lt;br/&gt;
+150kms from Adelaide.&lt;br /&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;br/&gt;
+&lt;br /&gt;
 Combine the thrills of a flying experience, with an idyllic bush
 camp surrounded by wombats, kangaroos and birds, and sunsets to die
 for with unspoilt clear skies full of stars, and you have the Scout
 Air Activities Centre!
-&lt;p&gt;&lt;br/&gt;
+&lt;p&gt;&lt;br /&gt;
 Who says Scouts cant have fun .....&lt;/p&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>check the rocks at the back of the drums</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1805198">
+                    <groundspeak:date>2012-05-13T10:59:49.000Z</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="116551">presidentsuperstar</groundspeak:finder>
+                    <groundspeak:text encoded="False">Logged via OpenCaching for iPhone</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1805193">
+                    <groundspeak:date>2012-05-13T10:57:34.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="116551">presidentsuperstar</groundspeak:finder>
+                    <groundspeak:text encoded="False">
+Logged via OpenCaching for iPhone</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1834926">
+                    <groundspeak:date>2012-05-13T10:12:51.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="49227">Shellfish Family</groundspeak:finder>
+                    <groundspeak:text encoded="False">This is a good spot.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="2169768">
+                    <groundspeak:date>2012-04-28T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="79062">LOCUSCACHE</groundspeak:finder>
+                    <groundspeak:text encoded="False">I had been out with Team Hurtle to grab a couple fo caches in a (relatively) nearby conservation park. 
+
+As this was so close to camp, I just had to locus cache prior to going back to camp. 
+
+A nice quick find. 
+
+SL. TFTC firesafe  :)</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -52,9 +85,9 @@ Who says Scouts cant have fun .....&lt;/p&gt;</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="139.0437833" lat="-34.5068833">
-        <time>2010-06-23T02:00:00.000-05:00</time>
+        <time>2010-06-23T07:00:00.000Z</time>
         <name>OX2ANTC</name>
-        <desc>Whats the Score .... by FIRESAFE, Traditional Cache(2.0/1.5/3.0)</desc>
+        <desc>Whats the Score .... by FIRESAFE, Traditional Cache(2.1/1.5/3.1)</desc>
         <url>http://www.opencaching.com/#geocache/OX2ANTC</url>
         <urlname>Whats the Score ....</urlname>
         <sym>Geocache</sym>
@@ -67,22 +100,27 @@ Who says Scouts cant have fun .....&lt;/p&gt;</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Facilities at the Park:
-
-    * Show Hall
-    * Oval
-    * Lawn Area 
-    * Dressing Room
-    * Tennis Courts (6)
-    * Netball Courts (3)
-    * Centenary Building with Changeroom and Kitchenette
-    * Football Clubrooms 
-
-A number of major events are held here including Rallies so it may be a challenge to grab this one at times ......</groundspeak:long_description>
+            <groundspeak:long_description html="True">Facilities at the Park:&lt;br/&gt;&lt;br/&gt;    * Show Hall&lt;br/&gt;    * Oval&lt;br/&gt;    * Lawn Area &lt;br/&gt;    * Dressing Room&lt;br/&gt;    * Tennis Courts (6)&lt;br/&gt;    * Netball Courts (3)&lt;br/&gt;    * Centenary Building with Changeroom and Kitchenette&lt;br/&gt;    * Football Clubrooms &lt;br/&gt;&lt;br/&gt;A number of major events are held here including Rallies so it may be a challenge to grab this one at times ......</groundspeak:long_description>
             <groundspeak:encoded_hints>Sign of the times ...</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="2169723">
+                    <groundspeak:date>2012-09-01T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="79062">LOCUSCACHE</groundspeak:finder>
+                    <groundspeak:text encoded="False">Spring is sprung, the grass is ris: I wonder where the caches is? 
+Out with firesafe and honeysucker on a lovely spring day for a day's adventure while we searched for caches [:D]
+They found some, I found some and I lost track of how many times we managed to locus cache  [:O]  [:D]
+Hmm, how hard can a cache be when you have the CO with you? [;)]
+SL. TFTC firesafe :) </groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1834922">
+                    <groundspeak:date>2012-06-03T10:05:33.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="49227">Shellfish Family</groundspeak:finder>
+                    <groundspeak:text encoded="False">This is a great cache. It nearly had every body stumped. Keys are good.</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1196470">
-                    <groundspeak:date>2011-04-02T17:21:21.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-04-02T22:21:21.000Z</groundspeak:date>
                     <groundspeak:type>Didn't find it</groundspeak:type>
                     <groundspeak:finder id="15915">necrosymbiont</groundspeak:finder>
                     <groundspeak:text encoded="False"/>
@@ -91,15 +129,15 @@ A number of major events are held here including Rallies so it may be a challeng
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>2.0</ox:difficulty>
+                <ox:awesomeness>3.1</ox:awesomeness>
+                <ox:difficulty>2.1</ox:difficulty>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
         </ox:opencaching>
     </wpt>
     <wpt lon="139.3493167" lat="-34.5334167">
-        <time>2008-04-27T02:00:00.000-05:00</time>
+        <time>2008-04-27T07:00:00.000Z</time>
         <name>OX1BMTP</name>
         <desc>Off-Road Sedan by FIRESAFE, Traditional Cache(1.6/1.7/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1BMTP</url>
@@ -114,9 +152,23 @@ A number of major events are held here including Rallies so it may be a challeng
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">A local farmer called Louie thought that one of his paddocks would make a good off road race track with a hill in the middle for viewing, some creeks and plenty of open land. So he made one for a one off event.&lt;br/&gt;&lt;br/&gt;That first event was so successful that it is used by the Gawler Road Knights Road Club for regular events as well as the Rover Scouts for their Sand Blast.&lt;br/&gt;&lt;br/&gt;If you keep an eye on the CAMS calendar you may be able to spot an event in action. 
+            <groundspeak:long_description html="True">A local farmer called Louie thought that one of his paddocks would make a good off road race track with a hill in the middle for viewing, some creeks and plenty of open land. So he made one for a one off event.&lt;br /&gt;&lt;br /&gt;That first event was so successful that it is used by the Gawler Road Knights Road Club for regular events as well as the Rover Scouts for their Sand Blast.&lt;br /&gt;&lt;br /&gt;If you keep an eye on the CAMS calendar you may be able to spot an event in action. 
 </groundspeak:long_description>
             <groundspeak:encoded_hints>Bend the knees and back to find this one - base of tree</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1832742">
+                    <groundspeak:date>2012-06-02T10:15:03.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="49227">Shellfish Family</groundspeak:finder>
+                    <groundspeak:text encoded="False">You can see where it should be.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1805197">
+                    <groundspeak:date>2012-05-13T10:59:22.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="116551">presidentsuperstar</groundspeak:finder>
+                    <groundspeak:text encoded="False">Logged via OpenCaching for iPhone</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -128,9 +180,9 @@ A number of major events are held here including Rallies so it may be a challeng
         </ox:opencaching>
     </wpt>
     <wpt lon="139.3371833" lat="-34.5630667">
-        <time>2009-10-11T02:00:00.000-05:00</time>
+        <time>2009-10-11T07:00:00.000Z</time>
         <name>OX1ZPC0</name>
-        <desc>Sedan Broken Dreams by FIRESAFE, Traditional Cache(2.0/2.0/2.9)</desc>
+        <desc>Sedan Broken Dreams by FIRESAFE, Traditional Cache(2.0/1.9/2.9)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ZPC0</url>
         <urlname>Sedan Broken Dreams</urlname>
         <sym>Geocache</sym>
@@ -143,40 +195,52 @@ A number of major events are held here including Rallies so it may be a challeng
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">&lt;br/&gt;
+            <groundspeak:long_description html="True">&lt;br /&gt;
  Historically Sedan was a place to pass through. With no surface
 water it was only visited seasonally by Aborigines who lived along
 the River Murray or those who lived in the hills. White settlers
-lived seasonally in little huts that dotted the countryside. &lt;br/&gt;
- &lt;br/&gt;
+lived seasonally in little huts that dotted the countryside. &lt;br /&gt;
+ &lt;br /&gt;
  They visited in the spring and winter, fed their stock and
 returned to the hills when the feed ran out. The Overlanders, using
 the ‘Old Sydney Track’, which was the stock route between the
-Eastern States and Adelaide, passed through Sedan. &lt;br/&gt;
- &lt;br/&gt;
+Eastern States and Adelaide, passed through Sedan. &lt;br /&gt;
+ &lt;br /&gt;
 The Hundred of Bagot was proclaimed on the 19th of April 1860. It
 was one of the many land releases of the time, relieving pressure
 on the Adelaide Plains and Hills for the developing Colony. People
-were then able to cultivate the land and settle permanently. &lt;br/&gt;
- &lt;br/&gt;
+were then able to cultivate the land and settle permanently. &lt;br /&gt;
+ &lt;br /&gt;
 Early settlers were the Germans, seeking religious freedom, from
 Silesia and the British who sought better living conditions. The
 town is surrounded by dry-stone wall structures built by these
-early settlers. &lt;br/&gt;
- &lt;br/&gt;
+early settlers. &lt;br /&gt;
+ &lt;br /&gt;
 The nearby structure is one of the many structures that still stand
 as a testament to the conditions of the early settlers.</groundspeak:long_description>
             <groundspeak:encoded_hints>Low and Central</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="1832741">
+                    <groundspeak:date>2012-06-02T10:15:57.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="49227">Shellfish Family</groundspeak:finder>
+                    <groundspeak:text encoded="False">Don't get disoriented. Its a good challenge.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1805196">
+                    <groundspeak:date>2012-05-13T10:59:14.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="116551">presidentsuperstar</groundspeak:finder>
+                    <groundspeak:text encoded="False">Logged via OpenCaching for iPhone</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1305525">
-                    <groundspeak:date>2011-07-02T09:30:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-07-02T14:30:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="7271">AptyOC</groundspeak:finder>
                     <groundspeak:text encoded="False">Nice ruin. We were specifically in this area looking for caches near ruins so Ingrid could photograph them. TFTC
 Logged via OpenCaching for iPhone</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="316602">
-                    <groundspeak:date>2009-11-29T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2009-11-29T20:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="3140">DAZZATRON</groundspeak:finder>
                     <groundspeak:text encoded="False">Thsi cache marks my 950th cache so hopefully I will break the 1000th this year. Nice spot for a cache. TFTC Firesafe</groundspeak:text>
@@ -188,12 +252,12 @@ Logged via OpenCaching for iPhone</groundspeak:text>
                 <ox:awesomeness>2.9</ox:awesomeness>
                 <ox:difficulty>2.0</ox:difficulty>
                 <ox:size>3.0</ox:size>
-                <ox:terrain>2.0</ox:terrain>
+                <ox:terrain>1.9</ox:terrain>
             </ox:ratings>
         </ox:opencaching>
     </wpt>
     <wpt lon="139.33695" lat="-34.5706333">
-        <time>2008-03-21T02:00:00.000-05:00</time>
+        <time>2008-03-21T07:00:00.000Z</time>
         <name>OX1ACM9</name>
         <desc>Air Sedan by FIRESAFE, Traditional Cache(1.7/1.7/2.9)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ACM9</url>
@@ -208,12 +272,18 @@ Logged via OpenCaching for iPhone</groundspeak:text>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">The Sedan Airfield was originally used by Judge Lewis who used to fly to Tonga. He taught the Prince of Tonga to fly and was the Chief Justice for the Kingdom of Tonga. He has since retired and the airfield is owned by some one else.&lt;br/&gt;&lt;br/&gt;But don't try to land your own plane on this one - it is a private airstrip and visitors on the strip are not welcome.&lt;br/&gt;&lt;br/&gt;The cache is located in the roadside verge, on a well maintained dirt road. 
+            <groundspeak:long_description html="True">The Sedan Airfield was originally used by Judge Lewis who used to fly to Tonga. He taught the Prince of Tonga to fly and was the Chief Justice for the Kingdom of Tonga. He has since retired and the airfield is owned by some one else.&lt;br /&gt;&lt;br /&gt;But don't try to land your own plane on this one - it is a private airstrip and visitors on the strip are not welcome.&lt;br /&gt;&lt;br /&gt;The cache is located in the roadside verge, on a well maintained dirt road. 
 </groundspeak:long_description>
             <groundspeak:encoded_hints>Bend the back and knees to seek.</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="1832740">
+                    <groundspeak:date>2012-06-02T10:15:46.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="49227">Shellfish Family</groundspeak:finder>
+                    <groundspeak:text encoded="False">Good location.</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1305524">
-                    <groundspeak:date>2011-07-03T01:53:03.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-07-03T06:53:03.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="7271">AptyOC</groundspeak:finder>
                     <groundspeak:text encoded="False">No sign of air planes today - I'm guessing there's not a lot of international flights coming in :oP
@@ -221,7 +291,7 @@ TFTC
 Logged via OpenCaching for iPhone</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="316037">
-                    <groundspeak:date>2009-11-29T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2009-11-29T20:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="3140">DAZZATRON</groundspeak:finder>
                     <groundspeak:text encoded="False">Found on the way back from Loxton to the &quot;Christmas By The Lake&quot; Event. Quick find then down the road to the next cache. TFTC</groundspeak:text>
@@ -238,9 +308,9 @@ Logged via OpenCaching for iPhone</groundspeak:text>
         </ox:opencaching>
     </wpt>
     <wpt lon="139.29105" lat="-34.57745">
-        <time>2009-04-10T02:00:00.000-05:00</time>
+        <time>2009-04-10T07:00:00.000Z</time>
         <name>OX1PP8X</name>
-        <desc>Up There Sedan by FIRESAFE, Traditional Cache(1.6/1.7/2.9)</desc>
+        <desc>Up There Sedan by FIRESAFE, Traditional Cache(1.7/1.7/2.9)</desc>
         <url>http://www.opencaching.com/#geocache/OX1PP8X</url>
         <urlname>Up There Sedan</urlname>
         <sym>Geocache</sym>
@@ -253,12 +323,24 @@ Logged via OpenCaching for iPhone</groundspeak:text>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Third in the &quot;Around Sedan&quot; Series.&lt;br/&gt;&lt;br/&gt;This cache can be found near the Sedan - Cambrai Football Club.&lt;br/&gt;&lt;br/&gt;Some Facts on the Football club which wears Magpie Colours.&lt;br/&gt;&lt;br/&gt;Timeline :&lt;br/&gt;1947 - Barossa &amp; Murray Valley FA : Sedan-Cambrai participated.&lt;br/&gt;1948 - Barossa Plains FL Grand Final : Truro defeated Sedan-Cambrai.&lt;br/&gt;1955 - Barossa Plains FL : Sedan-Cambrai participated.&lt;br/&gt;1967 - Hills FL Northern Zone : Sedan-Cambrai were a founding club.&lt;br/&gt;1968-71 - Hills FL Northern Zone : Sedan-Cambrai participated.&lt;br/&gt;1972 - Hills FL Division 2 : Sedan-Cambrai participated.&lt;br/&gt;1974 - Hills FL Division 2 : Sedan-Cambrai participated.&lt;br/&gt;1985 - Mid-Murray FA : Sedan-Cambrai commenced.&lt;br/&gt;1986-93 - Mid-Murray FA : Sedan-Cambrai participated.&lt;br/&gt;1994 - Mid-Murray FA Grand Final : Perponda defeated Sedan-Cambrai.&lt;br/&gt;1995-96 - Mid-Murray FA : Sedan-Cambrai participated.&lt;br/&gt;&lt;br/&gt;1997 : &lt;br/&gt;Wunkar Carnival - Sedan-Cambrai won the carnival.&lt;br/&gt;Mid-Murray FA - Sedan-Cambrai participated.&lt;br/&gt;&lt;br/&gt;1998 - Mid-Murray FA : Sedan-Cambrai were premiers.&lt;br/&gt;1999 - Mid-Murray FA : Sedan-Cambrai participated.&lt;br/&gt;2000 - Mid-Murray FA Grand Final : Sedan-Cambrai defeated Robertstown.&lt;br/&gt;2001 - Mid-Murray FA : Sedan-Cambrai participated.&lt;br/&gt;&lt;br/&gt;2002 (Mid-Murray FA) :&lt;br/&gt;Sedan-Cambrai were 4th after H&amp;As.&lt;br/&gt;First Semi-Final - Sedan-Cambrai 10.19.79 defeated Morgan-Cadell 10.9.69 @ Ramco.&lt;br/&gt;Preliminary Final - Ramco 11.9.75 defeated Sedan-Cambrai 7.9.51 @ Robertstown.&lt;br/&gt;&lt;br/&gt;2003 :&lt;br/&gt;Wunkar Carnival Division 2 - Sedan-Cambrai participated.&lt;br/&gt;Mid-Murray FA - Sedan-Cambrai participated.&lt;br/&gt;&lt;br/&gt;2004 - Mid-Murray FA : Sedan-Cambrai participated. 
+            <groundspeak:long_description html="True">Third in the &quot;Around Sedan&quot; Series.&lt;br /&gt;&lt;br /&gt;This cache can be found near the Sedan - Cambrai Football Club.&lt;br /&gt;&lt;br /&gt;Some Facts on the Football club which wears Magpie Colours.&lt;br /&gt;&lt;br /&gt;Timeline :&lt;br /&gt;1947 - Barossa &amp; Murray Valley FA : Sedan-Cambrai participated.&lt;br /&gt;1948 - Barossa Plains FL Grand Final : Truro defeated Sedan-Cambrai.&lt;br /&gt;1955 - Barossa Plains FL : Sedan-Cambrai participated.&lt;br /&gt;1967 - Hills FL Northern Zone : Sedan-Cambrai were a founding club.&lt;br /&gt;1968-71 - Hills FL Northern Zone : Sedan-Cambrai participated.&lt;br /&gt;1972 - Hills FL Division 2 : Sedan-Cambrai participated.&lt;br /&gt;1974 - Hills FL Division 2 : Sedan-Cambrai participated.&lt;br /&gt;1985 - Mid-Murray FA : Sedan-Cambrai commenced.&lt;br /&gt;1986-93 - Mid-Murray FA : Sedan-Cambrai participated.&lt;br /&gt;1994 - Mid-Murray FA Grand Final : Perponda defeated Sedan-Cambrai.&lt;br /&gt;1995-96 - Mid-Murray FA : Sedan-Cambrai participated.&lt;br /&gt;&lt;br /&gt;1997 : &lt;br /&gt;Wunkar Carnival - Sedan-Cambrai won the carnival.&lt;br /&gt;Mid-Murray FA - Sedan-Cambrai participated.&lt;br /&gt;&lt;br /&gt;1998 - Mid-Murray FA : Sedan-Cambrai were premiers.&lt;br /&gt;1999 - Mid-Murray FA : Sedan-Cambrai participated.&lt;br /&gt;2000 - Mid-Murray FA Grand Final : Sedan-Cambrai defeated Robertstown.&lt;br /&gt;2001 - Mid-Murray FA : Sedan-Cambrai participated.&lt;br /&gt;&lt;br /&gt;2002 (Mid-Murray FA) :&lt;br /&gt;Sedan-Cambrai were 4th after H&amp;As.&lt;br /&gt;First Semi-Final - Sedan-Cambrai 10.19.79 defeated Morgan-Cadell 10.9.69 @ Ramco.&lt;br /&gt;Preliminary Final - Ramco 11.9.75 defeated Sedan-Cambrai 7.9.51 @ Robertstown.&lt;br /&gt;&lt;br /&gt;2003 :&lt;br /&gt;Wunkar Carnival Division 2 - Sedan-Cambrai participated.&lt;br /&gt;Mid-Murray FA - Sedan-Cambrai participated.&lt;br /&gt;&lt;br /&gt;2004 - Mid-Murray FA : Sedan-Cambrai participated. 
 </groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="1832739">
+                    <groundspeak:date>2012-06-02T10:15:22.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="49227">Shellfish Family</groundspeak:finder>
+                    <groundspeak:text encoded="False">This was an interesting find. Make sure you have a good look.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1805194">
+                    <groundspeak:date>2012-05-13T10:58:36.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="116551">presidentsuperstar</groundspeak:finder>
+                    <groundspeak:text encoded="False">Logged via OpenCaching for iPhone</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1305523">
-                    <groundspeak:date>2011-07-03T00:46:28.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-07-03T05:46:28.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="7271">AptyOC</groundspeak:finder>
                     <groundspeak:text encoded="False">Out for the day in Sedan area, specifically to grab the &quot;Come Renovate ... &quot; series and hopefully the power trail.
@@ -266,7 +348,7 @@ TFTC firesafe :o)
 Logged via OpenCaching for iPhone</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="316149">
-                    <groundspeak:date>2009-11-29T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2009-11-29T20:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="3140">DAZZATRON</groundspeak:finder>
                     <groundspeak:text encoded="False">Was a quick drive by if the cars would stop going by I think everyone in the area was on the road today seemed like 30 cars (Slight exaggeration) went passed before I could cross the road to get the cache. Thanks again Firesafe</groundspeak:text>
@@ -276,14 +358,14 @@ Logged via OpenCaching for iPhone</groundspeak:text>
         <ox:opencaching>
             <ox:ratings>
                 <ox:awesomeness>2.9</ox:awesomeness>
-                <ox:difficulty>1.6</ox:difficulty>
-                <ox:size>3.0</ox:size>
+                <ox:difficulty>1.7</ox:difficulty>
+                <ox:size>2.9</ox:size>
                 <ox:terrain>1.7</ox:terrain>
             </ox:ratings>
         </ox:opencaching>
     </wpt>
     <wpt lon="139.216" lat="-34.7531833">
-        <time>2010-06-23T02:00:00.000-05:00</time>
+        <time>2010-06-23T07:00:00.000Z</time>
         <name>OX2APNX</name>
         <desc>Three Chain Pioneers by FIRESAFE, Traditional Cache(1.6/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2APNX</url>
@@ -298,16 +380,23 @@ Logged via OpenCaching for iPhone</groundspeak:text>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">The Sanderston cemetery is located approximately 500 on the right from the intersection of Mount Pleasant/Walker Flat road and Three Chain Road. 
-
-Set well back from the road it is surrounded by a rabbit proof fence.
-
- The reserve has been surveyed and 67 native plants and 12 introduced species have been identified. Because of the rabbit proof fence, one variety which is no longer in the area, the 'Kangaroo Grass' flourishes. 
-
-It once covered a large are of the hlls, but the rabbits have completely eradicated it. This grass may on seasonal occations show rapid growth in the cemetery area and create some untidyness. 
-
-Please understand the need to preserve it.</groundspeak:long_description>
+            <groundspeak:long_description html="True">The Sanderston cemetery is located approximately 500 on the right from the intersection of Mount Pleasant/Walker Flat road and Three Chain Road. &lt;br/&gt;&lt;br/&gt;Set well back from the road it is surrounded by a rabbit proof fence.&lt;br/&gt;&lt;br/&gt; The reserve has been surveyed and 67 native plants and 12 introduced species have been identified. Because of the rabbit proof fence, one variety which is no longer in the area, the 'Kangaroo Grass' flourishes. &lt;br/&gt;&lt;br/&gt;It once covered a large are of the hlls, but the rabbits have completely eradicated it. This grass may on seasonal occations show rapid growth in the cemetery area and create some untidyness. &lt;br/&gt;&lt;br/&gt;Please understand the need to preserve it.</groundspeak:long_description>
             <groundspeak:encoded_hints>Dont get tyred ...</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1832738">
+                    <groundspeak:date>2012-06-02T10:15:37.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="49227">Shellfish Family</groundspeak:finder>
+                    <groundspeak:text encoded="False">Our very first Find. Great location.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1805418">
+                    <groundspeak:date>2012-05-13T03:36:02.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="116551">presidentsuperstar</groundspeak:finder>
+                    <groundspeak:text encoded="False">
+Logged via OpenCaching for iPhone</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -319,7 +408,7 @@ Please understand the need to preserve it.</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="139.0065333" lat="-34.8411">
-        <time>2009-07-30T02:00:00.000-05:00</time>
+        <time>2009-07-30T07:00:00.000Z</time>
         <name>OX1WJG2</name>
         <desc>Murray View by FIRESAFE, Traditional Cache(1.7/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1WJG2</url>
@@ -334,19 +423,11 @@ Please understand the need to preserve it.</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">I was out repairing fence damage this morning after rally cars were doing their &quot;recce&quot; today which is supposed to mean reconnaissance not &quot;wreckie&quot;.
-
-While waiting for the droppers and wire to arrive I looked across and there was a magnificent view with a farm gate saying Murray View. A perfect spot for a cache.
-
-I am not sure if you can see the Murray from here but you couldn't today through the rain and fog.
-
-The steers in the next paddock were friendly and inquisitive.
-
-All I had at the time was an Eclipse tin and you will need to bring your own writing stick. Enjoy the view.</groundspeak:long_description>
+            <groundspeak:long_description html="True">I was out repairing fence damage this morning after rally cars were doing their &quot;recce&quot; today which is supposed to mean reconnaissance not &quot;wreckie&quot;.&lt;br/&gt;&lt;br/&gt;While waiting for the droppers and wire to arrive I looked across and there was a magnificent view with a farm gate saying Murray View. A perfect spot for a cache.&lt;br/&gt;&lt;br/&gt;I am not sure if you can see the Murray from here but you couldn't today through the rain and fog.&lt;br/&gt;&lt;br/&gt;The steers in the next paddock were friendly and inquisitive.&lt;br/&gt;&lt;br/&gt;All I had at the time was an Eclipse tin and you will need to bring your own writing stick. Enjoy the view.</groundspeak:long_description>
             <groundspeak:encoded_hints>About waist high ...</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="1311015">
-                    <groundspeak:date>2011-07-05T06:59:48.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-07-05T11:59:48.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="42894">donlorry</groundspeak:finder>
                     <groundspeak:text encoded="False"/>
@@ -362,8 +443,99 @@ All I had at the time was an Eclipse tin and you will need to bring your own wri
             </ox:ratings>
         </ox:opencaching>
     </wpt>
+    <wpt lon="139.7543333" lat="35.6021667">
+        <time>2012-11-12T05:15:07.000Z</time>
+        <name>OXZTBQQ</name>
+        <desc>Oi Futo Ryokudo #4 (Boardwalk) by tokyotwowheeling, Traditional Cache(2.6/2.4/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTBQQ</url>
+        <urlname>Oi Futo Ryokudo #4 (Boardwalk)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28461712">
+            <groundspeak:name>Oi Futo Ryokudo #4 (Boardwalk)</groundspeak:name>
+            <groundspeak:placed_by>tokyotwowheeling</groundspeak:placed_by>
+            <groundspeak:owner id="100954">tokyotwowheeling</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Oi Futo Greenway was created to restore marine wetlands and provide an area to enjoy sports and recreation. Oi Futo Greenway was built with an emphasis on protecting the environment of landfill areas and provide people a chance to get close to nature.&lt;br/&gt; &lt;br/&gt;The path through Oi Futo Greenway allows visitors to become intimate with woods and water as it winds along the edge of the pond and through the deciduous trees like sycamore and oak and such flowering trees as sasanqua and Rose of Sharon. The path follows the course of the stream that flows through the park.&lt;br/&gt; &lt;br/&gt;The cache is hidden along Oi Ryokudo. The cache is accessible from Oi Keibajo Mae Station on the Tokyo Monorail or Samezu Station and Aomonoyokocho Station on the Keikyu Honsen Line. The cache is within walking distance but it is easier to reach by bicycle. If you come by bicycle you should be prepare to do some light trail riding. The skinny tire clan my want to park their racers on the sidewalk and hoof it the rest of the way.&lt;br/&gt; &lt;br/&gt;WARNING! The mosquitos are vicious during the warm months of the year.&lt;br/&gt; &lt;br/&gt;There is no pen in the cache.&lt;br/&gt; &lt;br/&gt;大井埠頭中央海浜公園は、海の自然を利用して水辺に親しみながら、スポーツレクレーションを楽しめる海上公園の一つです。大井埠頭中央海浜公園は、特に埋立地の環境を保護し、利用者が緑を親しむ事に重点を置いて作られました。&lt;br/&gt;&lt;br/&gt;園路は、緑や水辺に自然な形で親しめるように、池沿いと樹林の中にあります。園路の周辺の樹木は、明るくさわやかな雰囲気にするために、落葉樹（プラタナス、コナラなど）や花木（サザンカ、ムクゲなど）を中心に植えてあります。パスは、土手に沿って公園を流れるストリームにあります。&lt;br/&gt;&lt;br/&gt;[注意]&lt;br/&gt;WARNING！暖かい季節は蚊に注意して下さい。&lt;br/&gt;&lt;br/&gt;キャッシュにはペンが入っていません。&lt;br/&gt;</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>2.4</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="139.7526667" lat="35.6056667">
+        <time>2012-10-05T05:00:30.000Z</time>
+        <name>OXZTCK6</name>
+        <desc>Oi Futo Ryokudo #01 (Entrance) by tokyotwowheeling, Traditional Cache(2.0/2.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTCK6</url>
+        <urlname>Oi Futo Ryokudo #01 (Entrance)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28462532">
+            <groundspeak:name>Oi Futo Ryokudo #01 (Entrance)</groundspeak:name>
+            <groundspeak:placed_by>tokyotwowheeling</groundspeak:placed_by>
+            <groundspeak:owner id="100954">tokyotwowheeling</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Oi Futo Greenway was created to restore marine wetlands and provide an area to enjoy sports and recreation. Oi Futo Greenway was built with an emphasis on protecting the environment of landfill areas and provide people a chance to get close to nature.&lt;br/&gt;&lt;br/&gt;The greenway stretches north and south and consists of three parts: pond, garden path, and woods. Each part plays its role in supporting the whole. The pond serves to regulate the flow of water and temporarily store some of the rainwater that runs off the nearby Yashio Park Town apartment complex. It gives residence a soothing place to relax. The path allows visitors to become intimate with woods and water as it winds along the edge of the pond and through the deciduous trees like sycamore and oak) and such flowering trees as sasanqua and Rose of Sharon. The woods follows the line of the highway and serves the function of mitigating the exhaust and fumes from passing vehicles and absorbing the road noise. Evergreens such as edulis and tap were planted so that even in winter the woods would remain lush and green.&lt;br/&gt;&lt;br/&gt;The cache is hidden near the entrance of Oi Ryokudo Greenway. There is a parking lot nearby and the cache is accessible from Oi Keibajo Mae Station on the Tokyo Monorail or Samezu Station and Aomonoyokocho Station on the Keikyu Honsen Line. The cache is within walking distance but it is easier to reach by bicycle. If you come by bicycle you should be prepare to do some light trail riding. The skinny tire clan my want to park their racers on the sidewalk and hoof it the rest of the way.&lt;br/&gt;&lt;br/&gt;WARNING! The mosquitos are vicious during the warm months of the year.&lt;br/&gt;&lt;br/&gt;There is no pen in the cache.&lt;br/&gt;&lt;br/&gt;大井埠頭中央海浜公園は、海の自然を利用して水辺に親しみながら、スポーツレクレーションを楽しめる海上公園の一つです。大井埠頭中央海浜公園は、特に埋立地の環境を保護し、利用者が緑を親しむ事に重点を置いて作られました。&lt;br/&gt;&lt;br/&gt;公園全体は、池、森、園路の南北に細長い３つのエリアで構成され、池は、近隣の八潮パークタウンの雨水を貯め、水の流れを調整するのに役立っています。それは、居住者にリラックスする場所を与えます。園路は、緑や水辺に自然な形で親しめるように、池沿いと樹林の中にあります。園路の周辺の樹木は、明るくさわやかな雰囲気にするために、落葉樹（プラタナス、コナラなど）や花木（サザンカ、ムクゲなど）を中心に植えてあります。樹林は、高速道路側につくられ、道路から発生する騒音や排気ガスを緩和するはたらきを持っています。樹木は、冬でも葉をたくさん繁らせる常緑樹（マテバシイ、タブなど）を中心に植えてあります。&lt;br/&gt;&lt;br/&gt;キャッシュは、大井埠頭中央海浜公園の入口付近に隠されています。東京モノレールの大井競馬場前駅、京急本戦の鮫洲駅と青物横丁駅からのアクセスが可能です。キャッシュは、徒歩圏内にありますが、自転車でも可能です。自転車の場合道の一部が舗装されていません。スキニータイヤを装着している自転車の方は、キャッシュに近づいたら、歩道に自転車を止めて、キャッシュまでは徒歩で行く事をお勧めします。&lt;br/&gt;&lt;br/&gt;[注意]&lt;br/&gt;WARNING！暖かい季節は蚊に注意して下さい。&lt;br/&gt;&lt;br/&gt;キャッシュにはペンが入っていません。</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="139.7531667" lat="35.6058333">
+        <time>2012-09-11T21:45:53.000Z</time>
+        <name>OXZTD2Q</name>
+        <desc>Oi Futo Ryokudo #02 (Tree Stump) by tokyotwowheeling, Traditional Cache(2.6/2.7/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTD2Q</url>
+        <urlname>Oi Futo Ryokudo #02 (Tree Stump)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28462983">
+            <groundspeak:name>Oi Futo Ryokudo #02 (Tree Stump)</groundspeak:name>
+            <groundspeak:placed_by>tokyotwowheeling</groundspeak:placed_by>
+            <groundspeak:owner id="100954">tokyotwowheeling</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Oi Futo Greenway was created to restore marine wetlands and provide an area to enjoy sports and recreation. Oi Futo Greenway was built with an emphasis on protecting the environment of landfill areas and provide people a chance to get close to nature.&lt;br/&gt;&lt;br/&gt;The path through Oi Futo Greenway allows visitors to become intimate with woods and water as it winds along the edge of the pond and through the deciduous trees like sycamore and oak and such flowering trees as sasanqua and Rose of Sharon. &lt;br/&gt;&lt;br/&gt;The cache is hidden along Oi Ryokudo. The cache is accessible from Oi Keibajo Mae Station on the Tokyo Monorail or Samezu Station and Aomonoyokocho Station on the Keikyu Honsen Line. The cache is within walking distance but it is easier to reach by bicycle. If you come by bicycle you should be prepare to do some light trail riding. The skinny tire clan my want to park their racers on the sidewalk and hoof it the rest of the way.&lt;br/&gt;&lt;br/&gt;WARNING! The mosquitos are vicious during the warm months of the year.&lt;br/&gt;&lt;br/&gt;There is no pen in the cache.&lt;br/&gt;&lt;br/&gt;大井ふ頭緑地公園は、海の自然を回復し、水辺に親しみながら、スポーツやレクリエーション楽しめるようにつくられた海上公園の一つです。大井ふ頭緑道公園は、その中でも、特に埋立地の環境を守り、人々が緑に親しむことに重点をおいてつくられました。&lt;br/&gt;&lt;br/&gt;園路は、緑や水辺に自然な形で親しめるように、池沿いと樹林の中にあります。園路の周辺に植えられた樹木は、明るくさわやかな雰囲気にするために、落葉樹（プラタナス、コナラなど）や花木（サザンカ、ムクゲなど）を中心に植えてあります。&lt;br/&gt;&lt;br/&gt;キャッシュは大井緑道に沿った場所に隠しました。&lt;br/&gt;東京モノレールの大井競馬場前駅か京浜急行の鮫洲駅と青物横丁駅から行くことができます。&lt;br/&gt;駅からは徒歩圏内です。道の一部が舗装されていないので、細いタイヤの自転車で行かれる方は、近くまで行ったら歩道に自転車を止めて歩くのをおすすめします。&lt;br/&gt;&lt;br/&gt;WARNING！夏の間の蚊の攻撃はハンパないです。&lt;br/&gt;&lt;br/&gt;キャッシュにはペンが入っていません。 </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>2.7</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+        </ox:opencaching>
+    </wpt>
     <wpt lon="139.7082417" lat="35.6617567">
-        <time>2011-06-14T07:47:37.000-05:00</time>
+        <time>2011-06-14T12:47:37.000Z</time>
         <name>OXZTTXK</name>
         <desc>National Children's Castle by sawayaka, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTTXK</url>
@@ -378,31 +550,11 @@ All I had at the time was an Eclipse tin and you will need to bring your own wri
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">I hid a cache near the National Children's Castle.
-
-To celebrate the International Year of the Child in 1979, the Ministry of Health (then) initiative by the Children's Center is a large comprehensive built.
-
-Is the management association is shining Shigeru Iku Children Foundation. The hotel has a lobby video library facilities and computer room chamber music, physical education Pureihoru Design Studio, for the healthy development of children, a variety of &quot;play&quot; program offers .
-
-In order to support the welfare of children and various aspects of culture, in addition to children's play area, amphitheater and two theaters and theater Aoyama Aoyama, training room hotel restaurant, child health clinics, childcare facilities, etc. There are complex. 
-
-
-*Taro Okamoto - kodomo no ki (Child's Tree)*
-
-It is sculpture &quot;Child's tree. &quot; of production of Taro Okamoto to would like you to see also. 
-Vigour of the child who grows up and mischievous feeling are very human works in &quot;Child's tree&quot; (1985) that exists in Aoyama's National Children's Castle against &quot;Tower in the sun&quot; (1970) even divine the form that draws features in order that give off a golden gleam in Taro Okamoto's work and a beautiful curve that is. 
-Do the face down of the face on the tip of the branch that extended to eight people as all are seen from children. It seems to be made it to height that the child that it is made to hold in the plinth can get on. 
-
-Please see linked Websites as follows. 
-http://members.jcom.home.ne.jp/nobish/981kodomo.html
-
-
-cache is a small case.
-Please bring a pen to be able to write well.     </groundspeak:long_description>
+            <groundspeak:long_description html="True">I hid a cache near the National Children's Castle.&lt;br/&gt;&lt;br/&gt;To celebrate the International Year of the Child in 1979, the Ministry of Health (then) initiative by the Children's Center is a large comprehensive built.&lt;br/&gt;&lt;br/&gt;Is the management association is shining Shigeru Iku Children Foundation. The hotel has a lobby video library facilities and computer room chamber music, physical education Pureihoru Design Studio, for the healthy development of children, a variety of &quot;play&quot; program offers .&lt;br/&gt;&lt;br/&gt;In order to support the welfare of children and various aspects of culture, in addition to children's play area, amphitheater and two theaters and theater Aoyama Aoyama, training room hotel restaurant, child health clinics, childcare facilities, etc. There are complex. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;*Taro Okamoto - kodomo no ki (Child's Tree)*&lt;br/&gt;&lt;br/&gt;It is sculpture &quot;Child's tree. &quot; of production of Taro Okamoto to would like you to see also. &lt;br/&gt;Vigour of the child who grows up and mischievous feeling are very human works in &quot;Child's tree&quot; (1985) that exists in Aoyama's National Children's Castle against &quot;Tower in the sun&quot; (1970) even divine the form that draws features in order that give off a golden gleam in Taro Okamoto's work and a beautiful curve that is. &lt;br/&gt;Do the face down of the face on the tip of the branch that extended to eight people as all are seen from children. It seems to be made it to height that the child that it is made to hold in the plinth can get on. &lt;br/&gt;&lt;br/&gt;Please see linked Websites as follows. &lt;br/&gt;http://members.jcom.home.ne.jp/nobish/981kodomo.html&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;cache is a small case.&lt;br/&gt;Please bring a pen to be able to write well.     </groundspeak:long_description>
             <groundspeak:encoded_hints>The direction where the face of the blue faces.Under the over road step.Diamond Shape Mini Case.</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="1301071">
-                    <groundspeak:date>2011-06-26T01:42:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-06-26T06:42:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="40180">GC.Hidenori</groundspeak:finder>
                     <groundspeak:text encoded="False">I came shibuya for ARG game casssino,and came this cache before the game.
@@ -422,12 +574,12 @@ Logged via OpenCaching Android app.</groundspeak:text>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>&quot;Telephone booth&quot; &quot;sign&quot; &quot;map&quot;</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
             </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="139.7612" lat="35.6657">
-        <time>2008-12-08T02:00:00.000-06:00</time>
+        <time>2008-12-08T08:00:00.000Z</time>
         <name>OX1JR33</name>
         <desc>Old Shimbashi Station by LEEWINNIE, Traditional Cache(4.7/1.1/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1JR33</url>
@@ -442,32 +594,23 @@ Logged via OpenCaching Android app.</groundspeak:text>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>4.5</groundspeak:difficulty>
             <groundspeak:terrain>1</groundspeak:terrain>
-            <groundspeak:long_description html="True">The Old Shimbashi Station reproduces the external appearance of the first Shimbashi Station,the Tokyo terminus of Japan's first railway line opened on 14 October 1872,as faithfully as possible on its original site.The first station building was designed by the American architect R.P.Bridgens(1819-91).Construction started in May 1871 and was completed in December of the same year.Western-style buildings was still rare in Tokyo at that time,but the station's imposing design symbolized Japan's modernization in tandem with the westernized rebuilding of Ginza Dori soon after the opening of the railway.
-
-The Passenger-terminal functions of Shimbashi Station were transferred to the new Tokyo Station when it was opened in 1914 and Shimbashi Station was renamed Shiodome Station and became a freight terminal.The Shimbashi Station name was transferred to Karasumori Station,which still remains as today's Shimbashi Station.In its new role as a freight terminal,Shiodome played a pivotal part in Japan's subsequent economic growth.
- 
-Unfortunately,the magnificent old station building in Shiodome,which had symbolized Japan's westernization movement during the Meiji period(1868-1912),was destroyed by fire following the Great Kanto Earthquake on 1 September 1923.Renovation works in Shiodome freight terminal from 1934 onwards resulted in the demolition of the old remaining platforms and original structures not destroyed by the 1923 fire.
-Following the closure of Shiodome freight terminal in 1968,archaeological excavations in 1991 led to the discovery of the station site and the unearthing of the platforms and foundations of the first Shimbashi Station building.On 10 December 1996,the Japanese government designated the remains of the station building and part of the platform as the Old Shimbashi Station Historic Site.
-This reproduction of the first station building has been built to conserve and display these historic remains and to commemorate the birthplace of railways in Japan.
-The dotted line shows the extent of the government-designated Old Shimbashi Station Historic Site.
-
-Cache cotainer is a small card cace.
-Please have the pen.
-
-旧新橋停車場は、1872（明治5）年10月14日に開業した日本最初の鉄道ターミナル新橋停車場の駅舎の外観を、当時と同じ位置に、できるだけ忠実に再現したものです。
-新橋停車場駅舎は、アメリカ人R・P・ブリジェンスの設計による木骨石張りの構造で、1871（明治4）年5月に着工、同年12月に完成し、西洋建築がまだ珍しかった時代の東京で、鉄道開業直後に西洋風に整備された銀座通りに向かって、威容を誇っていました。
-1914（大正3）年、新設の東京駅に旅客ターミナルの機能が移り、それまでの烏森（からすもり）駅が新橋の名を引き継いで現在の新橋駅となり、貨物専用駅となった旧駅は汐留駅と改称、物流の大拠点として戦前戦後を通じて東京の経済活動を支えました。
-文明開化の象徴として親しまれていた旧駅舎は、1923（大正12）年9月1日の関東大震災に際して火災のため焼失し、1934（昭和9）年から始まった汐留駅改良工事のため、残存していたプラットホームや構内の初施設も解体されました。
-1986（昭和61）年、汐留駅はその使命を終えて廃止され、敷地の再開発工事に先立つ埋蔵文化財の発掘調査が1991（平成3）年から行われた結果、旧新橋停車場駅舎とプラットホームなど構内の諸施設の礎石が発掘されました。1996（平成8）年12月10日、駅舎とプラットホームの一部の遺構が史跡『旧新橋停車場』として国の指定を受け、この史跡を保護しつつわが国鉄道発祥の往時を偲びために、駅舎を再建することになったものです。
-
-cacheは名刺入れです。
-ペンをお持ちください。 
-
-HA HI HU HE HO </groundspeak:long_description>
+            <groundspeak:long_description html="True">The Old Shimbashi Station reproduces the external appearance of the first Shimbashi Station,the Tokyo terminus of Japan's first railway line opened on 14 October 1872,as faithfully as possible on its original site.The first station building was designed by the American architect R.P.Bridgens(1819-91).Construction started in May 1871 and was completed in December of the same year.Western-style buildings was still rare in Tokyo at that time,but the station's imposing design symbolized Japan's modernization in tandem with the westernized rebuilding of Ginza Dori soon after the opening of the railway.&lt;br/&gt;&lt;br/&gt;The Passenger-terminal functions of Shimbashi Station were transferred to the new Tokyo Station when it was opened in 1914 and Shimbashi Station was renamed Shiodome Station and became a freight terminal.The Shimbashi Station name was transferred to Karasumori Station,which still remains as today's Shimbashi Station.In its new role as a freight terminal,Shiodome played a pivotal part in Japan's subsequent economic growth.&lt;br/&gt; &lt;br/&gt;Unfortunately,the magnificent old station building in Shiodome,which had symbolized Japan's westernization movement during the Meiji period(1868-1912),was destroyed by fire following the Great Kanto Earthquake on 1 September 1923.Renovation works in Shiodome freight terminal from 1934 onwards resulted in the demolition of the old remaining platforms and original structures not destroyed by the 1923 fire.&lt;br/&gt;Following the closure of Shiodome freight terminal in 1968,archaeological excavations in 1991 led to the discovery of the station site and the unearthing of the platforms and foundations of the first Shimbashi Station building.On 10 December 1996,the Japanese government designated the remains of the station building and part of the platform as the Old Shimbashi Station Historic Site.&lt;br/&gt;This reproduction of the first station building has been built to conserve and display these historic remains and to commemorate the birthplace of railways in Japan.&lt;br/&gt;The dotted line shows the extent of the government-designated Old Shimbashi Station Historic Site.&lt;br/&gt;&lt;br/&gt;Cache cotainer is a small card cace.&lt;br/&gt;Please have the pen.&lt;br/&gt;&lt;br/&gt;旧新橋停車場は、1872（明治5）年10月14日に開業した日本最初の鉄道ターミナル新橋停車場の駅舎の外観を、当時と同じ位置に、できるだけ忠実に再現したものです。&lt;br/&gt;新橋停車場駅舎は、アメリカ人R・P・ブリジェンスの設計による木骨石張りの構造で、1871（明治4）年5月に着工、同年12月に完成し、西洋建築がまだ珍しかった時代の東京で、鉄道開業直後に西洋風に整備された銀座通りに向かって、威容を誇っていました。&lt;br/&gt;1914（大正3）年、新設の東京駅に旅客ターミナルの機能が移り、それまでの烏森（からすもり）駅が新橋の名を引き継いで現在の新橋駅となり、貨物専用駅となった旧駅は汐留駅と改称、物流の大拠点として戦前戦後を通じて東京の経済活動を支えました。&lt;br/&gt;文明開化の象徴として親しまれていた旧駅舎は、1923（大正12）年9月1日の関東大震災に際して火災のため焼失し、1934（昭和9）年から始まった汐留駅改良工事のため、残存していたプラットホームや構内の初施設も解体されました。&lt;br/&gt;1986（昭和61）年、汐留駅はその使命を終えて廃止され、敷地の再開発工事に先立つ埋蔵文化財の発掘調査が1991（平成3）年から行われた結果、旧新橋停車場駅舎とプラットホームなど構内の諸施設の礎石が発掘されました。1996（平成8）年12月10日、駅舎とプラットホームの一部の遺構が史跡『旧新橋停車場』として国の指定を受け、この史跡を保護しつつわが国鉄道発祥の往時を偲びために、駅舎を再建することになったものです。&lt;br/&gt;&lt;br/&gt;cacheは名刺入れです。&lt;br/&gt;ペンをお持ちください。 &lt;br/&gt;&lt;br/&gt;HA HI HU HE HO </groundspeak:long_description>
             <groundspeak:encoded_hints>Google maps(Satellite),The stairs,Magnet</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="2234027">
+                    <groundspeak:date>2012-11-12T15:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="100954">tokyotwowheeling</groundspeak:finder>
+                    <groundspeak:text encoded="False">My GPS was a little unstable but I was able to find the GZ without difficulty. The hint makes the hiding place fairly easy to find. Unfortunately, I did not find the cache there. I think it has been muggled. Please check the cache. 
+
+Thank you for bringing me to an interesting place. I have been to Shinbashi many times but I didn't know about the old station.
+
+GPSrは少し不安定だったけど、問題なくGZを見つけることができました。ヒントのお陰で、隠れ場所をかなり簡単に見つけることができます。残念ながら、キャッシュが見つかりませんでした。マッグルされていると思う。キャッシュを確認してください。
+
+面白い場所に導いていただきありがとうございます。何度も新橋み来たことがあるけど，初めて旧駅を知りました。</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1651602">
-                    <groundspeak:date>2011-10-25T11:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-10-25T16:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="67991">LEEWINNIE</groundspeak:finder>
                     <groundspeak:text encoded="False">Hey 
@@ -475,14 +618,14 @@ I can create now..Ha ha.
 </groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="296860">
-                    <groundspeak:date>2010-10-12T00:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-10-12T05:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="3076">Romanese</groundspeak:finder>
                     <groundspeak:text encoded="False">#5 2010-10-12 03:57
 We found the cache on our Ginza tour. T4TC.</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="269045">
-                    <groundspeak:date>2010-03-28T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-03-28T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="748">ATSTGM</groundspeak:finder>
                     <groundspeak:text encoded="False">I found it!
@@ -508,6 +651,128 @@ Syosuke¿¿¿¿¿¿¿¿¿¿¿¿¿¿!
                 <ox:size>2.7</ox:size>
                 <ox:terrain>1.1</ox:terrain>
             </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="139.55085" lat="35.7033667">
+        <time>2012-10-22T03:29:19.000Z</time>
+        <name>OXZTC4D</name>
+        <desc>Horiai Yuhodo by tokyotwowheeling, Traditional Cache(2.6/1.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTC4D</url>
+        <urlname>Horiai Yuhodo</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28462074">
+            <groundspeak:name>Horiai Yuhodo</groundspeak:name>
+            <groundspeak:placed_by>tokyotwowheeling</groundspeak:placed_by>
+            <groundspeak:owner id="100954">tokyotwowheeling</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Horiai Greenway (Horiai Yuhodo) is a short, narrow strip of green in the midst of a residential area that lies just a few minutes walk from Mitaka Station on the Chuo Line.&lt;br/&gt;&lt;br/&gt;There is no pen in the cache. BYOP.&lt;br/&gt;&lt;br/&gt;掘り合い遊歩道は中央線の三鷹駅から数分離れた住宅街のなかの細短い公演です。&lt;br/&gt;&lt;br/&gt;キャッシュにペンが入っていません。BYOP</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>1.6</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="139.5492683" lat="35.7063817">
+        <time>2012-10-22T03:55:13.000Z</time>
+        <name>OXZTC4C</name>
+        <desc>Midori no Sanpodo #2 by tokyotwowheeling, Traditional Cache(1.5/1.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTC4C</url>
+        <urlname>Midori no Sanpodo #2</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28462073">
+            <groundspeak:name>Midori no Sanpodo #2</groundspeak:name>
+            <groundspeak:placed_by>tokyotwowheeling</groundspeak:placed_by>
+            <groundspeak:owner id="100954">tokyotwowheeling</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Green Promenade (Midori no Sanpodo) is a narrow park that connects Musashi-Sakai Station with Tamagawa Josui. It is a short walk from the station. You can also reach it easily from Mitaka Station.&lt;br/&gt;&lt;br/&gt;There is no pen in the cache. BYOP.&lt;br/&gt;&lt;br/&gt;緑の散歩道は玉川上水と中央線の武蔵堺駅を結ぶ細長い公園です。駅から歩いてすぐです。また、三鷹駅からアクセスすることができます。&lt;br/&gt;&lt;br/&gt;キャッシュにはペンがありません。 BYOP</groundspeak:long_description>
+            <groundspeak:encoded_hints>hanging like a wasp nest</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>1.6</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="139.46545" lat="35.71632">
+        <time>2012-06-08T09:04:58.000Z</time>
+        <name>OXZTF9J</name>
+        <desc>Kubo Higashi Park #2 by tokyotwowheeling, Traditional Cache(2.1/1.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTF9J</url>
+        <urlname>Kubo Higashi Park #2</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28465117">
+            <groundspeak:name>Kubo Higashi Park #2</groundspeak:name>
+            <groundspeak:placed_by>tokyotwowheeling</groundspeak:placed_by>
+            <groundspeak:owner id="100954">tokyotwowheeling</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Hidden Higashi Kubo Park. BYOP.</groundspeak:long_description>
+            <groundspeak:encoded_hints>200 m</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.1</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="139.5166667" lat="35.7166667">
+        <time>2012-03-19T10:57:03.000Z</time>
+        <name>OXZTKFN</name>
+        <desc>Koganei Park #9 by tokyotwowheeling, Traditional Cache(1.8/2.1/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTKFN</url>
+        <urlname>Koganei Park #9</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469150">
+            <groundspeak:name>Koganei Park #9</groundspeak:name>
+            <groundspeak:placed_by>tokyotwowheeling</groundspeak:placed_by>
+            <groundspeak:owner id="100954">tokyotwowheeling</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Koganei Park is the second largest park in the Metropolitan Tokyo Area, having entrances in Koganei City, Kodaira City, Nishitokyo City, and Musashino City. Koganei Park is an attraction for local residents and tourists. The park opened in 1954 and covers 1,491,000 square meters. The numerous varieties of plum trees in the park bloom in February, and the Cherry trees in late March and April, providing a desirable setting for exercise enthusiasts, photographers, picnickers, and nature lovers.&lt;br/&gt;&lt;br/&gt;The park has playgrounds for children, soccer and baseball fields, a gym with a pool and an area for skateboarding, roller skating and a unicycle practice area. It also has a bicycle trail and a bicycle center where you can rent a bicycle.&lt;br/&gt;&lt;br/&gt;小金井公園は、小金井市、小平市、西東京市、武蔵野市の入り口を持つ、首都圏で二番目に大きい公園です。小金井公園は、地元住民や観光客のアトラクションです。公園は、公園は1954年にオープンし、1491000平方メートルを拡がる。運動愛好家、写真家、ピクニック、そして自然を愛する人のための望ましい公園を提供する。2月の梅の木と3月、４月の桜の木が多く小金井公園の花見は大人気。&lt;br/&gt;&lt;br/&gt;公園は子供たちの遊具、サッカーや野球場、プールと体育館、スケートボード、ローラースケートと一輪車の練習場の遊び場があります。また、自転車を借りることができるサイクリングロードと自転車のセンターを持っています。</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.8</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>2.1</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
         </ox:opencaching>
     </wpt>
 </gpx>

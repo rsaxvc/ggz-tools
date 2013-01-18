@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>1 geocache.  Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,-26,90,-25</url>
+    <time>2012-12-19T22:43:15.473Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="-25.0" maxlat="90.0" minlon="-26.0" minlat="-90.0"/>
+    <wpt lon="-25.2898167" lat="37.8501667">
+        <time>2012-11-23T16:52:07.000Z</time>
+        <name>OX40T3F</name>
+        <desc>Ponte de Nosso Senhor by Gilmen, Traditional Cache(2.3/3.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX40T3F</url>
+        <urlname>Ponte de Nosso Senhor</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3718217">
+            <groundspeak:name>Ponte de Nosso Senhor</groundspeak:name>
+            <groundspeak:placed_by>Gilmen</groundspeak:placed_by>
+            <groundspeak:owner id="163760">Gilmen</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Percurso pedestre das Alminhas - Terras de Nosso Senhor&lt;br/&gt;&lt;br/&gt;Este percurso tem início no Padrão das Almas, na freguesia da Achadinha. Ao longo deste trilho poderão ser contemplados diversos pontos de interesse que conjugam valores naturais como nascentes, linhas de água com cascatas, fauna e flora nativa dos Açores, o que confere ao trajecto uma assinalável importância ao nível local.&lt;br/&gt;O percurso termina junto ao mar e o regresso faz-se pelo mesmo caminho, ou pelo caminho de acesso ao &quot;calhau&quot;!&lt;br/&gt;&lt;br/&gt;Caracterização do Percurso:&lt;br/&gt;Tipo: Linear&lt;br/&gt;Distância Aproximada: 4 Km&lt;br/&gt;Grau de Dificuldade: Médio&lt;br/&gt;Duração Aproximada: cerca de 2 horas&lt;br/&gt;Âmbito do Percurso: Ecológico-Cultural&lt;br/&gt;Percurso: »»» Padrão das Almas »»» Foz da Ribeira »»»&lt;br/&gt;&lt;br/&gt;A cache encontra-se junto à &quot;Ponte de Nosso Senhor&quot;, formação rochosa assemelhando-se a uma ponte. Por ser de formação natural, foi assim baptizada.&lt;br/&gt;Cuidado com os pés, pois o acesso à cache é um tanto escorregadio.&lt;br/&gt;&lt;br/&gt;Hiking trail of &quot;Alminhas&quot; - Lands of Our Lord&lt;br/&gt;&lt;br/&gt;This trail begins in the Memorial to the souls, called &quot;Alminhas&quot;, in the parish of Achadinha. Along this trail, you'll have the chance to see various points of interest that combine natural values ​​as springs, water lines with waterfalls, flora and fauna native to the Azores, which gives the track a remarkable local importance.&lt;br/&gt;The route ends close to the sea and the return is made, either by the same path, or the path of access to the &quot;pebble&quot;!&lt;br/&gt;&lt;br/&gt;Characterization of the Course: Type:&lt;br/&gt;Linear Approximate Distance: 4 Km&lt;br/&gt;Degree of Difficulty: Medium&lt;br/&gt;Approximate Duration: about 2 hours&lt;br/&gt;Scope of the Course: Ecological and Cultural&lt;br/&gt;Path: »» »Padrão das Almas» »» Foz da Ribeira »» »&lt;br/&gt;&lt;br/&gt;The cache is located near the &quot;Bridge of Our Lord,&quot; rock formation resembling a bridge. Being of natural formation, it was so called.&lt;br/&gt;Watch your feet, because the cache access is somewhat slippery.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Na Gruta</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.3</ox:difficulty>
+                <ox:size>3.1</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMG060.jpg</ox:name>
+                    <ox:size>143083</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+</gpx>

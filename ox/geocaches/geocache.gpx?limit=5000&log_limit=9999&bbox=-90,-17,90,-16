@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>12 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,-17,90,-16</url>
-    <time>2012-01-04T09:28:58.855-06:00</time>
+    <time>2012-12-19T22:44:02.876Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="-16.0" maxlat="90.0" minlon="-17.0" minlat="-90.0"/>
-    <wpt lon="-16.73275" lat="28.07015">
-        <time>2011-02-09T02:00:00.000-06:00</time>
+    <wpt lon="-16.7327833" lat="28.0702833">
+        <time>2011-02-09T08:00:00.000Z</time>
         <name>OX2NJ60</name>
         <desc>Playa de las Américas by Paulo_Domingues, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2NJ60</url>
@@ -24,11 +24,11 @@
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">&lt;br/&gt;&lt;br/&gt; &lt;b&gt;Playa de las Américas&lt;/b&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+            <groundspeak:long_description html="True">&lt;br /&gt;&lt;br /&gt; &lt;b&gt;Playa de las Américas&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 &lt;p&gt;&lt;b&gt;[PT] Um agradecimento muito especial ao &lt;a href=&quot;http://www.geocaching.com/profile/?guid=b160e421-bca1-4b08-9c48-7944b4f019dc&quot;&gt;Fabrizio&lt;/a&gt; pela ajuda na manutenção da cache.&lt;/b&gt;&lt;/p&gt;
-&lt;b&gt;&lt;br/&gt;&lt;/b&gt;
+&lt;b&gt;&lt;br /&gt;&lt;/b&gt;
 &lt;p&gt;&lt;b&gt;&lt;b&gt;[EN] Special thanks to &lt;a href=&quot;http://www.geocaching.com/profile/?guid=b160e421-bca1-4b08-9c48-7944b4f019dc&quot;&gt;Fabrizio&lt;/a&gt; for help in maintaining the cache.&lt;/b&gt;&lt;/b&gt;&lt;/p&gt; </groundspeak:long_description>
             <groundspeak:encoded_hints>[PT] Na parede. (Ver Spoiler).
 [EN] Into the wall. (See Spoiler).
@@ -41,18 +41,10 @@
                 <ox:size>3.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Recommended for kids</ox:tag>
-                <ox:tag>Available at all times</ox:tag>
-                <ox:tag>Not Wheelchair accessible</ox:tag>
-                <ox:tag>Scenic view</ox:tag>
-                <ox:tag>Stealth required</ox:tag>
-                <ox:tag>Takes less than an hour</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="-16.61567" lat="28.18455">
-        <time>2011-03-17T19:00:00.000-05:00</time>
+        <time>2011-03-18T00:00:00.000Z</time>
         <name>OXCC0EA</name>
         <desc>Hike to Paisaje Lunar by Trollmond, Traditional Cache(2.0/3.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXCC0EA</url>
@@ -67,19 +59,7 @@
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>3.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Hike to Paisaje Lunar
-
-This cache is placed along the way up to Paysaje Lunar, a spectacular geological formation caused by erosion (earth pyramids).
-
-The box is a small 0,45l container, hidden under a heap of stones
-aside the track.
-
-If you want to make the tour to Paisaje Lunar, calculate one day for the trip including breaks and picknicks - the hike can not be done within 2-3 hours, like some guidebooks claim. For safety reasons take a good flashlight and batteries with you - we needed one, as we have started too late and nightfall was coming early in winter.
-You have to start the hike in Vilaflor at the Plaza Doctor Pérez Cázeres (following the official signs).
-The site of Paisaje Lunar itself owns already a traditional cache by lacruz18 (GCRKVM).
-
-Enjoy the walking-tour,
-Trollmond</groundspeak:long_description>
+            <groundspeak:long_description html="True">Hike to Paisaje Lunar&lt;br/&gt;&lt;br/&gt;This cache is placed along the way up to Paysaje Lunar, a spectacular geological formation caused by erosion (earth pyramids).&lt;br/&gt;&lt;br/&gt;The box is a small 0,45l container, hidden under a heap of stones&lt;br/&gt;aside the track.&lt;br/&gt;&lt;br/&gt;If you want to make the tour to Paisaje Lunar, calculate one day for the trip including breaks and picknicks - the hike can not be done within 2-3 hours, like some guidebooks claim. For safety reasons take a good flashlight and batteries with you - we needed one, as we have started too late and nightfall was coming early in winter.&lt;br/&gt;You have to start the hike in Vilaflor at the Plaza Doctor Pérez Cázeres (following the official signs).&lt;br/&gt;The site of Paisaje Lunar itself owns already a traditional cache by lacruz18 (GCRKVM).&lt;br/&gt;&lt;br/&gt;Enjoy the walking-tour,&lt;br/&gt;Trollmond</groundspeak:long_description>
             <groundspeak:encoded_hints>under some stones</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -89,16 +69,12 @@ Trollmond</groundspeak:long_description>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>3.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Long walk</ox:tag>
-                <ox:tag>All seasons</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="-16.51902" lat="28.41792">
-        <time>2011-03-17T19:00:00.000-05:00</time>
+        <time>2011-03-18T00:00:00.000Z</time>
         <name>OXCBFC5</name>
-        <desc>Playa Bollullo by Trollmond, Traditional Cache(2.5/2.5/3.0)</desc>
+        <desc>Playa Bollullo by Trollmond, Traditional Cache(2.5/2.4/3.2)</desc>
         <url>http://www.opencaching.com/#geocache/OXCBFC5</url>
         <urlname>Playa Bollullo</urlname>
         <sym>Geocache</sym>
@@ -111,78 +87,210 @@ Trollmond</groundspeak:long_description>
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Playa Bollullo
-
-One of the most beautiful beaches on the northern side of Tenerife is the Playa Bollullo, about 4 km east of Puerto de la Cruz. The beach is accessible from El Rincón on a very narrow road through banan plantations. Behind the Bar-Restaurant &quot;Bollulo&quot; you can find a small parking area. A path leads down to the beach.
-Sometimes the access can be closed due to heavy waves - in this case DON'T LOOK FOR THE CACHE!
-The cache is a 1,3l plastic box.
-
-Enjoy the beach,
-Trollmond</groundspeak:long_description>
+            <groundspeak:long_description html="True">Playa Bollullo&lt;br/&gt;&lt;br/&gt;One of the most beautiful beaches on the northern side of Tenerife is the Playa Bollullo, about 4 km east of Puerto de la Cruz. The beach is accessible from El Rincón on a very narrow road through banan plantations. Behind the Bar-Restaurant &quot;Bollulo&quot; you can find a small parking area. A path leads down to the beach.&lt;br/&gt;Sometimes the access can be closed due to heavy waves - in this case DON'T LOOK FOR THE CACHE!&lt;br/&gt;The cache is a 1,3l plastic box.&lt;br/&gt;&lt;br/&gt;Enjoy the beach,&lt;br/&gt;Trollmond</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1728329">
+                    <groundspeak:date>2012-01-13T23:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="81877">Dettori</groundspeak:finder>
+                    <groundspeak:text encoded="False">Beautifull place! However we did not find the cache.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:awesomeness>3.2</ox:awesomeness>
                 <ox:difficulty>2.5</ox:difficulty>
                 <ox:size>4.0</ox:size>
-                <ox:terrain>2.5</ox:terrain>
+                <ox:terrain>2.4</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Beach</ox:tag>
-                <ox:tag>Tenerife</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
-    <wpt lon="-16.886617" lat="32.723167">
-        <time>2010-11-03T03:00:00.000-05:00</time>
-        <name>OX2HRG3</name>
-        <desc>Feiteiras by Paulo_Domingues, Traditional Cache(1.5/1.5/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX2HRG3</url>
-        <urlname>Feiteiras</urlname>
+    <wpt lon="-16.834933" lat="32.641217">
+        <time>2011-12-26T08:00:00.000Z</time>
+        <name>OX39PEP</name>
+        <desc>Praia da Cana Vieira by MADVENTURE4x4, Traditional Cache(4.0/4.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX39PEP</url>
+        <urlname>Praia da Cana Vieira</urlname>
         <sym>Geocache</sym>
         <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="2377052">
-            <groundspeak:name>Feiteiras</groundspeak:name>
-            <groundspeak:placed_by>Paulo_Domingues</groundspeak:placed_by>
-            <groundspeak:owner id="2281">Paulo_Domingues</groundspeak:owner>
+        <groundspeak:cache archived="False" available="True" id="3060280">
+            <groundspeak:name>Praia da Cana Vieira</groundspeak:name>
+            <groundspeak:placed_by>MADVENTURE4x4</groundspeak:placed_by>
+            <groundspeak:owner id="57012">MADVENTURE4x4</groundspeak:owner>
             <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Micro</groundspeak:container>
-            <groundspeak:difficulty>1.5</groundspeak:difficulty>
-            <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">&lt;b&gt;Feiteiras&lt;/b&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;p&gt;Um local muito agradável. Por exemplo, para descansar após uma caminhada, ou para a preparar. Ou, simplesmente, para o desfrutar e passar um bocado descontraído.&lt;/p&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;b&gt;NOTA:&lt;/b&gt; Para a cache durar, atenção aos muggles. E, retira-la com cuidado e voltar a colocá-la exactamente como estava.</groundspeak:long_description>
-            <groundspeak:encoded_hints>[PT] No &quot;V&quot; da árvore [EN] In the tree &quot;V&quot;</groundspeak:encoded_hints>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>4</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">Praia da Cana Vieira
+
+&lt;br /&gt; &lt;br /&gt;
+
+&lt;br /&gt;
+A Praia da Cana Vieira fica entre a praia do Galo e a Praia do
+Garajau e está inserida na reserva natural do Garajau, é uma praia
+praticamente só usada pela população local e pouco conhecida da
+maioria dos madeirenses, o seu acesso só é possivel se encontrar a
+entrada para a chamada vereda da Cana Vieira.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+The Beach of &quot;Cana Vieira&quot; sits between the beach of &quot;Galo&quot; and the
+&quot;Garajau&quot; Beach and it's inserted in the natural reserve of
+&quot;Garajau&quot;. It is mostly used by locals and little known to most
+Madeirens, it's access is only possible if you find the hiden
+entrance to the path of &quot;Vereda da Cana Vieira&quot;.&lt;br /&gt;
+&lt;br /&gt;
+A entrada confunde-se com uma entrada particular e conta com uma
+porta que costuma estar aberta entre as 8:00 e as 19:00. Na descida
+poderá encontrar alguma lama e o piso escorregadio, devido à àgua
+que corre de uma pequena nascente.&lt;br /&gt;
+&lt;br /&gt;
+The entrance is confused with a private entrance and has a door
+that is usually open between 8:00 and 19:00. On the way down you
+can find some mud and slippery surfaces due to water flowing from a
+small spring&lt;br /&gt;
+&lt;br /&gt;
+Se a porta estiver fechada, e &quot;escalar&quot; rocha não é problema para
+si, tem outra hipotese de chegar à cache pela praia do Galo, que
+durante a época baixa (Inverno) tem o acesso gratis.&lt;br /&gt;
+&lt;br /&gt;
+If the door is closed, and &quot;climbing&quot; rocks is no problem for you,
+you have another chance to get to the cache on the beach of the
+&quot;Galo&quot;,in the low season (winter) has free access.&lt;br /&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+Uma vez que a praia é desconhecida e fica um pouco escondida,
+consta que cada vez mais é usada por homossexuais e amantes do
+naturismo.&lt;br /&gt;
+Since the beach is unknown and is a bit hidden, it seems that is
+increasingly used by gay men and lovers of naturism.&lt;br /&gt;
+
+&lt;br /&gt;
+Leva o teu fato de banho e aproveita para dar um mergulho.&lt;br /&gt;
+Take your bathing suit and go for a swim .&lt;br /&gt;
+&lt;br /&gt;
+Fotos gentilmente cedidas por PRH_89 (OBRIGADO ; ))&lt;br /&gt;
+&lt;br /&gt;
+
+ -TeamBrudvik&lt;br /&gt;
+
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;ST39PEP - Entrada para a Vereda da Praia da Cana Vieira&lt;br /&gt;N 32° 38.524 W 016° 50.151 </groundspeak:long_description>
+            <groundspeak:encoded_hints>Debaixo da grande pedra que descansa na pedra &quot;escorrega&quot;
+Beneath the big stone resting on stone &quot;slide&quot;</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1909647">
+                    <groundspeak:date>2011-12-27T00:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="87582">luisftas</groundspeak:finder>
+                    <groundspeak:text encoded="False">A well known beach, but never visited. Tecnical problems with the GPS were not helping to get a proper GPS signal, I also did not had the spoiler image but the hint was good. 
+
+We had to make a break in our search because a group of people were coming. Fortunately it was TeamBrudvik. So, with 6 people searching for the cache, it was found. 
+Thank you TeamBrudvik and good luck for your next Madeira caches :)
+
+The chat was nice but the Inn &amp; Art Café was waiting for us to enjoy a nice sunset right above the cache :)
+
+TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
                 <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>1.5</ox:difficulty>
-                <ox:size>2.0</ox:size>
-                <ox:terrain>1.5</ox:terrain>
+                <ox:difficulty>4.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>4.0</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>Available at all times</ox:tag>
-                <ox:tag>Parking available</ox:tag>
-                <ox:tag>Bicycles</ox:tag>
-                <ox:tag>Recommended for kids</ox:tag>
-                <ox:tag>Dogs allowed</ox:tag>
-                <ox:tag>Picnic tables nearby</ox:tag>
-                <ox:tag>Stroller accessible</ox:tag>
-                <ox:tag>Scenic view</ox:tag>
-                <ox:tag>Takes less than an hour</ox:tag>
-                <ox:tag>Off-road vehicles</ox:tag>
+                <ox:tag>Verifiable</ox:tag>
             </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>spoiler 46.jpg</ox:name>
+                    <ox:size>56074</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Praia2.jpg</ox:name>
+                    <ox:size>67006</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Praia.jpg</ox:name>
+                    <ox:size>64668</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-16.9010833" lat="32.6481167">
+        <time>2012-02-22T06:00:00.000Z</time>
+        <name>OX3D4F9</name>
+        <desc>Arte de Portas Abertas by luisftas, Multi-cache(1.9/1.0/3.1)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3D4F9</url>
+        <urlname>Arte de Portas Abertas</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="3162164">
+            <groundspeak:name>Arte de Portas Abertas</groundspeak:name>
+            <groundspeak:placed_by>luisftas</groundspeak:placed_by>
+            <groundspeak:owner id="87582">luisftas</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">ARTE DE PORTAS ABERTAS / THE ART OF OPEN DOORS&lt;br/&gt;&lt;br/&gt;Desta vez os artistas desceram à cidade.&lt;br/&gt;No Funchal, a Zona Velha da cidade ganhou uma nova vida.&lt;br/&gt;&lt;br/&gt;This time the artists came down to the city.&lt;br/&gt;In Funchal, the old part of the city (Zona Velha) has a new life.&lt;br/&gt;&lt;br/&gt;O Projecto Arte de Portas Abertas é um projecto para abrir as portas da cidade do Funchal à arte e à cultura. Eles não são &quot;entradas virtuais&quot;, são apenas antigas e esquecidas. Estas portas são lojas abandonadas, espaços em ruínas que agora assumem uma nova vida, com o objectivo de sensibilizar a população, enchendo as vias de eventos culturais e artísticos.&lt;br/&gt;&lt;br/&gt;It is a project to open the doors of the city of Funchal to art and culture. They were not &quot;virtual entrances&quot; rather old and forgotten. These doors are from abandoned shops and deteriorated areas that take on new life, in order to sensitize people filling the streets with cultural and artistic events.&lt;br/&gt;&lt;br/&gt;Estas intervenções incluem todas as artes visuais, desde a pintura, à escultura, à fotografia, ao vídeo, à música e a escrita.&lt;br/&gt;&lt;br/&gt;These interventions include all the visual arts, from painting, sculpture, photography, video, music and writing.&lt;br/&gt;&lt;br/&gt;A Rua de Sta Maria, no Funchal, era uma rua triste com algumas casas abandonadas e semi destruídas, onde alguns restaurantes lutavam para impor o seu espaço e a sua gastronomia.&lt;br/&gt;&lt;br/&gt;Rua Santa Maria in Funchal, was a street saddened by some abandoned and semi destroyed houses, where some restaurants struggled to impose its space and its gastronomy.&lt;br/&gt;&lt;br/&gt;A requalificação daquela parte velha da cidade proporcionou o aparecimento de novas ideias e que deram frutos em pouco tempo.&lt;br/&gt;&lt;br/&gt;The requalification of that old part of town brought the appearance of new ideas and that paid off in no time.&lt;br/&gt;&lt;br/&gt;Com imaginação e alguns recursos de baixo custo, a rua foi transformada numa atracão turística e de referência em toda a cidade, só se falando, por todo o lado, sobre a rua das portas pintadas.&lt;br/&gt;&lt;br/&gt;With imagination and a few low-cost resources, the street was transformed into a tourist attraction and a reference throughout the city, where everybody mentions the street of painted doors.&lt;br/&gt;&lt;br/&gt;Hoje, esta rua, onde os passantes se tornaram parte integrante de uma galeria, é um local de encontro obrigatório e transformou-se num ícone da cidade.&lt;br/&gt;&lt;br/&gt;Today, this street, where passers-by became an integral part of a gallery, is a mandatory meeting point and has become a city icon.&lt;br/&gt; &lt;br/&gt;Vale a pena ir à Madeira e beber um copo na Rua de Sta Maria.&lt;br/&gt;&lt;br/&gt;It is worth going to Madeira and having a drink in Rua de Santa Maria.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;CACHE:&lt;br/&gt;Os stages desta cache encontram-se todos ao longo da Rua de Santa Maria.&lt;br/&gt;Encontra as portas de acordo com o seu número.&lt;br/&gt;Responde às perguntas sobre as portas e encontrarás as pistas e os algarismos que faltam para a coordenada final.&lt;br/&gt;&lt;br/&gt;The stages of this cache are all along the Rua de Santa Maria.&lt;br/&gt;Find the doors according to their number.&lt;br/&gt;Answer the questions about the doors and find the hints and the missing digits to the final coordinate.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Stage 1&lt;br/&gt;Porta / Door 147&lt;br/&gt;&lt;br/&gt;A resposta a esta pergunta irá te dar uma característica da cache.&lt;br/&gt;The answer to this question will give you a characteristic of the cache.&lt;br/&gt;&lt;br/&gt;De que cor são os seus olhos?&lt;br/&gt;What color are her eyes?&lt;br/&gt;&lt;br/&gt;A - Verdes / Green = camouflaged&lt;br/&gt;B - Castanhos / Brown = nano&lt;br/&gt;C - Azuis / Blue = magnetic&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Stage 2&lt;br/&gt;Porta / Door 109&lt;br/&gt;&lt;br/&gt;A resposta a esta pergunta irá te dar uma pista sobre a localização da cache.&lt;br/&gt;The answer to this question will give you a clue about the location of the cache.&lt;br/&gt;&lt;br/&gt;Completa a frase. / Complete the sentence.&lt;br/&gt;&quot;Stop... Give...&lt;br/&gt;&lt;br/&gt;A - a kiss.&quot; = Hair&lt;br/&gt;B - a coin.&quot; = Eye&lt;br/&gt;C - a hug.&quot; = Nose&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Stage 3&lt;br/&gt;Porta / Door 95&lt;br/&gt;&lt;br/&gt;A resposta a esta pergunta irá te dar uma pista sobre a localização da cache.&lt;br/&gt;The answer to this question will give you a clue about the location of the cache.&lt;br/&gt;&lt;br/&gt;Qual é o nome do gato?&lt;br/&gt;What´s the name of the cat?&lt;br/&gt;&lt;br/&gt;A - Whiskas = left side&lt;br/&gt;B - João = right side&lt;br/&gt;C - Paulo = on top&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Stage 4&lt;br/&gt;Porta / Door 61&lt;br/&gt;&lt;br/&gt;A resposta a esta pergunta irá te dar parte das coordenadas.&lt;br/&gt;The answer to this question will give you part of the final coordinates.&lt;br/&gt;&lt;br/&gt;Qual é o primeiro nome que está na carta?&lt;br/&gt;What's the first name in the letter?&lt;br/&gt;&lt;br/&gt;A - Samuel = 884&lt;br/&gt;B - Jonas = 384&lt;br/&gt;C - Carlos = 448&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Stage 5&lt;br/&gt;Porta / Door 41&lt;br/&gt;&lt;br/&gt;A resposta a esta pergunta irá te dar parte das coordenadas.&lt;br/&gt;The answer to this question will give you part of the final coordinates.&lt;br/&gt;&lt;br/&gt;Olha pela janela da porta. O que vês?&lt;br/&gt;Look to the window in the door. What do you see?&lt;br/&gt;&lt;br/&gt;A - Cão / Dog = 340&lt;br/&gt;B - Gato / Cat = 430&lt;br/&gt;C - Geocacher = 230&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Stage 6&lt;br/&gt;Porta / Door 1&lt;br/&gt;&lt;br/&gt;A resposta a esta pergunta irá te dar uma pista sobre a localização da cache.&lt;br/&gt;The answer to this question will give you a clue about the location of the cache.&lt;br/&gt;&lt;br/&gt;Quantas fechaduras existem na porta?&lt;br/&gt;How many locks are there in this door?&lt;br/&gt;&lt;br/&gt;A - 1 = Door 13&lt;br/&gt;B - 2 = Door 17&lt;br/&gt;C - 4 = Door 23&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Final Stage:&lt;br/&gt;&lt;br/&gt;É importante que fazer todas as stages porque:&lt;br/&gt;- o sinal GPS é fraco&lt;br/&gt;- é uma zona que requer muita discrição, pelo que todas as Hints são importantes.&lt;br/&gt;&lt;br/&gt;It is important to do all the stages because:&lt;br/&gt;- The GPS signal is weak&lt;br/&gt;- It is an area that requires much discretion, so all Hints are important.&lt;br/&gt;&lt;br/&gt;Final Coordinates:&lt;br/&gt;N 32º 38 (Stage4)&lt;br/&gt;W 16º 54 (Stage5)&lt;br/&gt;Hints: stages 1, 2, 3 and 6&lt;br/&gt;&lt;br/&gt;Esta área é muito movimentada durante o dia, pelo que deverão ser muito discretos na altura de fazer o vosso log. Cuidado ao retirar e colocar a cache para não a deixar cair.&lt;br/&gt;&lt;br/&gt;This area is very busy during the day, so you should be very discrete when writting your log.&lt;br/&gt;Be careful when removing and placing the cache to avoid dropping it.&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="2022468">
+                    <groundspeak:date>2012-08-03T23:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="139113">chips89</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1792692">
+                    <groundspeak:date>2012-03-10T00:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="57012">MADVENTURE4x4</groundspeak:finder>
+                    <groundspeak:text encoded="False">A zona velha ficou a ganhar muito com a ideia, já tinha visto e ouvido falar no projecto, já até tinha visto algumas portas, sem dar grande importância. Mas passear à noite sozinho no silêncio desta rua deserta, em toda a sua extensão, fez-me olhar para estas obras de arte de outra forma, fica a promessa de lá voltar para as apreciar melhor. 
+Parabéns por esta Multi, talvez por a ter feito de noite sozinho e com a rua deserta, acompanhado pelas sombras, gostei muito. 
+
+FTF muito apreciado.
+
+</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.1</ox:awesomeness>
+                <ox:difficulty>1.9</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>The doors.jpg</ox:name>
+                    <ox:size>87891</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
         </ox:opencaching>
     </wpt>
     <wpt lon="-16.923533" lat="32.732583">
-        <time>2010-11-04T03:00:00.000-05:00</time>
+        <time>2010-11-04T08:00:00.000Z</time>
         <name>OX2HRJ0</name>
-        <desc>Arieiro - Ao lado do Pico by Paulo_Domingues, Traditional Cache(1.5/3.0/3.0)</desc>
+        <desc>Arieiro - Ao lado do Pico by Paulo_Domingues, Traditional Cache(1.6/3.1/3.1)</desc>
         <url>http://www.opencaching.com/#geocache/OX2HRJ0</url>
         <urlname>Arieiro - Ao lado do Pico</urlname>
         <sym>Geocache</sym>
@@ -196,38 +304,402 @@ Trollmond</groundspeak:long_description>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
             <groundspeak:long_description html="True">&lt;b&gt;Arieiro - Ao lado do Pico&lt;/b&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 &lt;p&gt;Um local com uma vista fantástica e sem necessidade de grandes caminhadas.&lt;/p&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 &lt;b&gt;NOTA:&lt;/b&gt; Para a cache durar, atenção aos muggles. E, retira-la com cuidado e voltar a colocá-la exactamente como estava.
-&lt;br/&gt;
-&lt;br/&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 &lt;p&gt;&lt;b&gt;Pontos Adicionais&lt;/b&gt;&lt;/p&gt;
-&lt;br/&gt;
-&lt;p&gt;&lt;b&gt;N 32° 42.777 W 016° 53.251&lt;/b&gt; - Neste ponto, apanhar a estrada em direcção ao Pico do Arieiro.&lt;/p&gt;&lt;br/&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;b&gt;N 32° 42.777 W 016° 53.251&lt;/b&gt; - Neste ponto, apanhar a estrada em direcção ao Pico do Arieiro.&lt;/p&gt;&lt;br /&gt;
 &lt;p&gt;&lt;b&gt;N 32° 43.913 W 016° 55.558&lt;/b&gt; - Neste ponto, podes estacionar e dirigir-te à cache.&lt;/p&gt;
 </groundspeak:long_description>
             <groundspeak:encoded_hints>[PT] Ao lado de uma pedra grande, debaixo de umas pequenas (ver spoiler)
 [EN] Beside a large rock, under some small (see spoiler)</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2030598">
+                    <groundspeak:date>2012-08-15T21:28:21.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="57012">MADVENTURE4x4</groundspeak:finder>
+                    <groundspeak:text encoded="False">Pena foi que estava muito nevoeiro e não deu para ver a paisagem. Tftc 
+Feita com Phil e D.B.T</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1786175">
+                    <groundspeak:date>2010-11-20T00:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="87582">luisftas</groundspeak:finder>
+                    <groundspeak:text encoded="False">A nice location... if you are lucky to get some nice weather.. 
+I've encountered some fog and some cold wind.. 
+TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.1</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.1</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-16.9156" lat="32.741917">
+        <time>2012-03-25T07:00:00.000Z</time>
+        <name>OX3FD57</name>
+        <desc>A casa dos Flinstones by MADVENTURE4x4, Traditional Cache(2.0/2.6/3.2)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3FD57</url>
+        <urlname>A casa dos Flinstones</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3230083">
+            <groundspeak:name>A casa dos Flinstones</groundspeak:name>
+            <groundspeak:placed_by>MADVENTURE4x4</groundspeak:placed_by>
+            <groundspeak:owner id="57012">MADVENTURE4x4</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">
+
+
+
+
+
+
+&lt;strong&gt;A casa dos Flinstones&lt;/strong&gt;
+
+
+
+&lt;p&gt;Esta cache está situada na Fajã da Nogueira, acima da Central hidroeléctrica, mais precisamente na casa dos levadeiros, esta fica entre o camara de carga e a central, e serve de casa de apoio ao trabalho dos levadeiros nas levadas que 'alimentam' a central, estes efectuam diariamente e sempre que necessário o percurso das levadas da Serra do Faial e do Juncal, conduzindo a água até a câmara de carga localizada no Pico da Nogueira.&lt;/p&gt;
+
+
+&lt;p&gt;'A levada do Juncal começa num córrego da ribeira do Juncal, à cota de 976 metros, desenvolvendo-se por 3.640 metros até atingir a câmara de carga através do Pico da Nogueira (214 metros em túnel), recebendo todas as águas drenantes das bacias das ribeiras do Juncal e da Laje. A levada da Serra do Faial começa na ribeira Seca à cota de 982 metros, colectando através de um travessão no leito da ribeira, águas provenientes da ribeira Seca e da bacia da ribeira de São Jorge (via túnel do Pico Ruivo), recebendo também um pouco mais a jusante, águas provenientes da margem esquerda da ribeira, transportadas pela levada de João Dias. A levada da Serra do Faial desenvolve-se pela encosta da margem direita da ribeira Seca até ao sítio do Gavino, passando depois a envolver, à cota 1.000 metros, a bacia da ribeira da Ametade, atingindo a câmara de carga ao fim de 6.760 metros de percurso (incluindo 880 metros da levada de João Dias), dos quais 872 metros se desenvolvem no interior de túneis, captando todas as escorrências que surjam. Falta fazer referencia à levada do Pico Ruivo composta por um canal que estabelece, através do túnel do Pico Ruivo, ligação com a bacia da ribeira de São Jorge, apresentando a extensão de 2.437 metros, começando na boca montante do citado túnel à cota 985 metros. À boca montante deste túnel chegam duas levadas: A levada do Caldeirão do Inferno que tem início à cota de 1.000 metros, desenvolvendo-se ao longo de 980 metros, pela bacia da ribeira Grande de São Jorge, captando as águas do referido Caldeirão e outras escorrências até à boca montante do túnel; A levada do Caldeirão Verde que tem início à cota 1.050 metros, captando as suas águas e estendendo-se depois pela margem direita da ribeira Grande, ao longo de 1.005 metros (294 metros em túneis) até ao túnel.Verificamos que o sistema da levada do Pico Ruivo comporta 4.422 metros de canal, enquanto o Aproveitamento da Fajã da Nogueira apresenta uma extensão total de levadas de 15.036 metros.'&lt;br /&gt;
+Fonte: &lt;a href=&quot;http://www.eem.pt/images/stories/documents/ctfnogueira.pdf&quot;&gt;http://www.eem.pt/images/stories/documents/ctfnogueira.pdf&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+Ao fazer esta cache poderá aproveitar para fazer(ou vise versa):&lt;br /&gt;
+GC1EFF5- Moria&lt;br /&gt;
+GC3E1CH- Oldest Tree in Madeira&lt;br /&gt;
+GC3E1CF- Fajã da Nogueira&lt;br /&gt;
+e até a cache GC30BQ3-Caldeirão do Inferno&lt;br /&gt;
+&lt;br /&gt;
+Se está a pé, na zona da cache encontrará um percurso pedonal que o leva até à Central hidroeléctrica. Se possui um veículo &quot;off-Road&quot;, esta cache é quase um drive in.&lt;br /&gt;
+&lt;br /&gt;
+
+This cache is located in Faja da Nogueira, above the central hydro, more precisely in the levadeiros house, this is between the load and the central chamber, and is home to support the work of levadeiros, the Levada that 'feeds' the central they carry out daily and whenever necessary the route taken from the Serra do Faial and Juncal, leading the water to the loading chamber located on Pico da Nogueira.
+
+
+'The flow of Juncal river begins in a stream of Juncal, at an elevation of 976 meters, growing by 3,640 meters to reach the loading chamber through the Pico da Nogueira (214 meters in the tunnel), getting all the water draining basins streams of the Juncal and slab. The flow of Serra do Faial begins at Dry creek at elevation of 982 meters, collecting via an indent in the bed of the stream waters from the river Drought and river basin of San Jorge (via tunnel Red Peak), also receiving a little further downstream, water from the left bank of the river, carried by John Dias taken. The flow of Serra do Faial develops the side of the right bank of the river dried up to the site of Gavino, later becoming involved at an elevation 1000 meters, the basin of the river Ametade, reaching the loading chamber to the end of 6760 meters route (including the 880 meters taken from John Day), of which 872 meters are developed inside tunnels, capturing all the runoff that may arise. Lack taken to refer to the Red Peak consists of a channel that provides, through the tunnel of the Red Peak, link with the river basin of San Jorge, showing the extent of 2437 meters, starting at the mouth of the said amount tunnel at elevation 985 meters . In the mouth of this tunnel come amount taken two: The flow of the Cauldron of Hell that starts at an elevation of 1000 meters, developing over 980 meters, the basin of the river Grande de São Jorge, raising the waters of that cauldron and other runoff upstream to the mouth of the tunnel, taken from The Green Cauldron which begins at elevation 1050 meters, capturing its waters and then extending along the right bank of the river Grande, over 1005 meters (294 feet in tunnels) to túnel.Verificamos that the system behaves taken from the Red Peak 4422 meters of canal, while the Use of the Faja da Nogueira has taken a total length of 15,036 meters. '
+Source: http://www.eem.pt/images/stories/documents/ctfnogueira.pdf
+
+
+
+By doing this cache can take advantage to make (or vise versa):
+GC1EFF5-Moria
+GC3E1CH-Oldest Tree in Wood
+GC3E1CF-Faja da Nogueira
+and even cache-GC30BQ3- Caldeirão do Inferno
+
+If you are standing in the area of ​​the cache will find a pedestrian path that leads to the central hydro. If you have a vehicle &quot;off-road&quot;, this cache is almost a drive-in.
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Debaixo de algumas pedras, não precisa de tocar nas paredes.
+Under some stones, you don't need to destroy the wall's</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1909646">
+                    <groundspeak:date>2012-04-05T23:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="87582">luisftas</groundspeak:finder>
+                    <groundspeak:text encoded="False">Gostei muito do sítio e da área envolvente. 
+Já havia visto um documentário da RTP-M sobre esse tipo de construções e mencionaram essas casas. 
+Foi um prazer vê-las pessoalmente. Como não tinha reparado anteriormente nas fotos da descrição, foi uma surpresa maior. A que se parece a uma capelinha também é interessante :)
+
+Após uns meses após encontrar esta cache posso dizer que até agora foi o sítio mais interessante do ano :)
+TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.2</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>spoiler 47.jpg</ox:name>
+                    <ox:size>54657</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>casa flinstones.jpg</ox:name>
+                    <ox:size>58177</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>casa levadeiros.jpg</ox:name>
+                    <ox:size>61521</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-16.3744667" lat="33.0733">
+        <time>2012-06-28T08:55:13.000Z</time>
+        <name>OX374Z3</name>
+        <desc>Falésia das Cores by luisftas, Traditional Cache(4.0/4.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX374Z3</url>
+        <urlname>Falésia das Cores</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2983877">
+            <groundspeak:name>Falésia das Cores</groundspeak:name>
+            <groundspeak:placed_by>luisftas</groundspeak:placed_by>
+            <groundspeak:owner id="87582">luisftas</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>4</groundspeak:difficulty>
+            <groundspeak:terrain>4.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">FALÉSIA DAS CORES&lt;br/&gt;&lt;br/&gt;View from the cache:&lt;br/&gt;http://vimeo.com/31823541&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;O Porto Santo é habitualmente referenciado pela sua bela praia de areia com 9km de comprimento. Muitos dos seus visitantes usufruem dessa praia, chegando a fazer pequenas incursões pelos pontos mais afamados da ilha, como o Pico Castelo, Fonte da Areia, Calheta, etc. No entanto pouca atenção é dada à costa norte da ilha. &lt;br/&gt;&lt;br/&gt;Porto Santo is usually referenced by its beautiful sandy beach with 9 km in length. Many visitors enjoy this beach, making small incursions to the most famous sites of the island, such as  Pico Castelo, Fonte da Areia, Calheta, etc .. However little attention is given to the island's north coast. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;A paisagem da costa norte da ilha é completamente diferente do sul. Montanhas agrestes e falésias íngremes que caiem até ao mar, contrastam com a plana praia do sul, mas oferecem vistas absolutamente deslumbrantes e interessantes formações rochosas vulcânicas.&lt;br/&gt;&lt;br/&gt;The landscape of the north coast of the island is completely different from the south.Rugged mountains and steep cliffs that fall to the sea, contrast with the flat beach in the south, but offers absolutely stunning views and interesting volcanic rock formations.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Daqui podemos ter uma vista única e soberba, podendo se ver parte da ilha da Madeira, o ilhéu de Ferro, o ilhéu da Fonte da Areia e parte da costa norte do Porto Santo. Um olhar mais atento para as rochas que nos rodeiam, mostra-nos curiosas formas e cores.&lt;br/&gt;&lt;br/&gt;Here we have a unique and superb view, being able to see part of the island of Madeira, the Ferro islet, the Fonte da Areia islet and part of the north coast of Porto Santo. A closer look at the rocks that surround us, shows us curious shapes and colors. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Esta cache poderá ser um pouco mais trabalhosa para quem vier a pé, visto que as estradas existentes na zona são apenas recomendadas a veículos todo o terreno. Para quem possui um veículo adequado, poderá ser quase uma drive-in. Depois poderá vaguear pelos inúmeros caminhos que existem nesta área, usufruindo de uma paisagem única.&lt;br/&gt;&lt;br/&gt;This cache may be a little more difficult for those who come on foot, since the existing roads in the area are only recommended for off-road vehicles. For those with a suitable vehicle, this cache may almost be a drive-in. Then you can wander through the many paths that exist in this area, enjoying a unique landscape.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Os últimos metros até a cache são um pouco perigosos, devido à fragilidade do solo, pelo que deverão desconfiar sempre de onde estão a agarrar ou pisar.&lt;br/&gt;&lt;br/&gt;The last meters to the cache are a little dangerous because of the fragility of the soil, so you should always be suspicious of where you are grabbing or stepping.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Boa Sorte!&lt;br/&gt;Good Luck!</groundspeak:long_description>
+            <groundspeak:encoded_hints>Above the small path.</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
                 <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>1.5</ox:difficulty>
+                <ox:difficulty>4.0</ox:difficulty>
                 <ox:size>3.0</ox:size>
-                <ox:terrain>3.0</ox:terrain>
+                <ox:terrain>4.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Available at all times</ox:tag>
-                <ox:tag>Not Wheelchair accessible</ox:tag>
-                <ox:tag>Scenic view</ox:tag>
-                <ox:tag>Not Recommended for kids</ox:tag>
-                <ox:tag>Bicycles</ox:tag>
-                <ox:tag>Dogs allowed</ox:tag>
-                <ox:tag>Takes less than an hour</ox:tag>
-            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>The view 4.jpg</ox:name>
+                    <ox:size>52781</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Spoiler 52.jpg</ox:name>
+                    <ox:size>74167</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-16.3337167" lat="33.08095">
+        <time>2012-06-28T01:58:08.000Z</time>
+        <name>OX374XD</name>
+        <desc>Pico Castelo by luisftas, Traditional Cache(3.0/3.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX374XD</url>
+        <urlname>Pico Castelo</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2983825">
+            <groundspeak:name>Pico Castelo</groundspeak:name>
+            <groundspeak:placed_by>luisftas</groundspeak:placed_by>
+            <groundspeak:owner id="87582">luisftas</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br/&gt;PICO CASTELO&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Situado na deslumbrante Ilha de Porto Santo, no Arquipélago da Madeira, o Pico do Castelo é a elevação mais conhecida da ilha e é um dos pontos privilegiados para admirar a beleza desta paisagem natural, de onde se avistam alguns ilhéus que circundam a ilha.&lt;br/&gt;&lt;br/&gt;Located on the stunning island of Porto Santo, Madeira Islands, Pico do Castelo is the best known elevation of the island and is one of the best points to admire the beauty of this natural landscape, where one can see some islets that surround the island. &lt;br/&gt;&lt;br/&gt;O ponto mais alto do Pico do Castelo atinge os 430 metros de altura, encontrando-se quase no topo o busto de homenagem a Schiappa de Azevedo, que contribuiu fortemente para a arborização do monte, outrora mais desertificado, existindo também as ruínas de uma fortaleza do século XVI, símbolo da defesa das populações dos continuados ataques piratas à Ilha, durante conturbados séculos.&lt;br/&gt;&lt;br/&gt; The highest point of Pico Castelo reaches 430 meters in height, lying almost on top is the bust in honor of Schiappa de Azevedo, who contributed greatly to the afforestation of the hill, once more desertified, there are also the ruins of a sixteenth century fortress , a symbol of defense of the people on the island from continued pirate attacks during turbulent centuries.&lt;br/&gt;&lt;br/&gt;Esta arborização teve o seu início a aproximadamente 30 anos, encontrando-se ali actualmente uma opulenta vegetação de espécies arbóreas, que, ainda no mar e a grande distância, causa admiração do observador, em flagrante contraste com a aridez dos outros montes.&lt;br/&gt;&lt;br/&gt;This afforestation had its beginning 30 years later, and now there is an opulent vegetation of tree species, which still at sea and over long distances causes admiration to the observer, in striking contrast to the aridity of the other hills. &lt;br/&gt;  &lt;br/&gt;A sua posição central e a maior facilidade de organizar a defesa das pessoas, fez deste um verdadeiro Castelo.&lt;br/&gt;&lt;br/&gt;Its central location and ease of organizing the defense of people made it a real castle. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;FTF: piilo52&lt;br/&gt;STF: Sergio GR&lt;br/&gt;TTF: Brufilipe, malai&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>covered by a rock</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.6</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>The view 2.jpg</ox:name>
+                    <ox:size>32256</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Spoiler 49.jpg</ox:name>
+                    <ox:size>65555</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>The view 1.jpg</ox:name>
+                    <ox:size>28626</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Going up.jpg</ox:name>
+                    <ox:size>192270</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-16.3471167" lat="33.0928">
+        <time>2012-06-28T02:09:42.000Z</time>
+        <name>OX374YK</name>
+        <desc>Porto das Salemas by luisftas, Traditional Cache(3.5/3.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX374YK</url>
+        <urlname>Porto das Salemas</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2983862">
+            <groundspeak:name>Porto das Salemas</groundspeak:name>
+            <groundspeak:placed_by>luisftas</groundspeak:placed_by>
+            <groundspeak:owner id="87582">luisftas</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">PORTO DAS SALEMAS&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Este é um dos tesouros mais bem escondidos da costa norte da ilha do Porto Santo. O Porto das Salemas é uma pequena e maravilhosa enseada, muito bem escondida mas merecedora de uma visita.&lt;br/&gt;&lt;br/&gt;This is one of the best hidden treasures of the north coast of the island of Porto Santo. Porto das Salemas is a wonderful little cove, very well hidden but well worth a visit.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Para descobrirmos o Porto das Salemas devemos ir em direcção à Fonte da Areia, fazendo um pequeno desvio à direita, utilizando uma estrada com poucos anos de existência. O carro deverá ficar estacionado nessa estrada ou então na pequena entrada de terra.&lt;br/&gt;&lt;br/&gt;To discover Porto das Salemas you must go towards Fonte da Areia, making a detour to the right, using a road with few years of existence. The car should be parked on that road or into a dirt road.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Para chegarmos ao Porto das Salemas, o mais recomendado é ir a pé pelo trilho que começa aqui:&lt;br/&gt;N 33º 05.504&lt;br/&gt;W16º 20.644&lt;br/&gt;&lt;br/&gt;No entanto, os possuidores de uma moto 4 poderão utilizar esse tipo de veículo para percorrer o trilho. O trilho é bastante íngreme em algumas partes e com alguma pedra solta, pelo que deverão ter algum cuidado ao conduzir por lá.&lt;br/&gt;&lt;br/&gt;To reach Porto das Salemas, the most recommendable is to walk along the track that starts here:&lt;br/&gt;N 33º 05.504&lt;br/&gt;W16º 20.644&lt;br/&gt;&lt;br/&gt;However, if you have a Quad, you can use this vehicle to move through the track. This dirt track is quite steep in some parts and with some loose rock, so you should be very careful when driving there.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Ao chegar ao Porto das Salemas poderás tirar algum tempo para observar alguns fenómenos geológicos interessantes.&lt;br/&gt;&lt;br/&gt;Upon arriving at Porto of Salemas you can take some time to observe some interesting geological phenomena.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Deverás dentro do possível visitar este sítio com maré baixa, para que possas aproveitar e mergulhar nestas águas límpidas. Com as condições adequadas, formam-se pequenas piscinas naturais deliciosas.&lt;br/&gt;&lt;br/&gt;As far as possible you should visit this site with low tide so you can enjoy and dive in these waters. With the right conditions, they form small delightful pools .&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Boa Sorte!&lt;br/&gt;Good Luck!</groundspeak:long_description>
+            <groundspeak:encoded_hints>Covered by rocks</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>3.5</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Porto das Salemas 2.jpg</ox:name>
+                    <ox:size>30185</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Porto das Salemas.jpg</ox:name>
+                    <ox:size>40663</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>View from the cache.jpg</ox:name>
+                    <ox:size>53663</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-16.3037667" lat="33.0933333">
+        <time>2012-06-28T09:02:33.000Z</time>
+        <name>OX374YP</name>
+        <desc>Pedra Branca by luisftas, Traditional Cache(3.0/4.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX374YP</url>
+        <urlname>Pedra Branca</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2983865">
+            <groundspeak:name>Pedra Branca</groundspeak:name>
+            <groundspeak:placed_by>luisftas</groundspeak:placed_by>
+            <groundspeak:owner id="87582">luisftas</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>4.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">PEDRA BRANCA&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Esta cache irá vos conduzir até um dos percursos obrigatórios na ilha do Porto Santo.&lt;br/&gt;É um percurso relativamente rápido, que permite ao caminhante que visita a ilha do Porto Santo, num programa diário de barco ou avião a partir da ilha da Madeira, explorar a ilha, desfrutar da magnífica praia de areia, ou dar umas tacadas de golfe, enquanto aguarda o transporte de regresso.&lt;br/&gt;A zona faz parte da Rede Natura 2000.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This cache will lead you to one of the compulsory trails on the island of Porto Santo.&lt;br/&gt;It is a relatively fast track, which allows the traveler who visits the island of Porto Santo, on a daily program of plane or boat from the island of Madeira, explore the island, enjoy the magnificent sandy beach, or have a golf swing, while waiting for the return transport.&lt;br/&gt;The area is part of Natura 2000.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;O trilho inicia-se na estrada regional E.R.111. Seguindo o caminho que dará acesso ao topo do Pico Branco, deparamos com uma enorme formação prismática na qual a própria vereda foi talhada - a Rocha Quebrada. &lt;br/&gt;&lt;br/&gt;The trail begins at regional road E.R.111. Following the path that will give access to the topof Pico Branco, we come across a huge prismatic formation in which the footpath itself wascarved - Rocha Quebrada.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;A parte mais íngreme do percurso está ladeada por uma vedação de urze. A subida termina numa falha na rocha da Crista do Cabeço.&lt;br/&gt;&lt;br/&gt;The steepest part of the route is lined with a fence of heather. The climb ends in a rock fissure at Crista do Cabeço.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;A vereda segue por entre uma paisagem com predominância de cupressus (Cupressus macrocarpa) até encontrarmos a bifurcação que nos leva, à direita, à Terra Chã e, à esquerda, ao Pico Branco, segundo pico mais alto do Porto Santo. &lt;br/&gt;&lt;br/&gt;The footpath goes through a landscape with a predominance of cupressus (Cupressusmacrocarpa) until we find the fork leading to the right, to Terra Chã, and to the left to Pico Branco,the second highest peak of Porto Santo. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;O Pico Branco ganhou o nome devido à existência de uma coluna de pedra branca, onde antigamente havia muita urzela, a qual era exportada do Porto Santo para a produção de tintas e de outras especialidades afins.&lt;br/&gt;&lt;br/&gt;Pico Branco was named due to the existence of a column of white stone, where once there was a lot of heath, which was exported from Porto Santo for the production of paints and other related specialties.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;A área do Pico Branco integra a rede europeia de sítios de interesse comunitário - Rede Natura 2000, Directiva Habitats, por apresentar a existência de endemismos de flora e fauna (moluscos terrestres - caracóis).&lt;br/&gt;&lt;br/&gt;The area of Pico Branco integrates the European network of Sites of Community Interest -Natura 2000 Habitats Directive, for presenting the existence of endemic flora and fauna (terrestrial molluscs - snails). &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Este é o sítio da ilha do Porto Santo onde foi registada a maior quantidade de flora indígena melhor conservada, por se encontrar protegida pelo relevo abrupto, em escarpas dificilmente acessíveis. A vegetação indígena é, maioritariamente, herbácea e arbustiva.&lt;br/&gt;&lt;br/&gt;This is the site of the island of Porto Santo where it was registered the largest number of indigenous and best preserved flora, because it is protected by steep topography, in hardly accessible cliffs. The indigenous vegetation is mostly grass and shrubs. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Aqui podemos encontrar duas espécies de aves marinhas de relevo como a Cagarra (Calonectris diomedea borealis) e o Garajau comum (Sterna hirundo).&lt;br/&gt;&lt;br/&gt;Here we can find two species of seabirds as Cory's Shearwater (Calonectrisdiomedea borealis) and the Common Tern (Sterna hirundo).&lt;br/&gt;&lt;br/&gt; &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Os inúmeros miradouros naturais que oferece esta vereda permite vislumbrar grande parte da ilha do Porto Santo / The many natural vantage points offered by this pathway provides a glimpse of much of the island of Porto Santo: &lt;br/&gt;Calhau da Serra de Dentro, Pico do Concelho, Ilhéu de Cima, Pico do Maçarico, Portela, Rocha de Nossa Senhora, Pico Ana Ferreira, Espigão dos Morenos, Calheta, Ilhéu de Baixo.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Esta vereda foi traçada de propósito para a passagem dos burros com carga quando os locais semeavam cevada na Terra Chã. O regresso é feito pela mesma vereda.&lt;br/&gt;&lt;br/&gt;This trail was built on purpose for the passage of loaded donkeys when the locals sowed barley on Terra Chã. The Return is done on the same path. &lt;br/&gt;&lt;br/&gt;Distância / Distance: 5,4 Km&lt;br/&gt;Tempo / Time: 1h 30m&lt;br/&gt;Altitude máxima: 450 m&lt;br/&gt;Altitude mínima: 184 m</groundspeak:long_description>
+            <groundspeak:encoded_hints>see spoiler</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.5</ox:size>
+                <ox:terrain>4.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>view from the cache.jpg</ox:name>
+                    <ox:size>31865</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>The view 5.jpg</ox:name>
+                    <ox:size>106137</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Spoiler 53.jpg</ox:name>
+                    <ox:size>52724</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>The view 6.jpg</ox:name>
+                    <ox:size>35059</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-16.3" lat="33.0941">
+        <time>2012-06-28T02:19:52.000Z</time>
+        <name>OX374YX</name>
+        <desc>Terra Chã by luisftas, Traditional Cache(3.5/3.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX374YX</url>
+        <urlname>Terra Chã</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2983871">
+            <groundspeak:name>Terra Chã</groundspeak:name>
+            <groundspeak:placed_by>luisftas</groundspeak:placed_by>
+            <groundspeak:owner id="87582">luisftas</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">TERRA CHÃ&lt;br/&gt;&lt;br/&gt;Esta cache irá vos conduzir até um dos percursos obrigatórios na ilha do Porto Santo. &lt;br/&gt;É um percurso relativamente rápido, que permite ao caminhante que visita a ilha do Porto Santo, num programa diário de barco ou avião a partir da ilha da Madeira, explorar a ilha, desfrutar da magnífica praia de areia, ou dar umas tacadas de golfe, enquanto aguarda o transporte de regresso.&lt;br/&gt;A zona faz parte da Rede Natura 2000.&lt;br/&gt;&lt;br/&gt;This cache will lead you to one of the compulsory trails on the island of Porto Santo.&lt;br/&gt;It is a relatively fast track, which allows the traveler who visits the island of Porto Santo, on a daily program of plane or boat from the island of Madeira, explore the island, enjoy the magnificent sandy beach, or have a golf swing, while waiting for the return transport.&lt;br/&gt;The area is part of Natura 2000.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;O trilho inicia-se na estrada regional E.R.111. Seguindo o caminho que dará acesso ao topo do Pico Branco, deparamos com uma enorme formação prismática na qual a própria vereda foi talhada - a Rocha Quebrada. &lt;br/&gt;&lt;br/&gt;The trail begins at regional road E.R.111. Following the path that will give access to the topof Pico Branco, we come across a huge prismatic formation in which the footpath itself wascarved - Rocha Quebrada.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;A parte mais íngreme do percurso está ladeada por uma vedação de urze. A subida termina numa falha na rocha da Crista do Cabeço.&lt;br/&gt;&lt;br/&gt;The steepest part of the route is lined with a fence of heather. The climb ends in a rock fissure at Crista do Cabeço.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt; A vereda segue por entre uma paisagem com predominância de cupressus (Cupressus macrocarpa) até encontrarmos a bifurcação que nos leva, à direita, à Terra Chã e, à esquerda, ao Pico Branco, segundo pico mais alto do Porto Santo. &lt;br/&gt;&lt;br/&gt;The footpath goes through a landscape with a predominance of cupressus (Cupressusmacrocarpa) until we find the fork leading to the right, to Terra Chã, and to the left to Pico Branco,the second highest peak of Porto Santo. &lt;br/&gt;&lt;br/&gt;A área da Terra Chã integra a rede europeia de sítios de interesse comunitário - Rede Natura 2000, Directiva Habitats, por apresentar a existência de endemismos de flora e fauna (moluscos terrestres - caracóis).&lt;br/&gt;&lt;br/&gt;The area of the Terra Chã integrates the European network of Sites of Community Interest -Natura 2000 Habitats Directive, for presenting the existence of endemic flora and fauna (terrestrial molluscs - snails). &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;&lt;br/&gt;Este é o sítio da ilha do Porto Santo onde foi registada a maior quantidade de flora indígena melhor conservada, por se encontrar protegida pelo relevo abrupto, em escarpas dificilmente acessíveis. A vegetação indígena é, maioritariamente, herbácea e arbustiva.&lt;br/&gt;&lt;br/&gt;This is the site of the island of Porto Santo where it was registered the largest number of indigenous and best preserved flora, because it is protected by steep topography, in hardly accessible cliffs. The indigenous vegetation is mostly grass and shrubs. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Aqui podemos encontrar duas espécies de aves marinhas de relevo como a Cagarra (Calonectris diomedea borealis) e o Garajau comum (Sterna hirundo).&lt;br/&gt;&lt;br/&gt;Here we can find two species of seabirds as Cory's Shearwater (Calonectrisdiomedea borealis) and the Common Tern (Sterna hirundo). &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Na Terra Chã existe uma casa de pedra recentemente restaurada com vista a apoiar a propagação de plantas endémicas, a sua reintrodução no meio e a realização de estudos científicos.&lt;br/&gt;&lt;br/&gt;In Terra Chã there is a recently restored stone house with the purpose of supporting the spread of endemic plants, their reintroduction into the environment and scientific studies. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Por debaixo da Terra Chã fica a Furna dos Homiziados, antigo esconderijo de foragidos, onde, segundo a tradição, várias pessoas se esconderam fugidas da lei e das investidas de pirataria dos argelinos. Conta a lenda que, numa dessas emergências, o tecto da furna abateu sepultando quantos lá se abrigavam.&lt;br/&gt;&lt;br/&gt;Underneath Terra Chã is Furna dos Homiziados (Cave of the fugitives), a former hideout for outlaws, where according to tradition, many people hid as fugitives of the law and from piracy assaults by the Algerians. Legend has it that one of those emergencies, the ceiling of the cave fell, burying those who were there. &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;&lt;br/&gt;Os inúmeros miradouros naturais que oferece esta vereda permite vislumbrar grande parte da ilha do Porto Santo / The many natural vantage points offered by this pathway provides a glimpse of much of the island of Porto Santo: &lt;br/&gt;Calhau da Serra de Dentro, Pico do Concelho, Ilhéu de Cima, Pico do Maçarico, Portela, Rocha de Nossa Senhora, Pico Ana Ferreira, Espigão dos Morenos, Calheta, Ilhéu de Baixo.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Esta vereda foi traçada de propósito para a passagem dos burros com carga quando os locais semeavam cevada na Terra Chã. O regresso é feito pela mesma vereda.&lt;br/&gt;&lt;br/&gt;This trail was built on purpose for the passage of loaded donkeys when the locals sowed barley on Terra Chã. The Return is done on the same path. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Distância / Distance: 5,4 Km&lt;br/&gt;Tempo / Time: 1h 30m&lt;br/&gt;Altitude máxima: 450 m&lt;br/&gt;Altitude mínima: 184 m</groundspeak:long_description>
+            <groundspeak:encoded_hints>Covered by rocks</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>The view 3.jpg</ox:name>
+                    <ox:size>44619</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>The view 1 2.jpg</ox:name>
+                    <ox:size>106137</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Spoiler 50.jpg</ox:name>
+                    <ox:size>83991</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>The view 2 3.jpg</ox:name>
+                    <ox:size>33430</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
         </ox:opencaching>
     </wpt>
 </gpx>

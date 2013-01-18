@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>6 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,-56,90,-55</url>
-    <time>2012-01-04T09:28:48.112-06:00</time>
+    <time>2012-12-19T22:40:38.464Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="-55.0" maxlat="90.0" minlon="-56.0" minlat="-90.0"/>
     <wpt lon="-55.6182" lat="48.9569833">
-        <time>2010-12-08T19:35:48.000-06:00</time>
+        <time>2010-12-09T01:35:48.000Z</time>
         <name>OXJRJR</name>
-        <desc>Ty and Fred 1 by TYSONLB, Traditional Cache(3.0/3.0/3.5)</desc>
+        <desc>Ty and Fred 1 by TYSONLB, Traditional Cache(3.0/3.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXJRJR</url>
         <urlname>Ty and Fred 1</urlname>
         <sym>Geocache</sym>
@@ -24,14 +24,12 @@
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">Short walk in from a nice B&amp;B.  Walk down the trail, and have a quick look.  Very near the Trans Canada Trail.
-
-Permission from the owners of the B&amp;B was secured before I set the cache.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Short walk in from a nice B&amp;B.  Walk down the trail, and have a quick look.  Very near the Trans Canada Trail.&lt;br/&gt;&lt;br/&gt;Permission from the owners of the B&amp;B was secured before I set the cache.</groundspeak:long_description>
             <groundspeak:encoded_hints>Cache is a white Tobacco Container - log, some candles, some quartz pieces, etc are in it.</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>3.0</ox:difficulty>
                 <ox:size>3.8</ox:size>
                 <ox:terrain>3.0</ox:terrain>
@@ -39,9 +37,9 @@ Permission from the owners of the B&amp;B was secured before I set the cache.</g
         </ox:opencaching>
     </wpt>
     <wpt lon="-55.4702833" lat="49.0135">
-        <time>2010-12-08T19:43:11.000-06:00</time>
+        <time>2010-12-09T01:43:11.000Z</time>
         <name>OXJRJX</name>
-        <desc>Ty&amp;Fred3Salmonladderbishopsfalls by TYSONLB, Traditional Cache(3.0/3.5/3.5)</desc>
+        <desc>Ty&amp;Fred3Salmonladderbishopsfalls by TYSONLB, Traditional Cache(3.0/3.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXJRJX</url>
         <urlname>Ty&amp;Fred3Salmonladderbishopsfalls</urlname>
         <sym>Geocache</sym>
@@ -54,17 +52,12 @@ Permission from the owners of the B&amp;B was secured before I set the cache.</g
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>3.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">The cache is just off the trail along the river past the salmon ladder.
-
-To get to the cache by vehicle, you need to be on the Bay d'Espoir Highway (360) and either park on the highway and hike in, or take the road in at risk to your vehicle. It is a nice hike. You can also get here by taking the Trans Canada Trail.
-Follow the trail to the salmon hut and walk down to the Salmon ladder to see if there are any salmon running.
-The cache is past the ladder, just off the trail. You have to climb the rocks to get to the trail, but it is not much of a climb.
-If you cache with FRS/GMRS radios, try channel 5 code 15 to see if I am around.</groundspeak:long_description>
+            <groundspeak:long_description html="True">The cache is just off the trail along the river past the salmon ladder.&lt;br/&gt;&lt;br/&gt;To get to the cache by vehicle, you need to be on the Bay d'Espoir Highway (360) and either park on the highway and hike in, or take the road in at risk to your vehicle. It is a nice hike. You can also get here by taking the Trans Canada Trail.&lt;br/&gt;Follow the trail to the salmon hut and walk down to the Salmon ladder to see if there are any salmon running.&lt;br/&gt;The cache is past the ladder, just off the trail. You have to climb the rocks to get to the trail, but it is not much of a climb.&lt;br/&gt;If you cache with FRS/GMRS radios, try channel 5 code 15 to see if I am around.</groundspeak:long_description>
             <groundspeak:encoded_hints>between rock and overturned roots of tree</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>3.0</ox:difficulty>
                 <ox:size>3.8</ox:size>
                 <ox:terrain>3.5</ox:terrain>
@@ -72,7 +65,7 @@ If you cache with FRS/GMRS radios, try channel 5 code 15 to see if I am around.<
         </ox:opencaching>
     </wpt>
     <wpt lon="-55.3701667" lat="49.0481667">
-        <time>2010-12-08T19:59:13.000-06:00</time>
+        <time>2010-12-09T01:59:13.000Z</time>
         <name>OXJRJW</name>
         <desc>Ty&amp;Fred2sandypointroadnottch by TYSONLB, Traditional Cache(3.5/3.5/3.5)</desc>
         <url>http://www.opencaching.com/#geocache/OXJRJW</url>
@@ -87,9 +80,7 @@ If you cache with FRS/GMRS radios, try channel 5 code 15 to see if I am around.<
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>3.5</groundspeak:difficulty>
             <groundspeak:terrain>3.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">25 metres altitude, rocky hill, but navigable. Steep cliffs around, so watch the kids! White Tobacco container.
-
-As you drive along the TCH you may be tempted to park on the side of the road. Please do not - wait until you get to the turn off for sandy point, just before Jumper's brook, and make your way toward Norris Arm. Go in this way as there are several wood trails to get you to the cache. It is a huge rock, with a great view. You can also take the TCT to get to this trail.</groundspeak:long_description>
+            <groundspeak:long_description html="True">25 metres altitude, rocky hill, but navigable. Steep cliffs around, so watch the kids! White Tobacco container.&lt;br/&gt;&lt;br/&gt;As you drive along the TCH you may be tempted to park on the side of the road. Please do not - wait until you get to the turn off for sandy point, just before Jumper's brook, and make your way toward Norris Arm. Go in this way as there are several wood trails to get you to the cache. It is a huge rock, with a great view. You can also take the TCT to get to this trail.</groundspeak:long_description>
             <groundspeak:encoded_hints>top of hill behind small outcrop</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -101,10 +92,72 @@ As you drive along the TCH you may be tempted to park on the side of the road. P
             </ox:ratings>
         </ox:opencaching>
     </wpt>
+    <wpt lon="-55.2400833" lat="49.1025333">
+        <time>2012-06-18T20:59:08.000Z</time>
+        <name>OXZTEZK</name>
+        <desc>ZoeyJohnCache#1 by trooper_xo11, Traditional Cache(1.2/1.2/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTEZK</url>
+        <urlname>ZoeyJohnCache#1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28464808">
+            <groundspeak:name>ZoeyJohnCache#1</groundspeak:name>
+            <groundspeak:placed_by>trooper_xo11</groundspeak:placed_by>
+            <groundspeak:owner id="127061">trooper_xo11</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Geocache is located in Norris Arm South. </groundspeak:long_description>
+            <groundspeak:encoded_hints>CAUTION! </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.2</ox:difficulty>
+                <ox:size>1.2</ox:size>
+                <ox:terrain>1.2</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-55.3573" lat="49.1350833">
+        <time>2012-05-27T16:25:47.000Z</time>
+        <name>OXZTHZP</name>
+        <desc>U.S.S Essuardo by ntrldsstrr, Traditional Cache(1.8/2.3/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTHZP</url>
+        <urlname>U.S.S Essuardo</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28467694">
+            <groundspeak:name>U.S.S Essuardo</groundspeak:name>
+            <groundspeak:placed_by>ntrldsstrr</groundspeak:placed_by>
+            <groundspeak:owner id="120698">ntrldsstrr</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">To the right of the path on blueberry hill. </groundspeak:long_description>
+            <groundspeak:encoded_hints>Under a birch tree.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.8</ox:difficulty>
+                <ox:size>1.9</ox:size>
+                <ox:terrain>2.3</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
     <wpt lon="-55.9266167" lat="49.6464">
-        <time>2010-12-08T19:49:59.000-06:00</time>
+        <time>2010-12-09T01:49:59.000Z</time>
         <name>OXP7EW</name>
-        <desc>TyAlFred6 - undertherocksontherockontherock by TYSONLB, Traditional Cache(2.0/3.5/3.5)</desc>
+        <desc>TyAlFred6 - undertherocksontherockontherock by TYSONLB, Traditional Cache(2.0/3.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXP7EW</url>
         <urlname>TyAlFred6 - undertherocksontherockontherock</urlname>
         <sym>Geocache</sym>
@@ -117,16 +170,12 @@ As you drive along the TCH you may be tempted to park on the side of the road. P
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>3.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cache is hidden in a great location with a beautiful view.  
-
-It is a nice hike from nearby Beachside to Southern Arm that is well worth your time.
-
-The title of the cache will leave little doubt of where to find it ;)</groundspeak:long_description>
+            <groundspeak:long_description html="True">Cache is hidden in a great location with a beautiful view.  &lt;br/&gt;&lt;br/&gt;It is a nice hike from nearby Beachside to Southern Arm that is well worth your time.&lt;br/&gt;&lt;br/&gt;The title of the cache will leave little doubt of where to find it ;)</groundspeak:long_description>
             <groundspeak:encoded_hints>under the rocks on the rock on The Rock</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>2.0</ox:difficulty>
                 <ox:size>3.6</ox:size>
                 <ox:terrain>3.5</ox:terrain>

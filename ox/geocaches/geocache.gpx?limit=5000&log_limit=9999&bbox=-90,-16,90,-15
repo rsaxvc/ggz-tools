@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>9 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,-16,90,-15</url>
+    <time>2012-12-19T22:44:08.276Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="-15.0" maxlat="90.0" minlon="-16.0" minlat="-90.0"/>
+    <wpt lon="-15.5991167" lat="27.7352667">
+        <time>2012-11-01T09:14:13.000Z</time>
+        <name>OXZTBY5</name>
+        <desc>El Faro by Teamnegativ, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTBY5</url>
+        <urlname>El Faro</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28461880">
+            <groundspeak:name>El Faro</groundspeak:name>
+            <groundspeak:placed_by>Teamnegativ</groundspeak:placed_by>
+            <groundspeak:owner id="147960">Teamnegativ</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The Faro de Maspalomas is a 65 metre(213 feet) high lighthouse built in 1886 dominates the skyline. It is located on the sea front at Maspalomas near to the start of the Maspalomas sand dunes and Maspalomas Oasis. The Faro de Maspalomas is the tallest in the Canary Islands.&lt;br/&gt;&lt;br/&gt;Bus Routes: 5, 29, 30, 50.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Hole in the wall, ground level</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.5</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+                <ox:tag>Historic site</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>FARO_pp.jpg</ox:name>
+                    <ox:size>81195</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>FARO.jpg</ox:name>
+                    <ox:size>41338</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-15.5983333" lat="27.7375667">
+        <time>2012-11-01T09:37:20.000Z</time>
+        <name>OXZTBY4</name>
+        <desc>Maspalomas No:1 by Teamnegativ, Traditional Cache(1.5/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTBY4</url>
+        <urlname>Maspalomas No:1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28461879">
+            <groundspeak:name>Maspalomas No:1</groundspeak:name>
+            <groundspeak:placed_by>Teamnegativ</groundspeak:placed_by>
+            <groundspeak:owner id="147960">Teamnegativ</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">See this cache as a bonus cache you take on the way to the bus staionen - after a full day in Maspalomas desert needed a little bonus. Take the opportunity to look around this &quot;building&quot; is also unique in terms of color and shape.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Long arms are preferred</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.5</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Maspalomas No1.jpg</ox:name>
+                    <ox:size>149082</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-15.58165" lat="27.7418333">
+        <time>2012-10-28T22:29:53.000Z</time>
+        <name>OXZTBZY</name>
+        <desc>Dunas Maspalomas by Teamnegativ, Virtual Cache(1.0/2.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTBZY</url>
+        <urlname>Dunas Maspalomas</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Virtual Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28461935">
+            <groundspeak:name>Dunas Maspalomas</groundspeak:name>
+            <groundspeak:placed_by>Teamnegativ</groundspeak:placed_by>
+            <groundspeak:owner id="147960">Teamnegativ</groundspeak:owner>
+            <groundspeak:type>Virtual Cache</groundspeak:type>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The Maspalomas Sand Dunes are a nature reserve and naturists  paradise for sun worshipers into nude sun bathing.  The dunes can be reached by walking along the beach from either of the resorts. Maspalomas or Playa del Ingles, If you are coming from Playa del Ingles resort centre then head for the Hotel Riu Palace Maspalomas and go through the large arched entrance, along to the end of a short lane. You can try your hand out at riding a camel or horse.&lt;br/&gt;Even in winter the sand can get too hot to walk on so don't forget your flip flops, sandals or trainers. This is particularly noticed on the southern sides of the dunes especially if there is no breeze.&lt;br/&gt;&lt;br/&gt;To log this cache you need to describe the color of the pole you see at the zero point (top of the pole)&lt;br/&gt;&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="2256923">
+                    <groundspeak:date>2012-11-23T23:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="112136">LILLIBAS</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found this virtual today. Thanks for showing me this place. Very interesting site. TFTV lillibas</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:phrase>8f53988ac0b85a23f699afc9a1aa1f277bfb4fd082ae2fc21262b588f5961a32</ox:phrase>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>desert.jpg</ox:name>
+                    <ox:size>59184</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-15.5674667" lat="27.7575">
+        <time>2012-11-02T20:05:11.000Z</time>
+        <name>OXZTBX1</name>
+        <desc>Playa del Ingles No:1 by Teamnegativ, Traditional Cache(1.2/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTBX1</url>
+        <urlname>Playa del Ingles No:1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28461845">
+            <groundspeak:name>Playa del Ingles No:1</groundspeak:name>
+            <groundspeak:placed_by>Teamnegativ</groundspeak:placed_by>
+            <groundspeak:owner id="147960">Teamnegativ</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is the point of Playa del Ingles melt together with San Augustin. The view is fantastic. Binoculars are available for those who want to study vessels that pass.&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Take a seat and &quot;look&quot; with your hand</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2311219">
+                    <groundspeak:date>2012-12-04T23:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="163560">holymaco</groundspeak:finder>
+                    <groundspeak:text encoded="False">Satt på muren men kunde inte känna någon behållare... såg på bilden att jag var på rätt ställe.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.2</ox:difficulty>
+                <ox:size>2.5</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>spoiler 75.jpg</ox:name>
+                    <ox:size>139896</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-15.5699" lat="27.7577333">
+        <time>2012-11-02T20:12:56.000Z</time>
+        <name>OXZTBX0</name>
+        <desc>Playa del Ingles No:2 by Teamnegativ, Traditional Cache(1.0/1.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTBX0</url>
+        <urlname>Playa del Ingles No:2</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28461844">
+            <groundspeak:name>Playa del Ingles No:2</groundspeak:name>
+            <groundspeak:placed_by>Teamnegativ</groundspeak:placed_by>
+            <groundspeak:owner id="147960">Teamnegativ</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is a bonus cache for those who took Playa Del Ingles No. 1. After the walk in the hard steps needed a reward.&lt;br/&gt;&lt;br/&gt;ps, Cold Beer can be bought at the bar 10 meters away&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Traffic Sign </groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2311220">
+                    <groundspeak:date>2012-12-04T23:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="163560">holymaco</groundspeak:finder>
+                    <groundspeak:text encoded="False">Min GPS visade på fel sida vägen, såg ledtråden sign först efteråt. 
+
+Är ny på detta med Geocach och när jag fick se bilden som var dold (visste inte att man kunde klicka fram den) så var jag nog precis bredvid den stolpen och yrade...</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>spoiler 76.jpg</ox:name>
+                    <ox:size>97202</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-15.5966667" lat="27.75855">
+        <time>2012-11-02T16:00:10.000Z</time>
+        <name>OXZTBX3</name>
+        <desc>Skate by Teamnegativ, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTBX3</url>
+        <urlname>Skate</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28461847">
+            <groundspeak:name>Skate</groundspeak:name>
+            <groundspeak:placed_by>Teamnegativ</groundspeak:placed_by>
+            <groundspeak:owner id="147960">Teamnegativ</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">If you have children in their early teens, they will love this place. Here you will find Maspalomas coolest skateboard park. If you are an adult DON'T DO IT ... :-)&lt;br/&gt;&lt;br/&gt;(swe)&lt;br/&gt;// Yngre tonåringar älskar den här platsen - En av GranCanarias häftigaste skateboard-ramper. Om du är vuxen - LÅT BLI :-) </groundspeak:long_description>
+            <groundspeak:encoded_hints>Stoneheng</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Jeanette_Skate_small.jpg</ox:name>
+                    <ox:size>81914</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>spoiler 74.jpg</ox:name>
+                    <ox:size>102434</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-15.5946333" lat="27.7595167">
+        <time>2012-11-02T15:46:29.000Z</time>
+        <name>OXZTBX7</name>
+        <desc>The Tube by Teamnegativ, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTBX7</url>
+        <urlname>The Tube</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28461851">
+            <groundspeak:name>The Tube</groundspeak:name>
+            <groundspeak:placed_by>Teamnegativ</groundspeak:placed_by>
+            <groundspeak:owner id="147960">Teamnegativ</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">If you are lucky, you will see a rushing river - usually is the water canal empty of water and a perfect hiking trail down to Maspalomas desert.&lt;br/&gt;&lt;br/&gt;(Swe)&lt;br/&gt;// Har du riktig tur så kommer du att få se en strömmande flod, men vanligtvis är kanalen helt tom på vatten och en perfekt vandringsled ned till Maspalomas öken. </groundspeak:long_description>
+            <groundspeak:encoded_hints>Tube in fence</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>2.5</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>The Tube.jpg</ox:name>
+                    <ox:size>105297</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Spoiler 73.jpg</ox:name>
+                    <ox:size>95111</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-15.5342833" lat="27.7734167">
+        <time>2012-12-11T10:39:34.000Z</time>
+        <name>OXZTB8G</name>
+        <desc>The Beachwalk no.1 by holymaco, Traditional Cache(3.0/2.2/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTB8G</url>
+        <urlname>The Beachwalk no.1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28461240">
+            <groundspeak:name>The Beachwalk no.1</groundspeak:name>
+            <groundspeak:placed_by>holymaco</groundspeak:placed_by>
+            <groundspeak:owner id="163560">holymaco</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Cach gömd på strandpromenaden som går mellan Bahia Feliz &amp; Playa De Ingles. Knappa 3 km gångavstånd från Bahia Feliz.&lt;br/&gt;&lt;br/&gt;Cachen ligger gömd där du har fin utsikt ner i en liten vik, viktigt är att du går den övre vägen nära landsvägen då även strandpromenaden går längst ner vid havet vid denna punkt.&lt;br/&gt;&lt;br/&gt;Helt klart värt att besöka denna geocach då strandpromenaden är kanonfin hela vägen.&lt;br/&gt;&lt;br/&gt;Behållaren är i rosa plast, la i en svensk enkrona och om du vill så lägger du i/byter ut din mot ett mynt i din valuta.&lt;br/&gt;&lt;br/&gt;OBS! Ta med PENNA! &lt;br/&gt;Cachnote'n är gjord på hotellrummet då jag inte hade tillgång till skrivare. &lt;br/&gt;&lt;br/&gt;---------------------------&lt;br/&gt;&lt;br/&gt;Cach hidden on the promenade that runs between Bahia Feliz &amp; Playa De Ingles. Approximately 3 km walk from Bahia Feliz.&lt;br/&gt;&lt;br/&gt;The cache is hidden where you have a nice view down into a creek, important that you go the upper road near the highway then also the boardwalk goes at the bottom of the sea at this point.&lt;br/&gt;&lt;br/&gt;Definitely worth visiting this geocach, the boardwalk is really nice all the way.&lt;br/&gt;&lt;br/&gt;The container is in pink plastic, put in a Swedish one krona and if you want you put in / replace the coin with one in your currency.&lt;br/&gt;&lt;br/&gt;NOTE! Bring a PEN!&lt;br/&gt;Cachnote'n is made in the hotel room when I did not have access to printers.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Snett nedanför Kyle's högra fot (i muren bakom lös sten) - Below Kyle's right foot (in the wall behind av loose rock)</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.2</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>View from the hide.jpg</ox:name>
+                    <ox:size>72647</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Picture of the hide.jpg</ox:name>
+                    <ox:size>98758</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-15.7105167" lat="27.7882">
+        <time>2012-11-01T20:00:03.000Z</time>
+        <name>OXZTBXN</name>
+        <desc>Puerto Rico No:1 by Teamnegativ, Traditional Cache(1.0/1.0/2.9)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTBXN</url>
+        <urlname>Puerto Rico No:1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28461865">
+            <groundspeak:name>Puerto Rico No:1</groundspeak:name>
+            <groundspeak:placed_by>Teamnegativ</groundspeak:placed_by>
+            <groundspeak:owner id="147960">Teamnegativ</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Puerto Rico, Grancanaria, is a small charming town with the beach in the city. This is the place in Grancanaria where it is always sunny. The city is located in a valley and has a very pleasant climate. If it rains on the island - take the bus to Puerto Rico. &lt;br/&gt;&lt;br/&gt;(Bus number: 01, 91, 33, 39)&lt;br/&gt; </groundspeak:long_description>
+            <groundspeak:encoded_hints>Tube in fence</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2311221">
+                    <groundspeak:date>2012-12-03T23:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="163560">holymaco</groundspeak:finder>
+                    <groundspeak:text encoded="False">Bra gömd!
+
+Trevligt att ha något att göra när man väntar på bussen :)
+
+Smart behållare också...</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="2215149">
+                    <groundspeak:date>2012-11-04T00:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="140589">vince212</groundspeak:finder>
+                    <groundspeak:text encoded="False">Trouvée facilement en visitant Puerto Rico.
+Merci pour la cache !</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>2.4</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Near Cache.jpg</ox:name>
+                    <ox:size>68796</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>PuertoRico.jpg</ox:name>
+                    <ox:size>62961</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+</gpx>

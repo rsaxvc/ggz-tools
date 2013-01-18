@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>1 geocache.  Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,110,90,111</url>
+    <time>2012-12-19T22:59:18.899Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="111.0" maxlat="90.0" minlon="110.0" minlat="-90.0"/>
+    <wpt lon="110.3476333" lat="1.5497">
+        <time>2012-08-14T09:27:16.000Z</time>
+        <name>OX3EJ31</name>
+        <desc>Reservoir Park Kuching by BernGPS, Traditional Cache(3.4/2.3/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3EJ31</url>
+        <urlname>Reservoir Park Kuching</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3205029">
+            <groundspeak:name>Reservoir Park Kuching</groundspeak:name>
+            <groundspeak:placed_by>BernGPS</groundspeak:placed_by>
+            <groundspeak:owner id="122342">BernGPS</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache by BernGPS consisting of a pink food container in red plastic bag.&lt;br/&gt;&lt;br/&gt;Kuching Reservoir Park is right in the city centre, within walking distance from the Kuching Waterfront. It is very popular with joggers and strollers in the evenings - there are usually quite a number of people there when the weather is good. It used to be the fresh water reservoir for Kuching town and the park was developed around it. The Japanese Bridge crossing the main lake is one of the truly iconic structures in Kuching. This park definitely holds a sentimental value for many people as it used to be the main dating ground in Kuching.&lt;br/&gt;&lt;br/&gt;Being right in the city centre, it is quite surprising to find a place with so many tall and mature trees. The trees here could be some of the oldest in Kuching, as they seem to have been there forever. The are some 2nd World War Bomb Shelter at a corner of the park.&lt;br/&gt;&lt;br/&gt;This is a great place for exercise as the trees provide plenty of shade and the tracks give you a choice of either an easy run around the lakes, or a more strenously trek on the hilly slopes . There is also a nice playground for the kids.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Look underneath</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.4</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.3</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

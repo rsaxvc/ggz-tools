@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>1 geocache.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,136,90,137</url>
-    <time>2012-01-04T09:33:01.835-06:00</time>
+    <time>2012-12-19T23:01:50.796Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="137.0" maxlat="90.0" minlon="136.0" minlat="-90.0"/>
     <wpt lon="136.9738833" lat="35.1462833">
-        <time>2010-10-24T02:00:00.000-05:00</time>
+        <time>2010-10-24T07:00:00.000Z</time>
         <name>OX2GBHZ</name>
         <desc>HAGE by eizo, Unknown Cache(3.0/3.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2GBHZ</url>
@@ -24,18 +24,11 @@
             <groundspeak:container>Large</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">lease use the device that can hear &quot;chirp&quot; for your reaching to this final.
-&quot;chirp&quot; is a device that sends the beacon.
-http://www.garmin.com/chirp
-
-Shown coordinates are entrances to Hage Hill in Yagotourayama.
-
-Please look up at coordinates and the lock number of the cache in this place.
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">lease use the device that can hear &quot;chirp&quot; for your reaching to this final.&lt;br/&gt;&quot;chirp&quot; is a device that sends the beacon.&lt;br/&gt;http://www.garmin.com/chirp&lt;br/&gt;&lt;br/&gt;Shown coordinates are entrances to Hage Hill in Yagotourayama.&lt;br/&gt;&lt;br/&gt;Please look up at coordinates and the lock number of the cache in this place.&lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>cliff where tower is seen</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="718098">
-                    <groundspeak:date>2010-12-12T03:51:54.000-06:00</groundspeak:date>
+                    <groundspeak:date>2010-12-12T09:51:54.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="6476">KOZAN3RD</groundspeak:finder>
                     <groundspeak:text encoded="False"/>
@@ -51,6 +44,7 @@ Please look up at coordinates and the lock number of the cache in this place.
             </ox:ratings>
             <ox:tags>
                 <ox:tag>chirp</ox:tag>
+                <ox:tag>Verifiable</ox:tag>
             </ox:tags>
             <ox:verification>
                 <ox:chirp>2437356</ox:chirp>

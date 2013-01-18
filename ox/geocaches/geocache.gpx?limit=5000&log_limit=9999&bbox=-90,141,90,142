@@ -1,15 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>8 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,141,90,142</url>
-    <time>2012-01-04T09:33:05.133-06:00</time>
+    <time>2012-12-19T23:02:19.325Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="142.0" maxlat="90.0" minlon="141.0" minlat="-90.0"/>
+    <wpt lon="141.8893" lat="-34.112533">
+        <time>2011-07-17T07:00:00.000Z</time>
+        <name>OX30AMJ</name>
+        <desc>Caching Possum Style by Squidchaser, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX30AMJ</url>
+        <urlname>Caching Possum Style</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2780811">
+            <groundspeak:name>Caching Possum Style</groundspeak:name>
+            <groundspeak:placed_by>Squidchaser</groundspeak:placed_by>
+            <groundspeak:owner id="85094">Squidchaser</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Possum 1901-1982. 'The Possum’ was Australia’s first cacher (1928). He lived as a recluse on the riverbanks mostly between Wentworth and Renmark. He had a large number of caches (plants) where he stored essential supplies for life in the bush, usually one day’s walk from one other. You are looking for my interpretation of a possum cache. The log is loose diary pages (as the possum kept his notes). Feel free to add  but please don't take.&lt;br/&gt;&lt;br/&gt;David James Jones came to Australia from New Zealand at the age of 27. He arrived as a shearer during the great depression, denied work (because be didn’t have a union ticket) he turned his back on society and took to life on the river bank until his death 54 years later. He walked everywhere, refused charity, lived off the land, swam the river regularly and was very rarely sighted. He loved the freedom of life in the bush. He had a special relationship with animals, he rode horses bareback, fed birds and let dogs off chains because he didn’t like to see them tied-up. He was nicknamed ‘The Possum’ because he was often up trees getting honey and hiding from anyone who might be around. He avoided human contact at all costs, very few people ever saw him. &lt;br/&gt;&lt;br/&gt;The Possum kept essentials hidden in hollow logs, trees, under bridges, in hollows, under overhangs and beneath old metal drums (sound familiar?). He kept diaries detailing the contents of each store (logs). His plants contained various items including Fish hooks, gill nets, soap, rabbit traps, salt, matches, billycans, needles and thread, glasses, jars of honey and shear blades.&lt;br/&gt;Additional Hidden Waypoints&lt;br/&gt;PS30AMJ - Possum Statue&lt;br/&gt;S 34° 06.408 E 141° 55.367</groundspeak:long_description>
+            <groundspeak:encoded_hints>Just above flood level. Don't look up too high, no need to climb... it could all come crashing down!</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="141.032767" lat="-35.2388">
+        <time>2011-09-04T07:00:00.000Z</time>
+        <name>OX33H9P</name>
+        <desc>Old School Rock by Squidchaser, Traditional Cache(3.6/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX33H9P</url>
+        <urlname>Old School Rock</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2876574">
+            <groundspeak:name>Old School Rock</groundspeak:name>
+            <groundspeak:placed_by>Squidchaser</groundspeak:placed_by>
+            <groundspeak:owner id="85094">Squidchaser</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Very rarely are lookouts constructed to view paddocks, maybe there should be more Crop viewing areas like this one as the views here are fantastic. At the time of placement a sea of green, later in the year Gold.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.6</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
     <wpt lon="141.2887833" lat="-37.5912333">
-        <time>2011-01-08T16:30:42.000-06:00</time>
+        <time>2011-01-08T22:30:42.000Z</time>
         <name>OX2KNG4</name>
         <desc>What'll Glenn Do? by dazzpete, Traditional Cache(2.0/2.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2KNG4</url>
@@ -24,18 +79,7 @@
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">
-
-Wattle Glen Picnic Ground
-
-Take a short drive off the Casterton-Penola Road and you'll find the Wattle Glen Picnic Ground.
-
-geoD remembers coming here as a young 'un for family picnics, not much has changed in the last twenty odd years. You'll only find basic facilities, but you will find a surprising amount of serenity!
-
-Bring the family and have a BBQ or just stop to stretch the legs. The road in, is passable to a 2WD but would require a bit of thought in wet weather.
-
-The cache is located a short walk in to the scrub from the picnic ground and contains &quot;Army&quot; styled swaps to start with.
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">&lt;br/&gt;&lt;br/&gt;Wattle Glen Picnic Ground&lt;br/&gt;&lt;br/&gt;Take a short drive off the Casterton-Penola Road and you'll find the Wattle Glen Picnic Ground.&lt;br/&gt;&lt;br/&gt;geoD remembers coming here as a young 'un for family picnics, not much has changed in the last twenty odd years. You'll only find basic facilities, but you will find a surprising amount of serenity!&lt;br/&gt;&lt;br/&gt;Bring the family and have a BBQ or just stop to stretch the legs. The road in, is passable to a 2WD but would require a bit of thought in wet weather.&lt;br/&gt;&lt;br/&gt;The cache is located a short walk in to the scrub from the picnic ground and contains &quot;Army&quot; styled swaps to start with.&lt;br/&gt;</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -44,13 +88,10 @@ The cache is located a short walk in to the scrub from the picnic ground and con
                 <ox:size>3.6</ox:size>
                 <ox:terrain>2.6</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Picnic Area</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="141.5990667" lat="-37.62295">
-        <time>2011-01-08T16:34:33.000-06:00</time>
+        <time>2011-01-08T22:34:33.000Z</time>
         <name>OX2KNHE</name>
         <desc>Them Old Schools: Hilgay SS 4281 by dazzpete, Traditional Cache(1.4/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2KNHE</url>
@@ -65,19 +106,7 @@ The cache is located a short walk in to the scrub from the picnic ground and con
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">
-
-Them Old Schools
-
-There are numerous remnants of old schools dotted throughout country Australia. Some still have building remains, whereas others are long gone with only a fading memory of what once remained.
-
-Hilgay State School 4281
-
-Established as full time school due to an increase in population from a sub-division of Hilgay Estate for Soldier Settlement. Hilgay opened on 22nd of November 1925 and closed on 30th of July 1951. The building was removed in 1955 to be used at Chetwynd as a replacement for that school's building.
-
-However, it proved unsatisfactory, and in 1957 the building was sold for demolition. Nothing remains of Hilgay now other than memories and the tree lined fringe of the school grounds.
-
-There is no need to enter the property and you're looking for an Eclipse Mint Tin</groundspeak:long_description>
+            <groundspeak:long_description html="True">&lt;br/&gt;&lt;br/&gt;Them Old Schools&lt;br/&gt;&lt;br/&gt;There are numerous remnants of old schools dotted throughout country Australia. Some still have building remains, whereas others are long gone with only a fading memory of what once remained.&lt;br/&gt;&lt;br/&gt;Hilgay State School 4281&lt;br/&gt;&lt;br/&gt;Established as full time school due to an increase in population from a sub-division of Hilgay Estate for Soldier Settlement. Hilgay opened on 22nd of November 1925 and closed on 30th of July 1951. The building was removed in 1955 to be used at Chetwynd as a replacement for that school's building.&lt;br/&gt;&lt;br/&gt;However, it proved unsatisfactory, and in 1957 the building was sold for demolition. Nothing remains of Hilgay now other than memories and the tree lined fringe of the school grounds.&lt;br/&gt;&lt;br/&gt;There is no need to enter the property and you're looking for an Eclipse Mint Tin</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -87,12 +116,12 @@ There is no need to enter the property and you're looking for an Eclipse Mint Ti
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>Historic area</ox:tag>
+                <ox:tag>Historic site</ox:tag>
             </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="141.012267" lat="-38.0359">
-        <time>2009-10-07T02:00:00.000-05:00</time>
+        <time>2009-10-07T07:00:00.000Z</time>
         <name>OX1ZW7J</name>
         <desc>Tread Carefully by jgc3, Multi-cache(3.0/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ZW7J</url>
@@ -107,36 +136,7 @@ There is no need to enter the property and you're looking for an Eclipse Mint Ti
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">The cache is not at the above coordinates. This will bring you to a peaceful location that you can park while you gather the required clues. This cache is a nano and very small so look carefully around GZ. This site contains Endangered Native Flora. Also please treat the area with respect. Enjoy the hunt.
-
-1.) How many people on the World War I plaque were killed in action?    
-Answer = A
-
-2.) In Total how many people on the World War II plaque with these surnames, Brown, Pell and Proudfoot?  
-Answer = B
-
-3.) On the plaque to commemorate the consecration of the Nelson Public Cemetery, what is the last number of the year listed? 
-Answer = C
-
-4.) Jason John Lomas was born 03/08/19D3
-Answer = D
-
-5.) On the gravesite plaque above Nadine Schafer How many words in their full name?
-Answer = E
-
-6.) How many animals on the gravesite plaque of Roger Whitehead? 
-Answer = F
-
-Cache located at S 38. 02. ABC
-                         E 141. 00. DEF
-
-Additional Waypoints
-HIDDEN: GZ1ZW7J - Final Location
-N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
-Final Location of nano cache
-PK1ZW7J - Parking
-S 38° 02.154 E 141° 00.736
-Parking Area</groundspeak:long_description>
+            <groundspeak:long_description html="True">The cache is not at the above coordinates. This will bring you to a peaceful location that you can park while you gather the required clues. This cache is a nano and very small so look carefully around GZ. This site contains Endangered Native Flora. Also please treat the area with respect. Enjoy the hunt.&lt;br/&gt;&lt;br/&gt;1.) How many people on the World War I plaque were killed in action?    &lt;br/&gt;Answer = A&lt;br/&gt;&lt;br/&gt;2.) In Total how many people on the World War II plaque with these surnames, Brown, Pell and Proudfoot?  &lt;br/&gt;Answer = B&lt;br/&gt;&lt;br/&gt;3.) On the plaque to commemorate the consecration of the Nelson Public Cemetery, what is the last number of the year listed? &lt;br/&gt;Answer = C&lt;br/&gt;&lt;br/&gt;4.) Jason John Lomas was born 03/08/19D3&lt;br/&gt;Answer = D&lt;br/&gt;&lt;br/&gt;5.) On the gravesite plaque above Nadine Schafer How many words in their full name?&lt;br/&gt;Answer = E&lt;br/&gt;&lt;br/&gt;6.) How many animals on the gravesite plaque of Roger Whitehead? &lt;br/&gt;Answer = F&lt;br/&gt;&lt;br/&gt;Cache located at S 38. 02. ABC&lt;br/&gt;                         E 141. 00. DEF&lt;br/&gt;&lt;br/&gt;Additional Waypoints&lt;br/&gt;HIDDEN: GZ1ZW7J - Final Location&lt;br/&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br/&gt;Final Location of nano cache&lt;br/&gt;PK1ZW7J - Parking&lt;br/&gt;S 38° 02.154 E 141° 00.736&lt;br/&gt;Parking Area</groundspeak:long_description>
             <groundspeak:encoded_hints>I am a well hidden magnetic Nano look carefully. Make sure you've read the questions correctly.</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -147,18 +147,14 @@ Parking Area</groundspeak:long_description>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>Easy Parking</ox:tag>
-                <ox:tag>Available 24 hours</ox:tag>
-                <ox:tag>War Memorial</ox:tag>
-                <ox:tag>Historic Area</ox:tag>
-                <ox:tag>Cementery</ox:tag>
+                <ox:tag>Historic site</ox:tag>
             </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="141.0111" lat="-38.049833">
-        <time>2011-04-26T02:00:00.000-05:00</time>
+        <time>2011-04-26T07:00:00.000Z</time>
         <name>OX2V396</name>
-        <desc>The Adventures of Jay and Kay by jgc3, Traditional Cache(1.5/1.5/3.0)</desc>
+        <desc>The Adventures of Jay and Kay by jgc3, Traditional Cache(1.5/1.5/2.9)</desc>
         <url>http://www.opencaching.com/#geocache/OX2V396</url>
         <urlname>The Adventures of Jay and Kay</urlname>
         <sym>Geocache</sym>
@@ -171,31 +167,40 @@ Parking Area</groundspeak:long_description>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">This cache brings you to a park with viewing platform and was inspired by our geo-dogs that enjoy playing here in the area. Hence it is named after them and their adventures that is published in our geocaching magazine.
-The view is great and it can be done 24 hours a day. Close parking nearby and only a short walk along an easy path. Please bring your own pen.
-
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">This cache brings you to a park with viewing platform and was inspired by our geo-dogs that enjoy playing here in the area. Hence it is named after them and their adventures that is published in our geocaching magazine.&lt;br/&gt;The view is great and it can be done 24 hours a day. Close parking nearby and only a short walk along an easy path. Please bring your own pen.&lt;br/&gt;&lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Behind beam under platform on tree side. Easy!</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1757257">
+                    <groundspeak:date>2012-02-25T13:30:00.000Z</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="73157">ZYDECO99</groundspeak:finder>
+                    <groundspeak:text encoded="False">found when driving passed and heard GPS beep so decided to look.TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1757260">
+                    <groundspeak:date>2012-01-24T17:22:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="73157">ZYDECO99</groundspeak:finder>
+                    <groundspeak:text encoded="False">&quot;&quot;</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1757271">
+                    <groundspeak:date>2012-01-24T17:22:00.000Z</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="73157">ZYDECO99</groundspeak:finder>
+                    <groundspeak:text encoded="False">&quot;&quot;</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:awesomeness>2.9</ox:awesomeness>
                 <ox:difficulty>1.5</ox:difficulty>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>River Views</ox:tag>
-                <ox:tag>Scenic Views</ox:tag>
-                <ox:tag>Bench Seating at location</ox:tag>
-                <ox:tag>Lookout</ox:tag>
-                <ox:tag>dogs alowed</ox:tag>
-                <ox:tag>Easy Parking</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
-    <wpt lon="141.40905" lat="-38.273733">
-        <time>2009-02-25T02:00:00.000-06:00</time>
+    <wpt lon="141.40905" lat="-38.2737333">
+        <time>2009-02-25T08:00:00.000Z</time>
         <name>OX1N3B1</name>
         <desc>Don't forget to Wave by jgc3, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1N3B1</url>
@@ -207,25 +212,23 @@ The view is great and it can be done 24 hours a day. Close parking nearby and on
             <groundspeak:placed_by>jgc3</groundspeak:placed_by>
             <groundspeak:owner id="11814">jgc3</groundspeak:owner>
             <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">A nice spot to take a walk. Depending on where you park you might walk up to approx 3kms in total back to your vehicle. The walk is mostly easy terrain on a ready made path in the park. I think if you make the trip you'll think the views at GZ worth it. The container is large enough to take bigger swaps you might not get in some caches. Enjoy
-
-There is an information board and tables if you wish to have a picnic and toilet facility (near parking area NOT near cache.) There's a number of different walks around the area plus another good cache GCMJ43 at a cool location. Please enjoy the hunt and don't forget to wave! Please post a photo if you wish. Thanks</groundspeak:long_description>
+            <groundspeak:long_description html="True">A nice spot to take a walk. Depending on where you park you might walk up to approx 3kms in total back to your vehicle. The walk is mostly easy terrain on a ready made path in the park. I think if you make the trip you'll think the views at GZ worth it. The container is large enough to take bigger swaps you might not get in some caches. Enjoy&lt;br/&gt;&lt;br/&gt;There is an information board and tables if you wish to have a picnic and toilet facility (near parking area NOT near cache.) There's a number of different walks around the area plus another good cache GCMJ43 at a cool location. Please enjoy the hunt and don't forget to wave! Please post a photo if you wish. Thanks</groundspeak:long_description>
             <groundspeak:encoded_hints>Large Clear Sistemer under look out near 2nd support beam</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
                 <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>1.5</ox:difficulty>
-                <ox:size>5.0</ox:size>
+                <ox:size>4.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
         </ox:opencaching>
     </wpt>
     <wpt lon="141.6147" lat="-38.29455">
-        <time>2009-03-11T02:00:00.000-05:00</time>
+        <time>2009-03-11T07:00:00.000Z</time>
         <name>OX1NJZH</name>
         <desc>Let's be Frank by jgc3, Traditional Cache(1.0/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1NJZH</url>
@@ -240,9 +243,7 @@ There is an information board and tables if you wish to have a picnic and toilet
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Check out the view at this location. Easy parking and a monument nearby which you will understand the name after viewing.
-
-The views from here may be a thing of the past as a new estate is being built nearby. Enjoy them while you can. Also take time to read the nearby monument. It is a 400ml sistema suitable for small swaps. Information board in the car park may be helpful for people not living in the area. Thank you and Enjoy.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Check out the view at this location. Easy parking and a monument nearby which you will understand the name after viewing.&lt;br/&gt;&lt;br/&gt;The views from here may be a thing of the past as a new estate is being built nearby. Enjoy them while you can. Also take time to read the nearby monument. It is a 400ml sistema suitable for small swaps. Information board in the car park may be helpful for people not living in the area. Thank you and Enjoy.</groundspeak:long_description>
             <groundspeak:encoded_hints>At the base of a tree a short distance from car park</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -252,12 +253,6 @@ The views from here may be a thing of the past as a new estate is being built ne
                 <ox:size>3.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>dogs allowed.</ox:tag>
-                <ox:tag>Drive by</ox:tag>
-                <ox:tag>Easy Parking</ox:tag>
-                <ox:tag>Scenic Views Nearby</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
 </gpx>

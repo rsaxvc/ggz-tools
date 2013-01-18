@@ -1,15 +1,54 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>12 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,153,90,154</url>
-    <time>2012-01-04T09:33:10.602-06:00</time>
+    <time>2012-12-19T23:03:26.689Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="154.0" maxlat="90.0" minlon="153.0" minlat="-90.0"/>
+    <wpt lon="153.09275" lat="-26.7013667">
+        <time>2012-01-27T23:59:14.000Z</time>
+        <name>OXZTMBN</name>
+        <desc>Ducks n Cootes by Spin Jim, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTMBN</url>
+        <urlname>Ducks n Cootes</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469987">
+            <groundspeak:name>Ducks n Cootes</groundspeak:name>
+            <groundspeak:placed_by>Spin Jim</groundspeak:placed_by>
+            <groundspeak:owner id="88428">Spin Jim</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Small traditional cache&lt;br/&gt;&lt;br/&gt;Along walking track. Ducks and cootes around. Weekends may attract muffles. </groundspeak:long_description>
+            <groundspeak:encoded_hints>Think like a scrub Turkey</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1860155">
+                    <groundspeak:date>2012-06-10T22:22:23.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="124731">SCOTT.ATKINSON1</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
     <wpt lon="153.4130833" lat="-27.9603889">
-        <time>2011-10-23T01:00:39.000-05:00</time>
+        <time>2011-10-23T06:00:39.000Z</time>
         <name>OXZTNV1</name>
         <desc>Beached Rogues by Rogan, Traditional Cache(2.0/1.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTNV1</url>
@@ -34,10 +73,13 @@
                 <ox:size>2.5</ox:size>
                 <ox:terrain>1.6</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="153.4195278" lat="-27.9694444">
-        <time>2011-10-23T02:00:09.000-05:00</time>
+        <time>2011-10-23T07:00:09.000Z</time>
         <name>OXZTNV0</name>
         <desc>Rogues on the rocks by Rogan, Traditional Cache(3.5/1.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTNV0</url>
@@ -62,10 +104,13 @@
                 <ox:size>2.5</ox:size>
                 <ox:terrain>1.0</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="153.4346389" lat="-28.0278611">
-        <time>2011-10-30T01:51:57.000-05:00</time>
+        <time>2011-10-30T06:51:57.000Z</time>
         <name>OXZTNPW</name>
         <desc>Rogues Broads by Rogan, Traditional Cache(3.0/1.7/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTNPW</url>
@@ -80,8 +125,7 @@
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">This cache is positioned right amongst the busy playgrounds on the beach at Broadbeach.  This very busy location makes it tricky to place or retrieve the cache without being noticed so stealth is necessary.  As with all our caches this is a small swap and log cache hidden from prying eyes.
-Happy 12th birthday Chynna!</groundspeak:long_description>
+            <groundspeak:long_description html="True">This cache is positioned right amongst the busy playgrounds on the beach at Broadbeach.  This very busy location makes it tricky to place or retrieve the cache without being noticed so stealth is necessary.  As with all our caches this is a small swap and log cache hidden from prying eyes.&lt;br/&gt;Happy 12th birthday Chynna!</groundspeak:long_description>
             <groundspeak:encoded_hints>Difficult cache to find, search the garden beds near the beach entrance for a tree with tall roots.  Try to camouflage the cache with leaves or bark when replacing.</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -92,16 +136,12 @@ Happy 12th birthday Chynna!</groundspeak:long_description>
                 <ox:terrain>1.7</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>broadbeach</ox:tag>
-                <ox:tag>beach</ox:tag>
-                <ox:tag>public toilets</ox:tag>
-                <ox:tag>park</ox:tag>
-                <ox:tag>playground equipment</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
             </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="153.3858333" lat="-28.0757222">
-        <time>2011-10-27T18:38:46.000-05:00</time>
+        <time>2011-10-27T23:38:46.000Z</time>
         <name>OXZTNRD</name>
         <desc>Prom Rogues by Rogan, Traditional Cache(4.0/1.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTNRD</url>
@@ -126,10 +166,13 @@ Happy 12th birthday Chynna!</groundspeak:long_description>
                 <ox:size>2.7</ox:size>
                 <ox:terrain>1.0</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="153.4478333" lat="-28.0786667">
-        <time>2011-11-08T23:38:51.000-06:00</time>
+        <time>2011-11-09T05:38:51.000Z</time>
         <name>OXZTNKM</name>
         <desc>Rogues on the reg by Rogan, Traditional Cache(3.0/1.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTNKM</url>
@@ -155,16 +198,12 @@ Happy 12th birthday Chynna!</groundspeak:long_description>
                 <ox:terrain>1.0</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>playground</ox:tag>
-                <ox:tag>beach</ox:tag>
-                <ox:tag>picnic</ox:tag>
-                <ox:tag>difficult</ox:tag>
-                <ox:tag>magic apple</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
             </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="153.56845" lat="-28.3896333">
-        <time>2008-08-02T02:00:00.000-05:00</time>
+        <time>2008-08-02T07:00:00.000Z</time>
         <name>OX1ETH6</name>
         <desc>P40 by TheZappers, Traditional Cache(1.8/1.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ETH6</url>
@@ -179,18 +218,16 @@ Happy 12th birthday Chynna!</groundspeak:long_description>
             <groundspeak:container>Large</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Easy walk to the beach.
-
-Cache had to be moved slightly from its original location so the hint is out by about 2-3m.  (Cache is about 2-3m towards the beach)
-This is our first hide and was put together by the family as a gift for 40th Birthday.
-It’s an amo box with a few goodies for the kids (and big kids).
-
-There is good fishing from the beach and the creek to the west is a great spot for a safe swim.
-
-ENJOY
-
-The Zappers</groundspeak:long_description>
+            <groundspeak:long_description html="True">Easy walk to the beach.&lt;br/&gt;&lt;br/&gt;Cache had to be moved slightly from its original location so the hint is out by about 2-3m.  (Cache is about 2-3m towards the beach)&lt;br/&gt;This is our first hide and was put together by the family as a gift for 40th Birthday.&lt;br/&gt;It’s an amo box with a few goodies for the kids (and big kids).&lt;br/&gt;&lt;br/&gt;There is good fishing from the beach and the creek to the west is a great spot for a safe swim.&lt;br/&gt;&lt;br/&gt;ENJOY&lt;br/&gt;&lt;br/&gt;The Zappers</groundspeak:long_description>
             <groundspeak:encoded_hints>Post your find when you get near a computer</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2038807">
+                    <groundspeak:date>2012-08-21T00:48:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="143795">Taylor's </groundspeak:finder>
+                    <groundspeak:text encoded="False">Great hide!</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -199,15 +236,12 @@ The Zappers</groundspeak:long_description>
                 <ox:size>4.5</ox:size>
                 <ox:terrain>1.6</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Beach Track</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="153.54465" lat="-28.5990833">
-        <time>2009-07-25T03:00:00.000-05:00</time>
+        <time>2009-07-25T08:00:00.000Z</time>
         <name>OX1537</name>
-        <desc>Tyagarah Rest Area by WALDENCLAN, Traditional Cache(2.0/1.7/2.8)</desc>
+        <desc>Tyagarah Rest Area by WALDENCLAN, Traditional Cache(2.0/1.7/2.9)</desc>
         <url>http://www.opencaching.com/#geocache/OX1537</url>
         <urlname>Tyagarah Rest Area</urlname>
         <sym>Geocache</sym>
@@ -220,25 +254,31 @@ The Zappers</groundspeak:long_description>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">&lt;p&gt;This is a drive by cache located at the Tyagarah Rest area, just north of the Byron Bay turnoff.  The area has toilets, picnic tables and a small play area for the kids. It is also opposite the Tyagarah Air Strip where light planes come and go, and you will often see parachutists slowly floating back to earth.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;The cache has room for small swaps. You'll need a pen ( i forgot to put one in it).&lt;br/&gt;&lt;br/&gt;The rest area is accessable to both north and southbound travellers.&lt;/p&gt;&lt;br/&gt;&lt;p&gt; &lt;/p&gt;&lt;br/&gt;&lt;p&gt; &lt;/p&gt; 
+            <groundspeak:long_description html="True">&lt;p&gt;This is a drive by cache located at the Tyagarah Rest area, just north of the Byron Bay turnoff.  The area has toilets, picnic tables and a small play area for the kids. It is also opposite the Tyagarah Air Strip where light planes come and go, and you will often see parachutists slowly floating back to earth.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;The cache has room for small swaps. You'll need a pen ( i forgot to put one in it).&lt;br /&gt;&lt;br /&gt;The rest area is accessable to both north and southbound travellers.&lt;/p&gt;&lt;br /&gt;&lt;p&gt; &lt;/p&gt;&lt;br /&gt;&lt;p&gt; &lt;/p&gt; 
 </groundspeak:long_description>
             <groundspeak:encoded_hints>In fork of tree</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="1805156">
+                    <groundspeak:date>2012-05-13T03:41:01.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="116795">Goodgord</groundspeak:finder>
+                    <groundspeak:text encoded="False">Wahoo! Found it - first cache for the Taylor clan :D</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1301769">
-                    <groundspeak:date>2011-06-27T01:06:06.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-06-27T06:06:06.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="6647">Griffo</groundspeak:finder>
                     <groundspeak:text encoded="False">Easy find on my way to work at Mullumbimby.
 Thanks</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1176307">
-                    <groundspeak:date>2011-03-23T05:30:50.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-03-23T10:30:50.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="14452">Team Lego Men</groundspeak:finder>
                     <groundspeak:text encoded="False">Woohoo. Our Second FTF on Open Caching. Travelling south it's a bit tricky to get back to the other side but nice little rest area.</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1205050">
-                    <groundspeak:date>2010-01-09T07:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2010-01-09T13:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="16897">Renroc</groundspeak:finder>
                     <groundspeak:text encoded="False">Easy find for this one. Eventually a time 1457 without muggles. Cache is safe and dry. TNLNSL T4TC Walden Clan. (1 to go for 100%)  </groundspeak:text>
@@ -247,15 +287,15 @@ Thanks</groundspeak:text>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>2.8</ox:awesomeness>
+                <ox:awesomeness>2.9</ox:awesomeness>
                 <ox:difficulty>2.0</ox:difficulty>
-                <ox:size>2.6</ox:size>
+                <ox:size>2.7</ox:size>
                 <ox:terrain>1.7</ox:terrain>
             </ox:ratings>
         </ox:opencaching>
     </wpt>
     <wpt lon="153.0088833" lat="-28.6263667">
-        <time>2007-03-13T03:00:00.000-05:00</time>
+        <time>2007-03-13T08:00:00.000Z</time>
         <name>OX11DYD</name>
         <desc>Turkey Town by Griffo, Traditional Cache(2.0/2.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX11DYD</url>
@@ -270,20 +310,11 @@ Thanks</groundspeak:text>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Kyogle is a small town in rural Northeast NSW. Primarily a beef, timber and dairy area and until a year or so ago had a large plywood factory. Unfortunately a tragic fire destroyed the plant and forced many locals out of work. The town is a gateway to many National Parks and State Forests that lead to a few great caches.
-
-This cache situated in town at the local lookout will hopefully attract a few travellers to experience the inland road while travelling. Follow the lookout signs opposite the hospital and wind your way to a view over the whole town and outlying countryside. 
-
-Once at the lookout you have two choices,
-1.	Walk the remaining 300 metres up a steep track
-2.	If you have a 4wd, drive to within 20 metres of the cache.
-
-The track is well defined and has been used recently, however, be warned it is steep and fairly well rutted. 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Kyogle is a small town in rural Northeast NSW. Primarily a beef, timber and dairy area and until a year or so ago had a large plywood factory. Unfortunately a tragic fire destroyed the plant and forced many locals out of work. The town is a gateway to many National Parks and State Forests that lead to a few great caches.&lt;br/&gt;&lt;br/&gt;This cache situated in town at the local lookout will hopefully attract a few travellers to experience the inland road while travelling. Follow the lookout signs opposite the hospital and wind your way to a view over the whole town and outlying countryside. &lt;br/&gt;&lt;br/&gt;Once at the lookout you have two choices,&lt;br/&gt;1.	Walk the remaining 300 metres up a steep track&lt;br/&gt;2.	If you have a 4wd, drive to within 20 metres of the cache.&lt;br/&gt;&lt;br/&gt;The track is well defined and has been used recently, however, be warned it is steep and fairly well rutted. &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>In the end of a fallen log</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="922972">
-                    <groundspeak:date>2009-03-25T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2009-03-25T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="6152">kaisho53</groundspeak:finder>
                     <groundspeak:text encoded="False">[:)] 
@@ -308,7 +339,7 @@ Thanks for the cache Griffo[:)] </groundspeak:text>
         </ox:opencaching>
     </wpt>
     <wpt lon="153.5349833" lat="-28.7495">
-        <time>2010-05-13T03:00:00.000-05:00</time>
+        <time>2010-05-13T08:00:00.000Z</time>
         <name>OX28E9N</name>
         <desc>Castle Guard by Griffo, Traditional Cache(1.7/1.6/2.9)</desc>
         <url>http://www.opencaching.com/#geocache/OX28E9N</url>
@@ -323,30 +354,24 @@ Thanks for the cache Griffo[:)] </groundspeak:text>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">The Macadamia castle has been a popular activity destination for over 30 years. A great spot to bring the kids and spend an enjoyable day.
-The kids can enjoy the Animal fun park, see over 150 native and farmyard animals or enjoy a game of mini golf.
-A great spot to stop and take a break from the highway.
-I placed this cache to replace the &quot;Airmen and the soldier&quot;. A multi-cache placed in memorial to an avaition accident during the 2nd World war that occurred on the Cane fields just East of this location. However this created the problem of people crossing the very busy Pacific Highway. Now we have a relatively easy traditional cache.
-
-The cache itself is a Magnetised Eclipse container and is attached to the very noticable icon proudly guarding the castle. Reaching the cache shouldn't provide any problems. 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">The Macadamia castle has been a popular activity destination for over 30 years. A great spot to bring the kids and spend an enjoyable day.&lt;br/&gt;The kids can enjoy the Animal fun park, see over 150 native and farmyard animals or enjoy a game of mini golf.&lt;br/&gt;A great spot to stop and take a break from the highway.&lt;br/&gt;I placed this cache to replace the &quot;Airmen and the soldier&quot;. A multi-cache placed in memorial to an avaition accident during the 2nd World war that occurred on the Cane fields just East of this location. However this created the problem of people crossing the very busy Pacific Highway. Now we have a relatively easy traditional cache.&lt;br/&gt;&lt;br/&gt;The cache itself is a Magnetised Eclipse container and is attached to the very noticable icon proudly guarding the castle. Reaching the cache shouldn't provide any problems. &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Up high on the gal pipe</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="1711279">
-                    <groundspeak:date>2011-12-26T19:14:18.000-06:00</groundspeak:date>
+                    <groundspeak:date>2011-12-27T01:14:18.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="79826">jencat</groundspeak:finder>
                     <groundspeak:text encoded="False">Logged via OpenCaching Android app.
 not what I expected to find under his kilt!</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1176308">
-                    <groundspeak:date>2011-03-23T05:33:49.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-03-23T10:33:49.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="14452">Team Lego Men</groundspeak:finder>
                     <groundspeak:text encoded="False">Woohoo, our first FTF and first Open Caching visit. Great spot for a stop off heading north. TFTC.</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1205049">
-                    <groundspeak:date>2010-06-26T09:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-06-26T14:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="16897">Renroc</groundspeak:finder>
                     <groundspeak:text encoded="False">Found on 27th June 2010  Quite a good spot.  Felt strange looking up a bloke's kilt though! I rated it higher in difficulty because I am short and found it almost impossible to reach.</groundspeak:text>
@@ -360,13 +385,10 @@ not what I expected to find under his kilt!</groundspeak:text>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.6</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Near Tourist Attraction</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="153.3370333" lat="-28.8208333">
-        <time>2007-03-05T02:00:00.000-06:00</time>
+        <time>2007-03-05T08:00:00.000Z</time>
         <name>OX11A3A</name>
         <desc>Birdwing Butterfly Gully by Griffo, Traditional Cache(2.1/2.5/2.7)</desc>
         <url>http://www.opencaching.com/#geocache/OX11A3A</url>
@@ -381,36 +403,23 @@ not what I expected to find under his kilt!</groundspeak:text>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Many years ago, the North Coast of NSW was once covered in a magnificent rainforest called the Big Scrub. These days unfortunately, due to widespread land clearing there are but a few pockets remaining. As a result much of our native flora and fauna have disappeared. 
-
-The area where we have placed this cache is currently under re-vegetation. Located on the Eastern outskirts of Lismore but still in the middle of Suburbia, this great park is ideal for a lazy afternoon stroll. The park consists of 4 areas. 
-1.	The bird Sanctuary
-2.	Platypus park
-3.	Richmond Birdwing butterfly gully
-4.	Children playground
-
-The walkway winds its way beside the creek and over several causeways and bridges. There are quite a few entrances to the park so we will leave that up to you to find the best way in to enjoy all the sites.
-
-Keep an eye out for the magnificent Birdwing butterfly. One of the largest butterflys in Australia with a wingspan of up to 15cm. Unfortunately it is also one of the rarest. 
-
-The cache is a small to medium sized container in an area that may be a bit tricky due to the tree cover. It is also recommended to bring insect repellent as the mosquitos can be rather thick. 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Many years ago, the North Coast of NSW was once covered in a magnificent rainforest called the Big Scrub. These days unfortunately, due to widespread land clearing there are but a few pockets remaining. As a result much of our native flora and fauna have disappeared. &lt;br/&gt;&lt;br/&gt;The area where we have placed this cache is currently under re-vegetation. Located on the Eastern outskirts of Lismore but still in the middle of Suburbia, this great park is ideal for a lazy afternoon stroll. The park consists of 4 areas. &lt;br/&gt;1.	The bird Sanctuary&lt;br/&gt;2.	Platypus park&lt;br/&gt;3.	Richmond Birdwing butterfly gully&lt;br/&gt;4.	Children playground&lt;br/&gt;&lt;br/&gt;The walkway winds its way beside the creek and over several causeways and bridges. There are quite a few entrances to the park so we will leave that up to you to find the best way in to enjoy all the sites.&lt;br/&gt;&lt;br/&gt;Keep an eye out for the magnificent Birdwing butterfly. One of the largest butterflys in Australia with a wingspan of up to 15cm. Unfortunately it is also one of the rarest. &lt;br/&gt;&lt;br/&gt;The cache is a small to medium sized container in an area that may be a bit tricky due to the tree cover. It is also recommended to bring insect repellent as the mosquitos can be rather thick. &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Not far from the causeway just off the path under a rock</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="1382873">
-                    <groundspeak:date>2011-07-27T10:04:11.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-07-27T15:04:11.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="48313">designboyau</groundspeak:finder>
                     <groundspeak:text encoded="False"/>
                 </groundspeak:log>
                 <groundspeak:log id="1301067">
-                    <groundspeak:date>2011-06-26T18:02:05.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-06-26T23:02:05.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="40127">ARMFIELD1682</groundspeak:finder>
                     <groundspeak:text encoded="False"> Found cache today 26/6/2011 nice walk in the park. Thanks guys</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="922971">
-                    <groundspeak:date>2010-04-10T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-04-10T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="6152">kaisho53</groundspeak:finder>
                     <groundspeak:text encoded="False">Found it (12:45) today...
@@ -428,7 +437,7 @@ Thanks Griffo for the cache...
 Nice park area around here...</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1205047">
-                    <groundspeak:date>2008-05-17T09:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2008-05-17T14:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="16897">Renroc</groundspeak:finder>
                     <groundspeak:text encoded="False">Found it at noon. 
@@ -445,13 +454,10 @@ TFTC made swaps and SL</groundspeak:text>
                 <ox:size>2.8</ox:size>
                 <ox:terrain>2.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Park Cache</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="153.3395" lat="-28.8208667">
-        <time>2009-05-09T03:00:00.000-05:00</time>
+        <time>2009-05-09T08:00:00.000Z</time>
         <name>OX1451</name>
         <desc>Platypus Pond by WALDENCLAN, Traditional Cache(2.5/2.0/2.9)</desc>
         <url>http://www.opencaching.com/#geocache/OX1451</url>
@@ -466,12 +472,12 @@ TFTC made swaps and SL</groundspeak:text>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">&lt;p&gt;Located in the middle of Birdwing Butterfly Walk, is a pond that is fed by Tucki Tucki Creek. This area has abundant birdlife and has been known to be home to many Platypus.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;The Walking Track starts at Kadina St, 1st stop is Griffo's &lt;b&gt;Birdwing Butterfly Gully GC11A3A                 &lt;/b&gt;                  and winds along the Tucki Tucki Creek until you reach the viewing platform at the end and &lt;b&gt;Water Lillies&lt;/b&gt;&lt;b&gt; &lt;/b&gt;&lt;strong&gt;GC1P03M.  &lt;/strong&gt;There are multiple entry points along the track, so you can choose which place to enter.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Cache is a small container with logbook and swaps&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Enjoy the walk.&lt;br/&gt;&lt;br/&gt; &lt;/p&gt; 
+            <groundspeak:long_description html="True">&lt;p&gt;Located in the middle of Birdwing Butterfly Walk, is a pond that is fed by Tucki Tucki Creek. This area has abundant birdlife and has been known to be home to many Platypus.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;The Walking Track starts at Kadina St, 1st stop is Griffo's &lt;b&gt;Birdwing Butterfly Gully GC11A3A                 &lt;/b&gt;                  and winds along the Tucki Tucki Creek until you reach the viewing platform at the end and &lt;b&gt;Water Lillies&lt;/b&gt;&lt;b&gt; &lt;/b&gt;&lt;strong&gt;GC1P03M.  &lt;/strong&gt;There are multiple entry points along the track, so you can choose which place to enter.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Cache is a small container with logbook and swaps&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Enjoy the walk.&lt;br /&gt;&lt;br /&gt; &lt;/p&gt; 
 </groundspeak:long_description>
             <groundspeak:encoded_hints>Under rock against tree</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="1205046">
-                    <groundspeak:date>2009-05-09T09:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2009-05-09T14:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="16897">Renroc</groundspeak:finder>
                     <groundspeak:text encoded="False">FTF Yipee that's me. 

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>4 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,-149,90,-148</url>
-    <time>2012-01-04T09:24:37.742-06:00</time>
+    <time>2012-12-19T22:26:32.024Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="-148.0" maxlat="90.0" minlon="-149.0" minlat="-90.0"/>
     <wpt lon="-148.97995" lat="61.2771333">
-        <time>2011-03-12T13:14:13.000-06:00</time>
+        <time>2011-03-12T19:14:13.000Z</time>
         <name>OX1T20Y</name>
         <desc>Wish I Had My Watershoes by ALASKARAMBO, Traditional Cache(5.0/3.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1T20Y</url>
@@ -24,21 +24,7 @@
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>5</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">Eklutna Glacier ~end of the trail~ 
-
-
-This cache was placed after we reached our final destination at Eklutna Glacier. It was a beautiful day and we had a great time collecting caches on the way. While enjoying the rocks and the river I couldn't understand why no one had placed a cache at the end. Foshiz pointed out that people come out to Eklutna Glacier for the &quot;heck of it&quot; regardless of a cache treasure at the end....however, I thought perhaps some might need added incentive (c; So, we dumped out a pill bottle - made a make shift log and viola' - a new cache at the end of the trail. Bring a pencil, and your watershoes so you can play around more then we were able to. Foshiz_AK and I also spied a few places that would be great to camp. Bring your camera for some beautiful scenery that includes waterfalls and some great rock formations above. I think I saw Wile E. Coyote out there so watch your head. 
-Foshiz_AK figured out we did about 28 miles round trip out there and back on our bikes. We did it in a day....so for those in really good shape like Foshiz this will be no &quot;big deal&quot; for you. Those that have medical issues can also do it - because I did - Woohoo! (not saying I didn't complain or get real tired because I did)
-
-Bring your bike locks as there is a big wooden sign at the end of the bikeable path to lock up... as the last 3/4 of a mile (or less) is on foot.
-
-I averaged the GPS for five minutes because of the mountains on either side. I wanted to make sure you could &quot;find&quot; it after coming all that way.
-
-One last note: It is &quot;faster&quot; going back. Yippee!!!
-
-Chugach Park Permit 08-156
-
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Eklutna Glacier ~end of the trail~ &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This cache was placed after we reached our final destination at Eklutna Glacier. It was a beautiful day and we had a great time collecting caches on the way. While enjoying the rocks and the river I couldn't understand why no one had placed a cache at the end. Foshiz pointed out that people come out to Eklutna Glacier for the &quot;heck of it&quot; regardless of a cache treasure at the end....however, I thought perhaps some might need added incentive (c; So, we dumped out a pill bottle - made a make shift log and viola' - a new cache at the end of the trail. Bring a pencil, and your watershoes so you can play around more then we were able to. Foshiz_AK and I also spied a few places that would be great to camp. Bring your camera for some beautiful scenery that includes waterfalls and some great rock formations above. I think I saw Wile E. Coyote out there so watch your head. &lt;br/&gt;Foshiz_AK figured out we did about 28 miles round trip out there and back on our bikes. We did it in a day....so for those in really good shape like Foshiz this will be no &quot;big deal&quot; for you. Those that have medical issues can also do it - because I did - Woohoo! (not saying I didn't complain or get real tired because I did)&lt;br/&gt;&lt;br/&gt;Bring your bike locks as there is a big wooden sign at the end of the bikeable path to lock up... as the last 3/4 of a mile (or less) is on foot.&lt;br/&gt;&lt;br/&gt;I averaged the GPS for five minutes because of the mountains on either side. I wanted to make sure you could &quot;find&quot; it after coming all that way.&lt;br/&gt;&lt;br/&gt;One last note: It is &quot;faster&quot; going back. Yippee!!!&lt;br/&gt;&lt;br/&gt;Chugach Park Permit 08-156&lt;br/&gt;&lt;br/&gt;</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -47,15 +33,12 @@ Chugach Park Permit 08-156
                 <ox:size>2.0</ox:size>
                 <ox:terrain>3.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Eklutna Glacier</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="-148.9365833" lat="61.7388667">
-        <time>2010-09-25T02:00:00.000-05:00</time>
+        <time>2010-09-25T07:00:00.000Z</time>
         <name>OX2FKXW</name>
-        <desc>Hippy Hangout by Tinman4x, Traditional Cache(2.0/3.4/3.5)</desc>
+        <desc>Hippy Hangout by Tinman4x, Traditional Cache(2.0/3.4/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2FKXW</url>
         <urlname>Hippy Hangout</urlname>
         <sym>Geocache</sym>
@@ -82,7 +65,7 @@ some stellar 3G phone service. Enjoy the hunt!&lt;/p&gt;
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>2.0</ox:difficulty>
                 <ox:size>4.0</ox:size>
                 <ox:terrain>3.4</ox:terrain>
@@ -90,9 +73,9 @@ some stellar 3G phone service. Enjoy the hunt!&lt;/p&gt;
         </ox:opencaching>
     </wpt>
     <wpt lon="-148.904" lat="61.7845667">
-        <time>2010-09-25T02:00:00.000-05:00</time>
+        <time>2010-09-25T07:00:00.000Z</time>
         <name>OX2FKX0</name>
-        <desc>Falling for you Eska by Tinman4x, Traditional Cache(2.7/3.9/3.5)</desc>
+        <desc>Falling for you Eska by Tinman4x, Traditional Cache(2.7/3.9/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2FKX0</url>
         <urlname>Falling for you Eska</urlname>
         <sym>Geocache</sym>
@@ -122,7 +105,7 @@ area.&lt;/p&gt;
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>2.7</ox:difficulty>
                 <ox:size>4.0</ox:size>
                 <ox:terrain>3.9</ox:terrain>
@@ -130,9 +113,9 @@ area.&lt;/p&gt;
         </ox:opencaching>
     </wpt>
     <wpt lon="-148.4273" lat="61.8233">
-        <time>2009-09-06T02:00:00.000-05:00</time>
+        <time>2009-09-06T07:00:00.000Z</time>
         <name>OX1YDT4</name>
-        <desc>Castle Convenient by Tinman4x, Traditional Cache(1.6/3.4/3.5)</desc>
+        <desc>Castle Convenient by Tinman4x, Traditional Cache(1.6/3.4/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1YDT4</url>
         <urlname>Castle Convenient</urlname>
         <sym>Geocache</sym>
@@ -145,26 +128,12 @@ area.&lt;/p&gt;
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>3.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Finding this cache will require a trip down the old BLM Chickaloon river road. Turn off the Glenn Hwy at mile 78.  There is a wide spot at the end where vehicles can park. It's a bit bumpy but 4x4 is not mandatory.
-
-You can proceed by foot, 4 wheeler, or horse from the parking area, it should take about an hour to reach ground zero from the parking area if traveling on foot. 
-
-This cache may be accessable during the winter months but was designed to be a nice summer hike. 
-
-Like many areas in Alaska please remain bear aware along with moose aware. Enjoy the swift flowing river and natural beauty found here.
-
-Additional Waypoints
-PK1YDT4 - Chickaloon River Rd. parking
-N 61° 48.060 W 148° 26.690
-A wide spot at the end of Chickaloon Rd suitable for parking full size vehicles.
- 
- 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Finding this cache will require a trip down the old BLM Chickaloon river road. Turn off the Glenn Hwy at mile 78.  There is a wide spot at the end where vehicles can park. It's a bit bumpy but 4x4 is not mandatory.&lt;br/&gt;&lt;br/&gt;You can proceed by foot, 4 wheeler, or horse from the parking area, it should take about an hour to reach ground zero from the parking area if traveling on foot. &lt;br/&gt;&lt;br/&gt;This cache may be accessable during the winter months but was designed to be a nice summer hike. &lt;br/&gt;&lt;br/&gt;Like many areas in Alaska please remain bear aware along with moose aware. Enjoy the swift flowing river and natural beauty found here.&lt;br/&gt;&lt;br/&gt;Additional Waypoints&lt;br/&gt;PK1YDT4 - Chickaloon River Rd. parking&lt;br/&gt;N 61° 48.060 W 148° 26.690&lt;br/&gt;A wide spot at the end of Chickaloon Rd suitable for parking full size vehicles.&lt;br/&gt; &lt;br/&gt; &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>nested in a small tree</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>1.6</ox:difficulty>
                 <ox:size>4.0</ox:size>
                 <ox:terrain>3.4</ox:terrain>

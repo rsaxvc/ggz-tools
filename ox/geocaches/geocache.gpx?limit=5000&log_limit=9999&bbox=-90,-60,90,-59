@@ -1,407 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>25 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,-60,90,-59</url>
-    <time>2012-01-04T09:28:46.738-06:00</time>
+    <time>2012-12-19T22:40:17.481Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="-59.0" maxlat="90.0" minlon="-60.0" minlat="-90.0"/>
-    <wpt lon="-59.9814833" lat="45.8898667">
-        <time>2011-02-22T06:50:20.000-06:00</time>
-        <name>OX2NC6T</name>
-        <desc>Ruined Walls by ACGA, Traditional Cache(2.6/2.8/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX2NC6T</url>
-        <urlname>Ruined Walls</urlname>
-        <sym>Geocache</sym>
-        <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="2484396">
-            <groundspeak:name>Ruined Walls</groundspeak:name>
-            <groundspeak:placed_by>ACGA</groundspeak:placed_by>
-            <groundspeak:owner id="600">ACGA</groundspeak:owner>
-            <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Regular</groundspeak:container>
-            <groundspeak:difficulty>2.5</groundspeak:difficulty>
-            <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">Welcome to the Fortress of Louisbourg National Historic Site!
-From May 16 – October 15 your visit begins at our Visitor Reception Center.  From October 16 to May 15 please call ahead (902) 733 2280 to arrange your visit.¿¿
-
-You are looking for a small green container containing a log book and pencil. Read the information sheet in the cache and let your mind’s eye takeover! 
-  ¿
-The geocache is a partnership of the Atlantic Canada Geocache Association, Parks Canada, and the Fortress of Louisbourg Association. Please pay appropriate site entry fees.
-
-As per the Parks Canada geocaching policy: Trade items are not permitted in caches, this includes Travel Bugs.
-
-In 1758 the Fortress of Louisbourg fell for the last time to an attacking British force of nearly 13,000 troops.
-
-The British garrisoned the town after its fall, starting in 1760 the British systematically demolished the fortifications leaving the town inside to fall to ruin.</groundspeak:long_description>
-            <groundspeak:logs>
-                <groundspeak:log id="1157021">
-                    <groundspeak:date>2011-02-18T22:00:00.000-06:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="508">thecyr</groundspeak:finder>
-                    <groundspeak:text encoded="False">Logged this as part of the launch event, video can been at 
-
-http://www.youtube.com/watch?v=aPiOniW289s</groundspeak:text>
-                </groundspeak:log>
-            </groundspeak:logs>
-        </groundspeak:cache>
-        <ox:opencaching>
-            <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>2.6</ox:difficulty>
-                <ox:size>3.6</ox:size>
-                <ox:terrain>2.8</ox:terrain>
-            </ox:ratings>
-            <ox:tags>
-                <ox:tag>National Historic Site</ox:tag>
-            </ox:tags>
-            <ox:series id="10484">
-                <ox:name>2011 Fortress of Louisbourg</ox:name>
-            </ox:series>
-        </ox:opencaching>
-    </wpt>
-    <wpt lon="-59.9880167" lat="45.8906667">
-        <time>2011-02-22T06:48:56.000-06:00</time>
-        <name>OX2NC70</name>
-        <desc>Fortifications by ACGA, Traditional Cache(2.4/3.1/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX2NC70</url>
-        <urlname>Fortifications</urlname>
-        <sym>Geocache</sym>
-        <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="2484402">
-            <groundspeak:name>Fortifications</groundspeak:name>
-            <groundspeak:placed_by>ACGA</groundspeak:placed_by>
-            <groundspeak:owner id="600">ACGA</groundspeak:owner>
-            <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Regular</groundspeak:container>
-            <groundspeak:difficulty>2.5</groundspeak:difficulty>
-            <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">Welcome to the Fortress of Louisbourg National Historic Site!
-From May 16 – October 15 your visit begins at our Visitor Reception Center.  From October 16 to May 15 please call ahead (902) 733 2280 to arrange your visit.¿¿
-
-You are looking for a small green container containing a log book and pencil. Read the information sheet in the cache and let your mind’s eye takeover! 
-  ¿
-The geocache is a partnership of the Atlantic Canada Geocache Association, Parks Canada, and the Fortress of Louisbourg Association. Please pay appropriate site entry fees.
-
-As per the Parks Canada geocaching policy: Trade items are not permitted in caches, this includes Travel Bugs.
-
-Until the experience of the 1745 siege taught them otherwise, Louisbourg's Engineers felt that an attack from the landward side of the town was unlikely.
-
-The immense fortifications surrounding the town as well as the craggy coast and marshy terrain near Louisbourg ruled out an assault from that direction in their minds.</groundspeak:long_description>
-            <groundspeak:logs>
-                <groundspeak:log id="1157022">
-                    <groundspeak:date>2011-02-18T22:00:00.000-06:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="508">thecyr</groundspeak:finder>
-                    <groundspeak:text encoded="False">Logged this as part of the launch event, video can been at 
-
-http://www.youtube.com/watch?v=aPiOniW289s</groundspeak:text>
-                </groundspeak:log>
-            </groundspeak:logs>
-        </groundspeak:cache>
-        <ox:opencaching>
-            <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>2.4</ox:difficulty>
-                <ox:size>3.6</ox:size>
-                <ox:terrain>3.1</ox:terrain>
-            </ox:ratings>
-            <ox:tags>
-                <ox:tag>National Historic Site</ox:tag>
-            </ox:tags>
-            <ox:series id="10484">
-                <ox:name>2011 Fortress of Louisbourg</ox:name>
-            </ox:series>
-        </ox:opencaching>
-    </wpt>
-    <wpt lon="-59.98515" lat="45.8908">
-        <time>2011-02-22T06:53:15.000-06:00</time>
-        <name>OX2NC7C</name>
-        <desc>Town Reborn by ACGA, Traditional Cache(2.5/2.9/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX2NC7C</url>
-        <urlname>Town Reborn</urlname>
-        <sym>Geocache</sym>
-        <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="2484414">
-            <groundspeak:name>Town Reborn</groundspeak:name>
-            <groundspeak:placed_by>ACGA</groundspeak:placed_by>
-            <groundspeak:owner id="600">ACGA</groundspeak:owner>
-            <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Regular</groundspeak:container>
-            <groundspeak:difficulty>2.5</groundspeak:difficulty>
-            <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">Welcome to the Fortress of Louisbourg National Historic Site!
-From May 16 – October 15 your visit begins at our Visitor Reception Center.  From October 16 to May 15 please call ahead (902) 733 2280 to arrange your visit.¿¿
-
-You are looking for a small green container containing a log book and pencil. Read the information sheet in the cache and let your mind’s eye takeover! 
-  ¿
-The geocache is a partnership of the Atlantic Canada Geocache Association, Parks Canada, and the Fortress of Louisbourg Association. Please pay appropriate site entry fees.
-
-As per the Parks Canada geocaching policy: Trade items are not permitted in caches, this includes Travel Bugs.
-
-In 1961 the Government of Canada began a $25 million project aimed at reconstructing approximately one-quarter of the original town and fortifications. Within this area the buildings, yards, gardens and streets are being recreated as they were during the 1740s, immediately preceding Louisbourg's first siege. This cache commemorates the 50th Anniversary of the Reconstruction of the Fortress of Louisbourg.</groundspeak:long_description>
-            <groundspeak:logs>
-                <groundspeak:log id="1572367">
-                    <groundspeak:date>2011-08-20T14:00:00.000-05:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
-                    <groundspeak:text encoded="False">This cache was exactly where it should have been.  However there were two caches that the park attendant told us were disabled - Fortification and Ruined Walls.  TFTC</groundspeak:text>
-                </groundspeak:log>
-                <groundspeak:log id="1515377">
-                    <groundspeak:date>2011-08-18T23:00:00.000-05:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="41764">BANJOKAZOOIE</groundspeak:finder>
-                    <groundspeak:text encoded="False"/>
-                </groundspeak:log>
-                <groundspeak:log id="1415716">
-                    <groundspeak:date>2011-08-09T22:00:00.000-05:00</groundspeak:date>
-                    <groundspeak:type>Didn't find it</groundspeak:type>
-                    <groundspeak:finder id="16261">DJSASSO</groundspeak:finder>
-                    <groundspeak:text encoded="False">All that was there was the velcro. The cache was gone.</groundspeak:text>
-                </groundspeak:log>
-                <groundspeak:log id="1157019">
-                    <groundspeak:date>2011-02-18T22:00:00.000-06:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="508">thecyr</groundspeak:finder>
-                    <groundspeak:text encoded="False">Logged this as part of the launch event, video can been at 
-
-http://www.youtube.com/watch?v=aPiOniW289s</groundspeak:text>
-                </groundspeak:log>
-            </groundspeak:logs>
-        </groundspeak:cache>
-        <ox:opencaching>
-            <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>2.5</ox:difficulty>
-                <ox:size>3.6</ox:size>
-                <ox:terrain>2.9</ox:terrain>
-            </ox:ratings>
-            <ox:tags>
-                <ox:tag>National Historic Site</ox:tag>
-            </ox:tags>
-            <ox:series id="10484">
-                <ox:name>2011 Fortress of Louisbourg</ox:name>
-            </ox:series>
-        </ox:opencaching>
-    </wpt>
-    <wpt lon="-59.9770167" lat="45.8926167">
-        <time>2011-02-22T06:47:22.000-06:00</time>
-        <name>OX2NC75</name>
-        <desc>Fading Lines by ACGA, Traditional Cache(2.5/3.0/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX2NC75</url>
-        <urlname>Fading Lines</urlname>
-        <sym>Geocache</sym>
-        <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="2484407">
-            <groundspeak:name>Fading Lines</groundspeak:name>
-            <groundspeak:placed_by>ACGA</groundspeak:placed_by>
-            <groundspeak:owner id="600">ACGA</groundspeak:owner>
-            <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Regular</groundspeak:container>
-            <groundspeak:difficulty>2.5</groundspeak:difficulty>
-            <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">Welcome to the Fortress of Louisbourg National Historic Site!
-From May 16 – October 15 your visit begins at our Visitor Reception Center.  From October 16 to May 15 please call ahead (902) 733 2280 to arrange your visit.¿¿
-
-You are looking for a small green container containing a log book and pencil. Read the information sheet in the cache and let your mind’s eye takeover! 
-  ¿
-The geocache is a partnership of the Atlantic Canada Geocache Association, Parks Canada, and the Fortress of Louisbourg Association. Please pay appropriate site entry fees.
-
-As per the Parks Canada geocaching policy: Trade items are not permitted in caches, this includes Travel Bugs.
-
-About 14 meters of coastal land has been lost at Louisbourg since the mid-18th century (Sea level has risen about 80cm). This means that once land-fast structures are now within reach of the high tide, and will soon be lost to the sea.
-
-Today technology, such as GIS (Geographical Information System) software, LiDAR (light detection and ranging) for detailed topography, and GPS receivers for mapping cultural sites help the archaeologists relate plotted sites to the landscape, built structures, and historical plans more easily and more accurately than in the past.</groundspeak:long_description>
-            <groundspeak:logs>
-                <groundspeak:log id="1572371">
-                    <groundspeak:date>2011-08-20T14:00:00.000-05:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
-                    <groundspeak:text encoded="False">What a great day for a walk!  TFTC</groundspeak:text>
-                </groundspeak:log>
-                <groundspeak:log id="1515378">
-                    <groundspeak:date>2011-08-18T23:00:00.000-05:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="41764">BANJOKAZOOIE</groundspeak:finder>
-                    <groundspeak:text encoded="False"/>
-                </groundspeak:log>
-                <groundspeak:log id="1157023">
-                    <groundspeak:date>2011-02-18T22:00:00.000-06:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="508">thecyr</groundspeak:finder>
-                    <groundspeak:text encoded="False">Logged this as part of the launch event, video can been at 
-
-http://www.youtube.com/watch?v=aPiOniW289s</groundspeak:text>
-                </groundspeak:log>
-            </groundspeak:logs>
-        </groundspeak:cache>
-        <ox:opencaching>
-            <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>2.5</ox:difficulty>
-                <ox:size>3.7</ox:size>
-                <ox:terrain>3.0</ox:terrain>
-            </ox:ratings>
-            <ox:tags>
-                <ox:tag>National Historic Site</ox:tag>
-            </ox:tags>
-            <ox:series id="10484">
-                <ox:name>2011 Fortress of Louisbourg</ox:name>
-            </ox:series>
-        </ox:opencaching>
-    </wpt>
-    <wpt lon="-59.9891167" lat="45.8933667">
-        <time>2011-02-22T06:51:53.000-06:00</time>
-        <name>OX2NC6N</name>
-        <desc>The Fishery by ACGA, Traditional Cache(3.3/2.9/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX2NC6N</url>
-        <urlname>The Fishery</urlname>
-        <sym>Geocache</sym>
-        <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="2484392">
-            <groundspeak:name>The Fishery</groundspeak:name>
-            <groundspeak:placed_by>ACGA</groundspeak:placed_by>
-            <groundspeak:owner id="600">ACGA</groundspeak:owner>
-            <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Regular</groundspeak:container>
-            <groundspeak:difficulty>3.5</groundspeak:difficulty>
-            <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">Welcome to the Fortress of Louisbourg National Historic Site!
-From May 16 – October 15 your visit begins at our Visitor Reception Center.  From October 16 to May 15 please call ahead (902) 733 2280 to arrange your visit.¿¿
-
-You are looking for a small green container containing a log book and pencil. Read the information sheet in the cache and let your mind’s eye takeover! 
-  ¿
-The geocache is a partnership of the Atlantic Canada Geocache Association, Parks Canada, and the Fortress of Louisbourg Association. Please pay appropriate site entry fees.
-
-As per the Parks Canada geocaching policy: Trade items are not permitted in caches, this includes Travel Bugs.
-
-The economic base of Île Royale was the cod fishery. Salted, dried cod was the major export from Louisbourg. Its value was greater than that of the fur trade and the fish – eaten on days of abstinence - fed millions in France and in France’s colonies.</groundspeak:long_description>
-            <groundspeak:logs>
-                <groundspeak:log id="1572361">
-                    <groundspeak:date>2011-08-20T14:00:00.000-05:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
-                    <groundspeak:text encoded="False">Fantastic!  Well done cache.</groundspeak:text>
-                </groundspeak:log>
-                <groundspeak:log id="1515379">
-                    <groundspeak:date>2011-08-18T23:00:00.000-05:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="41764">BANJOKAZOOIE</groundspeak:finder>
-                    <groundspeak:text encoded="False"/>
-                </groundspeak:log>
-                <groundspeak:log id="1377223">
-                    <groundspeak:date>2011-02-18T22:00:00.000-06:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="1193">STAGUNNER</groundspeak:finder>
-                    <groundspeak:text encoded="False">found on a blustery day  Thanks for the fun</groundspeak:text>
-                </groundspeak:log>
-                <groundspeak:log id="1157020">
-                    <groundspeak:date>2011-02-18T22:00:00.000-06:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="508">thecyr</groundspeak:finder>
-                    <groundspeak:text encoded="False">Logged this as part of the launch event, video can been at 
-
-http://www.youtube.com/watch?v=aPiOniW289s</groundspeak:text>
-                </groundspeak:log>
-            </groundspeak:logs>
-        </groundspeak:cache>
-        <ox:opencaching>
-            <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>3.3</ox:difficulty>
-                <ox:size>3.6</ox:size>
-                <ox:terrain>2.9</ox:terrain>
-            </ox:ratings>
-            <ox:tags>
-                <ox:tag>National Historic Site</ox:tag>
-            </ox:tags>
-            <ox:series id="10484">
-                <ox:name>2011 Fortress of Louisbourg</ox:name>
-            </ox:series>
-        </ox:opencaching>
-    </wpt>
-    <wpt lon="-59.9830667" lat="45.8948333">
-        <time>2011-02-22T06:45:33.000-06:00</time>
-        <name>OX2NC6F</name>
-        <desc>The Harbour by ACGA, Traditional Cache(2.8/2.4/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX2NC6F</url>
-        <urlname>The Harbour</urlname>
-        <sym>Geocache</sym>
-        <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="2484386">
-            <groundspeak:name>The Harbour</groundspeak:name>
-            <groundspeak:placed_by>ACGA</groundspeak:placed_by>
-            <groundspeak:owner id="600">ACGA</groundspeak:owner>
-            <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Regular</groundspeak:container>
-            <groundspeak:difficulty>3</groundspeak:difficulty>
-            <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Welcome to the Fortress of Louisbourg National Historic Site!
-From May 16 – October 15 your visit begins at our Visitor Reception Center.  From October 16 to May 15 please call ahead (902) 733 2280 to arrange your visit.¿¿
-
-You are looking for a small green container containing a log book and pencil. Read the information sheet in the cache and let your mind’s eye takeover! 
-  ¿
-The geocache is a partnership of the Atlantic Canada Geocache Association, Parks Canada, and the Fortress of Louisbourg Association. Please pay appropriate site entry fees.
-
-As per the Parks Canada geocaching policy: Trade items are not permitted in caches, this includes Travel Bugs.
-
-In the 18th century, Louisbourg’s ice-free harbour was one of the busiest in North America. Fishing boats, merchant ships, and naval vessels filled the harbour every summer, bringing people and goods from all corners of the world.
-
-Features which were there in the 18th century such as ships riding at anchor, Royal and Island Batteries, careening wharf, and navigational aids exist today only in the mind's eye.</groundspeak:long_description>
-            <groundspeak:logs>
-                <groundspeak:log id="1572369">
-                    <groundspeak:date>2011-08-20T14:00:00.000-05:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
-                    <groundspeak:text encoded="False">When we were leaving fading lines we said &quot;I bet the next cache is...&quot; and we were right.  TFTC</groundspeak:text>
-                </groundspeak:log>
-                <groundspeak:log id="1515376">
-                    <groundspeak:date>2011-08-18T23:00:00.000-05:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="41764">BANJOKAZOOIE</groundspeak:finder>
-                    <groundspeak:text encoded="False"/>
-                </groundspeak:log>
-                <groundspeak:log id="1415715">
-                    <groundspeak:date>2011-08-09T22:00:00.000-05:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="16261">DJSASSO</groundspeak:finder>
-                    <groundspeak:text encoded="False">Found this while out with some family at the historical site. Easy find. Thanks for the hide.</groundspeak:text>
-                </groundspeak:log>
-                <groundspeak:log id="1157024">
-                    <groundspeak:date>2011-02-18T22:00:00.000-06:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="508">thecyr</groundspeak:finder>
-                    <groundspeak:text encoded="False">Logged this as part of the launch event, video can been at 
-
-http://www.youtube.com/watch?v=aPiOniW289s</groundspeak:text>
-                </groundspeak:log>
-                <groundspeak:log id="1377221">
-                    <groundspeak:date>2011-02-18T22:00:00.000-06:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="1193">STAGUNNER</groundspeak:finder>
-                    <groundspeak:text encoded="False">what a nasty day but the event was a great way to explore the fortress</groundspeak:text>
-                </groundspeak:log>
-            </groundspeak:logs>
-        </groundspeak:cache>
-        <ox:opencaching>
-            <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>2.8</ox:difficulty>
-                <ox:size>3.5</ox:size>
-                <ox:terrain>2.4</ox:terrain>
-            </ox:ratings>
-            <ox:tags>
-                <ox:tag>National Historic Site</ox:tag>
-            </ox:tags>
-            <ox:series id="10484">
-                <ox:name>2011 Fortress of Louisbourg</ox:name>
-            </ox:series>
-        </ox:opencaching>
-    </wpt>
     <wpt lon="-59.945167" lat="46.0709">
-        <time>2010-06-06T02:00:00.000-05:00</time>
+        <time>2010-06-06T07:00:00.000Z</time>
         <name>OX29VVJ</name>
         <desc>Heading for Mira 4/4 by MAC102004, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX29VVJ</url>
@@ -416,13 +24,7 @@ http://www.youtube.com/watch?v=aPiOniW289s</groundspeak:text>
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">This is a trail off of Broughton Road, acess this road from either Hornes Rd. off Loiusbourg Hwy, or turn left at the end off Morrison Rd. (also off the Louisbourg Hwy.)
-
-Cache is in a medium sized loc n lock, last of (4) caches on this trail. I will be adding onto this series in the future.
-
-These 4 caches are approximtately 0.2kms apart. So the furthest one should be about 0.8-1km off of the Broughton road. The series contains ONE mirco, and THREE regular sized caches.
-
-Contains: Pencil. log book, small trading items, FTF pin.</groundspeak:long_description>
+            <groundspeak:long_description html="True">This is a trail off of Broughton Road, acess this road from either Hornes Rd. off Loiusbourg Hwy, or turn left at the end off Morrison Rd. (also off the Louisbourg Hwy.)&lt;br/&gt;&lt;br/&gt;Cache is in a medium sized loc n lock, last of (4) caches on this trail. I will be adding onto this series in the future.&lt;br/&gt;&lt;br/&gt;These 4 caches are approximtately 0.2kms apart. So the furthest one should be about 0.8-1km off of the Broughton road. The series contains ONE mirco, and THREE regular sized caches.&lt;br/&gt;&lt;br/&gt;Contains: Pencil. log book, small trading items, FTF pin.</groundspeak:long_description>
             <groundspeak:encoded_hints>Near the bridge.</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -435,7 +37,7 @@ Contains: Pencil. log book, small trading items, FTF pin.</groundspeak:long_desc
         </ox:opencaching>
     </wpt>
     <wpt lon="-59.948383" lat="46.072433">
-        <time>2010-06-06T02:00:00.000-05:00</time>
+        <time>2010-06-06T07:00:00.000Z</time>
         <name>OX29VV8</name>
         <desc>Heading for Mira 3/4 by MAC102004, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX29VV8</url>
@@ -450,15 +52,7 @@ Contains: Pencil. log book, small trading items, FTF pin.</groundspeak:long_desc
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Mac is out for a drive in the woods again! Should be an easy find. Drive your car in, hike in, take the ATV, whatever you want.
-
-This is a trail off of Broughton Road, acess this road from either Hornes Rd. off Loiusbourg Hwy, or turn left at the end off Morrison Rd. (also off the Louisbourg Hwy.)
-
-Cache is in a medium sized loc n lock, third of (4) caches on this trail. I will be adding onto this series in the future.
-
-These 4 caches are approximtately 0.2kms apart. So the furthest one should be about 0.8-1km off of the Broughton road. The series contains ONE mirco, and THREE regular sized caches.
-
-Contains: Pencil. log book, small trading items, FTF pin.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Mac is out for a drive in the woods again! Should be an easy find. Drive your car in, hike in, take the ATV, whatever you want.&lt;br/&gt;&lt;br/&gt;This is a trail off of Broughton Road, acess this road from either Hornes Rd. off Loiusbourg Hwy, or turn left at the end off Morrison Rd. (also off the Louisbourg Hwy.)&lt;br/&gt;&lt;br/&gt;Cache is in a medium sized loc n lock, third of (4) caches on this trail. I will be adding onto this series in the future.&lt;br/&gt;&lt;br/&gt;These 4 caches are approximtately 0.2kms apart. So the furthest one should be about 0.8-1km off of the Broughton road. The series contains ONE mirco, and THREE regular sized caches.&lt;br/&gt;&lt;br/&gt;Contains: Pencil. log book, small trading items, FTF pin.</groundspeak:long_description>
             <groundspeak:encoded_hints>none</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -471,7 +65,7 @@ Contains: Pencil. log book, small trading items, FTF pin.</groundspeak:long_desc
         </ox:opencaching>
     </wpt>
     <wpt lon="-59.951033" lat="46.072783">
-        <time>2010-06-06T02:00:00.000-05:00</time>
+        <time>2010-06-06T07:00:00.000Z</time>
         <name>OX29VTH</name>
         <desc>Heading for Mira 2/4 by MAC102004, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX29VTH</url>
@@ -486,15 +80,7 @@ Contains: Pencil. log book, small trading items, FTF pin.</groundspeak:long_desc
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Mac is out for a drive in the woods again! Should be an easy find. Drive your car in, hike in, take the ATV, whatever you want.
-
-This is a trail off of Broughton Road, acess this road from either Hornes Rd. off Loiusbourg Hwy, or turn left at the end off Morrison Rd. (also off the Louisbourg Hwy.)
-
-Cache is in a medium sized loc n lock, second of (4) caches on this trail. I will be adding onto this series in the future.
-
-These 4 caches are approximtately 0.2kms apart. So the furthest one should be about 0.8-1km off of the Broughton road. The series contains ONE mirco, and THREE regular sized caches.
-
-Contains: Pencil. log book, small trading items, FTF pin.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Mac is out for a drive in the woods again! Should be an easy find. Drive your car in, hike in, take the ATV, whatever you want.&lt;br/&gt;&lt;br/&gt;This is a trail off of Broughton Road, acess this road from either Hornes Rd. off Loiusbourg Hwy, or turn left at the end off Morrison Rd. (also off the Louisbourg Hwy.)&lt;br/&gt;&lt;br/&gt;Cache is in a medium sized loc n lock, second of (4) caches on this trail. I will be adding onto this series in the future.&lt;br/&gt;&lt;br/&gt;These 4 caches are approximtately 0.2kms apart. So the furthest one should be about 0.8-1km off of the Broughton road. The series contains ONE mirco, and THREE regular sized caches.&lt;br/&gt;&lt;br/&gt;Contains: Pencil. log book, small trading items, FTF pin.</groundspeak:long_description>
             <groundspeak:encoded_hints>Not winter friendly.</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -507,7 +93,7 @@ Contains: Pencil. log book, small trading items, FTF pin.</groundspeak:long_desc
         </ox:opencaching>
     </wpt>
     <wpt lon="-59.952267" lat="46.074117">
-        <time>2010-06-06T02:00:00.000-05:00</time>
+        <time>2010-06-06T07:00:00.000Z</time>
         <name>OX29VT2</name>
         <desc>Heading for Mira 1/4 by MAC102004, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX29VT2</url>
@@ -522,15 +108,7 @@ Contains: Pencil. log book, small trading items, FTF pin.</groundspeak:long_desc
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Mac is out for a drive in the woods again! Should be an easy find. Drive your car in, hike in, take the ATV, whatever you want.
-
-This is a trail off of Broughton Road, acess this road from either Hornes Rd. off Loiusbourg Hwy, or turn left at the end off Morrison Rd. (also off the Louisbourg Hwy.
-
-Cache is in a 35mm film container so bring a pencil. First of (4) caches on this trail. I will be adding onto this series in the future.
-
-These 4 caches are approximtately 0.2kms apart. So the furthest one should be about 0.8-1km off of the Broughton road. The series contains ONE mirco, and THREE regular sized caches.
-
-Contians only a log book.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Mac is out for a drive in the woods again! Should be an easy find. Drive your car in, hike in, take the ATV, whatever you want.&lt;br/&gt;&lt;br/&gt;This is a trail off of Broughton Road, acess this road from either Hornes Rd. off Loiusbourg Hwy, or turn left at the end off Morrison Rd. (also off the Louisbourg Hwy.&lt;br/&gt;&lt;br/&gt;Cache is in a 35mm film container so bring a pencil. First of (4) caches on this trail. I will be adding onto this series in the future.&lt;br/&gt;&lt;br/&gt;These 4 caches are approximtately 0.2kms apart. So the furthest one should be about 0.8-1km off of the Broughton road. The series contains ONE mirco, and THREE regular sized caches.&lt;br/&gt;&lt;br/&gt;Contians only a log book.</groundspeak:long_description>
             <groundspeak:encoded_hints>Winter Friendly.</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -543,7 +121,7 @@ Contians only a log book.</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="-59.928217" lat="46.079667">
-        <time>2007-08-19T02:00:00.000-05:00</time>
+        <time>2007-08-19T07:00:00.000Z</time>
         <name>OX1598D</name>
         <desc>Homevile-milton cross roads by MAC102004, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1598D</url>
@@ -558,15 +136,7 @@ Contians only a log book.</groundspeak:long_description>
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Located where the old railroad intersects the Homeville-Milton Road.
-
-Cace is a ammo box containing a log book, pencil and trading items.
-
-Cache can be reached in a truck or ATV, would not recommend in a car but I suppose it can be done.
-
-The Homeville-Milton road runs between Broughton Rd. and Highway 255 (Comes out right by the Waddens Cove Road.
-
-You can also reach the road by following the old railroad starting at the Birch Grove Road. (Right across from the &quot;Sand Lake Rd.&quot; sign.)</groundspeak:long_description>
+            <groundspeak:long_description html="True">Located where the old railroad intersects the Homeville-Milton Road.&lt;br/&gt;&lt;br/&gt;Cace is a ammo box containing a log book, pencil and trading items.&lt;br/&gt;&lt;br/&gt;Cache can be reached in a truck or ATV, would not recommend in a car but I suppose it can be done.&lt;br/&gt;&lt;br/&gt;The Homeville-Milton road runs between Broughton Rd. and Highway 255 (Comes out right by the Waddens Cove Road.&lt;br/&gt;&lt;br/&gt;You can also reach the road by following the old railroad starting at the Birch Grove Road. (Right across from the &quot;Sand Lake Rd.&quot; sign.)</groundspeak:long_description>
             <groundspeak:encoded_hints>Under some tree roots.</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -579,7 +149,7 @@ You can also reach the road by following the old railroad starting at the Birch 
         </ox:opencaching>
     </wpt>
     <wpt lon="-59.9480333" lat="46.08135">
-        <time>2007-02-02T02:00:00.000-06:00</time>
+        <time>2007-02-02T08:00:00.000Z</time>
         <name>OX10G5C</name>
         <desc>Stumpy? by STAGUNNER, Traditional Cache(1.9/2.7/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX10G5C</url>
@@ -594,7 +164,7 @@ You can also reach the road by following the old railroad starting at the Birch 
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Stumpy?&lt;br/&gt;&lt;br/&gt;Well if you look around there are lots, but which one is it?&lt;br/&gt;&lt;br/&gt;Should be an easy pick up.&lt;br/&gt;The road in from the Broughton Road is not to hard to travel, make the correct turn and you can get to the cache easily, or you end up doing a good bushwhack,  Walking to the cache on an old road is easy. 
+            <groundspeak:long_description html="True">Stumpy?&lt;br /&gt;&lt;br /&gt;Well if you look around there are lots, but which one is it?&lt;br /&gt;&lt;br /&gt;Should be an easy pick up.&lt;br /&gt;The road in from the Broughton Road is not to hard to travel, make the correct turn and you can get to the cache easily, or you end up doing a good bushwhack,  Walking to the cache on an old road is easy. 
 </groundspeak:long_description>
             <groundspeak:encoded_hints>none</groundspeak:encoded_hints>
         </groundspeak:cache>
@@ -608,7 +178,7 @@ You can also reach the road by following the old railroad starting at the Birch 
         </ox:opencaching>
     </wpt>
     <wpt lon="-59.8876833" lat="46.0841833">
-        <time>2007-03-01T02:00:00.000-06:00</time>
+        <time>2007-03-01T08:00:00.000Z</time>
         <name>OX116TV</name>
         <desc>Homeville River Bridge by STAGUNNER, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX116TV</url>
@@ -623,11 +193,7 @@ You can also reach the road by following the old railroad starting at the Birch 
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Along the road to Wadden's Cove is a nice metal bridge.
-and the cache  is stuck on it somewhere.
-Where?? you will have to determine that.
-
-Have a nice hunt</groundspeak:long_description>
+            <groundspeak:long_description html="True">Along the road to Wadden's Cove is a nice metal bridge.&lt;br/&gt;and the cache  is stuck on it somewhere.&lt;br/&gt;Where?? you will have to determine that.&lt;br/&gt;&lt;br/&gt;Have a nice hunt</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -639,7 +205,7 @@ Have a nice hunt</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="-59.9160667" lat="46.0847333">
-        <time>2007-02-02T02:00:00.000-06:00</time>
+        <time>2007-02-02T08:00:00.000Z</time>
         <name>OX10G55</name>
         <desc>Homeville Heights by STAGUNNER, Traditional Cache(2.8/3.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX10G55</url>
@@ -654,7 +220,7 @@ Have a nice hunt</groundspeak:long_description>
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">Homeville Heights.&lt;br/&gt;&lt;br/&gt;Well if it were a subdivision that's what I'd name it.&lt;br/&gt;&lt;br/&gt;There are two ways to get here, both just as challenging, You should expect to have a bumpy ride or a nice walk,&lt;br/&gt;If walking in do so from HWY 255 side.&lt;br/&gt;it looks tricky when you get close, a 4x4 can get right to it. makes you wonder how they got all the material to make the  object located here.&lt;br/&gt;You can get a good view through the trees too.&lt;br/&gt;Updated hint 
+            <groundspeak:long_description html="True">Homeville Heights.&lt;br /&gt;&lt;br /&gt;Well if it were a subdivision that's what I'd name it.&lt;br /&gt;&lt;br /&gt;There are two ways to get here, both just as challenging, You should expect to have a bumpy ride or a nice walk,&lt;br /&gt;If walking in do so from HWY 255 side.&lt;br /&gt;it looks tricky when you get close, a 4x4 can get right to it. makes you wonder how they got all the material to make the  object located here.&lt;br /&gt;You can get a good view through the trees too.&lt;br /&gt;Updated hint 
 </groundspeak:long_description>
             <groundspeak:encoded_hints>Best hint I can give is
 
@@ -671,7 +237,7 @@ look   directly behind, you will see the cache hiding place</groundspeak:encoded
         </ox:opencaching>
     </wpt>
     <wpt lon="-59.9330833" lat="46.1020333">
-        <time>2007-09-28T03:00:00.000-05:00</time>
+        <time>2007-09-28T08:00:00.000Z</time>
         <name>OX15NHV</name>
         <desc>Down the old S and L line by STAGUNNER, Traditional Cache(2.1/3.7/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX15NHV</url>
@@ -686,8 +252,7 @@ look   directly behind, you will see the cache hiding place</groundspeak:encoded
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>3.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Along the old Sydney &amp; Louisbourg railway A nice ride in a 4x4 truck, but a bit narrow, a good walk but a small 4wheeler will do the trek nicely,
-Plan the find on this one or you will be doing lots of bushwacking to get to it.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Along the old Sydney &amp; Louisbourg railway A nice ride in a 4x4 truck, but a bit narrow, a good walk but a small 4wheeler will do the trek nicely,&lt;br/&gt;Plan the find on this one or you will be doing lots of bushwacking to get to it.</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -699,7 +264,7 @@ Plan the find on this one or you will be doing lots of bushwacking to get to it.
         </ox:opencaching>
     </wpt>
     <wpt lon="-59.9296833" lat="46.1056833">
-        <time>2007-09-28T03:00:00.000-05:00</time>
+        <time>2007-09-28T08:00:00.000Z</time>
         <name>OX15NHG</name>
         <desc>Morrison Brook Bridge by STAGUNNER, Traditional Cache(2.3/3.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX15NHG</url>
@@ -714,8 +279,7 @@ Plan the find on this one or you will be doing lots of bushwacking to get to it.
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>3.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Along the old Sydney &amp; Louisbourg railway there are some nice old railway bridges. the cache is near one of them. A nice ride in a 4x4 truck, but a bit narrow, a good walk but a small 4wheeler will do the trek nicely,
-Plan the find on this one or you will be doing lots of bushwacking to get to it.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Along the old Sydney &amp; Louisbourg railway there are some nice old railway bridges. the cache is near one of them. A nice ride in a 4x4 truck, but a bit narrow, a good walk but a small 4wheeler will do the trek nicely,&lt;br/&gt;Plan the find on this one or you will be doing lots of bushwacking to get to it.</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -727,7 +291,7 @@ Plan the find on this one or you will be doing lots of bushwacking to get to it.
         </ox:opencaching>
     </wpt>
     <wpt lon="-59.9114" lat="46.1058333">
-        <time>2008-02-08T02:00:00.000-06:00</time>
+        <time>2008-02-08T08:00:00.000Z</time>
         <name>OX191Z7</name>
         <desc>Resting by the Brook  by STAGUNNER, Traditional Cache(2.0/2.2/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX191Z7</url>
@@ -742,10 +306,7 @@ Plan the find on this one or you will be doing lots of bushwacking to get to it.
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True"> RESTING BY THE BROOK
-Located near one of fthe other small cemetaries on the Marconi Trail
-Enjoy the scenery and the walk, Have Fun!!
-If you are a Geocacher in Atlantic Canada,please join us. The ACGA is your gateway to  caching in and around the East Coast.</groundspeak:long_description>
+            <groundspeak:long_description html="True"> RESTING BY THE BROOK&lt;br/&gt;Located near one of fthe other small cemetaries on the Marconi Trail&lt;br/&gt;Enjoy the scenery and the walk, Have Fun!!&lt;br/&gt;If you are a Geocacher in Atlantic Canada,please join us. The ACGA is your gateway to  caching in and around the East Coast.</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -757,7 +318,7 @@ If you are a Geocacher in Atlantic Canada,please join us. The ACGA is your gatew
         </ox:opencaching>
     </wpt>
     <wpt lon="-59.9078667" lat="46.1064333">
-        <time>2007-03-01T02:00:00.000-06:00</time>
+        <time>2007-03-01T08:00:00.000Z</time>
         <name>OX116TX</name>
         <desc>Black Brook - Morien by STAGUNNER, Traditional Cache(2.0/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX116TX</url>
@@ -772,12 +333,7 @@ If you are a Geocacher in Atlantic Canada,please join us. The ACGA is your gatew
             <groundspeak:container>Large</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">On the river bank near the new bridge. There once was a nice metal bridge near here but it was replaced.
-The cache is hiding  in a tree. ahh which one is it.
-
-MineRP It is winter friendly too!!!
-have a good hunt.
-Park at the old bridge and go stretch your legs. </groundspeak:long_description>
+            <groundspeak:long_description html="True">On the river bank near the new bridge. There once was a nice metal bridge near here but it was replaced.&lt;br/&gt;The cache is hiding  in a tree. ahh which one is it.&lt;br/&gt;&lt;br/&gt;MineRP It is winter friendly too!!!&lt;br/&gt;have a good hunt.&lt;br/&gt;Park at the old bridge and go stretch your legs. </groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -789,7 +345,7 @@ Park at the old bridge and go stretch your legs. </groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="-59.88505" lat="46.1111167">
-        <time>2007-09-28T03:00:00.000-05:00</time>
+        <time>2007-09-28T08:00:00.000Z</time>
         <name>OX15K99</name>
         <desc>Phalen's Bar by STAGUNNER, Traditional Cache(2.1/2.4/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX15K99</url>
@@ -804,9 +360,7 @@ Park at the old bridge and go stretch your legs. </groundspeak:long_description>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Phalen's Bar is a wonderful place on Cape Breton Island. Popular for walking, sunning  a nice picnik, and bird watching.
-
-It is accessable by car but have a nice walk to the cache and enjoy tthe view.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Phalen's Bar is a wonderful place on Cape Breton Island. Popular for walking, sunning  a nice picnik, and bird watching.&lt;br/&gt;&lt;br/&gt;It is accessable by car but have a nice walk to the cache and enjoy tthe view.</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -818,7 +372,7 @@ It is accessable by car but have a nice walk to the cache and enjoy tthe view.</
         </ox:opencaching>
     </wpt>
     <wpt lon="-59.917417" lat="46.122617">
-        <time>2010-06-06T02:00:00.000-05:00</time>
+        <time>2010-06-06T07:00:00.000Z</time>
         <name>OX29VXW</name>
         <desc>Leave No Stone Unturned 2 by MAC102004, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX29VXW</url>
@@ -833,18 +387,7 @@ It is accessable by car but have a nice walk to the cache and enjoy tthe view.</
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">I decided to revive my first ever find. To view orignal cache see GCPZB9, Leave No Stone Unturned by Francie&amp;Whipper.
-
-(from original) 
-The cache is located on the old backpit road between Birch Grove and Morien on the old S&amp;L railroad in about a kilometer from highway.
-
-Being where as this our first cache we made it pretty easy cache is in rubbermaid type box. Contents are:Canada pins , sparky patch guitar pick, 2-lanyards campbell mine pin ,globe paperweight , 6 canada stickers, and a loonie for non canadians.
-
-------
-
-This was my first find, and was the cache that got me started in this wonderful hobby. This cache meant a lot to me, but was unfortunately archived unnecessarily in 2008.
-
-This is a completely new cache in the exact location of the old one. Contians only the trading items found in the old cache with some new things added + new log book and pencil. Enjoy!</groundspeak:long_description>
+            <groundspeak:long_description html="True">I decided to revive my first ever find. To view orignal cache see GCPZB9, Leave No Stone Unturned by Francie&amp;Whipper.&lt;br/&gt;&lt;br/&gt;(from original) &lt;br/&gt;The cache is located on the old backpit road between Birch Grove and Morien on the old S&amp;L railroad in about a kilometer from highway.&lt;br/&gt;&lt;br/&gt;Being where as this our first cache we made it pretty easy cache is in rubbermaid type box. Contents are:Canada pins , sparky patch guitar pick, 2-lanyards campbell mine pin ,globe paperweight , 6 canada stickers, and a loonie for non canadians.&lt;br/&gt;&lt;br/&gt;------&lt;br/&gt;&lt;br/&gt;This was my first find, and was the cache that got me started in this wonderful hobby. This cache meant a lot to me, but was unfortunately archived unnecessarily in 2008.&lt;br/&gt;&lt;br/&gt;This is a completely new cache in the exact location of the old one. Contians only the trading items found in the old cache with some new things added + new log book and pencil. Enjoy!</groundspeak:long_description>
             <groundspeak:encoded_hints>Hint is in the name</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -857,7 +400,7 @@ This is a completely new cache in the exact location of the old one. Contians on
         </ox:opencaching>
     </wpt>
     <wpt lon="-59.96295" lat="46.1363333">
-        <time>2008-04-11T03:00:00.000-05:00</time>
+        <time>2008-04-11T08:00:00.000Z</time>
         <name>OX1B45Y</name>
         <desc>Heading to Birch Grove by STAGUNNER, Traditional Cache(2.3/3.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1B45Y</url>
@@ -872,10 +415,7 @@ This is a completely new cache in the exact location of the old one. Contians on
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">Hidden at the end of an old road.
-Hidden in a tree
-Hidden from plain sight
-Hidden is a cache</groundspeak:long_description>
+            <groundspeak:long_description html="True">Hidden at the end of an old road.&lt;br/&gt;Hidden in a tree&lt;br/&gt;Hidden from plain sight&lt;br/&gt;Hidden is a cache</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -887,7 +427,7 @@ Hidden is a cache</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="-59.8564" lat="46.153017">
-        <time>2010-04-11T02:00:00.000-05:00</time>
+        <time>2010-04-11T07:00:00.000Z</time>
         <name>OX26M6H</name>
         <desc>Rickety old bridge by MAC102004, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX26M6H</url>
@@ -902,9 +442,7 @@ Hidden is a cache</groundspeak:long_description>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Small cache located along a trial that runs along the bank. Grab GC163TB and GC26M5A along the way. Don't go near the cliff's, may not be kid friendly.
-
-Located near a old walking/ATV bridge that is no longer in use. Contains the usual items, log book, pencil and some swag. Cache is a small loc n' loc container w/ black tape. Winter friendly. Parking at N46 09.648 W59 51.246</groundspeak:long_description>
+            <groundspeak:long_description html="True">Small cache located along a trial that runs along the bank. Grab GC163TB and GC26M5A along the way. Don't go near the cliff's, may not be kid friendly.&lt;br/&gt;&lt;br/&gt;Located near a old walking/ATV bridge that is no longer in use. Contains the usual items, log book, pencil and some swag. Cache is a small loc n' loc container w/ black tape. Winter friendly. Parking at N46 09.648 W59 51.246</groundspeak:long_description>
             <groundspeak:encoded_hints>In a tree.</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -917,7 +455,7 @@ Located near a old walking/ATV bridge that is no longer in use. Contains the usu
         </ox:opencaching>
     </wpt>
     <wpt lon="-59.8531" lat="46.155867">
-        <time>2010-04-11T02:00:00.000-05:00</time>
+        <time>2010-04-11T07:00:00.000Z</time>
         <name>OX26M5A</name>
         <desc>Lobster Point by MAC102004, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX26M5A</url>
@@ -932,9 +470,7 @@ Located near a old walking/ATV bridge that is no longer in use. Contains the usu
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Small cache located along a trial that runs along the bank. Grab GC163TB along the way. Don't go near the cliff's, may not be kid friendly.
-
-Contains the usual items, log book, pencil and some swag. Cache is a small loc n' loc container w/ black tape. Winter friendly. Parking at N46 09.648 W59 51.246</groundspeak:long_description>
+            <groundspeak:long_description html="True">Small cache located along a trial that runs along the bank. Grab GC163TB along the way. Don't go near the cliff's, may not be kid friendly.&lt;br/&gt;&lt;br/&gt;Contains the usual items, log book, pencil and some swag. Cache is a small loc n' loc container w/ black tape. Winter friendly. Parking at N46 09.648 W59 51.246</groundspeak:long_description>
             <groundspeak:encoded_hints>In a tree.</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -947,7 +483,7 @@ Contains the usual items, log book, pencil and some swag. Cache is a small loc n
         </ox:opencaching>
     </wpt>
     <wpt lon="-59.8537667" lat="46.1595167">
-        <time>2007-09-28T03:00:00.000-05:00</time>
+        <time>2007-09-28T08:00:00.000Z</time>
         <name>OX163TB</name>
         <desc>Long beach by STAGUNNER, Traditional Cache(2.3/2.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX163TB</url>
@@ -974,7 +510,7 @@ Contains the usual items, log book, pencil and some swag. Cache is a small loc n
         </ox:opencaching>
     </wpt>
     <wpt lon="-59.9366" lat="46.1603">
-        <time>2007-10-21T02:00:00.000-05:00</time>
+        <time>2007-10-21T07:00:00.000Z</time>
         <name>OX16W8T</name>
         <desc>Dude, where's my car? by MAC102004, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX16W8T</url>
@@ -989,9 +525,7 @@ Contains the usual items, log book, pencil and some swag. Cache is a small loc n
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Dude, where's my car?
-
-Follow the trail on the end of sand lake rd, across from Marconi towers road. Small lock n' lock container with a log book, pencil, and small items. Lot's of old relics off the sides of the trail here.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Dude, where's my car?&lt;br/&gt;&lt;br/&gt;Follow the trail on the end of sand lake rd, across from Marconi towers road. Small lock n' lock container with a log book, pencil, and small items. Lot's of old relics off the sides of the trail here.</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -1003,7 +537,7 @@ Follow the trail on the end of sand lake rd, across from Marconi towers road. Sm
         </ox:opencaching>
     </wpt>
     <wpt lon="-59.855617" lat="46.171467">
-        <time>2007-08-26T02:00:00.000-05:00</time>
+        <time>2007-08-26T07:00:00.000Z</time>
         <name>OX15E7G</name>
         <desc>Donkin Pole Line Geocache by MAC102004, Traditional Cache(1.5/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX15E7G</url>
@@ -1018,9 +552,7 @@ Follow the trail on the end of sand lake rd, across from Marconi towers road. Sm
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Should be an easy find.
-
-Best way to get to it is to walk in from Long Beach Rd/No. 6 Mines rd. There is a road going in that is gated, hard to miss. Follow the road in, its also an ATV trail. The Geocache is located next to a pole from the old rail line. Its pretty grown in, if you go the right way it will be fairly easy, go the wrong way and it will be fairly difficult.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Should be an easy find.&lt;br/&gt;&lt;br/&gt;Best way to get to it is to walk in from Long Beach Rd/No. 6 Mines rd. There is a road going in that is gated, hard to miss. Follow the road in, its also an ATV trail. The Geocache is located next to a pole from the old rail line. Its pretty grown in, if you go the right way it will be fairly easy, go the wrong way and it will be fairly difficult.</groundspeak:long_description>
             <groundspeak:encoded_hints>none needed</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1033,7 +565,7 @@ Best way to get to it is to walk in from Long Beach Rd/No. 6 Mines rd. There is 
         </ox:opencaching>
     </wpt>
     <wpt lon="-59.854567" lat="46.174">
-        <time>2007-10-01T02:00:00.000-05:00</time>
+        <time>2007-10-01T07:00:00.000Z</time>
         <name>OX16C1Q</name>
         <desc>Goin Nowhere by MAC102004, Traditional Cache(1.5/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX16C1Q</url>
@@ -1048,16 +580,7 @@ Best way to get to it is to walk in from Long Beach Rd/No. 6 Mines rd. There is 
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">This geocache is located just off an ATV trail. 
-
-ROUTE #1 
-To get to it you must drive to Scooner Pond near the Donkin Minesite on No.6 Mines Rd. The trail starts near Stagunner's &quot;A survey marker is nearby #2 so is a geocache&quot;, proceed to walk along this ATV path (or drive if you have an ATV) until you reach the cache.
-
-ROUTE #2
-Find the road to the &quot;Pump House&quot; in Donkin, go down the road and you will see an ATV trail, follow the trail until you reach an intersection, turn right and keep going.
-
-ROUTE #3
-The other end of the trail doesn't actually not go anywhere. It connects on to the same road that my &quot;Donkin Pole Line Geocache&quot; is on, this trail is on the left and may be tricky to find, if not using an ATV in this direction wear boots and expect some puddles.</groundspeak:long_description>
+            <groundspeak:long_description html="True">This geocache is located just off an ATV trail. &lt;br/&gt;&lt;br/&gt;ROUTE #1 &lt;br/&gt;To get to it you must drive to Scooner Pond near the Donkin Minesite on No.6 Mines Rd. The trail starts near Stagunner's &quot;A survey marker is nearby #2 so is a geocache&quot;, proceed to walk along this ATV path (or drive if you have an ATV) until you reach the cache.&lt;br/&gt;&lt;br/&gt;ROUTE #2&lt;br/&gt;Find the road to the &quot;Pump House&quot; in Donkin, go down the road and you will see an ATV trail, follow the trail until you reach an intersection, turn right and keep going.&lt;br/&gt;&lt;br/&gt;ROUTE #3&lt;br/&gt;The other end of the trail doesn't actually not go anywhere. It connects on to the same road that my &quot;Donkin Pole Line Geocache&quot; is on, this trail is on the left and may be tricky to find, if not using an ATV in this direction wear boots and expect some puddles.</groundspeak:long_description>
             <groundspeak:encoded_hints>There is a Eagles nest near the cache.</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1070,7 +593,7 @@ The other end of the trail doesn't actually not go anywhere. It connects on to t
         </ox:opencaching>
     </wpt>
     <wpt lon="-59.852333" lat="46.17805">
-        <time>2007-10-01T02:00:00.000-05:00</time>
+        <time>2007-10-01T07:00:00.000Z</time>
         <name>OX16C1W</name>
         <desc>Donkin Dam Geocache by MAC102004, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX16C1W</url>
@@ -1085,13 +608,7 @@ The other end of the trail doesn't actually not go anywhere. It connects on to t
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Located just off the ATV trail
-
-ROUTE #1
-To get to it you must drive to Scooner Pond near the Donkin Minesite on No.6 Mines Rd. The trail starts near Stagunner's &quot;A survey marker is nearby #2 so is a geocache&quot;, proceed to walk along this ATV path (or drive if you have an ATV) until you reach the cache.
-
-ROUTE #2
-Find the road to the &quot;Pump House&quot; in Donkin, go down the road and you will see an ATV trail, follow the trail until you reach an intersection, turn right and keep going.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Located just off the ATV trail&lt;br/&gt;&lt;br/&gt;ROUTE #1&lt;br/&gt;To get to it you must drive to Scooner Pond near the Donkin Minesite on No.6 Mines Rd. The trail starts near Stagunner's &quot;A survey marker is nearby #2 so is a geocache&quot;, proceed to walk along this ATV path (or drive if you have an ATV) until you reach the cache.&lt;br/&gt;&lt;br/&gt;ROUTE #2&lt;br/&gt;Find the road to the &quot;Pump House&quot; in Donkin, go down the road and you will see an ATV trail, follow the trail until you reach an intersection, turn right and keep going.</groundspeak:long_description>
             <groundspeak:encoded_hints>none needed</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1104,7 +621,7 @@ Find the road to the &quot;Pump House&quot; in Donkin, go down the road and you 
         </ox:opencaching>
     </wpt>
     <wpt lon="-59.823933" lat="46.180817">
-        <time>2007-08-20T02:00:00.000-05:00</time>
+        <time>2007-08-20T07:00:00.000Z</time>
         <name>OX15AV5</name>
         <desc>Don't be in shock, its near a rock by MAC102004, Traditional Cache(3.0/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX15AV5</url>
@@ -1119,9 +636,7 @@ Find the road to the &quot;Pump House&quot; in Donkin, go down the road and you 
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Located on along a ATV/Hiking trail that goes around the North Head. Park on the side of the Donkin mine/Xtrada Coal project access road.
-
-Cache is in a small lock and lock container, contians log book and pencil and of course some small trading items. Shouldn't be too hard to find. Please don't go near the cliffs.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Located on along a ATV/Hiking trail that goes around the North Head. Park on the side of the Donkin mine/Xtrada Coal project access road.&lt;br/&gt;&lt;br/&gt;Cache is in a small lock and lock container, contians log book and pencil and of course some small trading items. Shouldn't be too hard to find. Please don't go near the cliffs.</groundspeak:long_description>
             <groundspeak:encoded_hints>About 3-4ft away from the big rock.</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1134,7 +649,7 @@ Cache is in a small lock and lock container, contians log book and pencil and of
         </ox:opencaching>
     </wpt>
     <wpt lon="-59.8506" lat="46.1811833">
-        <time>2007-01-20T02:00:00.000-06:00</time>
+        <time>2007-01-20T08:00:00.000Z</time>
         <name>OX10FBD</name>
         <desc>A survey marker is nearby, # 2 So is a Geocache by STAGUNNER, Traditional Cache(1.6/1.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX10FBD</url>
@@ -1149,7 +664,7 @@ Cache is in a small lock and lock container, contians log book and pencil and of
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">A survey marker is nearby, # 2 So is a Geocache&lt;br/&gt;&lt;br/&gt;a quick  one and not to difficult.&lt;br/&gt;&lt;br/&gt;Enjoy the view. 
+            <groundspeak:long_description html="True">A survey marker is nearby, # 2 So is a Geocache&lt;br /&gt;&lt;br /&gt;a quick  one and not to difficult.&lt;br /&gt;&lt;br /&gt;Enjoy the view. 
 </groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1162,7 +677,7 @@ Cache is in a small lock and lock container, contians log book and pencil and of
         </ox:opencaching>
     </wpt>
     <wpt lon="-59.897383" lat="46.184817">
-        <time>2007-10-21T02:00:00.000-05:00</time>
+        <time>2007-10-21T07:00:00.000Z</time>
         <name>OX16W8H</name>
         <desc>Donkin Wind Mill Geocache by MAC102004, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX16W8H</url>
@@ -1177,9 +692,7 @@ Cache is in a small lock and lock container, contians log book and pencil and of
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Donkin WInd Mill Geocache
-
-Located near the Wind Mill in Donkin. There is a gated road for the towers that are here, park on the road and walk in.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Donkin WInd Mill Geocache&lt;br/&gt;&lt;br/&gt;Located near the Wind Mill in Donkin. There is a gated road for the towers that are here, park on the road and walk in.</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>

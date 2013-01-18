@@ -1,15 +1,63 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>13 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,-62,90,-61</url>
-    <time>2012-01-04T09:28:44.753-06:00</time>
+    <time>2012-12-19T22:40:06.199Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="-61.0" maxlat="90.0" minlon="-62.0" minlat="-90.0"/>
+    <wpt lon="-61.7508833" lat="3.78505">
+        <time>2012-03-04T23:13:19.000Z</time>
+        <name>OX3DX1Z</name>
+        <desc>Tepequém by franklinbaldo, Traditional Cache(2.5/3.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3DX1Z</url>
+        <urlname>Tepequém</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3184815">
+            <groundspeak:name>Tepequém</groundspeak:name>
+            <groundspeak:placed_by>franklinbaldo</groundspeak:placed_by>
+            <groundspeak:owner id="89203">franklinbaldo</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Muitos viajantes passam por Roraima como caminho para Venezuela ou para Guiana. Mas poucos aproveitam os atrativos que o estado tem a oferecer.&lt;br/&gt;&lt;br/&gt;Se você vai passar alguns dias em Roraima, o Tepequém é um ótimo lugar para visitar. O acesso até a vila (200km desde Boa Vista) é todo pavimentado e o lugarejo possui várias pousadas onde você pode se hospedar. E a natureza não vai te decepcionar. &lt;br/&gt;&lt;br/&gt;Many travelers go through Roraima as a way to to Guyana or Venezuela. But few take advantage of the attractions that the brazilian state has to offer.&lt;br/&gt;&lt;br/&gt;If you will spend some days in Roraima, the Tepequém is a great place to visit. The access to the village (200km from Boa Vista) are all paved, there are many small hotels where you can stay and the nature will not let you down. </groundspeak:long_description>
+            <groundspeak:encoded_hints>No pé da árvore, debaixo das pedras. At the base of the tree, under rocks.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.6</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>f0448232.jpg</ox:name>
+                    <ox:size>239628</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>IMG_20120203_134709.jpg</ox:name>
+                    <ox:size>296463</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>IMG_20120203_140309.jpg</ox:name>
+                    <ox:size>196032</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
     <wpt lon="-61.7674833" lat="45.2366667">
-        <time>2010-04-18T02:00:00.000-05:00</time>
+        <time>2010-04-18T07:00:00.000Z</time>
         <name>OX2709Y</name>
         <desc>Salsman Provincial Park by ACGA, Multi-cache(3.0/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2709Y</url>
@@ -24,7 +72,7 @@
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">&lt;br/&gt;
+            <groundspeak:long_description html="True">&lt;br /&gt;
 
 
 &lt;p&gt;Salsman Provincial Park is located on a small peninsula on the
@@ -34,76 +82,76 @@ Province of Nova Scotia by Senator Frank C. and Lois E. (Salsman)
 Welch. The donation was made in memory of Reverend A. Wellington
 (1861-1939) and F. Ellen (Mason) (1870-1939) Salsman on the
 condition that it be developed as a Provincial Park. A cairn is
-located in the Park to acknowledge this generous donation.&lt;br/&gt;
-&lt;br/&gt;
+located in the Park to acknowledge this generous donation.&lt;br /&gt;
+&lt;br /&gt;
 This geocache is part of the 2010 NS Provincial Parks Geocaching
 challenge. For more information about the geocaching challenge,
 click the following LINK for more information.  To participate
 in the challenge, you will need to download the associated
 PASSPORT. At each geocache, there is a punch that you can mark the
 corresponding box on your passport. Collect all 5 and you can send
-in your passport to receive a free trackable geocoin.&lt;br/&gt;
-&lt;br/&gt;
+in your passport to receive a free trackable geocoin.&lt;br /&gt;
+&lt;br /&gt;
 In order to solve this geocache, you will need to brush up on your
 knowledge of trees.  Refer to the following links to help
-you.&lt;br/&gt;&lt;/p&gt;
+you.&lt;br /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Dept of
 Natural Resources Identification Program&lt;/li&gt;
 &lt;li&gt;Hardwood&lt;/li&gt;
-&lt;li&gt;Softwood&lt;br/&gt;
+&lt;li&gt;Softwood&lt;br /&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 How to Solve This
-Multi&lt;br/&gt;
-&lt;br/&gt;
+Multi&lt;br /&gt;
+&lt;br /&gt;
 1. At the starting coordinates; identify the species of tree that
 you see. (Hint: you will see a yellow trail marker 5 feet up the
-tree)&lt;br/&gt;
+tree)&lt;br /&gt;
 Answer: 5 letters, another name for Tamarack. Place each letter in
-the following slots.&lt;br/&gt;
-&lt;br/&gt;
-   (a) ___&lt;br/&gt;
-   (b) ___&lt;br/&gt;
-   (c) ___&lt;br/&gt;
-   (d) ___&lt;br/&gt;
-   (e) ___&lt;br/&gt;
-&lt;br/&gt;
+the following slots.&lt;br /&gt;
+&lt;br /&gt;
+   (a) ___&lt;br /&gt;
+   (b) ___&lt;br /&gt;
+   (c) ___&lt;br /&gt;
+   (d) ___&lt;br /&gt;
+   (e) ___&lt;br /&gt;
+&lt;br /&gt;
 2. Refer to this cipher key to get the corresponding digits 
-from step 1. (eg. the letter I = 2 + 4 = 6)&lt;br/&gt;
-&lt;br/&gt;
+from step 1. (eg. the letter I = 2 + 4 = 6)&lt;br /&gt;
+&lt;br /&gt;
 
 
 
-0 1 2 3 4 5&lt;br/&gt;
-1 A B C D E&lt;br/&gt;
-2 F G H I J&lt;br/&gt;
-3 K L M N O&lt;br/&gt;
-4 P Q R S T&lt;br/&gt;
-5 U V W X Y&lt;br/&gt;
+0 1 2 3 4 5&lt;br /&gt;
+1 A B C D E&lt;br /&gt;
+2 F G H I J&lt;br /&gt;
+3 K L M N O&lt;br /&gt;
+4 P Q R S T&lt;br /&gt;
+5 U V W X Y&lt;br /&gt;
 
 
 
- &lt;br/&gt;
+ &lt;br /&gt;
 3. Use your answers in step 2 to discover the final geocache
-location:&lt;br/&gt;
-   Nde 1d.096 W61 d6.06b&lt;br/&gt;
-&lt;br/&gt;
-4. Verify your answers...&lt;br/&gt;
+location:&lt;br /&gt;
+   Nde 1d.096 W61 d6.06b&lt;br /&gt;
+&lt;br /&gt;
+4. Verify your answers...&lt;br /&gt;
    i. The checksum from step 2 is a + b + c + d + e =
-23&lt;br/&gt;
+23&lt;br /&gt;
    ii. The geocache is located within the park along
-trails or access road, &lt;b&gt;No bush wacking required&lt;/b&gt;&lt;br/&gt;
+trails or access road, &lt;b&gt;No bush wacking required&lt;/b&gt;&lt;br /&gt;
 
 &lt;h2&gt;
 The Passport&lt;/h2&gt;
-&lt;p&gt;You can donwload the passport from &lt;a href=&quot;http://atlanticgeocaching.com/index.php?option=com_docman&amp;amp;task=cat_view&amp;amp;gid=78&amp;amp;Itemid=175&quot;&gt;ACGA or NS Parks&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;P12709Y - Entrance &amp; Parking&lt;br/&gt;N 45° 14.213 W 061° 46.031  </groundspeak:long_description>
+&lt;p&gt;You can donwload the passport from &lt;a href=&quot;http://atlanticgeocaching.com/index.php?option=com_docman&amp;amp;task=cat_view&amp;amp;gid=78&amp;amp;Itemid=175&quot;&gt;ACGA or NS Parks&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;P12709Y - Entrance &amp; Parking&lt;br /&gt;N 45° 14.213 W 061° 46.031  </groundspeak:long_description>
             <groundspeak:encoded_hints>The tree you are looking for is a Larch. The cache is located about 5 feet in a tree.</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="1572745">
-                    <groundspeak:date>2010-08-06T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-08-06T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
                     <groundspeak:text encoded="False">This was #4 of five for us and the easiest one yet.  We were driving around looking for a campsite and spotted this cache.  Got our stamp... now on to St. Peters!  TFTC</groundspeak:text>
@@ -117,18 +165,13 @@ The Passport&lt;/h2&gt;
                 <ox:size>4.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Passport</ox:tag>
-                <ox:tag>Challenge Cache</ox:tag>
-                <ox:tag>Provincial Park</ox:tag>
-            </ox:tags>
             <ox:series id="10482">
                 <ox:name>2010 Nova Scotia Parks Challenge</ox:name>
             </ox:series>
         </ox:opencaching>
     </wpt>
     <wpt lon="-61.086983" lat="45.588733">
-        <time>2008-10-18T03:00:00.000-05:00</time>
+        <time>2008-10-18T08:00:00.000Z</time>
         <name>OX1H7HV</name>
         <desc>CELTIC CACHING ON LENNOX PASSAGE by STAGUNNER, Traditional Cache(1.7/1.9/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1H7HV</url>
@@ -168,14 +211,14 @@ fun.&lt;/h3&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;If you are a
-Geocacher in Atlantic Canada,&lt;br/&gt;
- please join us. The ACGA is your gateway to&lt;br/&gt;
+Geocacher in Atlantic Canada,&lt;br /&gt;
+ please join us. The ACGA is your gateway to&lt;br /&gt;
  caching in and around the East Coast.&lt;/b&gt;&lt;/p&gt;
 
 </groundspeak:long_description>
             <groundspeak:logs>
                 <groundspeak:log id="1572229">
-                    <groundspeak:date>2010-08-08T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-08-08T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
                     <groundspeak:text encoded="False">Mmmm, the crabs on this beach were HUGE!  I wonder if they were eaten by humans or seagulls?  TFTC</groundspeak:text>
@@ -191,8 +234,302 @@ Geocacher in Atlantic Canada,&lt;br/&gt;
             </ox:ratings>
         </ox:opencaching>
     </wpt>
+    <wpt lon="-61.9841" lat="45.62085">
+        <time>2012-05-30T17:46:31.000Z</time>
+        <name>OXZTG3Y</name>
+        <desc>Piper in The Glen by WAYHIKER, Traditional Cache(2.6/2.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTG3Y</url>
+        <urlname>Piper in The Glen</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28465903">
+            <groundspeak:name>Piper in The Glen</groundspeak:name>
+            <groundspeak:placed_by>WAYHIKER</groundspeak:placed_by>
+            <groundspeak:owner id="99632">WAYHIKER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The longest running Highland Games in North America have been run on Columbus field, combining a public park and walking track. There is parking close by, and cycling is an option while a walk or hike from the town is quite possible. The &quot;Glen&quot; is shaded. It is a beautiful spot to take pictures. The pipes and drums are tuned and practiced in the &quot;Glen&quot; during the games. Salmon fishing is a favourite activity in the river bordering the field. The river is hard to see in the evening; do not look for &quot;Piper in The Glen&quot; after dusk. Look near the confluence of the West River and Brierly Brook behind Columbus Field.</groundspeak:long_description>
+            <groundspeak:encoded_hints>The large, split maple is in play</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>3.5</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>The Split Maple.jpg</ox:name>
+                    <ox:size>145235</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Close-up - The Split Maple.jpg</ox:name>
+                    <ox:size>129246</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Into the Glen.jpg</ox:name>
+                    <ox:size>137358</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Enter the Glen from Columbus Field.jpg</ox:name>
+                    <ox:size>127585</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>The confluence of West River and Brierly Brook.jpg</ox:name>
+                    <ox:size>104478</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>The West River, head of Columbus Field.jpg</ox:name>
+                    <ox:size>101792</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-61.9948" lat="45.6213833">
+        <time>2012-06-02T12:42:43.000Z</time>
+        <name>OXZTFJB</name>
+        <desc>&quot;The Mayor&quot; CHC by WAYHIKER, Traditional Cache(1.6/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTFJB</url>
+        <urlname>&quot;The Mayor&quot; CHC</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28465389">
+            <groundspeak:name>&quot;The Mayor&quot; CHC</groundspeak:name>
+            <groundspeak:placed_by>WAYHIKER</groundspeak:placed_by>
+            <groundspeak:owner id="99632">WAYHIKER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Colin H. Chisholm, Antigonish Mayor 1970 – 1994, was recognized for his long public service when the west Main Street park was named in his honour. The Antigonish park is tucked away between the William Henry Federal Building and Whidden's Bridge. It plays host to outdoor concerts, highland dancing exhibitions, and is a great spot to hunt for the “The Mayor's” geocache. &lt;br/&gt;&lt;br/&gt;Chisholm served with the Cape Breton Highlanders in North West Europe during World War II. After the war he was employed by the Canadian Department of Agriculture and taught in Truro, Nova Scotia at the College of Agriculture. He was elected to Nova Scotia's legislature in 1949 and served until 1956. &lt;br/&gt;&lt;br/&gt;He received the Nova Scotia Environmental award in recognition of his leadership establishing the Brierly Brook flood control dam and for his efforts to manage and treat waste water in Antigonish. St. Francis Xavier University, Antigonish presented an Honorary Doctorate of Laws to “The Mayor” in 1989.  &lt;br/&gt;&lt;br/&gt;After locating (1) The Landing, Hierlily, and Estuary and (2) Piper in The Glen make your way to the Colin H. Chisholm Park west end Main Street to hunt for (3) &quot;The Mayor&quot;.&lt;br/&gt;&lt;br/&gt;I entered the coordinates using a Garmin Dakota 10.   </groundspeak:long_description>
+            <groundspeak:encoded_hints>The Mayor's stairs.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2042705">
+                    <groundspeak:date>2012-08-26T03:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="145155">EastCoastMommy</groundspeak:finder>
+                    <groundspeak:text encoded="False">This was our first attempt to geocache, and we found the treasures easily.  My three pirates (6, 5, and 3) were very excited to find it.  Thanks to Wayhiker!
+
+We left some treasures behind too.  :-)
+
+This is a great one to try if this is your first time geocaching.  :-)</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Chisholm Park - View from Mayor's stairs 1.jpg</ox:name>
+                    <ox:size>115487</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Antigonish - From The Mayor's Stairs.jpg</ox:name>
+                    <ox:size>110257</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Under the Mayor's stairs.jpg</ox:name>
+                    <ox:size>124031</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>The Mayor's stairs.jpg</ox:name>
+                    <ox:size>51515</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Chisholm Park.jpg</ox:name>
+                    <ox:size>120667</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Chisholm Park - Along the Brierly 1.jpg</ox:name>
+                    <ox:size>169376</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>The Mayor geocache container.jpg</ox:name>
+                    <ox:size>148630</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-61.9608333" lat="45.6296">
+        <time>2012-05-31T13:14:58.000Z</time>
+        <name>OXZTFMC</name>
+        <desc>The Landing, Hierlihy and Estuary by WAYHIKER, Traditional Cache(2.8/1.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTFMC</url>
+        <urlname>The Landing, Hierlihy and Estuary</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28465452">
+            <groundspeak:name>The Landing, Hierlihy and Estuary</groundspeak:name>
+            <groundspeak:placed_by>WAYHIKER</groundspeak:placed_by>
+            <groundspeak:owner id="99632">WAYHIKER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Antigonish Harbour was first settled in 1784 by Irish soldiers loyal to the British side in the American Revolution. When disbanded these Irish soldiers, led by Captain Timothy Hierlihy received a large land grant. The grant was originally along Route 337 bordering Antigonish Harbour. A section of the Harbour is called Antigonish Landing which includes a 2 square km wildlife sanctuary on Antigonish's east end. In 1967 the Antigonish Fish and Game Association spearheaded a drive to create the sanctuary and trail. Antigonish Landing borders an estuary, where three rivers, the West, South and Wrights, feed into Antigonish Harbour. The harbour is a large saltwater tidal estuary emptying into St George's Bay.&lt;br/&gt;&lt;br/&gt;Today, Antigonish &quot;Landing” is home to a walking trail. The walking trail offers a 4 km return hike along Antigonish Harbour in a designated Wild Life Management Area. Start your walk at either end of the trail. Turn right on Adam Street just cross the train tracks or continue along Route 337, past the hospital and turn right at Tony’s Meats. Improvements to the trail include two elevated platforms providing an unobstructed seasonal view of great blue heron, sandpipers, gulls, osprey, eagles and six varieties of duck in the wildlife sanctuary.  &lt;br/&gt;&lt;br/&gt;The Landing, Hierlihy, and Estuary is located along the trail. Use the pictures, and other information found here to locate the cache.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Always look under if you intend to watch birds from the platform.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2042702">
+                    <groundspeak:date>2012-08-26T03:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="145155">EastCoastMommy</groundspeak:finder>
+                    <groundspeak:text encoded="False">We found this treasure after we found &quot;The Mayor&quot;.  It was a little harder to find, but still doable with our little pirates (6, 5, and 3).
+
+We left a fun treasure behind too.  :-)</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.8</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Historic site</ox:tag>
+                <ox:tag>Verifiable</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Bird watching platform.jpg</ox:name>
+                    <ox:size>117866</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Path to bird watching platform.jpg</ox:name>
+                    <ox:size>162448</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>View from bird watching platform.jpg</ox:name>
+                    <ox:size>157650</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>View below cache site.jpg</ox:name>
+                    <ox:size>95964</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-61.8237833" lat="45.6680833">
+        <time>2012-05-07T22:58:39.000Z</time>
+        <name>OX3JXZY</name>
+        <desc>Monk's Head Park Reserve by ACGA, Traditional Cache(2.7/2.8/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3JXZY</url>
+        <urlname>Monk's Head Park Reserve</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3334668">
+            <groundspeak:name>Monk's Head Park Reserve</groundspeak:name>
+            <groundspeak:placed_by>ACGA</groundspeak:placed_by>
+            <groundspeak:owner id="600">ACGA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;a href=&quot;http://novascotiaparks.ca&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://atlanticgeocaching.com&quot;&gt;&lt;/a&gt;&lt;br /&gt;
+
+&lt;p&gt;&lt;b&gt;Nova Scotia Parks Help Mitigate The Affects Of Climate Change&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Parks and protected areas are increasingly being recognized for the important role they play as a resource for mitigating and adapting to climate change. There is a growing body of evidence indicating the world’s climate is changing and adaptation will be necessary if societal and natural conditions are to exist as they do today.&lt;/p&gt;
+&lt;p&gt;Parks protect ecosystems and the services they provide for people; they store vast quantities of carbon, preventing its conversion to greenhouse gases and they provide safe havens for wildlife. Parks are managed to encourage forest to develop naturally. Forests and forest soils play a vital part in the carbon cycle, and can act as either a carbon source or a carbon sink.&lt;/p&gt;
+&lt;p&gt;A forest is a carbon sink when it absorbs more carbon than it releases. The thickness of the dead organic forest floor (duff layer), is directly related to the amount of carbon stored. Assuming forest floor material contains or stores on average about 40% carbon and has an average density of 0.15 milligrams per metre3, each cm in depth of forest floor equates to about 6 tonnes per hectare of stored carbon.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For example&lt;/strong&gt;, if the forest floor is 10 cm thick, it contains about &lt;em&gt;10 x 6 = 60 tonnes per hectares of carbon&lt;/em&gt;. There is also lots of carbon stored deeper in the soil, in deadwood on the ground, and in living plants.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Measure the thickness of the organic forest floor (duff); do not include large pieces of dead wood or living plants. Record the thickness of the duff layer on the space provided, use the punch found in each cache to punch your passport.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Each geocache will have a ruler to make your measurements.&lt;/p&gt;
+&lt;p&gt;You can also estimate the mass of carbon in tonnes per hectare stored in the forest floor at each location by using the formula provided above. Compare the measurements taken under various forest and site conditions.&lt;/p&gt;
+
+&lt;br /&gt;
+This geocache is part of the 2012 NS Provincial Parks Geocaching challenge. For more information about the geocaching challenge, click the following &lt;a href=&quot;http://atlanticgeocaching.com/index.php/2012-03-05-22-43-59/news-a-events/238-nova-scotia-parks-geocaching-challenge-event&quot;&gt;LINK&lt;/a&gt; for more information.  To participate in the challenge, you will need to download the associated &lt;a href=&quot;http://atlanticgeocaching.com/index.php/downloads-2/category/2-nova-scotia-parks-downloads&quot;&gt;PASSPORT&lt;/a&gt;. At each geocache, there is a punch that you can mark the corresponding box on your passport. Collect all 5 and you can send in your passport to receive a free trackable geocoin.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;h2&gt;The Passport&lt;/h2&gt;
+&lt;p&gt;You can download the passport from &lt;a href=&quot;http://atlanticgeocaching.com/index.php/downloads-2/category/2-nova-scotia-parks-downloads&quot;&gt;ACGA&lt;/a&gt; or &lt;a href=&quot;http://novascotiaparks.ca/misc/geocaching.asp&quot;&gt;NS Parks&lt;/a&gt;.&lt;/p&gt;
+</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="2042706">
+                    <groundspeak:date>2012-08-26T03:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="145155">EastCoastMommy</groundspeak:finder>
+                    <groundspeak:text encoded="False">We tried hard.  Couldn't find it.  Any hints?  Maybe we could try again.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.7</ox:difficulty>
+                <ox:size>3.3</ox:size>
+                <ox:terrain>2.8</ox:terrain>
+            </ox:ratings>
+            <ox:series id="14320">
+                <ox:name>2012 Nova Scotia Parks Challenge</ox:name>
+            </ox:series>
+        </ox:opencaching>
+    </wpt>
     <wpt lon="-61.202083" lat="45.6887">
-        <time>2008-10-18T03:00:00.000-05:00</time>
+        <time>2008-10-18T08:00:00.000Z</time>
         <name>OX1H5JB</name>
         <desc>CELTIC CACHING AT THE GRAVEL PIT by STAGUNNER, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1H5JB</url>
@@ -233,8 +570,8 @@ Clevland to Dundee. &lt;/h3&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;If you are a
-Geocacher in Atlantic Canada,&lt;br/&gt;
- please join us. The ACGA is your gateway to&lt;br/&gt;
+Geocacher in Atlantic Canada,&lt;br /&gt;
+ please join us. The ACGA is your gateway to&lt;br /&gt;
  caching in and around the East Coast.&lt;/b&gt;&lt;/p&gt;
 
 
@@ -252,9 +589,9 @@ Caching&lt;/strong&gt;&lt;/p&gt;</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="-61.173417" lat="45.703617">
-        <time>2008-10-18T03:00:00.000-05:00</time>
+        <time>2008-10-18T08:00:00.000Z</time>
         <name>OX1H5JT</name>
-        <desc>CELTIC CACHING BY THE WEST BAY CEMETARY by STAGUNNER, Traditional Cache(1.9/2.1/3.0)</desc>
+        <desc>CELTIC CACHING BY THE WEST BAY CEMETARY by STAGUNNER, Traditional Cache(1.9/2.0/2.9)</desc>
         <url>http://www.opencaching.com/#geocache/OX1H5JT</url>
         <urlname>CELTIC CACHING BY THE WEST BAY CEMETARY</urlname>
         <sym>Geocache</sym>
@@ -294,23 +631,31 @@ setting&lt;/h3&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;If you are a
-Geocacher in Atlantic Canada,&lt;br/&gt;
- please join us. The ACGA is your gateway to&lt;br/&gt;
+Geocacher in Atlantic Canada,&lt;br /&gt;
+ please join us. The ACGA is your gateway to&lt;br /&gt;
  caching in and around the East Coast.&lt;/b&gt;&lt;/p&gt;
 
 </groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="2057632">
+                    <groundspeak:date>2012-09-01T03:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="146356">LURPDOGS</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:awesomeness>2.9</ox:awesomeness>
                 <ox:difficulty>1.9</ox:difficulty>
-                <ox:size>4.0</ox:size>
-                <ox:terrain>2.1</ox:terrain>
+                <ox:size>3.8</ox:size>
+                <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
         </ox:opencaching>
     </wpt>
     <wpt lon="-61.1101" lat="45.96605">
-        <time>2011-05-19T02:00:00.000-05:00</time>
+        <time>2011-05-19T07:00:00.000Z</time>
         <name>OX2TJ7V</name>
         <desc>Whycocomagh Provincial Park by ACGA, Traditional Cache(2.5/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2TJ7V</url>
@@ -325,36 +670,22 @@ Geocacher in Atlantic Canada,&lt;br/&gt;
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Whycocomagh is a Mi’kmaq word which means 'Head of the Waters' referring to the geographic location within the Bras d’Or Lake. Indian Island, which is visable from Whycocomagh Park, plays a significant role in the culture and heritage of the local First Nations' people. As a place detached from the main encampment lands, it has always been regarded as a spiritual place. Local stories indicate the island was never used for long term habitation, although within the past century it had been used as burial grounds. Indian Island has had active Bald Eagle nests in the past, usually in the majestic Eastern White Pine trees that are found scattered on the islands' interior.
-
-Legend of the first Pine Tree: There were three brothers dwelling together, when they heard that Glooskap had promised to fufil the wish of warrior who reached his magic lodge, they decided to make the trip. The first brother was very tall, far above all his fellows, and vain of his height, but he wished to be taller, so that all the females would admire him. The second brother wished that he might remain forever in the forest, beholding its beauty, and that he need never work again. The third brother wished to live to a very old age, and always to be in perfect health.
-
-So the three brothers started on their way along the dangerous trail that led to Glooskap's lodge. They came to a high mountain in a dark and lonely land. The side of the mountain was as smooth as iron, and the other side was worse, for there the trail led between the heads of two huge serpents, who darted out their tongues. The trail passed under the Wall of Death which hung over it like a cloud, rising, and falling, and rising again. And if it happened that any man passed beneath the cloud as it fell, he was crushed to death.
-
-But the three brothers escaped all these perils of the trail, and came to the island where Glooskap dwelt. The mighty Magician welcomed them, and bade his younger brother, Martin the Fairy, place food before them. After they had eaten and were refreshed, they told their wishes.
-
-In another lodge near by lived Cuhkw the Earthquake, he could pass along the face of the land, and make all things shake with terror. Glooskap called Cuhkw, and made him take the three brothers, and plant them with their feet in the ground. Immediately Cuhkw came rushing from his lodge, and, seizing the three, planted them in the forest. And they became three straight Pine Trees.
-
-The first brother, who wished to be exceedingly tall, was the highest Pine Tree on earth. His head rose above the forest and the wind whistled through his boughs. The second brother, who wished to remain in the forest, and admire its beauty without working, could never leave it again; because his roots were fastened deep in the ground. The third brother, who wished to live to a very old age, in perfect health, gained his desire. Today he stands hale and hearty in the forest, unless men have cut him down.
-
-
-
-
-This geocache is part of the 2011 NS Provincial Parks Geocaching challenge. For more information about the geocaching challenge, click the following LINK for more information. To participate in the challenge, you will need to download the associated PASSPORT. At each geocache, there is a punch that you can mark the corresponding box on your passport. Collect all 5 and you can send in your passport to receive a free trackable geocoin.
-
-
-The Passport
-You can donwload the passport from &lt;a href=&quot;http://atlanticgeocaching.com/index.php?option=com_docman&amp;amp;task=cat_view&amp;amp;gid=78&amp;amp;Itemid=175&quot;&gt;ACGA or NS Parks&lt;/a&gt;.
- </groundspeak:long_description>
+            <groundspeak:long_description html="True">Whycocomagh is a Mi’kmaq word which means 'Head of the Waters' referring to the geographic location within the Bras d’Or Lake. Indian Island, which is visable from Whycocomagh Park, plays a significant role in the culture and heritage of the local First Nations' people. As a place detached from the main encampment lands, it has always been regarded as a spiritual place. Local stories indicate the island was never used for long term habitation, although within the past century it had been used as burial grounds. Indian Island has had active Bald Eagle nests in the past, usually in the majestic Eastern White Pine trees that are found scattered on the islands' interior.&lt;br/&gt;&lt;br/&gt;Legend of the first Pine Tree: There were three brothers dwelling together, when they heard that Glooskap had promised to fufil the wish of warrior who reached his magic lodge, they decided to make the trip. The first brother was very tall, far above all his fellows, and vain of his height, but he wished to be taller, so that all the females would admire him. The second brother wished that he might remain forever in the forest, beholding its beauty, and that he need never work again. The third brother wished to live to a very old age, and always to be in perfect health.&lt;br/&gt;&lt;br/&gt;So the three brothers started on their way along the dangerous trail that led to Glooskap's lodge. They came to a high mountain in a dark and lonely land. The side of the mountain was as smooth as iron, and the other side was worse, for there the trail led between the heads of two huge serpents, who darted out their tongues. The trail passed under the Wall of Death which hung over it like a cloud, rising, and falling, and rising again. And if it happened that any man passed beneath the cloud as it fell, he was crushed to death.&lt;br/&gt;&lt;br/&gt;But the three brothers escaped all these perils of the trail, and came to the island where Glooskap dwelt. The mighty Magician welcomed them, and bade his younger brother, Martin the Fairy, place food before them. After they had eaten and were refreshed, they told their wishes.&lt;br/&gt;&lt;br/&gt;In another lodge near by lived Cuhkw the Earthquake, he could pass along the face of the land, and make all things shake with terror. Glooskap called Cuhkw, and made him take the three brothers, and plant them with their feet in the ground. Immediately Cuhkw came rushing from his lodge, and, seizing the three, planted them in the forest. And they became three straight Pine Trees.&lt;br/&gt;&lt;br/&gt;The first brother, who wished to be exceedingly tall, was the highest Pine Tree on earth. His head rose above the forest and the wind whistled through his boughs. The second brother, who wished to remain in the forest, and admire its beauty without working, could never leave it again; because his roots were fastened deep in the ground. The third brother, who wished to live to a very old age, in perfect health, gained his desire. Today he stands hale and hearty in the forest, unless men have cut him down.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This geocache is part of the 2011 NS Provincial Parks Geocaching challenge. For more information about the geocaching challenge, click the following LINK for more information. To participate in the challenge, you will need to download the associated PASSPORT. At each geocache, there is a punch that you can mark the corresponding box on your passport. Collect all 5 and you can send in your passport to receive a free trackable geocoin.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The Passport&lt;br/&gt;You can donwload the passport from &lt;a href=&quot;http://atlanticgeocaching.com/index.php?option=com_docman&amp;amp;task=cat_view&amp;amp;gid=78&amp;amp;Itemid=175&quot;&gt;ACGA or NS Parks&lt;/a&gt;.&lt;br/&gt; </groundspeak:long_description>
             <groundspeak:logs>
                 <groundspeak:log id="1644808">
-                    <groundspeak:date>2011-09-07T17:00:00.000-05:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:date>2011-09-07T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
                     <groundspeak:finder id="67054">WOMBAT378A</groundspeak:finder>
                     <groundspeak:text encoded="False">That was really funny - just found it on our way back home to Germany, TFTC</groundspeak:text>
                 </groundspeak:log>
+                <groundspeak:log id="1748532">
+                    <groundspeak:date>2011-09-07T19:28:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="67054">WOMBAT378A</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
                 <groundspeak:log id="1572242">
-                    <groundspeak:date>2011-08-21T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-08-21T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="24905">LEONAC40</groundspeak:finder>
                     <groundspeak:text encoded="False">Thanks for the easy cache and dropped a TB.</groundspeak:text>
@@ -368,17 +699,13 @@ You can donwload the passport from &lt;a href=&quot;http://atlanticgeocaching.co
                 <ox:size>3.9</ox:size>
                 <ox:terrain>2.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Passport</ox:tag>
-                <ox:tag>Provincial Park</ox:tag>
-            </ox:tags>
             <ox:series id="10483">
                 <ox:name>2011 Nova Scotia Parks Challenge</ox:name>
             </ox:series>
         </ox:opencaching>
     </wpt>
     <wpt lon="-61.0259" lat="46.6488333">
-        <time>2008-12-26T02:00:00.000-06:00</time>
+        <time>2008-12-26T08:00:00.000Z</time>
         <name>OX1K5X2</name>
         <desc>Frenchy's Playground - Welcome Home by AcadianCacheSpies, Traditional Cache(1.4/1.6/2.9)</desc>
         <url>http://www.opencaching.com/#geocache/OX1K5X2</url>
@@ -393,23 +720,17 @@ You can donwload the passport from &lt;a href=&quot;http://atlanticgeocaching.co
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">During my university years, I would return to Cheticamp in the spring and fish as a means to pay off my education. After long days of fishing in the Gulf of St. Lawrence, this spot would always be the one to first welcome us home. 
-
-This will be a quick park n grab but you can take all the time in the world and enjoy the ocean and mountain scene.Please keep an eye out for livestock as this is a community pasture site. Please also respect the regulations posted on the large sign as you enter the community pasture. 
-
-The cache is a small camo'd lock n' lock container containing a log book, pencil, a tattoo, a Canadian cacher 
-zipper pull, an outdoor mirror and for the FTF - Canada 2007 Geocoin and a Canadian cacher pin. 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">During my university years, I would return to Cheticamp in the spring and fish as a means to pay off my education. After long days of fishing in the Gulf of St. Lawrence, this spot would always be the one to first welcome us home. &lt;br/&gt;&lt;br/&gt;This will be a quick park n grab but you can take all the time in the world and enjoy the ocean and mountain scene.Please keep an eye out for livestock as this is a community pasture site. Please also respect the regulations posted on the large sign as you enter the community pasture. &lt;br/&gt;&lt;br/&gt;The cache is a small camo'd lock n' lock container containing a log book, pencil, a tattoo, a Canadian cacher &lt;br/&gt;zipper pull, an outdoor mirror and for the FTF - Canada 2007 Geocoin and a Canadian cacher pin. &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Low to the ground</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="1558959">
-                    <groundspeak:date>2011-08-14T22:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-08-15T03:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="60554">Margaree</groundspeak:finder>
                     <groundspeak:text encoded="False">My first day geocaching and my second cahce of the day. Thanks!</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1139930">
-                    <groundspeak:date>2010-06-04T22:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-06-05T03:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="1193">STAGUNNER</groundspeak:finder>
                     <groundspeak:text encoded="False">Thanks for listing your caches on this site too</groundspeak:text>
@@ -423,8 +744,66 @@ zipper pull, an outdoor mirror and for the FTF - Canada 2007 Geocoin and a Canad
                 <ox:size>2.8</ox:size>
                 <ox:terrain>1.6</ox:terrain>
             </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-61.8881389" lat="47.388">
+        <time>2012-05-13T20:57:03.000Z</time>
+        <name>OXZTJ8W</name>
+        <desc>Hunger Games - Day 1, option 1 by ScavengerHunter, Traditional Cache(2.7/3.2/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTJ8W</url>
+        <urlname>Hunger Games - Day 1, option 1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28467978">
+            <groundspeak:name>Hunger Games - Day 1, option 1</groundspeak:name>
+            <groundspeak:placed_by>ScavengerHunter</groundspeak:placed_by>
+            <groundspeak:owner id="117083">ScavengerHunter</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Little jar, with a cute little not on its cover :) You will need to do this for a period of ten days </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.7</ox:difficulty>
+                <ox:size>2.8</ox:size>
+                <ox:terrain>3.2</ox:terrain>
+            </ox:ratings>
             <ox:tags>
-                <ox:tag>Scenic Views</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-61.8887222" lat="47.3884444">
+        <time>2012-05-13T21:10:05.000Z</time>
+        <name>OXZTJ8T</name>
+        <desc>Hunger Games - Day 1, Starting point  by ScavengerHunter, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTJ8T</url>
+        <urlname>Hunger Games - Day 1, Starting point </urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28467976">
+            <groundspeak:name>Hunger Games - Day 1, Starting point </groundspeak:name>
+            <groundspeak:placed_by>ScavengerHunter</groundspeak:placed_by>
+            <groundspeak:owner id="117083">ScavengerHunter</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Happy Geocaching :)</groundspeak:long_description>
+            <groundspeak:encoded_hints>Front doorstep :D</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
             </ox:tags>
         </ox:opencaching>
     </wpt>

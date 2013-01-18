@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>6 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,85,90,86</url>
-    <time>2012-01-04T09:32:38.058-06:00</time>
+    <time>2012-12-19T22:57:04.940Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="86.0" maxlat="90.0" minlon="85.0" minlat="-90.0"/>
     <wpt lon="85.3253333" lat="27.7259">
-        <time>2011-11-26T07:58:25.000-06:00</time>
+        <time>2011-11-26T13:58:25.000Z</time>
         <name>OXZTNCP</name>
         <desc>Tulsi's Treasure Chest by Jim&amp;Bev, Traditional Cache(1.0/1.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTNCP</url>
@@ -24,11 +24,7 @@
             <groundspeak:container>Large</groundspeak:container>
             <groundspeak:difficulty>1</groundspeak:difficulty>
             <groundspeak:terrain>1</groundspeak:terrain>
-            <groundspeak:long_description html="True">A secure cache close to Thamel. Kathmandu and to the Hotel Sangri La.
-
-It is located close to Thamel and a close Nepalese friend has agreed to maintain it for us. This adds to the opportunity for geocachers in Nepal. We have double checked the co-ordinates, not easy in Kathmandu, but just in case you can telephone Tel:- 0977-1-4414492, 4421183 and you will be helped with directions to the cache.
-
-There is room for TB's etc and you will be offered a drink!</groundspeak:long_description>
+            <groundspeak:long_description html="True">A secure cache close to Thamel. Kathmandu and to the Hotel Sangri La.&lt;br/&gt;&lt;br/&gt;It is located close to Thamel and a close Nepalese friend has agreed to maintain it for us. This adds to the opportunity for geocachers in Nepal. We have double checked the co-ordinates, not easy in Kathmandu, but just in case you can telephone Tel:- 0977-1-4414492, 4421183 and you will be helped with directions to the cache.&lt;br/&gt;&lt;br/&gt;There is room for TB's etc and you will be offered a drink!</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -38,7 +34,253 @@ There is room for TB's etc and you will be offered a drink!</groundspeak:long_de
                 <ox:terrain>1.0</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>No street names here!!</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="85.5827334" lat="51.0339667">
+        <time>2007-07-28T05:00:00.000Z</time>
+        <name>OXZTEKX</name>
+        <desc>Семинский перевал by aleks-d, Traditional Cache(2.0/4.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTEKX</url>
+        <urlname>Семинский перевал</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28464476">
+            <groundspeak:name>Семинский перевал</groundspeak:name>
+            <groundspeak:placed_by>aleks-d</groundspeak:placed_by>
+            <groundspeak:owner id="100701">aleks-d</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">Онгудайский, Шебалино
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;Бийск - Чуйский тракт - перевал Семинский.&lt;br /&gt;на машине до спортивной базы, а далее пешочком на вершину.&lt;br /&gt;Тайник находится за спортивной базой на вершине, рядом с высотной отметкой(бетонный куб) у основания выступа, аккуратно завален камнями.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Семинский.jpg</ox:name>
+                    <ox:size>159194</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="85.9266333" lat="51.54185">
+        <time>2012-06-06T08:22:29.000Z</time>
+        <name>OXZTFAP</name>
+        <desc>А горы все выше, а горы все круче. by aleks-d, Traditional Cache(2.0/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTFAP</url>
+        <urlname>А горы все выше, а горы все круче.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28465152">
+            <groundspeak:name>А горы все выше, а горы все круче.</groundspeak:name>
+            <groundspeak:placed_by>aleks-d</groundspeak:placed_by>
+            <groundspeak:owner id="100701">aleks-d</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Для того чтобы взять тайник необходимо по хребту забраться на одну из вершин горы Притор. Высота самой горы 998м. Путешествие лучше начать по уже проложенной тропе (начало широта 51 32.615 долгота 85 54,539) Машину если таковая имеется оставить возле многочисленных магазинчиков турбазы &quot;Катунь&quot;&lt;br/&gt;&lt;br/&gt;По мере продвижения перед вами будет все больше открыватся красивейшая панорама. Стоит захватить с собой попить, ибо подъем хоть и не особо сложный, но весьма энергоемкий.&lt;br/&gt;&lt;br/&gt;Сам тайник заложен в камнях чуть поодаль от основной тропы. Осторожно - змеи. </groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1956531">
+                    <groundspeak:date>2012-07-07T05:52:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="100701">aleks-d</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.6</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>35191.jpg</ox:name>
+                    <ox:size>75695</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>8261.jpg</ox:name>
+                    <ox:size>171888</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>35198.jpg</ox:name>
+                    <ox:size>72628</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>35196.jpg</ox:name>
+                    <ox:size>198126</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>35197.jpg</ox:name>
+                    <ox:size>159293</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>35192.jpg</ox:name>
+                    <ox:size>92519</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="85.8165" lat="51.8283167">
+        <time>2010-06-13T05:00:00.000Z</time>
+        <name>OXZTFAR</name>
+        <desc>Что такое Манжерок? by aleks-d, Traditional Cache(3.0/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTFAR</url>
+        <urlname>Что такое Манжерок?</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28465154">
+            <groundspeak:name>Что такое Манжерок?</groundspeak:name>
+            <groundspeak:placed_by>aleks-d</groundspeak:placed_by>
+            <groundspeak:owner id="100701">aleks-d</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Майминский, Озерное
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;Чтобы добраться до тайника, если ехать по тракту на юг, то после памятника В.Я. Шишкову, возле села Манжерок, нужно свернуть налево на идущую в гору дорогу к селу Озерное. Из села влево выходит дорога, идущая вдоль озера, по которой необходимо проехать до противоположной оконечности озера. Здесь под тройной берзой и находиться тайник. Контейнер упакован в чрный пакет и замаскирован дрном.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1956530">
+                    <groundspeak:date>2012-07-09T05:29:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="100701">aleks-d</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="85.3376833" lat="54.5195667">
+        <time>2012-08-13T05:09:18.000Z</time>
+        <name>OXZTDPA</name>
+        <desc>озеро Апрелька by aleks-d, Traditional Cache(2.0/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTDPA</url>
+        <urlname>озеро Апрелька</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28463590">
+            <groundspeak:name>озеро Апрелька</groundspeak:name>
+            <groundspeak:placed_by>aleks-d</groundspeak:placed_by>
+            <groundspeak:owner id="100701">aleks-d</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Бирюзовое озеро возле деревни Апрелька одно из удивительных мест в Кузбассе. Говорят, что оно образовалось на месте бывшего карьера, где стояли драги, намывающие золото. Так что озеро практически бездонное, во всяком случае, старожилы затрудняются сказать, какая тут глубина. И при ясной погоде с солнцем на небе, и при хмурой с серыми тучами вода в озере не просто сине-голубая, а бирюзовая. Трудно взгляд отвести. Название озеру дали такое же, как и у близлежащей деревни – Апрелька. Сама деревенька, где местного населения уже меньше, чем дачного, входит в состав Урского поселения. А последнее относится к Гурьевскому району. &lt;br/&gt;&lt;br/&gt;Каждый год едут на Апрельское озеро, множество людей.  Говорят, что и сама вода исцеляющая, но еще больше лечит глина, которой на берегах озера хоть ковшом экскаватора черпай. От компрессов с нею якобы уже на другой день заживают раны, перестает ломить суставы, а цветов этой глины… белая, голубая, красная, желтая, черная, зеленая, золотистая, серебристая и просто перемешанная всеми цветами глина.  &lt;br/&gt;&lt;br/&gt;Как добраться:&lt;br/&gt;&lt;br/&gt;Дорога на бирюзовое озеро проста. От Кемерова в сторону горнолыжного комплекса Танай в Промышленновском районе. Добравшись до трассы Ленинск-Новосибирск, сворачиваем в сторону Ленинска, проезжаем старинное село Красное, и направляеемся в деревню Аринчево, но берем правее, мимо деревни Кокуй и въезжаем в красивейшую деревеньку Хрестиновку. А уж отсюда ведет одна дорога – на Гурьевск. Но уже через пять минут появится Апрелька и сразу за ней озеро. Обрывистый берег в 50 метрах от трассы.  &lt;br/&gt;&lt;br/&gt;Убедительная просьба, увозите свой мусор с собой. Многочисленные туристы и так все кругом по загадили. Давайте будем беречь то, что дала нам природа. </groundspeak:long_description>
+            <groundspeak:encoded_hints>Тайник находится вдоль озера в лесочке у кривой сосны в корнях слегка закопан у основания дерева.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.7</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>DSC06945-------.jpg</ox:name>
+                    <ox:size>112214</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>DSC06958----.jpg</ox:name>
+                    <ox:size>110769</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="85.6130833" lat="55.6649833">
+        <time>2009-07-19T05:00:00.000Z</time>
+        <name>OXZTF5R</name>
+        <desc>Томская писаница by aleks-d, Traditional Cache(2.0/3.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTF5R</url>
+        <urlname>Томская писаница</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28464999">
+            <groundspeak:name>Томская писаница</groundspeak:name>
+            <groundspeak:placed_by>aleks-d</groundspeak:placed_by>
+            <groundspeak:owner id="100701">aleks-d</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Кемеровский, д. Писаная
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;Тайник заложен на высоком берегу р. Томь, примерно в 300 метрах ниже по течению от скал Писаницы. Подъем по склону требует некоторой осторожности. Наверху - кустарник. Ориентиры рядом с местом закладки - сосна со светлым стволом и пара берез - хорошо видны с берега. (см, фотоальбом)
+Контейнер закопан в корнях пары близко друг к другу растущих сосен, с дальней от реки стороны.
+ </groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="2026441">
+                    <groundspeak:date>2012-08-05T07:52:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="100701">aleks-d</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="2026450">
+                    <groundspeak:date>2012-07-19T08:50:00.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="100701">aleks-d</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
             </ox:tags>
         </ox:opencaching>
     </wpt>

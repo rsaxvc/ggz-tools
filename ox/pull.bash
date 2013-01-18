@@ -1,4 +1,5 @@
 #!/bin/bash
+cd geocaches
 wget http://www.opencaching.com/api/geocache.gpx\?limit=5000\&log_limit=9999\&bbox=-90,-180,90,-179
 wget http://www.opencaching.com/api/geocache.gpx\?limit=5000\&log_limit=9999\&bbox=-90,-179,90,-178
 wget http://www.opencaching.com/api/geocache.gpx\?limit=5000\&log_limit=9999\&bbox=-90,-178,90,-177
@@ -360,3 +361,4 @@ wget http://www.opencaching.com/api/geocache.gpx\?limit=5000\&log_limit=9999\&bb
 wget http://www.opencaching.com/api/geocache.gpx\?limit=5000\&log_limit=9999\&bbox=-90,178,90,179
 wget http://www.opencaching.com/api/geocache.gpx\?limit=5000\&log_limit=9999\&bbox=-90,179,90,180
 
+cd ..

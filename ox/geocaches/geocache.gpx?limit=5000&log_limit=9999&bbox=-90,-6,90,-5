@@ -1,15 +1,260 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>46 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,-6,90,-5</url>
-    <time>2012-01-04T09:29:22.560-06:00</time>
+    <time>2012-12-19T22:45:24.372Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="-5.0" maxlat="90.0" minlon="-6.0" minlat="-90.0"/>
+    <wpt lon="-5.8321833" lat="37.00745">
+        <time>2012-06-01T20:23:09.000Z</time>
+        <name>OXZTFK2</name>
+        <desc>SDC:Los Caballeros del Zodiaco by liderskull, Traditional Cache(1.6/1.8/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTFK2</url>
+        <urlname>SDC:Los Caballeros del Zodiaco</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28465411">
+            <groundspeak:name>SDC:Los Caballeros del Zodiaco</groundspeak:name>
+            <groundspeak:placed_by>liderskull</groundspeak:placed_by>
+            <groundspeak:owner id="2244">liderskull</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">
+&lt;br /&gt;
+&lt;br /&gt;
+ Desde tiempos inmemoriales, Atenea se ha enfrentado a otros dioses
+que han querido apropiarse de la Tierra.&lt;br /&gt;
+&lt;p&gt;&lt;br /&gt;
+Entre ellos por ejemplo han estado Poseidón, Ares y Hades. Los
+enfrentamientos entre dioses son conocidos como Guerras Santas.
+Varios de los grandes conflictos de la humanidad se han dado
+paralelamente por el surgimiento de estas guerras.&lt;/p&gt;
+&lt;br /&gt;
+
+ 
+&lt;p&gt;&lt;br /&gt;
+La primera Guerra Santa se libró contra Poseidón. Para hacerle
+frente, Atenea convocó a un grupo de jóvenes y valerosos guerreros,
+a los que llamó Santos.&lt;/p&gt;
+
+ 
+&lt;p&gt;&lt;br /&gt;
+Al principio, éstos luchaban sin armas ni protección para sus
+cuerpos. Debido a esto, muchos fueron asesinados por los Generales
+(Marinas) de Poseidón. Para ayudarlos, Atenea creó 88 ropajes
+sagrados o Armaduras , inspirada en las constelaciones del
+firmamento.&lt;/p&gt;
+
+ 
+&lt;p&gt;&lt;br /&gt;
+Con éstas armaduras, los Santos pudieron derrotar a los Generales
+de Poseidón.&lt;/p&gt;
+
+ 
+&lt;p&gt;&lt;br /&gt;
+Según la calidad-el material de la armadura, los santos se dividen
+en tres órdenes: oro, en el escalafón principal, correspondiendo
+con los 12 signos del zodíaco, plata, y bronce.&lt;/p&gt;
+&lt;p&gt;Tras muchas generaciones Atenea, construyó el Santuario en
+Atenas (Grecia). Este Santuario contaba con una estructura
+jerárquica, liderada por la diosa y seguida por el Patriarca o Sumo
+Sacerdote que a su vez lideraba a los 88 Santos.&lt;/p&gt;
+&lt;br /&gt;
+
+&lt;br /&gt;
+&lt;p&gt;El Templo de Atenea se encontraba en el centro del Santuario y
+su única entrada era la cámara del Patriarca. A su vez, para llegar
+a la habitación del Patriarca, el único camino disponible era
+atravesar las doce casas (Templos), cada una de las cuales era
+custodiada por un Santo de Oro.&lt;/p&gt;
+&lt;p&gt;El Patriarca también tiene la función de proteger el Santuario
+de la invasión de personas ajenas al mismo. Para ello, mantiene un
+campo de fuerza, que repele a todas las personas con poca voluntad.
+Esto ayuda a mantener alejados a los turistas que pululan por las
+ruinas griegas cercanas al Santuario.&lt;/p&gt;
+&lt;p&gt;Cada 1000 años la diosa Atenea se reencarna para proteger a la
+tierra y a los seres humanos,de las temibles manos del mal,para
+ello contara en su misión con los Caballeros del Zodiaco, dirigidos
+por el Gran Patriarca, quien velará por Atena hasta que crezca y
+desarrolle todo su
+poder...&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href=&quot;http://www.geobuscadores.com/&quot;&gt;
+&lt;/a&gt;</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>3.1</ox:size>
+                <ox:terrain>1.8</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-5.7559667" lat="37.35735">
+        <time>2012-09-02T13:57:59.000Z</time>
+        <name>OX3VYR8</name>
+        <desc>La Vega de los Alcores by Pincho's Team, Traditional Cache(2.5/3.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3VYR8</url>
+        <urlname>La Vega de los Alcores</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3573750">
+            <groundspeak:name>La Vega de los Alcores</groundspeak:name>
+            <groundspeak:placed_by>Pincho's Team</groundspeak:placed_by>
+            <groundspeak:owner id="138977">Pincho's Team</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">LA VEGA DE LOS ALCORES&lt;br/&gt; &lt;br/&gt;&lt;br/&gt;En el centro del valle inferior del Guadalquivir, la meseta de Los Alcores constituye un singular elemento geográfico.&lt;br/&gt;Coronando las terrazas aluviales del río, a partir del cual asciende en suave pendiente hasta alcanzar su máxima altitud en Carmona (250 metros) en el extremo NE, y la mínima en Alcalá de Guadaira (100 metros) en el extremo opuesto SO entre estos puntos y con un trazado sensiblemente rectilíneo, discurre el escarpe a lo largo del cual el terreno se desploma bruscamente sobre la vega del río Guadaira.&lt;br/&gt;Fernando Amores Carredano, en su Carta Arqueológica de Los Alcores los describe así:&lt;br/&gt;“La configuración geológica del territorio es tripartita: a un lado (Norte, las terrazas o meseta diluvial de formación cuaternaria del Guadalquivir que tiene como topo a Los Alcores, de mayor altura; al otro lado (Sur), la Vega, definida como glacis de erosión, terreno llano y sedimentario; en medio, con trazado diagonal (NE-SPO) la alineación de Los Alcores, de formación marina terciaria, que separa mediante un escarpe, formado por una falla, los dos paisajes anteriores.&lt;br/&gt;Las calcoarenitas que componen el alcor, almacenan agua en gran cantidad, que sale fácilmente por el escarpe hacia la Vega, originando una serie de arroyos de régimen desigual y numerosos fuentes a lo largo de los “puertos” o zonas erosionadas que sirven de fácil paso entre la Vega y las terrazas.”&lt;br/&gt;El clima actual es de tipo mediterráneo con inviernos templados y veranos cálidos y secos. El clima y la topografía han determinado un régimen&lt;br/&gt;histórico de cultivos bastantes rígido: herbáceas en la Vega y olivar de verdeo en las terrazas, mientras que los terrenos próximos a la cima, junto al escarpe, muy ricos en agua se destinan a frutales y hortalizas.&lt;br/&gt;En la línea del alcor, abriéndose a uno de los “puertos”, originados por la erosión de dos arroyos en medio de los cuales se alza un espolón que avanza sobre la vega, se asentara en el transcurso del tiempo el núcleo de Mairena; uno de los cuatro que actualmente se suceden a lo largo de la cornisa.&lt;br/&gt;(fuente : www.mairenadelalcor.org)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt; &lt;br/&gt;   </groundspeak:long_description>
+            <groundspeak:encoded_hints>A los pies del &quot;olor del verano&quot;</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2064037">
+                    <groundspeak:date>2012-09-05T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="138977">Pincho's Team</groundspeak:finder>
+                    <groundspeak:text encoded="False">FTF la pusta no la entendi pero las buenas coordenadas y el sitio facil y predecible fue bastante para no tener casi ni que buscar. Un lugar tranquilo y a la sombra muy bueno para logear en verano jiji gracias por el cache. Esperamos mas :)  19:02.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="2064036">
+                    <groundspeak:date>2012-09-03T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="138977">Pincho's Team</groundspeak:finder>
+                    <groundspeak:text encoded="False">Listo para encontrar, suerte a todos.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>La Vega 3.jpg</ox:name>
+                    <ox:size>74623</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Caché 1.jpg</ox:name>
+                    <ox:size>163122</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-5.746567" lat="37.3698">
+        <time>2012-09-07T07:00:00.000Z</time>
+        <name>OX3WAZR</name>
+        <desc>Castillo de Luna by Pincho's Team, Traditional Cache(1.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3WAZR</url>
+        <urlname>Castillo de Luna</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3585484">
+            <groundspeak:name>Castillo de Luna</groundspeak:name>
+            <groundspeak:placed_by>Pincho's Team</groundspeak:placed_by>
+            <groundspeak:owner id="138977">Pincho's Team</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Preciosa vista del Castillo y de la Vega, es una pena que la zona esté tan abandonada por los servicios municipales de limpieza.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;NANOCACHÉ&lt;br /&gt;
+IMPRESCINDIBLE LAPIZ, BOLI O SIMILAR&lt;br /&gt;
+NEED PEN&lt;/strong&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;h1&gt;&lt;strong&gt;&lt;br /&gt;
+EL CASTILLO DE LUNA&lt;/strong&gt;&lt;/h1&gt;
+El castillo llamado &quot;de Luna&quot;, de Mairena del Alcor es un modelo, bastante bien conservado, de la arquitectura militar cristiana de la Baja Edad Media en el reino de Castilla. &lt;br /&gt;
+Su pretendido origen musulmán, denunciado en su apelativo, parece tener ciertos visos de realidad a juzgar por la afirmación del propio Bonsor que creyó encontrar restos de edificación islámica en  su base. Con certeza sabemos que una torre denominada Mayrena fue entregada a la orden de Calatrava en el repartimiento de Sevilla en 1253. Ningún resto de esta torre ha podido ser localizado en las catas arqueológicas efectuadas con motivo de las obras de emergencia. &lt;br /&gt;
+El edificio actual fue construido en dos fases. La primera data de mediados del s.  XIV, cuando Mairena es entregada, en 1342 a Pedro Ponce de León, por el rey Alfonso XI. En este momento se construye un gran patio de armas cuadrangular de unos 700 m2 , con cuatro torres de unos 7 m. de altura en las esquinas. &lt;br /&gt;
+La segunda fase se localiza en la segunda mitad del s. XV, dentro del ambiente general de las guerras nobiliarias andaluzas de finales del reinado de Enrique IV, protagonizadas, en el ámbito sevillano,  por los Ponce de León y los Guzmanes. Posiblemente se realizan las obras  cuando Rodrigo Ponce de León es expulsado de Sevilla, entre 1471 y 1474. La reforma del castillo consistió en la construcción de una  camisa exterior o antemuro bajo y ancho, un foso excavado en la roca y una veintena de  troneras de artillería. &lt;br /&gt;
+A lo largo de la Edad Moderna el castillo es abandonado y ya en la documentación municipal de principios del s. XIX  aparece citado como una ruina.  A la muerte de Mariano Téllez Girón, duque de Osuna y Arcos, sus numerosos acreedores se hicieron cargo del edificio.En 1902 el arqueólogo ingles Jorge Bonsor Saint-Martín, compra el castillo que hasta 1897 perteneció a la Junta de Acreedores y Obligacionistas del duque.&lt;br /&gt;
+Entre 1903 y 1906 realiza Bonsor diversas obras de consolidación y reconstrucción para instalar en su interior su residencia. En ella acumula los frutos de sus excavaciones arqueológicas, su archivo, la biblioteca, y su colección de pintura, armas y objetos típicos de la comarca.&lt;br /&gt;
+Tras su muerte, en 1930, su viuda, Dolores Simó Ruíz, cuida del edificio hasta su propio fallecimiento en 1979. En 1978, tras un año de negociaciones, el Ayuntamiento de Mairena adquiere la colección Bonsor junto con el material documental y bibliográfico de interés por un importe de 6 millones de pesetas.  Tras  diversas negociaciones , el castillo y el terreno de olivar anexo fueron adquiridos por la Consejería de Cultura de la Junta de Andalucía en 1985, con su mobiliario y algunos objetos artísticos por un total de 35 millones de pesetas.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Jose Manuel Navarro Domínguez&lt;br /&gt;
+Profesor de historia.&lt;/strong&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Arriba</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2064040">
+                    <groundspeak:date>2012-09-07T21:03:03.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="138977">Pincho's Team</groundspeak:finder>
+                    <groundspeak:text encoded="False">Se trata de un nanocache que solo contiene papel para logarse.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-5.758483" lat="37.371183">
+        <time>2012-09-07T07:00:00.000Z</time>
+        <name>OX3WAYC</name>
+        <desc>El Quijote y la Feria by Pincho's Team, Traditional Cache(1.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3WAYC</url>
+        <urlname>El Quijote y la Feria</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3585441">
+            <groundspeak:name>El Quijote y la Feria</groundspeak:name>
+            <groundspeak:placed_by>Pincho's Team</groundspeak:placed_by>
+            <groundspeak:owner id="138977">Pincho's Team</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Desde el lugar se puede ver Al Quijote luchando con los molinos de viento y la Feria (recinto ferial ) mas antigua de la provincia de Sevilla y por eso la primera del año. Si quieres vivirla ven despues de la Semana Santa y antes de la Feria de Sevilla. Te esperamos.&lt;br /&gt;
+&lt;strong&gt;Nanocaché&lt;/strong&gt;&lt;br /&gt;
+NB,: ES IMPRESCINDIBLE LAPIZ, BOLIGRAFO O SIMILAR&lt;br /&gt;
+         NEED PEN&lt;br /&gt;
+&lt;br /&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;ul&gt;
+&lt;li&gt;&lt;b&gt;&lt;a href=&quot;http://es.wikipedia.org/w/index.php?title=Feria_de_Abril_de_Mairena_del_Alcor&amp;amp;action=edit&amp;amp;redlink=1&quot;&gt;Feria de Abril de Mairena del Alcor&lt;/a&gt;, 1ª Feria de Andalucia. (Declarada de Interés Turístico Nacional)&lt;/b&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;El &quot;arco triunfal&quot; de la Feria de Mairena del Alcor es un diseño Neoclásico de ornamentación Barroca del local José Manuel Peña que se inauguró en el año 2007,. Esta fiesta declarada de Interés Turístico Nacional de Andalucía luce 100.000 bombillas. 40.000 farolillos azules y naranjas, colores de la bandera municipal, cubren el cielo del Real y ponen el toque de luz y color. Los acordes musicales corren a cargo de la Banda Municipal de Música que año tras año interpretan los himnos de Andalucía y España, además de algunas sevillanas. La población se multiplica por cinco y para garantizar la seguridad se organiza un dispositivo en el que participan efectivos sanitarios, Protección Civil, Bomberos, Policía Local y Guardia Civil. La Feria de Ganado de Mairena se originó en el año 1441. El rey Juan II de Castilla facilitó a Pedro Ponce de León, señor de Mairena, la repoblación del lugar proporcionando el abastecimiento de productos y la movilidad de los ganados por la comarca. Con el tiempo se ha convertido en un evento ligado al ocio y al esparcimiento. La Feria ha sido musa de numerosos escritores y artistas que plasmaron con tinta y óleo la esencia, el color y las costumbres de la fiesta mairenera, como Estébanez Calderón, Gustavo Adolfo Bécquer, Valeriano Bécquer o Lamayer. Su lugar de celebración fue la calle Mesones, actual calle San Fernando, y la explanada del Mercado situada delante de la ermita de San Sebastián, abarcando todo el actual Paseo de la Feria y la Barriada. Desde el año 1982 se celebra en el Recinto Ferial Alcalde Antonio Delgado de 11.000 m² que se encuentra en la entrada de la localidad y alberga 47 casetas públicas y privadas. El Real está escoltado, a un lado, por un conjunto escultórico que representa al héroe cervantino y Sancho Panza en posición desafiante frente a un molino de viento, obra del escultor José Manuel Díaz. Por otro lado, un conjunto escultórico que representa a una pareja montada a caballo, realizada en bronce, obra de los artistas Antonio y Jesús Gavira que se sitúa sobre una fuente de ocho chorros.&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>sobre tu cabeza.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2064039">
+                    <groundspeak:date>2012-09-08T07:30:52.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="138977">Pincho's Team</groundspeak:finder>
+                    <groundspeak:text encoded="False">Published</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
     <wpt lon="-5.0009667" lat="38.1202833">
-        <time>2011-08-17T17:21:55.000-05:00</time>
+        <time>2011-08-17T22:21:55.000Z</time>
         <name>OX2DMAH</name>
         <desc>2.- MILITIA COTA by arpia, Traditional Cache(3.5/3.4/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2DMAH</url>
@@ -24,24 +269,11 @@
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>3.5</groundspeak:difficulty>
             <groundspeak:terrain>3.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">GEOCACHE EMBALSE PUENTE NUEVO-COTA -ESPIEL- CORDOBA 
-Hola, aquí va otro geocache colocado por ARPIA Y MARIAJO, aquí van algunas indicaciones para llegar a el. Este es un geocache, para andar un poquillo y disfrutar del paisaje, es fácil el recorrido, pues todo el rato va por por un camino que va alternado pinos con encinas, y donde no te faltara una buena sombra, únicamente los últimos 300 metros son fuera de camino y cota arriba.
- 
-El recorrido hacia el cache, una vez dejado el coche en las siguientes coordenadas,
- N 38.120437° W 004.988240° (datum en wgs 84 y grados decimales)
- 
-Se hace aproximadamente en 40 min, sin prisas, disfrutando del paisaje, en este geocache encontraras, si has sido el primero, el geocoin de los templarios, el cual recuperamos nosotros de Almeria, y dejamos aquí tal y como le hubiera gustado a su propietario que desea se coloque en un lugar histórico o de acceso algo difícil.
- 
-Primeramente( hablando desde Cordoba capital) lo mas fácil es coger la nacional, N-432, dirección a Badajoz, ve pendiente y en cuanto veas el cartel de Villaviciosa de Cordoba, gira en esa dirección y coje la comarcal A-3075, pasa la presa de Puente Nuevo (esta sobre el km 8), y en el Km 14,700 ¡¡¡¡¡GIRA A LA DERECHA!!!! Te recomiendo poner a cero el cuentakilómetros del coche en cuanto pases el hito km 14 y hacer 700 metros, de esta forma no dudara si estas cojiendo el carril bueno.
- 
-Sabras que vas por buen camino, por que veras un cartel que pone ¡¡¡¡CARRETERA CORTADA A 4,5 KM!!!, sigue hasta el final, sabras que llegas al final por que veras un cartel que pone PELIGRO ZONA INUNDABLE, puedes dejar el coche aquí, o avanzar unos 2 km mas por un carril en un estado regular, hacia el aparcamiento cuyas coordenadas hemos puesto.
- 
-MI RECOMENDACIÓN, ES QUE PARA QUE SEPAS DONDE ESTA ESCONDIDO ESTE GEOCACHE, MIRES ANTES MEDIANTE SUS COORDENADAS, DONDE SE ENCONTRARIA, UTILIZANDO EL MAPSOURCE Y EL GOGLE EARTH, TAMBIEN PODRAS UTILIZAR EL MAPA 1/50.000 SERIE L VILLAVICIOSA DE CORDOBA (901) DE ESTA FORMA TE HARAS UNA IDEA DE CÓMO ES EL TERRENO, COMO LLEGAR A LA ZONA Y HASTA DONDE PODRAS LLEGAR EN COCHE.
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">GEOCACHE EMBALSE PUENTE NUEVO-COTA -ESPIEL- CORDOBA &lt;br/&gt;Hola, aquí va otro geocache colocado por ARPIA Y MARIAJO, aquí van algunas indicaciones para llegar a el. Este es un geocache, para andar un poquillo y disfrutar del paisaje, es fácil el recorrido, pues todo el rato va por por un camino que va alternado pinos con encinas, y donde no te faltara una buena sombra, únicamente los últimos 300 metros son fuera de camino y cota arriba.&lt;br/&gt; &lt;br/&gt;El recorrido hacia el cache, una vez dejado el coche en las siguientes coordenadas,&lt;br/&gt; N 38.120437° W 004.988240° (datum en wgs 84 y grados decimales)&lt;br/&gt; &lt;br/&gt;Se hace aproximadamente en 40 min, sin prisas, disfrutando del paisaje, en este geocache encontraras, si has sido el primero, el geocoin de los templarios, el cual recuperamos nosotros de Almeria, y dejamos aquí tal y como le hubiera gustado a su propietario que desea se coloque en un lugar histórico o de acceso algo difícil.&lt;br/&gt; &lt;br/&gt;Primeramente( hablando desde Cordoba capital) lo mas fácil es coger la nacional, N-432, dirección a Badajoz, ve pendiente y en cuanto veas el cartel de Villaviciosa de Cordoba, gira en esa dirección y coje la comarcal A-3075, pasa la presa de Puente Nuevo (esta sobre el km 8), y en el Km 14,700 ¡¡¡¡¡GIRA A LA DERECHA!!!! Te recomiendo poner a cero el cuentakilómetros del coche en cuanto pases el hito km 14 y hacer 700 metros, de esta forma no dudara si estas cojiendo el carril bueno.&lt;br/&gt; &lt;br/&gt;Sabras que vas por buen camino, por que veras un cartel que pone ¡¡¡¡CARRETERA CORTADA A 4,5 KM!!!, sigue hasta el final, sabras que llegas al final por que veras un cartel que pone PELIGRO ZONA INUNDABLE, puedes dejar el coche aquí, o avanzar unos 2 km mas por un carril en un estado regular, hacia el aparcamiento cuyas coordenadas hemos puesto.&lt;br/&gt; &lt;br/&gt;MI RECOMENDACIÓN, ES QUE PARA QUE SEPAS DONDE ESTA ESCONDIDO ESTE GEOCACHE, MIRES ANTES MEDIANTE SUS COORDENADAS, DONDE SE ENCONTRARIA, UTILIZANDO EL MAPSOURCE Y EL GOGLE EARTH, TAMBIEN PODRAS UTILIZAR EL MAPA 1/50.000 SERIE L VILLAVICIOSA DE CORDOBA (901) DE ESTA FORMA TE HARAS UNA IDEA DE CÓMO ES EL TERRENO, COMO LLEGAR A LA ZONA Y HASTA DONDE PODRAS LLEGAR EN COCHE.&lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>EN LO ALTO UNA COTA Y CAMUFLADO</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="1673701">
-                    <groundspeak:date>2011-11-10T17:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2011-11-10T23:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="70879">Jotan</groundspeak:finder>
                     <groundspeak:text encoded="False">Difícil acceso, fuera de pista con mucha inclinación y campo cerrado en vegetación, más arañazos que bañando un saco gatos. Mejor ir bien protegido pantalón y mangas largas.
@@ -59,17 +291,345 @@ Jotan</groundspeak:text>
                 <ox:terrain>3.4</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>VISTA PANORAMICA Y PRECIOSO GEOCOIN EL QUE OCULTA</ox:tag>
+                <ox:tag>chirp</ox:tag>
             </ox:tags>
             <ox:verification>
                 <ox:chirp>2739</ox:chirp>
             </ox:verification>
         </ox:opencaching>
     </wpt>
+    <wpt lon="-5.8621333" lat="38.1225333">
+        <time>2012-06-01T20:45:03.000Z</time>
+        <name>OXZTFJZ</name>
+        <desc>VGG-LA CAPITANA by liderskull, Traditional Cache(2.4/3.4/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTFJZ</url>
+        <urlname>VGG-LA CAPITANA</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28465408">
+            <groundspeak:name>VGG-LA CAPITANA</groundspeak:name>
+            <groundspeak:placed_by>liderskull</groundspeak:placed_by>
+            <groundspeak:owner id="2244">liderskull</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Un lugar maravilloso con unas vistas increibles,donde poder acampar,disfrutar de la naturaleza y poder realizar infinidad de actividades</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.4</ox:difficulty>
+                <ox:size>4.9</ox:size>
+                <ox:terrain>3.4</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-5.84665" lat="40.3465667">
+        <time>2012-05-08T15:46:47.000Z</time>
+        <name>OXZTJBX</name>
+        <desc>VIA DE LA PLATA by AARAFRI5, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTJBX</url>
+        <urlname>VIA DE LA PLATA</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28468072">
+            <groundspeak:name>VIA DE LA PLATA</groundspeak:name>
+            <groundspeak:placed_by>AARAFRI5</groundspeak:placed_by>
+            <groundspeak:owner id="75324">AARAFRI5</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Ya desde la antigüedad más remota existía una ruta que, utilizando un corredor natural  que articulaba el occidente de la Península Ibérica, permitía comerciar al pueblo tartesio con el norte de la meseta en el siglo VII a. de C. Fue esta ruta la que utilizaron las tropas romanas para avanzar hacia el norte.&lt;br/&gt;En época del emperador Augusto y sobre todo  durante los reinados de los emperadores Trajano y Adriano, ya se configura como una calzada romana que en sus inicios unía Emerita Augusta (Mérida) con Asturica Augusta (Astorga), y que continuaba por la “XXIII, Iter ab Hostio Emeritam Uxue Fluminis Anae” hasta Sevilla por el sur, y hasta Gijón por el norte a través de La Vía Carisa, calzada romana impulsada por el general Publio Carisio, cuyo objeto era unir los asentamientos militares de tierras leonesas con el mar Cantábrico. La primitiva calzada, y sus prolongaciones naturales crearon una gran ruta de comunicación que unía la cornisa cantábrica con las tierras del Sur de Hispania.&lt;br/&gt;Por ella circularon mercancías, tropas, comerciantes y viajeros, en un continuo tránsito que favoreció la difusión de la cultura romana, su lengua y modos de vida, a la vez que facilitaba el control del territorio que necesitaba la administración del Imperio Romano.&lt;br/&gt;Esta ruta se siguió usando a lo largo de los siglos, tanto por árabes como por cristianos durante la Edad Media, para continuar después desempeñando un importante papel en la red de comunicaciones de la Península Ibérica. La riqueza del pasado histórico de la Ruta de la Plata, cuyo nombre deriva del árabe balat, &quot;camino empedrado&quot;, se pone de manifiesto en los innumerables vestigios que jalonan su recorrido, que ofrece uno de los conjuntos más interesantes de nuestro Patrimonio histórico.&lt;br/&gt;Los romanos construyeron a lo largo de todo el Imperio varios miles de Kilómetros de calzadas que formaban una compleja red de comunicación constituida por diversos tipos de vías. La importancia del camino, unida a la geografía de los lugares por los que transitaba determinaron, en cierta medida, el sistema constructivo elegido en cada caso.&lt;br/&gt;Pese a ello la mayor parte de las calzadas romanas comparte una serie de aspectos comunes. Para su construcción se excavaba el terreno hasta alcanzar un nivel firme que servía de drenaje y asiento de las capas superiores constituidas por tierra y piedras que servían para obtener una estructura sólida.&lt;br/&gt;Finalmente se disponía un empedrado de grandes losas que pavimentaban el camino confiriéndoles su aspecto característico, cuyos vestigios en muchas ocasiones han perdurado hasta nuestros días. Donde se encuentra el cache se puede observar muy bien esta caracteristicas.&lt;br/&gt;Al paso de los caminos romanos a menudo fue necesario realizar otras obras de infraestructura que facilitasen su recorrido por lugares de difícil relieve.&lt;br/&gt;En las laderas de las zonas montañosas se levantaron muros laterales de contención o calzos ( de lo que deriva el nombre de calzada) mientras que en el paso de los arroyos o ríos se construyeron desde pequeñas alcantarillas, que tambien se pueden observar tambien cerca del cache, hasta grandes puentes, algunos de los cuales constituyeron verdaderos alardes de ingeniería para cuya construcción se utilizaron complejos sistemas cimbra.&lt;br/&gt;El dominio de las técnicas constructivas en época romana se pone de manifiesto en la construcción de grandes puentes que 2000 años más tarde son grandes monumentos, a la vez que siguen cumpliendo su función original.&lt;br/&gt;En época romana los desplazamientos de largo recorrido se realizaban en caballerías y en diversos tipos de carruaje.&lt;br/&gt;En general se trataba de vehículos rudimentarios que hacían que los viajes fueran lentos y que fuera preciso realizar numerosas cambios de posta. Por ello a lo largo de los caminos estaban distribuidos lugares de descanso de diversos tipos: los más sencillos eran las llamadas mutationes o pequeñas instalaciones destinadas únicamente al descanso y avituallamiento y cambio de caballerías, en los alrededores del cache, los historiadores, dicen que se encontraba una de estas mutationes.&lt;br/&gt;Pero también existían otras instalaciones de mayor importancia, denominadas mansiones, que ofrecían al viajero otros servicios y que en muchas ocasiones coincidían con ciudades, en otros casos el continuo tránsito por el camino hizo que en torno a estas mansiones surgiera también una ciudad.&lt;br/&gt;Para conocer la distancia recorrida y el camino restante hasta el lugar de descanso siguiente los viajeros que transitaban por las calzadas disponían de los llamados miliarios; estos consistían en hitos de piedra de forma cilíndrica y de grandes dimensiones en los que además de la información propia de señalizaciones viarias se recogían otros aspectos relacionados con la calzada como la época de construcción y el nombre del emperador reinante o las reparaciones realizadas en el camino.&lt;br/&gt;El sistema de comunicaciones en el mundo romano alcanzó considerable importancia y llegó a afectar a otros aspectos como el de la religión, que disponía de deidades menores para proteger a los viajeros y a los caminos. En ocasiones se colocaban junto a la vía pequeños altares dedicados a estos dioses conocidos como lares viales.&lt;br/&gt;Fuente:www.rutadelaplata.com/es/&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Al final de la &quot;Via&quot;</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Spoiler 36.jpg</ox:name>
+                    <ox:size>102338</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Via de la Plata.jpg</ox:name>
+                    <ox:size>97250</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-5.7667667" lat="40.3481667">
+        <time>2012-07-10T11:54:53.000Z</time>
+        <name>OX3PZET</name>
+        <desc>ABASTECIMIENTO DE AGUA EN BEJAR-TOMA DEL AGUA by AARAFRI5, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3PZET</url>
+        <urlname>ABASTECIMIENTO DE AGUA EN BEJAR-TOMA DEL AGUA</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3455254">
+            <groundspeak:name>ABASTECIMIENTO DE AGUA EN BEJAR-TOMA DEL AGUA</groundspeak:name>
+            <groundspeak:placed_by>AARAFRI5</groundspeak:placed_by>
+            <groundspeak:owner id="75324">AARAFRI5</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">El cache se encuentra en una de las tomas de agua para abastecimiento humano de la ciudad de Bejar.&lt;br/&gt;Esta toma de agua se ubica en el rio Cuerpo de Hombre y pertenece a la Mancomunidad del Embalse de Bejar.&lt;br/&gt;Se construyó a finales de los años 60 principios de los 70, para aumentar el volumen de agua para consumo humano de Bejar, ya que habia aumentado su población y no era suficiente el volumen que por aquel entonces recibia.&lt;br/&gt;La toma del agua consta de una pequeña represa y de dos ramales de tuberias para el agua, uno a cada margen del rio. El ramal derecho va desde la represa hasta el deposito de agua de &quot;Los Pinos&quot;. El ramal izquierdo va hasta el deposito de agua elevado de &quot;Llano Alto&quot;.&lt;br/&gt;El cache tiene dos accesos, unos desde la carretera de Candelario a La Garganta, y otro desde el camino que va desde Puente Nueva al Embalse de Navamuño.&lt;br/&gt;El cache es un contenedor pequeño con las típicas cosas para intercambio.&lt;br/&gt;Espero que os guste y recordaros que el agua es para consumo humano, por lo tanto por encima de la represa, esta PROHIBIDO bañarse, aguas abajo encontrareis algunas zonas para pegaros un chapuzón. &lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>ver spoiler</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Spoiler 57.jpg</ox:name>
+                    <ox:size>91120</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-5.8922" lat="40.3487833">
+        <time>2012-05-08T16:01:57.000Z</time>
+        <name>OX3H7ED</name>
+        <desc>Castillo de Montemayor del Rio by AARAFRI5, Traditional Cache(2.5/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3H7ED</url>
+        <urlname>Castillo de Montemayor del Rio</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3284184">
+            <groundspeak:name>Castillo de Montemayor del Rio</groundspeak:name>
+            <groundspeak:placed_by>AARAFRI5</groundspeak:placed_by>
+            <groundspeak:owner id="75324">AARAFRI5</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">El Castillo de Montemayor del Rio o Castillo del Paraíso, se encuentra al Noroeste de la población que le da nombre, dominando el valle del río Cuerpo de Hombre.&lt;br/&gt;Los orígenes de la construcción se encuentran a finales del siglo XIII, pero el conjunto actual posiblemente esté reformado en los siglos XIV y XV. Esta fortaleza cumplió un papel fundamental en distintos contextos; enclave importante en la Vía de la Plata en época romana, espacio fronterizo y estratégico en la Marca Media Medieval transitada por los peregrinos hacia Santiago y por los rebaños de la Mesta, espacio vital en las luchas entre los hijos de Alfonso XI, Sancho, Juan, Pedro y Enrique II, ya que el control de esta fortaleza implicaba el dominio estratégico de la Calzada de la Plata.&lt;br/&gt;Don Juan de Silva, realizó algunas reformas en la segunda mitad del siglo XV, de las que sólo se conservan dos cubos con troneras que protegían la puerta. A partir de este momento, se iniciaría la decadencia del Castillo.&lt;br/&gt;A principios del siglo XVII, la fortaleza está deshabitada y entra en un proceso de degradación, de modo que a mediados del siglo XVIII, ya se encontraba en estado de ruina.&lt;br/&gt;La fortificación entra así en el olvido, hasta que en el siglo XX, se despierta el interés de algunos investigadores y empiezan a realizar algunas descripciones. Tal es así que en 1982 es declarado Bien de Interés Cultural y a partir de estos momentos comienzan los trabajos de documentación del Castillo.&lt;br/&gt;En el interior del Castillo se puede visitar el Centro de Interpretación del Medievo. Las visitas (Sábados 11:30 , 13:00 y 19:30 horas Domingos y festivos 11:30 horas. A partir de Agosto todos los días a las 13:00 horas) se realizan de manera guiada y consisten en un recorrido por las diferentes torres del Castillo, cada una de ellas, dedicadas a una temática diferente, pero todas, intentando representar los aspectos más destacados de la época medieval y permitiendo así un conocimiento de las costumbres de usos de la época de manera lúdica yeducativa.&lt;br/&gt;&lt;br/&gt;El cache se encuentra en la pared de la derecha de la explanada que da acceso al castillo. Es un bote verde, que contiene las cosillas típicas para intercambio, un lápiz, un afila lápiz y el log book.&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>En la pared de la derecha de la explanada que da acceso al castillo.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Castillo 2.jpg</ox:name>
+                    <ox:size>84759</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Iglesia cerca del Castillo.jpg</ox:name>
+                    <ox:size>78772</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Castillo 1.jpg</ox:name>
+                    <ox:size>90114</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Spoiler 37.jpg</ox:name>
+                    <ox:size>165168</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-5.78135" lat="40.3885667">
+        <time>2012-05-02T16:39:49.000Z</time>
+        <name>OXZTJG4</name>
+        <desc>MURALLAS DE BEJAR.PARQUE DE LA ANTIGUA by AARAFRI5, Traditional Cache(3.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTJG4</url>
+        <urlname>MURALLAS DE BEJAR.PARQUE DE LA ANTIGUA</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28468203">
+            <groundspeak:name>MURALLAS DE BEJAR.PARQUE DE LA ANTIGUA</groundspeak:name>
+            <groundspeak:placed_by>AARAFRI5</groundspeak:placed_by>
+            <groundspeak:owner id="75324">AARAFRI5</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Durante la dominación árabe, Béjar constituyó una plaza fuerte muy importante, construyéndose en el solar que hoy ocupa el palacio ducal, una alcazaba, y rodeándose toda la ciudad por una muralla de la que aún se conserva su parte occidental.&lt;br/&gt;&lt;br/&gt;Reconquistadas definitivamente estas tierras en tiempos de Alfonso VII, Rey de Castilla y Rey de León, el entorno bejarano fue asignado al reino de Castilla, de aquí que la mayor parte de esta comarca fuera repoblada con gentes castellanas. Reunificados definitivamente los reinos de Castilla y León, en 1230, en la persona de Fernando III el Santo, esta zona siguió los avatares generales de la historia de España. La importancia de la localidad se consolidó con la creación ese mismo año del ducado de Béjar, que disfrutó de un gran prestigio entre la nobleza española. Tanto fue así, que Cervantes le dedico El Quijote al propio Duque de Bejar.&lt;br/&gt;&lt;br/&gt;La muralla urbana de Béjar fue construida por los árabes, y ampliada en el siglo XIII por el Rey Alfonso VIII desde la Plaza Mayor hasta la Puerta de la Villa (reformada en el siglo XVI), dotando a este tramo de las Puertas del Matadero, Puerta Nueva y Campo Pardo, Barrio Neila, Solana y San Nicolás, que dieron lugar a las callejas que aún hoy existen.&lt;br/&gt;&lt;br/&gt;Según una leyenda, los cristianos escondidos en el monte del Castañar, situado a 3 kilómetros de Béjar se camuflaron con musgo todo el cuerpo, y cargados de armas descendieron por la noche al pie de las murallas; los árabes al abrir por la mañana las puertas de la muralla se encontraron con los ya denominados Hombres de Musgo. Este hecho tuvo lugar en 17 de Junio Festividad de Santa Marina, fiesta de interés cultural.&lt;br/&gt;Dos murallas de origen medieval circundaban la villa de Béjar desde la actual Plaza Mayor, en dirección al poniente. Sus trazados paralelos confluían en el muro donde se abría la Puerta del Pico en dirección a oriente hasta la Puerta de la Corredera. De la misma época que la Puerta de la Corredera eran las puertas de San Pedro y la desaparecida de la Traición, y posterior a ellas es la Puerta de San Lázaro. Existieron además otras puertas y postigos como las de Santiago o la de Peña Oliva, Santa María, Cerradillo y de la Cruz.&lt;br/&gt;&lt;br/&gt;Las murallas de Béjar son unos de los restos más antiguos que aún hoy día pueden contemplarse en Béjar, aunque sólo quedan algunos tramos de muralla y las puertas del Pico y de San Pedro.&lt;br/&gt;&lt;br/&gt;El cache es un nano que se encuentra en el Parque de la Antigua, donde se conserva parte de la muralla. Llévate bolígrafo ya que lo necesitaras.&lt;br/&gt;</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Spoiler 31.jpg</ox:name>
+                    <ox:size>123870</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-5.8002" lat="40.5402">
+        <time>2012-05-02T17:03:47.000Z</time>
+        <name>OX3HYRZ</name>
+        <desc>LOS SANTOS-PARQUE DEL GRANITO by AARAFRI5, Traditional Cache(1.8/1.8/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3HYRZ</url>
+        <urlname>LOS SANTOS-PARQUE DEL GRANITO</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3305653">
+            <groundspeak:name>LOS SANTOS-PARQUE DEL GRANITO</groundspeak:name>
+            <groundspeak:placed_by>AARAFRI5</groundspeak:placed_by>
+            <groundspeak:owner id="75324">AARAFRI5</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Los Santos se encuentra a 60 Kilómetros de Salamanca, a una Altitud de 948 Metros, con una extensión de 4.463 Has y una población de 670 habitantes.&lt;br/&gt;El nombre de Los Santos remite a antecedentes de tipo religioso: el pueblo y su término se halla profusamente poblado por cruceros y cruces inscritas en granito, por ermitas y santuarios.&lt;br/&gt;Los Santos era ya núcleo de población en época romana como lo demuestran los restos encontrados.&lt;br/&gt;Su ubicación en una zona de especial interés y largo recorrido humano desde el punto de vista religioso y antropológico, además de pasar por allí una ruta de peregrinación Jacobea y otra serie de hechos, explica el que llegara a ser posesión Templaría. Posteriormente pasaría a depender de la jurisdicción de Monleón.&lt;br/&gt;En el S. XIV era uno de los lugares donde se pagaba el impuesto del Portazgo que eran los derechos que se pagaban por pasar por determinados sitios en un camino, y tenía allí posesiones el cabildo salmantino.&lt;br/&gt;Es bajo Felipe IV cuando Los Santos figura ya con categoría de villa. En 1631 fue vendida su jurisdicción al Duque de Béjar.&lt;br/&gt;Los Santos fue uno de los lugares que logró adquirir la jurisdicción propia de Villa a la que muchos otros aspiraron por las mismas épocas sin conseguirlo (San Esteban de la Sierra, Endrinal).&lt;br/&gt;Durante el S. XVI y administrativamente Los Santos pertenecía a los cuartos y Campos de Salamanca, al Cuarto de Peña del Rey.&lt;br/&gt;Las principales fuentes de economía son: Agrícola, Ganadera, Canteras de Granito, Cochinería y Turismo Rural.&lt;br/&gt;Agrícola: Por lo que hace referencia a este apartado, lo más importante en cuanto a lo que más se siembra es Trigo, en tiempos pasados fue muy importante la siembra del Fresón.&lt;br/&gt;Ganadera: Es muy importante en el ganado vacuno, anteriormente para hacer las labores del campo, las parejas de vacas, eran la principal fuerza de arrastre, tanto para la siembra, como para los carros, así como también para la trilla del Trigo que anteriormente se hacía en las Eras, luego más adelante ya se trillaba con las máquinas. Anteriormente había una gran cantidad de ovejas, así como cabras, de las que ya casi no quedan apenas rebaños.&lt;br/&gt;Chacinería: Es también importante para el pueblo, pero quizás tenga menos importancia que las canteras&lt;br/&gt;Canteras de Granito: En la actualidad quizás es la industria con más actividad, ya que hay varias empresas dedicadas a ello, con bastantes empleados. Todas ellas se dedican a la fabricación de Losas-Bordillos-Bancos-Fuentes-Peldaños Chimeneas-Adoquines así como también el aserradero de granito, los granitos de Los Santos, con denominación propia como el Granito Gris de Los Santos, son conocidos en toda España, por su calidad. Se explota roca granítica de grano grueso-medio, porfídica, de color gris claro. Se trata de monzogranito cordierítico / granodiorita aflorante en grandes masas poco desclasadas, que permiten la extracción de bloques de buenas dimensiones. El material beneficiado se transforma y elabora a pie de cantera, en gran medida de forma artesanal aunque con el concurso de cierta maquinaria, sobre todo discos de corte y máquinas para abujar, además de maquinaria de producción de adoquines y otras. La roca, aunque extraída, en parte, de niveles poco profundos, presenta unos buenos valores de resistencias que le hacen muy adecuada a los fines de destino, pavimentado de calles,  plazas y amueblamiento urbano, donde compite ventajosamente con otros materiales. Su aspecto es el de una piedra granuda constituida principalmente por cuarzo, feldespato potásico, plagioclasas (oligoclasa-andesina) y biotita y con moscovita, cordierita y opacos como más importantes minerales accesorios. De todas formas como se comercializa con superficies terminadas con corte de disco, partido o abujardado se difumina mucho el aspecto general.&lt;br/&gt;El cache se encuentra en el llamado Parque del Granito, un parque que se hizo con la colaboración de algunas cooperativas de extracción de granito de la localidad. El parque consiste en los montajes escultóricos de Amable Diego sobre las canteras. La exposición se acompaña de paneles informativos. Se trata de la recuperación de un área degradada que se ha convertido en un espacio destinado a mostrar la evolución de la Cantería del Granito. El cache se sitúa al lado del que yo llamo el Stonehenge de Los Santos.&lt;br/&gt;Fuente: www.altoalagon.es/lossantos/localidad ; www.los-santos.com/Granito-Gris/e-central.html y http://www.youtube.com/watch?v=IXqNAsqqUjI&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Debajo del &quot;obelisco&quot;.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.8</ox:difficulty>
+                <ox:size>2.5</ox:size>
+                <ox:terrain>1.8</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Stonehenge de Los Santos.jpg</ox:name>
+                    <ox:size>94105</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>obelisco.jpg</ox:name>
+                    <ox:size>65016</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-5.6668" lat="40.9592">
+        <time>2012-06-18T15:06:45.000Z</time>
+        <name>OX3NQ8T</name>
+        <desc>Casa Lis by AARAFRI5, Traditional Cache(2.6/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3NQ8T</url>
+        <urlname>Casa Lis</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3418550">
+            <groundspeak:name>Casa Lis</groundspeak:name>
+            <groundspeak:placed_by>AARAFRI5</groundspeak:placed_by>
+            <groundspeak:owner id="75324">AARAFRI5</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">La Casa Lis es un palacete modernista de Salamanca, donde actualmente está el Museo de Art Nouveau y Art Déco, que durante unos años, ha sido el museo de Castilla y León más visitado.&lt;br/&gt;Don Miguel de Lis de la Puebla, industrial curtidor de Salamanca y gran enamorado del Art. Nouveau, encargó en 1890 al arquitecto Don Joaquín de Vargas Aguirre la construcción de una mansión modernista a orillas del río Tormes y sobre la antigua muralla de la ciudad, lugar indudablemente privilegiado. Algo curioso teniendo en cuenta que Salamanca siempre había vivido de espaldas a su río.&lt;br/&gt; Las obras se concluyeron en 1905, instalándose en la casa la familia de Lis. Durante varios años de riqueza y glamour la familia era conocida por sus grandes fiestas para la burguesía acomodada y los nuevos ricos de la ciudad. Pero En 1909 muere Don Miguel de Lis y la familia se ve obligada a vender la casa, siendo adquirida por el Rector Esperabé, quien vivió en ella hasta después de la Guerra Civil. Más tarde, la casa fue alquilada por zonas a diferentes familias, y por habitaciones a catedráticos de la Universidad hasta que llegó a quedar totalmente abandonada. Finalmente en 1982 el Ayuntamiento inicia un expediente de expropiación de la casa, por lo que pasa a ser de su propiedad. En los años 90 se restaura para acoger el museo de Art Nouveau y Art Déco, abriéndose al público en 1995.&lt;br/&gt;La fachada norte, el acceso por la calle Gibraltar, es la única muestra de modernismo en la ciudad de Salamanca. El conjunto, formado por fachada de dos cuerpos, patio y verja, es de gran sencillez. La primera planta y las verjas están decoradas según las influencias del Art Nouveau belga mientras que la puerta de madera, en un arco bajo, posee motivos florales y acuáticos y resaltados en relieve.&lt;br/&gt;La fachada sur, que da al río y recibe luz la mayor parte del día, es una espectacular combinación de clasicismo y modernidad. Por encima del muro de piedra se sitúan dos galerías de hierro y cristal, en el centro una escalera que se bifurca hacia una gran terraza abierta.&lt;br/&gt;El uso del hierro, material constructivo de la época, tanto en la fachada sur como en el patio central, con matices expresivos aporta un diseño innovador que supera a la función estructural. Ejemplificado en los calados de las enjutas de los arcos del pórtico, en los herrajes de los miradores o en las finas columnas de fundición del taller de Moneo.&lt;br/&gt;El patio central consta de galerías adinteladas apoyadas en columnas de fundición. En el piso inferior destaca la decoración modernista de los estucos de puertas y frisos corridos. En el piso superior de la galería destaca la decoración de los herrajes y la representación de la flor de lis, en honor al apellido de su promotor.&lt;br/&gt;Si bien la concepción inicial del patio, usado el edificio como vivienda familiar, era un patio abierto, en la actualidad éste permanece cerrado con una vidriera emplomada realizada por el artista catalán Juan Villaplana según diseño de Manuel Ramos Andrade. En la vidriera prima la utilización de una amplia gama de colores con los que representar el cielo, las nubes, la luna o las estrellas.&lt;br/&gt;La Casa Lis, hoy, posee otras vidrieras en ventanas, en las galerías de la fachada sur, o en el lucernario de la escalera central que dan al edificio una riqueza cromática aún más atrayente y auténtica para su época. En definitiva, las vidrieras son hoy un conjunto más de piezas de arte en el Museo de Art Nouveau y Art Déco.&lt;br/&gt;Las piezas de este museo pertenecían a la colección privada de D. Manuel Ramos Andrade, donada a la ciudad antes de su muerte. Son cerca de 3.000 piezas que representan el arte que aparece en Europa entre 1830 y1920, conocido como Art Nouveau y Art Déco. Este arte nació de la necesidad de muchos artistas de la época de crear objetos de uso cotidiano que no dejaran de poseer la belleza y el valor de una gran obra, pues estaban hartos de que sus obras solo sirviesen para ser vistas en museos.&lt;br/&gt;La casa contiene una de las más completas colecciones de muñecas de porcelana, abanicos y joyas de diversas culturas y utensilios llenos de encanto. Cabe destacar también la colección de criselefantinas, piezas realizadas en marfil y bronce elaboradas con gran sutileza.&lt;br/&gt;Fuentes: &lt;br/&gt;es.wikipedia.org/wiki/Casa_Lis&lt;br/&gt;www.hotelcondal.com/casalis.php&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Sientate y lo cogerás</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1915172">
+                    <groundspeak:date>2012-06-18T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="131190">TIAGOSGD</groundspeak:finder>
+                    <groundspeak:text encoded="False">FTF
+Después de un bello examen, salí para comer... El cerebro necesita, no?
+Tenía un aviso en el correo de una cache bien joven... Que estaba en el camino para la comida...
+Las coordenadas están un poco al lado, pero no hay posibilidad de engaño... Bien camuflado! :)</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>1.5</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Fachada sur.jpg</ox:name>
+                    <ox:size>107024</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-5.58365" lat="40.9799">
+        <time>2012-01-15T21:27:17.000Z</time>
+        <name>OXZTMJN</name>
+        <desc>La Flecha by LUISHML, Traditional Cache(1.7/2.7/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTMJN</url>
+        <urlname>La Flecha</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28470204">
+            <groundspeak:name>La Flecha</groundspeak:name>
+            <groundspeak:placed_by>LUISHML</groundspeak:placed_by>
+            <groundspeak:owner id="80954">LUISHML</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Geocache situado en uno de los pocos parajes en las cercanias de la ciudad de Salamanca, que mantienen su caracter natural.&lt;br/&gt;&lt;br/&gt;Zona de pinar con desniveles frecuentada por practicantes de bicicleta de montaña, y gente que simplemente hace deporte en plena naturaleza.</groundspeak:long_description>
+            <groundspeak:encoded_hints>A la sombra de dos encinas.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.7</ox:difficulty>
+                <ox:size>2.8</ox:size>
+                <ox:terrain>2.7</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+        </ox:opencaching>
+    </wpt>
     <wpt lon="-5.0539" lat="43.30885">
-        <time>2009-08-22T02:00:00.000-05:00</time>
+        <time>2009-08-22T07:00:00.000Z</time>
         <name>OX1XV70</name>
-        <desc>Covadonga Eclética by K!NDER, Multi-cache(2.0/2.0/3.5)</desc>
+        <desc>Covadonga Eclética by K!NDER, Multi-cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1XV70</url>
         <urlname>Covadonga Eclética</urlname>
         <sym>Geocache</sym>
@@ -85,18 +645,18 @@ Jotan</groundspeak:text>
             <groundspeak:long_description html="True">&lt;p&gt;&lt;b&gt;Congratulations to gaviota for the
 FTF!&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 &lt;h1&gt;Covadonga Eclética!&lt;/h1&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 
-&lt;br/&gt;
-&lt;br/&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 &lt;h2&gt;Santa Cueva de Covadonga&lt;/h2&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+&lt;br /&gt;
+&lt;br /&gt;
  La Santa Cueva de Covadonga
 es un santuario católico situado en el Principado de Asturias
 (España). Se trata de una gruta en las estribaciones del Monte
@@ -141,28 +701,28 @@ actual, de estilo románico, es obra de Luis Menéndez-Pidal y
 
 
 &lt;h1&gt;Cache!&lt;/h1&gt;
-&lt;br/&gt;
+&lt;br /&gt;
 &lt;p&gt;Para llegar a Coordenadas final usted tiene que buscar la altura
 média del mediterraneo en alicante en un panel en la coordenadas
 inicial.&lt;b&gt;Altura XXX,4m&lt;/b&gt;&lt;/p&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-Formula: N 43º 18.&lt;b&gt;[XXX+209]&lt;/b&gt;&lt;br/&gt;
-&lt;br/&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Formula: N 43º 18.&lt;b&gt;[XXX+209]&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
 W 005º 03.&lt;b&gt;[XXX-048]&lt;/b&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;br/&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Additional Waypoints&lt;/p&gt;HIDDEN: FI1XV70 - Final&lt;br/&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___</groundspeak:long_description>
+&lt;p&gt;Additional Waypoints&lt;/p&gt;HIDDEN: FI1XV70 - Final&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___</groundspeak:long_description>
             <groundspeak:encoded_hints>Inside cut tree cover by a small piece of wood
 Dentro de un árbol cortado cubierta por un pequeño trozo de madera</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>2.0</ox:difficulty>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
@@ -170,7 +730,7 @@ Dentro de un árbol cortado cubierta por un pequeño trozo de madera</groundspea
         </ox:opencaching>
     </wpt>
     <wpt lon="-5.5113167" lat="43.3407833">
-        <time>2011-07-25T15:30:47.000-05:00</time>
+        <time>2011-07-25T20:30:47.000Z</time>
         <name>OX1K5CJ</name>
         <desc>El bosque del Busgosu by HOTELFUENSANTA, Traditional Cache(2.5/2.9/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1K5CJ</url>
@@ -185,13 +745,16 @@ Dentro de un árbol cortado cubierta por un pequeño trozo de madera</groundspea
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">El reino del Busgosu
-
-En lo mas profundo del bosque, en el margen derecho del río fuensanta, en un paraje de seres mitológios. Cerca de unos acebos, en la grieta de una roca. No está oculto por nada y es visible. los acesos son buenos, pero el bosque tiene multitud de senderos que los hace un laberinto. No hay peligro de pérdida porque hay pueblos muy cerca y cabañas. El nombre del Busgosu es un apodo para recordar el ser motológico de la tradicíón asturiana que era el señor de los bosques.Es un caché para adentrarse en los caminos y la frondosidad de un bosque caducifolio típico de la cornisa cantabrica. Suerte.
-Contendo: Mapa de carreteras de Asturias, postal comarca de la sidra, pegatinas del Acuario de Gijón, lápiz, tajalàpiz, descorchador gourmet, libreta de anotaciones, imán cerámico e instrucciones.</groundspeak:long_description>
+            <groundspeak:long_description html="True">El reino del Busgosu&lt;br/&gt;&lt;br/&gt;En lo mas profundo del bosque, en el margen derecho del río fuensanta, en un paraje de seres mitológios. Cerca de unos acebos, en la grieta de una roca. No está oculto por nada y es visible. los acesos son buenos, pero el bosque tiene multitud de senderos que los hace un laberinto. No hay peligro de pérdida porque hay pueblos muy cerca y cabañas. El nombre del Busgosu es un apodo para recordar el ser motológico de la tradicíón asturiana que era el señor de los bosques.Es un caché para adentrarse en los caminos y la frondosidad de un bosque caducifolio típico de la cornisa cantabrica. Suerte.&lt;br/&gt;Contendo: Mapa de carreteras de Asturias, postal comarca de la sidra, pegatinas del Acuario de Gijón, lápiz, tajalàpiz, descorchador gourmet, libreta de anotaciones, imán cerámico e instrucciones.</groundspeak:long_description>
             <groundspeak:logs>
+                <groundspeak:log id="1780651">
+                    <groundspeak:date>2012-04-06T19:52:11.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="106085">JJVILLAR</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
                 <groundspeak:log id="412691">
-                    <groundspeak:date>2010-08-11T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-08-11T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="1347">D_Jakke</groundspeak:finder>
                     <groundspeak:text encoded="False">Tijdens onze trip naar Spanje werd ook aan deze cache een bezoekje gebracht.
@@ -209,18 +772,45 @@ TFTC</groundspeak:text>
                 <ox:size>3.5</ox:size>
                 <ox:terrain>2.9</ox:terrain>
             </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-5.8587833" lat="43.36425">
+        <time>2012-11-30T23:51:00.000Z</time>
+        <name>OX418T4</name>
+        <desc>Los pilares by XCUETARAX, Traditional Cache(3.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX418T4</url>
+        <urlname>Los pilares</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3732342">
+            <groundspeak:name>Los pilares</groundspeak:name>
+            <groundspeak:placed_by>XCUETARAX</groundspeak:placed_by>
+            <groundspeak:owner id="165100">XCUETARAX</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">LOS PILARES: LOS RESTOS DEL ACUEDUCTO OVETENSE. El caché se encuentra a escasos 80m del acueducto, en la misma calle. Se trata de un micro por lo que hay que llevar boli... que no se os olvide!! Muggles ahead!!!&lt;br/&gt;&lt;br/&gt;LOS PILARES&lt;br/&gt;&lt;br/&gt;El Acueducto de los Pilares está situado en el barrio ovetense de Ciudad Naranco, en Asturias. Fue construido entre 1570 y 1599 bajo la dirección de Juan de Cerecedo, si bien fue concluido por Gonzalo de la Bárcena, fontanero mayor de Valladolid. La construcción inicial contaba con cuarenta y dos arcos (denominados popularmente «pilares»), una longitud de 390 metros y una altura de 10 metros con un coste total de 15.500 ducados de la época costeados mediante impuestos sobre la sidra y el vino. Su construcción se realizó para abastecer a la ciudad con las aguas de las fuentes de Boo y Fitoria del Monte Naranco. Entre su construcción en el siglo XVI y 1875 fue el mayor y principal canal de distribución hidrográfico de la ciudad hasta que fue sustituido por un sistema de depósitos de agua y tuberías a presión proyectado por Pedro Pérez de la Sala en 1864. Del acueducto quedan sólo cinco pilares dejados como homenaje y recuerdo de lo que fue aquel acueducto, pues en 1915 fue demolido el resto para facilitar el ensanche de la ciudad y su nueva organización. Estos cinco arcos se restauraron en 2006 y supusieron un coste de unos 48.000 euros. Se declaró monumento Histórico-Artístico el 26 de noviembre de 1915.</groundspeak:long_description>
+            <groundspeak:encoded_hints>¿Subes o bajas? Imantado está. Espero que tengas el brazo largo para acceder a él!!</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
             <ox:tags>
-                <ox:tag>hotelfuensanta</ox:tag>
-                <ox:tag>naturaleza</ox:tag>
-                <ox:tag>paisaje</ox:tag>
-                <ox:tag>Nava</ox:tag>
-                <ox:tag>Bosque</ox:tag>
-                <ox:tag>Asturias</ox:tag>
+                <ox:tag>Verifiable</ox:tag>
             </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
         </ox:opencaching>
     </wpt>
     <wpt lon="-5.9919167" lat="43.4746333">
-        <time>2011-08-07T05:32:20.000-05:00</time>
+        <time>2011-08-07T10:32:20.000Z</time>
         <name>OXZTRDN</name>
         <desc>Espacio Histórico Frente del Nalón. #1. La Reigada by arama, Virtual Cache(1.0/1.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTRDN</url>
@@ -234,20 +824,17 @@ TFTC</groundspeak:text>
             <groundspeak:type>Virtual Cache</groundspeak:type>
             <groundspeak:difficulty>1</groundspeak:difficulty>
             <groundspeak:terrain>1</groundspeak:terrain>
-            <groundspeak:long_description html="True">La sierra del Pedroso-Bufarán fue durante la guerra civil española un
-enclave importante del frente asturiano al apoyarse en ella los dos
-bandos entonces enfrentados: los insurrectos para defender el pasillo
-de comunicación entre Oviedo y Grado; los gubernamentales para
-hostilizarlo en uno de sus puntos más débiles, el desfiladero de
-Peñaflor.
-Aquí se llevó a cabo la última ofensiva republicana en el Norte (1 de
-agosto de 1937) que dejó sobre el terreno más de seiscientos muertos
-en una sola jornada, ejemplo de la tragedia humana que supone una
-guerra, especialmente una guerra civil.
-
-EL Espacio Histórico Frente del Nalón acerca al visitante a los vestigios del antiguo campo de batalla: tirncheras, nidos de ametralladora, casamatas de artillería, puestos de mando, refugios... que han sobrevivido al paso del tiempo en un entorno poco alterado.
-
- Este primer caché, único virtual de la serie, se situa en el alto de La Reigada, lugar que da acceso al Espacio Histórico Frente del Nalón. Para registrar su hallazgo será necesario indicar el nombre del autor de la cita pacifista que se incluye en el panel informativo situado en las coordenadas señaladas.</groundspeak:long_description>
+            <groundspeak:long_description html="True">La sierra del Pedroso-Bufarán fue durante la guerra civil española un&lt;br/&gt;enclave importante del frente asturiano al apoyarse en ella los dos&lt;br/&gt;bandos entonces enfrentados: los insurrectos para defender el pasillo&lt;br/&gt;de comunicación entre Oviedo y Grado; los gubernamentales para&lt;br/&gt;hostilizarlo en uno de sus puntos más débiles, el desfiladero de&lt;br/&gt;Peñaflor.&lt;br/&gt;Aquí se llevó a cabo la última ofensiva republicana en el Norte (1 de&lt;br/&gt;agosto de 1937) que dejó sobre el terreno más de seiscientos muertos&lt;br/&gt;en una sola jornada, ejemplo de la tragedia humana que supone una&lt;br/&gt;guerra, especialmente una guerra civil.&lt;br/&gt;&lt;br/&gt;EL Espacio Histórico Frente del Nalón acerca al visitante a los vestigios del antiguo campo de batalla: tirncheras, nidos de ametralladora, casamatas de artillería, puestos de mando, refugios... que han sobrevivido al paso del tiempo en un entorno poco alterado.&lt;br/&gt;&lt;br/&gt; Este primer caché, único virtual de la serie, se situa en el alto de La Reigada, lugar que da acceso al Espacio Histórico Frente del Nalón. Para registrar su hallazgo será necesario indicar el nombre del autor de la cita pacifista que se incluye en el panel informativo situado en las coordenadas señaladas.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1793310">
+                    <groundspeak:date>2012-04-26T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="112136">LILLIBAS</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found this virtual cache quite well. Interesting history! Thank you for showing me this place.
+Gracias por el cache
+lillibas</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -256,27 +843,47 @@ EL Espacio Histórico Frente del Nalón acerca al visitante a los vestigios del 
                 <ox:terrain>1.0</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>spanish</ox:tag>
-                <ox:tag>asturias</ox:tag>
-                <ox:tag>historic</ox:tag>
-                <ox:tag>guerra civil</ox:tag>
-                <ox:tag>area</ox:tag>
-                <ox:tag>historical</ox:tag>
-                <ox:tag>sitio</ox:tag>
-                <ox:tag>site</ox:tag>
-                <ox:tag>civil war</ox:tag>
-                <ox:tag>españa</ox:tag>
-                <ox:tag>bunker</ox:tag>
-                <ox:tag>spain</ox:tag>
-                <ox:tag>bosque</ox:tag>
+                <ox:tag>Historic site</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
             </ox:tags>
             <ox:verification>
                 <ox:phrase>abded0b3936bacb9614fe7c281ca1944a767b1349134d8d55a2b7ed321982a02</ox:phrase>
             </ox:verification>
         </ox:opencaching>
     </wpt>
+    <wpt lon="-5.5508833" lat="50.1055167">
+        <time>2012-11-30T18:16:38.000Z</time>
+        <name>OX2FH7W</name>
+        <desc>DARKE VISION : NEWLYN by JOESMILE418, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2FH7W</url>
+        <urlname>DARKE VISION : NEWLYN</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2310488">
+            <groundspeak:name>DARKE VISION : NEWLYN</groundspeak:name>
+            <groundspeak:placed_by>JOESMILE418</groundspeak:placed_by>
+            <groundspeak:owner id="69182">JOESMILE418</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">A wheelchair friendly magnetic nano. Part of the DARKE VISIONS series placed to celebrate the life and work of Cornish playwright NICK DARKE (1948 - 2005).&lt;br/&gt;&lt;br/&gt;This cache is placed with the kind permission of Jerry Drew, Development Worker at The Centre, Newlyn. In 2000, Nick wrote a play called THE RIOT which was set in Newlyn in 1896, about the so-called &quot;Sabbath Riots&quot;, when the devout Cornish fishermen whose Methodist beliefs forbade them to fish on a Sunday demonstrated violently against the Sunday fishing fleet from Lowestoft. The Centre is a busy public building, please be aware of other users. Staff are aware of the cache but unable to help find it!&lt;br/&gt;&lt;br/&gt;Further details about the life and work of Nick Darke : www.nickdarke.net&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>It's in the NEWS!</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>1.1</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Historic site</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
     <wpt lon="-5.3612" lat="50.1100333">
-        <time>2011-06-13T11:28:47.000-05:00</time>
+        <time>2011-06-13T16:28:47.000Z</time>
         <name>OXZTTYC</name>
         <desc>Ashton TB Hotel. by D&amp;KRoamers, Traditional Cache(1.4/1.1/2.7)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTTYC</url>
@@ -291,10 +898,23 @@ EL Espacio Histórico Frente del Nalón acerca al visitante a los vestigios del 
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cache hidden in a small un-tarmac lay-by on A394 Helston to&lt;br/&gt;Penzance road. It is easier to get into lay-by when traveling from&lt;br/&gt;Helston to Penzance.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Please be aware of muggles when retrieving the box as the road is&lt;br/&gt;very busy. Stealth required.&lt;br/&gt;Please place back carefully - we don't wish to lose the cache&lt;br/&gt;down a rabbit hole!&lt;br/&gt;Box contains small swaps as well as a number of travel bugs.  </groundspeak:long_description>
+            <groundspeak:long_description html="True">Cache hidden in a small un-tarmac lay-by on A394 Helston to&lt;br /&gt;Penzance road. It is easier to get into lay-by when traveling from&lt;br /&gt;Helston to Penzance.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Please be aware of muggles when retrieving the box as the road is&lt;br /&gt;very busy. Stealth required.&lt;br /&gt;Please place back carefully - we don't wish to lose the cache&lt;br /&gt;down a rabbit hole!&lt;br /&gt;Box contains small swaps as well as a number of travel bugs.  </groundspeak:long_description>
             <groundspeak:logs>
+                <groundspeak:log id="2119713">
+                    <groundspeak:date>2012-10-21T18:06:07.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="158376">FIELDERP</groundspeak:finder>
+                    <groundspeak:text encoded="False">Logged via OpenCaching Android app.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1766627">
+                    <groundspeak:date>2012-01-22T00:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="97379">snortus</groundspeak:finder>
+                    <groundspeak:text encoded="False">Nice quick find.
+TFTC :)</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1657539">
-                    <groundspeak:date>2011-10-22T18:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-10-22T23:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="55824">Molyball &amp; Molybella</groundspeak:finder>
                     <groundspeak:text encoded="False">Quick find.
@@ -302,25 +922,25 @@ SL
 TFTC</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1628684">
-                    <groundspeak:date>2011-10-18T15:18:15.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-10-18T20:18:15.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="66061">monkey123</groundspeak:finder>
                     <groundspeak:text encoded="False">good find and hiding place :) Logged via OpenCaching Android app.</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1505679">
-                    <groundspeak:date>2011-08-23T11:29:37.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-08-23T16:29:37.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="49503">djwalton84</groundspeak:finder>
                     <groundspeak:text encoded="False">Excellent hiding place! Great fun. Logged via OpenCaching Android app.</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1354282">
-                    <groundspeak:date>2011-07-07T07:14:56.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-07-07T12:14:56.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="33579">ARRY23</groundspeak:finder>
                     <groundspeak:text encoded="False">In first lay-by. Easy to find. Lots to swap. This was our first find!</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1290554">
-                    <groundspeak:date>2011-06-14T18:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-06-14T23:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="20808">WORCSLAD</groundspeak:finder>
                     <groundspeak:text encoded="False">Found whilst on holiday in the area.Parked right by it for a easy find.</groundspeak:text>
@@ -334,10 +954,13 @@ TFTC</groundspeak:text>
                 <ox:size>3.7</ox:size>
                 <ox:terrain>1.1</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="-5.3699167" lat="50.1127">
-        <time>2011-05-27T02:00:00.000-05:00</time>
+        <time>2011-05-27T07:00:00.000Z</time>
         <name>OX2X1GD</name>
         <desc>Tresowes Towers by D&amp;KRoamers, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2X1GD</url>
@@ -352,11 +975,11 @@ TFTC</groundspeak:text>
             <groundspeak:container>Large</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Easy walk, Large click lock tub and near by fishing lake.&lt;br/&gt;&lt;br/&gt;In 1827, the Duke of Leeds leased setts at Tresowes, close to Tregonning Hill, to George Blakeley, a London merchant. Blakeley worked the clay for four years, but by 1832, with the pit almost idle, the Duke cancelled the lease and reissued it to Thomas Broad, a native of Hanley, Staffs. Both china clay and china stone occurred at Tresowes. Broad was only interested in the china clay, as he was already working a china stone quarry at Goonamarres for his in-laws. The china stone quarry was offered for a separate lease, and between 1833 - 1835 the lease was taken by the Staffordshire potters Thomas and John Carey, of Lane End, whose speciality was a special white stoneware known as White Granite Ware, which they made at their Anchor Works at Lane End. The Staffordshire Potteries were going through a minor recession, and both Broad and the Careys were forced by this to give up their leases on Tresowes - Broad in 1&amp;38 and the Careys in 1839. In 1871, Tresowes was leased by William Browne of St., Austell, after he had given up production nearby at Leeds pit. By 1877, the pit was producing 700 tons of clay per annum, but reserves were not as great as Browne had thought, to begin with, and by 1887, production was down to a paltry 37 tons. Just as he was about to give up, Browne found that after removing a stent island, he could gain access to further clay reserves. In 1889, he sold his lease of Tresowes to William Argall of Breage. When Argall retired from clay production in 1893, the Tresowes setts were taken over by a consortium consisting of James M. Holman, the Camborne iron founder, Francis Harvey representing William Harvey &amp; Co., the Hayle founders, and F. N. Thomas, manager of the mighty Dolcoath Mine at Camborne. Several years after the consortium took over Tresowes, it was finally found to be worked out. The other nearby setts at Tresowes Hill continued in production for a few more years.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Easy walk, Large click lock tub and near by fishing lake.&lt;br /&gt;&lt;br /&gt;In 1827, the Duke of Leeds leased setts at Tresowes, close to Tregonning Hill, to George Blakeley, a London merchant. Blakeley worked the clay for four years, but by 1832, with the pit almost idle, the Duke cancelled the lease and reissued it to Thomas Broad, a native of Hanley, Staffs. Both china clay and china stone occurred at Tresowes. Broad was only interested in the china clay, as he was already working a china stone quarry at Goonamarres for his in-laws. The china stone quarry was offered for a separate lease, and between 1833 - 1835 the lease was taken by the Staffordshire potters Thomas and John Carey, of Lane End, whose speciality was a special white stoneware known as White Granite Ware, which they made at their Anchor Works at Lane End. The Staffordshire Potteries were going through a minor recession, and both Broad and the Careys were forced by this to give up their leases on Tresowes - Broad in 1&amp;38 and the Careys in 1839. In 1871, Tresowes was leased by William Browne of St., Austell, after he had given up production nearby at Leeds pit. By 1877, the pit was producing 700 tons of clay per annum, but reserves were not as great as Browne had thought, to begin with, and by 1887, production was down to a paltry 37 tons. Just as he was about to give up, Browne found that after removing a stent island, he could gain access to further clay reserves. In 1889, he sold his lease of Tresowes to William Argall of Breage. When Argall retired from clay production in 1893, the Tresowes setts were taken over by a consortium consisting of James M. Holman, the Camborne iron founder, Francis Harvey representing William Harvey &amp; Co., the Hayle founders, and F. N. Thomas, manager of the mighty Dolcoath Mine at Camborne. Several years after the consortium took over Tresowes, it was finally found to be worked out. The other nearby setts at Tresowes Hill continued in production for a few more years.</groundspeak:long_description>
             <groundspeak:encoded_hints>Near higher tree trunk</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="1657537">
-                    <groundspeak:date>2011-10-22T18:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-10-22T23:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="55824">Molyball &amp; Molybella</groundspeak:finder>
                     <groundspeak:text encoded="False">A quick find on our penultimate cache for our #2000.
@@ -364,7 +987,7 @@ TFTC
 </groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1505678">
-                    <groundspeak:date>2011-08-23T11:22:08.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-08-23T16:22:08.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="49503">djwalton84</groundspeak:finder>
                     <groundspeak:text encoded="False">Logged via OpenCaching Android app.</groundspeak:text>
@@ -381,7 +1004,7 @@ TFTC
         </ox:opencaching>
     </wpt>
     <wpt lon="-5.53985" lat="50.1129">
-        <time>2011-06-09T14:12:36.000-05:00</time>
+        <time>2011-06-09T19:12:36.000Z</time>
         <name>OXZTV62</name>
         <desc>The Rain it Raineth by Ky Devas, Traditional Cache(1.5/1.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTV62</url>
@@ -396,14 +1019,18 @@ TFTC
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1</groundspeak:terrain>
-            <groundspeak:long_description html="True">This area is flat and wheelchair accessible, although wheelchair users may need help to reach the cache. Parking is available on the road alongside the prom. Please be careful when retrieving and replacing as this is a popular area for muggles. You will need to bring your own pen/cil.
-
-Norman Garstin 1847 – 1926 was a realist artist from the Newlyn School. His best known painting, The Rain it Raineth Every Day, was painted in 1889 and looks down Penzance promenade towards the bathing pool and St Marys church.
-
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">This area is flat and wheelchair accessible, although wheelchair users may need help to reach the cache. Parking is available on the road alongside the prom. Please be careful when retrieving and replacing as this is a popular area for muggles. You will need to bring your own pen/cil.&lt;br/&gt;&lt;br/&gt;Norman Garstin 1847 – 1926 was a realist artist from the Newlyn School. His best known painting, The Rain it Raineth Every Day, was painted in 1889 and looks down Penzance promenade towards the bathing pool and St Marys church.&lt;br/&gt;&lt;br/&gt; </groundspeak:long_description>
             <groundspeak:logs>
+                <groundspeak:log id="2065070">
+                    <groundspeak:date>2012-09-13T14:18:42.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="149464">rochelle6181</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found whilst on holiday, nice cache!
+
+Logged via OpenCaching for iPhone</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1683460">
-                    <groundspeak:date>2011-11-22T18:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2011-11-23T00:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="72838">lynchy75</groundspeak:finder>
                     <groundspeak:text encoded="False">cant find his second one tho plus made myself look like a fool looking for it lol</groundspeak:text>
@@ -418,14 +1045,26 @@ Norman Garstin 1847 – 1926 was a realist artist from the Newlyn School. His be
                 <ox:terrain>1.0</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>dogs allowed.</ox:tag>
-                <ox:tag>available 24/7</ox:tag>
-                <ox:tag>Scenic</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
             </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>The Rain it Raineth 1.jpg</ox:name>
+                    <ox:size>14648</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>The Rain it Raineth.jpg</ox:name>
+                    <ox:size>14648</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
         </ox:opencaching>
     </wpt>
     <wpt lon="-5.3789167" lat="50.1152333">
-        <time>2011-03-05T02:00:00.000-06:00</time>
+        <time>2011-03-05T08:00:00.000Z</time>
         <name>OX2PQMT</name>
         <desc>Royal stamp of approval! by D&amp;KRoamers, Traditional Cache(1.0/1.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2PQMT</url>
@@ -440,23 +1079,30 @@ Norman Garstin 1847 – 1926 was a realist artist from the Newlyn School. His be
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1</groundspeak:difficulty>
             <groundspeak:terrain>1</groundspeak:terrain>
-            <groundspeak:long_description html="True">The cache is placed in Germoe near the church. &lt;br/&gt;The walk is easy and lots to see like ST Germoe's well and the church.&lt;br/&gt;&lt;br/&gt;The cache is  magnetic. please place back exactly  in the same place. Please bring a pen.</groundspeak:long_description>
+            <groundspeak:long_description html="True">The cache is placed in Germoe near the church. &lt;br /&gt;The walk is easy and lots to see like ST Germoe's well and the church.&lt;br /&gt;&lt;br /&gt;The cache is  magnetic. please place back exactly  in the same place. Please bring a pen.</groundspeak:long_description>
             <groundspeak:logs>
+                <groundspeak:log id="1766628">
+                    <groundspeak:date>2012-03-03T00:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="97379">snortus</groundspeak:finder>
+                    <groundspeak:text encoded="False">Great container.
+TFTC :)</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1657536">
-                    <groundspeak:date>2011-10-22T18:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-10-22T23:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="55824">Molyball &amp; Molybella</groundspeak:finder>
                     <groundspeak:text encoded="False">Isn't geocaching a funny old game. 40 years ago today we were at this church getting married and today we are back logging our #2000 cache here.
 Just catching up with these after our trip to Cornwall.</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1620396">
-                    <groundspeak:date>2011-10-15T11:41:03.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-10-15T16:41:03.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="66061">monkey123</groundspeak:finder>
                     <groundspeak:text encoded="False">Easy find :) Logged via OpenCaching Android app.</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1505673">
-                    <groundspeak:date>2011-08-23T10:58:24.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-08-23T15:58:24.000Z</groundspeak:date>
                     <groundspeak:type>Didn't find it</groundspeak:type>
                     <groundspeak:finder id="49503">djwalton84</groundspeak:finder>
                     <groundspeak:text encoded="False">Nowhere to be seen. Logged via OpenCaching Android app.</groundspeak:text>
@@ -473,7 +1119,7 @@ Just catching up with these after our trip to Cornwall.</groundspeak:text>
         </ox:opencaching>
     </wpt>
     <wpt lon="-5.3586" lat="50.1158833">
-        <time>2009-09-27T02:00:00.000-05:00</time>
+        <time>2009-09-27T07:00:00.000Z</time>
         <name>OX1Z6WH</name>
         <desc>The Adit by D&amp;KRoamers, Traditional Cache(1.0/1.8/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1Z6WH</url>
@@ -488,11 +1134,24 @@ Just catching up with these after our trip to Cornwall.</groundspeak:text>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Small click/lock box.  Easy terrain, although the cache involves walking down half a dozen steps, which will be slippery when wet.  .&lt;br/&gt;&lt;br/&gt;Another historic site in the Tregonning area.  This adit was part of the China Clay industry, which dates back to 1746, the year when William Cookworthy first regonised the clay being extracted to be 'china clay'.&lt;br/&gt;&lt;br/&gt;Could be a 'cache and dash' if you park (sensibly please) on the road alongside the adit - please take care not to block any driveways.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Small click/lock box.  Easy terrain, although the cache involves walking down half a dozen steps, which will be slippery when wet.  .&lt;br /&gt;&lt;br /&gt;Another historic site in the Tregonning area.  This adit was part of the China Clay industry, which dates back to 1746, the year when William Cookworthy first regonised the clay being extracted to be 'china clay'.&lt;br /&gt;&lt;br /&gt;Could be a 'cache and dash' if you park (sensibly please) on the road alongside the adit - please take care not to block any driveways.</groundspeak:long_description>
             <groundspeak:encoded_hints>On the right.</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="2107631">
+                    <groundspeak:date>2012-10-09T11:40:52.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="33579">ARRY23</groundspeak:finder>
+                    <groundspeak:text encoded="False">couldn't find it. 
+Logged via OpenCaching Android app.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1766629">
+                    <groundspeak:date>2012-03-03T00:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="97379">snortus</groundspeak:finder>
+                    <groundspeak:text encoded="False">TFTC :)</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1657540">
-                    <groundspeak:date>2011-10-19T18:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-10-19T23:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="55824">Molyball &amp; Molybella</groundspeak:finder>
                     <groundspeak:text encoded="False">Nice location.
@@ -501,7 +1160,7 @@ SL
 TFTC</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1505680">
-                    <groundspeak:date>2011-08-23T11:55:39.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-08-23T16:55:39.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="49503">djwalton84</groundspeak:finder>
                     <groundspeak:text encoded="False">Looked high and low in all area, .I joy. Wonderful site though. Logged via OpenCaching Android app.</groundspeak:text>
@@ -518,7 +1177,7 @@ TFTC</groundspeak:text>
         </ox:opencaching>
     </wpt>
     <wpt lon="-5.5368167" lat="50.118">
-        <time>2011-06-06T14:21:00.000-05:00</time>
+        <time>2011-06-06T19:21:00.000Z</time>
         <name>OXZTVAJ</name>
         <desc>Chapel Street - Penzance by Ky Devas, Multi-cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTVAJ</url>
@@ -533,47 +1192,11 @@ TFTC</groundspeak:text>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">The cache is not at the above co-ordinates. You will need your own pen/cil to sign the log.
-
-Chapel Street is said to be the most historic street in Penzance. During the festival of Golowan, on St John's Eve, there is a procession down Chapel Street when blazing torches are carried. The procession ends in Quay Street where the 'obby 'oss Penglaze leads a serpent dance.
-
-As you walk down Chapel Street buildings include:-
-
-On the right, The Egyptian House – built in 1836 by John Lavin, a Penzance mineralogist, to house a geological museum. On the outside, apart from the fascinating hieroglyphics, you can see Royal Arms from the periods of George III, IV and William IV.
-
-On the left, The Union Hotel – it was here that the victory of the battle of Trafalgar and the death of Admiral Horatio Nelson was first announced. The news was brought to Penzance by local fishermen who had intercepted HMS Pickle on her way to Falmouth.
-
-On the left, The Turks Head - reputedly the oldest pub in the town, an Inn having been on this site since the 13th century.
-
-On the right, Wesleyan Chapel - built in 1814, John and Charles Wesley being frequent visitors to Penzance.
-
-On the left, The Admiral Benbow - named after the 17th century Admiral John Benbow. On its roof lies the statue of a smuggler, musket in hand.
-
-On the right, House number 25 Chapel Street, where Maria and Elizabeth Branwell lived – Mother and Aunt of Charlotte, Anne, Emily and Branwell Bronte.
-
-On the right, St Marys church, built 1832 – 1835 on the site of the 14th century St Marys Chapel.
-
-Source www.cornwalls.co.uk/Penzance/chapel_street.htm
-
-Starting at the top of Chapel Street, walk down and collect the information detailed below at the various waypoints to find the co-ordinates for the cache.
-
-Start point N50 07.080  W005 32.209
-
-1.     N50 07.077  W005 32.176  Looking at the Egyptian House, how many letters are there in the motto along the bottom of the coat of arms?  Add 2 = EG
-
-2.     N50 07.074  W005 32.169  Reading the plaque, how many letters are there in the month Nelsons death was announced here?  = C
-
-3.     N50 07.037  W005 32.092  How many letters are there in the only word on the last line of the sign hanging from the pub sign?  Add 1 = B
-
-4.     N50 07.026  W005 32.064  How many letters are there in the colour of the hat of the smuggler on the roof?  Add 4 = D
-
-5.     N50 07.007  W005 32.017  How many letters are there in the last word on the last line on this plaque?  = A
-
-Cache is at N50 0A.BCD  W005 3E.BGC</groundspeak:long_description>
+            <groundspeak:long_description html="True">The cache is not at the above co-ordinates. You will need your own pen/cil to sign the log.&lt;br/&gt;&lt;br/&gt;Chapel Street is said to be the most historic street in Penzance. During the festival of Golowan, on St John's Eve, there is a procession down Chapel Street when blazing torches are carried. The procession ends in Quay Street where the 'obby 'oss Penglaze leads a serpent dance.&lt;br/&gt;&lt;br/&gt;As you walk down Chapel Street buildings include:-&lt;br/&gt;&lt;br/&gt;On the right, The Egyptian House – built in 1836 by John Lavin, a Penzance mineralogist, to house a geological museum. On the outside, apart from the fascinating hieroglyphics, you can see Royal Arms from the periods of George III, IV and William IV.&lt;br/&gt;&lt;br/&gt;On the left, The Union Hotel – it was here that the victory of the battle of Trafalgar and the death of Admiral Horatio Nelson was first announced. The news was brought to Penzance by local fishermen who had intercepted HMS Pickle on her way to Falmouth.&lt;br/&gt;&lt;br/&gt;On the left, The Turks Head - reputedly the oldest pub in the town, an Inn having been on this site since the 13th century.&lt;br/&gt;&lt;br/&gt;On the right, Wesleyan Chapel - built in 1814, John and Charles Wesley being frequent visitors to Penzance.&lt;br/&gt;&lt;br/&gt;On the left, The Admiral Benbow - named after the 17th century Admiral John Benbow. On its roof lies the statue of a smuggler, musket in hand.&lt;br/&gt;&lt;br/&gt;On the right, House number 25 Chapel Street, where Maria and Elizabeth Branwell lived – Mother and Aunt of Charlotte, Anne, Emily and Branwell Bronte.&lt;br/&gt;&lt;br/&gt;On the right, St Marys church, built 1832 – 1835 on the site of the 14th century St Marys Chapel.&lt;br/&gt;&lt;br/&gt;Source www.cornwalls.co.uk/Penzance/chapel_street.htm&lt;br/&gt;&lt;br/&gt;Starting at the top of Chapel Street, walk down and collect the information detailed below at the various waypoints to find the co-ordinates for the cache.&lt;br/&gt;&lt;br/&gt;Start point N50 07.080  W005 32.209&lt;br/&gt;&lt;br/&gt;1.     N50 07.077  W005 32.176  Looking at the Egyptian House, how many letters are there in the motto along the bottom of the coat of arms?  Add 2 = EG&lt;br/&gt;&lt;br/&gt;2.     N50 07.074  W005 32.169  Reading the plaque, how many letters are there in the month Nelsons death was announced here?  = C&lt;br/&gt;&lt;br/&gt;3.     N50 07.037  W005 32.092  How many letters are there in the only word on the last line of the sign hanging from the pub sign?  Add 1 = B&lt;br/&gt;&lt;br/&gt;4.     N50 07.026  W005 32.064  How many letters are there in the colour of the hat of the smuggler on the roof?  Add 4 = D&lt;br/&gt;&lt;br/&gt;5.     N50 07.007  W005 32.017  How many letters are there in the last word on the last line on this plaque?  = A&lt;br/&gt;&lt;br/&gt;Cache is at N50 0A.BCD  W005 3E.BGC</groundspeak:long_description>
             <groundspeak:encoded_hints>signpost</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="1685784">
-                    <groundspeak:date>2011-11-17T18:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2011-11-18T00:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Comment</groundspeak:type>
                     <groundspeak:finder id="6358">Ky Devas</groundspeak:finder>
                     <groundspeak:text encoded="False">Owner maintenance</groundspeak:text>
@@ -588,14 +1211,15 @@ Cache is at N50 0A.BCD  W005 3E.BGC</groundspeak:long_description>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>History</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
+                <ox:tag>Historic site</ox:tag>
             </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="-5.3581" lat="50.1196333">
-        <time>2008-09-14T02:00:00.000-05:00</time>
+        <time>2008-09-14T07:00:00.000Z</time>
         <name>OX1G2W5</name>
-        <desc>A long way to pray! by D&amp;KRoamers, Traditional Cache(1.5/2.1/3.0)</desc>
+        <desc>A long way to pray! by D&amp;KRoamers, Traditional Cache(1.6/2.1/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1G2W5</url>
         <urlname>A long way to pray!</urlname>
         <sym>Geocache</sym>
@@ -608,23 +1232,23 @@ Cache is at N50 0A.BCD  W005 3E.BGC</groundspeak:long_description>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">A steep uphill walk at start. Can be muddy in places.  Very nice views of the surrounding area, which is steeped in history. The hill itself is famous as the place where kaolin (china clay) was discovered by William Cookworthy circa 1745. The walk is okay for children and dogs, but unsuitable for wheelchairs and buggies. There are a couple of parking bays at the bottom of the hill. The co-ordinates for parking are N 50 07.283 W 005 21.834
-
-Small click/lock box with small pad and pencil.  Small swaps include 'First to find' badge, elastic band, pencil sharpener, army men, princess crayons, a rubber and a 'Smiley' badge.
-
-The walk will take you along the top of Tregonning Hill.  If you continue walking just past the cache you will see the Preacher's Pit.  It is well worth a little wander into the pit, especially to shelter on windy days.
-
-A little way back from the cache is the memorial at the peak of Tregonning Hill (where Fort Pencaire once stood). This memorial is approximately 600ft above sea  level and there are spectacular views of the surrounding area.  On a clear day you can see St.Michael's Mount, St.Ives and the Goonhilly Satellites. </groundspeak:long_description>
+            <groundspeak:long_description html="True">A steep uphill walk at start. Can be muddy in places.  Very nice views of the surrounding area, which is steeped in history. The hill itself is famous as the place where kaolin (china clay) was discovered by William Cookworthy circa 1745. The walk is okay for children and dogs, but unsuitable for wheelchairs and buggies. There are a couple of parking bays at the bottom of the hill. The co-ordinates for parking are N 50 07.283 W 005 21.834&lt;br/&gt;&lt;br/&gt;Small click/lock box with small pad and pencil.  Small swaps include 'First to find' badge, elastic band, pencil sharpener, army men, princess crayons, a rubber and a 'Smiley' badge.&lt;br/&gt;&lt;br/&gt;The walk will take you along the top of Tregonning Hill.  If you continue walking just past the cache you will see the Preacher's Pit.  It is well worth a little wander into the pit, especially to shelter on windy days.&lt;br/&gt;&lt;br/&gt;A little way back from the cache is the memorial at the peak of Tregonning Hill (where Fort Pencaire once stood). This memorial is approximately 600ft above sea  level and there are spectacular views of the surrounding area.  On a clear day you can see St.Michael's Mount, St.Ives and the Goonhilly Satellites. </groundspeak:long_description>
             <groundspeak:encoded_hints>From where the Preacher would stand and look behind you at the wall.</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="2240748">
+                    <groundspeak:date>2012-11-17T00:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="162814">JOANDMACKY</groundspeak:finder>
+                    <groundspeak:text encoded="False">Our first cache find. Fantastic views from the top though quite muddy in places. Left a lego minifigure from our boy's collection. Pencil needs sharpening !</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1718780">
-                    <groundspeak:date>2011-12-31T18:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2012-01-01T00:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="80621">Colwyn</groundspeak:finder>
                     <groundspeak:text encoded="False"/>
                 </groundspeak:log>
                 <groundspeak:log id="1657541">
-                    <groundspeak:date>2011-10-19T18:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-10-19T23:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="55824">Molyball &amp; Molybella</groundspeak:finder>
                     <groundspeak:text encoded="False">It's a very long time since we have been up this hill. 30odd years or so we reckon.
@@ -635,7 +1259,7 @@ SL
 TFTC</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1473968">
-                    <groundspeak:date>2009-05-28T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2009-05-28T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="54668">Grendel</groundspeak:finder>
                     <groundspeak:text encoded="False">Fantastic hill and view. Enjoyed the climb with the Cantor Clan. Thanks  for some great fun whilst camping in Cornwall. TFTC.</groundspeak:text>
@@ -645,16 +1269,16 @@ TFTC</groundspeak:text>
         <ox:opencaching>
             <ox:ratings>
                 <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>1.5</ox:difficulty>
+                <ox:difficulty>1.6</ox:difficulty>
                 <ox:size>2.7</ox:size>
                 <ox:terrain>2.1</ox:terrain>
             </ox:ratings>
         </ox:opencaching>
     </wpt>
     <wpt lon="-5.3649" lat="50.12765">
-        <time>2009-09-09T02:00:00.000-05:00</time>
+        <time>2009-09-09T07:00:00.000Z</time>
         <name>OX1YER0</name>
-        <desc>Sam's Seat by D&amp;KRoamers, Traditional Cache(1.0/1.6/3.0)</desc>
+        <desc>Sam's Seat by D&amp;KRoamers, Traditional Cache(1.0/1.5/2.9)</desc>
         <url>http://www.opencaching.com/#geocache/OX1YER0</url>
         <urlname>Sam's Seat</urlname>
         <sym>Geocache</sym>
@@ -667,11 +1291,18 @@ TFTC</groundspeak:text>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">An easy walk and easy find - just watch for muggles driving past!&lt;br/&gt;Take a seat and enjoy the view.&lt;br/&gt;&lt;br/&gt;Sam's Seat, a wooden bench, was placed by The Parish of Germoe, to say thank you to Sam for all the hard work and support to The Parish of Germoe over his many years living here.  The location is inbetween two great hills (Godolphin and Tregonning) and there is the Great Work engine house to wander around.&lt;br/&gt;&lt;br/&gt;The cache is a small click box and has a few small things in and logbook/pencil.&lt;br/&gt;&lt;br/&gt;Please put the box back as found.</groundspeak:long_description>
+            <groundspeak:long_description html="True">An easy walk and easy find - just watch for muggles driving past!&lt;br /&gt;Take a seat and enjoy the view.&lt;br /&gt;&lt;br /&gt;Sam's Seat, a wooden bench, was placed by The Parish of Germoe, to say thank you to Sam for all the hard work and support to The Parish of Germoe over his many years living here.  The location is inbetween two great hills (Godolphin and Tregonning) and there is the Great Work engine house to wander around.&lt;br /&gt;&lt;br /&gt;The cache is a small click box and has a few small things in and logbook/pencil.&lt;br /&gt;&lt;br /&gt;Please put the box back as found.</groundspeak:long_description>
             <groundspeak:encoded_hints>Take a seat and eyes forward.</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="2107632">
+                    <groundspeak:date>2012-10-09T12:00:02.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="33579">ARRY23</groundspeak:finder>
+                    <groundspeak:text encoded="False">found it!!!
+Logged via OpenCaching Android app.</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1657538">
-                    <groundspeak:date>2011-10-19T18:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-10-19T23:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="55824">Molyball &amp; Molybella</groundspeak:finder>
                     <groundspeak:text encoded="False">Molybella used to live just up the road from this cache ## years ago!!
@@ -680,7 +1311,7 @@ SL
 TFTC</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1620395">
-                    <groundspeak:date>2011-10-15T11:40:06.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-10-15T16:40:06.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="66061">monkey123</groundspeak:finder>
                     <groundspeak:text encoded="False">Good find :) Logged via OpenCaching Android app.</groundspeak:text>
@@ -689,15 +1320,15 @@ TFTC</groundspeak:text>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:awesomeness>2.9</ox:awesomeness>
                 <ox:difficulty>1.0</ox:difficulty>
-                <ox:size>3.0</ox:size>
-                <ox:terrain>1.6</ox:terrain>
+                <ox:size>2.9</ox:size>
+                <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
         </ox:opencaching>
     </wpt>
     <wpt lon="-5.4894167" lat="50.1287">
-        <time>2009-09-14T02:00:00.000-05:00</time>
+        <time>2009-09-14T07:00:00.000Z</time>
         <name>OX1YNK3</name>
         <desc>Marazion's Golden Mile by D&amp;KRoamers, Virtual Cache(1.6/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1YNK3</url>
@@ -712,21 +1343,23 @@ TFTC</groundspeak:text>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">This is a virtual cache put the code as the code phrase when logging please  
-
-Easy cache. Is in a car park alongside Mount's Bay.  There is a cafe, pub, lake/pond for bird watching, or of course, the beach to walk along.
-
-Extra care must be taken with muggles, as this is a very busy car park during 'peak' holiday times/weekends. Although the cache itself is simple to find, muggles will make this a difficult one to do during busy times! . Thank-you.    </groundspeak:long_description>
+            <groundspeak:long_description html="True">This is a virtual cache put the code as the code phrase when logging please  &lt;br/&gt;&lt;br/&gt;Easy cache. Is in a car park alongside Mount's Bay.  There is a cafe, pub, lake/pond for bird watching, or of course, the beach to walk along.&lt;br/&gt;&lt;br/&gt;Extra care must be taken with muggles, as this is a very busy car park during 'peak' holiday times/weekends. Although the cache itself is simple to find, muggles will make this a difficult one to do during busy times! . Thank-you.    </groundspeak:long_description>
             <groundspeak:encoded_hints>Tickets please.</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="1858162">
+                    <groundspeak:date>2012-06-08T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="112136">LILLIBAS</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found this virtual today. Thanks for showing me this place. Very interesting site. TFTV lillibas</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1656727">
-                    <groundspeak:date>2010-06-29T18:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-06-29T23:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="11538">brujoy</groundspeak:finder>
                     <groundspeak:text encoded="False">did as a geo cache at the same time</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1278115">
-                    <groundspeak:date>2010-05-09T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-05-09T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="6358">Ky Devas</groundspeak:finder>
                     <groundspeak:text encoded="False">399. Ignored this at first thinking I was looking for a different type of cache. Good hide, TFTC.</groundspeak:text>
@@ -744,7 +1377,7 @@ Extra care must be taken with muggles, as this is a very busy car park during 'p
         </ox:opencaching>
     </wpt>
     <wpt lon="-5.365" lat="50.1428">
-        <time>2010-04-17T02:00:00.000-05:00</time>
+        <time>2010-04-17T07:00:00.000Z</time>
         <name>OX26Z4E</name>
         <desc>Pooh Sticks by D&amp;KRoamers, Traditional Cache(3.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX26Z4E</url>
@@ -759,11 +1392,11 @@ Extra care must be taken with muggles, as this is a very busy car park during 'p
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">This cache is just off a footpath that runs alongside the river. Great area for playing 'pooh sticks'!&lt;br/&gt;&lt;br/&gt;Parking available at Godolphin Woods.  &lt;br/&gt;&lt;br/&gt;Great area for walking, either through the woods or along the river.  &lt;br/&gt;&lt;br/&gt;The cache can be found just off the footpath that runs alongside the river.  If you do a 'circular' walk you can cross the river and back over a couple of wooden bridges. The children love this walk for the fantastic 'pooh sticks' opportunities and there's a great little place near the parking area where you can paddle (or get the dog cleaned up!)  Please take care after heavy rain as the river can run quite fast!!  Also, keep hold of your little ones along the river walk. &lt;br/&gt;&lt;br/&gt;The path can get quite muddy in places, especially during the winter months. Also, take care with the dog 'mess' that has recently appeared in many places along the walk - if you take your dog 'geo-caching' with you, please be a responsible dog owner and 'clear up' after your pet.  Thanks!&lt;br/&gt;&lt;br/&gt;Cache contains small log only. Please bring your own pen. &lt;br/&gt;&lt;br/&gt;Cache placed with the kind permission of the National Trust. Parking at these coordinates  N50° 08.595 W005°21.605</groundspeak:long_description>
+            <groundspeak:long_description html="True">This cache is just off a footpath that runs alongside the river. Great area for playing 'pooh sticks'!&lt;br /&gt;&lt;br /&gt;Parking available at Godolphin Woods.  &lt;br /&gt;&lt;br /&gt;Great area for walking, either through the woods or along the river.  &lt;br /&gt;&lt;br /&gt;The cache can be found just off the footpath that runs alongside the river.  If you do a 'circular' walk you can cross the river and back over a couple of wooden bridges. The children love this walk for the fantastic 'pooh sticks' opportunities and there's a great little place near the parking area where you can paddle (or get the dog cleaned up!)  Please take care after heavy rain as the river can run quite fast!!  Also, keep hold of your little ones along the river walk. &lt;br /&gt;&lt;br /&gt;The path can get quite muddy in places, especially during the winter months. Also, take care with the dog 'mess' that has recently appeared in many places along the walk - if you take your dog 'geo-caching' with you, please be a responsible dog owner and 'clear up' after your pet.  Thanks!&lt;br /&gt;&lt;br /&gt;Cache contains small log only. Please bring your own pen. &lt;br /&gt;&lt;br /&gt;Cache placed with the kind permission of the National Trust. Parking at these coordinates  N50° 08.595 W005°21.605</groundspeak:long_description>
             <groundspeak:encoded_hints>.  This is a ground level cache.</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="1657543">
-                    <groundspeak:date>2011-10-19T18:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-10-19T23:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="55824">Molyball &amp; Molybella</groundspeak:finder>
                     <groundspeak:text encoded="False">Molybella soon located this one.
@@ -781,8 +1414,193 @@ TFTC</groundspeak:text>
             </ox:ratings>
         </ox:opencaching>
     </wpt>
+    <wpt lon="-5.0855667" lat="50.1675167">
+        <time>2012-11-30T18:35:31.000Z</time>
+        <name>OX41JAG</name>
+        <desc>JOSEPH EMIDY (1775-1835) by JOESMILE418, Traditional Cache(2.3/2.8/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX41JAG</url>
+        <urlname>JOSEPH EMIDY (1775-1835)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3741499">
+            <groundspeak:name>JOSEPH EMIDY (1775-1835)</groundspeak:name>
+            <groundspeak:placed_by>JOESMILE418</groundspeak:placed_by>
+            <groundspeak:owner id="69182">JOESMILE418</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Small tablet container with room for small swops.&lt;br/&gt;&lt;br/&gt;Cache sited off the public footpath, on the banks of the Penryn River with extensive views of Falmouth.&lt;br/&gt;&lt;br/&gt;JOSEPH EMIDY (1775-1835) was a &quot;son&quot; of Falmouth that few people are even aware of .......&lt;br/&gt;&lt;br/&gt;Emidy first came to prominence in a grand concert held on July 31st 1801 in Wynn's Hotel; he played Stamitz, Eichner and Martini as well as his own compositions for violin, guitar and mandolin. Words of Emidy's playing skills spread quickly, this was an impressive transformation for a man who had spent 4 years playing hornpipes on the deck of a naval frigate. As a boy, some 15 years earlier, Emidy had been taken from his home in West Africa, and led in chains onto a Portuguese slave ship bound for Brazil.&lt;br/&gt;&lt;br/&gt;Little in know of his early years and how he came to Lisbon is not recorded but within 2 years he was playing second violin in the orchestra of the city's opera. In the summer of 1795, the English frigate Indefatigable, captained by Sir Edward Pellow - of Falmouth - and his crew were languishing in Lisbon. Pellow had his eyes on the second violinist and it occurred to him that the Indefatigble would benefit from the addition of such a fiddler. As Emidy left the stage door that evening, he found himself surrounded by a press gang and within a week he was at sea and again enslaved. Afraid he would escape if allowed ashore, Pellow confined him on board. For the next 4 years, while he fiddled, Emidy's feet never touched dry land. In 1799, Pellow received a posting to Falmouth and Emidy was allowed to leave.&lt;br/&gt;&lt;br/&gt;Emidy spent the rest of his life in Falmouth, playing, teaching and composing although not one piece of his work survives. Perhaps the more sombre moments of his scores suggested the horrors he had experienced, always at sea, in the slave ship as a boy, or the cramped and deadly conditions of the Indefatigble, her decks hidden in smoke and thudding with musket balls. Emidy is buried in Kenwyn Churchyard in Truro, his grave is well-kept and maintained and looking at the bold black lettering, it occurs to me that although the churchyard contains the great and the good of 19th century Truro; the sturdy professionals, the naval officers, the merchants and mineral men, the scions of ancient families rooted for centuries in our sea-surrounded Duchy - it is the grave of one of Falmouth's countless ocean waifs that now appears to receive more visitors.&lt;br/&gt;&lt;br/&gt;At Spring high tides, this cache may not be accessible.</groundspeak:long_description>
+            <groundspeak:encoded_hints>GRANITE GATE POST</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.3</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>2.8</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-5.0635167" lat="50.2698167">
+        <time>2012-12-04T21:06:07.000Z</time>
+        <name>OX2G4V1</name>
+        <desc>DARKE VISION : TRURO by JOESMILE418, Traditional Cache(2.7/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2G4V1</url>
+        <urlname>DARKE VISION : TRURO</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2328349">
+            <groundspeak:name>DARKE VISION : TRURO</groundspeak:name>
+            <groundspeak:placed_by>JOESMILE418</groundspeak:placed_by>
+            <groundspeak:owner id="69182">JOESMILE418</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">One of the DARKE VISIONS series of caches with a link to the life and work of NICK DARKE, who died in 2005. Cache and dash in Kenwyn Church Road.&lt;br/&gt;&lt;br/&gt;Cache is placed opposite Trewinnard Court, the location of the original Truro Cathedral School (1912 - 1982) Nick's first secondary school - he was &quot;asked to leave&quot; after his implication in sabotaging the cricket pitch! The site may be viewed from outside but please do not enter - it is private property. There is limited road-side parking but be carefully near the cache site because it is close to a sharp right hand blind bend leading from the main road. Please replace carefully behind the stem.&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Yellow 394</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.7</ox:difficulty>
+                <ox:size>1.7</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-5.0738667" lat="50.41485">
+        <time>2012-11-30T18:31:42.000Z</time>
+        <name>OX2FYN7</name>
+        <desc>DARKE VISION : NEWQUAY by JOESMILE418, Traditional Cache(1.7/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2FYN7</url>
+        <urlname>DARKE VISION : NEWQUAY</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2322434">
+            <groundspeak:name>DARKE VISION : NEWQUAY</groundspeak:name>
+            <groundspeak:placed_by>JOESMILE418</groundspeak:placed_by>
+            <groundspeak:owner id="69182">JOESMILE418</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">All caches have a link to Nick's life or work. Further details about Nick Darke : www.nickdarke.net&lt;br/&gt;&lt;br/&gt;Cache is is the site of the original Newquay Grammar School, Nick's final secondary school after he was &quot;asked to leave&quot; the Truro Cathedral School. Newquay Grammar School was sited at Albany Road, adjacent to Tolcarne Road. The only remaining evidence of the school is the external boundary wall; there's a very different institution occupying the former site! In the summer months this will be a very busy area. Cache placed with the kind permission of Newquay Parking but please do not disturb parking staff with questions about the cache.&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>In the older one?</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2158174">
+                    <groundspeak:date>2010-10-11T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="42866">BROWNI</groundspeak:finder>
+                    <groundspeak:text encoded="False">Got to the cache site and it took a bit of feeling for. Not too many people about so this was good. Eventually got hold of it. TFTC.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.7</ox:difficulty>
+                <ox:size>1.5</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Historic site</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-5.0829167" lat="50.4155833">
+        <time>2012-11-30T18:13:21.000Z</time>
+        <name>OX2K9E1</name>
+        <desc>ANNA NEAGLE LIVED HERE .... by JOESMILE418, Traditional Cache(2.0/3.7/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2K9E1</url>
+        <urlname>ANNA NEAGLE LIVED HERE ....</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2422155">
+            <groundspeak:name>ANNA NEAGLE LIVED HERE ....</groundspeak:name>
+            <groundspeak:placed_by>JOESMILE418</groundspeak:placed_by>
+            <groundspeak:owner id="69182">JOESMILE418</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Small clip-lock container with room for swops.&lt;br/&gt;&lt;br/&gt;The Island on Towan Beach in Newquay was once the home of Anna Neagle, the glamorous film-starlet of the 1940's. Latterly it has been a cafe, owned by a Dutch couple and currently it is the home of a retired Peer and his wife. On the landward side of the island is the sadly derelict sea-bathing pool and this point marks the start of a sideways zig-zag ascent to the cache site. In the summer months this will be a very high muggle zone and you may score extra points for yourself if you can reach the cache undiscovered in August! If wet, the rock climb will be slippery - please take care and supervise young children and pets. If you arrive at high tide access may involve wading or swimming - you have been warned! Nearby car parks are available and in winter months road-side parking is available on Island Crescent where you can admire the wonderful metal lace-work on the first floor balconies of the terraced housing; possibly the only architectural pleasure in an otherwise tawdry area.&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Metal fence</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>3.7</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Historic site</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-5.0967" lat="50.4223833">
+        <time>2012-11-30T18:05:50.000Z</time>
+        <name>OX2GB0M</name>
+        <desc>DARKE VISIONS : 7 TOWAN HEADLAND by JOESMILE418, Traditional Cache(2.0/2.7/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2GB0M</url>
+        <urlname>DARKE VISIONS : 7 TOWAN HEADLAND</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2334289">
+            <groundspeak:name>DARKE VISIONS : 7 TOWAN HEADLAND</groundspeak:name>
+            <groundspeak:placed_by>JOESMILE418</groundspeak:placed_by>
+            <groundspeak:owner id="69182">JOESMILE418</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">DARKE VISIONS series to celebrate the life and work of Cornish playwright, NICK DARKE, who died in 2005. The cache locations have a link to Nick's life or work. Further details about DARKE VISIONS and the life and work of Nick Darke : www.nickdarke.net&lt;br/&gt;&lt;br/&gt;Circular cache container placed in a cove close to the slipway of the Newquay Lifeboat house. Nick Darke was commissioned in 1994 by Cornwall Youth Theatre Company to write &quot;Knock Out the Pin!&quot;, a play about the sinking of the James Stephens Lifeboat in 1916. The survivors of the disaster washed ashore in the cove. Please replace cache very carefully, in the summer months this will be a high risk muggle zone! Please take care close to the cove edge and children and animals should be closely supervised.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Concrete block</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.8</ox:size>
+                <ox:terrain>2.7</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Historic site</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-5.0532833" lat="50.4311">
+        <time>2012-11-30T18:25:03.000Z</time>
+        <name>OX3RPJD</name>
+        <desc>ATLANTIC VIEW : FERN CAVERN by JOESMILE418, Traditional Cache(2.8/4.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3RPJD</url>
+        <urlname>ATLANTIC VIEW : FERN CAVERN</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3507260">
+            <groundspeak:name>ATLANTIC VIEW : FERN CAVERN</groundspeak:name>
+            <groundspeak:placed_by>JOESMILE418</groundspeak:placed_by>
+            <groundspeak:owner id="69182">JOESMILE418</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>4.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Cache is sited just off the SW Coastal Footpath just north of Whipsiderry Beach about 30 yards north of the gate/stile. Parking is available on the road-side at Whipsiderry but this will be very busy in the summer months.&lt;br/&gt;&lt;br/&gt;Cliff-top access to the cache site is via the obvious gulley, please take care; if the surface is wet it will be very slippery. The descent is steep.&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>FLAT ROCK - PLEASE REPLACE</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.8</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>4.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
     <wpt lon="-5.0421667" lat="50.4441">
-        <time>2011-10-31T12:09:46.000-05:00</time>
+        <time>2011-10-31T17:09:46.000Z</time>
         <name>OX2E2NY</name>
         <desc>And in My Lady's Chamber by JOESMILE418, Traditional Cache(4.2/2.4/2.9)</desc>
         <url>http://www.opencaching.com/#geocache/OX2E2NY</url>
@@ -797,15 +1615,11 @@ TFTC</groundspeak:text>
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>4</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Regular size clip-lock box with room for swops.
-
-Stealth will be required! This cache will not be available/accessible after 8.30am most days or you will have to wait until darkness! Please replace carefully, especially if it is dark!
-
-After you've located the cache, treat yourself to a coffee at The Beach Hut.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Regular size clip-lock box with room for swops.&lt;br/&gt;&lt;br/&gt;Stealth will be required! This cache will not be available/accessible after 8.30am most days or you will have to wait until darkness! Please replace carefully, especially if it is dark!&lt;br/&gt;&lt;br/&gt;After you've located the cache, treat yourself to a coffee at The Beach Hut.</groundspeak:long_description>
             <groundspeak:encoded_hints>The penultimate line of &quot;And in My Lady's Chamber&quot;?</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="1687802">
-                    <groundspeak:date>2011-11-25T18:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2011-11-26T00:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="66944">Headlanders</groundspeak:finder>
                     <groundspeak:text encoded="False">-FTF-  on 'Opencaching' site listing.
@@ -822,14 +1636,38 @@ Thanks again for the cache..</groundspeak:text>
                 <ox:size>3.8</ox:size>
                 <ox:terrain>2.4</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Beach-side</ox:tag>
-                <ox:tag>slipway</ox:tag>
-            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-5.0116" lat="50.5449833">
+        <time>2012-11-30T18:58:31.000Z</time>
+        <name>OX2HJEB</name>
+        <desc>ATLANTIC VIEW : POLVENTON BAY by JOESMILE418, Traditional Cache(2.3/3.4/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2HJEB</url>
+        <urlname>ATLANTIC VIEW : POLVENTON BAY</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2371232">
+            <groundspeak:name>ATLANTIC VIEW : POLVENTON BAY</groundspeak:name>
+            <groundspeak:placed_by>JOESMILE418</groundspeak:placed_by>
+            <groundspeak:owner id="69182">JOESMILE418</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Small clip-lock container : part of the ATLANTIC VIEW series of caches placed along the south west coastal footpath.&lt;br/&gt;&lt;br/&gt;Just off the footpath, on the seaward side, in wet weather the grass and rock will be very slippery. Superb views of both Gulland Rock and to the west, Merope Rocks and the Padstow RNLI station. Parking is available at both Harlyn and Mother Ivey's Bay. If you park at Harlyn there are 3 caches sited on the footpath on the way to this one. I'd advise you to look seaward at all times because, sadly, the inland view is spoiled by the dreadfully bland monotone patina of the adjacent caravan site. Please replace cache cover. In the summer months this will be a very busy area.</groundspeak:long_description>
+            <groundspeak:encoded_hints>STILE : BETWEEN 3rd - 4th post.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.3</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>3.4</ox:terrain>
+            </ox:ratings>
         </ox:opencaching>
     </wpt>
     <wpt lon="-5.5792833" lat="54.3604667">
-        <time>2011-10-06T10:23:19.000-05:00</time>
+        <time>2011-10-06T15:23:19.000Z</time>
         <name>OXZTQ6V</name>
         <desc>Castle Ward Ballyculter Gate lodge by CWCacher, Traditional Cache(2.5/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTQ6V</url>
@@ -844,25 +1682,7 @@ Thanks again for the cache..</groundspeak:text>
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">This is a traditional cache placed in The National Trust’s historical location Castle Ward.
-Situated just outside Strangford, approx. 7 miles from Downpatrick in Co Down, Castle Ward is an 820- acre walled demesne with breathtaking views of Strangford Lough.
-Come and explore the many trails that wind their way through atmospheric woodland, gardens and parkland and discover how the Ward family developed this amazing demesne over a four hundred period.
-Castle Ward is a working farm with cattle and sheep in many fields between April and November. At times you may find cows with young calves in the fields, they are protective of their young – do not come between them as this may be dangerous. Dogs should never go in fields with livestock.
-Please wear suitable footwear and clothing for walking, and please keep dogs under close control at all times.
-Parking and entrance is free to National Trust members, but please note that the car park closes at 8pm 1 April to 30 September - all other times of the year it closes at 4pm.
-The Cache
-Allow yourself around 30 mins to find this traditional cache and return to main car park - but why not take longer and enjoy your surroundings on the way?
-The cache is a medium sized camouflaged lockable lunchbox with geocache label on the lid, best approached by heading to the information point at N54*21 628 W005*34 757
-This cache is located near the gate lodge at the main entrance . This wasn't the original main entrance, the Ward family decided they wanted a more direct route to church. This roadway is now known as church walk.
-The trip to the information point is along a tarmac road and a small grass area, so come prepared. This is a great place location for a day out with the kids.
-
-There are toilet facilities and a café in the stable yard close to the main car park. There are also toilet facilities in the area behind the Clock Tower and there are picnic areas with stunning views of Strangford Lough.
-
-You may borrow one of our GPS navigators from the Visitors Reception area. However there is a limited number so please do not expect them to always be available.
-
-Please be careful when uncovering the cache, muggles can come up to the cache site behind you so please be discreet when taking out the cache and hiding it again.
-As a point of interest you will see a copy of a watercolour of the gate lodge by Mary Ward in the cache.
-If you see anything you like in the cache box, please trade up or even so everyone can enjoy the contents.</groundspeak:long_description>
+            <groundspeak:long_description html="True">This is a traditional cache placed in The National Trust’s historical location Castle Ward.&lt;br/&gt;Situated just outside Strangford, approx. 7 miles from Downpatrick in Co Down, Castle Ward is an 820- acre walled demesne with breathtaking views of Strangford Lough.&lt;br/&gt;Come and explore the many trails that wind their way through atmospheric woodland, gardens and parkland and discover how the Ward family developed this amazing demesne over a four hundred period.&lt;br/&gt;Castle Ward is a working farm with cattle and sheep in many fields between April and November. At times you may find cows with young calves in the fields, they are protective of their young – do not come between them as this may be dangerous. Dogs should never go in fields with livestock.&lt;br/&gt;Please wear suitable footwear and clothing for walking, and please keep dogs under close control at all times.&lt;br/&gt;Parking and entrance is free to National Trust members, but please note that the car park closes at 8pm 1 April to 30 September - all other times of the year it closes at 4pm.&lt;br/&gt;The Cache&lt;br/&gt;Allow yourself around 30 mins to find this traditional cache and return to main car park - but why not take longer and enjoy your surroundings on the way?&lt;br/&gt;The cache is a medium sized camouflaged lockable lunchbox with geocache label on the lid, best approached by heading to the information point at N54*21 628 W005*34 757&lt;br/&gt;This cache is located near the gate lodge at the main entrance . This wasn't the original main entrance, the Ward family decided they wanted a more direct route to church. This roadway is now known as church walk.&lt;br/&gt;The trip to the information point is along a tarmac road and a small grass area, so come prepared. This is a great place location for a day out with the kids.&lt;br/&gt;&lt;br/&gt;There are toilet facilities and a café in the stable yard close to the main car park. There are also toilet facilities in the area behind the Clock Tower and there are picnic areas with stunning views of Strangford Lough.&lt;br/&gt;&lt;br/&gt;You may borrow one of our GPS navigators from the Visitors Reception area. However there is a limited number so please do not expect them to always be available.&lt;br/&gt;&lt;br/&gt;Please be careful when uncovering the cache, muggles can come up to the cache site behind you so please be discreet when taking out the cache and hiding it again.&lt;br/&gt;As a point of interest you will see a copy of a watercolour of the gate lodge by Mary Ward in the cache.&lt;br/&gt;If you see anything you like in the cache box, please trade up or even so everyone can enjoy the contents.</groundspeak:long_description>
             <groundspeak:encoded_hints>Look behind the base of large tree near the cycle trail.</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -872,10 +1692,13 @@ If you see anything you like in the cache box, please trade up or even so everyo
                 <ox:size>3.7</ox:size>
                 <ox:terrain>2.5</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="-5.58275" lat="54.3669833">
-        <time>2011-10-06T10:19:51.000-05:00</time>
+        <time>2011-10-06T15:19:51.000Z</time>
         <name>OXZTQ6W</name>
         <desc>Castle Ward House by CWCacher, Traditional Cache(2.5/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTQ6W</url>
@@ -890,38 +1713,7 @@ If you see anything you like in the cache box, please trade up or even so everyo
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">At the base of the Holm Oak Tree,which is approx 250-300 years old and planted by the Ward Family in the 1700's.
-
-This is a traditional cache placed in The National Trust’s historical location Castle Ward.
-Situated just outside Strangford, approx. 7 miles from Downpatrick in Co Down, Castle Ward is an 820- acre walled demesne with breathtaking views of Strangford Lough.
-
-Come and explore the many trails that wind their way through atmospheric woodland, gardens and parkland and discover how the Ward family developed this amazing demesne over a four hundred period.
-
-Castle Ward is a working farm with cattle and sheep in many fields between April and November. At times you may find cows with young calves in the fields, they are protective of their young – do not come between them as this may be dangerous. Dogs should not go in fields with livestock.
-
-Please wear suitable footwear and clothing for walking, and please keep dogs under close control at all times.
-
-Parking and entrance is free to National Trust members, but please note that the car park closes at 8pm 1 April to 30 September - all other times of the year it closes at 4pm.
-
-The Cache
-
-Allow yourself around 15 mins to find this traditional cache and return to main car park - but why not take longer and enjoy your surroundings on the way?
-The cache is a medium sized camouflaged lockable lunchbox with geocache label on the lid, best approached by heading to the information point at N54*54 22 019 W005*34.965 .
-
-This cache is located near the Castle Ward House.
-
-The trip to the information point is along an estate track and a small grass area, so come prepared. This is a great place location for a day out with the kids.
-
-There are toilet facilities and a café in the stable yard close to the main car park. There are also toilet facilities in the area behind the Clock Tower and there are picnic areas with stunning views of Strangford Lough.
-
-You may borrow one of our GPS navigators from the Visitors Reception area. However there is a limited number so please do not expect them to always be available.
-
-Please be careful when uncovering the cache, muggles can come up to the cache site behind you so please be discreet when taking out the cache and hiding it again. As a point of interest you will see a copy of a watercolour of the House by Mary Ward in the cache.
-
-If you see anything you like in the cache box, please trade up or even so everyone can enjoy the contents.
-
-Good Luck and enjoy your trip to this hidden treasure!
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">At the base of the Holm Oak Tree,which is approx 250-300 years old and planted by the Ward Family in the 1700's.&lt;br/&gt;&lt;br/&gt;This is a traditional cache placed in The National Trust’s historical location Castle Ward.&lt;br/&gt;Situated just outside Strangford, approx. 7 miles from Downpatrick in Co Down, Castle Ward is an 820- acre walled demesne with breathtaking views of Strangford Lough.&lt;br/&gt;&lt;br/&gt;Come and explore the many trails that wind their way through atmospheric woodland, gardens and parkland and discover how the Ward family developed this amazing demesne over a four hundred period.&lt;br/&gt;&lt;br/&gt;Castle Ward is a working farm with cattle and sheep in many fields between April and November. At times you may find cows with young calves in the fields, they are protective of their young – do not come between them as this may be dangerous. Dogs should not go in fields with livestock.&lt;br/&gt;&lt;br/&gt;Please wear suitable footwear and clothing for walking, and please keep dogs under close control at all times.&lt;br/&gt;&lt;br/&gt;Parking and entrance is free to National Trust members, but please note that the car park closes at 8pm 1 April to 30 September - all other times of the year it closes at 4pm.&lt;br/&gt;&lt;br/&gt;The Cache&lt;br/&gt;&lt;br/&gt;Allow yourself around 15 mins to find this traditional cache and return to main car park - but why not take longer and enjoy your surroundings on the way?&lt;br/&gt;The cache is a medium sized camouflaged lockable lunchbox with geocache label on the lid, best approached by heading to the information point at N54*54 22 019 W005*34.965 .&lt;br/&gt;&lt;br/&gt;This cache is located near the Castle Ward House.&lt;br/&gt;&lt;br/&gt;The trip to the information point is along an estate track and a small grass area, so come prepared. This is a great place location for a day out with the kids.&lt;br/&gt;&lt;br/&gt;There are toilet facilities and a café in the stable yard close to the main car park. There are also toilet facilities in the area behind the Clock Tower and there are picnic areas with stunning views of Strangford Lough.&lt;br/&gt;&lt;br/&gt;You may borrow one of our GPS navigators from the Visitors Reception area. However there is a limited number so please do not expect them to always be available.&lt;br/&gt;&lt;br/&gt;Please be careful when uncovering the cache, muggles can come up to the cache site behind you so please be discreet when taking out the cache and hiding it again. As a point of interest you will see a copy of a watercolour of the House by Mary Ward in the cache.&lt;br/&gt;&lt;br/&gt;If you see anything you like in the cache box, please trade up or even so everyone can enjoy the contents.&lt;br/&gt;&lt;br/&gt;Good Luck and enjoy your trip to this hidden treasure!&lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Look at the base of the Holm Oak Tree which is around 250-300 years old.</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -931,10 +1723,13 @@ Good Luck and enjoy your trip to this hidden treasure!
                 <ox:size>3.6</ox:size>
                 <ox:terrain>2.5</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="-5.578" lat="54.3729">
-        <time>2011-10-06T10:15:34.000-05:00</time>
+        <time>2011-10-06T15:15:34.000Z</time>
         <name>OXZTQ6Y</name>
         <desc>Castle ward Clocktower by CWCacher, Traditional Cache(1.6/1.7/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTQ6Y</url>
@@ -949,35 +1744,7 @@ Good Luck and enjoy your trip to this hidden treasure!
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">This is a traditional cache placed in The National Trust’s historical location Castle Ward.
-
-Situated just outside Strangford, approx. 7 miles from Downpatrick in Co Down, Castle Ward is an 820- acre walled demesne with breathtaking views of Strangford Lough. 
-Come and explore the many trails that wind their way through atmospheric woodland, gardens and parkland and discover how the Ward family developed this amazing demesne over a four hundred period.
-
-Castle Ward is a working farm with cattle and sheep in many fields between April and November. At times you may find cows with young calves in the fields, they are protective of their young – do not come between them as this may be dangerous. Dogs should never go in fields with livestock.
-
-Please wear suitable footwear and clothing for walking, and please keep dogs under close control at all times.
-Parking and entrance is free to National Trust members, but please note that the car park closes at 8pm 1 April to 30 September - all other times of the year it closes at 4pm.
-
-The Cache
-
-Allow yourself around 30 mins to find this traditional cache and return to main car park - but why not take longer and enjoy your surroundings on the way?
-
-The cache is a medium sized camouflaged lockable lunchbox with geocache label on the lid, best approached by heading to the information point at N54*22.374 W005*34.680 .
-
-This cache is located near the Farmyard. This area is dominated by the Tower House which was built around 1610 by Bernard Ward and marks the beginning of the estates history. Most of the other buildings in the farmyard are 18th and 19th century.
-
-The trip to the information point is along a tarmac road and a small grass area, so come prepared. This is a great place location for a day out with the kids. You can cycle the newly built trails or try canoeing the Lough.
-
-There are toilet facilities and a café in the stable yard close to the main car park. There are also toilet facilities in the area behind the Clock Tower and there are picnic areas with stunning views of Strangford Lough.
-
-You may borrow one of our GPS navigators from the Visitors Reception area. However there is a limited number so please do not expect them to always be available.
-
-Please be careful when uncovering the cache, muggles can come up to the cache site behind you so please be discreet when taking out the cache and hiding it again. As a point of interest you will see a copy of a watercolour of the Farmyard by Mary Ward in the cache.
-
-If you see anything you like in the cache box, please trade up or even so everyone can enjoy the contents.
-
-Good Luck and enjoy your trip to this hidden treasure! </groundspeak:long_description>
+            <groundspeak:long_description html="True">This is a traditional cache placed in The National Trust’s historical location Castle Ward.&lt;br/&gt;&lt;br/&gt;Situated just outside Strangford, approx. 7 miles from Downpatrick in Co Down, Castle Ward is an 820- acre walled demesne with breathtaking views of Strangford Lough. &lt;br/&gt;Come and explore the many trails that wind their way through atmospheric woodland, gardens and parkland and discover how the Ward family developed this amazing demesne over a four hundred period.&lt;br/&gt;&lt;br/&gt;Castle Ward is a working farm with cattle and sheep in many fields between April and November. At times you may find cows with young calves in the fields, they are protective of their young – do not come between them as this may be dangerous. Dogs should never go in fields with livestock.&lt;br/&gt;&lt;br/&gt;Please wear suitable footwear and clothing for walking, and please keep dogs under close control at all times.&lt;br/&gt;Parking and entrance is free to National Trust members, but please note that the car park closes at 8pm 1 April to 30 September - all other times of the year it closes at 4pm.&lt;br/&gt;&lt;br/&gt;The Cache&lt;br/&gt;&lt;br/&gt;Allow yourself around 30 mins to find this traditional cache and return to main car park - but why not take longer and enjoy your surroundings on the way?&lt;br/&gt;&lt;br/&gt;The cache is a medium sized camouflaged lockable lunchbox with geocache label on the lid, best approached by heading to the information point at N54*22.374 W005*34.680 .&lt;br/&gt;&lt;br/&gt;This cache is located near the Farmyard. This area is dominated by the Tower House which was built around 1610 by Bernard Ward and marks the beginning of the estates history. Most of the other buildings in the farmyard are 18th and 19th century.&lt;br/&gt;&lt;br/&gt;The trip to the information point is along a tarmac road and a small grass area, so come prepared. This is a great place location for a day out with the kids. You can cycle the newly built trails or try canoeing the Lough.&lt;br/&gt;&lt;br/&gt;There are toilet facilities and a café in the stable yard close to the main car park. There are also toilet facilities in the area behind the Clock Tower and there are picnic areas with stunning views of Strangford Lough.&lt;br/&gt;&lt;br/&gt;You may borrow one of our GPS navigators from the Visitors Reception area. However there is a limited number so please do not expect them to always be available.&lt;br/&gt;&lt;br/&gt;Please be careful when uncovering the cache, muggles can come up to the cache site behind you so please be discreet when taking out the cache and hiding it again. As a point of interest you will see a copy of a watercolour of the Farmyard by Mary Ward in the cache.&lt;br/&gt;&lt;br/&gt;If you see anything you like in the cache box, please trade up or even so everyone can enjoy the contents.&lt;br/&gt;&lt;br/&gt;Good Luck and enjoy your trip to this hidden treasure! </groundspeak:long_description>
             <groundspeak:encoded_hints>On top of a stone pillar covered with Ivy.</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -987,10 +1754,13 @@ Good Luck and enjoy your trip to this hidden treasure! </groundspeak:long_descri
                 <ox:size>3.8</ox:size>
                 <ox:terrain>1.7</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="-5.5826667" lat="54.3739667">
-        <time>2011-10-06T10:25:51.000-05:00</time>
+        <time>2011-10-06T15:25:51.000Z</time>
         <name>OXZTQ6T</name>
         <desc>Castle Ward Temple water by CWCacher, Traditional Cache(2.5/2.4/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTQ6T</url>
@@ -1005,28 +1775,7 @@ Good Luck and enjoy your trip to this hidden treasure! </groundspeak:long_descri
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">This is a traditional cache placed in The National Trust’s historical location Castle Ward.
-Situated just outside Strangford, approx. 7 miles from Downpatrick in Co Down, Castle Ward is an 820- acre walled demesne with breathtaking views of Strangford Lough.
-Come and explore the many trails that wind their way through atmospheric woodland, gardens and parkland and discover how the Ward family developed this amazing demesne over a four hundred period.
-Castle Ward is a working farm with cattle and sheep in many fields between April and November. At times you may find cows with young calves in the fields, they are protective of their young – do not come between them as this may be dangerous. Dogs should never go in fields with livestock.
-Please wear suitable footwear and clothing for walking, and please keep dogs under close control at all times.
-Parking and entrance is free to National Trust members, but please note that the car park closes at 8pm 1 April to 30 September - all other times of the year it closes at 4pm.
-The Cache
-Allow yourself around 45 mins to find this traditional cache and return to main car park - but why not take longer and enjoy your surroundings on the way?
-The cache is a medium sized camouflaged lockable lunchbox with geocache label on the lid, best approached by heading to the information point at N54*22 4387 W005*34.960
-This cache is located near Temple Water . Temple Water is Ireland's largest man made dug out lake. It takes its style from European Renaissance.
-The trip to the information point is along grass so come prepared. This is a great place location for a day out with the kids.
-
-There are toilet facilities and a café in the stable yard close to the main car park. There are also toilet facilities in the area behind the Clock Tower and there are picnic areas with stunning views of Strangford Lough.
-
-You may borrow one of our GPS navigators from the Visitors Reception area. However there is a limited number so please do not expect them to always be available.
-
-Please be careful when uncovering the cache, muggles can come up to the cache site behind you so please be discreet when taking out the cache and hiding it again.
-As a point of interest you will see a copy of a watercolour of the Farmyard by Mary Ward in the cache.
-If you see anything you like in the cache box, please trade up or even so everyone can enjoy the contents.
-
-Good Luck and enjoy your trip to this hidden treasure!
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">This is a traditional cache placed in The National Trust’s historical location Castle Ward.&lt;br/&gt;Situated just outside Strangford, approx. 7 miles from Downpatrick in Co Down, Castle Ward is an 820- acre walled demesne with breathtaking views of Strangford Lough.&lt;br/&gt;Come and explore the many trails that wind their way through atmospheric woodland, gardens and parkland and discover how the Ward family developed this amazing demesne over a four hundred period.&lt;br/&gt;Castle Ward is a working farm with cattle and sheep in many fields between April and November. At times you may find cows with young calves in the fields, they are protective of their young – do not come between them as this may be dangerous. Dogs should never go in fields with livestock.&lt;br/&gt;Please wear suitable footwear and clothing for walking, and please keep dogs under close control at all times.&lt;br/&gt;Parking and entrance is free to National Trust members, but please note that the car park closes at 8pm 1 April to 30 September - all other times of the year it closes at 4pm.&lt;br/&gt;The Cache&lt;br/&gt;Allow yourself around 45 mins to find this traditional cache and return to main car park - but why not take longer and enjoy your surroundings on the way?&lt;br/&gt;The cache is a medium sized camouflaged lockable lunchbox with geocache label on the lid, best approached by heading to the information point at N54*22 4387 W005*34.960&lt;br/&gt;This cache is located near Temple Water . Temple Water is Ireland's largest man made dug out lake. It takes its style from European Renaissance.&lt;br/&gt;The trip to the information point is along grass so come prepared. This is a great place location for a day out with the kids.&lt;br/&gt;&lt;br/&gt;There are toilet facilities and a café in the stable yard close to the main car park. There are also toilet facilities in the area behind the Clock Tower and there are picnic areas with stunning views of Strangford Lough.&lt;br/&gt;&lt;br/&gt;You may borrow one of our GPS navigators from the Visitors Reception area. However there is a limited number so please do not expect them to always be available.&lt;br/&gt;&lt;br/&gt;Please be careful when uncovering the cache, muggles can come up to the cache site behind you so please be discreet when taking out the cache and hiding it again.&lt;br/&gt;As a point of interest you will see a copy of a watercolour of the Farmyard by Mary Ward in the cache.&lt;br/&gt;If you see anything you like in the cache box, please trade up or even so everyone can enjoy the contents.&lt;br/&gt;&lt;br/&gt;Good Luck and enjoy your trip to this hidden treasure!&lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Look at the base of a Yucca Tree near the edge of Temple Water.</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1036,10 +1785,13 @@ Good Luck and enjoy your trip to this hidden treasure!
                 <ox:size>3.7</ox:size>
                 <ox:terrain>2.4</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="-5.5742" lat="54.3749333">
-        <time>2011-10-06T10:28:00.000-05:00</time>
+        <time>2011-10-06T15:28:00.000Z</time>
         <name>OXZTQ6R</name>
         <desc>Castle Ward Boathouse by CWCacher, Traditional Cache(2.6/2.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTQ6R</url>
@@ -1054,30 +1806,7 @@ Good Luck and enjoy your trip to this hidden treasure!
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">This is a traditional cache placed in The National Trust’s historical location Castle Ward.
-Situated just outside Strangford, approx. 7 miles from Downpatrick in Co Down, Castle Ward is an 820- acre walled demesne with breathtaking views of Strangford Lough.
-Come and explore the many trails that wind their way through atmospheric woodland, gardens and parkland and discover how the Ward family developed this amazing demesne over a four hundred period.
-Castle Ward is a working farm with cattle and sheep in many fields between April and November. At times you may find cows with young calves in the fields, they are protective of their young – do not come between them as this may be dangerous. Dogs should never go in fields with livestock.
-Please wear suitable footwear and clothing for walking, and please keep dogs under close control at all times.
-Parking and entrance is free to National Trust members, but please note that the car park closes at 8pm 1 April to 30 September - all other times of the year it closes at 4pm.
-The Cache
-Allow yourself around 45 mins to find this traditional cache and return to main car park - but why not take longer and enjoy your surroundings on the way?
-The cache is a medium sized camouflaged lockable lunchbox with geocache label on the lid, best approached by heading to the information point at N54*22 496 W005*34.452
-This cache is located near the boathouse . The boat house is one of two built by the Ward Family. The boat house has a simple but effective winching system with narrow metal rails for the boat trolley. It was used by the wards for getting their boats in and out of the water.
-The trip to the information point is along a
-road followd by a grass area, so come prepared. This is a great place location for a day out with the kids.
-
-There are toilet facilities and a café in the stable yard close to the main car park.
-There are also toilet facilities in the area behind the Clock Tower and there are picnic areas with stunning views of Strangford Lough.
-
-You may borrow one of our GPS navigators from the Visitors Reception area. However there is a limited number so please do not expect them to always be available.
-
-Please be careful when uncovering the cache, muggles can come up to the cache site behind you so please be discreet when taking out the cache and hiding it again.
-
-If you see anything you like in the cache box, please trade up or even so everyone can enjoy the contents.
-
-Good Luck and enjoy your trip to this hidden treasure!
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">This is a traditional cache placed in The National Trust’s historical location Castle Ward.&lt;br/&gt;Situated just outside Strangford, approx. 7 miles from Downpatrick in Co Down, Castle Ward is an 820- acre walled demesne with breathtaking views of Strangford Lough.&lt;br/&gt;Come and explore the many trails that wind their way through atmospheric woodland, gardens and parkland and discover how the Ward family developed this amazing demesne over a four hundred period.&lt;br/&gt;Castle Ward is a working farm with cattle and sheep in many fields between April and November. At times you may find cows with young calves in the fields, they are protective of their young – do not come between them as this may be dangerous. Dogs should never go in fields with livestock.&lt;br/&gt;Please wear suitable footwear and clothing for walking, and please keep dogs under close control at all times.&lt;br/&gt;Parking and entrance is free to National Trust members, but please note that the car park closes at 8pm 1 April to 30 September - all other times of the year it closes at 4pm.&lt;br/&gt;The Cache&lt;br/&gt;Allow yourself around 45 mins to find this traditional cache and return to main car park - but why not take longer and enjoy your surroundings on the way?&lt;br/&gt;The cache is a medium sized camouflaged lockable lunchbox with geocache label on the lid, best approached by heading to the information point at N54*22 496 W005*34.452&lt;br/&gt;This cache is located near the boathouse . The boat house is one of two built by the Ward Family. The boat house has a simple but effective winching system with narrow metal rails for the boat trolley. It was used by the wards for getting their boats in and out of the water.&lt;br/&gt;The trip to the information point is along a&lt;br/&gt;road followd by a grass area, so come prepared. This is a great place location for a day out with the kids.&lt;br/&gt;&lt;br/&gt;There are toilet facilities and a café in the stable yard close to the main car park.&lt;br/&gt;There are also toilet facilities in the area behind the Clock Tower and there are picnic areas with stunning views of Strangford Lough.&lt;br/&gt;&lt;br/&gt;You may borrow one of our GPS navigators from the Visitors Reception area. However there is a limited number so please do not expect them to always be available.&lt;br/&gt;&lt;br/&gt;Please be careful when uncovering the cache, muggles can come up to the cache site behind you so please be discreet when taking out the cache and hiding it again.&lt;br/&gt;&lt;br/&gt;If you see anything you like in the cache box, please trade up or even so everyone can enjoy the contents.&lt;br/&gt;&lt;br/&gt;Good Luck and enjoy your trip to this hidden treasure!&lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Look between the large logs near the boathouse.</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1087,10 +1816,13 @@ Good Luck and enjoy your trip to this hidden treasure!
                 <ox:size>3.8</ox:size>
                 <ox:terrain>2.6</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="-5.88965" lat="54.402583">
-        <time>2010-07-24T02:00:00.000-05:00</time>
+        <time>2010-07-24T07:00:00.000Z</time>
         <name>OX2C834</name>
         <desc>Windmill Hill Redux by SNELLIJ, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2C834</url>
@@ -1107,41 +1839,41 @@ Good Luck and enjoy your trip to this hidden treasure!
             <groundspeak:terrain>1.5</groundspeak:terrain>
             <groundspeak:long_description html="True">The original &lt;a href=&quot;http://www.geocaching.com/seek/cache_details.aspx?guid=9745de3e-ce0e-44ac-b8f8-98792d2650c5&quot;&gt;Windmill Hill cache&lt;/a&gt; has been
 archived since Feb 2009, &amp; cannot be resurrected - so here is
-&lt;b&gt;Windmill Hill Redux&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;Windmill Hill Redux&lt;/b&gt;&lt;br /&gt;
 &lt;p&gt;Nice easy walk out to &lt;a href=&quot;http://www.ballynahinchregeneration.org/windmill.htm&quot;&gt;Windmill Hill&lt;/a&gt; in the centre of
 Ballynahinch.&lt;/p&gt;
-&lt;br/&gt;
+&lt;br /&gt;
 &lt;p&gt;The windmill is visible from most parts of the town and the
 Woodland Trust hope to have it fully restored to its former glory
 at some point in the future.&lt;/p&gt;
-&lt;br/&gt;
+&lt;br /&gt;
 &lt;p&gt;To get to Windmill Hill, park at the waypoint in Windmill
 Gardens where parking is available. Head up to the back of the
 houses, turn left and follow the grass path. Enter via the metal
 gateway on your right &amp; then follow the path up and around to
 the windmill.&lt;/p&gt;
-&lt;br/&gt;
+&lt;br /&gt;
 &lt;p&gt;Views of the Mournes, Slieve Croob and the greater Ballynahinch
 area are great from the top!&lt;/p&gt;
-&lt;br/&gt;
+&lt;br /&gt;
 &lt;p&gt;The cache is a small tab-lock box with a mixture of goodies,
 logbook, pencil (&amp; includes a FTF badge!)&lt;/p&gt;
-&lt;br/&gt;
+&lt;br /&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.geocaching.com/seek/cache_details.aspx?guid=62fa378c-92fe-4b6b-b14c-5e7bda17980b&quot;&gt;Riverside Walk&lt;/a&gt; is close by if
 you haven't already done this cache!&lt;/p&gt;
-&lt;br/&gt;
+&lt;br /&gt;
 Remember! Its cache in, trash out! Not trash in, cash out :) Please
 swap items of equal value so people can enjoy the swaps as much as
 the walk!
-&lt;p&gt;&lt;br/&gt;
-&lt;br/&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;
 
  
-&lt;/p&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;PK2C834 - GC2C834 Parking&lt;br/&gt;N 54° 24.174 W 005° 53.254</groundspeak:long_description>
+&lt;/p&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;PK2C834 - GC2C834 Parking&lt;br /&gt;N 54° 24.174 W 005° 53.254</groundspeak:long_description>
             <groundspeak:encoded_hints>Stumped! Don't let it get 'on top' on you!</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="354682">
-                    <groundspeak:date>2010-11-13T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2010-11-13T20:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="2713">medic143</groundspeak:finder>
                     <groundspeak:text encoded="False">Very soft underfoot heading up to this one today. Looked in the obvious spot (with the same lack of results as other finders) and then found it very close by to the original search point
@@ -1149,7 +1881,7 @@ the walk!
 TNLN TFTC</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1377390">
-                    <groundspeak:date>2010-09-10T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-09-10T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="18950">SNELLIJ</groundspeak:finder>
                     <groundspeak:text encoded="False">Found on a beautiful afternoon
@@ -1167,8 +1899,67 @@ This entry was edited by LordSoth on Wednesday, 13 October 2010 at 03:13:39.</gr
             </ox:ratings>
         </ox:opencaching>
     </wpt>
+    <wpt lon="-5.6572167" lat="55.8170167">
+        <time>2012-07-24T20:31:51.000Z</time>
+        <name>OXZTE72</name>
+        <desc>Kilberry Stones by geofaf, Traditional Cache(2.5/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTE72</url>
+        <urlname>Kilberry Stones</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28464078">
+            <groundspeak:name>Kilberry Stones</groundspeak:name>
+            <groundspeak:placed_by>geofaf</groundspeak:placed_by>
+            <groundspeak:owner id="15707">geofaf</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">A small cache placed near an impresive collection of late-medieval sculptured stones. The cache is placed within the confines of the shelter but not near the sculptured stones.&lt;br/&gt;&lt;br/&gt;The shelter contains 8 grave-slabs dated between the 14th and 16th centuries. It is thought many of the stones came from a medieval church dedicated to St Becham. The most important stone is the Killbery Cross.&lt;br/&gt;&lt;br/&gt;Please enjoy your visit to this area, it is a very peaceful place.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Feel on the top of the rear right hand pillar of the shelter. A step is well positioned!</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.7</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-5.6572167" lat="55.8201667">
+        <time>2012-07-24T20:40:19.000Z</time>
+        <name>OXZTE70</name>
+        <desc>Kilberry Stones by geofaf, Traditional Cache(2.4/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTE70</url>
+        <urlname>Kilberry Stones</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28464076">
+            <groundspeak:name>Kilberry Stones</groundspeak:name>
+            <groundspeak:placed_by>geofaf</groundspeak:placed_by>
+            <groundspeak:owner id="15707">geofaf</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">A small cache placed near an impresive collection of late-medieval sculptured stones. The cache is placed within the confines of the shelter but not near the sculptured stones.&lt;br/&gt;&lt;br/&gt;The shelter contains 8 grave-slabs dated between the 14th and 16th centuries. It is thought many of the stones came from a medieval church dedicated to St Becham. The most important stone is the Killbery Cross.&lt;br/&gt;&lt;br/&gt;Please enjoy your visit to this area, it is a very peaceful place.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Feel on the top of the rear right hand pillar of the shelter. A step is well positioned!</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.4</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Historic site</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
     <wpt lon="-5.02785" lat="56.4038">
-        <time>2011-09-22T16:57:46.000-05:00</time>
+        <time>2011-09-22T21:57:46.000Z</time>
         <name>OXWPQT</name>
         <desc>Fantastic Place by JESTER1970, Traditional Cache(2.5/2.7/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXWPQT</url>
@@ -1183,16 +1974,17 @@ This entry was edited by LordSoth on Wednesday, 13 October 2010 at 03:13:39.</gr
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">A traditional cache at one of Scotlands most photographed castles, it can be damp, so bring your wellies!
-
-Kilchurn Castle was originally built on an island in Loch Awe in the mid 15th Century by Sir Colin Campbell. It contained the first purpose built barracks in Scotland, and even though it has fell in to ruin, it is one of the most impressive, mainly due to its picturesque position. Since it was built the level of the loch has lowered and the castle now stands on a headland. Access is advertised by Historic Scotland as being summer only, by boat (Tel: Loch Awe boats on 01866 833 333 for times and prices) from the pier adjacent to Lochawe railway station, however the map shows that you can walk around the loch from the south side.
-The level crossing which crosses the traditional access point was closed by Network Rail in 2003, when all crossings of this type were closed for &quot;safety&quot; reasons(See the related web page for more details). This was the traditional route on foot from the road to the castle, however with level crossing misuse occurring elsewhere in the UK it was decided to close all crossings of this type. Anyone using the crossing does so at their own risk and risks prosecution in doing so.
-!!!! An alternative path leads off from the car park under the railway bridge.!!!!
-The cache itself is a lock and lock container, large enough to hold the logbook and various small items. Please close it the same way it opened to keep it watertight as the area is wet and prone to flooding.</groundspeak:long_description>
+            <groundspeak:long_description html="True">A traditional cache at one of Scotlands most photographed castles, it can be damp, so bring your wellies!&lt;br/&gt;&lt;br/&gt;Kilchurn Castle was originally built on an island in Loch Awe in the mid 15th Century by Sir Colin Campbell. It contained the first purpose built barracks in Scotland, and even though it has fell in to ruin, it is one of the most impressive, mainly due to its picturesque position. Since it was built the level of the loch has lowered and the castle now stands on a headland. Access is advertised by Historic Scotland as being summer only, by boat (Tel: Loch Awe boats on 01866 833 333 for times and prices) from the pier adjacent to Lochawe railway station, however the map shows that you can walk around the loch from the south side.&lt;br/&gt;The level crossing which crosses the traditional access point was closed by Network Rail in 2003, when all crossings of this type were closed for &quot;safety&quot; reasons(See the related web page for more details). This was the traditional route on foot from the road to the castle, however with level crossing misuse occurring elsewhere in the UK it was decided to close all crossings of this type. Anyone using the crossing does so at their own risk and risks prosecution in doing so.&lt;br/&gt;!!!! An alternative path leads off from the car park under the railway bridge.!!!!&lt;br/&gt;The cache itself is a lock and lock container, large enough to hold the logbook and various small items. Please close it the same way it opened to keep it watertight as the area is wet and prone to flooding.</groundspeak:long_description>
             <groundspeak:encoded_hints>Below the North west tower, under some rocks at the base of a large protruding rock.</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="1781813">
+                    <groundspeak:date>2012-04-09T23:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="107888">SHAARAWI</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
                 <groundspeak:log id="150849">
-                    <groundspeak:date>2008-06-15T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2008-06-15T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="1938">SNAIKM</groundspeak:finder>
                     <groundspeak:text encoded="False">Fantastic place for a break on the way to Perth. Weather was just perfect. Thought the Castle looked familiar! seen it on a Shorty Tin! Took a few pics.
@@ -1207,13 +1999,54 @@ Snaik </groundspeak:text>
             <ox:ratings>
                 <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>2.5</ox:difficulty>
-                <ox:size>3.9</ox:size>
+                <ox:size>3.8</ox:size>
+                <ox:terrain>2.7</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-5.6384333" lat="57.8839833">
+        <time>2012-09-12T19:25:19.000Z</time>
+        <name>OXZTD29</name>
+        <desc>Charley's box by SABER48PAP, Traditional Cache(2.8/2.7/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTD29</url>
+        <urlname>Charley's box</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28462969">
+            <groundspeak:name>Charley's box</groundspeak:name>
+            <groundspeak:placed_by>SABER48PAP</groundspeak:placed_by>
+            <groundspeak:owner id="126185">SABER48PAP</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">You can get a normal car down track with a little care or easier with a 4 by 4 or approx an houre's walk or shorter cycle ride. Abandoned village on left at end of partly surfaced road then after finding cache carry on down footpath to Slaggan bay ideal for picknic on beach where the Queen has been known to eat on this beach while touring the west coast. This is dedicated to our new grandson so feel free to sign book with comments and town your from or txt a comment to Lesley on 07906111026. Hope you have a wonderfull time while your in this area</groundspeak:long_description>
+            <groundspeak:encoded_hints>Step into my humble abode</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.8</ox:difficulty>
+                <ox:size>2.6</ox:size>
                 <ox:terrain>2.7</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>castle scotland</ox:tag>
-                <ox:tag>Castle</ox:tag>
+                <ox:tag>Historic site</ox:tag>
+                <ox:tag>Verifiable</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
             </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>10-27837D3D-1058415-800.jpg</ox:name>
+                    <ox:size>4229</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
         </ox:opencaching>
     </wpt>
 </gpx>

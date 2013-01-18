@@ -1,17 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>3 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,-54,90,-53</url>
-    <time>2012-01-04T09:28:48.615-06:00</time>
+    <time>2012-12-19T22:40:48.905Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="-53.0" maxlat="90.0" minlon="-54.0" minlat="-90.0"/>
+    <wpt lon="-53.5448056" lat="47.5743333">
+        <time>2012-10-14T18:14:52.000Z</time>
+        <name>OXZTC7K</name>
+        <desc>Woodland Wonder by teepee719, Traditional Cache(2.6/2.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTC7K</url>
+        <urlname>Woodland Wonder</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28462173">
+            <groundspeak:name>Woodland Wonder</groundspeak:name>
+            <groundspeak:placed_by>teepee719</groundspeak:placed_by>
+            <groundspeak:owner id="155685">teepee719</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Many years ago the Newfoundland train chugged through this area.</groundspeak:long_description>
+            <groundspeak:encoded_hints>If you find the water supply you've gone to far!</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>3.7</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
     <wpt lon="-53.6973833" lat="48.0134833">
-        <time>2010-12-07T13:04:33.000-06:00</time>
+        <time>2010-12-07T19:04:33.000Z</time>
         <name>OX2K3KB</name>
-        <desc>Little Heart's Ease West by ESCAPERR, Traditional Cache(1.6/1.9/3.5)</desc>
+        <desc>Little Heart's Ease West by ESCAPERR, Traditional Cache(1.6/1.9/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2K3KB</url>
         <urlname>Little Heart's Ease West</urlname>
         <sym>Geocache</sym>
@@ -24,19 +52,11 @@
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Hide #450.. and the first Newfoundland geocache with Opencaching.com!
-
-Please leave as found (or better) and sign the logbook!
-BYOP!
-(Bring your own pen/pencil!)
-Good Luck!
-
-Remember - the decision to search for any geocache (or to participate in any outdoor activity), and the responsibility for your own safety lies with you!
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Hide #450.. and the first Newfoundland geocache with Opencaching.com!&lt;br/&gt;&lt;br/&gt;Please leave as found (or better) and sign the logbook!&lt;br/&gt;BYOP!&lt;br/&gt;(Bring your own pen/pencil!)&lt;br/&gt;Good Luck!&lt;br/&gt;&lt;br/&gt;Remember - the decision to search for any geocache (or to participate in any outdoor activity), and the responsibility for your own safety lies with you!&lt;br/&gt;</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>1.6</ox:difficulty>
                 <ox:size>3.2</ox:size>
                 <ox:terrain>1.9</ox:terrain>
@@ -44,9 +64,9 @@ Remember - the decision to search for any geocache (or to participate in any out
         </ox:opencaching>
     </wpt>
     <wpt lon="-53.4133333" lat="48.6079167">
-        <time>2010-12-07T13:08:35.000-06:00</time>
+        <time>2010-12-07T19:08:35.000Z</time>
         <name>OX2J8QJ</name>
-        <desc>Disocvery Trail -&amp;gt; Keels by ESCAPERR, Traditional Cache(2.3/2.7/3.5)</desc>
+        <desc>Disocvery Trail -&amp;gt; Keels by ESCAPERR, Traditional Cache(2.3/2.7/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2J8QJ</url>
         <urlname>Disocvery Trail -&amp;gt; Keels</urlname>
         <sym>Geocache</sym>
@@ -59,20 +79,12 @@ Remember - the decision to search for any geocache (or to participate in any out
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Some of the highlights in Keels are the geological features known as &quot;the Devil's Footprints&quot; that are found on the rocks surrounding the town, the Anglican Cemetery that dates to the beginnings of the community, and a natural sea-spray phenomenon known as &quot;Clark's Chimney Hole&quot; on the coast. The one and only store located in the middle of the community has been owned by the Mesh family for generations. The Way Office was established in 1885 and the first Waymaster was Edward Penny. 
-
-Please leave as found (or better) and sign the logbook (with INITIALS ONLY PLEASE!).
-BYOP!
-(Bring your own pen/pencil!)
-Good Luck!
-
-Remember - the decision to search for any geocache (or to participate in any outdoor activity), and the responsibility for your own safety lies with you! 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Some of the highlights in Keels are the geological features known as &quot;the Devil's Footprints&quot; that are found on the rocks surrounding the town, the Anglican Cemetery that dates to the beginnings of the community, and a natural sea-spray phenomenon known as &quot;Clark's Chimney Hole&quot; on the coast. The one and only store located in the middle of the community has been owned by the Mesh family for generations. The Way Office was established in 1885 and the first Waymaster was Edward Penny. &lt;br/&gt;&lt;br/&gt;Please leave as found (or better) and sign the logbook (with INITIALS ONLY PLEASE!).&lt;br/&gt;BYOP!&lt;br/&gt;(Bring your own pen/pencil!)&lt;br/&gt;Good Luck!&lt;br/&gt;&lt;br/&gt;Remember - the decision to search for any geocache (or to participate in any outdoor activity), and the responsibility for your own safety lies with you! &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>hanging</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>2.3</ox:difficulty>
                 <ox:size>1.8</ox:size>
                 <ox:terrain>2.7</ox:terrain>

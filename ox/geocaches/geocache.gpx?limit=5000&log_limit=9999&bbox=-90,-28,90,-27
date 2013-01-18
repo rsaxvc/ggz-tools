@@ -1,531 +1,86 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>21 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,-28,90,-27</url>
-    <time>2012-01-04T09:28:55.540-06:00</time>
+    <time>2012-12-19T22:43:04.938Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="-27.0" maxlat="90.0" minlon="-28.0" minlat="-90.0"/>
-    <wpt lon="-27.230833" lat="38.642517">
-        <time>2009-08-15T02:00:00.000-05:00</time>
-        <name>OX1X9AP</name>
-        <desc>Monte Brasil - &quot;O Pico Zimbreiro&quot; by PlPELINE, Traditional Cache(2.5/2.5/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX1X9AP</url>
-        <urlname>Monte Brasil - &quot;O Pico Zimbreiro&quot;</urlname>
+    <wpt lon="-27.1924" lat="38.639217">
+        <time>2012-06-19T08:00:00.000Z</time>
+        <name>OX3AHGR</name>
+        <desc>Welcome to ........... by macadju, Unknown Cache(2.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3AHGR</url>
+        <urlname>Welcome to ...........</urlname>
         <sym>Geocache</sym>
-        <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="1766650">
-            <groundspeak:name>Monte Brasil - &quot;O Pico Zimbreiro&quot;</groundspeak:name>
-            <groundspeak:placed_by>PlPELINE</groundspeak:placed_by>
-            <groundspeak:owner id="73038">PlPELINE</groundspeak:owner>
-            <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Small</groundspeak:container>
-            <groundspeak:difficulty>2.5</groundspeak:difficulty>
-            <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">O terreno até á cache é constituido por estrada não pavimentada, deverão estacionar a viatura nas coordenadas indicadas e tomar o caminho até á vigia da baleia a pé.
-
-Esta é a 1ª cache que coloco, espero que se divirtam a procura-la bem como disfrutando de algumas paisagens que a caminhada até ela vos proporcionará!
-
-A cache é composta inicialmente por:
-
-1 Logbook;
-1 Lápis;
-1 Caneta;
-1 Apara Lápis;
-2 Brinquedos
-1 Autocolante &quot;TT-terceirense&quot;
-1 Porta Canetas
-1 Prisão do Cabelo
-1 Instruções em Português
-1 Instruções em Inglês
-
-Isto tudo está colocado dentro de um tupperware plastico de tamanho pequeno/médio sensivelmente com o comprimento de uma mão adulta e com 3 dedos de altura.
-
-Coordenadas do Estacionamento: N38 38.623 W27 13.829
-
-NOTA - O Monte Brasil fecha ás 21h! Reabre ás 8h!
-
------
-
-English
-
-This is my first cache, i hope you enjoy the hunt and also the great landscape's you will get during your walk to it!
-
-
-The cache is composed  by:
-
-1 Logbook;
-1 Pencil;
-1 Pen;
-1 Pencil Sharpner
-2 Trading Toys
-1  &quot;TT-terceirense&quot; Sticker
-1 Pen Carrier
-1 Prisão do Cabelo
-1 Portuguese Instructions
-1 English Instructions
-
-This is all inside a small/medium plastic tupperware, with approximately the length of an adult's hand and a height of 3 fingers
-
-Parking coordinates: N38 38.623 W27 13.829
-
-Note: Monte Brasil closes at 21h! Re-opens at 8h!
-Additional Hidden Waypoints
-PK1X9AP - Estacionamento das Viaturas
-N 38° 38.623 W 027° 13.829</groundspeak:long_description>
-            <groundspeak:encoded_hints>Siga o trilho por trás da Vigia! Deixe exactamente como encontrou!</groundspeak:encoded_hints>
-            <groundspeak:logs>
-                <groundspeak:log id="1688648">
-                    <groundspeak:date>2011-09-10T19:00:00.000-05:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="73061">Team PortoJudeu</groundspeak:finder>
-                    <groundspeak:text encoded="False">Eu nem sabia que este recanto existia no Monte Brasil.
-Bela vista.</groundspeak:text>
-                </groundspeak:log>
-            </groundspeak:logs>
-        </groundspeak:cache>
-        <ox:opencaching>
-            <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>2.5</ox:difficulty>
-                <ox:size>3.0</ox:size>
-                <ox:terrain>2.5</ox:terrain>
-            </ox:ratings>
-        </ox:opencaching>
-    </wpt>
-    <wpt lon="-27.221283" lat="38.64335">
-        <time>2009-08-25T02:00:00.000-05:00</time>
-        <name>OX1XQT5</name>
-        <desc>Monte Brasil - O Pico do Facho by PlPELINE, Traditional Cache(3.0/2.0/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX1XQT5</url>
-        <urlname>Monte Brasil - O Pico do Facho</urlname>
-        <sym>Geocache</sym>
-        <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="1780552">
-            <groundspeak:name>Monte Brasil - O Pico do Facho</groundspeak:name>
-            <groundspeak:placed_by>PlPELINE</groundspeak:placed_by>
-            <groundspeak:owner id="73038">PlPELINE</groundspeak:owner>
-            <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Micro</groundspeak:container>
-            <groundspeak:difficulty>3</groundspeak:difficulty>
-            <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">O acesso ao Pico do Facho é feito por estrada pavimentada até cerca de 200~250mt da cache, o restante caminho é de estrada não pavimentada que de algum modo não será recomendado a veiculos ditos normais mas sim 4x4 e/ou a pé!
-
-
-The access to the Pico do Facho  is by paved road up to about 200 ~ 250mt from the cache, the remaining path is not paved and for that is not recommended for “regular” vehicles but 4x4 and / or on foot instead!
-
-O Pico do Facho
-
-Local onde desde o povoamente, a telegrafia óptica, ou visual, desempenhou um papel crucial na defesa da ilha.
-Ao longo dos tempos sofreu alterações na sua estrutura, até ao que ainda hoje se pode observar. Assim como na sinalética, que foi evoluindo com o apareçimento dos navios, e inclusivé desempenhou o papel  de vigia da baleia.
-
-EN
-
-Pico do Facho 
-
-Location that, since the settlement, the optical telegraphy, or visual, played a crucial role in defending the island. 
-
-It has changed its structure throughout time, to what today can still  be observed. Just as in the  signals, which have evolved with the appearance of vessels, and even played the role of the whale watching spot.
-
-
-A Cache:
-
-Trata-se de uma &quot;Mini&quot; Micro Cache (+/-20mm container) que contém somente 1 logbook por não haver espaço para mais.
-
-.Por favor levem a vossa própria caneta e/ou lápis! Obrigado! BYOP
-
-Agradeço que não coloquem aqui fotos da mesma e que a coloquem exactamente como encontraram.  Obrigado.
-
-Disfrutem da excelente vista que vos proporcionará a ida ao cimo do Pico do Facho!
-
-*** Horario de acesso ao Monte Brasil das 8h ás 21h
-
-EN
-
-The Cache:
-
-It´s a little &quot;Mini&quot; Micro Cache (+/-20mm container) that has inside only a logbook because there is no room for nothing else. 
-
-.Please bring your own pen/pencil. Thank you! BYOP
-
-I ask you not to post pictures of the cache and put her back as you found! Thank you.
-
-Enjoy the wonderfull view that you will get on top of Pico do Facho.
-
-*** Monte Brasil is  open from 8am to 9pm!
-Additional Hidden Waypoints
-P11XQT5 - Regular Vehicles Parking Area
-N 38° 38.765 W 027° 13.412
-Regular Vehicles Parking Area.
-P21XQT5 - Off Road Parking
-N 38° 38.537 W 027° 13.284
-Off Road Vehicles Parking Area.</groundspeak:long_description>
-            <groundspeak:encoded_hints>No chão, em redor do circulo grande. 
-On the ground, somewhere around the big circle.</groundspeak:encoded_hints>
-            <groundspeak:logs>
-                <groundspeak:log id="1688647">
-                    <groundspeak:date>2011-09-10T19:00:00.000-05:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="73061">Team PortoJudeu</groundspeak:finder>
-                    <groundspeak:text encoded="False">Linda vista.
-Feita numa bela tarde em família.</groundspeak:text>
-                </groundspeak:log>
-            </groundspeak:logs>
-        </groundspeak:cache>
-        <ox:opencaching>
-            <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>3.0</ox:difficulty>
-                <ox:size>2.0</ox:size>
-                <ox:terrain>2.0</ox:terrain>
-            </ox:ratings>
-        </ox:opencaching>
-    </wpt>
-    <wpt lon="-27.0881" lat="38.642783">
-        <time>2011-07-30T02:00:00.000-05:00</time>
-        <name>OX315TK</name>
-        <desc>Ponta das Cavalas by PlPELINE, Traditional Cache(2.0/2.0/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX315TK</url>
-        <urlname>Ponta das Cavalas</urlname>
-        <sym>Geocache</sym>
-        <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="2805953">
-            <groundspeak:name>Ponta das Cavalas</groundspeak:name>
-            <groundspeak:placed_by>PlPELINE</groundspeak:placed_by>
-            <groundspeak:owner id="73038">PlPELINE</groundspeak:owner>
-            <groundspeak:type>Traditional Cache</groundspeak:type>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3085330">
+            <groundspeak:name>Welcome to ...........</groundspeak:name>
+            <groundspeak:placed_by>macadju</groundspeak:placed_by>
+            <groundspeak:owner id="95483">macadju</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
-            <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">O Forte das Cavalas localiza-se na Vila de São Sebastião, concelho de Angra do Heroísmo, na Ilha Terceira, nos Açores.
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">
 
-Na ponta Leste da baía da Salga, cruzava fogos com o Reduto da Salga, o Forte da Salga e o Forte das Caninas.
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Cache mais proxima,TB HOTEL (aerogave das lages),as coordenadas marcavam N 38º 45.177 W 027º 05.142 , a distancia eram de 15,9km para a cahe desejada,….&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;TAXI!!!!!!!!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Chegando local as coordenadas disponiveis para tentar cruzar as distancias eram:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Palacio dos capitães(&lt;strong&gt;N 38° 39.395 W 027° 13.175) : 6338.6827 polegadas
 
-História
-
-No contexto da crise de sucessão de 1580, figura entre as defesas da ilha, no período de 1581 a 1583, erguidas ou reformadas por determinação do corregedor dos Açores, Ciprião de Figueiredo e Vasconcelos, conforme o plano de defesa da ilha elaborado por Tommaso Benedetto, tendo oferecido resistência aos Espanhóis[1].
-
-Sobre ele refere Manoel de Mattos P. de Carvalho na &quot;Notícia da fortificação da ilha Terceira&quot;, por volta de 1766:
-
-&quot;Tem fortificação na Villa da Praia: (...)
-
-13 - A fortaleza das Cavallas, com 3 peças.
-
-(...) todas estas fortalezas se acham presentemente reparadas, por occasião da guerra.&quot;
-
-Quando do levantamento dos Tombos dos Fortes da Ilha Terceira, em 1881, encontrava-se abandonado e em ruínas.
-
-No contexto da Segunda Guerra Mundial, parte da cantaria do antigo forte foi reaproveitada na construção de casas para as guarnições das posições de metralhadoras, postadas nas baías da Salga e das Mós.
-
-Em 1962, o então presidente da Câmara de Angra, Manuel Coelho Baptista de Lima, obteve do Ministério da Guerra a concessão deste forte. Na ocasião, projectava-se recuperar o forte, com a arborização do seu entorno e a criação de um parque de campismo. Junto ao Forte da Salga, a ser igualmente recuperado, seria implantado um espaço para piqueniques.
-
-Características:
-
-Do tipo abaluartado, apresenta planta no formato trapezoidal, adaptado à rocha sobre a qual se ergue. A sua área construída era de 465 metros quadrados.
-
-Com capacidade para nove peças de artilharia em canhoneiras, no terrapleno posuía um paiol acedido por uma rampa. Pelo exterior, adossada à face Oeste erguia-se a casa da guarnição.
-
-in: pt.wikipedia.org
-
-
-
-A CACHE: 
-
-1 logbook
-1 Lapis
-
-
-FAVOR NÃO COLOCAR FOTOS DA CACHE!
-
-PLEASE DO NOT POST PICTURES OF THE CACHE!
-Additional Hidden Waypoints
-AP315TK - Access Point
-N 38° 38.645 W 027° 05.306
-Access point to the cache area!</groundspeak:long_description>
-            <groundspeak:encoded_hints>Tudo é rocha excepto eu...
-
-It's all rock except me..</groundspeak:encoded_hints>
-            <groundspeak:logs>
-                <groundspeak:log id="1688650">
-                    <groundspeak:date>2011-09-01T19:00:00.000-05:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="73061">Team PortoJudeu</groundspeak:finder>
-                    <groundspeak:text encoded="False">Devo ter levado 1 hora às voltas!
-Belo container.
-E a vista é espectacular.</groundspeak:text>
-                </groundspeak:log>
-            </groundspeak:logs>
+&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Cais da Alfandega(&lt;strong&gt;N 38° 39.219 W 027° 13.078) :0,1209 milhas&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Assalto ao Teatro(&lt;strong&gt;N 38° 39.327 W 027° 13.397) 0,21168 milhas nauticas&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Bairro do Lameirinho(&lt;/em&gt;&lt;em&gt;&lt;strong&gt;N 38° 39.758 W 027° 12.966&lt;/strong&gt;&lt;/em&gt;&lt;em&gt;&lt;strong&gt;) 2791.988883 Pés(USA)&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;WOOOOOOOWWWWYAAAAAAAAAAAA!!!!!!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Cache encontrada!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;BOAS CACHADAS!!!!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt; </groundspeak:long_description>
+            <groundspeak:encoded_hints>Levo agua....</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
                 <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>2.0</ox:difficulty>
                 <ox:size>2.0</ox:size>
-                <ox:terrain>2.0</ox:terrain>
+                <ox:terrain>1.0</ox:terrain>
             </ox:ratings>
         </ox:opencaching>
     </wpt>
-    <wpt lon="-27.0785" lat="38.643917">
-        <time>2007-12-27T02:00:00.000-06:00</time>
-        <name>OX185FP</name>
-        <desc>Contendas (Ilha Terceira) - Faróis de Portugal by PlPELINE, Traditional Cache(1.0/2.0/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX185FP</url>
-        <urlname>Contendas (Ilha Terceira) - Faróis de Portugal</urlname>
+    <wpt lon="-27.139083" lat="38.645533">
+        <time>2012-02-01T08:00:00.000Z</time>
+        <name>OX3BXM9</name>
+        <desc>Senhora da Esperança by Team PortoJudeu, Traditional Cache(2.1/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3BXM9</url>
+        <urlname>Senhora da Esperança</urlname>
         <sym>Geocache</sym>
         <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="1167141">
-            <groundspeak:name>Contendas (Ilha Terceira) - Faróis de Portugal</groundspeak:name>
-            <groundspeak:placed_by>PlPELINE</groundspeak:placed_by>
-            <groundspeak:owner id="73038">PlPELINE</groundspeak:owner>
+        <groundspeak:cache archived="False" available="True" id="3125801">
+            <groundspeak:name>Senhora da Esperança</groundspeak:name>
+            <groundspeak:placed_by>Team PortoJudeu</groundspeak:placed_by>
+            <groundspeak:owner id="73061">Team PortoJudeu</groundspeak:owner>
             <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Regular</groundspeak:container>
-            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">&lt;br/&gt;&lt;br/&gt; &lt;p&gt;&lt;b&gt;Faróis de
-Portugal&lt;br/&gt;
-Lighthouses in Portugal&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-
-
-
-
-
-&lt;b&gt;Mapa dos
-Faróis em Portugal&lt;br/&gt;
-Portuguese Lighthouses Map&lt;/b&gt;&lt;br/&gt;
-&lt;a href=&quot;http://www.geocaching.com/seek/cache_details.aspx?guid=813beb24-a038-4cd4-aabd-7ee2aba123fc#mapa&quot;&gt;&lt;/a&gt;&lt;br/&gt;
-&lt;i&gt;Carregue na imagem para ampliar&lt;br/&gt;
-Click on image to see&lt;/i&gt;
-
-
-
-
-
-&lt;b&gt;Informações genéricas / Generic
-Informations&lt;/b&gt;&lt;br/&gt;
-&lt;br/&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.geocaching.com/seek/cache_details.aspx?guid=813beb24-a038-4cd4-aabd-7ee2aba123fc#objectivo&quot;&gt;&lt;b&gt;Objectivo / Goal&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.geocaching.com/seek/cache_details.aspx?guid=813beb24-a038-4cd4-aabd-7ee2aba123fc#outras&quot;&gt;&lt;b&gt;Outras Caches em Faróis / Others Caches on
-Lighthouses&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.geocaching.com/seek/cache_details.aspx?guid=813beb24-a038-4cd4-aabd-7ee2aba123fc#origem&quot;&gt;&lt;b&gt;Origem dos Faróis / Origin of
-Lighthouses&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.geocaching.com/seek/cache_details.aspx?guid=813beb24-a038-4cd4-aabd-7ee2aba123fc#portugal&quot;&gt;&lt;b&gt;Os Faróis em Portugal / Lighthouses in
-Portugal&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;br/&gt;
-
-&lt;p&gt;&lt;b&gt;Farol das Contendas, Ilha Terceira&lt;br/&gt;
-Contendas Lighthouse, Terceira, Açores&lt;/b&gt;&lt;/p&gt;
-
-
-&lt;br/&gt;
-
-
-
-
-
-Local / Location:
-Extremo Sudeste da Ilha Terceira / Extreme South East of Ilha
-Terceira, Azores
-
-
-Altura / Tower height:
-13 m
-
-
-Altitude / Place height:
-54 m
-
-
-Luz / Light:
-Fl (4) WR 15s
-
-
-Alcance / Reach:
-23 M (W) / 20 M (R)
-
-
-Óptica / Optics:
-3ª Ordem - 500 mm
-
-
-Ano / Year:
-1934
-
-
-&lt;p&gt;&lt;b&gt;PT:&lt;/b&gt; O plano inicial para construção do farol indicava a
-Ponta de São Jorge. No entanto, a comissão de 1902 entendeu que
-esta parte da ilha ficava obscurecida, vendo por isso mais
-conveniente a construção na Ponta das Contendas, onde acabou por
-ser construído bastante mais tarde do que o previsto.&lt;br/&gt;
-&lt;b&gt;EN:&lt;/b&gt; The initial plan intended to build the lighthouse in
-Ponta de São Jorge. However, the commission in 1902 saw that this
-part of the island was overcast, and therefore the construction in
-Ponta das Contendas was more convenient. There began the
-construction, much later than previewed.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;PT:&lt;/b&gt; Em 1926 foram comprados os terrenos para a edificação
-do farol, por 1500$00 na moeda açoreana, equivalente a 1200$00 na
-moeda continental (6 euros, se fizermos a correspondência
-actual).&lt;br/&gt;
-&lt;b&gt;EN:&lt;/b&gt; In 1926 the lands for the construction of the lighthouse
-had been bought, for 1500$00 in the azorean currency, equivalent to
-1200$00 in the continental currency (6 euros).&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;PT:&lt;/b&gt; A obra teve o seu início em 1928, sob a direcção de
-António Tomaz, que já tinha dirigido a construção de outros
-faróis.&lt;br/&gt;
-&lt;b&gt;EN:&lt;/b&gt; The construction began in 1928, under the direction of
-António Tomaz, who had already built other lighthouses.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;PT:&lt;/b&gt; Este farol foi estabelecido em 1 de Fevereiro de
-1934, utilizando para a iluminação o vapor de petróleo. Foi
-electrificado em 1958. Em 1964 foi aberta a estrada para o farol e
-ligado à rede pública de água. Finalmente em 1998 foi ligado à rede
-eléctrica pública.&lt;br/&gt;
-&lt;b&gt;EN:&lt;/b&gt; This lighthouse was established in the 1st February
-1934, using for the illumination the oil vapor. It was electrified
-in 1958. In 1964 the road for the lighthouse was opened and it was
-connected to the public water servive. Finally in 1998 the
-lighthouse was connected to the public electric network.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;A Cache / The Cache&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;PT:&lt;/b&gt; A cache está num promontório quase peninsular com uma
-vista linda sobre o farol. Para lá chegar, o carro deve ser
-estacionado em N 38º 38.736 W 027º 04.789, e a partir daí basta
-seguir um caminho de terra e erva bem marcado por cerca de 220
-metros.&lt;br/&gt;
-&lt;b&gt;EN:&lt;/b&gt; The cache is in an almost peninsular promontory with a
-pretty sight over the lighthouse. To arrive there, you must park
-your car in N 38º 38,736 W 027º 04,789, and from it you need to
-follow a well marked way of land and grass by about 220 meters.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;PT:&lt;/b&gt; A cache é uma caixa de plástico vulgar, que contém os
-objectos habituais.&lt;br/&gt;
-&lt;b&gt;EN:&lt;/b&gt; The cache is an ordinary plastic box, with the usual
-items.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;PT:&lt;/b&gt; A manutenção desta cache é garantida por um familiar
-local, a quem agradecemos a colaboração neste projecto.&lt;br/&gt;
-&lt;b&gt;EN:&lt;/b&gt; The maintenance of this cache is made by a local family,
-whom we thank for his help to this project.&lt;/p&gt;&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;PK185FP - Estacionamento /Parking&lt;br/&gt;N 38° 38.736 W 027° 04.789</groundspeak:long_description>
-            <groundspeak:encoded_hints>Por baixo de uma pedra, à entrada da gruta. / Under a stone, at the entrance of the cave.</groundspeak:encoded_hints>
+            <groundspeak:long_description html="True">A Ermida de Nossa Senhora da Esperança localiza-se na freguesia do Porto Judeu, no lugar da Serretinha (assim chamado porque a este local acorriam muitos peregrinos, tal como à Serreta).&lt;br/&gt;&lt;br/&gt;O templo remonta ao século XVI.&lt;br/&gt;Em 1650, por testamento de Isabel Gouveia, recebeu o legado da Casa dos Romeiros, que hoje em dia já não existe.&lt;br/&gt;Conta a lenda que a imagem primitiva, guardada na igreja paroquial, foi, por diversas vezes, encontrada na rocha perto do local onde está construída a ermida. Trazida para a igreja, voltava de noite ao lugar de origem.&lt;br/&gt;A sua festa tem lugar no 2º domingo de Setembro (tal como a Serreta), a qual é antecedida por uma novena e tríduo preparatório.&lt;br/&gt;Não tendo já a &quot;fama&quot; que teve noutros tempos, a festa da Senhora da Esperança ainda é muito frequentada pelos fiéis do Porto Judeu e pelas muitas pessoas de freguesias vizinhas que nesta altura aproveitam para passar uns dias de férias nas suas casas de veraneio, na Serretinha.</groundspeak:long_description>
+            <groundspeak:encoded_hints>atrás da ermida</groundspeak:encoded_hints>
             <groundspeak:logs>
-                <groundspeak:log id="1688645">
-                    <groundspeak:date>2011-09-01T19:00:00.000-05:00</groundspeak:date>
+                <groundspeak:log id="1770817">
+                    <groundspeak:date>2012-02-11T01:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="73061">Team PortoJudeu</groundspeak:finder>
-                    <groundspeak:text encoded="False">A minha primeira cache!
-Tem uma vista linda.</groundspeak:text>
-                </groundspeak:log>
-                <groundspeak:log id="405462">
-                    <groundspeak:date>2008-01-31T14:00:00.000-06:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="2117">paulohercules</groundspeak:finder>
-                    <groundspeak:text encoded="False">#446
-08h45 UTC
-Foi um passeio muito agradável ao nascer do Sol.
-Os Açores são um santuário natural por excelência.
-O local da cache foi muito bem escolhido, tem uma vista fantástica.
-As gaivotas faziam muito barulho possivelmente estavam a disputar a primeira refeição do dia.
-No regresso ainda encontrei umas vacas loucas, ou não, mas que grandes malucas!
-Este mundo é mesmo pequenino, não é que já conheço há muitos anos o familiar local responsável pela manutenção da cache...
+                    <groundspeak:finder id="73033">Team Spicozos</groundspeak:finder>
+                    <groundspeak:text encoded="False">Aproveitamos o bom tempo e a companhia para irmos fazer umas caches neste sabado.
+Pelo lugar já tinhamos passado inumeras vezes, mas não tinhamos parado.
+A cache em si, não deu muito trabalho a encontrar, o container está bem enquadrado.
+Aproveitamos a vista e o bom tempo para umas fotografias.
+Feita na companhia dos Chocapics e do nosso sobrinho Rodrigo.
 TNLN
-TFTC
-
-[This entry was edited by carolangelpaul on Wednesday, May 28, 2008 at 7:18:58 AM.]</groundspeak:text>
-                </groundspeak:log>
-            </groundspeak:logs>
-        </groundspeak:cache>
-        <ox:opencaching>
-            <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>1.0</ox:difficulty>
-                <ox:size>4.0</ox:size>
-                <ox:terrain>2.0</ox:terrain>
-            </ox:ratings>
-        </ox:opencaching>
-    </wpt>
-    <wpt lon="-27.221267" lat="38.6474">
-        <time>2008-05-17T02:00:00.000-05:00</time>
-        <name>OX1CBE2</name>
-        <desc>Monte Brasil - Ermida de Santo António by PlPELINE, Traditional Cache(2.5/1.5/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX1CBE2</url>
-        <urlname>Monte Brasil - Ermida de Santo António</urlname>
-        <sym>Geocache</sym>
-        <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="1292020">
-            <groundspeak:name>Monte Brasil - Ermida de Santo António</groundspeak:name>
-            <groundspeak:placed_by>PlPELINE</groundspeak:placed_by>
-            <groundspeak:owner id="73038">PlPELINE</groundspeak:owner>
-            <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Small</groundspeak:container>
-            <groundspeak:difficulty>2.5</groundspeak:difficulty>
-            <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Monte Brasil - Terceira - Açores
-
-Cache:
-
-1 Logbook
-1 Lapis
-
-A Ermida de Santo António da Grota (Angra do Heroísmo) é uma ermida portuguesa localizada no Monte Brasil, ilha Terceira à cidade de Angra do Heroísmo e fez parte da Diocese de Angra do Heroísmo.
-
-Esta ermida foi edificada no Monte Brasil, sendo que para lá se chegar é necessário entrar Fortaleza de São João Baptista pelo Nascente e ultrapassar a casa da guarda na direcção do Monte Brasil propriamente dito.
-
-Aqui encontra-se uma estrada onde está a Ermida de Santo António por proximidade chamada da grota, porque ela realmente lá existiu em tempos recuados. Trata-se de uma ermida simples e modesta, ajudada pelo realce e graça de ficar na encosta do Monte Brasil por entre o denso e verdejante arvoredo.
-
-Segundo informa o Dr. Alfredo da Silva Sampaio esta ermida foi edificada em 1615 pelo então Governador da Fortaleza de São João Baptista, D. Gonçalo Mexia. Sendo esta data também informada por gravura em pedra por cima da porta de entrada.
-
-O motivo que levou à construção desta ermida parece ter sido a devoção do seu fundador por Santo António. Destaca-se no meio do verde, podendo ser vista de grande distância, sendo descrita pelo padre Manuel Luís Maldonado do seguinte modo:
-
-«Na circunvalação do Monte do Facho existe fronteira ao Porto de Angra uma quinta de recreação que se diz a grota em que há uma ermida de Santo António hoje reputada por a mais recreativa de todas as da Ilha, e a ter água nativa não houvera no mundo outra que se lhe avantajasse pelos galanteios com que está ornada a via por onde se comunica composta de uma que se forma em duzentas e tantas colunas inteiras pela frente exterior e outras tantas meias que lhes correspondem sobre as quais se armam as travessas das latadas, de que é composta e o chão calçado de seixo miúdo guarnecido com lajeamento em quartéis que fortificam fixo e permanente. No pátio, ou adro da ermida, sita em um grotilhão que divide os montes das cruzes e do Facho em razão do qual se impôs a esta quinta o nome de grota, começa uma escada com quatro tabuleiros quadrados com suas pirâmides nos ângulos, em que há degraus de pedra e a superfície de seus contrafortes, povoada toda de plantas de flores de toda a variedade. Esta escada se remata em um jardim onde estão fabricados três chafarizes de chuveiro, e um penhasco de esguichos que chamam lágrimas, e no alto delas duas cisternas nas quais se recolhem as aguas das chuvas do Inverno, e destas por uns alcatrazes e arcas que se fecham e abrem se lançam as águas nos ditos chafarizes que postos em corrente ficam fazendo uma vista tão agradável que todos enleva. Nos lados desta obra que correspondeu aos altos da ermida estão dois baluartes correspondentes um ao outro, guarnecidos com suas artilharias em que há dez peças de menor calibre com as quais se fazem as salvos particulares que parece dos governadores»
-
-Esta transcrição leva-nos a saber tudo o que existia à volta da ermida de Santo António, que ficou célebre e chegou até aos nossos dias, tendo no entanto desaparecido a mencionada quinta.
-
-Nesta ermida estabeleceu-se e funcionou uma Irmandade composta apenas por militares do castelo, a qual contribuía com a mensalidade de quatro mil reis (moeda da altura) para dispor de um capelão e custear a tresena e festividade do orágo. Esta confraria extinguiu-se em 1768 e, desde 1787, por mandato governamental, essas despesas ficaram a cargo da Fazenda Real, o que até 1822 se observou.
-
-Em 1823 o corregedor opôs-se a que a dita Fazenda Real incumbissem as expensas, do facto resultando que a festa não se realizar nesse ano. Foi o Tenente General Francisco de Borja Garção Stockler, que expondo o caso a D. João VI, consegui o recomeço das celebrações com a dotação régia de trinta e tantos mil reis.
-
-Anos depois a ermida passou a servir de arrecadação, interrompendo-se assim a festividade que era costume realizar-se. Terminadas as lutas liberais, voltaram a realizar-se festas nesta capela, sem no entanto ser com a regularidade dos tempos anteriores.
-
-Foi o Governador do Castelo, Francisco de Paula Cárceres, quem encontrou a imagem de Santo António na Ermida do Espírito Santo (Angra do Heroísmo), na Rua do Pintor, e resolveu de novo transferi-la para a sua ermida.
-
-Assim, voltaram a fazer-se festas pelos militares da Fortaleza de São João Baptista durante longos anos, havendo às vezes procissão. O controlo das festas na ermida passou depois à Junta Geral do Distrito de Angra do Heroísmo.
-
-Actualmente a ermida apresenta uma única porta de entrada bastante ampla, vendo-se em cima uma pequena clarabóia de cada lado, na parte interior, encontram-se numerosos e artísticos azulejos representando Santo António a pregar aos peixes e guardando os pássaros.
-
-Ao fundo está o altar com a imagem de Santo António, vendo-se na capela duas pequenas janelas ou frestas e dois pequenos arcos. Dividindo a ermida encontra-se outro arco mais alto e amplo. Tem ainda uma sacristia do lado direito e duas grandes janelas laterais, tudo remata com um espaçoso adro, donde se desfruta um vasto e belo panorama sobre a cidade de Angra do Heroísmo e várias freguesias rurais.
-
-
-
-
-
-
-
-
-
-
-ATENÇÃO:
-
-NÃO COLOCAR FOTOS DA CACHE OU QUE POSSIBILITEM A SUA IDENTIFICAÇÃO!
-
-
-ATTENTION:
-
-DO NOT POST PICTURES OF THE CACHE OR ANYTHING THE MIGHT DISCLOSE THE SPOT!</groundspeak:long_description>
-            <groundspeak:encoded_hints>Ao nivel do solo, recolocar exactamente como encontrou! - At ground level, replace exactly as you found!</groundspeak:encoded_hints>
-            <groundspeak:logs>
-                <groundspeak:log id="406244">
-                    <groundspeak:date>2010-06-03T14:00:00.000-05:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="2117">paulohercules</groundspeak:finder>
-                    <groundspeak:text encoded="False"># 2112
-Found the place but didn't find the original cache.
-After two phonecalls to geocachers that had find it before they confirm the hiding spot.
-I already had search in that places several times during the half an hour there searching for the cache.
-Maybe it has disappeared or it is very well hidden now.
-I left in the hiding spot a temporary micro cache with a small piece of paper with our signatures until the owner can do a maintenance visit and check it out.
-If the owner doesn't agree with this or the original cache it's still there please delete this found log.
-We will then do a DNF or a Needs maintenance log.
-Very nice and quiet place I already knew but I liked to be back there.
-The panoramic view to Angra city it's awesome.
 TFTC</groundspeak:text>
                 </groundspeak:log>
             </groundspeak:logs>
@@ -533,82 +88,95 @@ TFTC</groundspeak:text>
         <ox:opencaching>
             <ox:ratings>
                 <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>2.5</ox:difficulty>
+                <ox:difficulty>2.1</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-27.1162" lat="38.647367">
+        <time>2012-02-01T08:00:00.000Z</time>
+        <name>OX3BXM0</name>
+        <desc>Porto do Judeu by Team PortoJudeu, Traditional Cache(2.0/1.5/2.9)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3BXM0</url>
+        <urlname>Porto do Judeu</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3125792">
+            <groundspeak:name>Porto do Judeu</groundspeak:name>
+            <groundspeak:placed_by>Team PortoJudeu</groundspeak:placed_by>
+            <groundspeak:owner id="73061">Team PortoJudeu</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Desconhece-se a data de criação da freguesia do Porto Judeu, primitivamente denominada como &quot;Porto Judeu de Santo António&quot; e também de &quot;Porto do Judeu&quot;.&lt;br/&gt;Segundo a tradição, neste porto terão desembarcado os primeiros povoadores da Terceira.&lt;br/&gt;Entre as lendas mais conhecidas que buscam justificar a toponímia, refere-se que Jácome de Bruges, primeiro capitão donatário, aqui terá desembarcado a 1 de Janeiro, premido pelo mau tempo e pela necessidade de abrigo. Como a enseada do porto é de pequenas dimensões, não oferecendo grandes condições de abrigo, e por naquele tempo se chamar &quot;judeu&quot; a tudo o que fosse mau, afirma-se que o ancoradouro foi, por essa razão, chamado de &quot;Porto Judeu&quot;.&lt;br/&gt;Outra tradição local afirma que com Jácome de Bruges vinha um Judeu, e que entre ambos, no momento do desembarque, se terá travado o seguinte diálogo: Jácome de Bruges: -«Salta judeu, senão salto eu.» Judeu: -«Salto eu e o porto será meu!»; ficando assim como &quot;Porto do Judeu&quot;.</groundspeak:long_description>
+            <groundspeak:encoded_hints>peixe fora de água</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1770822">
+                    <groundspeak:date>2012-02-11T01:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="73033">Team Spicozos</groundspeak:finder>
+                    <groundspeak:text encoded="False">Já uns bons anos que não ia ao Porto e a zona onde se encontra a cache não conheciamos. Container bem inserido na zona.
+Não nos deu muita luta esta.
+Feita na companhia dos chocapics e do Rodrigo.
+In: Carta Rabbids
+Out : Nada
+TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
         </ox:opencaching>
     </wpt>
-    <wpt lon="-27.156067" lat="38.648867">
-        <time>2009-08-18T02:00:00.000-05:00</time>
-        <name>OX1XE1F</name>
-        <desc>Poças Rock ( ilha Terceira) by PlPELINE, Traditional Cache(2.0/3.5/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX1XE1F</url>
-        <urlname>Poças Rock ( ilha Terceira)</urlname>
+    <wpt lon="-27.1212" lat="38.647433">
+        <time>2012-01-30T08:00:00.000Z</time>
+        <name>OX3BRG4</name>
+        <desc>Santo António do Porto Judeu by Team PortoJudeu, Traditional Cache(1.5/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3BRG4</url>
+        <urlname>Santo António do Porto Judeu</urlname>
         <sym>Geocache</sym>
         <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="1771169">
-            <groundspeak:name>Poças Rock ( ilha Terceira)</groundspeak:name>
-            <groundspeak:placed_by>PlPELINE</groundspeak:placed_by>
-            <groundspeak:owner id="73038">PlPELINE</groundspeak:owner>
+        <groundspeak:cache archived="False" available="True" id="3121828">
+            <groundspeak:name>Santo António do Porto Judeu</groundspeak:name>
+            <groundspeak:placed_by>Team PortoJudeu</groundspeak:placed_by>
+            <groundspeak:owner id="73061">Team PortoJudeu</groundspeak:owner>
             <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Small</groundspeak:container>
-            <groundspeak:difficulty>2</groundspeak:difficulty>
-            <groundspeak:terrain>3.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Situa-se nas Poças (Serretinha) - concelho de Angra do Heroísmo. Fácil acesso, mas com cautela no final.
-
-Located in Poças (Serretinha) - in Angra do Heroísmo township. Easily accessed but be carefull in the end.
-
-PT
-
-Nesta bela zona da Ilha temos uma vista linda para os Ilhéus das Cabras, para o Monte Brasil e para a encosta da Serretinha, freguesia da Feteira.
-
-O Cache é de fácil acesso e fica aproximadamente a 40 Metros da estrada (em alcatrão)
-
-Aconselho NÃO IREM À NOITE, e não irem de chinelos.
-Tenham cuidados nos últimos Metros do chache
-
-EN
-
-In this part of the island we have a great view to the Ilhéus das Cabras, Monte Brasil and the Serretinha slopes, in Feteira township.
-
-The Cache is easily accessed and is aproximately 40 meter from the road (tarmac)
-
-
-
-Be advised, DO NOT TRY TO FIND IT AT NIGHT and use proper footwear (don't take slippers.)
-
-Be careful in the last meters of the cache</groundspeak:long_description>
-            <groundspeak:encoded_hints>Look at the spoilers!</groundspeak:encoded_hints>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Micro cache magnética.&lt;br/&gt;&lt;br/&gt;Desconhece-se a data de construção deste templo, sob a invocação de Santo António de Lisboa, no entanto, estima-se que a sua construção seja anterior a 1470. Em função das muitas obras de ampliação e manutenção, pouco resta da sua traça primitiva.&lt;br/&gt;O seu interior é dividido em 3 naves.&lt;br/&gt;O altar-mor, em talha dourada, possui a imagem do padroeiro e, nos lados, as imagens de Santo Antão e Santo Amaro.&lt;br/&gt;Do lado da Epístola (esquerdo), possui a capela do Santíssimo Sacramento (edificada em 1907), seguindo-se o Altar das Almas com o Senhor Crucificado, a capela do Senhor dos Passos e Senhor Morto (construída em finais do séc. XIX) e, por fim, a imagem de São Pedro, padroeiro dos pescadores.&lt;br/&gt;Do lado do Evangelho (direito) apresenta-se o altar de Nossa Senhora de Fátima, seguindo-se o altar de Nossa Senhora da Conceição, a capela do Sagrado Coração de Jesus (edificada em 1889) e, ao lado, a imagem de Santa Teresa do Menino Jesus.&lt;br/&gt;No frontispício da igreja existe uma imagem de Santo António, em cantaria, provavelmente remontando à época de construção do templo.</groundspeak:long_description>
+            <groundspeak:encoded_hints>água</groundspeak:encoded_hints>
             <groundspeak:logs>
-                <groundspeak:log id="406678">
-                    <groundspeak:date>2010-06-03T14:00:00.000-05:00</groundspeak:date>
+                <groundspeak:log id="1770818">
+                    <groundspeak:date>2012-02-11T01:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="2117">paulohercules</groundspeak:finder>
-                    <groundspeak:text encoded="False"># 2109
-Não encontrámos a cache mas, o esconderijo foi identificado e, estava vazio...
-Até o owner poder efectuar a verificação/manutenção, ficou lá uma micro cache temporária com uma pequena folha de papel com as nossas assinaturas.
-Se o owner entender que não deseja a cache temporária, ou a original ainda está lá, é favor apagar este log de found.
-Conforme o caso depois efectuamos o log de DNF ou Needs maintenance.
-A vista panorâmica do local da cache é espectacular.
-Apesar de já ter visitado a Terceira várias vezes, este local era desconhecido.
-Há por ali perto umas verdadeiras casas de sonho...
-TFTC
-</groundspeak:text>
+                    <groundspeak:finder id="73033">Team Spicozos</groundspeak:finder>
+                    <groundspeak:text encoded="False">Depois de fazer a cache da Ermida, seguimos rumo a esta, estacionamos perto e com cuidado por causa dos mugglers da zona seguimo-nos pelo GPS que não ajudou muito a indicar o spot. LOL, Depois de um bocadinho á procura, alargamos a zona de buscas e lá apareceu.
+Sempre com o olhos nos mugglers logamos e voltamos a por no sitio.
+Lugar conhecido mas raramente visitado.
+Feito na companhia dos chocapics e do Rodrigo.
+TFTC</groundspeak:text>
                 </groundspeak:log>
             </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
                 <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>2.0</ox:difficulty>
-                <ox:size>3.0</ox:size>
-                <ox:terrain>3.5</ox:terrain>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
             </ox:ratings>
         </ox:opencaching>
     </wpt>
     <wpt lon="-27.1169167" lat="38.6488167">
-        <time>2011-11-28T11:27:38.000-06:00</time>
+        <time>2011-11-28T17:27:38.000Z</time>
         <name>OX343EV</name>
         <desc>Combatentes by Team PortoJudeu, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX343EV</url>
@@ -623,12 +191,19 @@ TFTC
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Monumento inaugurado a 6 de Abril de 2008 em homenagem aos combatentes do Porto Judeu que participaram na Guerra do Ultramar.
-De modo especial homenageia o sr. João Leal da Silveira, filho da freguesia falecido em combate a 30/09/1974.
-Sendo uma freguesia piscatória, foi escolhido o tradicional &quot;barco de boca aberta&quot; para estrutura do monumento.
-Aconselha-se a procura da cache à noite, quando o movimento envolvente diminui.
-Nano cache magnética.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Monumento inaugurado a 6 de Abril de 2008 em homenagem aos combatentes do Porto Judeu que participaram na Guerra do Ultramar.&lt;br/&gt;De modo especial homenageia o sr. João Leal da Silveira, filho da freguesia falecido em combate a 30/09/1974.&lt;br/&gt;Sendo uma freguesia piscatória, foi escolhido o tradicional &quot;barco de boca aberta&quot; para estrutura do monumento.&lt;br/&gt;Aconselha-se a procura da cache à noite, quando o movimento envolvente diminui.&lt;br/&gt;Nano cache magnética.</groundspeak:long_description>
             <groundspeak:encoded_hints>STOP!</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1770821">
+                    <groundspeak:date>2011-11-04T01:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="73033">Team Spicozos</groundspeak:finder>
+                    <groundspeak:text encoded="False">Aproveitando a noite e estando a zona livre de mugglers lá conseguimos faz a cache.
+Curioso mesmo foi depois da cache encontrada e dentro do carro após fazermos o log, um muggler olhou-nos e viu-nos com uma &quot; coisa na mão&quot; e pensou que devíamos estar a traficar droga ou assim por estarmos os dois no carro com as luzes apagadas. LOL
+
+TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -637,15 +212,112 @@ Nano cache magnética.</groundspeak:long_description>
                 <ox:size>1.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Cache Nocturna</ox:tag>
-            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-27.220817" lat="38.65025">
+        <time>2011-12-03T08:00:00.000Z</time>
+        <name>OX34N2Y</name>
+        <desc>LIDADOR by macadju, Traditional Cache(5.0/5.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX34N2Y</url>
+        <urlname>LIDADOR</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2909999">
+            <groundspeak:name>LIDADOR</groundspeak:name>
+            <groundspeak:placed_by>macadju</groundspeak:placed_by>
+            <groundspeak:owner id="95483">macadju</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>5</groundspeak:difficulty>
+            <groundspeak:terrain>5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Nadar perto de 25 metros, cache está a 8, 10 metros de profundidade
+mas não é necessario uso de garrafa de oxigenio, no verão o fato é
+dispensável, no inverno aconselhável. Deverão levar oculos de
+merguho, barbatanas e uma boia de sinalização . Procurem um lugar
+seco para logar.....
+
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;LIDADOR&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Durante a curta carreira, o
+Lidador realizou várias viagens entre as ilhas e o Brasil,
+transportando,
+especialmente, passageiros e carga diversa&lt;/p&gt;
+&lt;p&gt;Ancorado ao largo da
+cidade de Angra do Heroísmo,a 6 de Fevereiro de 1878, o Lidador foi
+atingido pelo perigoso vento de Sueste, conhecido localmente como
+&quot;vento carpinteiro&quot;. Tentando escapar, rumando ao mar alto, o
+Lidador embateu num baixio, defronte da fortaleza de São Sebastião,
+abrindo um rombo no casco, que lhe apagou a
+caldeira.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+Impotente para navegar pelos próprios meios, o navio derivou para
+Oeste, acabando por encalhar paralelamente ao Cais da Figueirinha.
+Afunda-se, então, a 8 metros de profundidade, cerca de 50 metros da
+costa. Os náufragos foram evacuados por botes e pela lancha da
+cidade, tarefa dificultada pela agitação do mar, sentida no
+interior da baía.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Actualmente, o Lidador encontra-se esmagado e
+fragmentado. É possível observar um aglomerado de destroços,
+formado por tubos e placas encurvadas de ferro e pelos restos da
+caldeira do navio. Surpreendentemente, o Lidador transportava uma
+enorme quantidade de lastro de pedra no porão de vante, uma
+curiosidade para um navio relativamente moderno, já que a
+utilização de lastros de ferro, cimento ou chumbo libertaria mais
+espaço para carga nos seus porões.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Como
+parte do casco ainda se encontra em bom estado, o Lidador constitui
+um bom exemplo da navegação do século passado, sendo um testemunho
+daquele que foi um dos últimos naufrágios a ocorrer na Baía de
+Angra.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;SEGURANÇA SEMPRE EM PRIMEIRO
+LUGAR.&lt;/p&gt;
+&lt;p&gt;Um pouco por toda a baía de
+Angra são encontrados vestígios  oriundos dos muitos navios
+que aqui escalaram ou se perderam. È frequente encontrar-se
+fragmentos de peças cerâmicas no fundo da baía, indicando zonas de
+despejo de cargas ou até mesmo possíveis naufrágios.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Publiquem fotos a vontade, não
+remover o container do sitio, abram o container que está a vista e
+o container interior sairá,...&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Equipamento
+minimo necessario:&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Caso queiram companhia, ou uma
+ida em grupo, basta combinar.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Um mail ou uma chamada e
+&lt;em&gt;voilá.....&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;PARABÉNS&lt;/p&gt;
+&lt;p&gt;PIPELINE &amp; CAJU Jr&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Procura num dos &quot;mastros&quot;...</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>5.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>5.0</ox:terrain>
+            </ox:ratings>
         </ox:opencaching>
     </wpt>
     <wpt lon="-27.1018833" lat="38.65285">
-        <time>2011-11-23T10:21:42.000-06:00</time>
+        <time>2011-11-23T16:21:42.000Z</time>
         <name>OX33RFH</name>
-        <desc>Casa da Salga by Team PortoJudeu, Traditional Cache(1.5/2.0/3.0)</desc>
+        <desc>Casa da Salga by Team PortoJudeu, Traditional Cache(1.7/2.1/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX33RFH</url>
         <urlname>Casa da Salga</urlname>
         <sym>Geocache</sym>
@@ -658,154 +330,143 @@ Nano cache magnética.</groundspeak:long_description>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">A “Casa da Salga” está situada no início da Vila de S. Sebastião, ficando dividida entre esta e a freguesia do Porto Judeu, tendo como últimos proprietários a família Morens de Távora.É uma casa que fica no centro de uma zona agrícola, cujo acesso deve ser feito de automóvel (4x4) por dois trajectos: pelo Caminho da Vila virando-se para a Canada da Quinta ou pelo Caminho da Salga virando-se pela mesma canada.
-
-&quot;A “Casa da Salga” é uma casa dos fins do século XVI, tendo ficado concluída no ano de 1562, e tal como a Baía da Salga está directamente ligada Batalha da Salga ocorrida no ano de 1581.
-Perante as várias versões existentes da história da Batalha da Salga, apresenta-se apenas, em traços gerais, os dados que são comuns a todas estas versões e que fazem referencia à “Casa da Salga”.
-Conta o povo que enquanto as Terras Lusitanas já estavam sobre o domínio de Filipe II de Espanha, a ilha Terceira continuava a resistir ao domínio Espanhol.
-A 25 de Julho de 1581, no contexto da luta entre partidários de Filipe II de Espanha e D. António I de Portugal, a tropa castelhana desembarcou na Baía da Salga. As forças Espanholas de imediato incendiaram as searas e casas existentes nas imediações.
-Fala a historia que no local onde aconteceu a Batalha da Salga residia uma mulher, Brianda Pereira, cuja naturalidade está ainda por confirmar, sendo esta dona de terras e de uma abastada casa agrícola, residindo nesse local até ser travada a Batalha da Salga, sendo a casa de Brianda Pereira provavelmente umas das casas incendiadas.
-No contexto da invasão, os castelhanos ocuparam uma casa, a “Casa da Salga”, pondo lá a sua bandeira.Não havendo fontes concretas quanto a isso, diz-se que a “Casa da Salga” pertencia às terras de Brianda Pereira.
-O povo Português junto de Brianda Pereira ao ver os soldados castelhanos tomarem posse de todo o território, tomaram a iniciativa de enviar o gado bravo da ilha sobre os Espanhóis conseguindo-os vencer. Brianda Pereira foi glorificada por este acto nas décadas vindouras a esta Batalha.
-Os castelhanos eram persistentes e voltaram a atacar a ilha em 1583; desta vez foram os homens de Maquês de Santa Cruz (D. Álvaro Bazan) que tomaram a ilha pelo Porto das Mós em Angra do Heroísmo matando o rei D. António e os seus partidários. Não se espalharam muitos castelhanos durante os 60 anos de permanência, ficando estes pela cidade e arredores.
-A “Casa da Salga” apresenta ainda a nobreza dos materiais nas paredes-mestras, o relógio de sol do cunhal sueste e preserva as datas gravadas na porta de entrada da sua construção (1562) e na empena da capela anexa (1682).
-Esta casa é um testemunho único de uma época de glória irrepetível.&quot; (fonte: trabalho de investigaçao de Virgínia Castro)
-
-É uma casa em ruínas, por favor tenham cuidado. Não é necessário entrar na casa.
-
-
-Ponto de acesso 1: N38º38.825 W027º06.029
-Ponto de acesso 2: N38º39.277 W027º06.281</groundspeak:long_description>
+            <groundspeak:long_description html="True">A “Casa da Salga” está situada no início da Vila de S. Sebastião, ficando dividida entre esta e a freguesia do Porto Judeu, tendo como últimos proprietários a família Morens de Távora.É uma casa que fica no centro de uma zona agrícola, cujo acesso deve ser feito de automóvel (4x4) por dois trajectos: pelo Caminho da Vila virando-se para a Canada da Quinta ou pelo Caminho da Salga virando-se pela mesma canada.&lt;br/&gt;&lt;br/&gt;&quot;A “Casa da Salga” é uma casa dos fins do século XVI, tendo ficado concluída no ano de 1562, e tal como a Baía da Salga está directamente ligada Batalha da Salga ocorrida no ano de 1581.&lt;br/&gt;Perante as várias versões existentes da história da Batalha da Salga, apresenta-se apenas, em traços gerais, os dados que são comuns a todas estas versões e que fazem referencia à “Casa da Salga”.&lt;br/&gt;Conta o povo que enquanto as Terras Lusitanas já estavam sobre o domínio de Filipe II de Espanha, a ilha Terceira continuava a resistir ao domínio Espanhol.&lt;br/&gt;A 25 de Julho de 1581, no contexto da luta entre partidários de Filipe II de Espanha e D. António I de Portugal, a tropa castelhana desembarcou na Baía da Salga. As forças Espanholas de imediato incendiaram as searas e casas existentes nas imediações.&lt;br/&gt;Fala a historia que no local onde aconteceu a Batalha da Salga residia uma mulher, Brianda Pereira, cuja naturalidade está ainda por confirmar, sendo esta dona de terras e de uma abastada casa agrícola, residindo nesse local até ser travada a Batalha da Salga, sendo a casa de Brianda Pereira provavelmente umas das casas incendiadas.&lt;br/&gt;No contexto da invasão, os castelhanos ocuparam uma casa, a “Casa da Salga”, pondo lá a sua bandeira.Não havendo fontes concretas quanto a isso, diz-se que a “Casa da Salga” pertencia às terras de Brianda Pereira.&lt;br/&gt;O povo Português junto de Brianda Pereira ao ver os soldados castelhanos tomarem posse de todo o território, tomaram a iniciativa de enviar o gado bravo da ilha sobre os Espanhóis conseguindo-os vencer. Brianda Pereira foi glorificada por este acto nas décadas vindouras a esta Batalha.&lt;br/&gt;Os castelhanos eram persistentes e voltaram a atacar a ilha em 1583; desta vez foram os homens de Maquês de Santa Cruz (D. Álvaro Bazan) que tomaram a ilha pelo Porto das Mós em Angra do Heroísmo matando o rei D. António e os seus partidários. Não se espalharam muitos castelhanos durante os 60 anos de permanência, ficando estes pela cidade e arredores.&lt;br/&gt;A “Casa da Salga” apresenta ainda a nobreza dos materiais nas paredes-mestras, o relógio de sol do cunhal sueste e preserva as datas gravadas na porta de entrada da sua construção (1562) e na empena da capela anexa (1682).&lt;br/&gt;Esta casa é um testemunho único de uma época de glória irrepetível.&quot; (fonte: trabalho de investigaçao de Virgínia Castro)&lt;br/&gt;&lt;br/&gt;É uma casa em ruínas, por favor tenham cuidado. Não é necessário entrar na casa.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Ponto de acesso 1: N38º38.825 W027º06.029&lt;br/&gt;Ponto de acesso 2: N38º39.277 W027º06.281</groundspeak:long_description>
             <groundspeak:encoded_hints>Debaixo da janela</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1780754">
+                    <groundspeak:date>2012-04-07T00:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="106148">golfinhos</groundspeak:finder>
+                    <groundspeak:text encoded="False">A nossa 3ª cache. Levou-nos a um ponto que não sabiamos que existia, uma casa ?Senhorial??, cheia de história e mistério, pena seu avançado estado de degradação.... Local da pista estava ligeiramente alterado de acordo com as fotos do spoiler. Interessante.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
                 <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>1.5</ox:difficulty>
+                <ox:difficulty>1.7</ox:difficulty>
                 <ox:size>3.0</ox:size>
-                <ox:terrain>2.0</ox:terrain>
+                <ox:terrain>2.1</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>História</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
-    <wpt lon="-27.218367" lat="38.6583">
-        <time>2009-08-19T02:00:00.000-05:00</time>
-        <name>OX1XFFM</name>
-        <desc>Jardins da Terceira - &quot;A Memória&quot; by PlPELINE, Traditional Cache(2.5/1.5/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX1XFFM</url>
-        <urlname>Jardins da Terceira - &quot;A Memória&quot;</urlname>
+    <wpt lon="-27.2072667" lat="38.6548">
+        <time>2012-02-06T15:12:47.000Z</time>
+        <name>OX39BN6</name>
+        <desc>Brisa Maritima by Team Spicozos, Traditional Cache(3.0/3.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX39BN6</url>
+        <urlname>Brisa Maritima</urlname>
         <sym>Geocache</sym>
         <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="1772569">
-            <groundspeak:name>Jardins da Terceira - &quot;A Memória&quot;</groundspeak:name>
-            <groundspeak:placed_by>PlPELINE</groundspeak:placed_by>
-            <groundspeak:owner id="73038">PlPELINE</groundspeak:owner>
+        <groundspeak:cache archived="False" available="True" id="3049910">
+            <groundspeak:name>Brisa Maritima</groundspeak:name>
+            <groundspeak:placed_by>Team Spicozos</groundspeak:placed_by>
+            <groundspeak:owner id="73033">Team Spicozos</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">PT - A cache está situada junto á orla maritima, numa pequena baia, na zona de angra do heroismo. Container frágil de formato não tradicional. Acesso ingreme e escorregadio. Nãoaconse lhamos fazer esta cache de noite. Muita atenção aos atributos da cache. Levar material de escrita e pinça. &lt;br/&gt;&lt;br/&gt; EN - The cache is located along the seafront, in a small bay, in Angra do Heroismo. Container fragile, format not traditional. Access very steep and slippery. We don't recommend to do this cache during the nigths. Pay attention to attributes of the cache. Bring riting material and a tweezers. </groundspeak:long_description>
+            <groundspeak:encoded_hints>Tão perto e ao mesmo tempo tão longe do meu habitat. Olhe para cima. / Very close but at the same time far away frow my habitat. Look up.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>2.5</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>2d3fdeae-0c5b-4c20-a34a-4dbeb459257e.jpg</ox:name>
+                    <ox:size>34739</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-27.223283" lat="38.65545">
+        <time>2011-10-18T07:00:00.000Z</time>
+        <name>OX360G4</name>
+        <desc>Assalto ao Teatro by macadju, Traditional Cache(2.0/1.1/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX360G4</url>
+        <urlname>Assalto ao Teatro</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2949809">
+            <groundspeak:name>Assalto ao Teatro</groundspeak:name>
+            <groundspeak:placed_by>macadju</groundspeak:placed_by>
+            <groundspeak:owner id="95483">macadju</groundspeak:owner>
             <groundspeak:type>Traditional Cache</groundspeak:type>
             <groundspeak:container>Micro</groundspeak:container>
-            <groundspeak:difficulty>2.5</groundspeak:difficulty>
-            <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Situada na zona do Jardim Duque da Terceira, perto da Memória! O
-terreno é acessivel a pessoas a pé! Poderão entrar pela zona baixa
-do Jardim ou pelo Alto da Memória!
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Para tirarem o logbook ponham o polegar em cima do plastico azul e
+andem a volta tipo parafuso. OBRIGADO!!!!!
 
-Boas! Estamos perante uma micro cache, colocada num dos jardins
-mais belos da ilha, com uma vista magnifica do Alto da Memória
-sobre a cidade de Angra do Heroísmo 
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;Levar uma caneta e um clip(este
+será muito útil)……..&lt;/p&gt;
+&lt;p&gt;Por favor, não publique fotos
+do container, não o deixe mais “fácil” para os outros ,
+deixe como o encontrou. BOAS CACHADAS!!!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ASSALTO AO
+TEATRO&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;
+&lt;em&gt;&lt;strong&gt;A 27 de Dezembro de
+1976 apresentava-se, no Teatro angrense, pela primeira vez, o
+Alpendre – Grupo de Teatro. .&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;
+&lt;strong&gt;“Guerras de Alecrim
+e Manjerona” de António José da Silva (O Judeu) foi o texto
+escolhido por um grupo de pessoas que, desde Setembro do mesmo ano,
+prepararam esse espectáculo recorrendo, apenas, à sua vontade e ao
+seu próprio e escasso dinheiro. E nem por sombras, nessa noite já
+longínqua noite de Dezembro de 1976, passou pela cabeça a qualquer
+elemento do grupo que, no ciclo de espectáculos para a reabertura
+do Teatro Angrense (1993/94), o Alpendre ainda existisse. Quem for
+capaz de rememorar o tempo decorrido, revendo todos os sobressaltos
+que ocorreram ao longo desses anos, verá que o Mundo, o País, a
+Região, a Terceira e Angra do Heroísmo foram como revestidos por
+uma espécie de diáfana obesidade que a tudo e a todos enformou e
+deformou. Quedemo-nos pela Terceira e Angra .A evolução
+sociopolítica que se foi sentido, o desconcerto violento do sismo
+de Janeiro/80, a esperança e o desespero da reconstrução, o pacato
+sossego da ilha, o boom da palavra Cultura, a vaga da CEE, o
+genocídio de Timor, as raivas de África, o desmantelar da Europa de
+Leste, o Alpendre. Apesar de se ter apresentado, pela primeira vez,
+em Dezembro de 1976, o Alpendre só em 1979 se transformou em
+sociedade por quotas em escritura de 31 de Outubro. Em 25 de Junho
+de 1985, o Governo Regional dos Açores concedeu ao Alpendre o
+estatuto de instituição de utilidade
+pública.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
 
-A cache contém: 
-1 Lápis 
-1 Logbook 
-
-Disponibilidade da Cache: Ver horário abaixo! 
-
-Horário do Jardim Duque da Terceira: 
-
-Janeiro – Fevereiro – Março – Novembro – Dezembro
-
-Abertura: 8h00 
-Encerramento: 18h00 
-
-Abril – Outubro
-
-Abertura: 8h00 
-Encerramento: 20h00 
-
-Maio – Setembro 
-
-Abertura:8h00 
-Encerramento: 22h00 
-
-Junho – Julho – Agosto 
-Abertura:8h00 
-Encerramento: 0h00 
-
-Cuidado com os muggles! 
-
-Por favor não coloquem fotos da cache! Obrigado!
-
-A CACHE NÃO ESTÁ ESCONDIDA EM QUALQUER BURACO DA PAREDE OU SIMILAR! NÃO DESTRUIR POR FAVOR!
-
-English: 
-
-Hi there! 
-
-This is a micro cache, placed in one of the most beautiful
-gardens of the island, with magnificent views of the city of Angra
-do Heroísmo from Alto da Memória. 
-
-The cache contains: 
-1 Pencil 
-1 Logbook 
-
-Availability of the Cache: See Above 
-
-Opening and closing hours of Jardim Duque da Terceira: 
-
-January - February - March - November - December 
-Open: 8:00
-Closing: 18.00 
-
-April - October
-
-Open: 8:00 
-Closing: 20.00 
-
-May - September 
-
-Open: 8:00 
-Closing: 22.00 
-
-June - July - August 
-
-Open: 8:00 
-Closing: 0.00 am 
-
-Beware of muggles!
-
-Please don't put pictures of the cache! Thank you!
-
-
-THE CACHE IS NOT ON ANY HOLE IN THE WALL!!! PLEASE DO NOT DESTROY ANYTHING!</groundspeak:long_description>
-            <groundspeak:encoded_hints>TICO...</groundspeak:encoded_hints>
+&lt;p&gt;&lt;strong&gt;
+&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;
+ &lt;/strong&gt;&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Pensem no nome da cache.......</groundspeak:encoded_hints>
             <groundspeak:logs>
-                <groundspeak:log id="1688646">
-                    <groundspeak:date>2011-09-10T19:00:00.000-05:00</groundspeak:date>
+                <groundspeak:log id="1781157">
+                    <groundspeak:date>2012-04-07T00:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="73061">Team PortoJudeu</groundspeak:finder>
-                    <groundspeak:text encoded="False">Ainda deu trabalho.
-Mas lá a encontrei ;)</groundspeak:text>
+                    <groundspeak:finder id="87903">Team Escaravelho</groundspeak:finder>
+                    <groundspeak:text encoded="False">Bem Camuflada. TFTC</groundspeak:text>
                 </groundspeak:log>
-                <groundspeak:log id="1067274">
-                    <groundspeak:date>2010-11-25T14:00:00.000-06:00</groundspeak:date>
+                <groundspeak:log id="1770811">
+                    <groundspeak:date>2011-12-26T01:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="4585">JERAMALHO</groundspeak:finder>
-                    <groundspeak:text encoded="False">Mini férias nos Açores.
-Rumo a S. Jorge, tive de fazer escala na Terceira. Com um tempinho entre aviões houve possibilidade da fazer uma visita rápida a Angra. E claro, aproveitar para fazer caches.
-Já se estava a adivinhar que haveria que subir, subir. Mas valeu a pena. Para além do bonito jardim, a vista é espectacular.
-#1744
-TNLN
+                    <groundspeak:finder id="73033">Team Spicozos</groundspeak:finder>
+                    <groundspeak:text encoded="False">Como esta esteve premium antes de ter oportunidade antes de a fazermos, tinha a ideia errada do teatro em questão, apesar da descrição estar bem explicita.
+Chegando ao lugar certo passando pelo outro teatro primeiro, ficamos a olhar até que um dos membros de os chocapics, não me me lembro se o choco ou o pics. A encontrou.... Ideia brutal, digna de um favorito.
+Muito bem Markus. 5 estrelas
 TFTC</groundspeak:text>
                 </groundspeak:log>
             </groundspeak:logs>
@@ -813,86 +474,121 @@ TFTC</groundspeak:text>
         <ox:opencaching>
             <ox:ratings>
                 <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>2.5</ox:difficulty>
-                <ox:size>2.0</ox:size>
-                <ox:terrain>1.5</ox:terrain>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>1.9</ox:size>
+                <ox:terrain>1.1</ox:terrain>
             </ox:ratings>
         </ox:opencaching>
     </wpt>
-    <wpt lon="-27.1567" lat="38.659133">
-        <time>2009-08-20T02:00:00.000-05:00</time>
-        <name>OX1XGBP</name>
-        <desc>Alto da Boa-Vista (ilha Terceira) by PlPELINE, Traditional Cache(2.0/2.0/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX1XGBP</url>
-        <urlname>Alto da Boa-Vista (ilha Terceira)</urlname>
+    <wpt lon="-27.235483" lat="38.655817">
+        <time>2012-06-28T08:00:00.000Z</time>
+        <name>OX361VB</name>
+        <desc>Vamos a Silveira!!!!!! by macadju, Traditional Cache(4.0/4.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX361VB</url>
+        <urlname>Vamos a Silveira!!!!!!</urlname>
         <sym>Geocache</sym>
         <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="1773408">
-            <groundspeak:name>Alto da Boa-Vista (ilha Terceira)</groundspeak:name>
-            <groundspeak:placed_by>PlPELINE</groundspeak:placed_by>
-            <groundspeak:owner id="73038">PlPELINE</groundspeak:owner>
+        <groundspeak:cache archived="False" available="True" id="2951087">
+            <groundspeak:name>Vamos a Silveira!!!!!!</groundspeak:name>
+            <groundspeak:placed_by>macadju</groundspeak:placed_by>
+            <groundspeak:owner id="95483">macadju</groundspeak:owner>
             <groundspeak:type>Traditional Cache</groundspeak:type>
             <groundspeak:container>Micro</groundspeak:container>
-            <groundspeak:difficulty>2</groundspeak:difficulty>
-            <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">O Alto da Boa-Vista situa-se na freguesia da feteira,tal como o nome indica,tem uma bonita paisagem sobre as freguesias até á cidade de Angra.
-
-The Alto da Boa Vista, is located in the parish of Feteira, as the name suggests, has a beautiful landscape of the parishes to the city of Angra.
-
-Alto da Boa-vista is on Feteira
-
-Este é um Micro-cache, tem uma forma cilíndrica com +/- 7cm de comprimento e 2cm de diâmetro, tá muito bem escondido mas é bastante fácil acha-lo, o caminho até lá é todo em asfalto, depois segue-se uma pequena caminhada de aproximadamente 30 metros, acessível a todos
-
-estacionar o veiculo em:
-N38º 39.552
-W027º 09.407
-
-Aproveitem a Vista, á noite é muito mais bonito mas vai-se tornar mais dificil achar o cache
-
-O cache Inclui:
-1- Logbook
-1- Pequena caneta
-
-Acoselho a levarem uma caneta, porque a que lá está é pequena e não dura para sempre
-
-EN:
-This is a micro-cache, has a cylindrical shape with + / - 7cm long and 2cm in diameter, all very well hidden but it is quite easy to find it, the way there is all asphalt, then it follows a small walk about 30 meters, accessible to all 
-
-Park the vehicle in: 
-N38° 39.552 
-W027° 09.407 
-
-Enjoy the view, at night is much more beautiful but will become more difficult to find the cache 
-
-The Cache Includes: 
-1 - Logbook 
-1 - Small pen 
-
-I advise for you to take a pen, because there is a small one and not lasts forever</groundspeak:long_description>
-            <groundspeak:encoded_hints>Ao nivel do solo! Atenção ao spoiler!
-
-Ground level! See the spoiler!</groundspeak:encoded_hints>
+            <groundspeak:difficulty>4</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br /&gt;&lt;br /&gt; &lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;O Cais da Silveira&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Localiza-se na baía do Fanal, na freguesia de São Pedro, na cidade e concelho de Angra do Heroísmo, ao Sul da Ilha Terceira, nos Açores.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Constituía-se em um antigo porto de pesca abrigado em um recorte da costa formado por arribas bastante altas, constituídas por rocha basáltica coberta por tufo vulcânico proveniente da erupção do vulcão que deu origem ao Monte Brasil, que lhe é fronteiro.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Atualmente&lt;/em&gt; &lt;em&gt;com bandeira azul, considerada uma das principais zonas balneares da cidade. Não tem areal, mas sim uma placa em betão.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Numa das suas extremidades ergue-se o chamado &quot;Caracol&quot;, estrutura com a função de miradouro e torre de observação, e que, nos Açores, é conhecida como &quot;Torreão&quot;. Este tipo de edificação, no arquipélago, destinava-se à vigia das embarcações que se aproximavam da costa, como por exemplo à época do &quot;ciclo da laranja&quot;, permitindo aos agricultores locais colher os frutos e encaminhá-los ao porto atempadamente para embarque.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Do alto do &quot;Caracol&quot;, pertencente atualmente ao &quot;Hotel do Caracol&quot;, avista-se não apenas a baía do Fanal e o Monte Brasil, mas também o Cais da Figueirinha e as muralhas da Fortaleza de São João Baptista.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;O Cais da Silveira é também uma das linhas de intersecção da Zona Classificada da cidade de Angra do Heroísmo, conforme o Decreto da Assembleia Legislativa Regional, que a decretou, nos termos da alínea c) do nº 1 do artigo 227.º da Constituição, da alínea e) do n.º 1 do artigo 31º do Estatuto Político-Administrativo e da Lei n.º 107/2001, de 8 de Setembro.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>onde os tubos se cruzam...</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>4.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-27.11405" lat="38.656567">
+        <time>2011-09-12T07:00:00.000Z</time>
+        <name>OX343EH</name>
+        <desc>Vistas do Porto Judeu by Team PortoJudeu, Traditional Cache(1.5/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX343EH</url>
+        <urlname>Vistas do Porto Judeu</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2893061">
+            <groundspeak:name>Vistas do Porto Judeu</groundspeak:name>
+            <groundspeak:placed_by>Team PortoJudeu</groundspeak:placed_by>
+            <groundspeak:owner id="73061">Team PortoJudeu</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Cache localizada numa das zonas com uma das mais belas vistas sobre o Porto Judeu. Zona calma de onde se avista também o Ilhéu das Cabras. À noite proporciona uma vista magnífica sobre a freguesia e as suas luzes.&lt;br/&gt;Leve a sua caneta!</groundspeak:long_description>
+            <groundspeak:encoded_hints>A flor que não morre.</groundspeak:encoded_hints>
             <groundspeak:logs>
-                <groundspeak:log id="1688649">
-                    <groundspeak:date>2011-09-03T19:00:00.000-05:00</groundspeak:date>
+                <groundspeak:log id="1770823">
+                    <groundspeak:date>2011-11-01T01:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="73061">Team PortoJudeu</groundspeak:finder>
-                    <groundspeak:text encoded="False">Linda vista sobre os ilhéus.
-Vale mesmo a pena ;)</groundspeak:text>
+                    <groundspeak:finder id="73033">Team Spicozos</groundspeak:finder>
+                    <groundspeak:text encoded="False">Para finalizar o passeio, apesar do vento e da chuvinha deu para a encontrar. O spoiler ajudou bastante.
+Bela vista. TFTC</groundspeak:text>
                 </groundspeak:log>
             </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
                 <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>2.0</ox:difficulty>
-                <ox:size>2.0</ox:size>
-                <ox:terrain>2.0</ox:terrain>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.9</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-27.125167" lat="38.658317">
+        <time>2012-02-26T08:00:00.000Z</time>
+        <name>OX3DCM6</name>
+        <desc>O culto do Espírito Santo by Team PortoJudeu, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3DCM6</url>
+        <urlname>O culto do Espírito Santo</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3170004">
+            <groundspeak:name>O culto do Espírito Santo</groundspeak:name>
+            <groundspeak:placed_by>Team PortoJudeu</groundspeak:placed_by>
+            <groundspeak:owner id="73061">Team PortoJudeu</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Os impérios do Espírito Santo são um dos traços mais marcantes da identidade açoriana, constituindo um culto, que para além de marcar o quotidiano insular, determina traço identitários que acompanham os açorianos para todos os lugares onde a emigração os levou.&lt;br/&gt;&lt;br/&gt;Para os cristãos, o Espírito Santo é a terceira pessoa da Santíssima Trindade - juntamente com Deus Pai e Deus Filho.&lt;br/&gt;É simbolicamente representado por uma pomba branca ou por línguas de fogo, e são sete os seus dons.&lt;br/&gt;A origem deste culto remonta às celebrações religiosas realizadas em Portugal a partir do séc. XIV, nas quais eram organizados banquetes colectivos com distribuição de comida e esmolas: o &quot;Bodo dos Pobres&quot;.&lt;br/&gt;Estas celebrações acontecem 50 dias após a Páscoa, comemorando o dia de Pentecostes.&lt;br/&gt;Embora com características muito próprias em cada freguesia, existem algumas que são comuns a todas e que marcam este culto:&lt;br/&gt;-Irmandade: núcleo organizacional do culto.&lt;br/&gt;-Império: pequeno edifício com arquitectura distinta em torno do qual se realizam as festividades do culto.&lt;br/&gt;-Mordomo: irmão responsável pela realização da festa em cumprimento de promessa feita por recebimento de uma graça do Espírito Santo. A sua escolha é feita por pelouro (sorteio).&lt;br/&gt;-Coroa, ceptro e orbe: símbolos centrais de todo o culto. Coroa imperial em prata, com 3 ou 5 braços, encimada por uma orbe em prata dourada sobre a qual assenta uma pomba de asas estiradas. Cada coroa é completada pelo ceptro em prata, encimado por uma pomba, e é colocada sobre uma bandeja de pé alto, sempre em lugar de honra. A coroa nunca é deixada no império, circulando todo o ano, semanalmente, entre as casas dos irmãos do império.&lt;br/&gt;-Bandeira: confeccionada em damasco vermelho vivo, de forma quadrangular com uma pomba bordada a brando a meio, da qual irradiam para baixo raios de luz em branco e prata. Uma bandeira menor é içada junto à casa do imperador durante a permanência das coroas.&lt;br/&gt;-Hino: composto nos finais do séc. XIX.&lt;br/&gt;-Cortejo: a coroa é transportada até à Igreja para a coroação do imperador. Depois de coroado, o imperador segue acompanhado pelos seus convidados e por uma filarmónica para o lugar da função.&lt;br/&gt;Coroação: colocação, pelo sacerdote, da coroa na cabeça do imperador, ou pessoas por ele designadas, e imposição do ceptro.&lt;br/&gt;-Bodo: festa realizada no Domingo de Pentecostes junto aos impérios.&lt;br/&gt;-Função: refeição servida aos convidados do imperador, em resultado de uma promessa.&lt;br/&gt;-Esmola: porção de carne de vaca, vinho e pão distribuída aos irmãos que as pretenderem.&lt;br/&gt;&lt;br/&gt;O local da cache: O Império do Espírito Santo da Boca da Ribeira, também conhecido como Império do Espírito Santo da Ribeira do Testo, localiza-se no largo da Boca da Ribeira, no Caminho da Cidade,  na freguesia do Porto Judeu. Foi erguido em 1933, embora os estatutos da sua irmandade sejam datados de 4 de janeiro de 1935. Abrange a metade da população da zona do Caminho da Cidade. Sofreu obras de recuperação e melhoramentos em 2000, sendo considerado atualmente um dos mais espaçosos da ilha.&lt;br/&gt;&lt;br/&gt;Cuidado com os muggles! Zona muito movimentada à noite!</groundspeak:long_description>
+            <groundspeak:encoded_hints>2.5m altura</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>1.1</ox:size>
+                <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
         </ox:opencaching>
     </wpt>
     <wpt lon="-27.1211667" lat="38.6716667">
-        <time>2011-11-28T11:29:45.000-06:00</time>
+        <time>2011-11-28T17:29:45.000Z</time>
         <name>OX341FX</name>
         <desc>4 Bicas by Team PortoJudeu, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX341FX</url>
@@ -907,28 +603,79 @@ Vale mesmo a pena ;)</groundspeak:text>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Parque Florestal integrado na bacia leiteira do Paúl, a maior zona agro-pecuária da ilha Terceira. Fácil acesso por estrada pavimentada, a partir de vários pontos da ilha. Cuidado com a circulação de lavradores e mudanças de gado.
-
-Parque Florestal integrado na bacia leiteira do Paúl, a maior zona agro-pecuária da ilha Terceira.
-O parque foi recentemente re-florestado pela Junta de Freguesia do Porto Judeu.
-É conhecido como Parque das 4 Bicas devido à sua coluna com 4 bicas para abastecimento de água ao gado que antigamente bebia a água directamente da bica.
-O Porto Judeu:
-Desconhece-se a data de criação da freguesia, pois segundo a tradição foi no Porto Judeu (actual porto de pescas) que terão desembarcado os primeiros povoadores da ilha. O Porto Judeu é uma freguesia com povoamento anterior a 1470. O seu povoado iniciou-se sob liderança do Senador João Coelho. Foi elevado a Vila por carta régia em 1502, estatuto que foi revogado no ano seguinte após a elevação do lugar da Ribeira de Frei João a Vila de São Sebastião.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Parque Florestal integrado na bacia leiteira do Paúl, a maior zona agro-pecuária da ilha Terceira. Fácil acesso por estrada pavimentada, a partir de vários pontos da ilha. Cuidado com a circulação de lavradores e mudanças de gado.&lt;br/&gt;&lt;br/&gt;Parque Florestal integrado na bacia leiteira do Paúl, a maior zona agro-pecuária da ilha Terceira.&lt;br/&gt;O parque foi recentemente re-florestado pela Junta de Freguesia do Porto Judeu.&lt;br/&gt;É conhecido como Parque das 4 Bicas devido à sua coluna com 4 bicas para abastecimento de água ao gado que antigamente bebia a água directamente da bica.&lt;br/&gt;O Porto Judeu:&lt;br/&gt;Desconhece-se a data de criação da freguesia, pois segundo a tradição foi no Porto Judeu (actual porto de pescas) que terão desembarcado os primeiros povoadores da ilha. O Porto Judeu é uma freguesia com povoamento anterior a 1470. O seu povoado iniciou-se sob liderança do Senador João Coelho. Foi elevado a Vila por carta régia em 1502, estatuto que foi revogado no ano seguinte após a elevação do lugar da Ribeira de Frei João a Vila de São Sebastião.</groundspeak:long_description>
             <groundspeak:encoded_hints>Na bica</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1770819">
+                    <groundspeak:date>2011-11-04T01:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="73033">Team Spicozos</groundspeak:finder>
+                    <groundspeak:text encoded="False">Não conheciamos o lugar pena estar ao abandono. Belo lugar para se esconder uma cache.
+In: Autocolante
+Out: Nada
+TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
                 <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>1.5</ox:difficulty>
-                <ox:size>3.0</ox:size>
+                <ox:size>2.9</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
         </ox:opencaching>
     </wpt>
+    <wpt lon="-27.056667" lat="38.673333">
+        <time>2012-02-05T08:00:00.000Z</time>
+        <name>OX3C45G</name>
+        <desc>Caverna do Alibabá by Daniel e Carina, Unknown Cache(4.0/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3C45G</url>
+        <urlname>Caverna do Alibabá</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3132070">
+            <groundspeak:name>Caverna do Alibabá</groundspeak:name>
+            <groundspeak:placed_by>Daniel e Carina</groundspeak:placed_by>
+            <groundspeak:owner id="45598">Daniel e Carina</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>4</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;h3&gt;&lt;strong&gt;Bem vindos à Caverna do Ali
+Bábá!&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;u&gt;A caverna não está nas coordenadas
+publicadas!&lt;/u&gt;&lt;/p&gt;
+
+
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;&lt;strong&gt;Reza a lenda que Ali Bábá navegou por mares
+desconhecidos até que encontrou este pedaço de terra no mar
+abandonado. Aqui decidiu esconder o seu último tesouro para que não
+mais fosse encontrado... Até hoje!&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Onde estará?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;N 38º ??.??? W027 ??.???&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Este vídeo tem o segredo...&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;http://youtu.be/JH92FnqVzjQ&lt;/p&gt;
+&lt;p&gt;Podem verificar a solução do puzzle aqui &lt;a href=&quot;http://www.geochecker.com/index.php?code=305d201dff1025e37769a665946c7b26&amp;amp;action=check&amp;amp;wp=47433343343547&amp;amp;name=43617665726e6120646f20416c692042e162e1&quot;&gt;
+Geochecker.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;HIDDEN: FN3C45G - Ponto Final&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___</groundspeak:long_description>
+            <groundspeak:encoded_hints>1ª- Estou a 1,5m de altura à esquerda, depois do último degrau.
+2ª- Estou dentro da primeira.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>4.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
     <wpt lon="-27.058617" lat="38.6914">
-        <time>2011-07-12T02:00:00.000-05:00</time>
+        <time>2011-07-12T07:00:00.000Z</time>
         <name>OX302F7</name>
-        <desc>Pico do Capitão by Daniel e Carina, Traditional Cache(1.0/2.5/3.0)</desc>
+        <desc>Pico do Capitão by Daniel e Carina, Traditional Cache(1.1/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX302F7</url>
         <urlname>Pico do Capitão</urlname>
         <sym>Geocache</sym>
@@ -941,278 +688,50 @@ Desconhece-se a data de criação da freguesia, pois segundo a tradição foi no
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Esta cache encontra-se no Pico do Capitão na freguesia do Porto Martins.
-
-This cache is at Pico do Capitão in Porto Martins.
-
-PT
-Ao chegar às coordenadas do GC, primeiro apreciar a vista excelente e depois procurar. ;)
-
-
-EN
-Arriving in the coordinates of the GC, first enjoy the great view and then look. ;)</groundspeak:long_description>
+            <groundspeak:long_description html="True">Esta cache encontra-se no Pico do Capitão na freguesia do Porto Martins.&lt;br/&gt;&lt;br/&gt;This cache is at Pico do Capitão in Porto Martins.&lt;br/&gt;&lt;br/&gt;PT&lt;br/&gt;Ao chegar às coordenadas do GC, primeiro apreciar a vista excelente e depois procurar. ;)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;EN&lt;br/&gt;Arriving in the coordinates of the GC, first enjoy the great view and then look. ;)</groundspeak:long_description>
             <groundspeak:encoded_hints>Debaixo de umas pedras.
 
 
 
 Under some rocks.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2064889">
+                    <groundspeak:date>2012-09-10T00:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="149052">SAUROSPT</groundspeak:finder>
+                    <groundspeak:text encoded="False">Ao subir o Pico para tirar algumas fotos, encontrei esta cache abandonada e fora do esconderijo. Precisa de manutenção.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1768304">
+                    <groundspeak:date>2012-03-10T16:34:50.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="94096">ralmeida5422</groundspeak:finder>
+                    <groundspeak:text encoded="False">Team pirata, 1@ cache da Sofia e bola. Acompanharam Ricardo Carolina e Francisco.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1770831">
+                    <groundspeak:date>2012-01-22T01:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="73033">Team Spicozos</groundspeak:finder>
+                    <groundspeak:text encoded="False">A caminhada revelou-se puxadinha depois de um dia de geocaching.
+Lugar desconhecido para nós, mas com uma linda vista.
+Feita na companhia do Rodrigo e de Maria.
+In: Carta Rabbids
+Out : Surpesa Ovo Kinder
+
+TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
                 <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>1.0</ox:difficulty>
-                <ox:size>3.0</ox:size>
+                <ox:difficulty>1.1</ox:difficulty>
+                <ox:size>3.1</ox:size>
                 <ox:terrain>2.5</ox:terrain>
             </ox:ratings>
         </ox:opencaching>
     </wpt>
-    <wpt lon="-27.206933" lat="38.6931">
-        <time>2009-09-06T02:00:00.000-05:00</time>
-        <name>OX1Y98B</name>
-        <desc>A Serra do Morião by PlPELINE, Traditional Cache(2.0/3.5/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX1Y98B</url>
-        <urlname>A Serra do Morião</urlname>
-        <sym>Geocache</sym>
-        <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="1796368">
-            <groundspeak:name>A Serra do Morião</groundspeak:name>
-            <groundspeak:placed_by>PlPELINE</groundspeak:placed_by>
-            <groundspeak:owner id="73038">PlPELINE</groundspeak:owner>
-            <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Small</groundspeak:container>
-            <groundspeak:difficulty>2</groundspeak:difficulty>
-            <groundspeak:terrain>3.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">A Serra do Morião, também referida como Serra da Nasce Água, localiza-se no Concelho de Angra do Heroísmo, na ilha Terceira, nos Açores.
-
-A Serra do Morião, também referida como Serra da Nasce Água, localiza-se no Concelho de Angra do Heroísmo, na ilha Terceira, nos Açores.
-
-Ergue-se a 632 metros de altitude e constitui-se numa singularidade. A sua caldeira, denominada de Caldeira do Guilherme Moniz, é possivelmente o maior reservatório de água do Concelho, senão mesmo de toda a ilha. Esta caldeira foi inundada pela erupção do Algar do Carvão, que a preencheu com lavas deixando as águas invisíveis sob as escoadas lávicas.
-
-Deste grande reservatório brotam várias nascentes como a da Nasce Água e a da Furna da Água, onde a água brota por um tubo lávico.
-
-Segundo a Revista de Estudos Açorianos:
-&quot;O Maciço da Serra do Morião e da Caldeira de Guilherme Moniz corresponde a um grande aparelho vulcânico com uma caldeira: a Caldeira de Guilherme Moniz. Esta caldeira alongada, de dimensões da ordem de 4 km por 2,5 km, apresenta-se desmantelada nos lados N e E, correspondendo os seus bordos W e S à Serra do Morião. É exactamente aqui que se observa o ponto de maior altitude, o Rosto, com 632 m. Na caldeira observam-se formações mais recentes, tais como o Pico do Gualpanal e as lavas oriundas do Pico do Algar do Carvão. Nos flancos SW e S da Serra do Morião são, ainda, visíveis cones vulcânicos secundários instalados sobre acidentes tectónicos de direcção N-S (Zbyszewski et al., 1971). 
-
-NÃO ACONSELHO A IREM Á NOITE, NEM SOZINHOS CASO NÃO CONHEÇAM AS ZONA. 
-
-E MUITA ATENÇÃO AO ATRIBUTO &quot;WATCH FOR LIVESTOCK&quot;!
-
-A cache colocada contem:
-
-1 Íman de frigorífico
-1 Autocolante
-1 Logbook
-1 Caneta
-1 Lápis
-1 Apara-lápis
-1 Ampulheta
-1 Cinzeiro
-1 Porta Canetas
-1 Mola de Cabelo
-1 Baralho de Cartas
-2 Compressas de Gaze
-1 Instruções em Português
-1 Instruções em Inglês
-1 Prémio para o FTF
-
-
-EN
-
-
-The Serra do Morião, also referred to as the Serra da Nasce Água, located in the county of Angra do Heroísmo in Terceira, Azores. 
-
-It stands 632 meters above sea level and constitutes a singularity. Its crater, called the Caldeira Guilherme Moniz, is possibly the largest water reservoir of the county, if not the whole island. This crater was flooded by the eruption of Algar do Carvão, which filled with lava leaving the waters invisible under the lava flows. 
-
-From this large reservoir run several water sources like Nasce Água and Furna d’Água, where the water flows by a lava tube. 
-
-According to the Review of Azoreans: 
-&quot;The Massif of Serra do Morião and Caldeira Guilherme Moniz corresponds to a large device with a volcanic crater: the Caldeira Guilherme Moniz. This wide crater with dimensions in the order of 4 km by 2.5 km, as both sides N and E dismantled, corresponding to its edges W and S to Serra do Morião. and here is where we see the point of highest elevation, O Rosto, with 632 m. In the crater we can see the younger formations, such as Pico do Gualpanal and lava coming from the Pico do Algar do Carvão. In SW and S flanks of the Serra do Morião are still visible secondary volcanic cones installed on tectonic accidents direction NS (Zbyszewski et al., 1971). 
-
-
-
-I ADVISE YOU NOT TO GO AT NIGTH, OR ALONE IF UNFAMILIAR WITH THE AREA! 
-
-AND PAY ATTENTION TO THE ATRIBUTE &quot;WATCH FOR LIVESTOCK&quot;
-
-
-The cache contains posted: 
-
-1 Fridge magnet 
-1 Sticker 
-1 Logbook 
-1 Pen 
-1 Pencil
-1 Pencil sharpener 
-1 Hourglass 
-1 Ashtray 
-1 Pen Holder 
-1 Hair Spring
-1 Deck of Cards 
-2 Gauze Sponges 
-1 Instructions in Portuguese 
-1 Instructions in English 
-1 FTF Prize</groundspeak:long_description>
-            <groundspeak:encoded_hints>Procure de costas para a cidade e 6 metros para lá do marco geodésico!
-
-Search with your back to the city and 6 meters beyond the Geodesic Mark!</groundspeak:encoded_hints>
-        </groundspeak:cache>
-        <ox:opencaching>
-            <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>2.0</ox:difficulty>
-                <ox:size>3.0</ox:size>
-                <ox:terrain>3.5</ox:terrain>
-            </ox:ratings>
-        </ox:opencaching>
-    </wpt>
-    <wpt lon="-27.3165" lat="38.710583">
-        <time>2009-08-18T02:00:00.000-05:00</time>
-        <name>OX1XD70</name>
-        <desc>Santa Barbara - O Abrigo by PlPELINE, Traditional Cache(2.0/1.5/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX1XD70</url>
-        <urlname>Santa Barbara - O Abrigo</urlname>
-        <sym>Geocache</sym>
-        <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="1770379">
-            <groundspeak:name>Santa Barbara - O Abrigo</groundspeak:name>
-            <groundspeak:placed_by>PlPELINE</groundspeak:placed_by>
-            <groundspeak:owner id="73038">PlPELINE</groundspeak:owner>
-            <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Small</groundspeak:container>
-            <groundspeak:difficulty>2</groundspeak:difficulty>
-            <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Situa-se na estrada das 12, que vem da Lagoa das Patas e passa por cima das freguesias de Santa Barbara, São Bartolomeu indo fazer a ligação á zona das 12 Ribeiras, inicio da Serreta. O terreno é propicio a qualquer tipo de veiculos e não apresenta nenhuma dificuldade!
-
-A cache é composta inicialmente por:
-
-1 Logbook;
-1 Lápis;
-1 Caneta;
-1 Apara Lápis;
-2 Brinquedos
-1 Autocolante &quot;TT-terceirense&quot;
-1 Porta Canetas
-1 Prisão do Cabelo
-1 Instruções em Português
-1 Instruções em Inglês
-
-Tenham em atenção que a recepção de satelite na zona pode ser fraca e ter margens de erro de 4m a 10m devido á vegetação. Mesmo assim, creio ser facil! 
-
---
-
-English:
-
-The cache is composed by:
-
-1 Logbook;
-1 Pencil;
-1 Pen;
-1 Pencil ?Trimmer?;
-2 Trading Toys
-1 &quot;TT-terceirense&quot; Sticker
-1 Pen Carrier
-1 Prisão do Cabelo
-1 Portuguese Instructions
-1 English Instructions
-
-Note that the reception of the satellite area may be poor and have margins of error of 4m to 10m due to vegetation. Nonetheless, I think it´s easy!</groundspeak:long_description>
-            <groundspeak:encoded_hints>Português - Entre e sente-se! 
-
-English - Enter and sit!</groundspeak:encoded_hints>
-        </groundspeak:cache>
-        <ox:opencaching>
-            <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>2.0</ox:difficulty>
-                <ox:size>3.0</ox:size>
-                <ox:terrain>1.5</ox:terrain>
-            </ox:ratings>
-        </ox:opencaching>
-    </wpt>
-    <wpt lon="-27.290367" lat="38.718667">
-        <time>2008-04-27T02:00:00.000-05:00</time>
-        <name>OX1BNH9</name>
-        <desc>Lagoa das Patas by PlPELINE, Traditional Cache(3.5/3.0/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX1BNH9</url>
-        <urlname>Lagoa das Patas</urlname>
-        <sym>Geocache</sym>
-        <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="1271939">
-            <groundspeak:name>Lagoa das Patas</groundspeak:name>
-            <groundspeak:placed_by>PlPELINE</groundspeak:placed_by>
-            <groundspeak:owner id="73038">PlPELINE</groundspeak:owner>
-            <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Regular</groundspeak:container>
-            <groundspeak:difficulty>3.5</groundspeak:difficulty>
-            <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cache situada na zona de Lazer da Lagoa das Patas!
-
-O segredo aqui é não parar! Caso contrário o GPS entra em &quot;parafuso&quot;, mantenham-se em movimento até sensivelmente 5/3 metros do GZ!
-
-Lagoa das Patas (ou lagoa da Falca) é uma lagoa de pequena dimensão situada na ilha Terceira, Açores, junto a uma ribeira de águas de escorrência com origem na Serra de Santa Bárbara, que a alimenta.
-
-Encontra-se rodeada por florestas de criptomérias de grandes dimensões plantadas pelos serviços florestais. Por detrás desta lagoa encontra-se uma zona natural de acumulações pluviais composta por uma turfeira bastante grande e plana. Ao longo da ribeira que alimenta esta lagoa é possível observar-se uma grande variedade da flora indígena das ilhas principalmente composta por cedro-do-mato Juniperus brevifolia), Urze (Erica azorica) endémica dos Açores e a faia-da-terra (Myrica faya) autóctone dos Açores.
-
- 
-A lagoa no verão devido a encontrar-se já a uma cota de altitude bastante elevada é dada a grandes nevoeiros e silêncios.
-
-Devido à forte intervenção humana a zona envolvente tem sofrido bastantes atentados ecológicos que se manifestaram na perda de biodiversidade tanto da flora como da fauna.
-
-É possível no entanto observar-se bastantes aves, principalmente o pato bravo ou mudo, o ganso, o pardal, a lambandeira, o melro, o estorninho e bastantes gaivotas, facto este algo estranho dado a grande distância a que esta lagoa se encontra do mar. Surgem ainda dezenas de outras aves migratórias que passam pela lagoa a caminho do seu destino</groundspeak:long_description>
-            <groundspeak:encoded_hints>5 a 10 passos fora do trilho!
-
-5 to 10 paces off the trail!</groundspeak:encoded_hints>
-        </groundspeak:cache>
-        <ox:opencaching>
-            <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>3.5</ox:difficulty>
-                <ox:size>4.0</ox:size>
-                <ox:terrain>3.0</ox:terrain>
-            </ox:ratings>
-        </ox:opencaching>
-    </wpt>
-    <wpt lon="-27.325433" lat="38.722067">
-        <time>2008-02-18T02:00:00.000-06:00</time>
-        <name>OX19FWF</name>
-        <desc>Serra de Santa Barbara by PlPELINE, Traditional Cache(3.0/2.0/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX19FWF</url>
-        <urlname>Serra de Santa Barbara</urlname>
-        <sym>Geocache</sym>
-        <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="1206907">
-            <groundspeak:name>Serra de Santa Barbara</groundspeak:name>
-            <groundspeak:placed_by>PlPELINE</groundspeak:placed_by>
-            <groundspeak:owner id="73038">PlPELINE</groundspeak:owner>
-            <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Small</groundspeak:container>
-            <groundspeak:difficulty>3</groundspeak:difficulty>
-            <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">A cache situa-se sensivelmente a meio caminho do cimo da Serra de Santa Barbara!
-
-Serra de Santa Bárbara é uma montanha sita no concelho de Angra do Heroísmo, ilha Terceira, arquipélago dos Açores. É um estratovulcão inactivo que se eleva a 1 021 metros acima do nível do mar. É o maior vulcão da ilha Terceira e também o maior ponto de condensação de nuvens, formando uma bacia hidrográfica própria que além de permitir a alimentação da toalha freática alimenta com água a parte Oeste da ilha.
-
-Segundo a Revista de Estudos Açoreanos, Vol. X, Fasc. 1, página. 49 e 50, de Dezembro de 2003, “A Serra de Santa Bárbara abrange toda a zona W da ilha Terceira e compreende um estratovulcão com cerca de 13 km de diâmetro e uma altitude de 1021 m. No topo deste edifício vulcânico destaca-se uma caldeira, com um diâmetro da ordem de 2 km e uma profundidade aproximada de 150 m, no interior da qual se observam alguns domos, (…) espessas escoadas lávicas de natureza traquítica (denominadas por coulées) e, mais para oeste, algumas lagoas de pequenas dimensões (Zbyszewski et al., 1971).
-
-Os flancos deste vulcão mostram-se bastante ravinados, com uma rede de cursos de água do tipo centrífuga, implantada principalmente nos flancos N, S e W. Os cones vulcânicos
-
- 
-Lagoa Negra, interior da Caldeira da Serra de Santa Barbara.secundários deste estratovulcão estão dispostos radialmente ou sobre acidentes tectónicos de orientação geral NW-SE (Zbyszewski et al., 1971). Entre os primeiros estão o Pico das Faias, o Pico do Teles, o Pico Negro, o Pico das Dez, o Pico Catarina Vieira, o Pico dos Padres, o Pico da Serreta,</groundspeak:long_description>
-            <groundspeak:encoded_hints>5 passo da pequena gruta!
-
-5 paces from the small cave!</groundspeak:encoded_hints>
-        </groundspeak:cache>
-        <ox:opencaching>
-            <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>3.0</ox:difficulty>
-                <ox:size>3.0</ox:size>
-                <ox:terrain>2.0</ox:terrain>
-            </ox:ratings>
-        </ox:opencaching>
-    </wpt>
     <wpt lon="-27.06036" lat="38.72698">
-        <time>2009-10-14T02:00:00.000-05:00</time>
+        <time>2009-10-14T07:00:00.000Z</time>
         <name>OX1ZVXT</name>
         <desc>Baía da Praia da Vitória - Passeio Marítimo by Daniel e Carina, Traditional Cache(2.0/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ZVXT</url>
@@ -1227,14 +746,34 @@ Lagoa Negra, interior da Caldeira da Serra de Santa Barbara.secundários deste e
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Passeio Marítimo da Praia da Vitória
-
-Passeio Marítimo recentemente aberto ao público, com zonas de parque para viaturas e um grande passeio para pedestres, ciclistas e público em geral.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Passeio Marítimo da Praia da Vitória&lt;br/&gt;&lt;br/&gt;Passeio Marítimo recentemente aberto ao público, com zonas de parque para viaturas e um grande passeio para pedestres, ciclistas e público em geral.</groundspeak:long_description>
             <groundspeak:encoded_hints>Take the &quot;Lid&quot; off...
 Tire a &quot;tampa&quot;...</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="1764633">
+                    <groundspeak:date>2012-03-03T16:29:47.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="94096">ralmeida5422</groundspeak:finder>
+                    <groundspeak:text encoded="False">Os Piratas, Francisco, Carolina, Ricardo, cache encontrada, muito bem pensada. Requer manutenção.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1760151">
+                    <groundspeak:date>2012-02-27T01:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="73061">Team PortoJudeu</groundspeak:finder>
+                    <groundspeak:text encoded="False">Encontrada no dia 25 de Fevereiro com os Pioneiros do Porto Judeu.
+TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1770833">
+                    <groundspeak:date>2011-10-27T00:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="73033">Team Spicozos</groundspeak:finder>
+                    <groundspeak:text encoded="False">Muito interessante o passeio á beira mar, mais uma vez o spicozo dominando o gps e a spicoza e encontrar a cache :)
+IN. Nada
+Out: Nada
+TFTC</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1170237">
-                    <groundspeak:date>2010-06-03T19:06:24.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-06-04T00:06:24.000Z</groundspeak:date>
                     <groundspeak:type>Comment</groundspeak:type>
                     <groundspeak:finder id="2117">paulohercules</groundspeak:finder>
                     <groundspeak:text encoded="False">Interior da cache ensopado.
@@ -1242,7 +781,7 @@ Cache escondida num local que não é o original.
 Aconselha-se visita de manutenção.</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="406673">
-                    <groundspeak:date>2010-06-02T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-06-02T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="2117">paulohercules</groundspeak:finder>
                     <groundspeak:text encoded="False"># 2104
@@ -1258,7 +797,7 @@ TFTC
 XNSL</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1170236">
-                    <groundspeak:date>2010-06-01T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-06-01T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Didn't find it</groundspeak:type>
                     <groundspeak:finder id="2117">paulohercules</groundspeak:finder>
                     <groundspeak:text encoded="False">Encontrei o autocolante do geocacher anterior e assinei no dito.
@@ -1275,81 +814,8 @@ Mais tarde quando liguei o computador e consultei a página da cache, através d
             </ox:ratings>
         </ox:opencaching>
     </wpt>
-    <wpt lon="-27.27255" lat="38.730367">
-        <time>2009-09-05T02:00:00.000-05:00</time>
-        <name>OX1Y7W7</name>
-        <desc>O Pico Gaspar (Terceira - Açores) by PlPELINE, Traditional Cache(2.0/3.0/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX1Y7W7</url>
-        <urlname>O Pico Gaspar (Terceira - Açores)</urlname>
-        <sym>Geocache</sym>
-        <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="1795031">
-            <groundspeak:name>O Pico Gaspar (Terceira - Açores)</groundspeak:name>
-            <groundspeak:placed_by>PlPELINE</groundspeak:placed_by>
-            <groundspeak:owner id="73038">PlPELINE</groundspeak:owner>
-            <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Small</groundspeak:container>
-            <groundspeak:difficulty>2</groundspeak:difficulty>
-            <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">O Pico Gaspar é uma elevação portuguesa de origem vulcânica localizada no concelho de Angra do Heroísmo, ilha Terceira, arquipélago dos Açores.
-
-O terreno é um pouco ingreme, escorregadio quando chove e traiçoeiro em certas situações de arbustos que escondem buracos! CUIDADO!
-
-Este acidente montanhoso encontra-se geograficamente localizado na parte centro Oeste da ilha Terceira, mais precisamente, 2.242ºN latitude e 115.375º W longitude, apresentando 597 metros de altitude acima do nível do mar e encontra-se relacionado com a formação geológica dos contrafortes do vulcão da Serra de Santa Bárbara. Faz com esta montanha parte da maior formação geológica da ilha Terceira que se eleva a 1021 metros acima do nível do mar.
-
-Esta formação apresenta um cone do tipo estrombiliano, com idade geológica bastante recente, que possivelmente ronda aa ordem 1200 anos D.C. e é resultado de uma erupção piroclástica secundária da Serra de Santa Bárbara. A sua forma cónica nitida com que se apresenta e as vertentes fortemente inclinadas são características de um cone de escórias basáltias soldadas.
-
-Na área de influência desta formação geológica encontra-se a Lagoa do Negro, o Pico da Cancela e a Gruta do Natal. Na cratera do Pico Gaspar existe, protegida da influência do homem, um autêntico oásis de plantas endémicas típicas da Floresta Macarinésica.
-
-De entre essa rica flora destacam-se Juniperus brevifolia, Ilex perado ssp. azorica, Euphorbia stygiana, Cardamine caldeirarum, entre várias outras Espécies.
-
-
-A Cache é uma embalagem &quot;Small&quot;, que contem:
-
-1 Logbook
-1 Lapis
-1 Caneta
-1 Mola 
-1 Dissipador de Placas Graficas
-1 Protector de Tomadas
-
-
-
-EN
-
-
-This small mountain is geographically located in the central west of Terceira, more precisely, 2.242ºN latitude e 115.375º W longitude, with 597 meters of altitude above sea level and is related to the geology of the foothills of Volcano Sierra de Santa Barbara. It makes this mountain part of the largest geological formation of Terceira that rises to 1021 meters above sea level. 
-
-This formation has a cone-type estrombiliano with fairly recent geological age, possibly round to the order 1200 years AD and is the result of a secondary pyroclastic eruption of the Sierra de Santa Barbara. Its conical shape and it’s strong inclination are characteristic of a basaltic cinder cone welded. 
-
-In the area of influence of this geological formation is the Black Lagoon, the Pico da Cancela e a Gruta do Natal. The crater of Pico Gaspar is protected from the influence of man, a true oasis of endemic plants typical of the Forest Macaronésica. 
-
-Among this rich flora stand out Juniperus brevifolia, Ilex perado ssp. azorica, Euphorbia stygiana, Cardamine caldeirarum, among many other species. 
-
-
-The Cache is a “Small” container which contains: 
-
-1 Logbook 
-1 Pencil 
-1 Pen 
-1 Spring 
-1 Graphic Cards Cooler
-1 Protector of electric choke</groundspeak:long_description>
-            <groundspeak:encoded_hints>Ao seguir o trilho, chegando ao topo vire á esquerda - CUIDADO. Na pedra que se apresenta pela direita de quem sobe!
-
-Following the trail, on the top make a left turn - BE CAREFULL! On the rock, in the rigth side, going up!</groundspeak:encoded_hints>
-        </groundspeak:cache>
-        <ox:opencaching>
-            <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>2.0</ox:difficulty>
-                <ox:size>3.0</ox:size>
-                <ox:terrain>3.0</ox:terrain>
-            </ox:ratings>
-        </ox:opencaching>
-    </wpt>
     <wpt lon="-27.302383" lat="38.733217">
-        <time>2011-10-07T02:00:00.000-05:00</time>
+        <time>2011-10-07T07:00:00.000Z</time>
         <name>OX35GQ0</name>
         <desc>Aviocar 6518 by Hugo e Fabiana, Traditional Cache(3.0/4.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX35GQ0</url>
@@ -1364,14 +830,14 @@ Following the trail, on the top make a left turn - BE CAREFULL! On the rock, in 
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>4</groundspeak:terrain>
-            <groundspeak:long_description html="True"> &lt;br/&gt;&lt;br/&gt; [PT]&lt;br/&gt;
-&lt;b&gt;5 de Julho de 1978&lt;/b&gt;&lt;br/&gt;
+            <groundspeak:long_description html="True"> &lt;br /&gt;&lt;br /&gt; [PT]&lt;br /&gt;
+&lt;b&gt;5 de Julho de 1978&lt;/b&gt;&lt;br /&gt;
 &lt;p&gt;Um dia que ficou marcado na história da Força Aérea
-Portuguesa..&lt;br/&gt;&lt;/p&gt;
+Portuguesa..&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;Pouco depois de levantar voo da Base Aérea nº4, o pequeno CASA
 C-212 Aviocar 100, com 3 tripulantes a bordo, embateu violentamente
 contra a encosta da Serra de Sta Bárbara, deixando os seus
-destroços espalhados pela densa vegetação.&lt;br/&gt;&lt;/p&gt;
+destroços espalhados pela densa vegetação.&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;O pequeno Aviocar contava com 13 anos e 5 meses de serviço..&lt;/p&gt;
 &lt;p&gt;Conta a história que o acidente deveu-se a erro de pilotagem
 durante um voo de treino.. As condições de visibilidade eram fracas
@@ -1386,24 +852,24 @@ Coronel Bettencourt e 1º Sargento Vitorino] fica aqui, em forma de
 Geocache, uma pequena homenagem para que fiquem sempre na memória
 de todos.&lt;/p&gt;
 
-&lt;b&gt;A Cache:&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;A Cache:&lt;/b&gt;&lt;br /&gt;
 Está escondida perto da área do monumento [ver foto], para chegar a
 este local é preciso caminhar por um trilho que está relativamente
 marcado e acessível pela zona demarcada como estacionamento..
 Recomenda-se o uso de calçado impermeável e muita atenção onde se
 coloca os pés devido ao piso escorregadio em algumas zonas.. Fazer
 a Cache num dia em que a Serra esteja limpa de nuvens é o ideal
-para se poder apreciar a vista..&lt;br/&gt;
+para se poder apreciar a vista..&lt;br /&gt;
 
 
-[Eng]&lt;br/&gt;
-&lt;b&gt;July 5th, 1978&lt;/b&gt;&lt;br/&gt;
+[Eng]&lt;br /&gt;
+&lt;b&gt;July 5th, 1978&lt;/b&gt;&lt;br /&gt;
 &lt;p&gt;A day that will always be remembered by the Portuguese Air
-Force..&lt;br/&gt;&lt;/p&gt;
+Force..&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;Soon after taking flight from the 4th Air Base, the small CASA
 C-212 Aviocar 100, with a crew of 3, crashed into the mountain of
 Sta Bárbara, leaving a trail of wreckage scattered through the
-dense vegetation.&lt;br/&gt;&lt;/p&gt;
+dense vegetation.&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;The small &quot;Aviocar&quot; was only 13 years and 5 months into
 service..&lt;/p&gt;
 &lt;p&gt;The story around this crash states that the crash was due to
@@ -1419,16 +885,16 @@ decommissioned C-212-100 &quot;Aviocar&quot; and to its crew on that day -
 Tenente Coronel Lavrador, Tenente Coronel Bettencourt and 1º
 Sargento Vitorino.&lt;/p&gt;
 
-&lt;b&gt;The Cache:&lt;/b&gt;&lt;br/&gt;
+&lt;b&gt;The Cache:&lt;/b&gt;&lt;br /&gt;
 It's hidden near the monument placed in their memory [see photo].
 To reach this site, you'll need to hike through a trail visible
 near the coordinates of the parking spot.. It is highly recommended
 that you wear impermeable footwear and pay close attention to your
 footing, since there are some areas where the trail is very
 slippery.. Also, it's always better to hunt for this cache in a
-clear day so that you will be able to enjoy the great view..&lt;br/&gt;
-&lt;a href=&quot;http://s97.photobucket.com/albums/l237/hjfaria/?action=view&amp;amp;current=18AGO07_AVIOCAR.jpg&quot;&gt;&lt;/a&gt; &lt;a href=&quot;http://s97.photobucket.com/albums/l237/hjfaria/?action=view&amp;amp;current=32272418.jpg&quot;&gt;&lt;/a&gt; &lt;a href=&quot;http://s97.photobucket.com/albums/l237/hjfaria/?action=view&amp;amp;current=DSC08501.jpg&quot;&gt;&lt;/a&gt;&lt;br/&gt;
-&lt;p&gt;Additional Waypoints&lt;/p&gt;PK35GQ0 - GC35GQ0 Parking&lt;br/&gt;N 38° 43.671 W 027° 18.056   </groundspeak:long_description>
+clear day so that you will be able to enjoy the great view..&lt;br /&gt;
+&lt;a href=&quot;http://s97.photobucket.com/albums/l237/hjfaria/?action=view&amp;amp;current=18AGO07_AVIOCAR.jpg&quot;&gt;&lt;/a&gt; &lt;a href=&quot;http://s97.photobucket.com/albums/l237/hjfaria/?action=view&amp;amp;current=32272418.jpg&quot;&gt;&lt;/a&gt; &lt;a href=&quot;http://s97.photobucket.com/albums/l237/hjfaria/?action=view&amp;amp;current=DSC08501.jpg&quot;&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;Additional Waypoints&lt;/p&gt;PK35GQ0 - GC35GQ0 Parking&lt;br /&gt;N 38° 43.671 W 027° 18.056   </groundspeak:long_description>
             <groundspeak:encoded_hints>com raizes criadas / with grown roots..</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1438,20 +904,12 @@ clear day so that you will be able to enjoy the great view..&lt;br/&gt;
                 <ox:size>4.0</ox:size>
                 <ox:terrain>4.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Not Recommended at night</ox:tag>
-                <ox:tag>Not Wheelchair accessible</ox:tag>
-                <ox:tag>Not Off-road vehicles</ox:tag>
-                <ox:tag>Not Tree Climbing</ox:tag>
-                <ox:tag>Watch for livestock</ox:tag>
-                <ox:tag>Scenic view</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="-27.16495" lat="38.734583">
-        <time>2011-08-17T02:00:00.000-05:00</time>
+        <time>2011-08-17T07:00:00.000Z</time>
         <name>OX32EMV</name>
-        <desc>19th Hole/ Buraco 19 by Daniel e Carina, Traditional Cache(3.0/1.5/3.0)</desc>
+        <desc>19th Hole/ Buraco 19 by Daniel e Carina, Traditional Cache(3.0/1.6/3.1)</desc>
         <url>http://www.opencaching.com/#geocache/OX32EMV</url>
         <urlname>19th Hole/ Buraco 19</urlname>
         <sym>Geocache</sym>
@@ -1464,32 +922,33 @@ clear day so that you will be able to enjoy the great view..&lt;br/&gt;
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">PT
-Cache de fácil acesso, mas bem camuflada.
-
-EN
-Easy access cache, but well hiden.
-
-PT
-A cache encontra-se numa estrada de terra batida ao lado do Clube de Golfe da Ilha Terceira. Não ir pela relva do Clube!
-
-EN
-The cache is located on a dirt road beside the Terceira Island Golf Clube. Do not go onto the Clubs grass!</groundspeak:long_description>
+            <groundspeak:long_description html="True">PT&lt;br/&gt;Cache de fácil acesso, mas bem camuflada.&lt;br/&gt;&lt;br/&gt;EN&lt;br/&gt;Easy access cache, but well hiden.&lt;br/&gt;&lt;br/&gt;PT&lt;br/&gt;A cache encontra-se numa estrada de terra batida ao lado do Clube de Golfe da Ilha Terceira. Não ir pela relva do Clube!&lt;br/&gt;&lt;br/&gt;EN&lt;br/&gt;The cache is located on a dirt road beside the Terceira Island Golf Clube. Do not go onto the Clubs grass!</groundspeak:long_description>
             <groundspeak:encoded_hints>Tanto buraco e vim parar para aqui...
 
 So many holes and I had to end up in this one...</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1770825">
+                    <groundspeak:date>2011-10-29T00:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="73033">Team Spicozos</groundspeak:finder>
+                    <groundspeak:text encoded="False">Adoramos a originalidade da cache.
+Sem duvida uma das nossas favoritas até agora.
+A precisar de manutenção, devido ao excesso de log books.
+TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:awesomeness>3.1</ox:awesomeness>
                 <ox:difficulty>3.0</ox:difficulty>
                 <ox:size>2.0</ox:size>
-                <ox:terrain>1.5</ox:terrain>
+                <ox:terrain>1.6</ox:terrain>
             </ox:ratings>
         </ox:opencaching>
     </wpt>
     <wpt lon="-27.05978" lat="38.73445">
-        <time>2009-10-10T02:00:00.000-05:00</time>
+        <time>2009-10-10T07:00:00.000Z</time>
         <name>OX1ZND3</name>
         <desc>Jardim do Paúl - Praia da Vitória by Daniel e Carina, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ZND3</url>
@@ -1504,10 +963,10 @@ So many holes and I had to end up in this one...</groundspeak:encoded_hints>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Zona de nidação de aves.&lt;br/&gt;
+            <groundspeak:long_description html="True">Zona de nidação de aves.&lt;br /&gt;
 Wet Zone. Bird nesting zone. Aproveite o passeio e as vistas. Enjoy
 the walk and the view.
- &lt;br/&gt;&lt;br/&gt; Paul da Praia da Vitória, (Santa Cruz)
+ &lt;br /&gt;&lt;br /&gt; Paul da Praia da Vitória, (Santa Cruz)
 &lt;p&gt;O Paul da Praia da Vitória é uma zona lacustre portuguesa
 localizada no concelho da Praia da Vitória, ilha Terceira,
 Açores.&lt;/p&gt;
@@ -1536,11 +995,37 @@ encarado como uma restrição ao desenvolvimento da cidade num pólo
 dinamizador desse mesmo desenvolvimento.&lt;/p&gt;
 &lt;p&gt;Ao longos dos séculos do povoamento da ilha Terceira e da Praia
 da Vitória em Particular o Paulo teve muitas alterações da sua
-morfologia natural.&lt;/p&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;PZ1ZND3 - Zona de parque da viatura&lt;br/&gt;N 38° 44.063 W 027° 03.664&lt;br/&gt;Zona de parque.
+morfologia natural.&lt;/p&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;PZ1ZND3 - Zona de parque da viatura&lt;br /&gt;N 38° 44.063 W 027° 03.664&lt;br /&gt;Zona de parque.
 Parking zone.</groundspeak:long_description>
             <groundspeak:encoded_hints>Alimente as raízes para ela crescer e proporcionar uma boa sombra ;)
 
 Feed its roots so it can grow a give a cool shade ;)</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1764622">
+                    <groundspeak:date>2012-03-03T15:34:46.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="94096">ralmeida5422</groundspeak:finder>
+                    <groundspeak:text encoded="False">Cache encontrado por Carolina e Francisco na presença do papa Ricardo. Primeira cache do Francisco. 
+Mais uma encontrada.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1760152">
+                    <groundspeak:date>2012-02-27T01:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="73061">Team PortoJudeu</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found it.
+TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1770835">
+                    <groundspeak:date>2011-10-27T00:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="73033">Team Spicozos</groundspeak:finder>
+                    <groundspeak:text encoded="False">Um passeio no fim de tarde pelo paul.
+O gps e a dica fez o resto, fácil de encontrar.
+In: Carta Rabbids
+Out: Nada.
+TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -1552,7 +1037,7 @@ Feed its roots so it can grow a give a cool shade ;)</groundspeak:encoded_hints>
         </ox:opencaching>
     </wpt>
     <wpt lon="-27.351483" lat="38.765067">
-        <time>2011-09-06T02:00:00.000-05:00</time>
+        <time>2011-09-06T07:00:00.000Z</time>
         <name>OX33MXF</name>
         <desc>Mirante by Hugo e Fabiana, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX33MXF</url>
@@ -1567,41 +1052,7 @@ Feed its roots so it can grow a give a cool shade ;)</groundspeak:encoded_hints>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">[PT]
-Localizada num miradouro / marco geodésico bem escondido pertencente às Matas da Serreta, conseguem-se ver as ilhas Graciosa, Pico e S. Jorge num dia de bom tempo.
-
-Um local pacífico e com uma vista rodeada pela natureza de sempre agradável visita!
-
-Apreciem a vista e a calma do local..
-
-[Eng]
-Located in a belvedere / geodesic marker well hidden in the Serreta woods, you can glance the islands of Graciosa, Pico and S. Jorge on a good and clear weather day.
-
-A peaceful location with a view surrounded by nature and an always pleasant visit!
-
-Enjoy the view and quietness of the place!
-
-
-[PT]
-Conteúdo da Cache:
-Logbook (traga caneta/lápis para assinar)
-Porta-chaves
-
-!! a subida até ao GZ tem muita vegetação, o que pode confundir um pouco o GPS.. no local, sendo que não há muito espaço para se movimentar e dar uma ajuda aos GPS mais fracos (como o meu) a cache está num local óbvio..
-[ver pista]
-
-
-[Eng]
-Cache Contents:
-Logbook (bring pen/pencil to sign it)
-Keychain
-
-!! the path to the GZ has dense vegetation, wich may confuse your GPS device.. on the GZ itself and since there's not that much room to move about and help weaker GPS devices (like mine) the cache is in an obvious spot..
-[see hint..]
-
-Additional Waypoints
-PK33MXF - GC33MXF Parking
-N 38° 45.882 W 027° 21.087 </groundspeak:long_description>
+            <groundspeak:long_description html="True">[PT]&lt;br/&gt;Localizada num miradouro / marco geodésico bem escondido pertencente às Matas da Serreta, conseguem-se ver as ilhas Graciosa, Pico e S. Jorge num dia de bom tempo.&lt;br/&gt;&lt;br/&gt;Um local pacífico e com uma vista rodeada pela natureza de sempre agradável visita!&lt;br/&gt;&lt;br/&gt;Apreciem a vista e a calma do local..&lt;br/&gt;&lt;br/&gt;[Eng]&lt;br/&gt;Located in a belvedere / geodesic marker well hidden in the Serreta woods, you can glance the islands of Graciosa, Pico and S. Jorge on a good and clear weather day.&lt;br/&gt;&lt;br/&gt;A peaceful location with a view surrounded by nature and an always pleasant visit!&lt;br/&gt;&lt;br/&gt;Enjoy the view and quietness of the place!&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;[PT]&lt;br/&gt;Conteúdo da Cache:&lt;br/&gt;Logbook (traga caneta/lápis para assinar)&lt;br/&gt;Porta-chaves&lt;br/&gt;&lt;br/&gt;!! a subida até ao GZ tem muita vegetação, o que pode confundir um pouco o GPS.. no local, sendo que não há muito espaço para se movimentar e dar uma ajuda aos GPS mais fracos (como o meu) a cache está num local óbvio..&lt;br/&gt;[ver pista]&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;[Eng]&lt;br/&gt;Cache Contents:&lt;br/&gt;Logbook (bring pen/pencil to sign it)&lt;br/&gt;Keychain&lt;br/&gt;&lt;br/&gt;!! the path to the GZ has dense vegetation, wich may confuse your GPS device.. on the GZ itself and since there's not that much room to move about and help weaker GPS devices (like mine) the cache is in an obvious spot..&lt;br/&gt;[see hint..]&lt;br/&gt;&lt;br/&gt;Additional Waypoints&lt;br/&gt;PK33MXF - GC33MXF Parking&lt;br/&gt;N 38° 45.882 W 027° 21.087 </groundspeak:long_description>
             <groundspeak:encoded_hints>à esquerda, fora da &quot;caixa&quot;..
 to the left, outside of the &quot;box&quot;..</groundspeak:encoded_hints>
         </groundspeak:cache>
@@ -1612,110 +1063,10 @@ to the left, outside of the &quot;box&quot;..</groundspeak:encoded_hints>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Parking available</ox:tag>
-                <ox:tag>Dogs</ox:tag>
-                <ox:tag>Available during winter</ox:tag>
-                <ox:tag>Scenic view</ox:tag>
-                <ox:tag>Not Tree Climbing</ox:tag>
-                <ox:tag>Thorns</ox:tag>
-                <ox:tag>Not Wheelchair accessible</ox:tag>
-                <ox:tag>Not Stealth required</ox:tag>
-                <ox:tag>Cliff / falling rocks</ox:tag>
-                <ox:tag>Not Recommended at night</ox:tag>
-                <ox:tag>Not Campfires</ox:tag>
-            </ox:tags>
-        </ox:opencaching>
-    </wpt>
-    <wpt lon="-27.36" lat="38.780617">
-        <time>2007-12-29T02:00:00.000-06:00</time>
-        <name>OX186W9</name>
-        <desc>Lets go whale watching! by PlPELINE, Traditional Cache(2.5/3.5/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX186W9</url>
-        <urlname>Lets go whale watching!</urlname>
-        <sym>Geocache</sym>
-        <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="1168461">
-            <groundspeak:name>Lets go whale watching!</groundspeak:name>
-            <groundspeak:placed_by>PlPELINE</groundspeak:placed_by>
-            <groundspeak:owner id="73038">PlPELINE</groundspeak:owner>
-            <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Regular</groundspeak:container>
-            <groundspeak:difficulty>2.5</groundspeak:difficulty>
-            <groundspeak:terrain>3.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">A Cache encontra-se localizada na zona norte da ilha, mais propriamente entre as freguesias da Serreta e Raminho!  Situa-se num local propicio ao avistamento de cetáceos!
-
-SERRETA:
-
-A freguesia da Serreta localiza-se no extremo ocidental da ilha Terceira, ocupando um território grosseiramente triangular que se estende desde as arribas da costa oeste da ilha até às cumeeiras da Serra de Santa Bárbara, a mais de 900 m de altitude acima do nível médio do mar. O território da freguesia confina a nordeste com a freguesia do Raminho, da qual é separada pelo alinhamento de domas e gigantescas escoadas de lavas traquíticas que forma o bordo leste do Biscoito da Fajã. A leste, ao longo do bordo da Caldeira de Santa Bárbara, nas cumeeiras da Serra, confina com a freguesia dos Altares. A sul é separado da freguesia das Doze Ribeiras pelo curso da Ribeira das Catorze.
-
-A costa da Terceira na zona da Serreta é constituída por uma falésia com mais de 150 m de altura, que se vai curvando para nordeste até atingir a zona da Ponta da Serreta, onde uma gigantesca escoada de lava traquítica, com muitas dezenas de metros de espessura, desceu a falésia e formou uma plataforma que entre cerca de 750 m pelo mar adentro.
-
-O território da freguesia constitui a encosta oés-sudoeste da Serra de Santa Bárbara, que sendo um estrato-vulcão é essencialmente uma estrutura tronco-cónica, imprime elevado declive àquela zona da ilha (cerca de 15% na zona costeira; &amp;gt; 25% nas encostas superiores da montanha, acima dos 700 m de altitude). As principais elevações são o Pico da Serreta, uma enorme doma traquítica cuja escoada lávica atinge a costa da ilha, e o Biscoito da Fajã, uma região de escoadas traquíticas e grandes domas, hoje cobertas por densa floresta, que delimita a freguesia a nordeste. Em consequência desta geomorfologia, o substrato basáltico encontra-se recoberto por uma espessa camada de pedra-pomes esbranquiçada, localmente com densidade inferior à da água, que atinge cerca de uma centena de metros de espessura na zona mais alta. Esta camada de pedra-pomes resultou da deposição piroclástica durante a efusão das massas traquíticas que rodeiam a freguesia, num dos últimos episódios eruptivos da fase de vulcanismo secundário do Maciço de Santa Bárbara.
-
-Os solos da freguesia são derivados na sua quase totalidade da meteorização, ainda relativamente incipiente, da pedra-pomes, sendo em geral descritos como solos de bagacina. Caracterizam-se pela sua baixa massa volúmica, elevada erodibilidade e fertilidade moderada, particularmente por não reterem facilmente o azoto, perdendo-o por lixiviamento, e tenderem a sequestrar o fósforo em formas dificilmente acessíveis pelas plantas. Em algumas zonas encharcadas surgem alguns andosolos.
-
-Em consequência da baixa fertilidade e elevado declive dos terrenos, a agricultura na zona sempre foi de baixa produtividade, estruturando-se a ocupação do solo na zona mais baixa em pequenas parcelas, quase socalcos, que eram cultivados para produção de milhos e outros cereais, e a zona mais alta permanecendo inculta para pastoreio comunitário por ovelhas e cabras. Apenas a partir da década de 1970, com a implantação dos serviços florestais oficiais e depois com o Programa Pecuário dos Açores, se procedeu ao arroteamento daquelas áreas, criando-se as extensas pastagens permanentes separadas por bosquetes de Cryptomeria japonica que ora ali existem.
-
-A exposição da freguesia a oeste e sudoeste, direcção dos ventos dominantes, associada à altura da arriba costeira e altitude do povoado, situado entre os 200 e 300 m acima do nível do mar, faz da Serreta uma das localidades mais frescas dos Açores, com um clima oceânico do tipo Cfb na classificação climática de Köppen-Geiger. Os nevoeiros são frequentes e persistentes, principalmente quando estão presentes massas de ar tropical marítimo com humidade relativa próxima da saturação e o vento sopra dos quadrantes sul e oeste.
-
-As grandes escoadas e domas do Biscoito da Fajã possuem uma grande riqueza botânica, sendo um dos principais repositórios do cedro-do-mato e das poucas áreas onde ainda é frequente o espigo-do-cedro, uma rara planta endémica que parasita aquela espécie. Na parte baixa daquele Biscoito encontra-se a reserva florestal de recreio da Mata da Serreta, caracterizada pelos seus frondosos bosques e pela sua grande riqueza botânica. Na zona mais próxima do mar existem extensos bosques de Metrosideros excelsa, a árvore-do-fogo neo-zelandesa, uma espécie naturalizada na ilha durante o século XX.
-
-Na Ponta do Raminho, já no território daquela freguesia, existe um miradouro de onde se desfruta a vista de toda a costa norte e oeste da ilha, a que está associada uma das vigias da baleia usadas durante a época da baleação açoriana da primeira metade do século XX. Já em território da Serreta situa-se a Estalagem da Serreta,[1] um imóvel classificado como imóvel de interesse público. Na base da falésia jorra a Água Azeda, uma poderosa nascente de água carbonatada natural, muito gasosa, hoje de difícil acesso devido aos desabamentos que ocorreram durante o terramoto de 1980.
-
-Na Ponta da Serreta, o extremo ocidental da ilha Terceira, localiza-se o Farol da Serreta, construído nos primeiros anos do século XX que do cimo das enormes arribas a que fica sobranceiro assinala a costa da ilha e a presença, a cerca de uma milha náutica ao largo, da Baixa da Serreta, uma montanha submersa que aflora a superfície em dias de tempestade, resto das numerosas erupções do vulcão submarino da Serreta.
-
-
-
-RAMINHO:
-
-Sendo uma freguesia do norte da ilha, de cara sempre lavada pelas chuvas e pelo vento, o seu verde é claro e brilhante. As plantas sempre vivas e cheias de flores enfeitam os caminhos e rebordam as pastagens principalmente na primavera quando a flor amarela da erva azeda desponta pelos campos. Do Miradouro do Raminho desfrutam-se algumas das mais belas paisagens dos Açores, com a freguesia do Raminho e a Fajã à vista e com as ilhas da Graciosa e de São Jorge no horizonte.
-
- 
-Raminho, zona costeira. 
-Igreja de São Francisco Xavier, Raminho. 
-Império do Divino Espírito Santo do Raminho.Implantado no Complexo Vulcânico de Santa Bárbara e ocupando o flanco norte da Caldeira de Santa Bárbara, o território da freguesia do Raminho apresenta uma topografia acidentada a sul, nas faldas da Serra de Santa Bárbara, onde atinge a sua máxima altitude (966 m acima do nível médio do mar) tornando-se progressivamente suave para norte, até terminar nas altas arribas costeiras que o separam do mar.
-
-Na parte ocidental observa-se um relevo levantado, de orientação NO-SE, com configuração quase linear e desnível muito acentuado no rebordo leste, correspondente à poderosa escoada traquítica do Biscoito da Fajã, que a partir do Pico das Caldeirinhas escorreu até ao mar, formando o Cabo do Raminho e a Ponta da Serreta.
-
-As linhas de água que percorrem a freguesia são pequenas e de caudal efémero, nascendo todas nas encostas da caldeira. A orientação do terreno leva a que se desenvolvam segundo um traçado rectilíneo, com direcção predominante sul-norte. Os seus vales são pouco profundos, embora bem definidos, destacando-se a Ribeira do Borges, a Ribeira do Cabo do Raminho, a Grota do Veiga, Grota do Francisco Vieira e a Grota dos Folhadais, curso de água que ainda mantém o topónimo original da localidade.
-
-A orla costeira, numa extensão de cerca de 5,7 km, é uma continuada falésia, com arribas altas e um traçado quase linear, apenas interrompido por um poderoso dique basáltico, que por ser mais resistente à abrasão marinha, forma uma marcada protuberância. A Ponta do Raminho é um dos lados da doma traquítica do Biscoito da Fajã, separada da Ponta da Serreta por uma fajã, uma pequena área de terra não recoberta pela escoada traquítica.
-
-A parte alta da freguesia está incluída numa das áreas protegidas da Rede Natura 2000, o Sítio de Interesse Comunitário (SIC) da Serra de Santa Bárbara e Pico Alto. No extremo oeste da freguesia, já no limite com a freguesia da Serreta, situa-se a Mata da Serreta, parte da Reserva Florestal de Recreio da Serreta.</groundspeak:long_description>
-            <groundspeak:encoded_hints>Siga o trilho, atrás das rochas!
-
-Follow the marked trail, behind some rocks!</groundspeak:encoded_hints>
-            <groundspeak:logs>
-                <groundspeak:log id="405465">
-                    <groundspeak:date>2008-01-31T14:00:00.000-06:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="2117">paulohercules</groundspeak:finder>
-                    <groundspeak:text encoded="False">#448
-10h50 UTC
-MOLTAR thanks for the new caches hidden in Terceira Island.
-Very nice and quiet place I didn’t know yet.
-The sound of the waves it's fantastic.
-Great view and very pleasant stroll.
-Didn’t spotted any whales.
-TNLN
-TFTC
-
-[This entry was edited by carolangelpaul on Wednesday, May 28, 2008 at 7:33:02 AM.]</groundspeak:text>
-                </groundspeak:log>
-            </groundspeak:logs>
-        </groundspeak:cache>
-        <ox:opencaching>
-            <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>2.5</ox:difficulty>
-                <ox:size>4.0</ox:size>
-                <ox:terrain>3.5</ox:terrain>
-            </ox:ratings>
         </ox:opencaching>
     </wpt>
     <wpt lon="-27.2312" lat="38.7923333">
-        <time>2011-08-08T17:43:22.000-05:00</time>
+        <time>2011-08-08T22:43:22.000Z</time>
         <name>OX2048G</name>
         <desc>Miradouro 4 Ribeiras by Daniel e Carina, Traditional Cache(2.0/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2048G</url>
@@ -1730,19 +1081,31 @@ TFTC
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cache situada no miradouro das Quatro Ribeiras
-
-PT
-
-Esta micro cache fica localizada na Freguesia das Quatro Ribeiras na Ilha Terceira, mais propriamente num dos vários miradouros da freguesia.
-Aproveite a vista e até quem sabe, faça um lanche à sombra ;)
-
-EN
-
-This microcache is located at Quatro Ribeiras on Terceira Island, at one of the many view spots that exist.
-Enjoy the view and who knows, maybe a snack below a shade ;)
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Cache situada no miradouro das Quatro Ribeiras&lt;br/&gt;&lt;br/&gt;PT&lt;br/&gt;&lt;br/&gt;Esta micro cache fica localizada na Freguesia das Quatro Ribeiras na Ilha Terceira, mais propriamente num dos vários miradouros da freguesia.&lt;br/&gt;Aproveite a vista e até quem sabe, faça um lanche à sombra ;)&lt;br/&gt;&lt;br/&gt;EN&lt;br/&gt;&lt;br/&gt;This microcache is located at Quatro Ribeiras on Terceira Island, at one of the many view spots that exist.&lt;br/&gt;Enjoy the view and who knows, maybe a snack below a shade ;)&lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>4 Cantos e apenas uma cache</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2022758">
+                    <groundspeak:date>2012-08-06T23:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="116958">j.j.nunes</groundspeak:finder>
+                    <groundspeak:text encoded="False">Bom dia,
+
+É um belo local para desfrutar...
+Levei um grupo de amigos que adoraram o conceito de Geocaching.
+
+Fiquem bem
+
+Jorge</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1770832">
+                    <groundspeak:date>2011-11-06T01:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="73033">Team Spicozos</groundspeak:finder>
+                    <groundspeak:text encoded="False">Mirador bonito, também já conhecido.
+Mais uma que com a dica não demorou muito a encontrar.
+TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -1751,9 +1114,6 @@ Enjoy the view and who knows, maybe a snack below a shade ;)
                 <ox:size>1.9</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Miradouro</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
 </gpx>

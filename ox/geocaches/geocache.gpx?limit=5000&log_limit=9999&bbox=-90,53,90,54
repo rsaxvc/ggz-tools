@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>1 geocache.  Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,53,90,54</url>
+    <time>2012-12-19T22:54:17.094Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="54.0" maxlat="90.0" minlon="53.0" minlat="-90.0"/>
+    <wpt lon="53.756783" lat="23.565317">
+        <time>2010-12-10T08:00:00.000Z</time>
+        <name>OX2K7DG</name>
+        <desc>Camel Racing by TheCacheCat, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2K7DG</url>
+        <urlname>Camel Racing</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2420217">
+            <groundspeak:name>Camel Racing</groundspeak:name>
+            <groundspeak:placed_by>TheCacheCat</groundspeak:placed_by>
+            <groundspeak:owner id="164808">TheCacheCat</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br /&gt;
+&lt;br /&gt;
+This is a Water Tight Film Canister and only contains the log. Bring your own pencil.
+
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;Camel Racing *** Camel Racing&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Camel Racing&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+This may be your only opportunity to view a unique sport which is an integral part of the heritage of the UAE.&lt;br /&gt;
+Camel racing takes place during the winter season at special tracks around the country.&lt;br /&gt;
+The atmosphere is electric, especially during public holidays when major races for considerable prize money are held.&lt;br /&gt;
+Admission is totally free.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Please visit all my other caches!!!&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Stealth required!&lt;br /&gt;&lt;/b&gt;
+&lt;p&gt;Happy GeoCaching&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;TheCacheCat  &lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;a href=&quot;http://s07.flagcounter.com/more/ulhU&quot;&gt;&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>You will reach Madinat Zayed city and drive straight until you see the sign of camel race track. ; 
+After reaching the camel race track take right to the first roundabout then take left towards million street sign which 
+will take you to direction Tilal Liwa hotel  --- pls see spoiler pics</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

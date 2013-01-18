@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>7 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,170,90,171</url>
+    <time>2012-12-19T23:04:59.790Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="171.0" maxlat="90.0" minlon="170.0" minlat="-90.0"/>
+    <wpt lon="170.4092167" lat="-45.8149333">
+        <time>2012-09-11T10:55:42.000Z</time>
+        <name>OXZTD39</name>
+        <desc>Mini Mega by Zork V, Traditional Cache(1.9/1.9/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTD39</url>
+        <urlname>Mini Mega</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28463000">
+            <groundspeak:name>Mini Mega</groundspeak:name>
+            <groundspeak:placed_by>Zork V</groundspeak:placed_by>
+            <groundspeak:owner id="54398">Zork V</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">This mini Cache is to the right of the cabins.&lt;br/&gt;&lt;br/&gt;http://www.scoutingotago.org.nz/waiora.html&lt;br/&gt;&lt;br/&gt;It is the sight for an up coming Mega Event.&lt;br/&gt;&lt;br/&gt;35mm film canister.&lt;br/&gt;&lt;br/&gt;Just off the road.  </groundspeak:long_description>
+            <groundspeak:encoded_hints>V in tree</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2118222">
+                    <groundspeak:date>2012-10-21T02:03:24.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="143597">TharonKnoetze</groundspeak:finder>
+                    <groundspeak:text encoded="False">No luck....Logged via OpenCaching Androida app.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="2118221">
+                    <groundspeak:date>2012-10-21T02:02:47.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="143597">TharonKnoetze</groundspeak:finder>
+                    <groundspeak:text encoded="False">No luck....Logged via OpenCaching Androida app.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="2099780">
+                    <groundspeak:date>2012-10-02T11:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="147091">U.N.C.L.E.</groundspeak:finder>
+                    <groundspeak:text encoded="False">Mapping software suggests that this is on land owned by Scouting Otago and I understand that they do not permit people to enter this property without permission. Does that mean that this cache is only available to people attending the Mega event? If so, perhaps the cache page should reflect this fact. Just a thought. </groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.9</ox:difficulty>
+                <ox:size>1.9</ox:size>
+                <ox:terrain>1.9</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>scout den.jpg</ox:name>
+                    <ox:size>5533</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="170.35635" lat="-45.885933">
+        <time>2011-09-14T07:00:00.000Z</time>
+        <name>OX33P9R</name>
+        <desc>Small even better. (Otago) by TharonKnoetze, Unknown Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX33P9R</url>
+        <urlname>Small even better. (Otago)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2881381">
+            <groundspeak:name>Small even better. (Otago)</groundspeak:name>
+            <groundspeak:placed_by>TharonKnoetze</groundspeak:placed_by>
+            <groundspeak:owner id="143597">TharonKnoetze</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">No cache at published co ordinates, if you lucky and want to..... a cuppa will ( or not )be offered!! Have to find OX33P9E to obtain the co ordinates first to locate this cache. If you get a smily on this cache but not on the listed cache with the co ordinates your log will be deleted!!
+
+ &lt;br /&gt;&lt;br /&gt; 
+Thought it was time for a different type and size container. Seen one of them been used??? If you take out something, please replace with something else. Heaps of parking available.
+
+&lt;p&gt;But if muggles close by, please attempt later again!!&lt;br /&gt;&lt;/p&gt;
+
+Can be muddy at times!!! Please NOTE that you must sign the log book for each individual cacher, Finds logged not corresponding with the logbook wil be deleted. Please take some time before leaving to ensure that the cache is re-hidden exactly as you found it.
+&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;HIDDEN: FW33P9R - Final&lt;br /&gt;S  __ ° __ . ___ E ___ ° __ . ___ </groundspeak:long_description>
+            <groundspeak:encoded_hints>See the wood for the trees??
+Camo.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>5.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="170.345883" lat="-45.89195">
+        <time>2011-09-08T07:00:00.000Z</time>
+        <name>OX33P9E</name>
+        <desc>Big is good!! (Otago) by TharonKnoetze, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX33P9E</url>
+        <urlname>Big is good!! (Otago)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2881371">
+            <groundspeak:name>Big is good!! (Otago)</groundspeak:name>
+            <groundspeak:placed_by>TharonKnoetze</groundspeak:placed_by>
+            <groundspeak:owner id="143597">TharonKnoetze</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">A nice quiet spot to take a break and have a cuppa. No one will disturb you here!! Take time to explore. Read the soldiers memorial.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Find this micro to sign the log book. Write down the co ordinates if you want to find the small stash.You will need it to complete OX33P9R. Please replace as found..... and do not make noice that the locals would hear you! Please NOTE that you must sign the log book for each individual cacher, Finds logged not corresponding with the logbook wil be deleted. Please take some time before leaving to ensure that the cache is re-hidden exactly as you found it. </groundspeak:long_description>
+            <groundspeak:encoded_hints>Remember to write down coords for the small stash....</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="170.259667" lat="-45.916083">
+        <time>2012-02-06T08:00:00.000Z</time>
+        <name>OX3C34W</name>
+        <desc>Serenity at Allanton (Otago) by TharonKnoetze, Multi-cache(1.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3C34W</url>
+        <urlname>Serenity at Allanton (Otago)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="3131089">
+            <groundspeak:name>Serenity at Allanton (Otago)</groundspeak:name>
+            <groundspeak:placed_by>TharonKnoetze</groundspeak:placed_by>
+            <groundspeak:owner id="143597">TharonKnoetze</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">A very quick and extremely easy short multi on the way to Dunedin
+International Airport.
+
+&lt;br /&gt;
+&lt;br /&gt;
+
+ &lt;br /&gt;&lt;br /&gt; The Allanton Cemetery was formerly known as Greytown Cemetery, and
+before that, Grey Cemetery. Allanton Cemetery is one of the closest
+cemeteries to Mosgiel and had a large available area and
+improvements had been made to parking and access since East Taieri
+Cemetery closed. &lt;a href=&quot;http://en.wikipedia.org/wiki/Allanton,_New_Zealand.html&quot;&gt;More info
+from Wikipedia about Allanton&lt;/a&gt;. The cache is a small round black
+container.
+&lt;p&gt;BYO Writing Instrument!!&lt;br /&gt;&lt;/p&gt;
+No room for travel bugs/coins, so if you're on your way to the
+airport I recommend also stopping at &lt;a href=&quot;http://www.opencaching.com/en/#!geocache/OX37MA7&quot;&gt;
+The Trackables Inn&lt;/a&gt;.
+&lt;p&gt;William: Died 3/12/18A8&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Robert: Died aged 2B&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Maria: Died 19/C/1888&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Maria: Died aged D0&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Robert: Died 14/E/1889&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Final: S 45°54.ABC E 170°15.BDE&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;HIDDEN: OX3C34W - OX3C34W Final&lt;br /&gt;S  __ ° __ . ___ E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;PK3C34W - GC3C34W Parking&lt;br /&gt;S 45° 54.965 E 170° 15.580&lt;br /&gt;&lt;br /&gt;ST3C34W - OX3C34W Stage 1&lt;br /&gt;S 45° 54.929 E 170° 15.579 </groundspeak:long_description>
+            <groundspeak:encoded_hints>GL.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="170.2036" lat="-45.919183">
+        <time>2011-11-25T08:00:00.000Z</time>
+        <name>OX37MA7</name>
+        <desc>The Trackables Inn..... (Otago) by TharonKnoetze, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX37MA7</url>
+        <urlname>The Trackables Inn..... (Otago)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2998637">
+            <groundspeak:name>The Trackables Inn..... (Otago)</groundspeak:name>
+            <groundspeak:placed_by>TharonKnoetze</groundspeak:placed_by>
+            <groundspeak:owner id="143597">TharonKnoetze</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">A quick stop to drop off or pick up Coins and/or TB's for their travels..... or scan a munzee..
+
+Do not park on the road. Use the parking WP. This cache is outside the boundaries of the airport. Look out for cars when crossing the road.A little ditch to cross... 1LT snaplock.
+
+ &lt;br /&gt;&lt;br /&gt; Dunedin International Airport is an international airport in the Otago region of the South Island of New Zealand, serving Dunedin city and the Otago and Southland regions. Dunedin International Airport is one of two international airports in Otago, the other being Queenstown International Airport. It is located adjacent to the village of Momona on the Taieri Plains approximately 22 kilometres south west of Dunedin CBD. It has a single paved runway rated for aircraft up to the Boeing 767.It has one terminal building with two airbridges and five gates, and also customs facilities and other amenities. The Dunedin City Council and the Crown each own 50 percent of Dunedin International Airport Limited,a publicly unlisted company which operates the utility. Construction of the airport was completed in 1962, and its primary use was to cater for passengers of short haul aircraft. In about 2005, the check-in space was enlarged and a new international arrival area was added. This airport is the third busiest and largest on the South Island of New Zealand, after Queenstown Airport and Christchurch International Airport.
+
+&lt;p&gt;So....travelling somewhere? Feel free to pick up or drop off some trackables on your way past - they like to keep moving from cache to cache!!&lt;br /&gt;&lt;/p&gt;
+Please NOTE that you must sign the log book for each individual cacher, Finds logged not corresponding with the logbook wil be deleted. Please take some time before leaving to ensure that the cache is re-hidden exactly as you found it.
+&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;PK37MA7 - Parking&lt;br /&gt;S 45° 55.166 E 170° 12.232</groundspeak:long_description>
+            <groundspeak:encoded_hints>Back.
+Under.
+Stream side.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2064888">
+                    <groundspeak:date>2012-09-10T12:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="54398">Zork V</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found while finding and capping a Munzee.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>4.1</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="170.094467" lat="-46.02355">
+        <time>2012-05-10T07:00:00.000Z</time>
+        <name>OX3K2E8</name>
+        <desc>Y Hola.. (Otago) by TharonKnoetze, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3K2E8</url>
+        <urlname>Y Hola.. (Otago)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3338956">
+            <groundspeak:name>Y Hola.. (Otago)</groundspeak:name>
+            <groundspeak:placed_by>TharonKnoetze</groundspeak:placed_by>
+            <groundspeak:owner id="143597">TharonKnoetze</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The township of Waihola lies between Dunedin and Milton, New Zealand in Otago, in New Zealand's South Island. It lies close to the southeast shore of the shallow tidal lake which shares its name. The name Waihola is the southern Maori form of the word wai-hora, meaning &quot;spreading waters&quot;.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Lake Waihola was used in the Central Otago goldrush. Ships used to travel up the Taieri River and across to the southern side of the lake where prospectors would traverse the hills and on to Gabriel's Gully. In the early days of settlement a paddle-steamer, the Betsy Douglas, plied the lake's waters from Owhiro, near Henley in the north to Clarendon at the lake's southern end. Lake Waihola is located at the southern end of the lower Taieri Plains and is the largest of a group of historical lakes that were once distributed between Lake Waihola and Mosgiel. Other neighbouring historical lakes include Lake Tatawai, Loch Ascog, Loch Katrine, Lake Potaka and Silverstream Lagoon... Please NOTE that you must sign the log book for each individual cacher, Finds logged not corresponding with the logbook wil be deleted. Please take some time before leaving to ensure that the cache is re-hidden exactly as you found it.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Sit down facing lake.
+Left.
+Under.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2278039">
+                    <groundspeak:date>2012-10-22T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="8334">mtbikeroz</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found with MtnLioness on our tour around Southern NZ and the NZ MEGA event.
+
+Found on our drive down to Invercargill, Thanks.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="170.013717" lat="-46.121467">
+        <time>2012-01-09T08:00:00.000Z</time>
+        <name>OX3AMV1</name>
+        <desc>Powered Flight. (Otago) by TharonKnoetze, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3AMV1</url>
+        <urlname>Powered Flight. (Otago)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3088500">
+            <groundspeak:name>Powered Flight. (Otago)</groundspeak:name>
+            <groundspeak:placed_by>TharonKnoetze</groundspeak:placed_by>
+            <groundspeak:owner id="143597">TharonKnoetze</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br /&gt;
+&lt;br /&gt;
+Time to get back to the basics of Geocaching.... Getting out with a GPS, family / friends and visit historical or interesting places.
+
+Richard Pearse, inventor and possibly the first man to make a powered flight.
+ 
+ &lt;br /&gt;&lt;br /&gt; So... was he the first powered flyer in the world???. Visit the site of his Otago home.Sorry only from a distance!!! Now in private hands. The old house is now been used as a store room.
+In 1911 he moved to Milton ( to this house ) and a very secluded area. No houses overlooked his property and the only reported incidents were that of a local farmer who, upon hearing a strange noise, went to look and saw Pearse testing an unusual machine; he didn't stay around to watch. Three people also claim to have seen his aeroplane hanging over yet another gorse hedge. While living here Pearse built a number of farm implements including a topdresser, a potato planter and a plough. Some were successful, others failed very quickly and were abandoned. As with his previous acreage, Pearse was meant to be farming for a living, however what crops there were his neighbours tended and the 300 sheep he owned all but starved to death through lack of food
+
+Clear 200ml container. BYOP. 
+Watch out for cars.
+ &lt;a href=&quot;http://www.nzterritory.com/famous/pearse.html&quot;&gt;Some info on the gentleman himself&lt;/a&gt;. 
+Please NOTE that you must sign the log book for each individual cacher, Finds logged not corresponding with the logbook wil be deleted. Please take some time before leaving to ensure that the cache is re-hidden exactly as you found it. </groundspeak:long_description>
+            <groundspeak:encoded_hints>Base.
+Right side of sign.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

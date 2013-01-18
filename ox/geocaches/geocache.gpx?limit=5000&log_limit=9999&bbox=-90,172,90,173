@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>17 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,172,90,173</url>
-    <time>2012-01-04T09:33:15.111-06:00</time>
+    <time>2012-12-19T23:05:10.576Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="173.0" maxlat="90.0" minlon="172.0" minlat="-90.0"/>
     <wpt lon="172.8239" lat="-40.8520667">
-        <time>2011-03-05T14:23:23.000-06:00</time>
+        <time>2011-03-05T20:23:23.000Z</time>
         <name>OX22CZ3</name>
         <desc>Labyrinth Rocks (Nelson/Marlborough) by Kiwi_Explorer, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX22CZ3</url>
@@ -24,18 +24,10 @@
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">A 1 litre plastic container hidden amongst natural limestone rock formations near Takaka, Golden Bay.
-
-Welcome to the Labyrinth, a great place to get lost for a while. Park at the co-ordinates given below and enjoy a wander through some interesting natural rock formations. You could probably get to the cache and back inside 10 minutes but allow at least an hour to enjoy a leisurely wander around the park. If you have young children with you there are plenty of things to see along the track to keep them entertained.
-
-The popular Labyrinth Rocks Park created by the late Dave Whittaker was reopened on the 23rd December 2009 as a council reserve. So what was once private land and subject to an entry fee is now completely free for everyone to enjoy.
-
-The cache has been placed with the knowledge of one of the local volunteer caretakers who we met while visiting the rocks. He told us further restoration work was being done so expect the area to improve even more over time. Please keep to the tracks at all times, there is no need to leave them to find the cache.
-
-Note: If you want to learn more about the geology of the area visit the nearby Earth Cache GC22YF4.</groundspeak:long_description>
+            <groundspeak:long_description html="True">A 1 litre plastic container hidden amongst natural limestone rock formations near Takaka, Golden Bay.&lt;br/&gt;&lt;br/&gt;Welcome to the Labyrinth, a great place to get lost for a while. Park at the co-ordinates given below and enjoy a wander through some interesting natural rock formations. You could probably get to the cache and back inside 10 minutes but allow at least an hour to enjoy a leisurely wander around the park. If you have young children with you there are plenty of things to see along the track to keep them entertained.&lt;br/&gt;&lt;br/&gt;The popular Labyrinth Rocks Park created by the late Dave Whittaker was reopened on the 23rd December 2009 as a council reserve. So what was once private land and subject to an entry fee is now completely free for everyone to enjoy.&lt;br/&gt;&lt;br/&gt;The cache has been placed with the knowledge of one of the local volunteer caretakers who we met while visiting the rocks. He told us further restoration work was being done so expect the area to improve even more over time. Please keep to the tracks at all times, there is no need to leave them to find the cache.&lt;br/&gt;&lt;br/&gt;Note: If you want to learn more about the geology of the area visit the nearby Earth Cache GC22YF4.</groundspeak:long_description>
             <groundspeak:logs>
                 <groundspeak:log id="324912">
-                    <groundspeak:date>2010-01-15T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2010-01-15T20:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="3280">beltfamily</groundspeak:finder>
                     <groundspeak:text encoded="False">After usakiwi's phone call earlier in the week URGING me to do this one with the family, I ended up here without them.  Dang.  Don't worry, we'll take them through again once we're back as a team in GB.  Had a bit of trouble locating the cache, even with clue, but I was probably overthinking it a little.  Thanks for the cache.
@@ -52,8 +44,8 @@ Note: If you want to learn more about the geology of the area visit the nearby E
             </ox:ratings>
         </ox:opencaching>
     </wpt>
-    <wpt lon="172.61665" lat="-41.6878833">
-        <time>2011-03-05T14:50:52.000-06:00</time>
+    <wpt lon="172.6168333" lat="-41.6877167">
+        <time>2011-03-05T20:50:52.000Z</time>
         <name>OX2H8WM</name>
         <desc>The Ghost Train Rides Again! (Nelson/Marlborough) by Kiwi_Explorer, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2H8WM</url>
@@ -68,13 +60,16 @@ Note: If you want to learn more about the geology of the area visit the nearby E
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">A small 1 litre cache hidden at an historic railway tunnel.
-
-Take the loop walk or explore the tunnel; both are safe. You can navigate the tunnel without torches if you take it quietly. Bring a torch if you don't like the dark.
-
-This is a popular tourist stopping point so watch for muggles before you leave the track and head up to retrieve the cache. Satellite coverage is patchy here so use the hint if you're not sure where to look. You can see an obvious spot for the cache - yes it's tucked behind that _____.
-
-Thanks to Moneydork for making this spot available for a new cache after his original one near here went missing. GCPG47</groundspeak:long_description>
+            <groundspeak:long_description html="True">A small 1 litre cache hidden at an historic railway tunnel.&lt;br/&gt;&lt;br/&gt;Take the loop walk or explore the tunnel; both are safe. You can navigate the tunnel without torches if you take it quietly. Bring a torch if you don't like the dark.&lt;br/&gt;&lt;br/&gt;This is a popular tourist stopping point so watch for muggles before you leave the track and head up to retrieve the cache. Satellite coverage is patchy here so use the hint if you're not sure where to look. You can see an obvious spot for the cache - yes it's tucked behind that _____.&lt;br/&gt;&lt;br/&gt;Thanks to Moneydork for making this spot available for a new cache after his original one near here went missing. GCPG47</groundspeak:long_description>
+            <groundspeak:encoded_hints>Top beside post.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1734736">
+                    <groundspeak:date>2012-01-21T11:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="86292">DWINTER</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -85,10 +80,84 @@ Thanks to Moneydork for making this spot available for a new cache after his ori
             </ox:ratings>
         </ox:opencaching>
     </wpt>
+    <wpt lon="172.831183" lat="-41.7948">
+        <time>2012-08-16T07:00:00.000Z</time>
+        <name>OX3TTRM</name>
+        <desc>Moraine Pond (Nelson/Marlborough) by 360 Degrees NZ, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3TTRM</url>
+        <urlname>Moraine Pond (Nelson/Marlborough)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3540127">
+            <groundspeak:name>Moraine Pond (Nelson/Marlborough)</groundspeak:name>
+            <groundspeak:placed_by>360 Degrees NZ</groundspeak:placed_by>
+            <groundspeak:owner id="157705">360 Degrees NZ</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Altitude: 640 metres&lt;br /&gt;
+Accuracy: 4 metres&lt;br /&gt;
+Thought there could be tadpoles in this pond during late spring, so we put one out for them.
+
+ &lt;br /&gt;&lt;br /&gt; No bikes allowed on location so walking is the only option.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Base of triple-trunk manuka, under rocks.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="172.833333" lat="-41.8">
+        <time>2012-10-14T07:00:00.000Z</time>
+        <name>OX3YKQE</name>
+        <desc>Bits &amp; Bobs (Nelson/Marlborough) by 360 Degrees NZ, Unknown Cache(4.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3YKQE</url>
+        <urlname>Bits &amp; Bobs (Nelson/Marlborough)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3653488">
+            <groundspeak:name>Bits &amp; Bobs (Nelson/Marlborough)</groundspeak:name>
+            <groundspeak:placed_by>360 Degrees NZ</groundspeak:placed_by>
+            <groundspeak:owner id="157705">360 Degrees NZ</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>4</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;h1&gt;&lt;strong&gt;Bits &amp; Bobs&lt;/strong&gt;&lt;/h1&gt;
+Altitude: 659 metres&lt;br /&gt;
+Accuracy: 3 metres&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+A puzzle cache some of you may find difficult. Good luck.
+
+
+ &lt;br /&gt;&lt;br /&gt; The cache is at:
+&lt;h3&gt;S 41˚ 48.0b4b4b&lt;/h3&gt;
+&lt;h3&gt;E172˚ 50.1b3b4b&lt;/h3&gt;
+(P.S - The numbers in between the B's &lt;u&gt;are not&lt;/u&gt; the actual coordinates.)
+You can check your answers &lt;a href=&quot;http://www.geochecker.com/index.php?code=65ebb4d68c4df21669724b366ddaae9a&amp;amp;action=check&amp;amp;wp=474333594b5145&amp;amp;name=42697473202620426f6273&quot;&gt;here&lt;/a&gt;.
+
+&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;HIDDEN: FN3YKQE - Final Location&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___</groundspeak:long_description>
+            <groundspeak:encoded_hints>At the base of twin-trunked manuka covered by moss, near a large rock.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>4.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
     <wpt lon="172.3252333" lat="-41.8015">
-        <time>2011-03-05T14:30:15.000-06:00</time>
+        <time>2011-03-05T20:30:15.000Z</time>
         <name>OX1KG8C</name>
-        <desc>Murchison Earthquake Memorial (Nelson/Marlborough) by Kiwi_Explorer, Traditional Cache(1.0/1.5/3.0)</desc>
+        <desc>Murchison Earthquake Memorial (Nelson/Marlborough) by Kiwi_Explorer, Traditional Cache(1.0/1.5/2.8)</desc>
         <url>http://www.opencaching.com/#geocache/OX1KG8C</url>
         <urlname>Murchison Earthquake Memorial (Nelson/Marlborough)</urlname>
         <sym>Geocache</sym>
@@ -101,20 +170,16 @@ Thanks to Moneydork for making this spot available for a new cache after his ori
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cache Location
-
-A berocca tube cache container hidden beside the Murchison Earthquake Memorial and museum.
-
-History of the Site
-
-Seventeen people died in the Murchison earthquake which occurred on the 17th June 1929. It caused many spectacular slips, cut roads and dammed rivers. The quake, of magnitude 7.8, was centred under the White Creek Fault.
-
-Please respect the site, there is no need to step onto the garden to retrieve the cache.
-
-This is a very historical street with some great “Olde World” buildings that are worth having a wander past or a look inside if they are open. Our favourite is Hodgson’s Store, which was severely damaged in the quake as you can see below but is still standing today.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Cache Location&lt;br/&gt;&lt;br/&gt;A berocca tube cache container hidden beside the Murchison Earthquake Memorial and museum.&lt;br/&gt;&lt;br/&gt;History of the Site&lt;br/&gt;&lt;br/&gt;Seventeen people died in the Murchison earthquake which occurred on the 17th June 1929. It caused many spectacular slips, cut roads and dammed rivers. The quake, of magnitude 7.8, was centred under the White Creek Fault.&lt;br/&gt;&lt;br/&gt;Please respect the site, there is no need to step onto the garden to retrieve the cache.&lt;br/&gt;&lt;br/&gt;This is a very historical street with some great “Olde World” buildings that are worth having a wander past or a look inside if they are open. Our favourite is Hodgson’s Store, which was severely damaged in the quake as you can see below but is still standing today.</groundspeak:long_description>
             <groundspeak:logs>
+                <groundspeak:log id="1773230">
+                    <groundspeak:date>2012-03-14T00:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="16610">FLETCHER5050</groundspeak:finder>
+                    <groundspeak:text encoded="False">Nice easy find in a lovely town worth a visit to the museum.</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="232993">
-                    <groundspeak:date>2009-04-10T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2009-04-10T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="2620">Bitsprayer</groundspeak:finder>
                     <groundspeak:text encoded="False">Nice wee spot, stilla few people about town.
@@ -122,7 +187,7 @@ This is a very historical street with some great “Olde World” buildings that
 Thanks Bitsprayer</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="324015">
-                    <groundspeak:date>2009-04-09T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2009-04-09T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="3280">beltfamily</groundspeak:finder>
                     <groundspeak:text encoded="False">Decided to get a head start on the travel required to attend the annual Easter event at Springs Junction by staying around Murch, so this one ended up being a night cache.  Decided to do it without a clue but after 10 minutes I had to give up on that plan.  Who would have guessed it was there?  Didn't think it would safely hide a cache, but whaddayaknow?  Drove to Six Mile to start the day with Now that's Weird and move on to Maruia Saddler.  Those two would be top caches.  If you are looking at this cache, consider the trip through a path less travelled - it's worth it.  Thanks for the cache Aaron.</groundspeak:text>
@@ -131,15 +196,382 @@ Thanks Bitsprayer</groundspeak:text>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
+                <ox:awesomeness>2.8</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>1.9</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="172.838433" lat="-41.802467">
+        <time>2012-08-31T07:00:00.000Z</time>
+        <name>OX3VVPQ</name>
+        <desc>St Arnaud Snowbreak (Nelson/Marlborough) by 360 Degrees NZ, Traditional Cache(2.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3VVPQ</url>
+        <urlname>St Arnaud Snowbreak (Nelson/Marlborough)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3570820">
+            <groundspeak:name>St Arnaud Snowbreak (Nelson/Marlborough)</groundspeak:name>
+            <groundspeak:placed_by>360 Degrees NZ</groundspeak:placed_by>
+            <groundspeak:owner id="157705">360 Degrees NZ</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The name says it all. Some years ago (about 4, actually) there was a large fall of snow on the St Arnaud village. When it fell on these manuka/kanuka trees, they could not stand the pressure of the snow above, and collapsed. 4 years later, a geocache is placed so people can come and see that what we play in during winter is also a tree killer.
+
+ &lt;br /&gt;&lt;br /&gt; The cache is a peanut-butter container with all the usual stuff.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Under two rocks at base of manuka</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="172.84035" lat="-41.802967">
+        <time>2011-07-24T07:00:00.000Z</time>
+        <name>OX30TNY</name>
+        <desc>Helicopter-Pad Havoc (Nelson / Marlborough) by 360 Degrees NZ, Traditional Cache(1.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX30TNY</url>
+        <urlname>Helicopter-Pad Havoc (Nelson / Marlborough)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2795268">
+            <groundspeak:name>Helicopter-Pad Havoc (Nelson / Marlborough)</groundspeak:name>
+            <groundspeak:placed_by>360 Degrees NZ</groundspeak:placed_by>
+            <groundspeak:owner id="157705">360 Degrees NZ</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Helicopter-Pad Havoc&lt;br /&gt;
+Often wondered why some-one didn't place a cache here, even if the helicopter-pad is not a very noticed feature of the area.&lt;br /&gt;
+Altitude: 655 metres&lt;br /&gt;
+Accuracy: 2 metres
+
+ &lt;br /&gt;&lt;br /&gt; 
+1L screw-on peanut butter jar. There are some green containers sunk into the ground nearby used by DOC for skink trapping. The cache is NOT in one.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Under rock, inside bush</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
                 <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="172.842217" lat="-41.803367">
+        <time>2012-08-29T07:00:00.000Z</time>
+        <name>OX3VN8X</name>
+        <desc>Ward Street (Nelson/Marlborough) by 360 Degrees NZ, Traditional Cache(2.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3VN8X</url>
+        <urlname>Ward Street (Nelson/Marlborough)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3565586">
+            <groundspeak:name>Ward Street (Nelson/Marlborough)</groundspeak:name>
+            <groundspeak:placed_by>360 Degrees NZ</groundspeak:placed_by>
+            <groundspeak:owner id="157705">360 Degrees NZ</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;h1&gt;Ward Street&lt;/h1&gt;
+Another of my caches on an isolated street in St Arnaud.&lt;br /&gt;
+It is possible you might need an excraction tool for the logbook and a pen/cil.
+
+
+ &lt;br /&gt;&lt;br /&gt; The cache itself is a nanocache...&lt;br /&gt;
+Good luck!</groundspeak:long_description>
+            <groundspeak:encoded_hints>Look on the left side of the road (when approaching from the south).
+The cache should be under a rock at the base of a rock next to the stream...
+Good luck!</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
         </ox:opencaching>
     </wpt>
+    <wpt lon="172.847467" lat="-41.803483">
+        <time>2012-02-22T08:00:00.000Z</time>
+        <name>OX3D40X</name>
+        <desc>Black Valley Stream by 360 Degrees NZ, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3D40X</url>
+        <urlname>Black Valley Stream</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3161718">
+            <groundspeak:name>Black Valley Stream</groundspeak:name>
+            <groundspeak:placed_by>360 Degrees NZ</groundspeak:placed_by>
+            <groundspeak:owner id="157705">360 Degrees NZ</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Black Valley Stream&lt;br /&gt;
+Altitude: 641 metres&lt;br /&gt;
+Accuracy: 3 metres
+
+ &lt;br /&gt;&lt;br /&gt; One to keep the walk plentiful. 200 ml&lt;br /&gt;
+PLEASE read hint. Reception may not be that good.&lt;br /&gt;
+Oh, and if the river is up after rain, bring gumboots.</groundspeak:long_description>
+            <groundspeak:encoded_hints>At base of rusty gate</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="172.840583" lat="-41.80465">
+        <time>2012-08-19T07:00:00.000Z</time>
+        <name>OX3V1XM</name>
+        <desc>Massey Street (Nelson/Marlborough) by 360 Degrees NZ, Traditional Cache(2.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3V1XM</url>
+        <urlname>Massey Street (Nelson/Marlborough)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3546978">
+            <groundspeak:name>Massey Street (Nelson/Marlborough)</groundspeak:name>
+            <groundspeak:placed_by>360 Degrees NZ</groundspeak:placed_by>
+            <groundspeak:owner id="157705">360 Degrees NZ</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;h2&gt;&lt;strong&gt;Massey Street&lt;/strong&gt;&lt;/h2&gt;
+Altitude: 655 metres&lt;br /&gt;
+Accuracy: 3 metres
+
+&lt;p&gt;At the end of an isolated street in St Arnaud a geocache hides, waiting for geocachers to find it.&lt;br /&gt;
+Finding it is an easy process, so the hint should only be needed in desperate situations.&lt;/p&gt;
+
+
+ &lt;br /&gt;&lt;br /&gt; Look out for the residence across the road. It is not known whether it is permanent or temporary.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Base of beech tree, under rock</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="172.843333" lat="-41.808333">
+        <time>2011-10-02T07:00:00.000Z</time>
+        <name>OX358Z0</name>
+        <desc>An extra for St Arnaud (Nelson / Marlborough) by 360 Degrees NZ, Unknown Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX358Z0</url>
+        <urlname>An extra for St Arnaud (Nelson / Marlborough)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2928136">
+            <groundspeak:name>An extra for St Arnaud (Nelson / Marlborough)</groundspeak:name>
+            <groundspeak:placed_by>360 Degrees NZ</groundspeak:placed_by>
+            <groundspeak:owner id="157705">360 Degrees NZ</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">To convert, please use Related Web Page.&lt;br /&gt;
+Altitude: 631 metres&lt;br /&gt;
+Accuracy: 3 metres
+
+ &lt;br /&gt;&lt;br /&gt; 01000011 01100001 01100011 01101000 01100101 00100000 01101001 01110011 00100000 01100001 01110100 00111010 00100000 01010011 00100000 00110100 00110001 00100000 00110100 00111000 00101110 00110001 00110000 00110100 00100000 01000101 00100000 00110001 00110111 00110010 00100000 00110101 00110000 00101110 00111000 00110111 00110111&lt;br /&gt;
+&lt;p&gt;You can check your answers for this puzzle &lt;a href=&quot;http://www.geochecker.com/index.php?code=80ab5da650fce491d1a8e66f3bd06911&amp;amp;action=check&amp;amp;wp=47433335385a30&amp;amp;name=416e20657874726120666f722053742041726e617564&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;HIDDEN: FN358Z0 - GC358Z0 Final&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___</groundspeak:long_description>
+            <groundspeak:encoded_hints>[Hint]:Big stump
+[Dead giveaway]: One metre east of big stump</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="172.83435" lat="-41.811833">
+        <time>2012-09-07T07:00:00.000Z</time>
+        <name>OX3W9WF</name>
+        <desc>Cache Tectonics (Nelson/Marlborough) by 360 Degrees NZ, Multi-cache(2.0/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3W9WF</url>
+        <urlname>Cache Tectonics (Nelson/Marlborough)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="3584421">
+            <groundspeak:name>Cache Tectonics (Nelson/Marlborough)</groundspeak:name>
+            <groundspeak:placed_by>360 Degrees NZ</groundspeak:placed_by>
+            <groundspeak:owner id="157705">360 Degrees NZ</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;h1&gt;Cache Tectonics&lt;/h1&gt;
+Altitude: 634 metres&lt;br /&gt;
+Accuracy: 2 metres&lt;br /&gt;
+&lt;br /&gt;
+A great cache to see how plate tectonics works.&lt;br /&gt;
+The start coordinates are for the first stage, which has the coordinates for the second stage.
+
+
+ &lt;br /&gt;&lt;br /&gt; The first stage is on the Indo-Australian Plate, and the second is on the Pacific Plate. The rise in between is caused by the Pacific Plate buckling against the Indo-Australian Plate.&lt;br /&gt;
+Both stages are film canisters.
+&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;HIDDEN: FN3W9WF - Final Location&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___</groundspeak:long_description>
+            <groundspeak:encoded_hints>[First stage] Under bark at the base of 4 beech trees
+[Second stage] In hole at the side of the track, hidden by rock</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="172.833333" lat="-41.815">
+        <time>2012-02-02T08:00:00.000Z</time>
+        <name>OX3BZD2</name>
+        <desc>Adventure in Google Maps (Nelson/Marlborough) by 360 Degrees NZ, Unknown Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3BZD2</url>
+        <urlname>Adventure in Google Maps (Nelson/Marlborough)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3127499">
+            <groundspeak:name>Adventure in Google Maps (Nelson/Marlborough)</groundspeak:name>
+            <groundspeak:placed_by>360 Degrees NZ</groundspeak:placed_by>
+            <groundspeak:owner id="157705">360 Degrees NZ</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">This will require Google Maps Street View.&lt;br /&gt;
+Altitude: 644m&lt;br /&gt;
+Accuracy: 3m&lt;br /&gt;
+&lt;br /&gt;
+It would be a good idea to bring your bike.
+
+ &lt;br /&gt;&lt;br /&gt; &lt;strong&gt;A | -42.878986 147.334686 | North orientation Left&lt;/strong&gt;&lt;br /&gt;
+Directly in front of you is a green sign. In brackets are the words ‘Sandy Bay B6?’ (-5)&lt;br /&gt;
+&lt;strong&gt;B | -36.857908 174.760405 | North orientation Up&lt;/strong&gt;&lt;br /&gt;
+Amount of letters in the name of the black restraunt (-1)&lt;br /&gt;
+&lt;strong&gt;C | -12.458595 130.835128 | North orientation Left&lt;/strong&gt;&lt;br /&gt;
+In the bottom centre of your view there is a white sign with the words ‘KEEP ___'(-1)&lt;br /&gt;
+&lt;strong&gt;D | -41.274704 173.275343 | North orientation Right&lt;/strong&gt;&lt;br /&gt;
+Amount of letters in the black coloured store’s name (-8)&lt;br /&gt;
+&lt;strong&gt;S 41° 48.DB0 E172° 50.C6A&lt;/strong&gt;&lt;br /&gt;
+&lt;p&gt;You can check your answers for this puzzle at the &lt;a href=&quot;http://www.geochecker.com/index.php?code=6703bbb4e3faac0740e11f3db3fb7d24&amp;amp;action=check&amp;amp;wp=474333425a4432&amp;amp;name=416476656e7475726520696e20476f6f676c65204d617073&quot;&gt;Geochecker site&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;HIDDEN: FN3BZD2 - GC3BZD2 Final&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___</groundspeak:long_description>
+            <groundspeak:encoded_hints>Puzzle: Use the orange man to get to Street View.
+Cache: Under rock behind big rock</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="172.930717" lat="-41.834867">
+        <time>2012-08-22T07:00:00.000Z</time>
+        <name>OX3V7XZ</name>
+        <desc>Can't see any Chinamen... (Nelson/Marlborough) by 360 Degrees NZ, Traditional Cache(1.5/1.5/3.1)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3V7XZ</url>
+        <urlname>Can't see any Chinamen... (Nelson/Marlborough)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3552754">
+            <groundspeak:name>Can't see any Chinamen... (Nelson/Marlborough)</groundspeak:name>
+            <groundspeak:placed_by>360 Degrees NZ</groundspeak:placed_by>
+            <groundspeak:owner id="157705">360 Degrees NZ</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;h1&gt;Can't see any Chinamen...&lt;/h1&gt;
+
+&lt;p&gt;Altitude: 619 metres&lt;br /&gt;
+Accuracy: 3 metres&lt;br /&gt;
+ &lt;/p&gt;
+
+&lt;p&gt;You may not see any Chinamen but you hopefully will see the cache.&lt;br /&gt;
+Cache is a black film canister with the usual interior.&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Under rock, base of eastern post of sign</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2318098">
+                    <groundspeak:date>2012-10-01T11:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="156843">kcatcher</groundspeak:finder>
+                    <groundspeak:text encoded="False">great cache thanks</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.1</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="172.916017" lat="-41.909767">
+        <time>2012-01-01T08:00:00.000Z</time>
+        <name>OX3A21E</name>
+        <desc>None Shall Pass! (Nelson/Marlborough) by 360 Degrees NZ, Traditional Cache(1.5/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3A21E</url>
+        <urlname>None Shall Pass! (Nelson/Marlborough)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3070440">
+            <groundspeak:name>None Shall Pass! (Nelson/Marlborough)</groundspeak:name>
+            <groundspeak:placed_by>360 Degrees NZ</groundspeak:placed_by>
+            <groundspeak:owner id="157705">360 Degrees NZ</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">None Shall Pass!&lt;br /&gt;
+You might have to get a key from DOC when it's locked. Recommended if you have a 4WD, there is a large ford just before you get to the main feature.
+
+ &lt;br /&gt;&lt;br /&gt; Altitude: 699 m Accuracy: 6.3 m&lt;br /&gt;
+Notice aroma from the cache. Keeps away sandflies.&lt;br /&gt;
+Highly recommended you take the hint, as GPS reception can be  at times.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Biggest tree at eastern end of gate, under bark</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
     <wpt lon="172.4917833" lat="-43.4537333">
-        <time>2010-11-14T02:00:00.000-06:00</time>
+        <time>2010-11-14T08:00:00.000Z</time>
         <name>OX2J7CX</name>
         <desc>Scouting out a Bonus (Canterbury) by rediguana, Traditional Cache(2.0/4.8/2.9)</desc>
         <url>http://www.opencaching.com/#geocache/OX2J7CX</url>
@@ -160,7 +592,7 @@ Thanks Bitsprayer</groundspeak:text>
             <groundspeak:encoded_hints>bark base of stump</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="821670">
-                    <groundspeak:date>2010-11-14T05:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2010-11-14T11:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="7402">haldane</groundspeak:finder>
                     <groundspeak:text encoded="False"/>
@@ -174,9 +606,34 @@ Thanks Bitsprayer</groundspeak:text>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>4.8</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Mountain Biking</ox:tag>
-            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="172.7278" lat="-43.6009">
+        <time>2012-08-21T05:52:21.000Z</time>
+        <name>OXZTDHR</name>
+        <desc>Short Search  by AntonS, Traditional Cache(1.8/1.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTDHR</url>
+        <urlname>Short Search </urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28463449">
+            <groundspeak:name>Short Search </groundspeak:name>
+            <groundspeak:placed_by>AntonS</groundspeak:placed_by>
+            <groundspeak:owner id="143026">AntonS</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Best to start of at the London Street area of Lyttelton. From here different routes can be followed but the easiest route is to find your way to the end of Gilmour Tce. It is only a 25min walk to the cache area. Best not to do this search after heavy- or prolonged rain. I think my Coords are approx 8m to the south of the cache. Good Luck!</groundspeak:long_description>
+            <groundspeak:encoded_hints>Approx inline with the middle of Cabbage trees</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.8</ox:difficulty>
+                <ox:size>3.6</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
         </ox:opencaching>
     </wpt>
 </gpx>

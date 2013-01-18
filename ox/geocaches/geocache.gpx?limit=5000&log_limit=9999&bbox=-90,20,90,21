@@ -1,15 +1,102 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>28 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,20,90,21</url>
-    <time>2012-01-04T09:31:57.792-06:00</time>
+    <time>2012-12-19T22:51:14.296Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="21.0" maxlat="90.0" minlon="20.0" minlat="-90.0"/>
+    <wpt lon="20.54005" lat="38.3802333">
+        <time>2012-11-29T16:46:57.000Z</time>
+        <name>OXZTBFW</name>
+        <desc>Assos Bay by ODOS, Traditional Cache(2.0/1.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTBFW</url>
+        <urlname>Assos Bay</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28461468">
+            <groundspeak:name>Assos Bay</groundspeak:name>
+            <groundspeak:placed_by>ODOS</groundspeak:placed_by>
+            <groundspeak:owner id="164856">ODOS</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The cache is hidden just outside the beautiful Assos village, five minutes on foot from the pier.&lt;br/&gt;&lt;br/&gt;Assos is a small charming village,dominated by the ruins of a 16th-century Venetian castle.&lt;br/&gt; It is definetely a place to stay for a few days.&lt;br/&gt;&lt;br/&gt; At the pier just take the steps  to Fanari and walk along the path.&lt;br/&gt; You will notice the ruins of  houses destroyed by the 1953 earthquake.&lt;br/&gt; Walk on till the path starts to go down towards the sea (just 5 minutes).&lt;br/&gt; Walk down just a few meters, there's a small even area on the right. Look for the stone covering the cache!</groundspeak:long_description>
+            <groundspeak:encoded_hints>The secret stone is a slightly different color than the others.  About 1.5 meters from the ground.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.6</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>stair.jpg</ox:name>
+                    <ox:size>64824</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>rocks.jpg</ox:name>
+                    <ox:size>117966</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>path1.jpg</ox:name>
+                    <ox:size>172460</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Assos.jpg</ox:name>
+                    <ox:size>145907</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="20.1449" lat="46.2486">
+        <time>2002-01-21T00:00:00.000Z</time>
+        <name>OXZTBEQ</name>
+        <desc>Szegedi Református Templom by DOMIKA82, Virtual Cache(1.0/1.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTBEQ</url>
+        <urlname>Szegedi Református Templom</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Virtual Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28461433">
+            <groundspeak:name>Szegedi Református Templom</groundspeak:name>
+            <groundspeak:placed_by>DOMIKA82</groundspeak:placed_by>
+            <groundspeak:owner id="165138">DOMIKA82</groundspeak:owner>
+            <groundspeak:type>Virtual Cache</groundspeak:type>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">WAP a jelszó a templom bejárata fölötti feliraton balról az ötödik szó.&lt;br/&gt;&lt;br/&gt;A ládát 2009. május 7-én hirtelen felindulásból adoptáltam.&lt;br/&gt;Megvizsgáltam a templom környékét, hátha lehetne próbálkozni legalább egy mikroládával, de végül is elvetettem a dolgot. A környék nagyon forgalmas. A .com-on is szerepel a láda virtuálisként, ha megváltoztatom rendes ládára, később nem tudom visszaváltoztatni virtuálissá ha mégsem működne, mert ott már virtuálist nem lehet rejteni, söt adoptálni sem.&lt;br/&gt;&lt;br/&gt;Az eredeti leírást meghagytam, mert nagyon informatív, ennél jobbat én sem tudnék, csak a végén kiegészítetettem az újabb szobrokról egy kis leírással, és tettem föl több képet.&lt;br/&gt;bolyak&lt;br/&gt;&lt;br/&gt;Ez egy városi láda, Szeged forgalmas belvárosában. Mivel az eredeti ládát elvitték, virtuális láda lett belőle mostmár végleg. A jelszót a templom bejáratat fölötti feliraton láthatod. Balról az ötödik szó.&lt;br/&gt;&lt;br/&gt;Múltunk és templomunk&lt;br/&gt;&lt;br/&gt;Egyházközségünk története rövid. Gyülekezetünk és templomunk mindössze félévszázados múltra tekinthet vissza.&lt;br/&gt;Századunk első felében a szegedi reformátusoknak csupán az 1884-ben fölépített Kálvin téri templom nyújtott lelki otthont. A trianoni határmódosítás után azonban jócskán megnövekedett a hívők száma a Kolozsvárról áttelepített egyetem személyzete, az Erdélyből és Bánátból elűzöttek, valamint az itt tanuló dákok révén. Ezért határozta el a presbitérium egy új református templom építését 1928-ban.&lt;br/&gt;A súlyos gazdasági helyzet miatt csak 1940-ben éledt újjá az építési kezdeményezés Horthy Miklós kormányzó, mint fővédnök, 1000 pengős adományával. A kiskörút saroktelkét a Város adományozta templomépítés céljára. A tíz református tervező (köztük a sztánai Kós Károly) számára kiírt tervpályázatot Borsos József debreceni építész nyerte. A statikai számításokat Gábory Pál végezte.&lt;br/&gt;A szükséges pénz összegyüjtésére számos akciót szerveztek. 1941. szeptember 8-án kezdték meg a templom építését.Október 26-án ünnepélyes keretek között megtörtént az alapkőletétel, melyet a tornyon átvezető főbejárat előlépcsője alá helyeztek. A nehéz háborús évek ellenére 1944 nyarára befejeződött az építkezés. Fölszentelésére csak 1949. december 26-án került sor.&lt;br/&gt;Az új református templom - a külső és belső kiképzésében a református hagyományoknak megfelelő, méltóságteljes és mégis egyszerű alkotás - Szeged egyik legszebb temploma lett.&lt;br/&gt;A templom külső képének meghatározó jegye nyerstégla homlokzata. A kényszerű takarékosság miatt klinker tégla helyett égetett, közönséges falazó téglából, ún. vasas téglából valósították meg külső kiképzését. A templom indító és fő motivuma a torony - a kőlépcsők fölötti bélletes bejárattal, és háromszög mezőben, a református egyház jelvénye, a zászlós bárány, színes mozaikból. A toronyóra számlapját fehér, kivilágítható négyzetek alkotják. Fölül nyílásokkal áttört harangház, körülötte sétálóval; a tornyot kis toronysapka koronázza bronz buzogánycsillaggal. A torony magassága 41 m. A harangokat Takó András és családja, valamint Gál Géza Jenő és családja adományozta. Készítette Szlezák Ráfael 1948-ban Rákospalotán.&lt;br/&gt;A szabályos ötszög alakú, ötszáz férőhelyes templomtér szerkezeti bravúrja a csúcsíves templomokat idéző vasbeton kupola.A tartók 12 m magasságban koszorúba futnak össze. A templomtérből a lelkészszoba és az egyházfi lakása nyílik.E traktushoz, az ötszög két oldalán, két lépcsőlejárattal a mélyföldszinten kialakított háromszáz ülőhelyes gyülekezeti terem csatlakozik. Ez összejövetelek, szeretetvendégségek, előadások tartására szolgál; 30 nm-es színpad, vetítőkamra, teakonyha, ruhatár segítik használatát.&lt;br/&gt;A templomtér belső berendezésének fő eleme a trapéz alakú, tölgyfa szószék, palánkszerűen egymás mellé rakott deszkából, szolid faragással díszítve. A háromrészes úrasztala is tölgyfából készült székely faragással. Fölírata: &quot;Az Úr közel. (Fil. 4:5)&quot; Művészi értékű a 21 darab színes üvegablak, melyek közül tíz bibliai jeleneteket ábrázol. Tervezője Gáborjáni Szabó Kálmán.&lt;br/&gt;A bejárat egyik oldalán a híres szegedi református teológus,&lt;br/&gt;Szegedi Kis István (1505-1572)szobra látható, a másik oldalon Abádi Benedek (16. sz.) könyvnyomtató és protestáns prédikátoré, aki 1541-ben kiadta a Magyarországon nyomtatott első magyar nyelvű könyvet, Sylvester Új Testamentum-fordítását.&lt;br/&gt;Mindkét szobor Lapis András szobrászművész alkotása.&lt;br/&gt;&lt;br/&gt;/Forrás: Csongrád megye építészeti emlékei, O. Csegezi Mónika; Seres Zoltán és Papp László feljegyzései, Wikipédia/&lt;br/&gt;&lt;br/&gt;Egyházközségünk lelkészei:&lt;br/&gt;&lt;br/&gt;- Seres Zoltán: 1950. február 26. - 1982. március 31.&lt;br/&gt;- Papp László: 1982. április 1. - 2001. február 15.&lt;br/&gt;- Dr. Kereskényi Sándor: 2001. február 16. -&lt;br/&gt;&lt;br/&gt;Egyházközségünk hivatalosan bejegyzett tagjainak száma: 298.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:verification/>
+        </ox:opencaching>
+    </wpt>
     <wpt lon="20.61935" lat="48.4820667">
-        <time>2011-05-28T08:39:30.000-05:00</time>
+        <time>2011-05-28T13:39:30.000Z</time>
         <name>OX2M2K7</name>
         <desc>World's Largest Book by V_Gabor, Traditional Cache(1.7/1.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2M2K7</url>
@@ -24,76 +111,29 @@
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">ENGLISH:
-
-On 21 March 2010 Guinness World Records officially recognized as the 'Largest Book'. The book is on display in Szinpetri, Hungary in a watermill at the Aggtelek National Park.
-
-You don't need to go in the museum or climb to get the cache. Hidden in 1.5 meters above the ground.
-
-Information about the book:
-- Page size: width 360 cm (141.7 inch), height 400 cm (157.5 inch)
-- Weight: 1420 kg (3,130 lb 9 oz)
-- Size of the book: 4.18 x 3.77 m (13.71 x 12.36 ft)
-- Number of pages: 346
-
-It took several years for the creators to make this book. Printing was done on a 5 meter wide large format printing machine. The paper roll originally was 1000 kg (~2200 lbs) and 3.8 meters (12.5 ft) in width.
-
-The sewing of the book took about 5 months to finish. The book hard cover is made of wood and covered by real leather. Decorated with the national park's famous amphibian: the fire salamander.
-
-It takes 4-5 people to turn one page, but please do not touch the pages! Thank you!
-
-Address: 100 Dózsa György street, Szinpetri, Hungary
-
-Opening Hours
-- Monday: closed
-- Tuesday to Sunday: 10AM to 5PM
-
-For more info, visit: http://largestbook.org
-
-
-HUNGARIAN / MAGYARUL:
-Ismerteto
-A világ legnagyobb könyve Magyarországon, pontosabban Szinpetriben, egy vízimalom épületében található. A Guinness World Records által jegyzett 4,18 x 3,77 méteres, 1420 kg-ot nyomó 346 oldalas könyv több éves munka után 2010. március 21-én készült el, s a Gömör-Tornai karsztvidéket mutatja be.
-
-Varga Béla, a könyv megálmodója és megalkotója szívesen mesél minden kíváncsi látogatónak a hosszú és sokszor igen fárasztó, kihívásokkal teli munkáról. Kérdezzetek nyugodtan!
-
-A könyv címe: Örökségünk - a Gömör-Tornai-Karszt természeti és kultúrtörténeti értékei; megtalálhatóak benne az aggteleki cseppkobarlang fotói, a környezo állat- és növényvilág, valamint a környezot települések épített értékei.
-
-A könyv elkészítése sok ember több éves kitartó és áldozatos munkájának az eredménye.
-Egy ausztriai papírgyár adományozta az 1 tonnás, 3,8 méter széles papírtekercset, melyet kisebb - kb. 100 méter hosszú - tekercsekre kellett vágni. Ezeket egy budapesti nyomda 5 méter széles nyomtatóján kétoldalas befuzéssel közel 1 mm-es oldalpontossággal ki kellett nyomtatni. A kész íveket egyenként kellett felvágni, a gerincüknél meghajtani, majd 6 ívenként összevarrni oket két nagy asztal segítségével. Maga a könyv kötészeti munkája és a fatáblás borítás összeállítása 5 hónapig tartott. A borító valódi marhaborrel van bevonva és 5 zsanér segítségével nyitható ki.
-
-Lapozni a közel 15 négyzetméteres oldalakat csak 4-5 ember segítségével lehet, de kérem, hogy a könyv lapjait ne érintsétek meg. Köszönöm!
-
-A kiállított könyv elokészítésérol, kiállítási helyére szállításáról és még sok-sok érdekességrol szívesen mesélnek a készítok. Nyugodtan kérdeztek, fotózzatok.
-
-További látnivalók
-Megtekinthetitek a Jósva patak által hajtott 6 méter átméroju vízikereket is, valamint a közeli domboldalon azt a kb. 1000 négyzetméteres szalamandrát, mely az Aggteleki Nemzeti Park címerállata is egyben. Az egyik feltöltött fotón a vízimalommal együtt látható.
-
-A közelben lovakat és szürke marha csordát is fotózhattok.
-
-Érdemes a malomtól induló úton a 4 km-re fekvo kis zsákközséget is felkeresni. Tornakápolna jó levegojével, csendes kis község. Sok szép túrára indulhattok innen. A Pitics-hegy sincs innen túl messze.
-
-A láda
-A ládát a nagy könyv parkolójából pár lépéssel megtalálhatod. Nem kell bemenni, nem kell kerítést mászni!
-A láda kb. 1,5 méter magasságban van elhelyezve. Megszerzéséhez nem szükséges semmilyen segédeszköz. ;)
-
-A tulajdonosok beleegyezésével lett elhelyezve a geoláda.
-
-Nyitva tartás
-Kedd-vasárnap 10-17 óra között. Elozetes bejelentkezés lehetséges: kérem, hívjátok Varga Bélánét a +36 30 291 22 19-es számon 8-18 óra között!
-
-Megközelítés
-Miskolctól 60 km-re északra található Szinpetri község. Ha Aggteleken jársz, akkor Jósvafon keresztül közvetlenül ide vezet az út. Tömegközlekedéssel is megközelítheted: a miskolci Búza térrol induló helyközi autóbuszjárattal. Vonattal kicsit körülményes, mivel át kell szállni autóbuszra a Tornanádaskára tartó szerelvényrol.
-
-További info: http://legnagyobbkonyv.hu
-
---------
-- This is the third opencaching cache hidden in Hungary.
-- Please note, the cache was hidden and searchable since 2nd January 2011 (GCBOOK on geocaching.hu; GC2M2K7 on geocaching.com) </groundspeak:long_description>
+            <groundspeak:long_description html="True">ENGLISH:&lt;br/&gt;&lt;br/&gt;On 21 March 2010 Guinness World Records officially recognized as the 'Largest Book'. The book is on display in Szinpetri, Hungary in a watermill at the Aggtelek National Park.&lt;br/&gt;&lt;br/&gt;You don't need to go in the museum or climb to get the cache. Hidden in 1.5 meters above the ground.&lt;br/&gt;&lt;br/&gt;Information about the book:&lt;br/&gt;- Page size: width 360 cm (141.7 inch), height 400 cm (157.5 inch)&lt;br/&gt;- Weight: 1420 kg (3,130 lb 9 oz)&lt;br/&gt;- Size of the book: 4.18 x 3.77 m (13.71 x 12.36 ft)&lt;br/&gt;- Number of pages: 346&lt;br/&gt;&lt;br/&gt;It took several years for the creators to make this book. Printing was done on a 5 meter wide large format printing machine. The paper roll originally was 1000 kg (~2200 lbs) and 3.8 meters (12.5 ft) in width.&lt;br/&gt;&lt;br/&gt;The sewing of the book took about 5 months to finish. The book hard cover is made of wood and covered by real leather. Decorated with the national park's famous amphibian: the fire salamander.&lt;br/&gt;&lt;br/&gt;It takes 4-5 people to turn one page, but please do not touch the pages! Thank you!&lt;br/&gt;&lt;br/&gt;Address: 100 Dózsa György street, Szinpetri, Hungary&lt;br/&gt;&lt;br/&gt;Opening Hours&lt;br/&gt;- Monday: closed&lt;br/&gt;- Tuesday to Sunday: 10AM to 5PM&lt;br/&gt;&lt;br/&gt;For more info, visit: http://largestbook.org&lt;br/&gt;&lt;br/&gt;Cache placed by permission and help of the owner.&lt;br/&gt;&lt;br/&gt;HUNGARIAN / MAGYARUL:&lt;br/&gt;Ismerteto&lt;br/&gt;A világ legnagyobb könyve Magyarországon, pontosabban Szinpetriben, egy vízimalom épületében található. A Guinness World Records által jegyzett 4,18 x 3,77 méteres, 1420 kg-ot nyomó 346 oldalas könyv több éves munka után 2010. március 21-én készült el, s a Gömör-Tornai karsztvidéket mutatja be.&lt;br/&gt;&lt;br/&gt;Varga Béla, a könyv megálmodója és megalkotója szívesen mesél minden kíváncsi látogatónak a hosszú és sokszor igen fárasztó, kihívásokkal teli munkáról. Kérdezzetek nyugodtan!&lt;br/&gt;&lt;br/&gt;A könyv címe: Örökségünk - a Gömör-Tornai-Karszt természeti és kultúrtörténeti értékei; megtalálhatóak benne az aggteleki cseppkobarlang fotói, a környezo állat- és növényvilág, valamint a környezot települések épített értékei.&lt;br/&gt;&lt;br/&gt;A könyv elkészítése sok ember több éves kitartó és áldozatos munkájának az eredménye.&lt;br/&gt;Egy ausztriai papírgyár adományozta az 1 tonnás, 3,8 méter széles papírtekercset, melyet kisebb - kb. 100 méter hosszú - tekercsekre kellett vágni. Ezeket egy budapesti nyomda 5 méter széles nyomtatóján kétoldalas befuzéssel közel 1 mm-es oldalpontossággal ki kellett nyomtatni. A kész íveket egyenként kellett felvágni, a gerincüknél meghajtani, majd 6 ívenként összevarrni oket két nagy asztal segítségével. Maga a könyv kötészeti munkája és a fatáblás borítás összeállítása 5 hónapig tartott. A borító valódi marhaborrel van bevonva és 5 zsanér segítségével nyitható ki.&lt;br/&gt;&lt;br/&gt;Lapozni a közel 15 négyzetméteres oldalakat csak 4-5 ember segítségével lehet, de kérem, hogy a könyv lapjait ne érintsétek meg. Köszönöm!&lt;br/&gt;&lt;br/&gt;A kiállított könyv elokészítésérol, kiállítási helyére szállításáról és még sok-sok érdekességrol szívesen mesélnek a készítok. Nyugodtan kérdeztek, fotózzatok.&lt;br/&gt;&lt;br/&gt;További látnivalók&lt;br/&gt;Megtekinthetitek a Jósva patak által hajtott 6 méter átméroju vízikereket is, valamint a közeli domboldalon azt a kb. 1000 négyzetméteres szalamandrát, mely az Aggteleki Nemzeti Park címerállata is egyben. Az egyik feltöltött fotón a vízimalommal együtt látható.&lt;br/&gt;&lt;br/&gt;A közelben lovakat és szürke marha csordát is fotózhattok.&lt;br/&gt;&lt;br/&gt;Érdemes a malomtól induló úton a 4 km-re fekvo kis zsákközséget is felkeresni. Tornakápolna jó levegojével, csendes kis község. Sok szép túrára indulhattok innen. A Pitics-hegy sincs innen túl messze.&lt;br/&gt;&lt;br/&gt;A láda&lt;br/&gt;A ládát a nagy könyv parkolójából pár lépéssel megtalálhatod. Nem kell bemenni, nem kell kerítést mászni!&lt;br/&gt;A láda kb. 1,5 méter magasságban van elhelyezve. Megszerzéséhez nem szükséges semmilyen segédeszköz. ;)&lt;br/&gt;&lt;br/&gt;A tulajdonosok beleegyezésével lett elhelyezve a geoláda.&lt;br/&gt;&lt;br/&gt;Nyitva tartás&lt;br/&gt;Kedd-vasárnap 10-17 óra között. Elozetes bejelentkezés lehetséges: kérem, hívjátok Varga Bélánét a +36 30 291 22 19-es számon 8-18 óra között!&lt;br/&gt;&lt;br/&gt;Megközelítés&lt;br/&gt;Miskolctól 60 km-re északra található Szinpetri község. Ha Aggteleken jársz, akkor Jósvafon keresztül közvetlenül ide vezet az út. Tömegközlekedéssel is megközelítheted: a miskolci Búza térrol induló helyközi autóbuszjárattal. Vonattal kicsit körülményes, mivel át kell szállni autóbuszra a Tornanádaskára tartó szerelvényrol.&lt;br/&gt;&lt;br/&gt;További info: http://legnagyobbkonyv.hu&lt;br/&gt;&lt;br/&gt;--------&lt;br/&gt;- This is the third opencaching cache hidden in Hungary.&lt;br/&gt;- Please note, the cache was hidden and searchable since 2nd January 2011 (GCBOOK on geocaching.hu; GC2M2K7 on geocaching.com)  </groundspeak:long_description>
             <groundspeak:encoded_hints>Postal box on the fence</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="1795598">
+                    <groundspeak:date>2012-04-30T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="114451">GEOTIKIS</groundspeak:finder>
+                    <groundspeak:text encoded="False">interesting, beautiful place</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1804349">
+                    <groundspeak:date>2012-04-26T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="115568">QTATOM</groundspeak:finder>
+                    <groundspeak:text encoded="False">With bike.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1770801">
+                    <groundspeak:date>2012-03-14T23:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="68508">GEONEO</groundspeak:finder>
+                    <groundspeak:text encoded="False">+one Like</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1273820">
-                    <groundspeak:date>2011-03-11T17:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2011-03-11T23:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="27192">hz.geocaching</groundspeak:finder>
                     <groundspeak:text encoded="False">17:00</groundspeak:text>
@@ -107,15 +147,36 @@ További info: http://legnagyobbkonyv.hu
                 <ox:size>3.4</ox:size>
                 <ox:terrain>1.6</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>&quot;Hand Made Paper&quot;</ox:tag>
-                <ox:tag>&quot;Water Mill&quot;</ox:tag>
-                <ox:tag>Museum</ox:tag>
-            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Waterfall.jpg</ox:name>
+                    <ox:size>137005</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Giant Salamander.jpg</ox:name>
+                    <ox:size>124527</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>The Book.jpg</ox:name>
+                    <ox:size>74578</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>The Mill.jpg</ox:name>
+                    <ox:size>97651</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
         </ox:opencaching>
     </wpt>
     <wpt lon="20.4797833" lat="48.6849167">
-        <time>2011-09-09T05:27:53.000-05:00</time>
+        <time>2011-09-09T10:27:53.000Z</time>
         <name>OX2Q57T</name>
         <desc>Turecka by KUKINKO, Traditional Cache(3.0/3.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2Q57T</url>
@@ -130,50 +191,7 @@ További info: http://legnagyobbkonyv.hu
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">NÁUCNÝ CHODNÍK TURECKÁ
-
-Dna 12. decembra 2009 bol slávnostne odovzdaný „Náucný chodník Turecká“ v katastrálnom území obce Rudná. Náucný chodník bol postavený pocas leta a jesene roka 2009, venuje sa baníckej a lesníckej tématike, má 20 náucných zastávok (11 s lesníckou, 9 s baníckou tématikou) a dlžku 8,3 km.
- Na trase chodníka je rozmiestnených 26 náucných tabúl a 2 altánky slúžiace na oddych (pri zastávkach c. 10 a c. 19).
- Najnižší bod chodníka - zaciatok (úvodná tabula) pred kultúrnym domom obce Rudná 350 m.n.m.
- Najvyšším bodom náucného chodníka je vrchol Tureckej (12. zastávka) v nadmorskej výške 954 m.
- Celkové náklady vynaložené na výstavbu náucného chodníka sú 7,9 tis. €.
- Niektoré zastávky s banskou tématikou poskytujú možnost vstúpit do podzemia - NA VLASTNÚ ZODPOVEDNOST!!
-
-Nám sa podarilo presnorit &quot;podzemie&quot; pri zastávkach c. 14, 16 a 18. Ostatné sú bud zasypané alebo nevyzerali ani trochu bezpecne... Pre zvedavcov odporúcam prezriet aspon banské dielo DÁRIUS (c. 14). Z týchto prístupných podzemí je to asi najrozsiahlejší priestor, zablúdit sa tam nedá, ale prvá myšlienka, ked prídete na križovatku, vám napadne asi táto: &quot;Oznacme si nejak tú chodbu, z ktorej sme prišli...&quot;
- Ak ste ešte neboli v podzemí, tak tento výlet vám poskytne pekný zážitok. A kedže pod zemou je tma a vlhko tak si nezabudnite nieco na svietenie a pevnú, nepremokavú obuv.
-
- Po trase chodníka odporúcam krátky oddych na skale, odkial je krásny výhlad na okolitú krajinu. Pocas oddychu pri zastávke c. 10, môžte nacerpat silu a aj vodu z nedalekého pramena. Zastávka c. 14 je tak trochu schovaná, preto je pridaný wpt odbocky, aby ste neblúdili ako my :)
-
-Zoznam zastávok:
-
- Lesníctvo = (L)
- Baníctvo = (B)
-
- 0 - Úvodná tabula
- 1 - (L) Les a jeho funkcie
- 2 - (L) Lesné dreviny a kry
- 3 - (L) Flóra (Kvetena)
- 4 - (L) Mykoflóra (Huby)
- 5 - (L) Lesná zver
- 6 - (B) Banská lanová dráha
- 7 - (B) Odbocka na Magdalénu
- 8 - (L) Hospodárenie v lesoch
- 9 - (L) Vznik, výchova a obnova lesných porastov
- 10 - (L) Lesná tažba
- 11 - (L) Ochrana lesa
- 12 - (L) Turecká
- 13 - (L) Polovníctvo
- 14 - (B) Banské dielo DÁRIUS
- 15 - (B) Pingy a pingovanie
- 16 - (B) Prieskumná kresanica a obydlie baníkov - krámik
- 17 - (B) Bana 10-tka a lom na zakládku
- 18 - (B) Cigánsky bunker
- 19 - (B) Banský závod Rudná
- 20 - (B) Štôlna Viliam, banícka kolónia
-
-
- Cache:
- Najprv som na tomto chodníku plánoval multinu, lenže nieje isté, ako dlho vydržia jednotlivé tabule, tak som zvolil tradicku. Schránka sa nachádza na spiatocnej ceste z vrcholu medzi zastávkami 12 a 13, trocha mimo znacenej trasy.</groundspeak:long_description>
+            <groundspeak:long_description html="True">NÁUCNÝ CHODNÍK TURECKÁ&lt;br/&gt;&lt;br/&gt;Dna 12. decembra 2009 bol slávnostne odovzdaný „Náucný chodník Turecká“ v katastrálnom území obce Rudná. Náucný chodník bol postavený pocas leta a jesene roka 2009, venuje sa baníckej a lesníckej tématike, má 20 náucných zastávok (11 s lesníckou, 9 s baníckou tématikou) a dlžku 8,3 km.&lt;br/&gt; Na trase chodníka je rozmiestnených 26 náucných tabúl a 2 altánky slúžiace na oddych (pri zastávkach c. 10 a c. 19).&lt;br/&gt; Najnižší bod chodníka - zaciatok (úvodná tabula) pred kultúrnym domom obce Rudná 350 m.n.m.&lt;br/&gt; Najvyšším bodom náucného chodníka je vrchol Tureckej (12. zastávka) v nadmorskej výške 954 m.&lt;br/&gt; Celkové náklady vynaložené na výstavbu náucného chodníka sú 7,9 tis. €.&lt;br/&gt; Niektoré zastávky s banskou tématikou poskytujú možnost vstúpit do podzemia - NA VLASTNÚ ZODPOVEDNOST!!&lt;br/&gt;&lt;br/&gt;Nám sa podarilo presnorit &quot;podzemie&quot; pri zastávkach c. 14, 16 a 18. Ostatné sú bud zasypané alebo nevyzerali ani trochu bezpecne... Pre zvedavcov odporúcam prezriet aspon banské dielo DÁRIUS (c. 14). Z týchto prístupných podzemí je to asi najrozsiahlejší priestor, zablúdit sa tam nedá, ale prvá myšlienka, ked prídete na križovatku, vám napadne asi táto: &quot;Oznacme si nejak tú chodbu, z ktorej sme prišli...&quot;&lt;br/&gt; Ak ste ešte neboli v podzemí, tak tento výlet vám poskytne pekný zážitok. A kedže pod zemou je tma a vlhko tak si nezabudnite nieco na svietenie a pevnú, nepremokavú obuv.&lt;br/&gt;&lt;br/&gt; Po trase chodníka odporúcam krátky oddych na skale, odkial je krásny výhlad na okolitú krajinu. Pocas oddychu pri zastávke c. 10, môžte nacerpat silu a aj vodu z nedalekého pramena. Zastávka c. 14 je tak trochu schovaná, preto je pridaný wpt odbocky, aby ste neblúdili ako my :)&lt;br/&gt;&lt;br/&gt;Zoznam zastávok:&lt;br/&gt;&lt;br/&gt; Lesníctvo = (L)&lt;br/&gt; Baníctvo = (B)&lt;br/&gt;&lt;br/&gt; 0 - Úvodná tabula&lt;br/&gt; 1 - (L) Les a jeho funkcie&lt;br/&gt; 2 - (L) Lesné dreviny a kry&lt;br/&gt; 3 - (L) Flóra (Kvetena)&lt;br/&gt; 4 - (L) Mykoflóra (Huby)&lt;br/&gt; 5 - (L) Lesná zver&lt;br/&gt; 6 - (B) Banská lanová dráha&lt;br/&gt; 7 - (B) Odbocka na Magdalénu&lt;br/&gt; 8 - (L) Hospodárenie v lesoch&lt;br/&gt; 9 - (L) Vznik, výchova a obnova lesných porastov&lt;br/&gt; 10 - (L) Lesná tažba&lt;br/&gt; 11 - (L) Ochrana lesa&lt;br/&gt; 12 - (L) Turecká&lt;br/&gt; 13 - (L) Polovníctvo&lt;br/&gt; 14 - (B) Banské dielo DÁRIUS&lt;br/&gt; 15 - (B) Pingy a pingovanie&lt;br/&gt; 16 - (B) Prieskumná kresanica a obydlie baníkov - krámik&lt;br/&gt; 17 - (B) Bana 10-tka a lom na zakládku&lt;br/&gt; 18 - (B) Cigánsky bunker&lt;br/&gt; 19 - (B) Banský závod Rudná&lt;br/&gt; 20 - (B) Štôlna Viliam, banícka kolónia&lt;br/&gt;&lt;br/&gt;&lt;br/&gt; Cache:&lt;br/&gt; Najprv som na tomto chodníku plánoval multinu, lenže nieje isté, ako dlho vydržia jednotlivé tabule, tak som zvolil tradicku. Schránka sa nachádza na spiatocnej ceste z vrcholu medzi zastávkami 12 a 13, trocha mimo znacenej trasy.</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -183,8 +201,7 @@ Zoznam zastávok:
                 <ox:terrain>3.0</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>Naucny chodnik</ox:tag>
-                <ox:tag>Vyhlad</ox:tag>
+                <ox:tag>Verifiable</ox:tag>
             </ox:tags>
             <ox:verification>
                 <ox:QR>true</ox:QR>
@@ -193,7 +210,7 @@ Zoznam zastávok:
         </ox:opencaching>
     </wpt>
     <wpt lon="20.7409333" lat="49.6133833">
-        <time>2011-07-22T14:23:25.000-05:00</time>
+        <time>2011-07-22T19:23:25.000Z</time>
         <name>OXZTRTF</name>
         <desc>W lasku Falkowskim by Blubox, Multi-cache(4.2/3.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTRTF</url>
@@ -208,30 +225,7 @@ Zoznam zastávok:
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>4</groundspeak:difficulty>
             <groundspeak:terrain>3.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">&quot;Lasek Falkowski&quot;
- Zapraszam do ciekawego miejsca jakim jest przyrodnicza ścieżka w lasku Falkowa w granicach miasta Nowy Sącz. Na wysokości 380m n.p.m. w pofałdowanym terenie, pełnym zagłębień i osuwisk znajduje się ciekawa ścieżka przyrodnicza. Podesty i pomosty, tablice z opisem obiektów przyrodniczych oraz spokój i cisza przerywana jedynie odgłosem ptaków i szumem lasu.
- Ścieżka mało odwiedzana. Można zabrać dzieci pod szczególnym nadzorem.
- 
-Więcej informacji oraz mapka na ścieżki pod adresem:
- http://nowysacz.pl/terenowa-dydaktyczna-sciezka-przyrodnicza-las-falkowski
- 
-Start to charakterystyczne drzewo - logo tej ścieżki. Stań plecami do tego drzewa i patrz w kierunku N (azymut 350) w odległości 5 kroków pień ściętego drzewa. Szukaj w korzeniach po N stronie.
- 
-Zabawa polega na odnalezieniu 5 wskazówek znajdujących się na ścieżce. Każda wskazówka zawiera koordynaty do następnej oraz dokładny opis. Dwie wskazówki zawierają też hasło do skrzynki głównej. Jest to łacińska nazwa obiektu który znajduje się na jednej z tablic przystanków (po zalogowaniu pisz razem dużymi literami)
- Proszę o ostrożne podejmowanie wskazówki i dokładne maskowanie.
- 
-Uwaga: poszukiwania nocne mogą być nie skuteczne a nawet zagarażające zdrowiu. Po deszczu trasa jest miejscami śliska.
- 
-Meta to skrzynka zawierająca:
- Logbook , ołówek i temperówkę nie do wymiany.
- Certyfikat Znalazcy FTC, STC, TTC
- inne gadżety do wymiany.
- 
-Przyda się w poszukiwaniach:
- Coś do pisania papier i ołówek gdyż pamięć jest zawodna. Kompas, łopatka (do odsłonięcia i przykrycia skrzynki na mecie), rękawiczki mogą być przydatne.
- 
-Fotografie obiektów występujące w poszukiwaniach chociaż nie zawsze w kolejności występowania)
- </groundspeak:long_description>
+            <groundspeak:long_description html="True">&quot;Lasek Falkowski&quot;&lt;br/&gt; Zapraszam do ciekawego miejsca jakim jest przyrodnicza ścieżka w lasku Falkowa w granicach miasta Nowy Sącz. Na wysokości 380m n.p.m. w pofałdowanym terenie, pełnym zagłębień i osuwisk znajduje się ciekawa ścieżka przyrodnicza. Podesty i pomosty, tablice z opisem obiektów przyrodniczych oraz spokój i cisza przerywana jedynie odgłosem ptaków i szumem lasu.&lt;br/&gt; Ścieżka mało odwiedzana. Można zabrać dzieci pod szczególnym nadzorem.&lt;br/&gt; &lt;br/&gt;Więcej informacji oraz mapka na ścieżki pod adresem:&lt;br/&gt; http://nowysacz.pl/terenowa-dydaktyczna-sciezka-przyrodnicza-las-falkowski&lt;br/&gt; &lt;br/&gt;Start to charakterystyczne drzewo - logo tej ścieżki. Stań plecami do tego drzewa i patrz w kierunku N (azymut 350) w odległości 5 kroków pień ściętego drzewa. Szukaj w korzeniach po N stronie.&lt;br/&gt; &lt;br/&gt;Zabawa polega na odnalezieniu 5 wskazówek znajdujących się na ścieżce. Każda wskazówka zawiera koordynaty do następnej oraz dokładny opis. Dwie wskazówki zawierają też hasło do skrzynki głównej. Jest to łacińska nazwa obiektu który znajduje się na jednej z tablic przystanków (po zalogowaniu pisz razem dużymi literami)&lt;br/&gt; Proszę o ostrożne podejmowanie wskazówki i dokładne maskowanie.&lt;br/&gt; &lt;br/&gt;Uwaga: poszukiwania nocne mogą być nie skuteczne a nawet zagarażające zdrowiu. Po deszczu trasa jest miejscami śliska.&lt;br/&gt; &lt;br/&gt;Meta to skrzynka zawierająca:&lt;br/&gt; Logbook , ołówek i temperówkę nie do wymiany.&lt;br/&gt; Certyfikat Znalazcy FTC, STC, TTC&lt;br/&gt; inne gadżety do wymiany.&lt;br/&gt; &lt;br/&gt;Przyda się w poszukiwaniach:&lt;br/&gt; Coś do pisania papier i ołówek gdyż pamięć jest zawodna. Kompas, łopatka (do odsłonięcia i przykrycia skrzynki na mecie), rękawiczki mogą być przydatne.&lt;br/&gt; &lt;br/&gt;Fotografie obiektów występujące w poszukiwaniach chociaż nie zawsze w kolejności występowania)&lt;br/&gt; </groundspeak:long_description>
             <groundspeak:encoded_hints>Start charakterystyczne drzewo</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -242,14 +236,12 @@ Fotografie obiektów występujące w poszukiwaniach chociaż nie zawsze w kolejn
                 <ox:terrain>3.5</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>niedostępny w zimie</ox:tag>
-                <ox:tag>niebezpieczna po deszczu i w nocy. Tylko dla wytrwałych</ox:tag>
-                <ox:tag>dzieci pod szczególnym nadzorem</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
             </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="20.6822833" lat="49.7673">
-        <time>2011-07-22T14:14:04.000-05:00</time>
+        <time>2011-07-22T19:14:04.000Z</time>
         <name>OXZTRTG</name>
         <desc>W cieniu czarnego rycerza by Blubox, Traditional Cache(2.0/2.9/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTRTG</url>
@@ -264,15 +256,7 @@ Fotografie obiektów występujące w poszukiwaniach chociaż nie zawsze w kolejn
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">W XIV wieku w tym miejscu istniała strażnica należąca do rodu Grafitów.
- 
-W XIV wieku przeszła ona w ręce Rożenów od nazwy tego rodu prawdopodobnie wywodzi się nazwa miejscowości. Strażnica została przebudowana w Zamek zwany Zamkiem „Górnym” (po powstaniu drugiego Zamku w Rożnowie z XVI w zwanego „Dolnym”).
- 
-Budowla wzniesiona przez Piotra Rożena około 1350-1370 roku na wzgórzu, opasana rzeką. Zamek zbudowany z kamienia w stylu gotyckim na planie czworoboku zbliżonym do prostokąta pełnił on rolę na szlaku handlowym prowadzącym ze stolicy Polski na Węgry.
- 
-Około 1420 roku znalazła się we władaniu sławnego bohatera spod Grunwaldu Zawiszy Czarnego z Grabowa. Następnie w XV w. była w posiadaniu rodziny Tarnowskich. Jan Amor Tarnowski ze względu na brak miejsca pod rozbudowę tego zamku, rozpoczął budowę drugiej twierdzy w Rożnowie. Dlatego w XVII wieku zamek został opuszczony i popadł w ruinę. Obecnie zachowały się tylko fragmenty murów obwodowych i zabudowy wewnętrznej.
-
-Kesz ukryty jest w otworze w NW ścianie nisko przy ziemi obok kominka a przynajmniej tak wygląda to miejsce. (ślady okopconej wnęki)  przykryty kilkoma kamieniami.</groundspeak:long_description>
+            <groundspeak:long_description html="True">W XIV wieku w tym miejscu istniała strażnica należąca do rodu Grafitów.&lt;br/&gt; &lt;br/&gt;W XIV wieku przeszła ona w ręce Rożenów od nazwy tego rodu prawdopodobnie wywodzi się nazwa miejscowości. Strażnica została przebudowana w Zamek zwany Zamkiem „Górnym” (po powstaniu drugiego Zamku w Rożnowie z XVI w zwanego „Dolnym”).&lt;br/&gt; &lt;br/&gt;Budowla wzniesiona przez Piotra Rożena około 1350-1370 roku na wzgórzu, opasana rzeką. Zamek zbudowany z kamienia w stylu gotyckim na planie czworoboku zbliżonym do prostokąta pełnił on rolę na szlaku handlowym prowadzącym ze stolicy Polski na Węgry.&lt;br/&gt; &lt;br/&gt;Około 1420 roku znalazła się we władaniu sławnego bohatera spod Grunwaldu Zawiszy Czarnego z Grabowa. Następnie w XV w. była w posiadaniu rodziny Tarnowskich. Jan Amor Tarnowski ze względu na brak miejsca pod rozbudowę tego zamku, rozpoczął budowę drugiej twierdzy w Rożnowie. Dlatego w XVII wieku zamek został opuszczony i popadł w ruinę. Obecnie zachowały się tylko fragmenty murów obwodowych i zabudowy wewnętrznej.&lt;br/&gt;&lt;br/&gt;Kesz ukryty jest w otworze w NW ścianie nisko przy ziemi obok kominka a przynajmniej tak wygląda to miejsce. (ślady okopconej wnęki)  przykryty kilkoma kamieniami.</groundspeak:long_description>
             <groundspeak:encoded_hints>nisko przy ziemi</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -283,12 +267,12 @@ Kesz ukryty jest w otworze w NW ścianie nisko przy ziemi obok kominka a przynaj
                 <ox:terrain>2.9</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>ruiny zamku</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
             </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="20.03248" lat="50.11882">
-        <time>2011-02-20T18:00:00.000-06:00</time>
+        <time>2011-02-21T00:00:00.000Z</time>
         <name>OXZTWDB</name>
         <desc>Gotyk w Raciborowicach by LzaEla, Multi-cache(2.0/1.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTWDB</url>
@@ -303,36 +287,7 @@ Kesz ukryty jest w otworze w NW ścianie nisko przy ziemi obok kominka a przynaj
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>1</groundspeak:terrain>
-            <groundspeak:long_description html="True">kosciol Jana Dlugosza 
-
- Cel wycieczki: Zespol sakralny: Gotycki kosciol, drewniana dzwonnica i kaplica cmentarna. Dodamy tylko, ze stad wlasnie zaczynaja sie 3 podkrakowskie szlaki rowerowe, ktore goraco polecamy. (kolo zachodniej bramy)
-
-Kosciol zawdzieczamy ks. Janowi Dlugoszowi – slynnemu kronikarzowi. W ciagu ponad pieciu wiekow istnienia bryla swiatyni nie ulegla zadnym zmianom (kosciol datuje sie na 1476 rok.) 
-
-Fasada kosciola wyroznia sie charakterystycznymi ciemnymi, mocno wypalonymi ceglami tzw. zendrowkami, ukladanymi w &quot;zeby&quot; i romby. Watki, w jakie zostaly ulozone, okreslane sa mianem &quot;dlugoszowych&quot;. Wejscia do kosciola otoczone sa portalami schodkowymi, ktore wiencza herby fundatora – Wieniawa. Gotyckie mury kryja piekne barokowe wnetrze.
-
-Wychodzac z kosciola warto skierowac sie na wschod, gdzie cienista alejka jesionowa prowadzi na cmentarz z kaplica z polowy XIX w. Zostal on zalozony w 1830 roku. Znajduje sie tu m.in. zbiorowa mogila lotnikow polskich, walczacych w II wojnie swiatowej o wolnosc Wielkiej Brytanii.
-
-Dalsze poglebianie wiedzy: http://www.parafia-raciborowice.pl/historia.html
-
-
-Skrzynka.
-
-Jest to multikesz ofsetowo-quizowy z dwoma punktami witualnymi oraz pojemnikiem koncowym. Wspolrzedne wskazuja wejscie do kosciola, gdzie wmurowane sa dwie tablice. Jedna z tablic jest ponad sto lat starsza od sasiadki i nie jest w jezyku polskim. Jest na niej data interesuje nas rok. otrzymane z niej cztery cyfry odpowiednio podstawiamy:  yznk
-
-Teraz obchodzimy kosciol i swe kroki kierujemy dalej, waska jesionowa alejka, ktora dla wielu jest oststnia ziemska droga. Na terenie cmentarza ogladamy zabytkowa drewniana kapliczke.
-
-jesli jest ona zbudowana na planie Krzyza b = 9; jesli na planie czworokata b= 5 ; jesli na planie okregu b= 0;
-
-teraz oblicz wspolrzedne skrzynki:
-
-N50° 0[z-1].[y][b][b-k]
-
-E20° 0[k].[n-z][k][y]
-
- 
-
- </groundspeak:long_description>
+            <groundspeak:long_description html="True">kosciol Jana Dlugosza &lt;br/&gt;&lt;br/&gt; Cel wycieczki: Zespol sakralny: Gotycki kosciol, drewniana dzwonnica i kaplica cmentarna. Dodamy tylko, ze stad wlasnie zaczynaja sie 3 podkrakowskie szlaki rowerowe, ktore goraco polecamy. (kolo zachodniej bramy)&lt;br/&gt;&lt;br/&gt;Kosciol zawdzieczamy ks. Janowi Dlugoszowi – slynnemu kronikarzowi. W ciagu ponad pieciu wiekow istnienia bryla swiatyni nie ulegla zadnym zmianom (kosciol datuje sie na 1476 rok.) &lt;br/&gt;&lt;br/&gt;Fasada kosciola wyroznia sie charakterystycznymi ciemnymi, mocno wypalonymi ceglami tzw. zendrowkami, ukladanymi w &quot;zeby&quot; i romby. Watki, w jakie zostaly ulozone, okreslane sa mianem &quot;dlugoszowych&quot;. Wejscia do kosciola otoczone sa portalami schodkowymi, ktore wiencza herby fundatora – Wieniawa. Gotyckie mury kryja piekne barokowe wnetrze.&lt;br/&gt;&lt;br/&gt;Wychodzac z kosciola warto skierowac sie na wschod, gdzie cienista alejka jesionowa prowadzi na cmentarz z kaplica z polowy XIX w. Zostal on zalozony w 1830 roku. Znajduje sie tu m.in. zbiorowa mogila lotnikow polskich, walczacych w II wojnie swiatowej o wolnosc Wielkiej Brytanii.&lt;br/&gt;&lt;br/&gt;Dalsze poglebianie wiedzy: http://www.parafia-raciborowice.pl/historia.html&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Skrzynka.&lt;br/&gt;&lt;br/&gt;Jest to multikesz ofsetowo-quizowy z dwoma punktami witualnymi oraz pojemnikiem koncowym. Wspolrzedne wskazuja wejscie do kosciola, gdzie wmurowane sa dwie tablice. Jedna z tablic jest ponad sto lat starsza od sasiadki i nie jest w jezyku polskim. Jest na niej data interesuje nas rok. otrzymane z niej cztery cyfry odpowiednio podstawiamy:  yznk&lt;br/&gt;&lt;br/&gt;Teraz obchodzimy kosciol i swe kroki kierujemy dalej, waska jesionowa alejka, ktora dla wielu jest oststnia ziemska droga. Na terenie cmentarza ogladamy zabytkowa drewniana kapliczke.&lt;br/&gt;&lt;br/&gt;jesli jest ona zbudowana na planie Krzyza b = 9; jesli na planie czworokata b= 5 ; jesli na planie okregu b= 0;&lt;br/&gt;&lt;br/&gt;teraz oblicz wspolrzedne skrzynki:&lt;br/&gt;&lt;br/&gt;N50° 0[z-1].[y][b][b-k]&lt;br/&gt;&lt;br/&gt;E20° 0[k].[n-z][k][y]&lt;br/&gt;&lt;br/&gt; &lt;br/&gt;&lt;br/&gt; </groundspeak:long_description>
             <groundspeak:encoded_hints>el= val i jedno nicde = el i jedno nicce = iks i jedno nicem = ce i jedno nic</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -342,10 +297,13 @@ E20° 0[k].[n-z][k][y]
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.0</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="20.6782" lat="50.3448167">
-        <time>2011-11-11T11:31:54.000-06:00</time>
+        <time>2011-11-11T17:31:54.000Z</time>
         <name>OXZTNK7</name>
         <desc>Grodzisko Wiślica by Hall9000, Traditional Cache(2.2/1.4/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTNK7</url>
@@ -360,10 +318,7 @@ E20° 0[k].[n-z][k][y]
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Plastikowy pojemnik z czterema zatrzaskami i uszczelką w deklu, przysypany żwirem pod skalną ścianą. W pojemniku są dwa dzienniki dla różnych serwisów, ołówek oraz pamiątkowa moneta dla pierwszej osoby.
-Stojąc frontem do ściany, która znajduje się przy wejściu na grodzisko, skrzynkę będziesz mieć na godzinie 13-tej. Pamiętaj, aby nikt postronny cię nie widział, i zamaskuj skrzynkę w skuteczny sposób. 
-W to miejsce (niestety)przychodzą pseudo turyści i wagarowicze.   
-Proszę pierwszego znalazcę, aby usunął drugi dziennik &quot;opencaching.pl&quot;, ponieważ jest zbędny. Niech zostanie tylko ten z tego serwisu.  </groundspeak:long_description>
+            <groundspeak:long_description html="True">Plastikowy pojemnik z czterema zatrzaskami i uszczelką w deklu, przysypany żwirem pod skalną ścianą. W pojemniku są dwa dzienniki dla różnych serwisów, ołówek oraz pamiątkowa moneta dla pierwszej osoby.&lt;br/&gt;Stojąc frontem do ściany, która znajduje się przy wejściu na grodzisko, skrzynkę będziesz mieć na godzinie 13-tej. Pamiętaj, aby nikt postronny cię nie widział, i zamaskuj skrzynkę w skuteczny sposób. &lt;br/&gt;W to miejsce (niestety)przychodzą pseudo turyści i wagarowicze.   &lt;br/&gt;Proszę pierwszego znalazcę, aby usunął drugi dziennik &quot;opencaching.pl&quot;, ponieważ jest zbędny. Niech zostanie tylko ten z tego serwisu.  </groundspeak:long_description>
             <groundspeak:encoded_hints>Skała gipsowa</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -374,7 +329,8 @@ Proszę pierwszego znalazcę, aby usunął drugi dziennik &quot;opencaching.pl&q
                 <ox:terrain>1.4</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>Urokliwe miejsce.</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
+                <ox:tag>Verifiable</ox:tag>
             </ox:tags>
             <ox:verification>
                 <ox:QR>true</ox:QR>
@@ -383,7 +339,7 @@ Proszę pierwszego znalazcę, aby usunął drugi dziennik &quot;opencaching.pl&q
         </ox:opencaching>
     </wpt>
     <wpt lon="20.6742667" lat="50.34885">
-        <time>2011-11-11T11:44:29.000-06:00</time>
+        <time>2011-11-11T17:44:29.000Z</time>
         <name>OXZTNK6</name>
         <desc>Kolegiata Wiślicka by Hall9000, Traditional Cache(2.4/1.3/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTNK6</url>
@@ -398,10 +354,7 @@ Proszę pierwszego znalazcę, aby usunął drugi dziennik &quot;opencaching.pl&q
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Idąc od frontu Katedry wzdłuż jej lewego skrzydła, dochodzimy do punktu, w którym krzyżuje się linia muru z umowną linią stanowiącą przedłużenie lewej ściany Katedry.
-Tam pod murem ogrodzeniowym jest zakopany plastikowy pojemnik z czterema zatrzaskami i uszczelką w deklu.
-Pojemnik zawiera dwa dzienniki dla różnych serwisów, ołówek i monetę dla pierwszego znalazcy.
-Pamiętaj, turystów prawie niema, ale lepiej aby nikt cię nie zobaczył kopiącego pod murem. Pojemnik nie jest zakopany głęboko, tylko przysypany, więc staraj się również go dobrze zamaskować. </groundspeak:long_description>
+            <groundspeak:long_description html="True">Idąc od frontu Katedry wzdłuż jej lewego skrzydła, dochodzimy do punktu, w którym krzyżuje się linia muru z umowną linią stanowiącą przedłużenie lewej ściany Katedry.&lt;br/&gt;Tam pod murem ogrodzeniowym jest zakopany plastikowy pojemnik z czterema zatrzaskami i uszczelką w deklu.&lt;br/&gt;Pojemnik zawiera dwa dzienniki dla różnych serwisów, ołówek i monetę dla pierwszego znalazcy.&lt;br/&gt;Pamiętaj, turystów prawie niema, ale lepiej aby nikt cię nie zobaczył kopiącego pod murem. Pojemnik nie jest zakopany głęboko, tylko przysypany, więc staraj się również go dobrze zamaskować. </groundspeak:long_description>
             <groundspeak:encoded_hints>Mur </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -411,6 +364,10 @@ Pamiętaj, turystów prawie niema, ale lepiej aby nikt cię nie zobaczył kopią
                 <ox:size>2.6</ox:size>
                 <ox:terrain>1.3</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
             <ox:verification>
                 <ox:QR>true</ox:QR>
                 <ox:number>true</ox:number>
@@ -418,9 +375,9 @@ Pamiętaj, turystów prawie niema, ale lepiej aby nikt cię nie zobaczył kopią
         </ox:opencaching>
     </wpt>
     <wpt lon="20.6192333" lat="50.8614">
-        <time>2011-04-12T09:58:13.000-05:00</time>
+        <time>2011-04-12T14:58:13.000Z</time>
         <name>OXZTWN7</name>
-        <desc>Kadzielnia Hill by jambowl, Traditional Cache(2.0/2.0/3.0)</desc>
+        <desc>Kadzielnia Hill by jambowl, Traditional Cache(2.0/2.0/3.1)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTWN7</url>
         <urlname>Kadzielnia Hill</urlname>
         <sym>Geocache</sym>
@@ -433,30 +390,40 @@ Pamiętaj, turystów prawie niema, ale lepiej aby nikt cię nie zobaczył kopią
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Kadzielnia hill is located in the south-western part of Kielce - the capital of Swietokrzyskie Voivodeship. The highest place in Kadzielnia Park called Geologists Rock (Skalka Geologów) has a height of 295m above sea level. Currently the bottom of excavation pit (previously there were quarries) filled in with groundwater creates so called Emerald Lake. Since 1962 Kadzielnia gained status of a nature reserve.
+            <groundspeak:long_description html="True">Kadzielnia hill is located in the south-western part of Kielce - the capital of Swietokrzyskie Voivodeship. The highest place in Kadzielnia Park called Geologists Rock (Skalka Geologów) has a height of 295m above sea level. Currently the bottom of excavation pit (previously there were quarries) filled in with groundwater creates so called Emerald Lake. Since 1962 Kadzielnia gained status of a nature reserve.&lt;br/&gt;&lt;br/&gt;Cache&lt;br/&gt;35mm film container. Could be magnetic, so remember about it when looking for it.&lt;br/&gt;Don't forget to take a pen or pencil with you.&lt;br/&gt;The place is frequently visited by muggles, so stealth and caution is advised.&lt;br/&gt;&lt;br/&gt;Parking&lt;br/&gt;N50° 51.604', E20° 37.284'&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="2061296">
+                    <groundspeak:date>2012-07-30T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="135781">Wojciech Szczapan</groundspeak:finder>
+                    <groundspeak:text encoded="False">Znaleziona w towarzystwie.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1778888">
+                    <groundspeak:date>2012-03-16T23:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3963">LzaEla</groundspeak:finder>
+                    <groundspeak:text encoded="False">Świetny widok, zresztą bardzo fajne miejsce. Oryginalna i ciekawa wyciągarka do keszynki. :-)
 
-Cache
-35mm film container. Could be magnetic, so remember about it when looking for it.
-Don't forget to take a pen or pencil with you.
-The place is frequently visited by muggles, so stealth and caution is advised.
-
-Parking
-N50° 51.604', E20° 37.284'
-</groundspeak:long_description>
+Zdobyta oczywiście rowerowo podczas pierwszego kieleckiego łupienia Pozdrower z Krakowa</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:awesomeness>3.1</ox:awesomeness>
                 <ox:difficulty>2.0</ox:difficulty>
-                <ox:size>2.0</ox:size>
+                <ox:size>1.9</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="20.62925" lat="50.86775">
-        <time>2011-04-13T14:56:46.000-05:00</time>
+        <time>2011-04-13T19:56:46.000Z</time>
         <name>OXZTWN0</name>
-        <desc>Larchwood Past by jambowl, Traditional Cache(1.0/2.0/3.0)</desc>
+        <desc>Larchwood Past by jambowl, Traditional Cache(1.3/1.9/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTWN0</url>
         <urlname>Larchwood Past</urlname>
         <sym>Geocache</sym>
@@ -467,12 +434,18 @@ N50° 51.604', E20° 37.284'
             <groundspeak:owner id="5703">jambowl</groundspeak:owner>
             <groundspeak:type>Traditional Cache</groundspeak:type>
             <groundspeak:container>Small</groundspeak:container>
-            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Small, Tupperware style box.&lt;br/&gt;&lt;br/&gt;Inventory:&lt;br/&gt;Czech Republic Coat of Arms patch,&lt;br/&gt;2x Star Wars TAZOS,&lt;br/&gt;Philips lightbulb keyring,&lt;br/&gt;lapel pin,&lt;br/&gt;bone pendant,&lt;br/&gt;monster thingy,&lt;br/&gt;small cross pendant,&lt;br/&gt;Happiness runes,&lt;br/&gt;Wealth runes.&lt;br/&gt;&lt;br/&gt;Trackables: WANTED bullet&lt;br/&gt;Tracking Code: JAM9BD&lt;br/&gt;To log it and for more info visit geokrety.org&lt;br/&gt;&lt;br/&gt;*********************************&lt;br/&gt;&lt;br/&gt;Modrzewiowa Przeszlosc&lt;br/&gt;&lt;br/&gt;Maly, jedno litrowy pojemnik typu Tupperware.&lt;br/&gt;&lt;br/&gt;Inwentaz:&lt;br/&gt;Naszywka z godlem Czech,&lt;br/&gt;2x Star Wars TAZOS,&lt;br/&gt;Breloczek - zarówka Philips,&lt;br/&gt;Wisiorek z kosci,&lt;br/&gt;Czerwone straszydlo (zakladka do ksiazki),&lt;br/&gt;Maly krzyzyk,&lt;br/&gt;Runy szczescia i dobrobytu.&lt;br/&gt;&lt;br/&gt;Geokret: Pocisk z filmu Scigani (Wanted)&lt;br/&gt;Tracking Code: JAM9BD</groundspeak:long_description>
+            <groundspeak:long_description html="True">Small, Tupperware style box.&lt;br /&gt;&lt;br /&gt;Inventory:&lt;br /&gt;Czech Republic Coat of Arms patch,&lt;br /&gt;2x Star Wars TAZOS,&lt;br /&gt;Philips lightbulb keyring,&lt;br /&gt;lapel pin,&lt;br /&gt;bone pendant,&lt;br /&gt;monster thingy,&lt;br /&gt;small cross pendant,&lt;br /&gt;Happiness runes,&lt;br /&gt;Wealth runes.&lt;br /&gt;&lt;br /&gt;Trackables: WANTED bullet&lt;br /&gt;Tracking Code: JAM9BD&lt;br /&gt;To log it and for more info visit geokrety.org&lt;br /&gt;&lt;br /&gt;*********************************&lt;br /&gt;&lt;br /&gt;Modrzewiowa Przeszlosc&lt;br /&gt;&lt;br /&gt;Maly, jedno litrowy pojemnik typu Tupperware.&lt;br /&gt;&lt;br /&gt;Inwentaz:&lt;br /&gt;Naszywka z godlem Czech,&lt;br /&gt;2x Star Wars TAZOS,&lt;br /&gt;Breloczek - zarówka Philips,&lt;br /&gt;Wisiorek z kosci,&lt;br /&gt;Czerwone straszydlo (zakladka do ksiazki),&lt;br /&gt;Maly krzyzyk,&lt;br /&gt;Runy szczescia i dobrobytu.&lt;br /&gt;&lt;br /&gt;Geokret: Pocisk z filmu Scigani (Wanted)&lt;br /&gt;Tracking Code: JAM9BD</groundspeak:long_description>
             <groundspeak:logs>
+                <groundspeak:log id="2099492">
+                    <groundspeak:date>2012-09-28T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3963">LzaEla</groundspeak:finder>
+                    <groundspeak:text encoded="False">fajny kesz. Dzięki za zarejestrowanie również tutaj :-)</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1213883">
-                    <groundspeak:date>2011-04-21T15:34:40.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-04-21T20:34:40.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="17499">tomacz</groundspeak:finder>
                     <groundspeak:text encoded="False">TFTC</groundspeak:text>
@@ -482,55 +455,229 @@ N50° 51.604', E20° 37.284'
         <ox:opencaching>
             <ox:ratings>
                 <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>1.0</ox:difficulty>
-                <ox:size>3.0</ox:size>
-                <ox:terrain>2.0</ox:terrain>
+                <ox:difficulty>1.3</ox:difficulty>
+                <ox:size>2.9</ox:size>
+                <ox:terrain>1.9</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>main street</ox:tag>
-                <ox:tag>roof</ox:tag>
-                <ox:tag>Kielce</ox:tag>
-                <ox:tag>Poland</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
             </ox:tags>
         </ox:opencaching>
     </wpt>
-    <wpt lon="20.8077" lat="54.2553">
-        <time>2010-12-25T16:41:22.000-06:00</time>
-        <name>OXZTXMA</name>
-        <desc>Nieczynny most drogowy w Bartoszycach by schron, Traditional Cache(2.0/1.0/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OXZTXMA</url>
-        <urlname>Nieczynny most drogowy w Bartoszycach</urlname>
+    <wpt lon="20.97845" lat="52.0275167">
+        <time>2011-03-13T00:00:00.000Z</time>
+        <name>OXZTKYY</name>
+        <desc>Cmentarz wojenny z 1915 roku by R00T7, Traditional Cache(1.5/1.4/2.8)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTKYY</url>
+        <urlname>Cmentarz wojenny z 1915 roku</urlname>
         <sym>Geocache</sym>
         <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="28477943">
-            <groundspeak:name>Nieczynny most drogowy w Bartoszycach</groundspeak:name>
-            <groundspeak:placed_by>schron</groundspeak:placed_by>
-            <groundspeak:owner id="2218">schron</groundspeak:owner>
+        <groundspeak:cache archived="False" available="True" id="28469592">
+            <groundspeak:name>Cmentarz wojenny z 1915 roku</groundspeak:name>
+            <groundspeak:placed_by>R00T7</groundspeak:placed_by>
+            <groundspeak:owner id="1364">R00T7</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">
+CMENTARZ W WOLCE PECHERSKIEJ
+&lt;br /&gt;&lt;br /&gt;
+
+Zlokalizowany na skraju lasu po prawej stronie drogi Los - Jazgarzew, blizej tej drugiej wsi. Maly skromny cmentarz ogrodzony niskim sztachetkowym plotkiem. Wejscie od strony drogi, w czesci centralnej.
+Na wprost wejscia drewniana kapliczka, do ktorej przybito zachowane oryginalne drewniane tabliczki z nazwiskami poleglych. Po obu stronach kapliczki glazy narzutowe. Na lewym podano ilosc poleglych: 68 Deutsche, 48 Russen, na prawym napis w jezyku polskim: Modlcie sie za poleglych. 27 drewnianych krzyzy, wykonanych na wzor krzyzy z cmentarzy w Galicji. Po lewej stronie od wejscia, przy ogrodzeniu wyrozniona kamieniem z inskrypcja mogila oficera.
+&lt;br /&gt;&lt;br /&gt;
+Na kamieniu napis:
+&lt;br /&gt;
+OFFZ. STV.
+HERMANN NIEHOFF
+7./I.R.336
+zm. 27.7.15
+&lt;br /&gt;&lt;br /&gt;
+Z zachowanych tabliczek nagrobnych wynika, ze polegli Niemcy sluzyli 333 Pulku Piechoty oraz 333 Rezerwowym Pulku Piechoty, jedynie wspomniany wyzej oficer byl z 336 Pulku Piechoty. Brak jest informacji, z jakich jednostek pochodzili pogrzebani tu Rosjanie.
+&lt;br /&gt;&lt;br /&gt;
+tu jeszcze troche z innego zrodla:
+http://www.wiki.rowery.olsztyn.pl/miejsca/1914/mazowieckie/wolka_pecherska
+
+&lt;br /&gt;&lt;br /&gt;
+
+
+SKRYTKA:&lt;br /&gt;
+kesz schowany na tylach cmentarza. nie trzeba kopac ani nic, wystarczy grzebnac
+ </groundspeak:long_description>
+            <groundspeak:encoded_hints>pieniek
+pod</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2026467">
+                    <groundspeak:date>2012-08-11T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="129265">Danio 602</groundspeak:finder>
+                    <groundspeak:text encoded="False">Bardzo fajnie ukryta. Pozdrowienia dla michno121</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1909798">
+                    <groundspeak:date>2012-06-28T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="129340">michno121</groundspeak:finder>
+                    <groundspeak:text encoded="False">Skrzyneczka na miejscu i keszt fajny.Ogólnie dobre miejsce tylko ze strasznie dużo komarów :) </groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1961201">
+                    <groundspeak:date>2012-06-27T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4077">meteor2017</groundspeak:finder>
+                    <groundspeak:text encoded="False">
+
+Rowerowy wypad do Zalesia Dolnego (53km ze 114km).
+
+Cmentarz n ieźle zachowany, pewnie przez to ża blisko szosy, takie jeśli nie zostaną zniszczone, są zwykle bardziej zadbane niż te w rzkah. . Jest drobny błąd w opisie, nie 48 tylko 18 Rosjan.
+
+W międzyczasie przy cmentarzu zaparkował miejscowy. Mówił że dziadek mu opowiadał, że właśnie tutaj jak Niemcy szli drogą z Piaseczna na Grójec to wpadli w zasadzkę, bo Rosjanie się na nich zasadzili przy drodze i wystrzelali.
+</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1857796">
+                    <groundspeak:date>2012-06-06T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="35427">MROKJAC</groundspeak:finder>
+                    <groundspeak:text encoded="False">Komary nas prawie zjadły :) ale udało się.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.8</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.9</ox:size>
+                <ox:terrain>1.4</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>kapliczka.jpg</ox:name>
+                    <ox:size>42740</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="20.9481" lat="52.2211">
+        <time>2010-05-12T00:00:00.000Z</time>
+        <name>OXZTKYW</name>
+        <desc>Wieza na Odolanach by R00T7, Traditional Cache(1.5/4.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTKYW</url>
+        <urlname>Wieza na Odolanach</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469590">
+            <groundspeak:name>Wieza na Odolanach</groundspeak:name>
+            <groundspeak:placed_by>R00T7</groundspeak:placed_by>
+            <groundspeak:owner id="1364">R00T7</groundspeak:owner>
             <groundspeak:type>Traditional Cache</groundspeak:type>
             <groundspeak:container>Micro</groundspeak:container>
-            <groundspeak:difficulty>2</groundspeak:difficulty>
-            <groundspeak:terrain>1</groundspeak:terrain>
-            <groundspeak:long_description html="True">Miejsce : 
-Nieczynny most drogowy na rzece Lynie.
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>4.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">2/3 odwagi
+ &lt;br /&gt;&lt;br /&gt; 
 
-Skrzynka :
-Magnetyczny mikrus. Wez cos do pisania!
+Dodatkowe atrybuty skrzynki
 
-Dokladnosc koordynatów to ok. 5 metrów.
 
-Powodzenia!</groundspeak:long_description>
+
+
+
+Spacerujac dzis po okolicach Odolan postanowilismy wspiac sie na wieze co to by widoki poogladac :) pierwsza okazala sie niezbyt ciekawa, za to druga juz owszem - stad keszyk.
+
+Wspolrzedne nie wskazuja miejsca ukrycia a jedynie miejsce jakies 15-20m nizej
+
+Wieza ta jak i inne na terenie odolan sluzyly kiedys do obserwacji terenu. Na gorze zamontowane byly wielkie reflektory - ich konstrukcja zachowala sie do dzis.
+
+Skrzynka ukryta jest na 2 pietrze patrzac od ziemi - stad podtytul. Jest to platforma z ktorej drabinka prowadzi juz prosto na najwyzsza platforme z reflektorem.
+
+Zeby odnalezc skrzynke musisz isc od dolu po drabince i... no wlasnie prawie bedac na gorze grzebnac w odpowiednim miejscu.
+
+Wieza stoi na ogolnodostepnym terenie, zeby sie na nia dostac nie musisz wchodzic na prywatny teren, ani pod zaden zakaz wstepu. Uwazac jedynie trzeba na ochroniarzy z pobliskiej zlomiarni i zwirowni co to by sie za nadto nie intreresowali.
+
+UWAGA : NA WIEZE WCHODZISZ NA WLASNA ODPOWIEDZIALNOSC. Nie polecam osobom z lekiem wysokosci.
+
+ps: polecam jak jest silny wiatr, wieza fajnie buja:)
+
+pps: zima zalecam wielka ostroznosc, dobre buty i rekawiczki!
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>lewa
+magnetyk
+pod platforma</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2030630">
+                    <groundspeak:date>2012-08-15T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="129265">Danio 602</groundspeak:finder>
+                    <groundspeak:text encoded="False">Myślałem ,że będzie mniejsza. Po zejściu trzęsłem się 10 minut</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1956862">
+                    <groundspeak:date>2012-04-17T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4077">meteor2017</groundspeak:finder>
+                    <groundspeak:text encoded="False">Nie po raz pierwszy i nie po rraz ostatni pewnie na taką wieżę włażę... Jak jest silny wiatr to na platformie może niezle bujać - niby człowiek wie że tysiąc razy takie wiatry jakoś przetrwała, a stalowe konstrukcje tak mają, ale ten wychył zawsze robi wrażenie... teraz wiało tylko średnio-mocno, to na górze można było sobie posiedzieć i się spokojnie wpisać (oczywiście uważajać żeby jakaś część kesza nie odleciała).
+
+Panorama o tyle nieaktualna, że żagiel zasłonił pałac :-(
+</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
                 <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>2.0</ox:difficulty>
-                <ox:size>1.6</ox:size>
-                <ox:terrain>1.0</ox:terrain>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>4.5</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>widok w dół.jpg</ox:name>
+                    <ox:size>67810</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="20.97825" lat="55.293633">
+        <time>2012-08-14T07:00:00.000Z</time>
+        <name>OX3TPH7</name>
+        <desc>Nida gliding school by VejasPink, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3TPH7</url>
+        <urlname>Nida gliding school</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3537014">
+            <groundspeak:name>Nida gliding school</groundspeak:name>
+            <groundspeak:placed_by>VejasPink</groundspeak:placed_by>
+            <groundspeak:owner id="137902">VejasPink</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">{LTU} mikro&lt;br/&gt;&lt;br/&gt;{ENG} micro&lt;br/&gt;&lt;br/&gt;{LTU}&lt;br/&gt;Geoslėptuvė paslėpta buvusios Nidos skalndymo mokyklos teritorijoje. Plačiau apie šios vietos istoriją: &lt;br/&gt;Nidos sklandymo mokykla veikė 1933–1939 m.&lt;br/&gt;Kauno apylinkių Pažaislio kalvos jau nebetenkino sklandytojų, todėl 1933 m. sklandymo mokykla buvo perkelta į Nidą, kur aukštos kopos, ir pučiant rytų vėjui, susidaro tinkamas skriejimui šlaito antvėjis. Atvykę sklandytojai savo jėgomis montavo angarą, statė valgyklą, mokyklos pastatą. Sklandymo mokyklos auklėtiniai naudodavosi tuo metu aukščiausia Kuršių nerijoskopa, kuri dabar ir vadinasi Sklandytojų kopa. Ji yra antra kopa už Parnidžio kopos Kaliningrado srities link. Čia buvo pagrindinėLietuvos sklandytojų vasaros stovyklavietė.&lt;br/&gt;1933 m. rugpjūčio 30 d. mokyklos instruktorius Gregoras Heidrikis pasiekė pirmąjį Lietuvos išsilaikymo ore rekordą. Jis be nusileidimo skriejo 3 val. 10 min. O 1933 m. rugsėjo 3 d. Nidos sklandymo mokykla buvo oficialiai atidaryta. Po dešimties dienų, pučiant rytų vėjui, Bronius Oškinis sklandytuvu T-1 įvykdė ”C” piloto normatyvus. Tuo būdu jis tapo pirmas šį piloto vardą įgijęs Lietuvoje.&lt;br/&gt;1935 m. birželio 5 d. naudodamasis audros frontu sklandytojas Jonas Pyragius atliko pirmąjį perskridimą – sklandytuvu iš Nidos įPalangą (75 km).&lt;br/&gt;1979 m. ant buvusio angaro pamatų pastatyta arka, žyminti buvusios sklandymo mokyklos vietą. 1998 m., pažymint sklandymo mokyklos 65 metų jubiliejų, atidengtas paminklinis akmuo lietuvių ir vokiečių sklandytojams. Buvusią sklandymo mokyklos vietą galima pasiekti pasukus nuo kelio, vedančio link Parnidžio kopos.&lt;br/&gt;(Šaltinis: http://lt.wikipedia.org/wiki/Nidos_sklandymo_mokykla)&lt;br/&gt;Dar apie mokyklą: http://www.neringoje.lt/sklandymo.htm&lt;br/&gt;Slėptuvė yra mikrokonteineris su logbook'u ir pieštuku.&lt;br/&gt;{ENG}&lt;br/&gt;Geocache is placed in memorial of former Nida gliding school.&lt;br/&gt;The Gliding School was functioning in 1933 – 1939; here was the basic summer camping place for Lithuanian gliders. In 1979, on the former hangar basement the ark, signifying the location of the former Gliding School, is constructed. In 1998, celebrating the 65 year jubilee of the Gliding School, the monumental stone for Lithuanian and German gliders was unveiled. One can reach the famous location of Gliding School by making a turn from the path leading towards the Dune of Parnidis.&lt;br/&gt; &lt;br/&gt;(Source: http://www.visitneringa.com/en/main/relaxation/museums/monumentstonenida)&lt;br/&gt; &lt;br/&gt;Cache is micro size container with logbook and pencil.</groundspeak:long_description>
+            <groundspeak:encoded_hints>{LTU} angaro pamatas {ENG} fundament of hangar</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Historic site</ox:tag>
+            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="20.9816333" lat="56.3823167">
-        <time>2011-04-14T02:49:03.000-05:00</time>
+        <time>2011-04-14T07:49:03.000Z</time>
         <name>OX26V5P</name>
         <desc>Bernati lighthouse by bonuxs, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX26V5P</url>
@@ -545,25 +692,22 @@ Powodzenia!</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">[LV]
-Baka ir 21 m augsts metala režgu tornis ar sarkanu delu apšuvumu un laternu gala.
-Gaismas signals balts: 2 s deg, 2 s nedeg.
-Gaismas redzamiba, juras judzes (1 M = 1852m): 15
-
-[EN] 
-Lighthouse is 21 m tall square cylindrical steel skeletal Red planking tower with lantern and gallery.
-Focal plane is at 41 m. White light 2 s on, 2 s off.
-Range of light in nautical miles (1 M = 1852 m): 15
-Cache is typical film container
-
-
-Note:
-[LV] ludzu liekot slepni vieta parliecinieties, vai tas ir nolikts tapat ka panemat un turas sava vieta!
-[EN] please put the cache back in place carefully and make sure that it holds there properly and doesnt fall off!
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">[LV]&lt;br/&gt;Baka ir 21 m augsts metala režgu tornis ar sarkanu delu apšuvumu un laternu gala.&lt;br/&gt;Gaismas signals balts: 2 s deg, 2 s nedeg.&lt;br/&gt;Gaismas redzamiba, juras judzes (1 M = 1852m): 15&lt;br/&gt;&lt;br/&gt;[EN] &lt;br/&gt;Lighthouse is 21 m tall square cylindrical steel skeletal Red planking tower with lantern and gallery.&lt;br/&gt;Focal plane is at 41 m. White light 2 s on, 2 s off.&lt;br/&gt;Range of light in nautical miles (1 M = 1852 m): 15&lt;br/&gt;Cache is typical film container&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Note:&lt;br/&gt;[LV] ludzu liekot slepni vieta parliecinieties, vai tas ir nolikts tapat ka panemat un turas sava vieta!&lt;br/&gt;[EN] please put the cache back in place carefully and make sure that it holds there properly and doesnt fall off!&lt;br/&gt;</groundspeak:long_description>
             <groundspeak:logs>
+                <groundspeak:log id="1991872">
+                    <groundspeak:date>2011-04-16T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7109">IVSS_XX</groundspeak:finder>
+                    <groundspeak:text encoded="False">9:18
+AKA CITO-komandu - VM.turists, Gatisk, irbits, Take_Off, kasparssp, antra, Inez Rodriguez
+
+Baaka stipri atgadinaja Lielupes baaku, kur ari bija slepnis.
+Žel, ka pati augša ciet.
+
+Un ari muus uz baku aizveda 'local black dog' kuru iepriekš mineja ilze, laikam slepnja sargsuns.</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1431047">
-                    <groundspeak:date>2011-04-13T16:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-04-13T21:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="3138">wellstar</groundspeak:finder>
                     <groundspeak:text encoded="False">Tā kā šis ir analogs - http://coord.info/GC26V5P, tad bez sirdsapziņas pārmetumiem  pielogosu arī šeit!!! :D</groundspeak:text>
@@ -577,17 +721,10 @@ Note:
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>not suitable for wheelchairs</ox:tag>
-                <ox:tag>horses allowed</ox:tag>
-                <ox:tag>scenic view. available 24/7</ox:tag>
-                <ox:tag>bikes allowed</ox:tag>
-                <ox:tag>NO KIDS</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="20.24025" lat="63.8068333">
-        <time>2009-02-15T02:00:00.000-06:00</time>
+        <time>2009-02-15T08:00:00.000Z</time>
         <name>OX1MQ60</name>
         <desc>Slätten by ERIA, Traditional Cache(1.0/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1MQ60</url>
@@ -602,26 +739,23 @@ Note:
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Röbäcksslätten – en av Sveriges största jordbruksslätter. De sammanhängande odlingsmarkerna Röbäcks- och Degernässlätterna med sina närmare 1200 ha öppna odlingsmarker utgör Norrlands största jordbruksbygd. Slätterna består med sina ler- och sandjordar det som för några hundra år sedan var det gamla deltat.
-Umeälvens delta och jordbruksslätterna är ett mycket viktigt rastområde för flyttande våtmarksfåglar. Deltats värde som rastlokal har uppmärksammats internationellt genom den s.k. Ramsarkonventionen (Convention on Wetlands,) om skydd av våtmarker. Dessutom har den internationella fågelskyddsorganisationen Bird Life International pekat ut Umeälvens delta som ett internationellt värdefullt område. 
-Cachen innehåller från början förutom en logbok några bytessaker samt en TB 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Röbäcksslätten – en av Sveriges största jordbruksslätter. De sammanhängande odlingsmarkerna Röbäcks- och Degernässlätterna med sina närmare 1200 ha öppna odlingsmarker utgör Norrlands största jordbruksbygd. Slätterna består med sina ler- och sandjordar det som för några hundra år sedan var det gamla deltat.&lt;br/&gt;Umeälvens delta och jordbruksslätterna är ett mycket viktigt rastområde för flyttande våtmarksfåglar. Deltats värde som rastlokal har uppmärksammats internationellt genom den s.k. Ramsarkonventionen (Convention on Wetlands,) om skydd av våtmarker. Dessutom har den internationella fågelskyddsorganisationen Bird Life International pekat ut Umeälvens delta som ett internationellt värdefullt område. &lt;br/&gt;Cachen innehåller från början förutom en logbok några bytessaker samt en TB &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="527876">
-                    <groundspeak:date>2010-06-22T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-06-22T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="305">Silen_</groundspeak:finder>
                     <groundspeak:text encoded="False">Tog en kvälls promenad ut bland alla åkrar tillsammans med Insanire. Var en trevlig kväll och en mysig promenad. Väl på plats tog det inte många minuter innan jag hade hittat gömman. TFTC!</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1673945">
-                    <groundspeak:date>2010-06-19T17:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-06-19T22:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="71206">Stenhallarn</groundspeak:finder>
                     <groundspeak:text encoded="False">Har precis upptäckt Opencaching.com, men har ju loggat denna genom geocaching.com, så jag loggar den även här (2011-11-12).</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="724220">
-                    <groundspeak:date>2009-04-13T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2009-04-13T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="4465">TeamJATA</groundspeak:finder>
                     <groundspeak:text encoded="False">#1073@13:09
@@ -638,13 +772,10 @@ TFTC SL</groundspeak:text>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>2.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag> available in Winter</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="20.3359667" lat="63.8100667">
-        <time>2011-09-02T13:42:10.000-05:00</time>
+        <time>2011-09-02T18:42:10.000Z</time>
         <name>OXZTQPM</name>
         <desc>Tomtebo by Circo, Traditional Cache(2.5/1.3/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTQPM</url>
@@ -662,7 +793,7 @@ TFTC SL</groundspeak:text>
             <groundspeak:long_description html="True">Nära en parkering och postlådor</groundspeak:long_description>
             <groundspeak:logs>
                 <groundspeak:log id="1676821">
-                    <groundspeak:date>2011-11-17T17:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2011-11-17T23:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Didn't find it</groundspeak:type>
                     <groundspeak:finder id="71206">Stenhallarn</groundspeak:finder>
                     <groundspeak:text encoded="False">Finns denna kvar?! Har varit och spanat lite vid koordsen, men inte hittat nåt uppenbart eller tokletat. Men om jag får bekräftat att den finns på plats, så ska jag göra ett riktigt försök!=)</groundspeak:text>
@@ -676,13 +807,17 @@ TFTC SL</groundspeak:text>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.3</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>chirp</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
             <ox:verification>
                 <ox:chirp>2611544</ox:chirp>
             </ox:verification>
         </ox:opencaching>
     </wpt>
     <wpt lon="20.2328833" lat="63.8164667">
-        <time>2005-05-05T02:00:00.000-05:00</time>
+        <time>2005-05-05T07:00:00.000Z</time>
         <name>OXNRVH</name>
         <desc>Tornet by ERIA, Traditional Cache(3.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXNRVH</url>
@@ -697,26 +832,24 @@ TFTC SL</groundspeak:text>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Har gjort en ny cache då den gamla försvunnit.
-Cachen är en micro som endast innehåller logbok och den är flyttad till ett nytt gömställe då den gamla gömman var &quot;uppnött&quot;. Cachen bör gå bra att hitta året om. 
-Passa även på att ta en runda på elljusspåret.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Har gjort en ny cache då den gamla försvunnit.&lt;br/&gt;Cachen är en micro som endast innehåller logbok och den är flyttad till ett nytt gömställe då den gamla gömman var &quot;uppnött&quot;. Cachen bör gå bra att hitta året om. &lt;br/&gt;Passa även på att ta en runda på elljusspåret.</groundspeak:long_description>
             <groundspeak:encoded_hints>Old</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="1673946">
-                    <groundspeak:date>2010-06-19T17:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-06-19T22:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="71206">Stenhallarn</groundspeak:finder>
                     <groundspeak:text encoded="False">Har precis upptäckt Opencaching.com, men har ju loggat denna genom geocaching.com, så jag loggar den även här (2011-11-12).</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="527834">
-                    <groundspeak:date>2009-09-13T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2009-09-13T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="305">Silen_</groundspeak:finder>
                     <groundspeak:text encoded="False">Efter en del sökande hittade jag den. Mycket skön gömma!!
 TFTC!!</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="722976">
-                    <groundspeak:date>2006-07-26T02:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2006-07-26T07:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="4465">TeamJATA</groundspeak:finder>
                     <groundspeak:text encoded="False">En mycket snygg gömma. Gick rakt på den och hade en otrolig tur att jag hittade den direkt. Den här kunde ha tagit mycket lång tid. TFTC</groundspeak:text>
@@ -733,7 +866,7 @@ TFTC!!</groundspeak:text>
         </ox:opencaching>
     </wpt>
     <wpt lon="20.2946333" lat="63.8196333">
-        <time>2008-11-18T02:00:00.000-06:00</time>
+        <time>2008-11-18T08:00:00.000Z</time>
         <name>OX1J3NW</name>
         <desc>Let's swing by Stratocaster, Traditional Cache(3.0/2.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1J3NW</url>
@@ -748,31 +881,30 @@ TFTC!!</groundspeak:text>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Gång- och cykelbron som förbinder östra delen av Umeå med sjukhus- och universitetsområdet kallas i folkmun för Svingen. Namnet har den fått för sin kurviga form som &quot;svingar&quot; sig från Kungsgatan upp mot sjukhuset. Tempot bland fotgängare och cyklister är högt. 2005 var detta den mest
-olycksdrabbade platsen i Umeå kommun så ta det försiktigt. Ta med penna.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Gång- och cykelbron som förbinder östra delen av Umeå med sjukhus- och universitetsområdet kallas i folkmun för Svingen. Namnet har den fått för sin kurviga form som &quot;svingar&quot; sig från Kungsgatan upp mot sjukhuset. Tempot bland fotgängare och cyklister är högt. 2005 var detta den mest&lt;br/&gt;olycksdrabbade platsen i Umeå kommun så ta det försiktigt. Ta med penna.</groundspeak:long_description>
             <groundspeak:encoded_hints>Liten i skymundan</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="605226">
-                    <groundspeak:date>2010-12-10T05:11:31.000-06:00</groundspeak:date>
+                    <groundspeak:date>2010-12-10T11:11:31.000Z</groundspeak:date>
                     <groundspeak:type>Additional Find</groundspeak:type>
                     <groundspeak:finder id="305">Silen_</groundspeak:finder>
                     <groundspeak:text encoded="False"/>
                 </groundspeak:log>
                 <groundspeak:log id="1673942">
-                    <groundspeak:date>2010-06-16T17:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-06-16T22:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="71206">Stenhallarn</groundspeak:finder>
                     <groundspeak:text encoded="False">Har precis upptäckt Opencaching.com, men har ju loggat denna genom geocaching.com, så jag loggar den även här (2011-11-12).</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="527923">
-                    <groundspeak:date>2009-11-22T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2009-11-22T20:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="305">Silen_</groundspeak:finder>
                     <groundspeak:text encoded="False">Var här en gång tidigare och sökte som en galning utan att hitta cachen. Nu behövde jag bara 15 sekunder innan jag fann den. Sist sökte jag alltså efter en cache som inte fanns. Börjar nu förstå vikten av att logga DNF.
 TFTC!</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="724206">
-                    <groundspeak:date>2009-04-13T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2009-04-13T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="4465">TeamJATA</groundspeak:finder>
                     <groundspeak:text encoded="False">#1074@13:33
@@ -789,13 +921,62 @@ TFTC SL</groundspeak:text>
                 <ox:size>1.6</ox:size>
                 <ox:terrain>2.6</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Available in winter</ox:tag>
-            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="20.2693167" lat="63.8293667">
+        <time>2008-12-17T08:00:00.000Z</time>
+        <name>OX1JYN5</name>
+        <desc>Art in Umeå # 9 by Stratocaster, Unknown Cache(2.5/1.7/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1JYN5</url>
+        <urlname>Art in Umeå # 9</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1488284">
+            <groundspeak:name>Art in Umeå # 9</groundspeak:name>
+            <groundspeak:placed_by>Stratocaster</groundspeak:placed_by>
+            <groundspeak:owner id="713">Stratocaster</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Koordinaterna ovan är falska&lt;br/&gt;eftersom detta är en mystery. Detta är den nionde i en serie av&lt;br/&gt;cachar, &quot;Art in Umeå&quot;, som är knuten till offentlig konst på det&lt;br/&gt;ena eller andra sättet. Den här bilden visar en detalj på&lt;br/&gt;konstverket. Spoilerbilden ArtInUme9V nedan är en&lt;br/&gt;extra ledtråd för att du ska lättare kunna hitta igen konstverket.&lt;br/&gt;Cachen är en micro som är gömd i konstverkets närhet. Micron&lt;br/&gt;innehåller en loggremsa och en penna. Svårigheten ökar med&lt;br/&gt;snödjupet&lt;br/&gt;&lt;br/&gt;Eng: The above coordinates are&lt;br/&gt;false since this is a mystery. This picture shows a detail on the&lt;br/&gt;art object. The spoiler picture ArtInUme9V below is&lt;br/&gt;taken somewhere nearby to give you a clue as to where the art&lt;br/&gt;object is located. The cache is hidden close to the art object. The&lt;br/&gt;cache holds a log paper and a pen. The difficulty increases with&lt;br/&gt;the depth of the snow. &lt;br/&gt; &lt;br/&gt; </groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="527945">
+                    <groundspeak:date>2010-03-14T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="305">Silen_</groundspeak:finder>
+                    <groundspeak:text encoded="False">Riktigt lurig gömma måste jag säga. Området visste jag direkt var det var någonstanns. Hade mina aningar vart gömman skulle vara på plats också. Gick ganska snabbt att hitta ändå. 
+
+TFTC!!</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.7</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>ArtInUme9V.jpg</ox:name>
+                    <ox:size>20392</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>ArtInUme9A.jpg</ox:name>
+                    <ox:size>23920</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
         </ox:opencaching>
     </wpt>
     <wpt lon="20.32615" lat="63.8410167">
-        <time>2006-06-27T02:00:00.000-05:00</time>
+        <time>2006-06-27T07:00:00.000Z</time>
         <name>OXWVAP</name>
         <desc>Tornet 2 by ERIA, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXWVAP</url>
@@ -810,33 +991,24 @@ TFTC SL</groundspeak:text>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Umeå vattentorn placerat på Marieberg 
-Lite fakta om vattentornet
-Reservoarvolym: 2500 m3
-Höjd: 33 m
-Färdigt år 1966
-Projektör: VBB
-Entrepenör: Samuelsson &amp; Bonnier
-Cachen är ett litet rör och innehåller endast logbok och penna 
- 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Umeå vattentorn placerat på Marieberg &lt;br/&gt;Lite fakta om vattentornet&lt;br/&gt;Reservoarvolym: 2500 m3&lt;br/&gt;Höjd: 33 m&lt;br/&gt;Färdigt år 1966&lt;br/&gt;Projektör: VBB&lt;br/&gt;Entrepenör: Samuelsson &amp; Bonnier&lt;br/&gt;Cachen är ett litet rör och innehåller endast logbok och penna &lt;br/&gt; &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="297407">
-                    <groundspeak:date>2010-06-25T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-06-25T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="383">auban</groundspeak:finder>
                     <groundspeak:text encoded="False">Togs under en av många cykelturer denna underbara helg.
 Loggades tillsammans med emengo och 2xUrbanlegend.</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1673941">
-                    <groundspeak:date>2010-05-07T17:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-05-07T22:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="71206">Stenhallarn</groundspeak:finder>
                     <groundspeak:text encoded="False">Har precis upptäckt Opencaching.com, men har ju loggat denna genom geocaching.com, så jag loggar den även här (2011-11-12).</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="527776">
-                    <groundspeak:date>2009-08-04T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2009-08-04T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="305">Silen_</groundspeak:finder>
                     <groundspeak:text encoded="False">Sprang på den direkt, blev inte mer än 10 sekunders sökande. Finns inga fler linjer kvar på loggremsan. Skrev på lite av det vita utrymme som fanns kvar, iof finns hela baksidan på lappen också men där är det inte linjerat. Kanske dags för en ny lista sen en vässning av pennan som var svår att skriva med.
@@ -844,7 +1016,7 @@ Loggades tillsammans med emengo och 2xUrbanlegend.</groundspeak:text>
 TFTC!!</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="723248">
-                    <groundspeak:date>2006-07-14T02:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2006-07-14T07:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="4465">TeamJATA</groundspeak:finder>
                     <groundspeak:text encoded="False">Det här var en mycket liten cache. Efter 40 minuter var den till sist funnen. Här finns plats för något större.
@@ -859,15 +1031,12 @@ TFTC</groundspeak:text>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Not Available in Winter</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="20.9422667" lat="64.0884167">
-        <time>2006-07-27T03:00:00.000-05:00</time>
+        <time>2006-07-27T08:00:00.000Z</time>
         <name>OXXC5D</name>
-        <desc>Nättingforsen by TeamJATA, Traditional Cache(2.0/2.5/3.5)</desc>
+        <desc>Nättingforsen by TeamJATA, Traditional Cache(2.0/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXXC5D</url>
         <urlname>Nättingforsen</urlname>
         <sym>Geocache</sym>
@@ -880,29 +1049,20 @@ TFTC</groundspeak:text>
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Besök Nättingforsen en del av Rickleå älvdal med mycket fint fiske. En lätt promenad längs ån. Burken innehålller diverse bytes artiklar och är tillgänglig på vintern. terräng faktorn ökar om det är mycket snö.
-Make a visit to the Nättingforsen a part of Rickleå Älvdal with very good fishing possibilities. A short walk along the river. The box contains some trading items and is available at winter. The terrain factor will increase if there is a lot of snow.
-
-Additional Waypoints
-Nättingforsen, Parkering
-N 64° 05.241 E 020° 56.262 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Besök Nättingforsen en del av Rickleå älvdal med mycket fint fiske. En lätt promenad längs ån. Burken innehålller diverse bytes artiklar och är tillgänglig på vintern. terräng faktorn ökar om det är mycket snö.&lt;br/&gt;Make a visit to the Nättingforsen a part of Rickleå Älvdal with very good fishing possibilities. A short walk along the river. The box contains some trading items and is available at winter. The terrain factor will increase if there is a lot of snow.&lt;br/&gt;&lt;br/&gt;Additional Waypoints&lt;br/&gt;Nättingforsen, Parkering&lt;br/&gt;N 64° 05.241 E 020° 56.262 &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Träd/Tree</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>2.0</ox:difficulty>
                 <ox:size>4.0</ox:size>
                 <ox:terrain>2.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Scenic Views</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="20.9666" lat="64.1423667">
-        <time>2007-07-26T03:00:00.000-05:00</time>
+        <time>2007-07-26T08:00:00.000Z</time>
         <name>OX14N6T</name>
         <desc>Sågverksön by TeamJATA, Traditional Cache(3.0/3.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX14N6T</url>
@@ -917,11 +1077,7 @@ N 64° 05.241 E 020° 56.262
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">Sågverksön ligger i Legdeåviken. På denna ö i viken låg det till 50-talet ett sågverk och en liten hamn. Rester av hamnen ser man på botten längs stranden, det ligger tonvis med virke från bryggan som låg där. Ön ligger i anslutning till fastlandet, med bro. Nuförtiden är ön och viken täckt med sommarstugor.
-
-An old saw mill and an old harbour was situated on the small island during the 1950:s. You can see remains of the harbour among the shoreline and in the harbour where there are tons of wood on the bottom. The island is connected with the mainland with a bridge and nowdays the island is covered with summer cottages. 
- 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Sågverksön ligger i Legdeåviken. På denna ö i viken låg det till 50-talet ett sågverk och en liten hamn. Rester av hamnen ser man på botten längs stranden, det ligger tonvis med virke från bryggan som låg där. Ön ligger i anslutning till fastlandet, med bro. Nuförtiden är ön och viken täckt med sommarstugor.&lt;br/&gt;&lt;br/&gt;An old saw mill and an old harbour was situated on the small island during the 1950:s. You can see remains of the harbour among the shoreline and in the harbour where there are tons of wood on the bottom. The island is connected with the mainland with a bridge and nowdays the island is covered with summer cottages. &lt;br/&gt; &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Under, open it.</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -931,15 +1087,12 @@ An old saw mill and an old harbour was situated on the small island during the 1
                 <ox:size>3.0</ox:size>
                 <ox:terrain>3.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Available in winter</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="20.9425833" lat="64.1703833">
-        <time>2006-07-15T03:00:00.000-05:00</time>
+        <time>2006-07-15T08:00:00.000Z</time>
         <name>OXX5D2</name>
-        <desc>Den lilla brandstationen by TeamJATA, Traditional Cache(1.0/2.0/3.5)</desc>
+        <desc>Den lilla brandstationen by TeamJATA, Traditional Cache(1.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXX5D2</url>
         <urlname>Den lilla brandstationen</urlname>
         <sym>Geocache</sym>
@@ -952,19 +1105,11 @@ An old saw mill and an old harbour was situated on the small island during the 1
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>1</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Detta är Sveriges minsta brandstation (Guinness rekordbok 2001).
-Brandstationen byggdes 1901. Sedan slutet på 40-talet har huset stått orört och successivt förfallit, men 1993 tog Legdeå/Sikeå intresseförening initiativet att bevara huset och att återställa det i ursprungligt skick.
-
-This is Sweden’s smallest fire station (Guinness Book of record 2001).
-The fire station was built in 1901. Since the end of the 40s the house has been standing untouched and slowly decayed, but in 1993 the community decided to preserve the house and to restore it.
-
-Changed location on 2009-01-02, now it is available in winter. 
- 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Detta är Sveriges minsta brandstation (Guinness rekordbok 2001).&lt;br/&gt;Brandstationen byggdes 1901. Sedan slutet på 40-talet har huset stått orört och successivt förfallit, men 1993 tog Legdeå/Sikeå intresseförening initiativet att bevara huset och att återställa det i ursprungligt skick.&lt;br/&gt;&lt;br/&gt;This is Sweden’s smallest fire station (Guinness Book of record 2001).&lt;br/&gt;The fire station was built in 1901. Since the end of the 40s the house has been standing untouched and slowly decayed, but in 1993 the community decided to preserve the house and to restore it.&lt;br/&gt;&lt;br/&gt;Changed location on 2009-01-02, now it is available in winter. &lt;br/&gt; &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Ännu mindre hus/Even smaller house</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="699488">
-                    <groundspeak:date>2010-07-26T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-07-26T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="1259">D-BUDDI</groundspeak:finder>
                     <groundspeak:text encoded="False">Super, men de hoppas att de cachar igen! Var riktigt kul, tack!
@@ -974,7 +1119,7 @@ I Coin, som finns i Nordkap, bra framåt.
 Tack, Jörg</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="297403">
-                    <groundspeak:date>2009-09-13T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2009-09-13T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="383">auban</groundspeak:finder>
                     <groundspeak:text encoded="False">Hittad lätt påväg hem. Detta fick bli den sista för helgen, totalt kring 60 st =D
@@ -984,18 +1129,15 @@ Loggad med Lulegänget.</groundspeak:text>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>1.0</ox:difficulty>
                 <ox:size>4.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Should Be Available In The Winter Months</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="20.8526667" lat="64.18485">
-        <time>2007-07-27T03:00:00.000-05:00</time>
+        <time>2007-07-27T08:00:00.000Z</time>
         <name>OX14NTD</name>
         <desc>Bruket by TeamJATA, Multi-cache(2.0/2.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX14NTD</url>
@@ -1010,61 +1152,7 @@ Loggad med Lulegänget.</groundspeak:text>
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Besök Robertsfors bruk och klara av en
-enkel multi med tre delsteg och en slutgömma. Multin leder dig på en promenad runt
-bruksområdet och tar ca 45 minuter
-Visit Robertsfors bruk and do a simple multi. The multi will lead you
-through the area and it will take about 45 minutes
-
-Delstegen hittas
-genom att lösa följande:
-The different steps can be found by solving the following: 
-P1      N64° 11.{(108*BB)–AA} 
-          E020° 50.{CCCC-(AA*195)+1} 
-P2      N64° 11.{(DD*19)-BB} 
-          E020° 51.{DD+1}
-P3      N64° 11.{(EE*14)-1} 
-          E020 51.{(EE*22)+(2*AA)+1}
-Final   N64° 11.{GG-FF-DD+(3*AA)} 
-          E020° 51.{(2*GG)+FF+EE+DD+(2*AA)+BB+1} 
-
-Vid startkoordinaterna, där du
-lämpligen lämnar bilen för att promenera hittar du
-en skylt som beskriver invigningen av museet. Utgå från
-tidpunkten när museet invigdes. 
-At the start coordinates, where you can park the car and then walk, you will find a sign showing when this museum was inaugurated AA=Månad/Month 
-BB=Dag/Day 
-CCCC=År/Year 
-
-Vid delsteg P1 hittar du en plats med ett antal
-dörrar med nummer över dem. 
-At step P1 you willfinda place with doors with numbers over them. 
-DD= Det högsta numret./The highest number 
-
-Vid delsteg P2 skall du se hur många personer som samtidigt får vistas
-här. 
-At step P2 you should see how many persons that are allowed at
-once. 
-EE=Antal personer/Number of persons 
-
-Vid delsteg P3 gäller det att svara på när detta hus
-byggdes. 
-At step P3 you need to find out when this house was
-built.
-FFGG=Årtalet/The Year 
-
-Därefter är det bara att räkna fram var slutgömman ligger som Final. Vid Finalen ligger en Glasslåda i en påse innehållande diverse
-bytesartiklar.
-After this you an calculate the final coordinates. It is a box in a plastic
-bag. 
-
-Det finns beskrivande skyltar runt omkring
-bruksområdet vilket ger information om de hus som finns och
-vad de har använts till. Besök gärna bruksmuseet som
-är den del av Ostriket. 
-There are ifferent signs in the area describing the history. You can also
-visit the Bruksmuseum that is a part of
-Ostriket.       </groundspeak:long_description>
+            <groundspeak:long_description html="True">Besök Robertsfors bruk och klara av en&lt;br/&gt;enkel multi med tre delsteg och en slutgömma. Multin leder dig på en promenad runt&lt;br/&gt;bruksområdet och tar ca 45 minuter&lt;br/&gt;Visit Robertsfors bruk and do a simple multi. The multi will lead you&lt;br/&gt;through the area and it will take about 45 minutes&lt;br/&gt;&lt;br/&gt;Delstegen hittas&lt;br/&gt;genom att lösa följande:&lt;br/&gt;The different steps can be found by solving the following: &lt;br/&gt;P1      N64° 11.{(108*BB)–AA} &lt;br/&gt;          E020° 50.{CCCC-(AA*195)+1} &lt;br/&gt;P2      N64° 11.{(DD*19)-BB} &lt;br/&gt;          E020° 51.{DD+1}&lt;br/&gt;P3      N64° 11.{(EE*14)-1} &lt;br/&gt;          E020 51.{(EE*22)+(2*AA)+1}&lt;br/&gt;Final   N64° 11.{GG-FF-DD+(3*AA)} &lt;br/&gt;          E020° 51.{(2*GG)+FF+EE+DD+(2*AA)+BB+1} &lt;br/&gt;&lt;br/&gt;Vid startkoordinaterna, där du&lt;br/&gt;lämpligen lämnar bilen för att promenera hittar du&lt;br/&gt;en skylt som beskriver invigningen av museet. Utgå från&lt;br/&gt;tidpunkten när museet invigdes. &lt;br/&gt;At the start coordinates, where you can park the car and then walk, you will find a sign showing when this museum was inaugurated AA=Månad/Month &lt;br/&gt;BB=Dag/Day &lt;br/&gt;CCCC=År/Year &lt;br/&gt;&lt;br/&gt;Vid delsteg P1 hittar du en plats med ett antal&lt;br/&gt;dörrar med nummer över dem. &lt;br/&gt;At step P1 you willfinda place with doors with numbers over them. &lt;br/&gt;DD= Det högsta numret./The highest number &lt;br/&gt;&lt;br/&gt;Vid delsteg P2 skall du se hur många personer som samtidigt får vistas&lt;br/&gt;här. &lt;br/&gt;At step P2 you should see how many persons that are allowed at&lt;br/&gt;once. &lt;br/&gt;EE=Antal personer/Number of persons &lt;br/&gt;&lt;br/&gt;Vid delsteg P3 gäller det att svara på när detta hus&lt;br/&gt;byggdes. &lt;br/&gt;At step P3 you need to find out when this house was&lt;br/&gt;built.&lt;br/&gt;FFGG=Årtalet/The Year &lt;br/&gt;&lt;br/&gt;Därefter är det bara att räkna fram var slutgömman ligger som Final. Vid Finalen ligger en Glasslåda i en påse innehållande diverse&lt;br/&gt;bytesartiklar.&lt;br/&gt;After this you an calculate the final coordinates. It is a box in a plastic&lt;br/&gt;bag. &lt;br/&gt;&lt;br/&gt;Det finns beskrivande skyltar runt omkring&lt;br/&gt;bruksområdet vilket ger information om de hus som finns och&lt;br/&gt;vad de har använts till. Besök gärna bruksmuseet som&lt;br/&gt;är den del av Ostriket. &lt;br/&gt;There are ifferent signs in the area describing the history. You can also&lt;br/&gt;visit the Bruksmuseum that is a part of&lt;br/&gt;Ostriket.       </groundspeak:long_description>
             <groundspeak:encoded_hints>P1: Garagedörrar/Garage DoorsP2: Titta upp/Look UpP3: Titta upp/Look upFinal: Under i hörnet/Under in the corner</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -1077,7 +1165,7 @@ Ostriket.       </groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="20.8511333" lat="64.1885167">
-        <time>2006-07-27T03:00:00.000-05:00</time>
+        <time>2006-07-27T08:00:00.000Z</time>
         <name>OXXC5T</name>
         <desc>Hängbron by TeamJATA, Traditional Cache(2.4/2.2/3.1)</desc>
         <url>http://www.opencaching.com/#geocache/OXXC5T</url>
@@ -1092,15 +1180,11 @@ Ostriket.       </groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">En bro värt ett besök. Besök gärna bruksmiljön som finns runt omkring.
-A bridge worth a visit.
-Hiding place changed on 4th of August 2008 and container changed to micro. 
- 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">En bro värt ett besök. Besök gärna bruksmiljön som finns runt omkring.&lt;br/&gt;A bridge worth a visit.&lt;br/&gt;Hiding place changed on 4th of August 2008 and container changed to micro. &lt;br/&gt; &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Low, magnetic, south side</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="1299447">
-                    <groundspeak:date>2011-06-25T06:54:34.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-06-25T11:54:34.000Z</groundspeak:date>
                     <groundspeak:type>Additional Find</groundspeak:type>
                     <groundspeak:finder id="39790">joel g</groundspeak:finder>
                     <groundspeak:text encoded="False">Mycket bra gömd. Krävs en hel del intelligens, smidighet och räckvidd. KUL KUL. 
@@ -1110,7 +1194,7 @@ Bara att fortsätta att leta efter fler cacher.
 </groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1299441">
-                    <groundspeak:date>2011-06-24T17:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-06-24T22:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="39790">joel g</groundspeak:finder>
                     <groundspeak:text encoded="False">Vi gjorde vår första geocaching försök idag.... Tyvärr hittade vi inget, trots att vi försökte leta ordentligt i ca 45 min. Så kanske är vi för dåliga geocachers eller så kanske den är borta. Vi försökte följa den ledtråd vi hittade. Low, magnetic södra sidan. Vi undrar lite vilken sida som är den södra? Finns den mitt på bron eller vid brofästet?? Vi får gärna lite tips om nån vet vart den finns. Kanske the Owner borde kolla till den.
@@ -1129,13 +1213,10 @@ Lycka till alla övriga letare.
                 <ox:size>2.0</ox:size>
                 <ox:terrain>2.2</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>scenic</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="20.8696333" lat="64.1891667">
-        <time>2006-07-27T03:00:00.000-05:00</time>
+        <time>2006-07-27T08:00:00.000Z</time>
         <name>OXXC5M</name>
         <desc>Tornet by TeamJATA, Traditional Cache(2.5/2.7/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXXC5M</url>
@@ -1150,13 +1231,11 @@ Lycka till alla övriga letare.
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Besök vattentornet och få en fin utsikt över Robertsfors.
-Visit the water tower in Robertsfors and have a nice view. Available in winter 
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Besök vattentornet och få en fin utsikt över Robertsfors.&lt;br/&gt;Visit the water tower in Robertsfors and have a nice view. Available in winter &lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Hole in rock behind wooden log /Hål i bergssidan bakom  vedträd</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="1299449">
-                    <groundspeak:date>2011-06-25T06:59:47.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-06-25T11:59:47.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="39790">joel g</groundspeak:finder>
                     <groundspeak:text encoded="False">Vi hittade våran första cache. Kul och spännande. Inte ovanligt ställe för oss, vi hade varit där förr fast inte på skattjakt. Mycket kul det här. Nu blir det att jag fler cacher. 
@@ -1174,14 +1253,10 @@ Tack tack.
                 <ox:size>3.9</ox:size>
                 <ox:terrain>2.7</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Scenic View</ox:tag>
-                <ox:tag>Not Winter Friendly</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="20.2893" lat="67.8471667">
-        <time>2011-06-21T13:02:09.000-05:00</time>
+        <time>2011-06-21T18:02:09.000Z</time>
         <name>OXZTTJZ</name>
         <desc>GEO2 by Giron, Traditional Cache(2.5/1.0/2.8)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTTJZ</url>
@@ -1200,13 +1275,13 @@ Tack tack.
             <groundspeak:encoded_hints>Not like the bird or in the center...</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="1303759">
-                    <groundspeak:date>2011-06-29T13:51:44.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-06-29T18:51:44.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="41228">AKEM1</groundspeak:finder>
                     <groundspeak:text encoded="False">Hittade min första cache idag kl20,15 Åke Kemi</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1303708">
-                    <groundspeak:date>2011-06-29T03:19:52.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-06-29T08:19:52.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="38425">hagtor</groundspeak:finder>
                     <groundspeak:text encoded="False">FTF Hittade denna idag kl.09.20 Cachen saknar loggbok, skrev därför bara mitt alias på ett löst papper. Inget byte
@@ -1222,7 +1297,7 @@ Hälsningar: Torbjörn Hågstrand Kiruna alias:hagtor  TFTC</groundspeak:text>
                 <ox:terrain>1.0</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>Not available on w inter</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
             </ox:tags>
         </ox:opencaching>
     </wpt>

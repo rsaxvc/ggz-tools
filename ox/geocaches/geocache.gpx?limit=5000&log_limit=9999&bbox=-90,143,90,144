@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>2 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,143,90,144</url>
-    <time>2012-01-04T09:33:05.731-06:00</time>
+    <time>2012-12-19T23:02:29.877Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="144.0" maxlat="90.0" minlon="143.0" minlat="-90.0"/>
     <wpt lon="143.77096" lat="-36.5090833">
-        <time>2010-12-25T06:18:27.000-06:00</time>
+        <time>2010-12-25T12:18:27.000Z</time>
         <name>OX29KHZ</name>
         <desc>Wail Watching by honeysucker, Traditional Cache(1.6/2.0/2.9)</desc>
         <url>http://www.opencaching.com/#geocache/OX29KHZ</url>
@@ -24,14 +24,10 @@
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">A white container hidden well in a secluded area
-
-No wails here today just some trucks screaming passed on their endless journey.
-from the Cache you can see the small township of Wail
-Situated on the edge of the Wail State forest a good practice area for off road 4wd driving in sand, very close is the wail nursery which has a large selection of native plants.</groundspeak:long_description>
+            <groundspeak:long_description html="True">A white container hidden well in a secluded area&lt;br/&gt;&lt;br/&gt;No wails here today just some trucks screaming passed on their endless journey.&lt;br/&gt;from the Cache you can see the small township of Wail&lt;br/&gt;Situated on the edge of the Wail State forest a good practice area for off road 4wd driving in sand, very close is the wail nursery which has a large selection of native plants.</groundspeak:long_description>
             <groundspeak:logs>
                 <groundspeak:log id="1425465">
-                    <groundspeak:date>2011-04-18T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-04-18T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="921">FIRESAFE</groundspeak:finder>
                     <groundspeak:text encoded="False">Found an the way home from the Pre-Easter Event.
@@ -39,14 +35,25 @@ Situated on the edge of the Wail State forest a good practice area for off road 
 Didnt spot any wails here today. TFTC. [:D]</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1240317">
-                    <groundspeak:date>2011-03-24T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-03-24T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="8334">mtbikeroz</groundspeak:finder>
                     <groundspeak:text encoded="False">Found with MtnLioness on our drive from Melb to Adel.
 No wails spotted, but crossed the w(r)ail climbed the hill wa(i)y up high found cache, then went to get back in car and found white mud all over shoes. WAIL OH WAIL, white mud on black carpet in car [:D]. But plenty of grass nearby, all good, TFTC.</groundspeak:text>
                 </groundspeak:log>
+                <groundspeak:log id="1830052">
+                    <groundspeak:date>2010-10-29T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="122312">DATRUK</groundspeak:finder>
+                    <groundspeak:text encoded="False">1740hrs
+
+After making my way to Horsham I teamed up with fellow cacher, Honeysucker, and headed out to clean up the local caches.
+
+TNLNSL
+TFTC</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1163873">
-                    <groundspeak:date>2010-10-02T09:30:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-10-02T14:30:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="10260">dazzpete</groundspeak:finder>
                     <groundspeak:text encoded="False">Took a coupe of different tracks before we settled on one, in the end we had to cross the tracks to get to GZ so we probably chose the wrong one. geoD looked straight at the prize but didn't see it until his second search.
@@ -56,7 +63,7 @@ Left GC
 </groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1198149">
-                    <groundspeak:date>2010-07-15T02:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-07-15T07:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="16067">ROMAX</groundspeak:finder>
                     <groundspeak:text encoded="False">We found this one last year and only noticed it appear on this website recently although the co-ordinates listed here at this point in time are around 150kms east on a line of latitude much closer to our caching base!
@@ -65,7 +72,7 @@ Cheers,
 from Romax</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="243413">
-                    <groundspeak:date>2010-06-13T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-06-13T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="2664">dessek</groundspeak:finder>
                     <groundspeak:text encoded="False">With the post-walk barbie waiting, time was short and the two Wail caches were still on the priority list.  LZZ(m) was able to give us the spur we needed and we were soon logging the find at 16:15.
@@ -80,6 +87,64 @@ TNLNSL, although our BYO pen geocoin had a visit to mark the occasion.  Thanks h
                 <ox:difficulty>1.6</ox:difficulty>
                 <ox:size>2.7</ox:size>
                 <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="143.935083" lat="-38.368833">
+        <time>2009-01-08T08:00:00.000Z</time>
+        <name>OX1KJJ9</name>
+        <desc>Bambra Wetlands by vkc1sr, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1KJJ9</url>
+        <urlname>Bambra Wetlands</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1507415">
+            <groundspeak:name>Bambra Wetlands</groundspeak:name>
+            <groundspeak:placed_by>vkc1sr</groundspeak:placed_by>
+            <groundspeak:owner id="110408">vkc1sr</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Suggested Parking: S38.22.081 E143.56.209 This will have you off
+the main road which can be very busy at times, please take
+care.
+ &lt;br /&gt;&lt;br /&gt; Welcome to Bambra Wetlands and another cache brought to you by Mrs
+1SR. 
+&lt;p&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Unfortunately I can not find any info on the wetlands. It is a
+bit dry at the moment but that has not stopped the bird life. There
+is a small gravell path (few weeds on it) winding its way around
+native flora. The majority of trees and bushes have small name
+plates so you know what they are. Take your time and walk around
+(doesnt take long about 200m circuit) and watch the birds. We
+spotted an owl in one tree while placing the cache.&lt;/p&gt;
+
+ 
+&lt;p&gt;You are looking for a 1lt sistema container with the usual
+goodies. Enjoy!!!&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>base of eucalyptus yarra</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2151389">
+                    <groundspeak:date>2011-02-20T20:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2664">dessek</groundspeak:finder>
+                    <groundspeak:text encoded="False">This one was too close to pass by while taking the back way home from our bushwalk today so I dropped in for a look.  The coordinates had me in the swampy area so after a peek at the hint, I was soon logging the find at 17:55 about 8 metres from the GZ I was reading.
+
+What a pleasant spot [:)].  I wonder how many people know this is here; well, at least one more does now [;)].  I remember coming down to our school camp in this general area many years ago, although it was a bit further along the road.
+
+TNLNSL, although our BYO pen geocoin had a visit to mark the occasion.  Thanks VKC1SR.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
         </ox:opencaching>
     </wpt>

@@ -1,15 +1,129 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>5 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,34,90,35</url>
-    <time>2012-01-04T09:32:20.886-06:00</time>
+    <time>2012-12-19T22:52:37.778Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="35.0" maxlat="90.0" minlon="34.0" minlat="-90.0"/>
+    <wpt lon="34.9978" lat="-2.832783">
+        <time>2012-07-16T07:00:00.000Z</time>
+        <name>OX3QX6V</name>
+        <desc>SERENGETI Naabi Hill Gate by TheCacheCat, Traditional Cache(1.5/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3QX6V</url>
+        <urlname>SERENGETI Naabi Hill Gate</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3482876">
+            <groundspeak:name>SERENGETI Naabi Hill Gate</groundspeak:name>
+            <groundspeak:placed_by>TheCacheCat</groundspeak:placed_by>
+            <groundspeak:owner id="164808">TheCacheCat</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br /&gt;
+&lt;br /&gt;
+This is a Water Tight Film Canister and only contains the log. Bring your own pencil.
+
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;SERENGETI Naabi Hill Gate&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The Serengeti is Tanzania's oldest national park and remains the flagship of the country’s tourism industry, providing a major draw to the “Northern Safari Circuit” and covers 14,763 km2 (5,700 sq mi) of grassland plains and savannas as well as riverine forest and woodlands.&lt;br /&gt;
+&lt;br /&gt;
+There are two principal entry points into the Serengeti National Park, the most heavily used at Naabi Hill Gate between Ngorongoro and the park, and the other into the western corridor at Ndabaka Gate close to the eastern shore of Lake Victoria. On most maps the Bologonja Gate, at the border between Serengeti and Masai Mara, is marked but entry here is not recommended. People have been turned back at the border, as it is no longer an official crossing point.&lt;br /&gt;
+&lt;br /&gt;
+The cache is located nearby the top of the Naabi Hill between some rocks, please find attached spoiler pics. You can head the scenic view trail, starts at the gift shop. On the top of the hill you will find a breathtaking view over Serengeti National Park.&lt;br /&gt;
+&lt;br /&gt;
+The cache is INSIDE the park, so you have to pay entry fee, but it is worth it anyway! Be aware, that you are in the wild between potentially dangerous animals! Don't go alone, don't go too far from other people, keep in sight! You're on your own risk!&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Please visit all my other caches!!!&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Stealth required!&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Happy GeoCaching&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;TheCacheCat  &lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;a href=&quot;http://s07.flagcounter.com/more/uI1q&quot;&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;/b&gt;&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>covered with a stone slab</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="34.7709" lat="32.0627167">
+        <time>2012-04-24T23:33:42.000Z</time>
+        <name>OXZTJNN</name>
+        <desc>Independence Treasure Hunt by ebagpsil, Traditional Cache(2.6/1.6/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTJNN</url>
+        <urlname>Independence Treasure Hunt</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28468375">
+            <groundspeak:name>Independence Treasure Hunt</groundspeak:name>
+            <groundspeak:placed_by>ebagpsil</groundspeak:placed_by>
+            <groundspeak:owner id="111640">ebagpsil</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Our annual Independence Day Treasure Hunt brings us this year to Tel-Aviv. The Cache is located by an historical land mark. Do not log the name of the land mark !!!!&lt;br/&gt;&lt;br/&gt;Yom Ha'atzmaut (Independence Day) centres around the declaration of the establishment of the State of Israel by The Jewish Leadership led by future Prime Minister, David Ben-Gurion, on 14 May 1948. This was declared 8 hours before the end of the British Mandate of Palestine, which was due to finish on 15 May 1948. (visit link)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Cache is a small plastic box that contains the log book , pencil &amp; goodies for the cacher.&lt;br/&gt;found under a group of stones.&lt;br/&gt;&lt;br/&gt;Make sure you hide the cache well after you uncover it.&lt;br/&gt;&lt;br/&gt;If you are unable to access the cache send me the sum of the 3 numbers found on the white plaque to the right of the main entrance of the historical land mark.&lt;br/&gt;&lt;br/&gt;N 32° 03.762 E 034° 46.254  </groundspeak:long_description>
+            <groundspeak:encoded_hints> It is covered with a group of  stones by the cooling unit. When you reached the bench its just a few steps away. </groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1789346">
+                    <groundspeak:date>2012-04-25T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="112056">ov.traveler</groundspeak:finder>
+                    <groundspeak:text encoded="False">Great cache
+Sneaked behind the guard to the spot :)
+</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>3.3</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>One Step back.jpg</ox:name>
+                    <ox:size>115038</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Hidden.jpg</ox:name>
+                    <ox:size>115790</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>IMAG0534.jpg</ox:name>
+                    <ox:size>97640</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
     <wpt lon="34.7751333" lat="32.0821333">
-        <time>2011-06-09T09:33:48.000-05:00</time>
+        <time>2011-06-09T14:33:48.000Z</time>
         <name>OX2XWYZ</name>
         <desc>Forest Hill Cache by cowchimp, Traditional Cache(1.6/1.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2XWYZ</url>
@@ -24,10 +138,7 @@
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">A small cache that waits for you in a quiet little garden.
-The public garden is located close to Dizengoff street at the center of Tel-Aviv.
-During the day, this public city garden is visited mostly by parents taking their little children to the park. You can still try to find the cache during this hours because it can be retrieved without attracting much attention.
-The cache is a small metal box inside a see-through plastic bag. Inside is a logbook and some small gifts. Feel free to take something if you leave something of equal or greater value.</groundspeak:long_description>
+            <groundspeak:long_description html="True">A small cache that waits for you in a quiet little garden.&lt;br/&gt;The public garden is located close to Dizengoff street at the center of Tel-Aviv.&lt;br/&gt;During the day, this public city garden is visited mostly by parents taking their little children to the park. You can still try to find the cache during this hours because it can be retrieved without attracting much attention.&lt;br/&gt;The cache is a small metal box inside a see-through plastic bag. Inside is a logbook and some small gifts. Feel free to take something if you leave something of equal or greater value.</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -35,6 +146,61 @@ The cache is a small metal box inside a see-through plastic bag. Inside is a log
                 <ox:difficulty>1.6</ox:difficulty>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="34.8882" lat="32.1327">
+        <time>2012-05-09T09:13:07.000Z</time>
+        <name>OX3J0T0</name>
+        <desc>King of the Hill by shaishoo, Traditional Cache(1.6/3.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3J0T0</url>
+        <urlname>King of the Hill</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3307576">
+            <groundspeak:name>King of the Hill</groundspeak:name>
+            <groundspeak:placed_by>shaishoo</groundspeak:placed_by>
+            <groundspeak:owner id="115794">shaishoo</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The cache is a small 100mL box filled with nice surprises. It is located on a top of a green hill with a lovely panorama of all the area and a unique monument. The climb is not hard but may take some time. The views (and the cache) are worth the effort. There is no pen so bring your own.&lt;br/&gt;&lt;br/&gt;Hod Hasharon is a nice and peaceful city. It is full of small agricultural fields and in general it is a city that gives you the feeling you are in a village. In the NE part of Hod Hasharon, almost on the border of Petach Tikva there is a small hill that used to be a burial site but it is closed for many years and now it serves as picnic area. During the winter and spring the hill is covered by many flowers and painted in vivid green. When you climb to the top of the hill you can see all the way to the Mediterranean Sea on the west and the Samaria mountains on the east. On the top of the hill you will also see a unique monument of a bicycle on a pole. This is in memory of a rider named Avner who died on 19 Oct. 2005.&lt;br/&gt;&lt;br/&gt;How to start:&lt;br/&gt;You can get very close to the hill from two different routes&lt;br/&gt;1.You can drive to the Hadasim st. (הדסים)-Tel Dan st. (תל דן) junction, park your car and start walking on the dirt path in the direction of the hill (you will see in front of you).&lt;br/&gt;&lt;br/&gt;2.You can turn from derekh Ramatayim (דרך רמתיים) to derekh Ha-Yam (דרך הים) and drive all the way to the foot of the hill. &lt;br/&gt;&lt;br/&gt;Climbing the Hill:&lt;br/&gt;There are a few trails going up the hill. Some are blocked in the middle, some are a little doggy, and the best trail is the one on the SW corner of the hill . If you are coming from Tel Dan st. it will be in front of you, when you reach the hill. If you are coming from Derekh Ha-Yam it will be the road after the building near the junction. The road itself is a wide dirt road (on some parts it is paved) and it is a circular road that climb all the way to the top. The road is blocked so cars will not pass, but I have seen many 4X4 and bikes climb this trail all the way to the top. &lt;br/&gt;&lt;br/&gt;The cache and all its nice content is waiting under the palm trees. Since many muggles visit this site, please try to hide it well.  </groundspeak:long_description>
+            <groundspeak:encoded_hints>Under the smaller palm tree, under some rocks</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="34.6473667" lat="49.65365">
+        <time>2012-01-10T21:25:12.000Z</time>
+        <name>OX39QDZ</name>
+        <desc>Peter the Great well by Brigadire, Traditional Cache(2.1/2.7/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX39QDZ</url>
+        <urlname>Peter the Great well</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3061218">
+            <groundspeak:name>Peter the Great well</groundspeak:name>
+            <groundspeak:placed_by>Brigadire</groundspeak:placed_by>
+            <groundspeak:owner id="84134">Brigadire</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">In a small forest, relatively close to Poltava is a place which is considered the hydrological monument. According to legend here in the Northern War, a few days before its decisive phase - the battle of Poltava were part of the Russian army, who were preparing to cross the Vorskla. Legend tells that the soldiers had dug a well and first tasted the water from the well of the king himself - Peter I.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.1</ox:difficulty>
+                <ox:size>3.8</ox:size>
+                <ox:terrain>2.7</ox:terrain>
             </ox:ratings>
         </ox:opencaching>
     </wpt>

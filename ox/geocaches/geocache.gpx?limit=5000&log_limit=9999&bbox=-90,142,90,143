@@ -1,17 +1,249 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>8 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,142,90,143</url>
-    <time>2012-01-04T09:33:05.444-06:00</time>
+    <time>2012-12-19T23:02:24.604Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="143.0" maxlat="90.0" minlon="142.0" minlat="-90.0"/>
+    <wpt lon="142.080233" lat="-34.1736">
+        <time>2011-12-23T08:00:00.000Z</time>
+        <name>OX39HJY</name>
+        <desc>10 Types by Squidchaser, Multi-cache(4.0/4.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX39HJY</url>
+        <urlname>10 Types</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="3055606">
+            <groundspeak:name>10 Types</groundspeak:name>
+            <groundspeak:placed_by>Squidchaser</groundspeak:placed_by>
+            <groundspeak:owner id="85094">Squidchaser</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>4</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">10 types, a gift that could keep you entertained all year. &lt;br/&gt;The name of the cache is a clue. Knowing it's significance will assist you in your mission. &lt;br/&gt;&lt;br/&gt;A long multi that will take at least a couple of hours to solve. It took me about twelve hours to put it out. 5 steps, then the final. Each location has a different 'thing' that will point you to the Next location. Some a little non-traditional. When you find it you will know. What you're looking for who can say?   When you get to number 5 you'll find that it's a 1 not a 0. &lt;br/&gt;Additional Hidden Waypoints&lt;br/&gt;HIDDEN: 1039HJY - Binary&lt;br/&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br/&gt;&lt;br/&gt;HIDDEN: BW39HJY - Barbed Fence&lt;br/&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br/&gt;&lt;br/&gt;HIDDEN: FL39HJY - 10 Types Final&lt;br/&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br/&gt;&lt;br/&gt;HIDDEN: PS39HJY - PSY Sign&lt;br/&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br/&gt;&lt;br/&gt;HIDDEN: SP39HJY - Spiral Billabong&lt;br/&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___</groundspeak:long_description>
+            <groundspeak:encoded_hints>At all locations you'll never be too far from the river.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>4.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="142.1632" lat="-34.180333">
+        <time>2011-11-27T08:00:00.000Z</time>
+        <name>OX38D0M</name>
+        <desc>Evil by Squidchaser, Traditional Cache(3.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX38D0M</url>
+        <urlname>Evil</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3021404">
+            <groundspeak:name>Evil</groundspeak:name>
+            <groundspeak:placed_by>Squidchaser</groundspeak:placed_by>
+            <groundspeak:owner id="85094">Squidchaser</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Lots of small things are evil.&lt;br/&gt;&lt;br/&gt;Don't put your fingers into places that you can't see. please leave the spiders alone, this is their home. How would you like to be poked with a stick while you're sitting on the couch (or the toilet)</groundspeak:long_description>
+            <groundspeak:encoded_hints>Bring a Picnic.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2169953">
+                    <groundspeak:date>2012-04-10T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="79062">LOCUSCACHE</groundspeak:finder>
+                    <groundspeak:text encoded="False">After spending over an hour looking for Almost on Track, I was both tired and aware of the still long drive I had to return to Adelaide as I drove up to this cache. 
+
+When I saw the train there and knew I was looking for a micro/nano I almost turned tail and ran :(
+
+As soon as I realised I was actually heading for a different object though, I breathed a sigh of relief which turned into a groan as a man and his daughter walked up to where I was heading. 
+After steeling myself to do this cache, the last thing I wanted was to be muggled out, and after dark too! 
+
+Turned out they were fellow cachers and so, between the three of us and my u beaut torch, we soon had the cache in hand. :) Love that it took about 5 minutes to find a difficulty 3 after over an hour for a difficulty 2.  LOL 
+
+Very nice to meet you, Regentparrot98, and I hope you get much more pleasure from your caching now that you can have a GPSr to assist you :)
+
+SL. TFTC cruisinblues</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="142.177267" lat="-34.19115">
+        <time>2012-04-01T07:00:00.000Z</time>
+        <name>OX3G0B2</name>
+        <desc>Where's Humpty Dumpty? by Squidchaser, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3G0B2</url>
+        <urlname>Where's Humpty Dumpty?</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3247562">
+            <groundspeak:name>Where's Humpty Dumpty?</groundspeak:name>
+            <groundspeak:placed_by>Squidchaser</groundspeak:placed_by>
+            <groundspeak:owner id="85094">Squidchaser</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Mildura's Greatest Ever Tourist Attraction ..... Gone!&lt;br/&gt;&lt;br/&gt;Humpty Dumpty's Tourist Farm was just along here somewhere. &lt;br/&gt;Humpty was once out the front but people visited him and not the farm so the egg was moved inside. Then when the farm closed down Humpty disappeared. Some people say he went to Queensland but nobody seems to know where. Have you seen Humpty in your travels?&lt;br/&gt;If you know exactly where then please post Co-ordinates.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="142.23705" lat="-34.215783">
+        <time>2012-05-02T07:00:00.000Z</time>
+        <name>OX3JF6B</name>
+        <desc>Crack their Brain by Squidchaser, Traditional Cache(3.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3JF6B</url>
+        <urlname>Crack their Brain</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3321413">
+            <groundspeak:name>Crack their Brain</groundspeak:name>
+            <groundspeak:placed_by>Squidchaser</groundspeak:placed_by>
+            <groundspeak:owner id="85094">Squidchaser</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">We were out wandering around when we found this place. We had lunch here and spent a long time looking for just the right spot. The kids climbed all over it. We found a few good possibilities, Bailey says - This cache will crack their brain.&lt;br/&gt;&lt;br/&gt;The road in can be impassible/closed after wet weather at the bridge. You can still walk in on the boardwalk and follow the walking track to within 100 metres.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="142.227417" lat="-34.251267">
+        <time>2011-07-15T07:00:00.000Z</time>
+        <name>OX306D7</name>
+        <desc>Night Bunyip Hunt by Squidchaser, Multi-cache(2.3/2.7/3.1)</desc>
+        <url>http://www.opencaching.com/#geocache/OX306D7</url>
+        <urlname>Night Bunyip Hunt</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="2776739">
+            <groundspeak:name>Night Bunyip Hunt</groundspeak:name>
+            <groundspeak:placed_by>Squidchaser</groundspeak:placed_by>
+            <groundspeak:owner id="85094">Squidchaser</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is a Night Cache and can only be done at night. Bring your Torches and Hunt Bunyip at Kings Billabong.  Park at the Car Park, Follow the walking track to the start coordinates. GPS Required.&lt;br/&gt;&lt;br/&gt;The smooth-finned Bunyip in this area are most active at night, so a night trail has been set out that will take you to some of the best places for viewing them.  Be very aware that the trail takes you close to water at times – watch the young ones closely as Bunyips do eat small mammals. The trail is set out with stealth Firetacks, which reflect straight back at the light source – Hold your torch at eye level and they will show up best. When you reach a double tack you will need to look for a tag with Coordinates. The second tag will send you to the final. When you have seen enough Bunyips the road will take you back to the track and the track will take you back to the carpark. &lt;br/&gt;&lt;br/&gt;Warning : Please be aware that a territorial female Bunyip is nesting in this area at present. Bunyips are very dangerous when expecting or raising young. They rarely travel far from the water however please be very careful to follow the trail and not stray into the nesting area.&lt;br/&gt;&lt;br/&gt;Reeds provide good natural cover when hunting Bunyips but be aware that they both sleep and nest in flattened reed beds, usually on or near islands. Scan the water and you may be lucky enough to catch a glimpse of one of Australia’s rarest and most secretive animals.  Dr. B. Mitchell is an expert on this species, he suggests that you walk as quietly as possible. Bunyips can be alarmed by sudden sounds, so avoid breaking sticks or talking loudly. Silence will also allow you to listen out for bunyip calls. These calls vary from low rumbles that sound a little like distant trucks to high pitched skwarks.&lt;br/&gt;Additional Hidden Waypoints&lt;br/&gt;BC306D7 - Carpk&lt;br/&gt;S 34° 15.266 E 142° 13.821&lt;br/&gt;This is where the carpark is and the walking path starts.&lt;br/&gt;HIDDEN: FN306D7 - Final&lt;br/&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br/&gt;The Location of the Final. (the Cache)&lt;br/&gt;HIDDEN: RE306D7 - Restart&lt;br/&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br/&gt;Where the night tacks start up again.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Night Tacks require you to hold the torch at eye level.
+The second tag will take you to the final.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1784942">
+                    <groundspeak:date>2011-08-25T14:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="16067">ROMAX</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found by Roma and Max.
+This proved to be an excellent night cache which we thoroughly enjoyed and would recommend as a very family friendly experience.
+Thank you Squidchaser
+Cheers,
+from Romax.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.1</ox:awesomeness>
+                <ox:difficulty>2.3</ox:difficulty>
+                <ox:size>4.4</ox:size>
+                <ox:terrain>2.7</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Night</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="142.371533" lat="-35.739567">
+        <time>2010-10-31T07:00:00.000Z</time>
+        <name>OX2HKZ8</name>
+        <desc>Hopetoun's Rest by DATRUK, Traditional Cache(1.0/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX2HKZ8</url>
+        <urlname>Hopetoun's Rest</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2372686">
+            <groundspeak:name>Hopetoun's Rest</groundspeak:name>
+            <groundspeak:placed_by>DATRUK</groundspeak:placed_by>
+            <groundspeak:owner id="122312">DATRUK</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">A nice park for a rest.&lt;br /&gt;
+Follow the gypsum trail to the Native Birds
+ &lt;br /&gt;&lt;br /&gt; Hopetoun is a small town of about 800 people in the southern
+Mallee. Surrounded by rolling sand hills and grassy plains, it is
+situated on the Henty Highway, 404 km north-west of Melbourne and
+62 km north of Warracknabeal.
+&lt;p&gt;The town stands on Yarriambiac Creek, near Lake Corrong.
+'Yarriambiac' is said to mean 'creek tribes' while 'corrong' is a
+bark canoe. Both words presumably derive from the language of the
+Yarrikaluk people who inhabited the area prior to European
+settlement.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Things to see in the area:&lt;br /&gt;
+Corrong Station Homestead&lt;br /&gt;
+Hopetoun House&lt;br /&gt;
+Lake Lascelles&lt;br /&gt;
+Lake Coorong&lt;br /&gt;
+and Wyperfeld National Park&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Stealth is required as Muggles appear very quickly from all
+directions.&lt;/b&gt;&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="2151340">
+                    <groundspeak:date>2012-06-09T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2664">dessek</groundspeak:finder>
+                    <groundspeak:text encoded="False">This was our last find for the day and I couldn't just leave it given that it was so close as we were passing by [;)].  I jumped out of the car and walked straight up to it for the easiest of finds at 17:15.  
+
+Given that this was in plain site, I can't help thinking that half of the attachment mechanism is missing and that maybe the attachment mechanism(s) should be on the inside rather than the outside!
+
+TNLNSL.  Thanks Datruk and Honeysucker.
+
+[b]PS:[/b] There was no sign of the [url=http://www.geocaching.com/track/details.aspx?guid=93828551-1cff-402a-9eb6-f77ec8fae0f8][i]Spike007's Holiday Gnome Geocoin[/i][/url] traveller in the cache.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
     <wpt lon="142.0156167" lat="-36.4995667">
-        <time>2010-12-25T06:26:50.000-06:00</time>
+        <time>2010-12-25T12:26:50.000Z</time>
         <name>OX29KHG</name>
-        <desc>Lookout Horseshoe Bend by honeysucker, Traditional Cache(1.7/1.9/3.0)</desc>
+        <desc>Lookout Horseshoe Bend by honeysucker, Traditional Cache(1.7/1.8/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX29KHG</url>
         <urlname>Lookout Horseshoe Bend</urlname>
         <sym>Geocache</sym>
@@ -24,12 +256,33 @@
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">area can be a little slippery so take care. your looking for a big yellow container so make sure you place it back well covered
-
-nice quite location most of the time, the location over looks the Wimmera river and Horseshoe Bend Camp ground.</groundspeak:long_description>
+            <groundspeak:long_description html="True">area can be a little slippery so take care. your looking for a big yellow container so make sure you place it back well covered&lt;br/&gt;&lt;br/&gt;nice quite location most of the time, the location over looks the Wimmera river and Horseshoe Bend Camp ground.</groundspeak:long_description>
             <groundspeak:logs>
+                <groundspeak:log id="1784943">
+                    <groundspeak:date>2011-08-14T14:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="16067">ROMAX</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found by Roma and Max.
+Good numbers and a large container made for an easy find here.We left our mark in the log but no swaps today!
+Thanks again honeysucker.
+Cheers,
+from Romax.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1830051">
+                    <groundspeak:date>2010-10-30T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="122312">DATRUK</groundspeak:finder>
+                    <groundspeak:text encoded="False">1500hrs
+
+Out with local cacher today (Honeysucker) to clear up some of these country caches.
+A quick search in the most likely spot turned up the cache.
+
+
+TNLNSL
+TFTC</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1163871">
-                    <groundspeak:date>2010-10-02T09:30:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-10-02T14:30:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="10260">dazzpete</groundspeak:finder>
                     <groundspeak:text encoded="False">The area is so different to what it was like when we came through a couple of year ago. After a night camped nearby we packed up the tent to continue our way to Tasmania. A reasonably quick find for geoD with the fisherman nearby.
@@ -37,7 +290,7 @@ nice quite location most of the time, the location over looks the Wimmera river 
 TNLN SL TFTC</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="243411">
-                    <groundspeak:date>2010-06-13T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-06-13T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="2664">dessek</groundspeak:finder>
                     <groundspeak:text encoded="False">We found this one at 15:05 after today's bushwalk around this wonderful area.  We were actually meant to start the walk here [:I] but short-circuited it a bit and started in the camping area instead.  What a beautiful spot for a cache and it was great to see some water in the river [:D].
@@ -46,6 +299,12 @@ As Alsume pulled the cache from its hidey-hole, that gave LinearZZ and us a high
 
 TNLNSL.  Thanks honeysucker.</groundspeak:text>
                 </groundspeak:log>
+                <groundspeak:log id="2151229">
+                    <groundspeak:date>2010-06-13T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="2664">dessek</groundspeak:finder>
+                    <groundspeak:text encoded="False">Passing a geocoin through.</groundspeak:text>
+                </groundspeak:log>
             </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
@@ -53,14 +312,14 @@ TNLNSL.  Thanks honeysucker.</groundspeak:text>
                 <ox:awesomeness>3.0</ox:awesomeness>
                 <ox:difficulty>1.7</ox:difficulty>
                 <ox:size>2.9</ox:size>
-                <ox:terrain>1.9</ox:terrain>
+                <ox:terrain>1.8</ox:terrain>
             </ox:ratings>
         </ox:opencaching>
     </wpt>
     <wpt lon="142.521583" lat="-38.403983">
-        <time>2009-03-10T02:00:00.000-05:00</time>
+        <time>2009-03-10T07:00:00.000Z</time>
         <name>OX1NJZ8</name>
-        <desc>A whale of a time by jgc3, Traditional Cache(1.0/1.5/3.0)</desc>
+        <desc>A whale of a time by jgc3, Traditional Cache(1.1/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1NJZ8</url>
         <urlname>A whale of a time</urlname>
         <sym>Geocache</sym>
@@ -75,21 +334,22 @@ TNLNSL.  Thanks honeysucker.</groundspeak:text>
             <groundspeak:terrain>1.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Great views and an easy cache to get to. Car park close. If you are able to do this cache around May - Oct you may see whales out to sea. Amazing views. Nearby parking. Disabled access to viewing platform. If you wish you can also access the beach via steps from viewing platform ( not required to get cache ). This area can get very busy so please be aware you might need to wait to retrieve cache especially during whale season. It can easily be retrieved at night with a torch. You do NOT need to leave the viewing platform. Please place cache back so not to be seen easily. Please bring pen to log your find. Thank you. Enjoy.</groundspeak:long_description>
             <groundspeak:encoded_hints>Next to second support beam on far left of viewing platform near vegetation growing</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2233985">
+                    <groundspeak:date>2012-11-11T00:39:20.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="161295">knightarrant</groundspeak:finder>
+                    <groundspeak:text encoded="False">I found this cache on 11/11/12. It is listed on an alternative caching site. Very public location with magnificent views. Tnlnsl tftc</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
                 <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>1.0</ox:difficulty>
+                <ox:difficulty>1.1</ox:difficulty>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Dogs on leash</ox:tag>
-                <ox:tag>Ocean Views</ox:tag>
-                <ox:tag>Easy Parking</ox:tag>
-                <ox:tag>Boardwalk</ox:tag>
-                <ox:tag>Available 24 hours</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
 </gpx>

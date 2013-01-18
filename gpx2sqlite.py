@@ -6,7 +6,7 @@ import zlib
 import time
 
 id = 0
-multiplier = 1 #Multiply every insert by this
+multiplier = 100 #Multiply every insert by this
 filenum = 0
 
 if( len( sys.argv ) >= 3 ):
@@ -16,7 +16,9 @@ if( len( sys.argv ) >= 3 ):
     c = conn.cursor()
 
     # Create tables
-    c.execute("CREATE TABLE geocaches                                ( id INTEGER PRIMARY KEY, gc_code VARCHAR(10), short_desc TEXT, long_desc BLOB, awesomeness REAL, difficulty REAL, size REAL, terrain REAL)")
+    c.execute("CREATE TABLE geocaches                                ( id INTEGER PRIMARY KEY, lat REAL, lon REAL, gc_code VARCHAR(10), short_desc TEXT, long_desc BLOB, awesomeness REAL, difficulty REAL, size REAL, terrain REAL)")
+    c.execute("CREATE INDEX idx_geocaches_by_attributes ON geocaches( awesomeness, difficulty, size, terrain )")
+    c.execute("CREATE INDEX idx_geocaches_by_location ON geocaches( lat, lon )")
     c.execute("CREATE VIRTUAL TABLE geocaches_attributes  USING rtree( id INTEGER PRIMARY KEY, awesomeness REAL, awesomeness2 REAL, difficulty REAL, difficulty2 REAL, size REAL, size2 REAL, terrain REAL, terrain2 REAL)")
     c.execute("CREATE VIRTUAL TABLE geocaches_awesomeness USING rtree( id INTEGER PRIMARY KEY, awesomeness REAL, awesomeness2 REAL)")
     c.execute("CREATE VIRTUAL TABLE geocaches_difficulty  USING rtree( id INTEGER PRIMARY KEY, difficulty  REAL, difficulty2  REAL)")
@@ -40,10 +42,12 @@ if( len( sys.argv ) >= 3 ):
             return ''.join(rc)
 
         def insertGeocache(id,gccode,name,short_desc,long_desc,awesomeness,difficulty,size,terrain,lat,lon):
+            long_desc_bin = sqlite3.Binary( zlib.compress( long_desc.encode("utf-8") ) )
             for localid in range(id * multiplier, ( id + 1 ) * multiplier):
                 if( multiplier != 1 ):
                     gccode = "OX%06d"%localid
-                c.execute("""REPLACE INTO geocaches             VALUES (?,?,?,?,?,?,?,?)""", (localid, gccode, short_desc, sqlite3.Binary( zlib.compress( long_desc.encode("utf-8" ) ) ),awesomeness,difficulty,size,terrain) )
+                c.execute("""REPLACE INTO geocaches             VALUES (?,?,?,?,?,?,?,?,?,?)""", (localid, str(lat), str(lon), gccode, short_desc, long_desc_bin,awesomeness,difficulty,size,terrain) )
+#                c.execute("""REPLACE INTO geocaches             VALUES (?,?,?,?,?,?,?,?)""", (localid, gccode, short_desc, sqlite3.Binary( zlib.compress( long_desc.encode("utf-8" ) ) ),awesomeness,difficulty,size,terrain) )
                 c.execute("""REPLACE INTO geocaches_attributes  VALUES (?,?,?,?,?,?,?,?,?)""",(localid,awesomeness,awesomeness,difficulty,difficulty,size,size,terrain,terrain) )
                 c.execute("""REPLACE INTO geocaches_awesomeness VALUES (?,?,?)""",(localid,awesomeness,awesomeness) )
                 c.execute("""REPLACE INTO geocaches_difficulty  VALUES (?,?,?)""",(localid,difficulty, difficulty) )
@@ -56,8 +60,10 @@ if( len( sys.argv ) >= 3 ):
                     lon += random.gauss(0,.00075)
 
         def insertLog( log_id, id, log_type, log_finder, log_text ):
+            bin_name = sqlite3.Binary( zlib.compress( log_text.encode("utf-8") ) )
             for localid in range(id * multiplier, ( id + 1 ) * multiplier):
-                c.execute("REPLACE INTO geocache_logs VALUES(?,?,?,?,?)", ( log_id, localid, log_type, log_finder, sqlite3.Binary( zlib.compress( log_text.encode("utf-8") ) ) ) )
+                c.execute("REPLACE INTO geocache_logs VALUES(?,?,?,?,?)", ( log_id, localid, log_type, log_finder, bin_name ) )
+#                c.execute("REPLACE INTO geocache_logs VALUES(?,?,?,?,?)", ( log_id, localid, log_type, log_finder, sqlite3.Binary( zlib.compress( log_text.encode("utf-8") ) ) ) )
 
         def handleLog( log ):
             log_id = log.getAttribute("id")
@@ -121,9 +127,6 @@ if( len( sys.argv ) >= 3 ):
             terrain     = random.uniform(0,5)
 
             ## Insert a row of data
-            long_desc.encode("utf-8")
-            zlib.compress( long_desc.encode("utf-8") )
-            sqlite3.Binary( zlib.compress( long_desc.encode("utf-8") ) )
             insertGeocache(id,gccode,name,short_desc,long_desc,awesomeness,difficulty,size,terrain,lat,lon)
 
             for log_sets in geocache.getElementsByTagName("groundspeak:logs"):
@@ -140,6 +143,7 @@ if( len( sys.argv ) >= 3 ):
         handleGPX(dom)
         time2 = time.time()
         print "Spent %f seconds parsing, %f seconds packing"%((time1-time0),(time2-time1))
+        filenum += 1
 
     # Save (commit) the changes
     c.execute("VACUUM;")

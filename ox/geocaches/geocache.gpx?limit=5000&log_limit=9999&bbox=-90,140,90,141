@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>11 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,140,90,141</url>
-    <time>2012-01-04T09:33:04.713-06:00</time>
+    <time>2012-12-19T23:02:14.024Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="141.0" maxlat="90.0" minlon="140.0" minlat="-90.0"/>
     <wpt lon="140.9630167" lat="-34.0502167">
-        <time>2009-08-31T02:00:00.000-05:00</time>
+        <time>2009-08-31T07:00:00.000Z</time>
         <name>OX1Y10P</name>
         <desc>Border Run by FIRESAFE, Traditional Cache(1.6/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1Y10P</url>
@@ -27,11 +27,11 @@
             <groundspeak:long_description html="True">There was a group of 15 SA cachers that went to Mildura for the
 event and to assimilate into the local environment we all dressed
 as Mexicans (if in Mexico do what the Mexicans do). A great time
-was had by all. &lt;br/&gt;
-&lt;br/&gt;
+was had by all. &lt;br /&gt;
+&lt;br /&gt;
  
- &lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;
+&lt;br /&gt;
  On coming home and doing the last of Jardry's Old Mail Road caches
 then heading up to Wacky's Jeepers Creepers and then onto the Old
 Escort House, it seemed just like doing a Border Run - so just what
@@ -49,7 +49,7 @@ Enjoy</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="140.7744167" lat="-34.1806">
-        <time>2010-01-20T02:00:00.000-06:00</time>
+        <time>2010-01-20T08:00:00.000Z</time>
         <name>OX23627</name>
         <desc>Paringa Bridge by FIRESAFE, Traditional Cache(1.7/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX23627</url>
@@ -64,27 +64,35 @@ Enjoy</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">&lt;br/&gt;
+            <groundspeak:long_description html="True">&lt;br /&gt;
 
-&lt;br/&gt;
-&lt;br/&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 
 
-&lt;br/&gt;
-&lt;br/&gt;
+&lt;br /&gt;
+&lt;br /&gt;
 The Paringa Bridge was built in 1927 for the railway extension over
 the River Murray to Renmark. It is one of South Australia's
-significant engineering monuments.&lt;br/&gt;
-&lt;br/&gt;
+significant engineering monuments.&lt;br /&gt;
+&lt;br /&gt;
 The Paringa Bridge was designed so that one of the six steel spans
 could be raised to allow the river boats to pass through. It
 carried a single-track railway and also catered for road traffic
 with cantilevered roadways on both sides of the central
-spans.&lt;br/&gt;
-&lt;br/&gt;
+spans.&lt;br /&gt;
+&lt;br /&gt;
 The Paringa Bridge is a State Heritage Place protected by the
 Heritage Places Act 1993.</groundspeak:long_description>
             <groundspeak:encoded_hints>You can almost grab it from your parked car</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1795180">
+                    <groundspeak:date>2011-08-29T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="8334">mtbikeroz</groundspeak:finder>
+                    <groundspeak:text encoded="False">I remember trains going over this bridge, TFTC.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -96,7 +104,7 @@ Heritage Places Act 1993.</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="140.3757167" lat="36.7639">
-        <time>2005-12-11T02:00:00.000-06:00</time>
+        <time>2005-12-11T08:00:00.000Z</time>
         <name>OXRKPB</name>
         <desc>A View From the Park by JoshGCMN4M, Traditional Cache(1.6/1.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXRKPB</url>
@@ -111,10 +119,7 @@ Heritage Places Act 1993.</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1</groundspeak:terrain>
-            <groundspeak:long_description html="True">This cache is a 35mm film case with log, pencil and eraser. It's
-VERY Close to Hwy. 118 so there LOTS of muggles, be careful. Take a
-few minutes to enjoy the view of the mountains and the Kuji River
-below. Thanks for looking. and ALWAYS C.I.T.O.</groundspeak:long_description>
+            <groundspeak:long_description html="True">This cache is a 35mm film case with log, pencil and eraser. It's&lt;br/&gt;VERY Close to Hwy. 118 so there LOTS of muggles, be careful. Take a&lt;br/&gt;few minutes to enjoy the view of the mountains and the Kuji River&lt;br/&gt;below. Thanks for looking. and ALWAYS C.I.T.O.</groundspeak:long_description>
             <groundspeak:encoded_hints>      If you can't find it. Take a rest and you will. </groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -127,7 +132,7 @@ below. Thanks for looking. and ALWAYS C.I.T.O.</groundspeak:long_description>
         </ox:opencaching>
     </wpt>
     <wpt lon="140.3510667" lat="36.7706333">
-        <time>2010-11-09T02:00:00.000-06:00</time>
+        <time>2010-11-09T08:00:00.000Z</time>
         <name>OX2J06Y</name>
         <desc>All Aboard in Daigo by JoshGCMN4M, Traditional Cache(3.0/1.6/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2J06Y</url>
@@ -142,9 +147,7 @@ below. Thanks for looking. and ALWAYS C.I.T.O.</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">This beautifully restored locomotive has been in a &quot;cage&quot; in the rear of the Daigo Community center since the early 1970's, and has now been moved to a more appropriate, permanent display location. You can come by train or car, or bus for that matter. You can enjoy lunch at the nearby soba shop, bakery, or many other places within walking distance. There is a Yamazaki Shop convenience store nearby too.
-
-There is a new paid parking lot next to the SL,  but you can park free behind the soba shop, or at the nearby community building Ma-in</groundspeak:long_description>
+            <groundspeak:long_description html="True">This beautifully restored locomotive has been in a &quot;cage&quot; in the rear of the Daigo Community center since the early 1970's, and has now been moved to a more appropriate, permanent display location. You can come by train or car, or bus for that matter. You can enjoy lunch at the nearby soba shop, bakery, or many other places within walking distance. There is a Yamazaki Shop convenience store nearby too.&lt;br/&gt;&lt;br/&gt;There is a new paid parking lot next to the SL,  but you can park free behind the soba shop, or at the nearby community building Ma-in</groundspeak:long_description>
             <groundspeak:encoded_hints>Four white sticks</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -157,7 +160,7 @@ There is a new paid parking lot next to the SL,  but you can park free behind th
         </ox:opencaching>
     </wpt>
     <wpt lon="140.3557333" lat="36.7743">
-        <time>2005-11-05T01:00:00.000-06:00</time>
+        <time>2005-11-05T07:00:00.000Z</time>
         <name>OXR7DD</name>
         <desc>Welcome to Daigo by JoshGCMN4M, Multi-cache(3.0/2.2/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXR7DD</url>
@@ -172,20 +175,7 @@ There is a new paid parking lot next to the SL,  but you can park free behind th
             <groundspeak:container>Regular</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">This is a relatively easy two stage traditional cache. The first
-stage has the coordinates for the second. Both stages require a bit
-of hunting once you reach the coordinates. But are easily
-accessible. Daytime can have LOTS of muggles. The path is lit and
-the cache can easily be done at night. Private homes are above the
-walkway, and during nice weather people fish, walk, ride bicycles,
-and can also be seen in the back of their homes. Plenty of space to
-bring lunch and watch the ducks, fish and people. Stage 1 is a
-small black plastic box about the size of a deck of playing cards.
-It also has a log book &amp; pen. Stage 2 is a rectangular clear
-plastic 1.0L container, labeled as a cache. Initial contents: FTF
-Mickey Mouse keitai strap; Batteries (just in case you've found a
-lot of caches); Chinese &quot;silk&quot; purse; mini buddah statue; mini
-yo-yo; and of course Log Book &amp; pen. THANKS! Good luck!</groundspeak:long_description>
+            <groundspeak:long_description html="True">This is a relatively easy two stage traditional cache. The first&lt;br/&gt;stage has the coordinates for the second. Both stages require a bit&lt;br/&gt;of hunting once you reach the coordinates. But are easily&lt;br/&gt;accessible. Daytime can have LOTS of muggles. The path is lit and&lt;br/&gt;the cache can easily be done at night. Private homes are above the&lt;br/&gt;walkway, and during nice weather people fish, walk, ride bicycles,&lt;br/&gt;and can also be seen in the back of their homes. Plenty of space to&lt;br/&gt;bring lunch and watch the ducks, fish and people. Stage 1 is a&lt;br/&gt;small black plastic box about the size of a deck of playing cards.&lt;br/&gt;It also has a log book &amp; pen. Stage 2 is a rectangular clear&lt;br/&gt;plastic 1.0L container, labeled as a cache. Initial contents: FTF&lt;br/&gt;Mickey Mouse keitai strap; Batteries (just in case you've found a&lt;br/&gt;lot of caches); Chinese &quot;silk&quot; purse; mini buddah statue; mini&lt;br/&gt;yo-yo; and of course Log Book &amp; pen. THANKS! Good luck!</groundspeak:long_description>
             <groundspeak:encoded_hints>read the writing ON the wall</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -198,7 +188,7 @@ yo-yo; and of course Log Book &amp; pen. THANKS! Good luck!</groundspeak:long_de
         </ox:opencaching>
     </wpt>
     <wpt lon="140.7965" lat="-37.626517">
-        <time>2009-10-12T02:00:00.000-05:00</time>
+        <time>2009-10-12T07:00:00.000Z</time>
         <name>OX1ZW8F</name>
         <desc>Tarpeena Red Gums by jgc3, Multi-cache(3.0/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ZW8F</url>
@@ -213,36 +203,7 @@ yo-yo; and of course Log Book &amp; pen. THANKS! Good luck!</groundspeak:long_de
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>3</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">This cache is not at the listed coordinates. This area is a nice place to stop and relax. Bring the kids as there is a playground, BBQ and toilets nearby. No Dogs are allowed in the picnic / BBQ or oval area. Many pieces of local artwork to check out while gathering the clues for this cache. The cache is a very small and well hidden nano.
-
-Stop, relax and enjoy this area while hunting for this multi.
-
-1.) The stone was laid by J. Pettingill on 29th Dec 19A7
-Answer = A
-
-2.) Back to Tarpeena was Celebrated Oct 7th 1B72
-Answer = B
-
-3.) How many wooden barrels inside the doors on the wall mural? Not counting ANY barrels outside.  
-Answer = C
-
-4.) The plaque to commenorate the anniversary of Ash Wednesday - Last number of Year listed MINUS one.
-Answer = D
-
-5.) The plaque in memory of Margaret Medhurst - Last number of the Year listed PLUS one.
-Answer = E
-
-6.) The plaque commemorates the Official opening of the Tarpeena Recreation Area on 21st Dec 19F3
-Answer = F
-
-Cache is located at 
-S 37 . 37. ABC
-E140 . 47 . DEF
-
-Additional Waypoints
-HIDDEN: GZ1ZW8F - Final
-N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
-Final location of nano cache</groundspeak:long_description>
+            <groundspeak:long_description html="True">This cache is not at the listed coordinates. This area is a nice place to stop and relax. Bring the kids as there is a playground, BBQ and toilets nearby. No Dogs are allowed in the picnic / BBQ or oval area. Many pieces of local artwork to check out while gathering the clues for this cache. The cache is a very small and well hidden nano.&lt;br/&gt;&lt;br/&gt;Stop, relax and enjoy this area while hunting for this multi.&lt;br/&gt;&lt;br/&gt;1.) The stone was laid by J. Pettingill on 29th Dec 19A7&lt;br/&gt;Answer = A&lt;br/&gt;&lt;br/&gt;2.) Back to Tarpeena was Celebrated Oct 7th 1B72&lt;br/&gt;Answer = B&lt;br/&gt;&lt;br/&gt;3.) How many wooden barrels inside the doors on the wall mural? Not counting ANY barrels outside.  &lt;br/&gt;Answer = C&lt;br/&gt;&lt;br/&gt;4.) The plaque to commenorate the anniversary of Ash Wednesday - Last number of Year listed MINUS one.&lt;br/&gt;Answer = D&lt;br/&gt;&lt;br/&gt;5.) The plaque in memory of Margaret Medhurst - Last number of the Year listed PLUS one.&lt;br/&gt;Answer = E&lt;br/&gt;&lt;br/&gt;6.) The plaque commemorates the Official opening of the Tarpeena Recreation Area on 21st Dec 19F3&lt;br/&gt;Answer = F&lt;br/&gt;&lt;br/&gt;Cache is located at &lt;br/&gt;S 37 . 37. ABC&lt;br/&gt;E140 . 47 . DEF&lt;br/&gt;&lt;br/&gt;Additional Waypoints&lt;br/&gt;HIDDEN: GZ1ZW8F - Final&lt;br/&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br/&gt;Final location of nano cache</groundspeak:long_description>
             <groundspeak:encoded_hints>This is a well hidden magnetic nano.</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -252,17 +213,10 @@ Final location of nano cache</groundspeak:long_description>
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>BBQ</ox:tag>
-                <ox:tag>Playground nearby</ox:tag>
-                <ox:tag>Picnic Facilities Nearby</ox:tag>
-                <ox:tag>Easy Parking</ox:tag>
-                <ox:tag>Art</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="140.512067" lat="-37.711">
-        <time>2009-10-05T02:00:00.000-05:00</time>
+        <time>2009-10-05T07:00:00.000Z</time>
         <name>OX1ZG3T</name>
         <desc>GCP by jgc3, Traditional Cache(1.5/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ZG3T</url>
@@ -277,8 +231,7 @@ Final location of nano cache</groundspeak:long_description>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Gower Conservation Park - lies approximately one kilometre east of Tantanoola Caves Conservation Park and is mostly natural scrub surrounded by pine forests.
-The roads are unsealed but in good condition. They may become difficult in wet weather for some vehicles. We managed to see plenty of wild life while in the area. Please do not enter the park on fire ban days. You are able to park within about 60m of where the cache is. Hope you enjoy the location. </groundspeak:long_description>
+            <groundspeak:long_description html="True">Gower Conservation Park - lies approximately one kilometre east of Tantanoola Caves Conservation Park and is mostly natural scrub surrounded by pine forests.&lt;br/&gt;The roads are unsealed but in good condition. They may become difficult in wet weather for some vehicles. We managed to see plenty of wild life while in the area. Please do not enter the park on fire ban days. You are able to park within about 60m of where the cache is. Hope you enjoy the location. </groundspeak:long_description>
             <groundspeak:encoded_hints>Fork of a large tree</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -288,17 +241,10 @@ The roads are unsealed but in good condition. They may become difficult in wet w
                 <ox:size>3.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Available 24 hours</ox:tag>
-                <ox:tag>National Park</ox:tag>
-                <ox:tag>No Entry on Fire Ban Days</ox:tag>
-                <ox:tag>Native Scrub</ox:tag>
-                <ox:tag>Snakes</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="140.530317" lat="-37.731933">
-        <time>2009-09-30T02:00:00.000-05:00</time>
+        <time>2009-09-30T07:00:00.000Z</time>
         <name>OX1ZA3A</name>
         <desc>5L081 by jgc3, Traditional Cache(1.5/1.9/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1ZA3A</url>
@@ -313,13 +259,7 @@ The roads are unsealed but in good condition. They may become difficult in wet w
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">*BEWARE* Sometimes there are bees nearby. Just a note This cache is easier to get to if you park in the parking area off the road and then it is a easy short walk to cache,
-Fossil Cave is an important biological and palaeontological research site as well as an interesting cave dive. WARNING: You do NOT need to enter the cave to obtain cache. This area can be dangerous. Caution is advised especially with children.
-
-Additional Waypoints
-PK1ZA3A - Parking
-S 37° 43.912 E 140° 31.805
-Parking area </groundspeak:long_description>
+            <groundspeak:long_description html="True">*BEWARE* Sometimes there are bees nearby. Just a note This cache is easier to get to if you park in the parking area off the road and then it is a easy short walk to cache,&lt;br/&gt;Fossil Cave is an important biological and palaeontological research site as well as an interesting cave dive. WARNING: You do NOT need to enter the cave to obtain cache. This area can be dangerous. Caution is advised especially with children.&lt;br/&gt;&lt;br/&gt;Additional Waypoints&lt;br/&gt;PK1ZA3A - Parking&lt;br/&gt;S 37° 43.912 E 140° 31.805&lt;br/&gt;Parking area </groundspeak:long_description>
             <groundspeak:encoded_hints>Don't like jazz music.. maybe try &quot;rock&quot;</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -329,16 +269,10 @@ Parking area </groundspeak:long_description>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>1.9</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Cave</ox:tag>
-                <ox:tag>Bees</ox:tag>
-                <ox:tag>Easy Parking</ox:tag>
-                <ox:tag>available 24/7</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="140.43105" lat="-37.807">
-        <time>2011-04-26T02:00:00.000-05:00</time>
+        <time>2011-04-26T07:00:00.000Z</time>
         <name>OX2V39X</name>
         <desc>Twinkle Twinkle Little Red Star by jgc3, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2V39X</url>
@@ -353,9 +287,7 @@ Parking area </groundspeak:long_description>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Night Cache. Please do this cache at night after dark. It is easy to find and will only require a torch and you can park very close. But this location is amazing at night. Look at the stars, notice the &quot;red stars&quot;, listen to the &quot;wind&quot; and if you look close enough you'll see a light house beam in the distance over the hill. Enjoy.
-
-Night Cache. Please do this cache at night after dark. It is easy to find and will only require a torch and you can park very close. But this location is amazing at night. Look at the stars, notice the &quot;red stars&quot;, listen to the &quot;wind&quot; and if you look close enough you'll see a light house beam in the distance over the hill. The cache is a small container suitable for small swaps only. Please bring your own pen. Obviously for best results overcast night not recommended. Enjoy.</groundspeak:long_description>
+            <groundspeak:long_description html="True">Night Cache. Please do this cache at night after dark. It is easy to find and will only require a torch and you can park very close. But this location is amazing at night. Look at the stars, notice the &quot;red stars&quot;, listen to the &quot;wind&quot; and if you look close enough you'll see a light house beam in the distance over the hill. Enjoy.&lt;br/&gt;&lt;br/&gt;Night Cache. Please do this cache at night after dark. It is easy to find and will only require a torch and you can park very close. But this location is amazing at night. Look at the stars, notice the &quot;red stars&quot;, listen to the &quot;wind&quot; and if you look close enough you'll see a light house beam in the distance over the hill. The cache is a small container suitable for small swaps only. Please bring your own pen. Obviously for best results overcast night not recommended. Enjoy.</groundspeak:long_description>
             <groundspeak:encoded_hints>Rock out to the view at night!</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -368,7 +300,7 @@ Night Cache. Please do this cache at night after dark. It is easy to find and wi
         </ox:opencaching>
     </wpt>
     <wpt lon="140.822517" lat="-37.844167">
-        <time>2011-04-26T02:00:00.000-05:00</time>
+        <time>2011-04-26T07:00:00.000Z</time>
         <name>OX2V39F</name>
         <desc>The Adventures of Jay &amp; Kay 2 by jgc3, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2V39F</url>
@@ -383,8 +315,7 @@ Night Cache. Please do this cache at night after dark. It is easy to find and wi
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">This cache brings you to a park with popular sporting facilities and was inspired by our geo-dogs that enjoy playing here in the area. Hence it is named after them and their adventures that is published in our geocaching magazine. The walk here is nice and it can be done 24 hours a day. Close parking nearby and only a short walk to cache while your geo-dogs play off lead. Please bring your own pen. This one only has room for a log book.
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">This cache brings you to a park with popular sporting facilities and was inspired by our geo-dogs that enjoy playing here in the area. Hence it is named after them and their adventures that is published in our geocaching magazine. The walk here is nice and it can be done 24 hours a day. Close parking nearby and only a short walk to cache while your geo-dogs play off lead. Please bring your own pen. This one only has room for a log book.&lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Bison Tube</groundspeak:encoded_hints>
         </groundspeak:cache>
         <ox:opencaching>
@@ -394,18 +325,12 @@ Night Cache. Please do this cache at night after dark. It is easy to find and wi
                 <ox:size>2.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>available 24/7</ox:tag>
-                <ox:tag>Easy Parking</ox:tag>
-                <ox:tag>sports area</ox:tag>
-                <ox:tag>dogs allowed.</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="140.998933" lat="-38.0536">
-        <time>2009-02-22T02:00:00.000-06:00</time>
+        <time>2009-02-22T08:00:00.000Z</time>
         <name>OX1N0FC</name>
-        <desc>World of Animals by jgc3, Traditional Cache(1.5/2.0/3.0)</desc>
+        <desc>World of Animals by jgc3, Traditional Cache(1.6/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1N0FC</url>
         <urlname>World of Animals</urlname>
         <sym>Geocache</sym>
@@ -418,36 +343,42 @@ Night Cache. Please do this cache at night after dark. It is easy to find and wi
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">This walk will take you past some different areas in a walk around 700m (1.4km return) to GZ from parking spot. We have done this walk twice and managed to see a kangaroo and joey, an echidna, a snake and plenty of water birds. The walk is relatively easy this a few minor up and downs. A parking area and toilet is available nearby. Please bring binoculars if available. Enjoy the cache.
-
-If you have the time to spare there are a few plaques near car park and an optional walk ( away from getting cache ) towards the beach that may be worth a look. There is sometimes an information sheet available with points of interest along the walk to GZ supplied by parks Victoria. 
-
-Container is small with log book, pen and small swaps. Please replace in same spot so it can not easily be seen. 
-
-Thank you
-
-Additional Waypoints
-PK1N0FC - Parking Area
-S 38° 03.373 E 140° 59.659
-Parking Area</groundspeak:long_description>
+            <groundspeak:long_description html="True">This walk will take you past some different areas in a walk around 700m (1.4km return) to GZ from parking spot. We have done this walk twice and managed to see a kangaroo and joey, an echidna, a snake and plenty of water birds. The walk is relatively easy this a few minor up and downs. A parking area and toilet is available nearby. Please bring binoculars if available. Enjoy the cache.&lt;br/&gt;&lt;br/&gt;If you have the time to spare there are a few plaques near car park and an optional walk ( away from getting cache ) towards the beach that may be worth a look. There is sometimes an information sheet available with points of interest along the walk to GZ supplied by parks Victoria. &lt;br/&gt;&lt;br/&gt;Container is small with log book, pen and small swaps. Please replace in same spot so it can not easily be seen. &lt;br/&gt;&lt;br/&gt;Thank you&lt;br/&gt;&lt;br/&gt;Additional Waypoints&lt;br/&gt;PK1N0FC - Parking Area&lt;br/&gt;S 38° 03.373 E 140° 59.659&lt;br/&gt;Parking Area</groundspeak:long_description>
             <groundspeak:encoded_hints>LOOK OUT for 4 then you're nearly there</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1757258">
+                    <groundspeak:date>2012-02-25T13:30:00.000Z</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="73157">ZYDECO99</groundspeak:finder>
+                    <groundspeak:text encoded="False">found after nice walk through bush thanks for showing us this area.TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1757259">
+                    <groundspeak:date>2012-01-24T16:50:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="73157">ZYDECO99</groundspeak:finder>
+                    <groundspeak:text encoded="False">&quot;&quot;</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1757270">
+                    <groundspeak:date>2012-01-24T16:50:00.000Z</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="73157">ZYDECO99</groundspeak:finder>
+                    <groundspeak:text encoded="False">&quot;&quot;</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1786177">
+                    <groundspeak:date>2011-10-17T13:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="111383">GMJ319199</groundspeak:finder>
+                    <groundspeak:text encoded="False">We really enjoyed this walk.It started with Pam walking in front and calmly observing a young brown/tiger/copperhead snake of about 1m length slowly moving along the edge of the path.Then as we descended towards the wooden board-walk, we were going down the narrow pathway, again with Pam in front when a large kangaroo broke cover just as I walked past and bounded up the track away from and behind us. I'm glad he didn't spook as Pam walked past him or he would have run straight into me.Then after seeing the birds we found the cache and did out business.On the way back I spotted a large echidna in the bush beside the track.Not a bad afternoons spotting.Thanks for enhancing our visit here.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
                 <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>1.5</ox:difficulty>
+                <ox:difficulty>1.6</ox:difficulty>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Native Scrub</ox:tag>
-                <ox:tag>Easy Hike</ox:tag>
-                <ox:tag>National Park</ox:tag>
-                <ox:tag>wild animals nearby</ox:tag>
-                <ox:tag>Easy Parking</ox:tag>
-                <ox:tag>River Views</ox:tag>
-                <ox:tag>No dogs allowed</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
 </gpx>

@@ -1,82 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>8 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,-159,90,-158</url>
-    <time>2012-01-04T09:24:28.338-06:00</time>
+    <time>2012-12-19T22:25:36.390Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="-158.0" maxlat="90.0" minlon="-159.0" minlat="-90.0"/>
-    <wpt lon="-158.075667" lat="21.336283">
-        <time>2011-06-25T02:00:00.000-05:00</time>
-        <name>OX2VBD7</name>
-        <desc>Rav's Dinosaur Train Geocache: Zhejiangopterus by Rav_Bunneh, Traditional Cache(2.0/1.5/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX2VBD7</url>
-        <urlname>Rav's Dinosaur Train Geocache: Zhejiangopterus</urlname>
-        <sym>Geocache</sym>
-        <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="2632589">
-            <groundspeak:name>Rav's Dinosaur Train Geocache: Zhejiangopterus</groundspeak:name>
-            <groundspeak:placed_by>Rav_Bunneh</groundspeak:placed_by>
-            <groundspeak:owner id="77076">Rav_Bunneh</groundspeak:owner>
-            <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Small</groundspeak:container>
-            <groundspeak:difficulty>2</groundspeak:difficulty>
-            <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Dinosaur Train: Zhejiangopterus!
-
- &lt;br/&gt;&lt;br/&gt; &lt;p&gt;Hi, I'm Rav_Bunneh and I'd like to tell you about one very cool
-dinosaur. The Zhejiangopterus! The Zhejiangopterus lived along the
-shores of Asia 85 million years ago during the Late Cretaceous
-period. We think that they loved eating fish and grew to be 50-75
-pounds with wingspan of 16 feet! What made them different was their
-long graceful neck and head which lacked a crest. Do you remember
-Ziggy Zhejiangopterus in Dinosaur Train who returned Tiny's tiny
-doll?&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;If Zhejiangopterus had lived in Hawaii it might enjoy nesting
-near our state flower, the native Yellow Hibiscus. What types of
-flowers did you see today? Do you think Zhejiangopterus would be
-friends with the Nene (Hawaiian Goose), the state bird of Hawaii?
-Did you see any birds today?&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;br/&gt;
-&lt;br/&gt;
-
-&lt;br/&gt;
-&lt;p&gt;For more information on this educational outreach initiative
-please visit the &lt;a href=&quot;http://www.geocaching.com/dinosaurtrain/&quot;&gt;Dinosaur Train
- Page&lt;/a&gt;.&lt;/p&gt;</groundspeak:long_description>
-            <groundspeak:encoded_hints>Tucked away but still eggciting.</groundspeak:encoded_hints>
-        </groundspeak:cache>
-        <ox:opencaching>
-            <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>2.0</ox:difficulty>
-                <ox:size>3.0</ox:size>
-                <ox:terrain>1.5</ox:terrain>
-            </ox:ratings>
-            <ox:tags>
-                <ox:tag>Bicycles</ox:tag>
-                <ox:tag>Dogs</ox:tag>
-                <ox:tag>Public restrooms nearby</ox:tag>
-                <ox:tag>Parking available</ox:tag>
-                <ox:tag>Recommended for kids</ox:tag>
-                <ox:tag>Short hike (less than 1km)</ox:tag>
-                <ox:tag>Not Snowmobiles</ox:tag>
-                <ox:tag>Takes less than an hour</ox:tag>
-                <ox:tag>Scenic view</ox:tag>
-                <ox:tag>Picnic tables nearby</ox:tag>
-            </ox:tags>
-        </ox:opencaching>
-    </wpt>
     <wpt lon="-158.02155" lat="21.36606">
-        <time>2011-06-25T02:00:00.000-05:00</time>
+        <time>2011-06-25T07:00:00.000Z</time>
         <name>OX2YY4V</name>
         <desc>Krawk Island: Smugglers Grotto by Rav_Bunneh, Traditional Cache(1.5/1.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX2YY4V</url>
@@ -92,14 +25,24 @@ please visit the &lt;a href=&quot;http://www.geocaching.com/dinosaurtrain/&quot;
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
             <groundspeak:long_description html="True">Explore West Lock Shoreline Park!
- &lt;br/&gt;&lt;br/&gt; 
-&lt;br/&gt;
-&lt;br/&gt;
+ &lt;br /&gt;&lt;br /&gt; 
+&lt;br /&gt;
+&lt;br /&gt;
 &lt;p&gt;Welcome to my Krawk Island cache! West Lock Shoreline Park is
 open from 7am - 7pm daily. This cache was designed with the kids in
 mind in order to get them outside to play. This park has lots to
 offer so make it fun!&lt;/p&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Here's the down low.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1732604">
+                    <groundspeak:date>2011-07-29T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="5373">GeoGerms</groundspeak:finder>
+                    <groundspeak:text encoded="False">Quick find, thanks to some recent landscaping.  Covered it up with a rock and some grass.  Found one of rl39e8 pathtags on the ground, placed it back in the cache.  TFTC! [:D]
+
+[b]Infected by [green]GeoGerms[/green] [xx(] #2240[/b]</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -108,64 +51,10 @@ offer so make it fun!&lt;/p&gt;</groundspeak:long_description>
                 <ox:size>3.0</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Parking available</ox:tag>
-                <ox:tag>Recommended for kids</ox:tag>
-                <ox:tag>Takes less than an hour</ox:tag>
-                <ox:tag>Stealth required</ox:tag>
-                <ox:tag>Not Snowmobiles</ox:tag>
-                <ox:tag>Public restrooms nearby</ox:tag>
-                <ox:tag>Dogs</ox:tag>
-                <ox:tag>Bicycles</ox:tag>
-            </ox:tags>
-        </ox:opencaching>
-    </wpt>
-    <wpt lon="-158.023383" lat="21.366183">
-        <time>2011-06-25T02:00:00.000-05:00</time>
-        <name>OX2YY57</name>
-        <desc>Meridell Forest by Rav_Bunneh, Traditional Cache(2.0/1.5/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX2YY57</url>
-        <urlname>Meridell Forest</urlname>
-        <sym>Geocache</sym>
-        <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="2739012">
-            <groundspeak:name>Meridell Forest</groundspeak:name>
-            <groundspeak:placed_by>Rav_Bunneh</groundspeak:placed_by>
-            <groundspeak:owner id="77076">Rav_Bunneh</groundspeak:owner>
-            <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Small</groundspeak:container>
-            <groundspeak:difficulty>2</groundspeak:difficulty>
-            <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Explore West Lock Shoreline Park!
- &lt;br/&gt;&lt;br/&gt; 
-&lt;br/&gt;
-&lt;br/&gt;
-&lt;p&gt;Welcome to my Meridell Forest geocache! West Lock Shoreline Park
-is open from 7am - 7pm daily. This cache was designed with the kids
-in mind in order to get them outside to play. This park has lots to
-offer so make it fun!&lt;/p&gt;</groundspeak:long_description>
-            <groundspeak:encoded_hints>Keep your spirits high.</groundspeak:encoded_hints>
-        </groundspeak:cache>
-        <ox:opencaching>
-            <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>2.0</ox:difficulty>
-                <ox:size>3.0</ox:size>
-                <ox:terrain>1.5</ox:terrain>
-            </ox:ratings>
-            <ox:tags>
-                <ox:tag>Scenic view</ox:tag>
-                <ox:tag>Takes less than an hour</ox:tag>
-                <ox:tag>Public restrooms nearby</ox:tag>
-                <ox:tag>Recommended for kids</ox:tag>
-                <ox:tag>Dogs</ox:tag>
-                <ox:tag>Parking available</ox:tag>
-                <ox:tag>Not Snowmobiles</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="-158.0024333" lat="21.4011833">
-        <time>2008-01-24T02:00:00.000-06:00</time>
+        <time>2008-01-24T08:00:00.000Z</time>
         <name>OX12XB4</name>
         <desc>Palm-Tenna by GeoGerms, Traditional Cache(1.5/1.1/2.9)</desc>
         <url>http://www.opencaching.com/#geocache/OX12XB4</url>
@@ -201,24 +90,37 @@ Open Market (11:30am to 12:30pm).&lt;/p&gt;
      Required&lt;/b&gt; &lt;/p&gt;
 &lt;u&gt;FTF Prize&lt;/u&gt;: 
  Signal FTF Antique Silver LE Geocoin ----&amp;gt; Congrats Anyankachan
-and Spamgirl!&lt;br/&gt;
-&lt;br/&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;PT12XB4 - Palm-Tenna&lt;br/&gt;N 21° 23.992 W 158° 00.071&lt;br/&gt;These coords will get you an upclose view of the Palm-Tenna [8D].</groundspeak:long_description>
+and Spamgirl!&lt;br /&gt;
+&lt;br /&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;PT12XB4 - Palm-Tenna&lt;br /&gt;N 21° 23.992 W 158° 00.071&lt;br /&gt;These coords will get you an upclose view of the Palm-Tenna [8D].</groundspeak:long_description>
             <groundspeak:encoded_hints>it's not black</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="1787411">
+                    <groundspeak:date>2012-04-23T10:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="111403">808familyfun</groundspeak:finder>
+                    <groundspeak:text encoded="False">This was our first cache hunt and we loved it.  My 7 year old daughter had a blast and couldn't stop saying how exciting it was.  We had received our new gps unit in the mail this afternoon and quickly uploaded the info. to track down our first &quot;treasure&quot;.  Thanks for making it a momentous event!
+</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1787410">
+                    <groundspeak:date>2012-04-23T10:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="111403">808familyfun</groundspeak:finder>
+                    <groundspeak:text encoded="False">This was our first cache hunt and we loved it.  My 7 year old daughter had a blast and couldn't stop saying how exciting it was.  We had received our new gps unit in the mail this afternoon and quickly uploaded the info. to track down our first &quot;treasure&quot;.  Thanks for making it a momentous event!</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1515384">
-                    <groundspeak:date>2011-08-26T19:49:45.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-08-27T00:49:45.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="55934">mspragueii</groundspeak:finder>
                     <groundspeak:text encoded="False">Logged via OpenCaching Android app.</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1292543">
-                    <groundspeak:date>2011-06-20T22:37:29.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-06-21T03:37:29.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="37936">NAHENAHE1</groundspeak:finder>
                     <groundspeak:text encoded="False">Found it! My first geocache experience.</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1275308">
-                    <groundspeak:date>2011-06-04T19:20:28.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-06-05T00:20:28.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="30188">Dragongt91</groundspeak:finder>
                     <groundspeak:text encoded="False">Found it! Left some bling...
@@ -233,147 +135,10 @@ Logged via OpenCaching Android app.</groundspeak:text>
                 <ox:size>1.9</ox:size>
                 <ox:terrain>1.1</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>small park</ox:tag>
-            </ox:tags>
-        </ox:opencaching>
-    </wpt>
-    <wpt lon="-158.0071333" lat="21.4188">
-        <time>2011-04-03T02:00:00.000-05:00</time>
-        <name>OX2RGY2</name>
-        <desc>lil bit rock n roll by Rav_Bunneh, Traditional Cache(1.1/1.1/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX2RGY2</url>
-        <urlname>lil bit rock n roll</urlname>
-        <sym>Geocache</sym>
-        <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="2578303">
-            <groundspeak:name>lil bit rock n roll</groundspeak:name>
-            <groundspeak:placed_by>Rav_Bunneh</groundspeak:placed_by>
-            <groundspeak:owner id="77076">Rav_Bunneh</groundspeak:owner>
-            <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Micro</groundspeak:container>
-            <groundspeak:difficulty>1</groundspeak:difficulty>
-            <groundspeak:terrain>1</groundspeak:terrain>
-            <groundspeak:long_description html="True">Cache hidden in wild portion of the Central Oahu Park.
-
- &lt;br/&gt;&lt;br/&gt; &lt;p&gt;Located in the scenic &lt;b&gt;Central Oahu Regional Park&lt;/b&gt; in
-Waipio on the island of Oahu, Hawaii. This geocache is placed mauka
-(mountain side) of the swimming pools and archery range. You may discover gravel, puddles and wet grass so I'd
-personally recommend appropriate shoes. However, there is no need
-at all to go into any of the tall grass.&lt;/p&gt;
-&lt;p&gt;The best parking is next to the swimming pools. You will want to
-obey park hours.&lt;/p&gt;
-
-&lt;br/&gt;
-FTF on April 4th, 2011: &lt;b&gt;GeoGerms&lt;/b&gt; and
-&lt;b&gt;808LadyBug&lt;/b&gt;! </groundspeak:long_description>
-            <groundspeak:encoded_hints>Which man-made rock can roll at 7 o'clock?</groundspeak:encoded_hints>
-        </groundspeak:cache>
-        <ox:opencaching>
-            <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>1.1</ox:difficulty>
-                <ox:size>2.0</ox:size>
-                <ox:terrain>1.1</ox:terrain>
-            </ox:ratings>
-            <ox:tags>
-                <ox:tag>Takes less than an hour</ox:tag>
-                <ox:tag>Not Park and Grab</ox:tag>
-                <ox:tag>Parking available</ox:tag>
-                <ox:tag>Not Wheelchair accessible</ox:tag>
-                <ox:tag>Public restrooms nearby</ox:tag>
-                <ox:tag>Short hike (less than 1km)</ox:tag>
-            </ox:tags>
-        </ox:opencaching>
-    </wpt>
-    <wpt lon="-158.003667" lat="21.422317">
-        <time>2011-06-22T02:00:00.000-05:00</time>
-        <name>OX2YQK4</name>
-        <desc>Blue Dot: Reloaded by Rav_Bunneh, Traditional Cache(1.0/1.0/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX2YQK4</url>
-        <urlname>Blue Dot: Reloaded</urlname>
-        <sym>Geocache</sym>
-        <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="2733677">
-            <groundspeak:name>Blue Dot: Reloaded</groundspeak:name>
-            <groundspeak:placed_by>Rav_Bunneh</groundspeak:placed_by>
-            <groundspeak:owner id="77076">Rav_Bunneh</groundspeak:owner>
-            <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Micro</groundspeak:container>
-            <groundspeak:difficulty>1</groundspeak:difficulty>
-            <groundspeak:terrain>1</groundspeak:terrain>
-            <groundspeak:long_description html="True">The Blue Dot returns!
-
-Having found a new place, near the old cache, I decided it is time for the Blue Dot cache comes back to life -- BUT BRING YOUR OWN PEN! This is still a macro.
-  
-Located in beautiful Waipio this cache is a fast and easy park and grab style cache. There is tons and tons of parking on the street, at Zippy's and at the many gas stations. 
-  
-Please, put only very light swag items in the cache.
-  
-I promise, there are no spiders on this one -- for those still traumatized by my Mos Eisley Cachetina cache.</groundspeak:long_description>
-            <groundspeak:encoded_hints>Stuck neither high nor low.</groundspeak:encoded_hints>
-        </groundspeak:cache>
-        <ox:opencaching>
-            <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>1.0</ox:difficulty>
-                <ox:size>2.0</ox:size>
-                <ox:terrain>1.0</ox:terrain>
-            </ox:ratings>
-            <ox:tags>
-                <ox:tag>Public transportation</ox:tag>
-                <ox:tag>Park and Grab</ox:tag>
-                <ox:tag>Wheelchair accessible</ox:tag>
-                <ox:tag>Stealth required</ox:tag>
-                <ox:tag>Takes less than an hour</ox:tag>
-                <ox:tag>Parking available</ox:tag>
-                <ox:tag>Available at all times</ox:tag>
-                <ox:tag>Fuel Nearby</ox:tag>
-                <ox:tag>Food Nearby</ox:tag>
-                <ox:tag>Not Snowmobiles</ox:tag>
-            </ox:tags>
-        </ox:opencaching>
-    </wpt>
-    <wpt lon="-158.01497" lat="21.45856">
-        <time>2011-06-25T02:00:00.000-05:00</time>
-        <name>OX2YY4N</name>
-        <desc>Blue Dot #2: The Doctor's Not In by Rav_Bunneh, Traditional Cache(1.5/1.0/3.0)</desc>
-        <url>http://www.opencaching.com/#geocache/OX2YY4N</url>
-        <urlname>Blue Dot #2: The Doctor's Not In</urlname>
-        <sym>Geocache</sym>
-        <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="2738995">
-            <groundspeak:name>Blue Dot #2: The Doctor's Not In</groundspeak:name>
-            <groundspeak:placed_by>Rav_Bunneh</groundspeak:placed_by>
-            <groundspeak:owner id="77076">Rav_Bunneh</groundspeak:owner>
-            <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Micro</groundspeak:container>
-            <groundspeak:difficulty>1.5</groundspeak:difficulty>
-            <groundspeak:terrain>1</groundspeak:terrain>
-            <groundspeak:long_description html="True">This is not the TARDIS and The Doctor is not in.
-
-This is the second in my Blue Dot series. This time we are visiting Millilani! I hope you enjoy this park and grab style macro -- as such remember to BYOPen. You will also find a lot of muggles here at all times so take care to not be seen. Enjoy!</groundspeak:long_description>
-            <groundspeak:encoded_hints>Can't get a leg up on you!</groundspeak:encoded_hints>
-        </groundspeak:cache>
-        <ox:opencaching>
-            <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>1.5</ox:difficulty>
-                <ox:size>2.0</ox:size>
-                <ox:terrain>1.0</ox:terrain>
-            </ox:ratings>
-            <ox:tags>
-                <ox:tag>Telephone nearby</ox:tag>
-                <ox:tag>Takes less than an hour</ox:tag>
-                <ox:tag>Stealth required</ox:tag>
-                <ox:tag>Not Snowmobiles</ox:tag>
-                <ox:tag>Parking available</ox:tag>
-                <ox:tag>Park and Grab</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="-158.00615" lat="21.4639667">
-        <time>2009-04-19T02:00:00.000-05:00</time>
+        <time>2009-04-19T07:00:00.000Z</time>
         <name>OX1B87J</name>
         <desc>Mililani the All-America City by GeoGerms, Traditional Cache(2.5/1.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OX1B87J</url>
@@ -394,8 +159,8 @@ community on the island of O'ahu. Located near the center of the
 island, Mililani has a population of 28,608 (2000 census). In 1986,
 Mililani was awarded the title of All-America City by the
 National Civic League. It is the
-only community in Hawaii ever to receive that distinction.&lt;br/&gt;
-&lt;br/&gt;
+only community in Hawaii ever to receive that distinction.&lt;br /&gt;
+&lt;br /&gt;
  Some other interesting facts about Mililani: 
 &lt;ul&gt;
 &lt;li&gt;On June 3, 1968, 112 houses were originally offered for
@@ -420,11 +185,17 @@ streets and the terrain isn't really 1. Lastly, don't forget to
 &lt;u&gt;FTF Prize&lt;/u&gt;:
 
  Geocoin - USA Flag Micro Black Nickel ----&amp;gt; &lt;b&gt;Congrats Kailua
-Al and Off-Roader!&lt;/b&gt;&lt;br/&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;SP1B87J - Safe Parking&lt;br/&gt;N 21° 27.691 W 158° 00.591&lt;br/&gt;Safe Parking, no street crossings needed.</groundspeak:long_description>
+Al and Off-Roader!&lt;/b&gt;&lt;br /&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;SP1B87J - Safe Parking&lt;br /&gt;N 21° 27.691 W 158° 00.591&lt;br /&gt;Safe Parking, no street crossings needed.</groundspeak:long_description>
             <groundspeak:encoded_hints>Rock wall, arms length from sidewalk</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="2287648">
+                    <groundspeak:date>2012-12-01T02:31:12.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="162455">mrscorvid</groundspeak:finder>
+                    <groundspeak:text encoded="False">Did not find it. Please let us know when you check on it.</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1172720">
-                    <groundspeak:date>2011-02-22T23:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2011-02-23T05:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Didn't find it</groundspeak:type>
                     <groundspeak:finder id="11746">G.GORDANIER</groundspeak:finder>
                     <groundspeak:text encoded="False"/>
@@ -438,13 +209,10 @@ Al and Off-Roader!&lt;/b&gt;&lt;br/&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;SP
                 <ox:size>1.6</ox:size>
                 <ox:terrain>1.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Urban Cache</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="-158.1414667" lat="21.5069667">
-        <time>2009-05-16T02:00:00.000-05:00</time>
+        <time>2009-05-16T07:00:00.000Z</time>
         <name>OX1D8GN</name>
         <desc>The Boys Couldn't, But The Girl Did :P by GeoGerms, Traditional Cache(2.1/4.5/3.1)</desc>
         <url>http://www.opencaching.com/#geocache/OX1D8GN</url>
@@ -506,7 +274,7 @@ stash.&lt;/b&gt;&lt;/p&gt;
             <groundspeak:encoded_hints>Tied to base of small tree behind pole on the right.  See Photo Below</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="1532619">
-                    <groundspeak:date>2011-09-02T05:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-09-02T10:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="58429">J Slinker</groundspeak:finder>
                     <groundspeak:text encoded="False">The hike up to Ka'ala was definitely worth it.  Finding this cache was just icing on the cake.  This is my first cache and after this experience, I will definitely be hunting more often.  Thanks for the hunt.  
@@ -522,16 +290,12 @@ stash.&lt;/b&gt;&lt;/p&gt;
                 <ox:size>3.9</ox:size>
                 <ox:terrain>4.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>long hike</ox:tag>
-                <ox:tag>Scenic View</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="-158.2228333" lat="21.5779333">
-        <time>2010-05-16T02:00:00.000-05:00</time>
+        <time>2010-05-16T07:00:00.000Z</time>
         <name>OX27NMF</name>
-        <desc>&quot;Lost&quot; Cache - Othersville by GeoGerms, Traditional Cache(1.6/1.5/3.0)</desc>
+        <desc>&quot;Lost&quot; Cache - Othersville by GeoGerms, Traditional Cache(1.5/1.5/2.8)</desc>
         <url>http://www.opencaching.com/#geocache/OX27NMF</url>
         <urlname>&quot;Lost&quot; Cache - Othersville</urlname>
         <sym>Geocache</sym>
@@ -554,21 +318,27 @@ The show is produced by ABC Television Studio (formerly Touchstone
 Television), Bad Robot Productions and Grass Skirt Productions and
 airs on the ABC Network in the U.S. Because of its large ensemble
 cast and the cost of filming in Hawaii, the series is one of the
-most expensive on television.&lt;br/&gt;
-&lt;p&gt;&lt;b&gt;&lt;u&gt;Cache info:&lt;/u&gt;&lt;/b&gt;&lt;br/&gt;
+most expensive on television.&lt;br /&gt;
+&lt;p&gt;&lt;b&gt;&lt;u&gt;Cache info:&lt;/u&gt;&lt;/b&gt;&lt;br /&gt;
 The cache is located along Farrington Hwy right before YMCA's Camp
 Erdman where they have filmed parts of &quot;Lost&quot;. A little further
 past the cache site you will see the mustard color cabins on the
 left that was &quot;Othersville&quot;. Please do not enter the cabin area as
 it is private property.&lt;/p&gt;
-&lt;br/&gt;
+&lt;br /&gt;
 &lt;u&gt;FTF Prize&lt;/u&gt;: Pirate's Booty Geocoin ----&amp;gt;
 &lt;b&gt;Congrats Hapa's Squad&lt;/b&gt; 
 </groundspeak:long_description>
             <groundspeak:encoded_hints>Cammo'd plastic jar under piece of wood</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="2065100">
+                    <groundspeak:date>2012-08-09T10:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="149229">Landnavmaster</groundspeak:finder>
+                    <groundspeak:text encoded="False">I Found this one while grabbing it as a geocache as well. SL, TNLN, TFTC and the hunt.  Landnavmaster</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1172722">
-                    <groundspeak:date>2011-02-28T23:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2011-03-01T05:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="11746">G.GORDANIER</groundspeak:finder>
                     <groundspeak:text encoded="False"/>
@@ -577,20 +347,17 @@ it is private property.&lt;/p&gt;
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>1.6</ox:difficulty>
-                <ox:size>3.0</ox:size>
+                <ox:awesomeness>2.8</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.8</ox:size>
                 <ox:terrain>1.5</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>LOST TV Show</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="-158.2140167" lat="21.5802">
-        <time>2007-03-26T02:00:00.000-05:00</time>
+        <time>2007-03-26T07:00:00.000Z</time>
         <name>OX11ANH</name>
-        <desc>&quot;Lost&quot; Cache - The Crash Site by GeoGerms, Traditional Cache(2.0/2.5/3.0)</desc>
+        <desc>&quot;Lost&quot; Cache - The Crash Site by GeoGerms, Traditional Cache(1.9/2.4/2.8)</desc>
         <url>http://www.opencaching.com/#geocache/OX11ANH</url>
         <urlname>&quot;Lost&quot; Cache - The Crash Site</urlname>
         <sym>Geocache</sym>
@@ -613,9 +380,9 @@ is produced by ABC Television Studio (formerly Touchstone
 Television), Bad Robot Productions and Grass Skirt Productions and
 airs on the ABC Network in the U.S. Because of its large ensemble
 cast and the cost of filming in Hawaii, the series is one of the
-most expensive on television.&lt;br/&gt;
-&lt;br/&gt;
-&lt;p&gt;&lt;b&gt;&lt;u&gt;Cache info:&lt;/u&gt;&lt;/b&gt;&lt;br/&gt;
+most expensive on television.&lt;br /&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;b&gt;&lt;u&gt;Cache info:&lt;/u&gt;&lt;/b&gt;&lt;br /&gt;
 The cache is located on Mokule'ia Beach where they have filmed and
 still film parts of &quot;Lost&quot;. This is the spot, in Season 1, where
 the center portion of Oceanic Flight 815 came to rest after
@@ -625,32 +392,38 @@ the Dillingham runway. If you arrive at the coordinates to find a
 slew of trailers and muggles, it might not be a good time to hunt
 for it. You will undoubtedly get shooed away by security and the
 HPD (Honolulu Police Department).&lt;/p&gt;
-&lt;br/&gt;
+&lt;br /&gt;
 5/16/2010 Update - the Plane crash parts on the other side of
-Dilingham airfield have been removed .&lt;br/&gt;
-&lt;br/&gt;
+Dilingham airfield have been removed .&lt;br /&gt;
+&lt;br /&gt;
 &lt;u&gt;FTF prize&lt;/u&gt;: 
- Tracking Time Geocoin----&amp;gt;(congrats Geocaching-Geckos)&lt;br/&gt;
-&lt;br/&gt;
+ Tracking Time Geocoin----&amp;gt;(congrats Geocaching-Geckos)&lt;br /&gt;
+&lt;br /&gt;
 
  
-&lt;p&gt;Additional Waypoints&lt;/p&gt;LT11ANH - &quot;Lost&quot; Prop used to be here :(&lt;br/&gt;N 21° 34.674 W 158° 12.030&lt;br/&gt;Center portion of Oceanic Flight 815 used to be located here.  It is no longer on site as LOST has finished filming.</groundspeak:long_description>
+&lt;p&gt;Additional Waypoints&lt;/p&gt;LT11ANH - &quot;Lost&quot; Prop used to be here :(&lt;br /&gt;N 21° 34.674 W 158° 12.030&lt;br /&gt;Center portion of Oceanic Flight 815 used to be located here.  It is no longer on site as LOST has finished filming.</groundspeak:long_description>
             <groundspeak:encoded_hints>Dharma'ed lock-n-lock in naupaka bush &quot;tunnel&quot;.</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="2065099">
+                    <groundspeak:date>2012-08-09T10:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="149229">Landnavmaster</groundspeak:finder>
+                    <groundspeak:text encoded="False">I Found this one while grabbing it as a geocache as well. SL, TNLN, TFTC and the hunt.  Landnavmaster</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1172721">
-                    <groundspeak:date>2011-02-28T23:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2011-03-01T05:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="11746">G.GORDANIER</groundspeak:finder>
                     <groundspeak:text encoded="False"/>
                 </groundspeak:log>
                 <groundspeak:log id="296042">
-                    <groundspeak:date>2008-08-09T00:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2008-08-09T05:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="3076">Romanese</groundspeak:finder>
                     <groundspeak:text encoded="False">Very nice beach! We found the cache quickly. TFTC.</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="842833">
-                    <groundspeak:date>2008-05-01T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2008-05-01T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="7655">TheBisch</groundspeak:finder>
                     <groundspeak:text encoded="False">19:06 - Found on a beautiful Thursday afternoon on my vacation to the islands. I had decided to go on a little driving tour to a part of the island I had not been to before and this cache was along the way. I wasn't sure if I'd have time for caching on Friday and/or Saturday and I knew I wanted to find this one!  I pulled up on the beach right at sunset, there were a few men here fishing, but I didn't seem to bother them as I headed off in the other direction.  Soon, I was at the beach!  Very cool!  Found the cache in short order after snapping a few pics!
@@ -665,19 +438,15 @@ L - KROCY TB</groundspeak:text>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>2.0</ox:difficulty>
-                <ox:size>4.0</ox:size>
-                <ox:terrain>2.5</ox:terrain>
+                <ox:awesomeness>2.8</ox:awesomeness>
+                <ox:difficulty>1.9</ox:difficulty>
+                <ox:size>3.7</ox:size>
+                <ox:terrain>2.4</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>LOST TV Show</ox:tag>
-                <ox:tag>Scenic View</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="-158.1096667" lat="21.5934167">
-        <time>2011-10-11T23:23:38.000-05:00</time>
+        <time>2011-10-12T04:23:38.000Z</time>
         <name>OXZTQ31</name>
         <desc>Surfs Up by mitaccio, Traditional Cache(2.5/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTQ31</url>
@@ -692,10 +461,17 @@ L - KROCY TB</groundspeak:text>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Located on Hale'iwa beach, a famous location known for its huge surf in the wintertime.  Along with a great beach, the location boasts a wonderful park with large shade trees, plenty of picnic areas and benches, and restroom.  Great place to take the family for the day to enjoy some food, the waves, the sand, and if you are lucky a seaturtle or two!
-
-FTF Prize: Lego lifeguard minifigure  </groundspeak:long_description>
+            <groundspeak:long_description html="True">Located on Hale'iwa beach, a famous location known for its huge surf in the wintertime.  Along with a great beach, the location boasts a wonderful park with large shade trees, plenty of picnic areas and benches, and restroom.  Great place to take the family for the day to enjoy some food, the waves, the sand, and if you are lucky a seaturtle or two!&lt;br/&gt;&lt;br/&gt;FTF Prize: Lego lifeguard minifigure  </groundspeak:long_description>
             <groundspeak:encoded_hints>In a green space between the rocks and a hard place</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2236675">
+                    <groundspeak:date>2012-11-15T21:21:27.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="162455">mrscorvid</groundspeak:finder>
+                    <groundspeak:text encoded="False">Logged via OpenCaching Android app.
+It says we were in the right place and we searched and searched but nothing seems ti be here but a beautiful view. maybe it got picked up in all t he garbage or by someone at the surfing competition. also, the compass would just spin  whenever we got around 2 feet and 0 kept moving. We'd love to try again after you check on it! Thank you!</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -705,17 +481,14 @@ FTF Prize: Lego lifeguard minifigure  </groundspeak:long_description>
                 <ox:terrain>2.5</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>Swimming Area Nearby</ox:tag>
-                <ox:tag>Picnic Area</ox:tag>
-                <ox:tag>Great beach walk</ox:tag>
-                <ox:tag>Ocean Views</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
             </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="-158.0852667" lat="21.6187167">
-        <time>2007-01-13T02:00:00.000-06:00</time>
+        <time>2007-01-13T08:00:00.000Z</time>
         <name>OX102CV</name>
-        <desc>Honu Beach Cache by GeoGerms, Traditional Cache(2.5/1.6/3.0)</desc>
+        <desc>Honu Beach Cache by GeoGerms, Traditional Cache(2.4/1.6/2.9)</desc>
         <url>http://www.opencaching.com/#geocache/OX102CV</url>
         <urlname>Honu Beach Cache</urlname>
         <sym>Geocache</sym>
@@ -725,10 +498,10 @@ FTF Prize: Lego lifeguard minifigure  </groundspeak:long_description>
             <groundspeak:placed_by>GeoGerms</groundspeak:placed_by>
             <groundspeak:owner id="5373">GeoGerms</groundspeak:owner>
             <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2.5</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">&lt;br/&gt;
+            <groundspeak:long_description html="True">&lt;br /&gt;
 &lt;b&gt;Laniakea Beach&lt;/b&gt; a.k.a. Lani's Beach or
 “Turtle Beach” is not hard to find. From the historic
 town of Haleiwa travel about 1.5 miles up Kamehameha Highway to
@@ -771,7 +544,7 @@ wild animal. Extra care should be taken when interacting with any
 wild animal.&lt;/p&gt;
 &lt;p&gt;For more info on Green Sea Turtles visit Green Sea
 Turtles.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Now for the cache:&lt;/b&gt;&lt;br/&gt;
+&lt;p&gt;&lt;b&gt;Now for the cache:&lt;/b&gt;&lt;br /&gt;
 The listed coords should take you to the road just outside of the
 little pine tree grove (behind signs in picture). The cache is
 about 5 feet makai of spot. It's not on the beach, but you can be
@@ -780,12 +553,12 @@ Lock-n-Lock, amongst the pine needles. Please rehide it well.
 Turtle swag would be cool!&lt;/p&gt;
 &lt;u&gt;FTF prize&lt;/u&gt;: 
  MicroLogger Geocoin - Copper----&amp;gt;(congrats
-Geocaching-Geckos)&lt;br/&gt;
-&lt;br/&gt;
+Geocaching-Geckos)&lt;br /&gt;
+&lt;br /&gt;
 
 
 
-&lt;br/&gt;
+&lt;br /&gt;
 &lt;p&gt;Special thanks to MrGrubstake for shelling out
 the cache .&lt;/p&gt;
 
@@ -793,20 +566,32 @@ the cache .&lt;/p&gt;
 </groundspeak:long_description>
             <groundspeak:encoded_hints>Base of pine tree covered in pine needles.</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="2065098">
+                    <groundspeak:date>2012-08-09T10:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="149229">Landnavmaster</groundspeak:finder>
+                    <groundspeak:text encoded="False">I Found this one while grabbing it as a geocache as well. SL, TNLN, TFTC and the hunt.  Landnavmaster</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1956852">
+                    <groundspeak:date>2012-07-13T01:39:39.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="109882">JEFFREYKING81500</groundspeak:finder>
+                    <groundspeak:text encoded="False">Logged via OpenCaching Android app.</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1172716">
-                    <groundspeak:date>2011-02-20T23:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2011-02-21T05:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="11746">G.GORDANIER</groundspeak:finder>
                     <groundspeak:text encoded="False"/>
                 </groundspeak:log>
                 <groundspeak:log id="32794">
-                    <groundspeak:date>2009-03-21T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2009-03-21T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="301">webscouter</groundspeak:finder>
                     <groundspeak:text encoded="False">After landing at the airport I headed up here so that I could take some pictures of the Honu. When I got to the beach the turtles were eating seaweed off of the rocks and many people were standing on the rocks watching them so I headed across the rocks to watch. My foot slipped on the last rock and I, my Garmin and my camera went swimming with the turtles. Other than my pride being hurt I was OK and the trusty Garmin was still dutifully pointing towards the cache. My camera on the other hand appears to be a victim of death by seawater. After a few minutes two of the turtles headed up the beach to warm up. The picture I took is the best I could do with my cell phone. I found the cache without being observed while everyone was watching the turtles and headed back down to my hotel. Thanks for another great cache.</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1630189">
-                    <groundspeak:date>2009-02-06T14:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2009-02-06T20:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="5310">GOLDFINCH</groundspeak:finder>
                     <groundspeak:text encoded="False">6058. 
@@ -816,30 +601,39 @@ Team Goldfinch
 Mason, Michigan </groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1521917">
-                    <groundspeak:date>2008-10-20T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2008-10-20T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="56353">SAT RECON</groundspeak:finder>
                     <groundspeak:text encoded="False">Dear Honu,
 Thanks for an excellent adventure! We were told by littletreasurehunters not to miss you and we're glad we didn't! We got to see two turtles, one south of the cache and one north of the cache. One was swimming underwater and the other one was up on the shore. Very gentle good natured fellows! Thanks again for the fun!</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="296045">
-                    <groundspeak:date>2008-08-09T00:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2008-08-09T05:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="3076">Romanese</groundspeak:finder>
                     <groundspeak:text encoded="False">We are really happy to see 8 big sea turtles. The cache is really a &quot;must&quot;. Thank you for showing us this great place. TFTC.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="874089">
+                    <groundspeak:date>2008-02-17T20:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4038">hjnielsen</groundspeak:finder>
+                    <groundspeak:text encoded="False">doing a little caching after hitting the Dole plantation. tftc sl what a great place for a cache. 5 turtles COOL</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1368408">
+                    <groundspeak:date>2007-02-18T08:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="14476">BISHOPTAKESQUEEN</groundspeak:finder>
+                    <groundspeak:text encoded="False">left a top took a turtle, great spot, saw some turtles.</groundspeak:text>
                 </groundspeak:log>
             </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>3.0</ox:awesomeness>
-                <ox:difficulty>2.5</ox:difficulty>
-                <ox:size>3.5</ox:size>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>2.4</ox:difficulty>
+                <ox:size>3.3</ox:size>
                 <ox:terrain>1.6</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Observe Wildlife - Turtles</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
 </gpx>

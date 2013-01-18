@@ -1,139 +1,74 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>8 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,174,90,175</url>
-    <time>2012-01-04T09:33:15.893-06:00</time>
+    <time>2012-12-19T23:05:26.329Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="175.0" maxlat="90.0" minlon="174.0" minlat="-90.0"/>
-    <wpt lon="174.6978333" lat="-36.7788167">
-        <time>2010-12-08T13:05:49.000-06:00</time>
-        <name>OXZTY1C</name>
-        <desc>Nano Hell (Auckland) by Kevs_Team, Traditional Cache(2.5/2.8/2.8)</desc>
-        <url>http://www.opencaching.com/#geocache/OXZTY1C</url>
-        <urlname>Nano Hell (Auckland)</urlname>
+    <wpt lon="174.7259167" lat="-36.7380833">
+        <time>2012-01-25T00:53:50.000Z</time>
+        <name>OXZTMD5</name>
+        <desc>The Eagle has Landed (Auckland) by Zork V, Traditional Cache(2.0/2.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTMD5</url>
+        <urlname>The Eagle has Landed (Auckland)</urlname>
         <sym>Geocache</sym>
         <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="28478317">
-            <groundspeak:name>Nano Hell (Auckland)</groundspeak:name>
-            <groundspeak:placed_by>Kevs_Team</groundspeak:placed_by>
-            <groundspeak:owner id="2308">Kevs_Team</groundspeak:owner>
+        <groundspeak:cache archived="False" available="True" id="28470033">
+            <groundspeak:name>The Eagle has Landed (Auckland)</groundspeak:name>
+            <groundspeak:placed_by>Zork V</groundspeak:placed_by>
+            <groundspeak:owner id="54398">Zork V</groundspeak:owner>
             <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Micro</groundspeak:container>
-            <groundspeak:difficulty>2.5</groundspeak:difficulty>
-            <groundspeak:terrain>3</groundspeak:terrain>
-            <groundspeak:long_description html="True">Nano Hell !!! and I mean HELL !!!!
-
-Nice little park and boat slip way in the Bayview area.
-
-Cache is a Nano so if your not into looking for small caches that are hidden well don't attempt this one, you have been warned
-
-The cache is reachable at all times but if you get your timing wrong you will get a bit wet. 
-
-Was rejected on geocaching.com for being to close to another cache !</groundspeak:long_description>
-            <groundspeak:encoded_hints>At eye level
-What does a dog do ?</groundspeak:encoded_hints>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">A piece of landing craft from the Apollo Space Programme has become detatched. Your mission is to find it and transmit back to Mission Control that you have seen it.&lt;br/&gt;&lt;br/&gt;You are searching for a unit the size of a Camoed Sunglass Case.&lt;br/&gt;&lt;br/&gt;Please sign the enclosed Log and return it to where you found so the Recovery Team may retrieve when next in orbit.    </groundspeak:long_description>
+            <groundspeak:encoded_hints>Under the luna tundra</groundspeak:encoded_hints>
             <groundspeak:logs>
-                <groundspeak:log id="1687469">
-                    <groundspeak:date>2011-11-25T05:00:00.000-06:00</groundspeak:date>
+                <groundspeak:log id="1773719">
+                    <groundspeak:date>2012-03-25T07:03:58.000Z</groundspeak:date>
                     <groundspeak:type>Didn't find it</groundspeak:type>
-                    <groundspeak:finder id="18323">THE.PUD</groundspeak:finder>
-                    <groundspeak:text encoded="False">Is the owner going to maintain this cache?</groundspeak:text>
-                </groundspeak:log>
-                <groundspeak:log id="1606142">
-                    <groundspeak:date>2011-10-06T06:00:00.000-05:00</groundspeak:date>
-                    <groundspeak:type>Didn't find it</groundspeak:type>
-                    <groundspeak:finder id="18323">THE.PUD</groundspeak:finder>
-                    <groundspeak:text encoded="False">Add me to the DNFer's might pay for the owner to check it's still there?</groundspeak:text>
-                </groundspeak:log>
-                <groundspeak:log id="1598143">
-                    <groundspeak:date>2011-10-04T06:00:00.000-05:00</groundspeak:date>
-                    <groundspeak:type>Didn't find it</groundspeak:type>
-                    <groundspeak:finder id="54398">Zork V</groundspeak:finder>
-                    <groundspeak:text encoded="False">No joy for me, more help required.</groundspeak:text>
+                    <groundspeak:finder id="102403">GAHAYLOCK</groundspeak:finder>
+                    <groundspeak:text encoded="False">Logged via OpenCaching Android app. Had a look for this today but was unable to find it, a nice bush walk with the dogs though. </groundspeak:text>
                 </groundspeak:log>
             </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>2.8</ox:awesomeness>
-                <ox:difficulty>2.5</ox:difficulty>
-                <ox:size>1.0</ox:size>
-                <ox:terrain>2.8</ox:terrain>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>2.5</ox:terrain>
             </ox:ratings>
-        </ox:opencaching>
-    </wpt>
-    <wpt lon="174.65965" lat="-36.7886333">
-        <time>2010-12-08T13:01:44.000-06:00</time>
-        <name>OXZTY1D</name>
-        <desc>Battle Ground View (Auckland) by Kevs_Team, Traditional Cache(2.4/1.5/2.8)</desc>
-        <url>http://www.opencaching.com/#geocache/OXZTY1D</url>
-        <urlname>Battle Ground View (Auckland)</urlname>
-        <sym>Geocache</sym>
-        <type>Geocache|Traditional Cache</type>
-        <groundspeak:cache archived="False" available="True" id="28478318">
-            <groundspeak:name>Battle Ground View (Auckland)</groundspeak:name>
-            <groundspeak:placed_by>Kevs_Team</groundspeak:placed_by>
-            <groundspeak:owner id="2308">Kevs_Team</groundspeak:owner>
-            <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Micro</groundspeak:container>
-            <groundspeak:difficulty>2.5</groundspeak:difficulty>
-            <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Micro Camo Bullet BYO Pencil
-
-From this location you can view what remains of the great battle of the bridge that took place in 2009.
-
-Its amazing that the bridge still stands after being Nuked during the battle last year. As can be seen nature has reclaimed what was once a wasteland.
-This cache is a very small Micro bullet with camo applied.
-
-Once found replace the bullet correctly so the next cacher can spend time swearing and pulling their hair 
-
-This cache was rejected on geocaching.com due to being close to a multi</groundspeak:long_description>
-            <groundspeak:encoded_hints>Low down but do not bark up the wrong tree</groundspeak:encoded_hints>
-            <groundspeak:logs>
-                <groundspeak:log id="1628343">
-                    <groundspeak:date>2011-10-17T06:00:00.000-05:00</groundspeak:date>
-                    <groundspeak:type>Didn't find it</groundspeak:type>
-                    <groundspeak:finder id="54398">Zork V</groundspeak:finder>
-                    <groundspeak:text encoded="False">Looks like its gone Kev, there is nothing lft of the stump.
-
-Time for it to go.</groundspeak:text>
-                </groundspeak:log>
-                <groundspeak:log id="1606143">
-                    <groundspeak:date>2011-10-06T06:00:00.000-05:00</groundspeak:date>
-                    <groundspeak:type>Didn't find it</groundspeak:type>
-                    <groundspeak:finder id="18323">THE.PUD</groundspeak:finder>
-                    <groundspeak:text encoded="False">Another DNF, might pay for the owner to check it's still there?</groundspeak:text>
-                </groundspeak:log>
-                <groundspeak:log id="1598142">
-                    <groundspeak:date>2011-10-04T06:00:00.000-05:00</groundspeak:date>
-                    <groundspeak:type>Didn't find it</groundspeak:type>
-                    <groundspeak:finder id="54398">Zork V</groundspeak:finder>
-                    <groundspeak:text encoded="False">No luck for me today.
-
-A better hint would be nice.</groundspeak:text>
-                </groundspeak:log>
-                <groundspeak:log id="1198168">
-                    <groundspeak:date>2011-04-04T13:04:56.000-05:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="16110">SMDUDD</groundspeak:finder>
-                    <groundspeak:text encoded="False"/>
-                </groundspeak:log>
-            </groundspeak:logs>
-        </groundspeak:cache>
-        <ox:opencaching>
-            <ox:ratings>
-                <ox:awesomeness>2.8</ox:awesomeness>
-                <ox:difficulty>2.4</ox:difficulty>
-                <ox:size>1.0</ox:size>
-                <ox:terrain>1.5</ox:terrain>
-            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Space debris near GZ.jpg</ox:name>
+                    <ox:size>114308</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>View from GZ.jpg</ox:name>
+                    <ox:size>131416</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Land here.jpg</ox:name>
+                    <ox:size>87681</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
         </ox:opencaching>
     </wpt>
     <wpt lon="174.8133333" lat="-36.8262167">
-        <time>2010-12-08T12:58:20.000-06:00</time>
+        <time>2010-12-08T18:58:20.000Z</time>
         <name>OXZTY1E</name>
         <desc>North Head – Rangitito View (Auckland) by Kevs_Team, Traditional Cache(2.0/2.5/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTY1E</url>
@@ -148,21 +83,29 @@ A better hint would be nice.</groundspeak:text>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Nano hidden in a manmade cave with a great view of Rangitito Gates close 10pm GPS cords gets your to the entrance the cache is hidden within Bring a touch BYO Pen
-
-Remember these cords will get you to the entrance you will have to look very hard to find the nano in the cave !!!!!!
-
-North Head is a small strategic headland at the mouth of Auckland's Waitemata Harbour. Its commanding views over the Hauraki Gulf and inner harbour have made it an important lookout and defence site for centuries, first for early Maori inhabitants and later for European settlers.
-North Head was one of a number of defence forts that were rapidly set up in the late 1800s to defend Auckland from a feared Russian attack. The fort was later expanded as part of Auckland's coastal defence system during World Wars I and II.
-
-A complex of tunnels, guns, searchlights and other fortifications make this a fascinating area to explore. It is now a historic reserve managed by the Department of Conservation.
-North Head (named Maungauika by Maori) is a taonga with many special places. The tangata whenua have a spiritual, cultural and historical relationship with their taonga.
-
-This cache was first published on geocaching.com but was rejected as being to close to a multi way point</groundspeak:long_description>
+            <groundspeak:long_description html="True">Nano hidden in a manmade cave with a great view of Rangitito Gates close 10pm GPS cords gets your to the entrance the cache is hidden within Bring a touch BYO Pen&lt;br/&gt;&lt;br/&gt;Remember these cords will get you to the entrance you will have to look very hard to find the nano in the cave !!!!!!&lt;br/&gt;&lt;br/&gt;North Head is a small strategic headland at the mouth of Auckland's Waitemata Harbour. Its commanding views over the Hauraki Gulf and inner harbour have made it an important lookout and defence site for centuries, first for early Maori inhabitants and later for European settlers.&lt;br/&gt;North Head was one of a number of defence forts that were rapidly set up in the late 1800s to defend Auckland from a feared Russian attack. The fort was later expanded as part of Auckland's coastal defence system during World Wars I and II.&lt;br/&gt;&lt;br/&gt;A complex of tunnels, guns, searchlights and other fortifications make this a fascinating area to explore. It is now a historic reserve managed by the Department of Conservation.&lt;br/&gt;North Head (named Maungauika by Maori) is a taonga with many special places. The tangata whenua have a spiritual, cultural and historical relationship with their taonga.&lt;br/&gt;&lt;br/&gt;This cache was first published on geocaching.com but was rejected as being to close to a multi way point</groundspeak:long_description>
             <groundspeak:encoded_hints>Above eye level</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="2119667">
+                    <groundspeak:date>2012-10-20T15:10:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="158304">STEWS12</groundspeak:finder>
+                    <groundspeak:text encoded="False">&quot;&quot;</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="2061298">
+                    <groundspeak:date>2012-09-04T08:44:34.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="86288">THEOLANDY</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1779405">
+                    <groundspeak:date>2012-04-03T12:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="54398">Zork V</groundspeak:finder>
+                    <groundspeak:text encoded="False">Could not get to the site due a fence erected by the council to do repair work on the cliff area.</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="787391">
-                    <groundspeak:date>2010-12-14T16:30:41.000-06:00</groundspeak:date>
+                    <groundspeak:date>2010-12-14T22:30:41.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="2255">rediguana</groundspeak:finder>
                     <groundspeak:text encoded="False"/>
@@ -177,13 +120,12 @@ This cache was first published on geocaching.com but was rejected as being to cl
                 <ox:terrain>2.5</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>North Head</ox:tag>
-                <ox:tag>WWW</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
             </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="174.8129333" lat="-36.8290833">
-        <time>2010-12-08T12:51:11.000-06:00</time>
+        <time>2010-12-08T18:51:11.000Z</time>
         <name>OXZTY1G</name>
         <desc>North Head – Search Light (Auckland) by Kevs_Team, Traditional Cache(2.0/2.0/3.0)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTY1G</url>
@@ -198,20 +140,16 @@ This cache was first published on geocaching.com but was rejected as being to cl
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">Nano hidden in a old WWW II search light emplacement BYO Pen
-
-North Head is a small strategic headland at the mouth of Auckland's Waitemata Harbour. 
-
-Its commanding views over the Hauraki Gulf and inner harbour have made it an important lookout and defence site for centuries, first for early Maori inhabitants and later for European settlers.
-
-North Head was one of a number of defence forts that were rapidly set up in the late 1800s to defend Auckland from a feared Russian attack. The fort was later expanded as part of Auckland's coastal defence system during World Wars I and II.
-
-A complex of tunnels, guns, searchlights and other fortifications make this a fascinating area to explore. It is now a historic reserve managed by the Department of Conservation.
-
-North Head (named Maungauika by Maori) is a taonga with many special places. The tangata whenua have a spiritual, cultural and historical relationship with their taonga.
-
-This cache was 1st placed on geocaching.com back in May 2010 but was rejected due to it being close to a multi way point</groundspeak:long_description>
+            <groundspeak:long_description html="True">Nano hidden in a old WWW II search light emplacement BYO Pen&lt;br/&gt;&lt;br/&gt;North Head is a small strategic headland at the mouth of Auckland's Waitemata Harbour. &lt;br/&gt;&lt;br/&gt;Its commanding views over the Hauraki Gulf and inner harbour have made it an important lookout and defence site for centuries, first for early Maori inhabitants and later for European settlers.&lt;br/&gt;&lt;br/&gt;North Head was one of a number of defence forts that were rapidly set up in the late 1800s to defend Auckland from a feared Russian attack. The fort was later expanded as part of Auckland's coastal defence system during World Wars I and II.&lt;br/&gt;&lt;br/&gt;A complex of tunnels, guns, searchlights and other fortifications make this a fascinating area to explore. It is now a historic reserve managed by the Department of Conservation.&lt;br/&gt;&lt;br/&gt;North Head (named Maungauika by Maori) is a taonga with many special places. The tangata whenua have a spiritual, cultural and historical relationship with their taonga.&lt;br/&gt;&lt;br/&gt;This cache was 1st placed on geocaching.com back in May 2010 but was rejected due to it being close to a multi way point</groundspeak:long_description>
             <groundspeak:encoded_hints>Magnetic</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2119668">
+                    <groundspeak:date>2012-10-20T15:13:00.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="158304">STEWS12</groundspeak:finder>
+                    <groundspeak:text encoded="False">&quot;&quot;</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
@@ -221,13 +159,12 @@ This cache was 1st placed on geocaching.com back in May 2010 but was rejected du
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>WWW</ox:tag>
-                <ox:tag>North Head</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
             </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="174.887" lat="-37.0075333">
-        <time>2010-12-07T10:43:30.000-06:00</time>
+        <time>2010-12-07T16:43:30.000Z</time>
         <name>OX2K407</name>
         <desc>Super Center by kiwifamily, Traditional Cache(1.7/1.0/2.8)</desc>
         <url>http://www.opencaching.com/#geocache/OX2K407</url>
@@ -242,24 +179,24 @@ This cache was 1st placed on geocaching.com back in May 2010 but was rejected du
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>1</groundspeak:terrain>
-            <groundspeak:long_description html="True">Drive-by while at the Hospital.
-
-This cache is a mint tin camo.
-As you drive in at the round about turn right this is where all the surgery is.
-I don't want to make this cache hard as I gather the last thing we want is people wondering what we are all doing...
-
-The cache is in the tree!</groundspeak:long_description>
+            <groundspeak:long_description html="True">Drive-by while at the Hospital.&lt;br/&gt;&lt;br/&gt;This cache is a mint tin camo.&lt;br/&gt;As you drive in at the round about turn right this is where all the surgery is.&lt;br/&gt;I don't want to make this cache hard as I gather the last thing we want is people wondering what we are all doing...&lt;br/&gt;&lt;br/&gt;The cache is in the tree!</groundspeak:long_description>
             <groundspeak:encoded_hints>To the right of five (sign) looking at the sign from the parking area. 
 Behind the tree towards the path.</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="2061297">
+                    <groundspeak:date>2012-09-04T08:43:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="86288">THEOLANDY</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
                 <groundspeak:log id="1718374">
-                    <groundspeak:date>2011-11-30T05:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2011-11-30T11:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="6384">McCutchan Cache Clan</groundspeak:finder>
                     <groundspeak:text encoded="False">Found quite a while ago, was browsing the OC web site and I realised it was cross listed, so I guess I can claim the find</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1361992">
-                    <groundspeak:date>2011-07-09T05:49:50.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-07-09T10:49:50.000Z</groundspeak:date>
                     <groundspeak:type>Didn't find it</groundspeak:type>
                     <groundspeak:finder id="42816">GR3MLIN</groundspeak:finder>
                     <groundspeak:text encoded="False">Had a really quick look on my way home from the dino's it was dark and i couldnt find it.
@@ -268,28 +205,28 @@ I did find a potato sack but it wasnt it.
 Cant wait to find one though! :)</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1198166">
-                    <groundspeak:date>2011-04-04T12:56:58.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-04-04T17:56:58.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="16110">SMDUDD</groundspeak:finder>
                     <groundspeak:text encoded="False"/>
                 </groundspeak:log>
                 <groundspeak:log id="1028999">
-                    <groundspeak:date>2011-01-12T00:49:06.000-06:00</groundspeak:date>
+                    <groundspeak:date>2011-01-12T06:49:06.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="10502">cs1111</groundspeak:finder>
                     <groundspeak:text encoded="False">Had to watch out for people watching. It was reasonably difficult to spot</groundspeak:text>
                 </groundspeak:log>
-                <groundspeak:log id="573694">
-                    <groundspeak:date>2010-12-08T05:00:00.000-06:00</groundspeak:date>
-                    <groundspeak:type>Found it</groundspeak:type>
-                    <groundspeak:finder id="5492">gadget-tron</groundspeak:finder>
-                    <groundspeak:text encoded="False">Logging in the open caching Beta too. Not sure how this all works yet????</groundspeak:text>
-                </groundspeak:log>
                 <groundspeak:log id="534353">
-                    <groundspeak:date>2010-12-08T05:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2010-12-08T11:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="5241">BigglesNZ</groundspeak:finder>
                     <groundspeak:text encoded="False">3rd person to find the 'geocache' 1st person to log the 'opencache'. Interesting indeed. TFTC, Biggles.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="573694">
+                    <groundspeak:date>2010-12-08T11:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="5492">gadget-tron</groundspeak:finder>
+                    <groundspeak:text encoded="False">Logging in the open caching Beta too. Not sure how this all works yet????</groundspeak:text>
                 </groundspeak:log>
             </groundspeak:logs>
         </groundspeak:cache>
@@ -300,14 +237,10 @@ Cant wait to find one though! :)</groundspeak:text>
                 <ox:size>2.5</ox:size>
                 <ox:terrain>1.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag> car park</ox:tag>
-                <ox:tag>Hospital</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="174.9172167" lat="-41.1845667">
-        <time>2010-09-19T02:00:00.000-05:00</time>
+        <time>2010-09-19T07:00:00.000Z</time>
         <name>OX2FCJK</name>
         <desc>DC Dynamo (Wellington) by Emvy_Us, Multi-cache(1.8/2.0/2.9)</desc>
         <url>http://www.opencaching.com/#geocache/OX2FCJK</url>
@@ -322,31 +255,11 @@ Cant wait to find one though! :)</groundspeak:text>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2</groundspeak:terrain>
-            <groundspeak:long_description html="True">DC stands for Dominic and Conor who placed this cache. They had tonnes of energy to burn off so we ran through the walkway in the reserve between the waypoint and final, and then spent some time on the playground equipment near the final. 
-
- This quick easy multi takes you through a short walkway to a playground within a reserve on Hill Road. You can park at WP1 and work out the co-ordinates for the final, which will take you about 5mins to walk to.
-
-At WP1 there is a big wooden sign. Using the letters on the sign, where A=1, B=2, C=3 etc, complete the co-ordinates below to find the final.
-
-Final is at S41º 1T.2UV, E174º WX.0YZ
-
-Where;
-T = second letter in the first word
-U = last letter in last word + 1
-V = first letter in second word - 5
-W = second letter in third word
-X = fourth letter in third word
-Y = last letter in first word - 7
-Z = third letter in second word - 5
-
-We trust you enjoy the cache, and younger cachers get to burn off some energy!
-Additional Hidden Waypoints
-HIDDEN: DC2FCJK - DC Final
-N/S  __ ° __ . ___ W/E ___ ° __ . ___</groundspeak:long_description>
+            <groundspeak:long_description html="True">DC stands for Dominic and Conor who placed this cache. They had tonnes of energy to burn off so we ran through the walkway in the reserve between the waypoint and final, and then spent some time on the playground equipment near the final. &lt;br/&gt;&lt;br/&gt; This quick easy multi takes you through a short walkway to a playground within a reserve on Hill Road. You can park at WP1 and work out the co-ordinates for the final, which will take you about 5mins to walk to.&lt;br/&gt;&lt;br/&gt;At WP1 there is a big wooden sign. Using the letters on the sign, where A=1, B=2, C=3 etc, complete the co-ordinates below to find the final.&lt;br/&gt;&lt;br/&gt;Final is at S41º 1T.2UV, E174º WX.0YZ&lt;br/&gt;&lt;br/&gt;Where;&lt;br/&gt;T = second letter in the first word&lt;br/&gt;U = last letter in last word + 1&lt;br/&gt;V = first letter in second word - 5&lt;br/&gt;W = second letter in third word&lt;br/&gt;X = fourth letter in third word&lt;br/&gt;Y = last letter in first word - 7&lt;br/&gt;Z = third letter in second word - 5&lt;br/&gt;&lt;br/&gt;We trust you enjoy the cache, and younger cachers get to burn off some energy!&lt;br/&gt;Additional Hidden Waypoints&lt;br/&gt;HIDDEN: DC2FCJK - DC Final&lt;br/&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___</groundspeak:long_description>
             <groundspeak:encoded_hints>At base.</groundspeak:encoded_hints>
             <groundspeak:logs>
                 <groundspeak:log id="1687866">
-                    <groundspeak:date>2011-11-16T05:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2011-11-16T11:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="2774">kjwx</groundspeak:finder>
                     <groundspeak:text encoded="False">Thanks for the game of hide and seek, D &amp; C. Unfortunately it was dark when we turned up at WP1 so couldn't see what a dynamo spot this is. I used to live in Foster Cres but never knew about this park till tonight.
@@ -362,15 +275,12 @@ N/S  __ ° __ . ___ W/E ___ ° __ . ___</groundspeak:long_description>
                 <ox:size>2.9</ox:size>
                 <ox:terrain>2.0</ox:terrain>
             </ox:ratings>
-            <ox:tags>
-                <ox:tag>Playground</ox:tag>
-            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="174.9326667" lat="-41.1948333">
-        <time>2011-10-24T21:48:34.000-05:00</time>
+        <time>2011-10-25T02:48:34.000Z</time>
         <name>OXZTNT7</name>
-        <desc>Gentle breeze by AERIAL_SURVEY, Unknown Cache(1.9/1.7/2.8)</desc>
+        <desc>Gentle breeze by AERIAL_SURVEY, Unknown Cache(1.9/1.7/2.6)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTNT7</url>
         <urlname>Gentle breeze</urlname>
         <sym>Geocache</sym>
@@ -383,29 +293,29 @@ N/S  __ ° __ . ___ W/E ___ ° __ . ___</groundspeak:long_description>
             <groundspeak:container>Micro</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>1.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">The published coordinates are false. The cache is at
-S 41 11. strong breeze light breeze calm
-E 174 55. strong gale violent storm
-
-The cache is a film container with a logbook only, so you'll need to bring your own pen. Be very stealthy - this is a high human-activity area. If coming by car - there is a carpark at the published coordinates. The nearby mini golf course is open 1-4pm weekends &amp; school holidays. Extra stealth will be required during these times.
-
-The Smiling Windmills is an artwork by Leon van den Eijkel. &quot;As a child growing up in Holland, life was exciting and full of joy; the clouds, the rain, the sea and nature played with us. Irksome wind is an adult thing. In The Smiling Windmills I recall my childhood and the joy wind gave me. I want to share it with everyone as a positive source of energy.&quot;
-
-On your typical windy Wellington day these windmills should put on quite a display.
-
-Please note that you must sign the logbook for each visit, otherwise your log may be deleted.
-
-Cache placed by aerial_survey and samelemon.</groundspeak:long_description>
+            <groundspeak:long_description html="True">The published coordinates are false. The cache is at&lt;br/&gt;S 41 11. strong breeze light breeze calm&lt;br/&gt;E 174 55. strong gale violent storm&lt;br/&gt;&lt;br/&gt;The cache is a film container with a logbook only, so you'll need to bring your own pen. Be very stealthy - this is a high human-activity area. If coming by car - there is a carpark at the published coordinates. The nearby mini golf course is open 1-4pm weekends &amp; school holidays. Extra stealth will be required during these times.&lt;br/&gt;&lt;br/&gt;The Smiling Windmills is an artwork by Leon van den Eijkel. &quot;As a child growing up in Holland, life was exciting and full of joy; the clouds, the rain, the sea and nature played with us. Irksome wind is an adult thing. In The Smiling Windmills I recall my childhood and the joy wind gave me. I want to share it with everyone as a positive source of energy.&quot;&lt;br/&gt;&lt;br/&gt;On your typical windy Wellington day these windmills should put on quite a display.&lt;br/&gt;&lt;br/&gt;Please note that you must sign the logbook for each visit, otherwise your log may be deleted.&lt;br/&gt;&lt;br/&gt;Cache placed by aerial_survey and samelemon.</groundspeak:long_description>
             <groundspeak:encoded_hints>knee height</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="2043068">
+                    <groundspeak:date>2012-08-26T12:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="16359">AERIAL_SURVEY</groundspeak:finder>
+                    <groundspeak:text encoded="False">Thanks to GEOTAYBEE for the info on the water-loggedness of the cache. I have replaced it with another film cannister and a new log sheet. Hopefully it'll remain dry, though it is exactly the same type of container that let water in before... </groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1914625">
+                    <groundspeak:date>2012-07-02T12:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7653">GEOTAYBEE</groundspeak:finder>
+                    <groundspeak:text encoded="False">easy find for the jr team members cache was full of water could not sign the log sheet as itwas under water look like a full size grale hit the cache TFTC.</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1687865">
-                    <groundspeak:date>2011-11-16T05:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2011-11-16T11:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="2774">kjwx</groundspeak:finder>
                     <groundspeak:text encoded="False">Breezed through my first real OpenCache, ably assisted by fellow Wellington seeker JardisLikeTardis and the gale-force conditions. More please ...</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1656692">
-                    <groundspeak:date>2011-10-29T06:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-10-29T11:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="43015">robnzh</groundspeak:finder>
                     <groundspeak:text encoded="False">Didn't get wind of this one till today. Breezed through the puzzle and stormed up to the GZ for a quick FTF.  Only a moderate breeze blowing today but enough to get the wheels turning.Wasn't sure if the small badge was an FTF  prize or supposed to be swag, took it as the former but happy to put something else small in when I get a chance to go back past.There are caches in the area from the competing website, but I think the placements are such that there shouldn't be too much confusion.</groundspeak:text>
@@ -414,17 +324,20 @@ Cache placed by aerial_survey and samelemon.</groundspeak:long_description>
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>2.8</ox:awesomeness>
+                <ox:awesomeness>2.6</ox:awesomeness>
                 <ox:difficulty>1.9</ox:difficulty>
                 <ox:size>1.9</ox:size>
                 <ox:terrain>1.7</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="174.7639167" lat="-41.2502">
-        <time>2011-11-19T20:01:06.000-06:00</time>
+        <time>2011-11-20T02:01:06.000Z</time>
         <name>OXZTNF8</name>
-        <desc>Bushwalk by starshine, Traditional Cache(1.7/2.6/2.9)</desc>
+        <desc>Bushwalk by starshine, Traditional Cache(1.7/2.6/2.7)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTNF8</url>
         <urlname>Bushwalk</urlname>
         <sym>Geocache</sym>
@@ -437,27 +350,17 @@ Cache placed by aerial_survey and samelemon.</groundspeak:long_description>
             <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>1.5</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Requires walking on formed tracks. Suitable for moderate level of fitness.
-
-Either:
- - from Silverstream Road (Crofton Downs), walk down beside the play center and find the small bridge crossing the stream. Follow the track up the hill.
- - enter via the marked entrance at Huntleigh Park (Ngaio) and find your way along the tracks.
-There is no need to enter private property via either route.
-
-Choose the correct forks in the path, generally going uphill. This cache is at ground level right beside a track. Don't loose sight of the track and become lost in your search! Be watchful of children, as the Wellington City Council sometimes sets poison bait off the tracks (although there was none nearby when this cache was placed).
-
-Cache location: S41.15.012 E174.45.835
-
-Cache is a 16x11x8cm clear plastic box. Initial contents: instructions, notebook, pen, hovercraft toy, mini rubber ball toy.
-
-Be sure to carefully hide the cache again to avoid muggles.
-
-If fitness and enthusiasm permit, continue uphill, cross the fence at the style and follow the track to the Mt Kaukau summit. From there you can descend into Johnsonville, Khandallah or Ngaio if desired.
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Requires walking on formed tracks. Suitable for moderate level of fitness.&lt;br/&gt;&lt;br/&gt;Either:&lt;br/&gt; - from Silverstream Road (Crofton Downs), walk down beside the play center and find the small bridge crossing the stream. Follow the track up the hill.&lt;br/&gt; - enter via the marked entrance at Huntleigh Park (Ngaio) and find your way along the tracks.&lt;br/&gt;There is no need to enter private property via either route.&lt;br/&gt;&lt;br/&gt;Choose the correct forks in the path, generally going uphill. This cache is at ground level right beside a track. Don't loose sight of the track and become lost in your search! Be watchful of children, as the Wellington City Council sometimes sets poison bait off the tracks (although there was none nearby when this cache was placed).&lt;br/&gt;&lt;br/&gt;Cache location: S41.15.012 E174.45.835&lt;br/&gt;&lt;br/&gt;Cache is a 16x11x8cm clear plastic box. Initial contents: instructions, notebook, pen, hovercraft toy, mini rubber ball toy.&lt;br/&gt;&lt;br/&gt;Be sure to carefully hide the cache again to avoid muggles.&lt;br/&gt;&lt;br/&gt;If fitness and enthusiasm permit, continue uphill, cross the fence at the style and follow the track to the Mt Kaukau summit. From there you can descend into Johnsonville, Khandallah or Ngaio if desired.&lt;br/&gt;</groundspeak:long_description>
             <groundspeak:encoded_hints>Under the ferns</groundspeak:encoded_hints>
             <groundspeak:logs>
+                <groundspeak:log id="1788926">
+                    <groundspeak:date>2012-04-24T12:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7653">GEOTAYBEE</groundspeak:finder>
+                    <groundspeak:text encoded="False">Jr taybee / taybee / Geotaybee  found this cache to day  this is the first opencaching cache we have done TFTC </groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1718958">
-                    <groundspeak:date>2011-12-31T05:00:00.000-06:00</groundspeak:date>
+                    <groundspeak:date>2011-12-31T11:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="81198">HUNTLEIGH2</groundspeak:finder>
                     <groundspeak:text encoded="False">First cache for the year (with Callum Sniffy in tow) and possibly the FTF. The trade items listed on the cache page are gone and have been replaced with some cash and a pair of sunnies. The logbook had been filled in November but not logged here — muggles?
@@ -468,20 +371,20 @@ I found the cache easily enough because the park is virtually on my back door an
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:awesomeness>2.7</ox:awesomeness>
                 <ox:difficulty>1.7</ox:difficulty>
                 <ox:size>2.7</ox:size>
                 <ox:terrain>2.6</ox:terrain>
             </ox:ratings>
             <ox:tags>
-                <ox:tag>Bush walk</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
             </ox:tags>
         </ox:opencaching>
     </wpt>
     <wpt lon="174.7674" lat="-41.2904">
-        <time>2011-06-12T09:25:30.000-05:00</time>
+        <time>2011-06-12T14:25:30.000Z</time>
         <name>OX26NBY</name>
-        <desc>Standing Next to Buzzing Minds by JACKO115, Traditional Cache(1.9/2.4/2.9)</desc>
+        <desc>Standing Next to Buzzing Minds by JACKO115, Traditional Cache(1.9/2.3/2.7)</desc>
         <url>http://www.opencaching.com/#geocache/OX26NBY</url>
         <urlname>Standing Next to Buzzing Minds</urlname>
         <sym>Geocache</sym>
@@ -491,34 +394,47 @@ I found the cache easily enough because the park is virtually on my back door an
             <groundspeak:placed_by>JACKO115</groundspeak:placed_by>
             <groundspeak:owner id="33569">JACKO115</groundspeak:owner>
             <groundspeak:type>Traditional Cache</groundspeak:type>
-            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:container>Small</groundspeak:container>
             <groundspeak:difficulty>2</groundspeak:difficulty>
             <groundspeak:terrain>2.5</groundspeak:terrain>
-            <groundspeak:long_description html="True">Feel the and hear buzzing minds work on tomorrow technology while you hunt using todays technology in the grounds of Victoria University (VUW) in Wellington.
-
-PLEASE BE CONSIDERATE OF THE PLANTS WHEN LOOKING FOR THE CACHE. STICK TO THE ALREADY MADE TRAILS
-
-The cache is located on a green patch next to the Physics, Mathematics and School of Engineering and Computer Science buildings of VUW. The cache is a camo-painted 1L sistema plastic container. Please make sure you hide it super well to keep it a little challenging. Initial contents are:
-- Logbook
-- Pencils
-- Pencil sharpner
-- Super expanding insect
-- Mini hand clapper
-
-Placed partially because there was no cache at VUW and partially to make people aware of the importance (and I think coolness) of science degrees. If you visit this GC during the working day and VUW is open, have a wonder through the corridors and look at some of the research that is going on there.
-
-
-FTF goes to agcnz. Congratulations!
-</groundspeak:long_description>
+            <groundspeak:long_description html="True">Feel the and hear buzzing minds work on tomorrow technology while you hunt using todays technology in the grounds of Victoria University (VUW) in Wellington.&lt;br/&gt;&lt;br/&gt;PLEASE BE CONSIDERATE OF THE PLANTS WHEN LOOKING FOR THE CACHE. STICK TO THE ALREADY MADE TRAILS&lt;br/&gt;&lt;br/&gt;The cache is located on a green patch next to the Physics, Mathematics and School of Engineering and Computer Science buildings of VUW. The cache is a camo-painted 1L sistema plastic container. Please make sure you hide it super well to keep it a little challenging. Initial contents are:&lt;br/&gt;- Logbook&lt;br/&gt;- Pencils&lt;br/&gt;- Pencil sharpner&lt;br/&gt;- Super expanding insect&lt;br/&gt;- Mini hand clapper&lt;br/&gt;&lt;br/&gt;Placed partially because there was no cache at VUW and partially to make people aware of the importance (and I think coolness) of science degrees. If you visit this GC during the working day and VUW is open, have a wonder through the corridors and look at some of the research that is going on there.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;FTF goes to agcnz. Congratulations!&lt;br/&gt;</groundspeak:long_description>
             <groundspeak:logs>
+                <groundspeak:log id="2256925">
+                    <groundspeak:date>2012-11-22T11:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7653">GEOTAYBEE</groundspeak:finder>
+                    <groundspeak:text encoded="False">easy found with jr taybee TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="2256924">
+                    <groundspeak:date>2012-11-22T11:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="156676">jrtaybee</groundspeak:finder>
+                    <groundspeak:text encoded="False">easy found by Jr taybee  TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1779246">
+                    <groundspeak:date>2012-04-01T23:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="16610">FLETCHER5050</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1771301">
+                    <groundspeak:date>2012-03-15T11:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="43015">robnzh</groundspeak:finder>
+                    <groundspeak:text encoded="False">At last!
+Usual issues with GPS reception here, so gave up on my GPS and found the cache almost immediately by cacher's instinct- however once I was at GZ I did an averaged reading which said the coordinates were only .2 out on latitude and OK on longitude with an accuracy of 5 metres. Watch out if approaching from above by the fence, there is a big hole which I didn't see as I was watching the GPS at that stage, could have damaged my ankle but fortunately no harm done.
+TFTC.
+I am a VUW graduate though from way back and not in science disciplines. As I am rather a fossil, at the time I was there the place was totally different and none of the buildings close to the GZ were even thought of!
+Log was damp, did manage to sign though with difficulty, owner has since attended to that (thanks.)   I note the reference to the FTF, a bit of a tricky situation when a cache  is cross-listed as the FTF doesn't even show as a found log on this site! (I suggest that the FTF should only be listed in the cache description on the site where it is logged, though if a cache description is cross- posted that doesn't work!)</groundspeak:text>
+                </groundspeak:log>
                 <groundspeak:log id="1375506">
-                    <groundspeak:date>2011-07-18T05:58:34.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-07-18T10:58:34.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="46235">TreMichLan</groundspeak:finder>
                     <groundspeak:text encoded="False">An easy find. </groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="501935">
-                    <groundspeak:date>2010-04-21T14:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2010-04-21T19:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Found it</groundspeak:type>
                     <groundspeak:finder id="2774">kjwx</groundspeak:finder>
                     <groundspeak:text encoded="False">Worked at this one by degrees. Passed on the second try, with help from my regular study pal.
@@ -528,10 +444,10 @@ It's certainly not an easy course, even at midnight we were nearly muggled.</gro
         </groundspeak:cache>
         <ox:opencaching>
             <ox:ratings>
-                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:awesomeness>2.7</ox:awesomeness>
                 <ox:difficulty>1.9</ox:difficulty>
-                <ox:size>3.5</ox:size>
-                <ox:terrain>2.4</ox:terrain>
+                <ox:size>3.3</ox:size>
+                <ox:terrain>2.3</ox:terrain>
             </ox:ratings>
         </ox:opencaching>
     </wpt>

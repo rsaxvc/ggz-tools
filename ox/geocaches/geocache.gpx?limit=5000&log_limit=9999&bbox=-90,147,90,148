@@ -1,15 +1,157 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
     <name>OpenCaching GPX</name>
-    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <desc>5 geocaches.  Terms of Use: http://www.opencaching.com/#terms</desc>
     <author>OpenCaching</author>
     <email>site@OpenCaching.com</email>
     <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,147,90,148</url>
-    <time>2012-01-04T09:33:07.087-06:00</time>
+    <time>2012-12-19T23:02:52.950Z</time>
     <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
     <bounds maxlon="148.0" maxlat="90.0" minlon="147.0" minlat="-90.0"/>
+    <wpt lon="147.827217" lat="-36.018283">
+        <time>2008-03-23T07:00:00.000Z</time>
+        <name>OX1AGAB</name>
+        <desc>Pine Mountain by Bushtrakkers, Traditional Cache(3.5/5.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1AGAB</url>
+        <urlname>Pine Mountain</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1237128">
+            <groundspeak:name>Pine Mountain</groundspeak:name>
+            <groundspeak:placed_by>Bushtrakkers</groundspeak:placed_by>
+            <groundspeak:owner id="147915">Bushtrakkers</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Located in the Burrowa - Pine Mountain National Park, The Pine Mountain  walking trail is Strenuous, with a number of climbs &amp; descents allow 6-8 hours for the return 12km journey from the carpark.&lt;br/&gt;&lt;br/&gt;The walk to Pine Mountain summit traverses large granite outcrops fringed with Black Cypress Pine. Rare and interesting flora may be found along the way. &lt;br/&gt;&lt;br/&gt;The summit offers panoramic views of the surrounding Murray River valley and Snowy Mountains.&lt;br/&gt;&lt;br/&gt;The trail can be hard to find in places, there are reflective markers on trees and small rock piles which mark the trail on the granite outcrops. It would be a good idea to have the GPS on, to mark your trail if you need to back track at any stage.&lt;br/&gt;&lt;br/&gt;Its a great adventure in a small area.&lt;br/&gt;&lt;br/&gt;The cache is a Black container made out of PVC pipe fittings&lt;br/&gt;Additional Hidden Waypoints&lt;br/&gt;CP1AGAB - Car Park&lt;br/&gt;S 36° 00.149 E 147° 47.081&lt;br/&gt;Waypoint to car park.&lt;br/&gt;Access to car park is along a dirt track, a high clearance 2x2 vehicle minimum recommended.</groundspeak:long_description>
+            <groundspeak:encoded_hints>In a rock cave</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>5.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>The summit.jpg</ox:name>
+                    <ox:size>81155</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>On the ledge.jpg</ox:name>
+                    <ox:size>85513</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="147.451833" lat="-36.055333">
+        <time>2007-07-29T07:00:00.000Z</time>
+        <name>OX14Q46</name>
+        <desc>Boulder Dash by Bushtrakkers, Traditional Cache(3.0/3.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX14Q46</url>
+        <urlname>Boulder Dash</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1064918">
+            <groundspeak:name>Boulder Dash</groundspeak:name>
+            <groundspeak:placed_by>Bushtrakkers</groundspeak:placed_by>
+            <groundspeak:owner id="147915">Bushtrakkers</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Access is 4x4 only in winter to picnic area and be prepared for a 40 minute hike to the top, across granite rocks and explorer the large granite boulders.&lt;br/&gt;Slippery when wet&lt;br/&gt;&lt;br/&gt;The cache is located in Mount Lawson State Park  and its known for its steep slopes, Cliffs and prominent rock bluffs which impart a natural rugged beauty. It offers a variety of recreational opportunities, including picnicking and bushwalking in semi remote locations.&lt;br/&gt;&lt;br/&gt;Traveling along the Murray Valley Highway take the turn at the Trestle bridge sign. Continue on the track to Boulder Dash (Mt Lawson).&lt;br/&gt;&lt;br/&gt;The cache is a Camouflage clip lock container containing some geocaching goodies </groundspeak:long_description>
+            <groundspeak:encoded_hints>Near a boulder under a rock</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>fc77b4f8-5d36-4c2e-81cb-00ce9af6e575.jpg</ox:name>
+                    <ox:size>28342</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="147.757233" lat="-36.12175">
+        <time>2008-03-10T07:00:00.000Z</time>
+        <name>OX1A2WC</name>
+        <desc>Up The Bluff by Bushtrakkers, Traditional Cache(3.5/5.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX1A2WC</url>
+        <urlname>Up The Bluff</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1224202">
+            <groundspeak:name>Up The Bluff</groundspeak:name>
+            <groundspeak:placed_by>Bushtrakkers</groundspeak:placed_by>
+            <groundspeak:owner id="147915">Bushtrakkers</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The terrain is rough with unmaintained walking trails but are signed.&lt;br/&gt;&lt;br/&gt;Located in the Burrowa-Pine Mountain National Park, Bluff Falls is a set of waterfalls which cascades off the park plateau.&lt;br/&gt;The cache is located at Campbells lookout, a 700 metres walk from the falls.&lt;br/&gt;Campbells lookout is a rocky escarpment that over looks the steep cliffs and mountain views through the valley.&lt;br/&gt;&lt;br/&gt;You can camp at the designated camping grounds and take the walk up Bluff creek to the falls(recommended) or you can drive to the falls on a well maintained gravel road.&lt;br/&gt;&lt;br/&gt;You will need to take a pen to fill in the log.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Cache is a 200ml container between rocks. You require a pen or pencil for your log entry</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>5.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="147.525033" lat="-36.23895">
+        <time>2008-01-05T08:00:00.000Z</time>
+        <name>OX18CEX</name>
+        <desc>The Secret Garden by Bushtrakkers, Traditional Cache(2.5/2.0/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX18CEX</url>
+        <urlname>The Secret Garden</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1173843">
+            <groundspeak:name>The Secret Garden</groundspeak:name>
+            <groundspeak:placed_by>Bushtrakkers</groundspeak:placed_by>
+            <groundspeak:owner id="147915">Bushtrakkers</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Easy 2 wheel drive access on gravel road. Turn off the Murray Valley Highway at the sign Shelley Forest Camp, Avondale Road.&lt;br/&gt;&lt;br/&gt;The cache is located at an old homestead site called Avondale, the only evidence of the homestead is a magnificent garden containing exotic tree's, shrubs rock walls and a water tank.&lt;br/&gt;&lt;br/&gt;The Garden was established in the 1950's, the property was sold many year later  to the forestry and turned into a pine forest plantation known as Shelley Forest.&lt;br/&gt;&lt;br/&gt;You can camp in the area at no charge, but you are not permitted to camp in the  gardens it self.&lt;br/&gt;&lt;br/&gt;See is believing, its a botanical garden in the Australian bush.&lt;br/&gt;&lt;br/&gt;The Cache is a 200ml Sistema container, painted black containing Geocaching pin and patch.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Fork in a tree</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMG-20120708-00039.jpg</ox:name>
+                    <ox:size>246372</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
     <wpt lon="147.3289" lat="-42.8788">
-        <time>2011-06-20T21:02:17.000-05:00</time>
+        <time>2011-06-21T02:02:17.000Z</time>
         <name>OXZTTKK</name>
         <desc>Worth the find by puzzels, Traditional Cache(2.5/1.4/2.8)</desc>
         <url>http://www.opencaching.com/#geocache/OXZTTKK</url>
@@ -27,25 +169,25 @@
             <groundspeak:long_description html="True">A nice free hidden package please leave something in return</groundspeak:long_description>
             <groundspeak:logs>
                 <groundspeak:log id="1407679">
-                    <groundspeak:date>2011-08-08T00:34:30.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-08-08T05:34:30.000Z</groundspeak:date>
                     <groundspeak:type>Didn't find it</groundspeak:type>
                     <groundspeak:finder id="16645">BUDGIETAS</groundspeak:finder>
                     <groundspeak:text encoded="False">This cache needs to be archived as on private property and unavailable</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1382919">
-                    <groundspeak:date>2011-07-28T01:51:16.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-07-28T06:51:16.000Z</groundspeak:date>
                     <groundspeak:type>Didn't find it</groundspeak:type>
                     <groundspeak:finder id="40514">SIRIUSTAS</groundspeak:finder>
                     <groundspeak:text encoded="False"/>
                 </groundspeak:log>
                 <groundspeak:log id="1303711">
-                    <groundspeak:date>2011-06-28T09:00:00.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-06-28T14:00:00.000Z</groundspeak:date>
                     <groundspeak:type>Comment</groundspeak:type>
                     <groundspeak:finder id="41164">Cheesy pigs</groundspeak:finder>
                     <groundspeak:text encoded="False">This location is private property, the courtyard is owned and used by the Tafe building and is locked from all access after hours. As I was there during daylight I had a look but could not locate the cache. Returned the next day had a more thorough look, there is no cache at this location, definitely not big enough for swaps to be in place.</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1302960">
-                    <groundspeak:date>2011-06-27T22:12:51.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-06-28T03:12:51.000Z</groundspeak:date>
                     <groundspeak:type>Comment</groundspeak:type>
                     <groundspeak:finder id="16645">BUDGIETAS</groundspeak:finder>
                     <groundspeak:text encoded="False">Hi
@@ -55,10 +197,16 @@ Could you please check the co-ordinates as it seems to be in the middle of a bui
 BT</groundspeak:text>
                 </groundspeak:log>
                 <groundspeak:log id="1302959">
-                    <groundspeak:date>2011-06-27T22:10:21.000-05:00</groundspeak:date>
+                    <groundspeak:date>2011-06-28T03:10:21.000Z</groundspeak:date>
                     <groundspeak:type>Comment</groundspeak:type>
                     <groundspeak:finder id="40605">kaatka</groundspeak:finder>
                     <groundspeak:text encoded="False">Is this cache really in the middle of the TAFE building in Bathurst St, Hobart, Tasmania?  I'm just a little bit wary about entering and searching around a school building.....</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1304147">
+                    <groundspeak:date>2011-06-27T14:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="40648">whitewebbs</groundspeak:finder>
+                    <groundspeak:text encoded="False">Had a look early morning, thought it must be in the police uniform store, lol, as couldn't locate. Was disturbed by a muggle who scattered the numerous pigeons that inhabit the area.</groundspeak:text>
                 </groundspeak:log>
             </groundspeak:logs>
         </groundspeak:cache>
@@ -69,6 +217,9 @@ BT</groundspeak:text>
                 <ox:size>3.9</ox:size>
                 <ox:terrain>1.4</ox:terrain>
             </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
         </ox:opencaching>
     </wpt>
 </gpx>

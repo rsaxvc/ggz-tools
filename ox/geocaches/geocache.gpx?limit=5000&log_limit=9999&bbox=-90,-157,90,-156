@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>1 geocache.  Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;log_limit=9999&amp;bbox=-90,-157,90,-156</url>
+    <time>2012-12-19T22:25:47.494Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="-156.0" maxlat="90.0" minlon="-157.0" minlat="-90.0"/>
+    <wpt lon="-156.01745" lat="19.674367">
+        <time>2012-02-21T08:00:00.000Z</time>
+        <name>OX3D2FC</name>
+        <desc>hott lava by ZDOCK13, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OX3D2FC</url>
+        <urlname>hott lava</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3160245">
+            <groundspeak:name>hott lava</groundspeak:name>
+            <groundspeak:placed_by>ZDOCK13</groundspeak:placed_by>
+            <groundspeak:owner id="91769">ZDOCK13</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Scenic school bus ride to Konawaena High School.
+
+ &lt;br /&gt;&lt;br /&gt; 1983 I lived in Kona Palisades and took the public school bus to get high school and back. After settling in to my seat this is the part of this road where I would look out the window and be amazed to the vast view of cooled lava rock. Always imagining what it must have been like before it all cooled down. Some of the other students mentioned about a fresh cold water pool in the middle of these lava rocks called,&quot;Queen's Bath&quot;. I never found it. Find it and log it coordinates. Take a picture. Always be safe.Aloha!
+
+&lt;p&gt;Small note on cache maintenance: There is a local cache guardian. Name and contact info on file with geocaching.com.&lt;/p&gt;</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>
