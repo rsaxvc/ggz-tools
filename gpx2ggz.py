@@ -67,7 +67,7 @@ if( len( sys.argv ) >= 3 ):
             for geocache in geocaches:
                 cachebuffer.append( handleGeocache( geocache ) )
 
-        print "Parsing DOM"
+        print "\tParsing DOM"
 
         handleGPX(dom)
 
