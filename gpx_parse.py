@@ -1,6 +1,5 @@
 #!/usr/bin/python
 from xml.parsers import expat
-import sys
 
 class Geocache:
 	def __init__(self):
@@ -68,23 +67,26 @@ class GchParser:
 			self._open_tag_handlers[tag]( attrs, cbi )
 		except KeyError:
 			pass
-		print "GCH:Start", repr(tag), attrs, cbi
 
 	def end(self, tag, textbuffer, ebi):
 		try:
 			self._close_tag_handlers[tag]( textbuffer, ebi )
 		except KeyError:
 			pass
-		print "GCH:End", repr(tag), textbuffer, ebi
+
+	def close(self):
+		self._gch_list=[]
+		self._gch.__init__()
 
 class NulParser:
 	"Parses unused structures"
 	def start(self, tag, attrs, cbi ):
-		print "NULL:Start"
 		pass
 
 	def end(self, tag, textbuffer, ebi):
-		print "NULL:End"
+		pass
+
+	def close(self):
 		pass
 
 class GpxParser:
@@ -99,12 +101,27 @@ class GpxParser:
 		self._parser.EndElementHandler = self.end
 		self._parser.CharacterDataHandler = self.data
 
-	def feed(self, data ):
-		self._parser.Parse(data,0)
+	def ParseFile(self, filename ):
+		"Parse a file specified by filename"
 
-	def close(self):
+		#open + parse + close file
+		f = open( filename )
+		self._parser.Parse(f.read(),0)
+		f.close()
+
+		#close down parser
 		self._parser.Parse("", 1) # end of data
+
+		#save results
+		list = self._gch_parser._gch_list
+
+		#reset child parsers
 		del self._parser # get rid of circular references
+		self._nul_parser.close()
+		self._gch_parser.close()
+
+		#return result set
+		return list
 
 	def start(self, tag, attrs):
 		if( tag == "wpt" ):
@@ -116,13 +133,11 @@ class GpxParser:
 			self._gch_parser.start( tag, attrs, self._parser.CurrentByteIndex )
 		else:
 			self._nul_parser.start( tag, attrs, self._parser.CurrentByteIndex )
-		print "START", repr(tag), attrs, self._depth, self._parser.CurrentByteIndex
 
 	def data(self, data):
 		self._textbuffer += repr(data)
 
 	def end(self, tag):
-		print "END", repr(tag), self._textbuffer, self._depth
 		#To calculate the end pos, we need the CBI, which points to the start of the tag that caused
 		#the current event, and we need to add '</' , the taglen, and '>' to find the end-byte-index
 		end_pos = self._parser.CurrentByteIndex + 2 + len( tag ) + 1
@@ -135,18 +150,6 @@ class GpxParser:
 		if( tag == "wpt" or tag == "rte" or tag == "trk" ):
 			self._mode = "nul"
 		self._depth = self._depth - 1
-
-
-if( len( sys.argv ) == 2 ):
-	p=GpxParser()
-	f = open( sys.argv[-1] )
-	p.feed( f.read() )
-	f.close()
-	print "Found %i caches" % ( len(p._gch_parser._gch_list) )
-	p.close();
-else:
-    print "Please run:%s [input.gpx]" % sys.argv[0]
-
 
 
 
