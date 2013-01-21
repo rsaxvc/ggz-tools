@@ -1,25 +1,53 @@
 from xml.parsers import expat
 import sys
 
-class GchParser:
-
+class Geocache:
 	def __init__(self):
-		self._geocache=""
+		self._name=""
+		self._code=""
+		self._awesomeness = 3
+		self._difficulty  = 3
+		self._size        = 3
+		self._terrain     = 3
+		self._file_pos    = 0
+		self._file_len    = 0
+		self._lat         = 0.0
+		self._lon         = 0.0
+		self._type        = ""
 
-	def feed(self, data):
-		self._parser.Parse(data, 0)
+class GchParser:
+	"Parses wpt/cache structures"
+	def __init__(self):
+		self._gch_list=[]
+		self._gch=Geocache()
+		self._close_tag_handlers={
+			"name":self.handle_name,
+			"code":self.handle_code,
+			"wpt":self.handle_wpt
+			}
 
-	def close(self):
-		self._parser.Parse("", 1) # end of data
-		del self._parser # get rid of circular references
+	def handle_name(self,text,ebi):
+		self._name=text
+
+	def handle_code(self,text,ebi):
+		self._code=code
+
+	def handle_wpt(self,text,ebi):
+		self._gch_list.append( self._gch )
+		self._gch.__init__()
 
 	def start(self, tag, attrs, cbi):
 		print "GCH:Start", repr(tag), attrs, cbi
 
 	def end(self, tag, textbuffer, ebi):
+		try:
+			self._close_tag_handlers[tag]( textbuffer, ebi )
+		except KeyError:
+			pass
 		print "GCH:End", repr(tag), textbuffer, ebi
 
 class NulParser:
+	"Parses unused structures"
 	def start(self, tag, attrs, cbi ):
 		print "NULL:Start"
 		pass
@@ -34,8 +62,6 @@ class GpxParser:
 		self._nul_parser = NulParser()
 		self._gch_parser = GchParser()
 		self._depth = 0
-		self._prev_byte_index = 0
-		self._cachelist = []
 		self._textbuffer = ""
 		self._parser = expat.ParserCreate()
 		self._parser.StartElementHandler = self.start
