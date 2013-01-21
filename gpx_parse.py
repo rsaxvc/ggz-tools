@@ -100,6 +100,7 @@ class GpxParser:
 		self._parser.StartElementHandler = self.start
 		self._parser.EndElementHandler = self.end
 		self._parser.CharacterDataHandler = self.data
+		self._parser.buffer_text = 1
 
 	def ParseFile(self, filename ):
 		"Parse a file specified by filename"
