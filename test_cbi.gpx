@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>Terms of Use: http://www.opencaching.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://www.opencaching.com/api/geocache.gpx?limit=5000&amp;bbox=38.9609,-94.7912,39.098,-94.4654&amp;</url>
+    <time>2012-01-02T04:48:55.087-06:00</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <bounds maxlon="-94.4654" maxlat="39.098" minlon="-94.7912" minlat="38.9609"/>
+    <wpt lon="-94.6019833" lat="39.0175833">
+        <time>2011-05-08T12:58:41.000-05:00</time>
+        <name>OXZTW6J</name>
+        <desc>In the Bushes by SENN.BOSWELL, Traditional Cache(1.6/1.3/3.0)</desc>
+        <url>http://www.opencaching.com/#geocache/OXZTW6J</url>
+        <urlname>In the Bushes</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28476556">
+            <groundspeak:name>In the Bushes</groundspeak:name>
+            <groundspeak:placed_by>SENN.BOSWELL</groundspeak:placed_by>
+            <groundspeak:owner id="20370">SENN.BOSWELL</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">An easy cache in the middle of Ward Pky. Compatible with geocaching.com too. Dont take travel bugs (if any) unless your a geocaching.com member</groundspeak:long_description>
+            <groundspeak:encoded_hints>Under one of the bushes</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1265968">
+                    <groundspeak:date>2011-05-31T23:49:04.000-05:00</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="26805">TCBKing</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found piece of cloth and a what looks like a piece of asphalt about 4 or 5 inches in diameter</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>1.3</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>
