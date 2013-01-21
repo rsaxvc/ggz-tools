@@ -5,10 +5,10 @@ class Geocache:
 	def __init__(self):
 		self._name=""
 		self._code=""
-		self._awesomeness = 3
-		self._difficulty  = 3
-		self._size        = 3
-		self._terrain     = 3
+		self._awesomeness = 3.0
+		self._difficulty  = 3.0
+		self._size        = 3.0
+		self._terrain     = 3.0
 		self._file_pos    = 0
 		self._file_len    = 0
 		self._lat         = 0.0
@@ -23,8 +23,28 @@ class GchParser:
 		self._close_tag_handlers={
 			"name":self.handle_name,
 			"code":self.handle_code,
-			"wpt":self.handle_wpt
+			"wpt":self.handle_wpt_close,
+			"wpt":self.handle_wpt_close,
 			}
+
+		self._open_tag_handlers={
+			"wpt":self.handle_wpt_open,
+			}
+
+	def handle_awesomeness(self,text,ebi):
+		self._gch.awesomeness = float( text )
+
+	def handle_difficulty(self,text,ebi):
+		self._gch.difficulty = float( text )
+		pass
+
+	def handle_size(self,text,ebi):
+		self._gch.size = float( text )
+		pass
+
+	def handle_terrain(self,text,ebi):
+		self._gch.terrain = float( text )
+		pass
 
 	def handle_name(self,text,ebi):
 		self._name=text
@@ -32,11 +52,21 @@ class GchParser:
 	def handle_code(self,text,ebi):
 		self._code=code
 
-	def handle_wpt(self,text,ebi):
+	def handle_wpt_close(self,text,ebi):
+		self._gch._file_len = ebi - self._gch._file_pos
 		self._gch_list.append( self._gch )
 		self._gch.__init__()
 
+	def handle_wpt_open(self,attrs,cbi):
+		self._gch._lat == float(attrs["lat"])
+		self._gch._lon == float(attrs["lon"])
+		self._gch._file_pos == cbi
+
 	def start(self, tag, attrs, cbi):
+		try:
+			self._open_tag_handlers[tag]( attrs, cbi )
+		except KeyError:
+			pass
 		print "GCH:Start", repr(tag), attrs, cbi
 
 	def end(self, tag, textbuffer, ebi):
@@ -111,6 +141,7 @@ if( len( sys.argv ) == 2 ):
 	f = open( sys.argv[-1] )
 	p.feed( f.read() )
 	f.close()
+	print "Found %i caches" % ( len(p._gch_parser._gch_list) )
 	p.close();
 else:
     print "Please run:%s [input.gpx]" % sys.argv[0]
