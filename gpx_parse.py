@@ -1,3 +1,4 @@
+#!/usr/bin/python
 from xml.parsers import expat
 import sys
 
