@@ -82,7 +82,6 @@ if( len( sys.argv ) >= 3 ):
         os.close( temphndl )
         noext, ext = os.path.splitext( basefile )
         z.write( tempname, "index/com/garmin/geocaches/v0/" + noext + ".csv" )
-        print tempname
         for g in cachebuffer:
             #yield (g['lat'],g['lat'],g['lon'],g['lon'] )
 			print ""
