@@ -1,10 +1,12 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 import zipfile
 import sys,os,random
 import time
-import tempfile
 
-from gpx_parse import *
+from index import Index
+from gpx_parse import GpxParser
+from index_to_xml import index_to_xml
+from index_to_csv import index_to_csv
 
 def writeXmlIndexHeader( fd ):
 	os.write( fd, "<xml>" )
@@ -30,8 +32,9 @@ if( len( sys.argv ) >= 3 ):
         parse_time = time.time()
         print "\tParsing XML into cachelist"
         p = GpxParser()
-        cachebuffer = p.ParseFile(file)
-        print "\tFound %i caches" % ( len(cachebuffer) )
+        index = Index()
+        index.cachelist = p.ParseFile(file)
+        print "\tFound %i caches" % ( len(index.cachelist) )
         parse_time = time.time() - parse_time
 
         print "\tZipping"
@@ -41,19 +44,19 @@ if( len( sys.argv ) >= 3 ):
 
         print "\tCreating CSV Index"
         index_csv_time = time.time()
-        ( temphndl, tempname ) = tempfile.mkstemp(".csv")
-        os.write( temphndl, ("Hello") )
-        os.close( temphndl )
+        tempname = index_to_csv( index )
         noext, ext = os.path.splitext( basefile )
         z.write( tempname, "index/com/garmin/geocaches/v0/" + noext + ".csv" )
-        for g in cachebuffer:
-            #yield (g['lat'],g['lat'],g['lon'],g['lon'] )
-            pass
         index_csv_time = time.time() - index_csv_time
+        os.system("rm -f %s"%tempname)
 
         index_zip_time = time.time()
         print "\tCreating XML Index"
-        index_zip_time = index_zip_time - time.time()
+        tempname = index_to_xml( index )
+        noext, ext = os.path.splitext( basefile )
+        z.write( tempname, "index/com/garmin/geocaches/v0/" + noext + ".xml" )
+        index_zip_time = time.time() - index_zip_time
+        os.system("rm -f %s"%tempname)
 
 
         print "Spent %fs parsing XML, %fs zipping, %fs creating XML index, %fs creating CSV index"%(
@@ -61,3 +64,4 @@ if( len( sys.argv ) >= 3 ):
 
 else:
     print "Please run:%s [input.gpx]... output.zip" % sys.argv[0]
+

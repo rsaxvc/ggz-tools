@@ -1,19 +1,7 @@
 #!/usr/bin/python
+from geocache import *
 from xml.parsers import expat
-
-class Geocache:
-	def __init__(self):
-		self._name=""
-		self._code=""
-		self._awesomeness = 3.0
-		self._difficulty  = 3.0
-		self._size        = 3.0
-		self._terrain     = 3.0
-		self._file_pos    = 0
-		self._file_len    = 0
-		self._lat         = 0.0
-		self._lon         = 0.0
-		self._type        = ""
+from copy import deepcopy
 
 class GchParser:
 	"Parses wpt/cache structures"
@@ -47,20 +35,20 @@ class GchParser:
 		pass
 
 	def handle_name(self,text,ebi):
-		self._name=text
+		self._gch.name=text
 
 	def handle_code(self,text,ebi):
-		self._code=code
+		self._gch.code=code
 
 	def handle_wpt_close(self,text,ebi):
-		self._gch._file_len = ebi - self._gch._file_pos
-		self._gch_list.append( self._gch )
+		self._gch.file_len = ebi - self._gch.file_pos
+		self._gch_list.append( deepcopy( self._gch ) )
 		self._gch.__init__()
 
 	def handle_wpt_open(self,attrs,cbi):
-		self._gch._lat == float(attrs["lat"])
-		self._gch._lon == float(attrs["lon"])
-		self._gch._file_pos == cbi
+		self._gch.lat == float(attrs["lat"])
+		self._gch.lon == float(attrs["lon"])
+		self._gch.file_pos == cbi
 
 	def start(self, tag, attrs, cbi):
 		try:
