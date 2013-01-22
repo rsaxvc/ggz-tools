@@ -1,5 +1,6 @@
 #!/usr/bin/python
 from index import *
+from xml.sax.saxutils import escape
 import os
 import tempfile
 
@@ -17,8 +18,8 @@ def openCloseTag( fd, tag, text ):
 
 def entry( fd, geocache ):
 	open( fd, "geocache" )
-	openCloseTag( fd, "name",        "%s"%geocache.name )
-	openCloseTag( fd, "code",        "%s"%geocache.code )
+	openCloseTag( fd, "name",        "%s"%escape(geocache.name) )
+	openCloseTag( fd, "code",        "%s"%escape(geocache.code) )
 	openCloseTag( fd, "awesomeness", "%f"%geocache.awesomeness )
 	openCloseTag( fd, "difficulty",  "%f"%geocache.difficulty )
 	openCloseTag( fd, "size",        "%f"%geocache.size )
@@ -27,7 +28,7 @@ def entry( fd, geocache ):
 	openCloseTag( fd, "file_len",    "%d"%geocache.file_len )
 	openCloseTag( fd, "lat",         "%f"%geocache.lat )
 	openCloseTag( fd, "lon",         "%f"%geocache.lon )
-	openCloseTag( fd, "type",        "%s"%geocache.type )
+	openCloseTag( fd, "type",        "%s"%escape(geocache.type) )
 	close( fd, "geocache" )
 
 def footer( fd ):
