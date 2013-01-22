@@ -46,9 +46,9 @@ class GchParser:
 		self._gch.__init__()
 
 	def handle_wpt_open(self,attrs,cbi):
-		self._gch.lat == float(attrs["lat"])
-		self._gch.lon == float(attrs["lon"])
-		self._gch.file_pos == cbi
+		self._gch.lat = float(attrs["lat"])
+		self._gch.lon = float(attrs["lon"])
+		self._gch.file_pos = cbi
 
 	def start(self, tag, attrs, cbi):
 		try:
