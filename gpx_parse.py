@@ -24,15 +24,12 @@ class GchParser:
 
 	def handle_difficulty(self,text,ebi):
 		self._gch.difficulty = float( text )
-		pass
 
 	def handle_size(self,text,ebi):
 		self._gch.size = float( text )
-		pass
 
 	def handle_terrain(self,text,ebi):
 		self._gch.terrain = float( text )
-		pass
 
 	def handle_name(self,text,ebi):
 		self._gch.name=text
