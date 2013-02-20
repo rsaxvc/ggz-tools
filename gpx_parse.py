@@ -9,48 +9,49 @@ class GchParser:
 		self._gch_list=[]
 		self._gch=Geocache()
 		self._close_tag_handlers={
-			"name":self.handle_name,
-			"groundspeak:name":self.handle_gs_name,
-			"code":self.handle_code,
-			"groundspeak:type":self.handle_type,
-			"wpt":self.handle_wpt_close,
+			"gpx/wpt/name":self._handle_name,
+			"gpx/wpt/groundspeak:cache/groundspeak:name":self._handle_gs_name,
+			"gpx/wpt/groundspeak:cache/groundspeak:type":self._handle_type,
+			"gpx/wpt":self._handle_wpt_close,
+
+			"gpx/wpt/ox:opencaching/ox:ratings/ox:awesomeness":self._handle_ox_awesomeness,
+			"gpx/wpt/ox:opencaching/ox:ratings/ox:difficulty":self._handle_ox_difficulty,
+			"gpx/wpt/ox:opencaching/ox:ratings/ox:size":self._handle_ox_size,
+			"gpx/wpt/ox:opencaching/ox:ratings/ox:terrain":self._handle_ox_terrain,
 			}
 
 		self._open_tag_handlers={
-			"wpt":self.handle_wpt_open,
+			"gpx/wpt":self._handle_wpt_open,
 			}
 
-	def handle_awesomeness(self,text,ebi):
+	def _handle_ox_awesomeness(self,text,ebi):
 		self._gch.awesomeness = float( text )
 
-	def handle_difficulty(self,text,ebi):
+	def _handle_ox_difficulty(self,text,ebi):
 		self._gch.difficulty = float( text )
 
-	def handle_size(self,text,ebi):
+	def _handle_ox_size(self,text,ebi):
 		self._gch.size = float( text )
 
-	def handle_terrain(self,text,ebi):
+	def _handle_ox_terrain(self,text,ebi):
 		self._gch.terrain = float( text )
 
-	def handle_name(self,text,ebi):
+	def _handle_name(self,text,ebi):
 		self._gch.name=text
 		self._gch.code=text
 
-	def handle_gs_name(self,text,ebi):
+	def _handle_gs_name(self,text,ebi):
 		self._gch.name=text
 
-	def handle_code(self,text,ebi):
-		self._gch.code=code
-
-	def handle_type(self,text,ebi):
+	def _handle_type(self,text,ebi):
 		self._gch.type=text
 
-	def handle_wpt_close(self,text,ebi):
+	def _handle_wpt_close(self,text,ebi):
 		self._gch.file_len = ebi - self._gch.file_pos
 		self._gch_list.append( deepcopy( self._gch ) )
 		self._gch.__init__()
 
-	def handle_wpt_open(self,attrs,cbi):
+	def _handle_wpt_open(self,attrs,cbi):
 		self._gch.lat = float(attrs["lat"])
 		self._gch.lon = float(attrs["lon"])
 		self._gch.file_pos = cbi
@@ -87,13 +88,13 @@ class GpxParser:
 		self._mode = "nul"
 		self._nul_parser = NulParser()
 		self._gch_parser = GchParser()
-		self._depth = 0
 		self._textbuffer = ""
 		self._parser = expat.ParserCreate()
-		self._parser.StartElementHandler = self.start
-		self._parser.EndElementHandler = self.end
-		self._parser.CharacterDataHandler = self.data
+		self._parser.StartElementHandler = self._start
+		self._parser.EndElementHandler = self._end
+		self._parser.CharacterDataHandler = self._data
 		self._parser.buffer_text = 1
+		self._tag_stack = []
 
 	def ParseFile(self, filename ):
 		"Parse a file specified by filename"
@@ -117,34 +118,47 @@ class GpxParser:
 		#return result set
 		return list
 
-	def start(self, tag, attrs):
+	def _pushTag(self, tag):
+		"Accumulate the tag onto the tag stack, return a string-id representing the tag-stack"
+		self._tag_stack.append(tag)
+		return '/'.join(self._tag_stack)
+
+	def _popTag(self, tag):
+		"Pop the current tag while validating order, return a string-id representing the previous tag-stack"
+		tag_key =  '/'.join(self._tag_stack)
+		popped = self._tag_stack.pop()
+		if( popped != tag ):
+			raise Exception("mismatched tag pairs at offset=%i", self._parser.CurrentByteIndex )
+		return tag_key
+
+	def _start(self, tag, attrs):
+		tag_key = self._pushTag(tag)
 		if( tag == "wpt" ):
 			self._mode = "wpt"
 
 		self._textbuffer=u""
-		self._depth = self._depth + 1
 		if( self._mode == "wpt" ):
-			self._gch_parser.start( tag, attrs, self._parser.CurrentByteIndex )
+			self._gch_parser.start( tag_key, attrs, self._parser.CurrentByteIndex )
 		else:
-			self._nul_parser.start( tag, attrs, self._parser.CurrentByteIndex )
+			self._nul_parser.start( tag_key, attrs, self._parser.CurrentByteIndex )
 
-	def data(self, data):
+	def _data(self, data):
 		self._textbuffer += data
 
-	def end(self, tag):
+	def _end(self, tag):
+		tag_key = self._popTag(tag)		
+
 		#To calculate the end pos, we need the CBI, which points to the start of the tag that caused
 		#the current event, and we need to add '</' , the taglen, and '>' to find the end-byte-index
 		end_pos = self._parser.CurrentByteIndex + 2 + len( tag ) + 1
 
 		if( self._mode == "wpt" ):
-			self._gch_parser.end( tag, self._textbuffer, end_pos )
+			self._gch_parser.end( tag_key, self._textbuffer, end_pos )
 		else:
-			self._nul_parser.end( tag, self._textbuffer, end_pos )
+			self._nul_parser.end( tag_key, self._textbuffer, end_pos )
 		
 		if( tag == "wpt" or tag == "rte" or tag == "trk" ):
 			self._mode = "nul"
-		self._depth = self._depth - 1
-
 
 
 
