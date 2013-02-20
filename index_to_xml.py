@@ -1,44 +1,59 @@
 #!/usr/bin/python
 from index import *
 from xml.sax.saxutils import escape
+import codecs
 import os
 import tempfile
 
 
-def open( fd, tag ):
-    os.write( fd, "<%s>"%tag )
+class XmlWriter:
+	"Simple XML serializer"
+	def __init__( self, fs ):
+		self._indent = 0
+		self._fs = fs
 
-def close( fd, tag ):
-    os.write( fd, "</%s>"%tag )
+	def indent(self):
+		for x in range(self._indent):
+			self._fs.write( " " )
 
-def openCloseTag( fd, tag, text ):
-	open( fd, tag )
-	os.write( fd, text )
-	close( fd, tag )
+	def OpenTag( self, tag ):
+		self.indent()
+		self._fs.write( "<%s>\n"%tag )
+		self._indent = self._indent + 1
 
-def entry( fd, geocache ):
-	open( fd, "geocache" )
-	openCloseTag( fd, "name",        "%s"%escape(geocache.name) )
-	openCloseTag( fd, "code",        "%s"%escape(geocache.code) )
-	openCloseTag( fd, "awesomeness", "%f"%geocache.awesomeness )
-	openCloseTag( fd, "difficulty",  "%f"%geocache.difficulty )
-	openCloseTag( fd, "size",        "%f"%geocache.size )
-	openCloseTag( fd, "terrain",     "%f"%geocache.terrain )
-	openCloseTag( fd, "file_pos",    "%d"%geocache.file_pos )
-	openCloseTag( fd, "file_len",    "%d"%geocache.file_len )
-	openCloseTag( fd, "lat",         "%f"%geocache.lat )
-	openCloseTag( fd, "lon",         "%f"%geocache.lon )
-	openCloseTag( fd, "type",        "%s"%escape(geocache.type) )
-	close( fd, "geocache" )
+	def CloseTag( self, tag ):
+		self._indent = self._indent - 1
+		self._fs.write( "</%s>\n"%tag )
 
-def footer( fd ):
-    os.write( fd, "</geocache_index>" )
+	def OpenTagCloseTag( self, tag, text ):
+		self.indent()
+		self._fs.write( "<%s>"%tag )
+		self._fs.write( text.encode("utf-8") )
+		self._fs.write( "</%s>\n"%tag )
+
+	def entry( self, geocache ):
+		self.OpenTag( "geocache" )
+		self.OpenTagCloseTag( "name",        "%s"%geocache.name )
+		self.OpenTagCloseTag( "code",        "%s"%geocache.code )
+		self.OpenTagCloseTag( "awesomeness", "%f"%geocache.awesomeness )
+		self.OpenTagCloseTag( "difficulty",  "%f"%geocache.difficulty )
+		self.OpenTagCloseTag( "size",        "%f"%geocache.size )
+		self.OpenTagCloseTag( "terrain",     "%f"%geocache.terrain )
+		self.OpenTagCloseTag( "file_pos",    "%d"%geocache.file_pos )
+		self.OpenTagCloseTag( "file_len",    "%d"%geocache.file_len )
+		self.OpenTagCloseTag( "lat",         "%f"%geocache.lat )
+		self.OpenTagCloseTag( "lon",         "%f"%geocache.lon )
+		self.OpenTagCloseTag( "type",        "%s"%geocache.type )
+		self.CloseTag( "geocache" )
 
 def index_to_xml( index ):
 	( temphndl, tempname ) = tempfile.mkstemp(".csv")
-	open( temphndl, "geocache_index" )
-	for g in index.cachelist:
-		entry( temphndl, g )
-	close( temphndl, "geocache_index" )
 	os.close( temphndl )
+	fs = codecs.open( tempname, "w", "utf-8" )
+	x = XmlWriter(fs)
+	x.OpenTag( "geocache_index" )
+	for g in index.cachelist:
+		x.entry( g )
+	x.CloseTag( "geocache_index" )
+	fs.close()
 	return tempname
