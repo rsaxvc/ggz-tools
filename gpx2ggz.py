@@ -14,6 +14,8 @@ if( len( sys.argv ) >= 3 ):
 
     # Create tables
     for  file in sys.argv[ 1:-1]:
+        zip_time = 0
+
         basefile = os.path.basename(file)
         print "Processing %s"%(basefile)
 
@@ -26,15 +28,17 @@ if( len( sys.argv ) >= 3 ):
         parse_time = time.time() - parse_time
 
         print "\tZipping"
-        zip_time = time.time()
+        zip_time = zip_time - time.time()
         z.write(file,"data/" + basefile )
-        zip_time = time.time() - zip_time
+        zip_time = zip_time + time.time()
 
         print "\tCreating CSV Index"
         index_csv_time = time.time()
         tempname = index_to_csv( index )
         noext, ext = os.path.splitext( basefile )
+        zip_time = zip_time - time.time()
         z.write( tempname, "index/com/garmin/geocaches/v0/" + noext + ".csv" )
+        zip_time = zip_time + time.time()
         index_csv_time = time.time() - index_csv_time
         os.system("rm -f %s"%tempname)
 
@@ -42,7 +46,9 @@ if( len( sys.argv ) >= 3 ):
         print "\tCreating XML Index"
         tempname = index_to_xml( index )
         noext, ext = os.path.splitext( basefile )
+        zip_time = zip_time - time.time()
         z.write( tempname, "index/com/garmin/geocaches/v0/" + noext + ".xml" )
+        zip_time = zip_time + time.time()
         index_xml_time = time.time() - index_xml_time
         os.system("rm -f %s"%tempname)
 
