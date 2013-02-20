@@ -38,17 +38,17 @@ if( len( sys.argv ) >= 3 ):
         index_csv_time = time.time() - index_csv_time
         os.system("rm -f %s"%tempname)
 
-        index_zip_time = time.time()
+        index_xml_time = time.time()
         print "\tCreating XML Index"
         tempname = index_to_xml( index )
         noext, ext = os.path.splitext( basefile )
         z.write( tempname, "index/com/garmin/geocaches/v0/" + noext + ".xml" )
-        index_zip_time = time.time() - index_zip_time
+        index_xml_time = time.time() - index_xml_time
         os.system("rm -f %s"%tempname)
 
 
-        print "Spent %fs parsing XML, %fs zipping, %fs creating XML index, %fs creating CSV index"%(
-            parse_time,zip_time,index_csv_time,index_zip_time)
+        print "Spent %fs parsing XML, %fs zipping, %fs creating CSV index, %fs creating XML index"%(
+            parse_time,zip_time,index_csv_time,index_xml_time)
 
 else:
     print "Please run:%s [input.gpx]... output.zip" % sys.argv[0]
