@@ -121,7 +121,7 @@ class GpxParser:
 			self._nul_parser.start( tag, attrs, self._parser.CurrentByteIndex )
 
 	def data(self, data):
-		self._textbuffer += repr(data)
+		self._textbuffer += data
 
 	def end(self, tag):
 		#To calculate the end pos, we need the CBI, which points to the start of the tag that caused
