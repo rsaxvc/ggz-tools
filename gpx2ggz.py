@@ -8,18 +8,6 @@ from gpx_parse import GpxParser
 from index_to_xml import index_to_xml
 from index_to_csv import index_to_csv
 
-def writeXmlIndexHeader( fd ):
-	os.write( fd, "<xml>" )
-
-def writeXmlIndexEntry( fd, geocache ):
-	os.write( fd, "" );
-
-def writeXmlIndexFooter( fd ):
-	os.write( fd, "</xml>" )
-
-def writeCsvIndexEntry( fd, geocache ):
-	os.write( fd, "" );
-
 if( len( sys.argv ) >= 3 ):
     os.system("rm -f %s"%sys.argv[-1])
     z = zipfile.ZipFile( sys.argv[-1], "w", zipfile.ZIP_DEFLATED )
