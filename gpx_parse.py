@@ -12,7 +12,6 @@ class GchParser:
 			"name":self.handle_name,
 			"code":self.handle_code,
 			"wpt":self.handle_wpt_close,
-			"wpt":self.handle_wpt_close,
 			}
 
 		self._open_tag_handlers={
