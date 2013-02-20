@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>7 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:37:52.580Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="22.8756388" lat="46.8284167">
+        <time>2012-07-09T19:21:30.000Z</time>
+        <name>OXZTEGA</name>
+        <desc>On the rock of intersection 103H 103J by bella-bike-fanteam, Traditional Cache(2.0/4.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTEGA</url>
+        <urlname>On the rock of intersection 103H 103J</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28464365">
+            <groundspeak:name>On the rock of intersection 103H 103J</groundspeak:name>
+            <groundspeak:placed_by>bella-bike-fanteam</groundspeak:placed_by>
+            <groundspeak:owner id="131911">bella-bike-fanteam</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">It's a bit of work to get to the cache, however it should not be hard to find the cache. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;LOCATION:&lt;br/&gt;South of Bologa, near Sacuieu, at the intersection of the roads 103H and 103J. 46 49' 42.3'' N 22 52' 32.3'' E&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;RULES: &lt;br/&gt;1) if you're coming by car then the wheels of your car may not get wet. park the car before. :p&lt;br/&gt;2) don't risk your life. if it's too dangerous then look for an easier path.&lt;br/&gt; </groundspeak:long_description>
+            <groundspeak:encoded_hints>birch tree on rock</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMG_2877.jpg</ox:name>
+                    <ox:size>186807</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="27.3175167" lat="44.1962167">
+        <time>2012-04-07T11:06:23.000Z</time>
+        <name>OXZTK41</name>
+        <desc>Comoara din Danubius (Danubius Treasure) by dumitreltoma, Traditional Cache(1.5/1.8/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTK41</url>
+        <urlname>Comoara din Danubius (Danubius Treasure)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28468789">
+            <groundspeak:name>Comoara din Danubius (Danubius Treasure)</groundspeak:name>
+            <groundspeak:placed_by>dumitreltoma</groundspeak:placed_by>
+            <groundspeak:owner id="106264">dumitreltoma</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Just for fun... smart fun! &lt;br/&gt;The cache is located near the Zoological Garden. </groundspeak:long_description>
+            <groundspeak:encoded_hints>wall</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1921476">
+                    <groundspeak:date>2012-06-13T14:38:00.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="125227">werty</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.8</ox:size>
+                <ox:terrain>1.8</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>hint.jpg</ox:name>
+                    <ox:size>10250</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="25.5824" lat="45.6329">
+        <time>2011-10-06T06:21:16.000Z</time>
+        <name>OXZTQ76</name>
+        <desc>Blue cable by SHAN1323, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTQ76</url>
+        <urlname>Blue cable</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28472731">
+            <groundspeak:name>Blue cable</groundspeak:name>
+            <groundspeak:placed_by>SHAN1323</groundspeak:placed_by>
+            <groundspeak:owner id="64129">SHAN1323</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">On house wall, in plain sight</groundspeak:long_description>
+            <groundspeak:encoded_hints>at eye level</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="25.657867" lat="45.600417">
+        <time>2009-07-16T07:00:00.000Z</time>
+        <name>OX1W0M6</name>
+        <desc>Ka29-BV - Bunloc by Szilard, Traditional Cache(2.0/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX1W0M6</url>
+        <urlname>Ka29-BV - Bunloc</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1728504">
+            <groundspeak:name>Ka29-BV - Bunloc</groundspeak:name>
+            <groundspeak:placed_by>Szilard</groundspeak:placed_by>
+            <groundspeak:owner id="53681">Szilard</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">The cache is placed in a nice clearing, on a small hill in
+Bunloc.&lt;br /&gt;
+Altitude: 804m&lt;br /&gt;
+ &lt;br /&gt;&lt;br /&gt; To get there, from Bunloc's cable railway, follow the forest road
+on the right (marked with a red triangle), then take a right on a
+trail when near the cache and you'll arrive in the clearing.&lt;br /&gt;
+From the clearing you have very nice views over Bunloc and
+Sacele.&lt;br /&gt;
+&lt;br /&gt;
+Initial contents:&lt;br /&gt;
+- logbook, stone, pencil</groundspeak:long_description>
+            <groundspeak:encoded_hints>under a stone</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="25.5154833" lat="45.6435">
+        <time>2011-08-18T22:44:51.000Z</time>
+        <name>OX302WY</name>
+        <desc>Welcome to Brasov City DN73 - reloaded by Szilard, Traditional Cache(1.0/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX302WY</url>
+        <urlname>Welcome to Brasov City DN73 - reloaded</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2773351">
+            <groundspeak:name>Welcome to Brasov City DN73 - reloaded</groundspeak:name>
+            <groundspeak:placed_by>Szilard</groundspeak:placed_by>
+            <groundspeak:owner id="53681">Szilard</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Your first step in the one of the most beautiful cities from Romania&lt;br/&gt;BYOP, no room for trading&lt;br/&gt;&lt;br/&gt;The origins of Brasov as a medieval town are lost in the dark times. Archaeological discoveries mention life on this land since the Bronze Age, 60,000 years ago.&lt;br/&gt;&lt;br/&gt;Brasov was first mentioned as &quot;Corona&quot; ( which means, crown, hence the coat of arms of the city which is a crown with oak roots) in 1235, when the Saxon population settled here. Later on the town was known as Brasco, Brasso, Kronstadt, Brassovia Citadel and Stalin.&lt;br/&gt;&lt;br/&gt;Due to its geographical position, at the crossroads of Moldavia and Wallachia, Brasov has had a fast economic growth, becoming one of the most important markets in Transylvania. On the 14th century Brasov became one of the most economical and political strongholds in the Southeast of Europe and on the 16th century also a cultural center.&lt;br/&gt;&lt;br/&gt;In the period following the 1st World War, Brasov became a strong economical center in Europe, but the town was partly destroyed during the 2nd World War. It was rebuilt and the historical buildings were restored. During the second half of the 20th century, the communist administration forcefully industrialized the city, bringing here workers from the rest of Romania, and determining population of German or Jewish origin to leave the city in droves.</groundspeak:long_description>
+            <groundspeak:encoded_hints>it's too easy</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="23.1564" lat="47.17795">
+        <time>2011-02-23T08:00:00.000Z</time>
+        <name>OX2P7TJ</name>
+        <desc>Back in Time: Porolissum by ANYNEWT, Traditional Cache(1.5/1.9/2.8)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2P7TJ</url>
+        <urlname>Back in Time: Porolissum</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2509964">
+            <groundspeak:name>Back in Time: Porolissum</groundspeak:name>
+            <groundspeak:placed_by>ANYNEWT</groundspeak:placed_by>
+            <groundspeak:owner id="15891">ANYNEWT</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Cache in Porolissum &lt;br/&gt;&lt;br/&gt; Porolissum is a former Roman fort in Dacia which was part of the frontier of the Roman Empire.  You can look up all the historical details or read the signs when you visit but this site it well worth the visit if you are in the area.  I am told there is a large festival in the summer but alas when I visited and placed the cache it looked more like Siberia.&lt;br/&gt;&lt;br/&gt;The cache is NOT in the wall or any structure so do not disturb the archeology.&lt;br/&gt;&lt;br/&gt;Congratulations!  Bravo! &lt;br/&gt;&lt;br/&gt;April 22 by hcalin (2 found)&lt;br/&gt;FTF @ 18:00 local time on God's Friday</groundspeak:long_description>
+            <groundspeak:encoded_hints>In stones to the left of the porta decumana as you walk towards the amphitheater.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1784808">
+                    <groundspeak:date>2012-04-19T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="110248">ckova</groundspeak:finder>
+                    <groundspeak:text encoded="False">helppo</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.8</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.2</ox:size>
+                <ox:terrain>1.9</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.1" lat="44.4333">
+        <time>2011-02-02T18:01:39.000Z</time>
+        <name>OXZTX9Z</name>
+        <desc>Dacia by yocumine, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTX9Z</url>
+        <urlname>Dacia</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477622">
+            <groundspeak:name>Dacia</groundspeak:name>
+            <groundspeak:placed_by>yocumine</groundspeak:placed_by>
+            <groundspeak:owner id="11781">yocumine</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">x</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1766789">
+                    <groundspeak:date>2012-03-04T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="97502">GIGY1958</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1277055">
+                    <groundspeak:date>2011-06-05T21:38:10.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="27237">nexus one</groundspeak:finder>
+                    <groundspeak:text encoded="False">Logged via OpenCaching Android app.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+</gpx>

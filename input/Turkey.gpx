@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>1 geocache.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:38:52.785Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="29.0679333" lat="36.5528167">
+        <time>2010-08-14T07:00:00.000Z</time>
+        <name>OX2DD7C</name>
+        <desc>Magic island (st. nicholas) by nandini, Traditional Cache(2.0/3.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2DD7C</url>
+        <urlname>Magic island (st. nicholas)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2247047">
+            <groundspeak:name>Magic island (st. nicholas)</groundspeak:name>
+            <groundspeak:placed_by>nandini</groundspeak:placed_by>
+            <groundspeak:owner id="31024">nandini</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The Gemiler Island, also known as St Nicholas Island as it is
+believed the legendary figures once made his home here, was the
+perfect place to hide my #1000 finding celebration cache with the
+help of Izmir dragger, my padawan aprentice.
+
+&lt;br /&gt;
+
+&lt;br /&gt;
+On the Island are the remains of churches dating back to the 5th
+Century, graves, cisterns and ancient houses. There is a tunnel
+500m in length which connects two of the churches.&lt;br /&gt;
+A climb to the top of the Island to watch the sunset is a
+must.&lt;br /&gt;
+I´m sure you gonna love it.&lt;br /&gt;
+&lt;br /&gt;
+You can reach the island by boat or swimming and there is a 4€
+admission fee.&lt;br /&gt;
+Its not recommended for children because you´ll be near the cliff.
+
+&lt;p&gt;Small note on cache maintenance: There is a local
+cache guardian who will assist.&lt;br /&gt;
+Name and contact info on file with geocaching.com.&lt;/p&gt; </groundspeak:long_description>
+            <groundspeak:encoded_hints>Two meters below the top. Elevation = 84mt</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

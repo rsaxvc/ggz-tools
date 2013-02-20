@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>4 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:37:57.864Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="-7.9905167" lat="31.6250833">
+        <time>2011-03-04T08:00:00.000Z</time>
+        <name>OX2PRMN</name>
+        <desc>Marrakech - Djamaa El Fna by Paulo_Domingues, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2PRMN</url>
+        <urlname>Marrakech - Djamaa El Fna</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2526149">
+            <groundspeak:name>Marrakech - Djamaa El Fna</groundspeak:name>
+            <groundspeak:placed_by>Paulo_Domingues</groundspeak:placed_by>
+            <groundspeak:owner id="2281">Paulo_Domingues</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Marrakech - Djamaa El Fna
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;p&gt;The famous town square of Marrakech, Jamaa El Fna, owes little of its fame to its own beauty, but to the continuous day and night life. During most of the days, perfomers of every kind put up their shows, continuing until the food stalls start to move in.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;From the Jamaa there are several entries to the fantastic suuqs, and for anyone who needs to relax for a while, there are plenty of cafés around the Jamaa, where the main attraction is looking at the ongoing activities.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;Jamaa El Fna owes most of its fame to the large number of spectacles going on all around all the time. Snake charmers, singers, story tellers, healers and fakirs attract a dominantly Moroccan audience.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;The food stalls take over the Jamaa as soon as the orange juice sellers have packed up and gone home. The food is prepares from fresh on the spot, and you can choose between fish, meat or vegetable dishes. The concept is easy, you point at everything you desire, indicate the quantity and within few minutes it is there in
+front of you.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;The food is exquisite, tasteful and much appreciated by Moroccans and brave tourists. Never forget the good rule of eating in Morocco: eat where the Moroccans eat — they know where to get good food!&lt;/p&gt;  </groundspeak:long_description>
+            <groundspeak:encoded_hints>[PT] À altura do joelho, atrás de algumas pedras numa fenda vertical na parede. [EN] At knee height, behind some stones in a vertical crack in the wall&quot;.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1282664">
+                    <groundspeak:date>2011-03-26T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="31024">nandini</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found it!! 
+Obrigado</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-7.99475" lat="31.6237667">
+        <time>2011-03-04T08:00:00.000Z</time>
+        <name>OX2PRT9</name>
+        <desc>Marrakech - La Koutoubia by Paulo_Domingues, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2PRT9</url>
+        <urlname>Marrakech - La Koutoubia</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2526292">
+            <groundspeak:name>Marrakech - La Koutoubia</groundspeak:name>
+            <groundspeak:placed_by>Paulo_Domingues</groundspeak:placed_by>
+            <groundspeak:owner id="2281">Paulo_Domingues</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;b&gt;Marrakech - La Koutoubia&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;p&gt;The Koutoubia Mosque is the largest mosque in Marrakech, Morocco. The minaret was completed under the reign of the Almohad Caliph Yaqub al-Mansur (1184-1199) and was used as the model for the Giralda of Seville and for the Hassan Tower of
+Rabat.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;The name is derived from the Arabic al-Koutoubiyyin for librarian, since it used to be surrounded by sellers of manuscripts. It is considered the ultimate structure of its kind. The tower is 69 m (221 ft) in height and has a lateral length of 12.8 m (41 ft). Six rooms (one above the other) constitute the interior; leading around them is a ramp by way of which the muezzin could ride up to the balcony. It is built in a traditional Almohad
+style and the tower is adorned with four copper globes.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;According to legend, the globes were originally made of pure gold, and there were once supposed to have been only three globes. The fourth globe was donated by the wife of Yaqub el-Mansur as compensation for her failure to keep the fast for one day during the month of Ramadan. She had her golden jewelry melted down to flab the fourth globe.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;The minaret of the Koutoubia was the model for the minaret of the Giralda mosque in Seville which in its turn has influenced thousands of church towers in Spain and Eastern Europe.&lt;/p&gt;
+ </groundspeak:long_description>
+            <groundspeak:encoded_hints>[PT] Na palmeira, 1,70 m de altura. [EN] In palmtree, 1,70 m heigh, behind scale. </groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1282665">
+                    <groundspeak:date>2011-03-26T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="31024">nandini</groundspeak:finder>
+                    <groundspeak:text encoded="False">Tomei a liberdade de de deixar uma micro no mesmo sitio. No entanto estavam uns sem-abrigo a dormir ao lado e acho que não vai aguentar uma semana...
+Levava duas caches (uma para banana point e outra para a minha do jimmy hendrix) esta ultima não foi precisa. Pena não ter mais para a do aeroporto. Maybe next time...</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-7.375" lat="31.287017">
+        <time>2009-09-18T08:00:00.000Z</time>
+        <name>OX1YT1G</name>
+        <desc>Tizi n'Tichka - MG10 by JMROBALO, Traditional Cache(2.0/3.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX1YT1G</url>
+        <urlname>Tizi n'Tichka - MG10</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1811532">
+            <groundspeak:name>Tizi n'Tichka - MG10</groundspeak:name>
+            <groundspeak:placed_by>JMROBALO</groundspeak:placed_by>
+            <groundspeak:owner id="5528">JMROBALO</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">
+Tizi n'Tichka - MG10
+&lt;br /&gt;
+
+
+&lt;br /&gt;
+
+&lt;p&gt;
+The route of Tizi-N-Tichka length is 200 km,
+      crossed the High Atlas and is considered one of the most
+      beautiful in Morocco. It is a must win for Marrakech to
+      Ouarzazate. The route of Tizi-N-Tichka is a series of small
+      turns that culminated, the Tizi-N-Tichka is at 2300 meters:
+      be careful. It is possible that the pass is closed in
+      December and January.&lt;/p&gt;
+&lt;br /&gt;
+
+Roughly hallway along the main highway between
+      Marrakech and Ouarzazate, this pass &lt;i&gt;is&lt;/i&gt; a spectacular
+      piece of French engineering built to replace the main caravan route
+      connecting south and north. Along is route is a fascinating
+      contrast of environments ranging from the rich, red-soil
+      farming plains and fertile valleys above Marrakech to barren
+      peaks and oases like palmeraies facing the
+      pre-Sahara.
+&lt;p&gt;
+ &lt;/p&gt;
+&lt;br /&gt;
+Scattered along the route are small villages and welcome roadside
+cafes. A 2260m, the pass is higher than the Tizi n’Test to its west
+and affords a similarly exhilarating if somewhat bleaker, vista
+from its peak.&lt;br /&gt;
+&lt;br /&gt;
+ There are souvenir stalls precariously precariously all along the
+higher reaches of the pass, and look out for salesmen waving
+brightly colored—sometimes by artificial means—fossils and minerals
+at your vehicle as you round the hairpin bends. 
+&lt;p&gt;
+ &lt;/p&gt;
+&lt;br /&gt;
+If you have time, I recommend a side visit to
+      Telouer and the Dar Glaoui kasbah that dominates the village.
+      This former “castle of the sand,” fast rejoining the very
+      earth from which it was built, was the base for the el-Glaoui
+      clan, who controlled much of southern Morocco from the late 1
+      800s until Moroccan independence in 1956, as well as the
+      caravan route of which the main highway has now replaced. The
+      kasbah is an absurdly huge. dramatic building. .and although
+      the maze of locked rooms and connecting passageways are
+      mostly off limits—for safety reasons—it’s still worth a visit
+      if only to marvel at the extravagance of this modern-day
+      dynasty. The turnoff to Telouet is about 6km south of the
+      pass arid 21 km along a narrow, scenic, pot-holed
+      road. &lt;br /&gt;
+
+
+
+
+&lt;p&gt;
+From parking to the cache are 570m, with an area
+      of difficult progression at the end, it requires some
+      physical effort. In winter, with snow, the cache may provide
+      some difficulties to be found, because the cache is at 2300
+      m.&lt;br /&gt;
+
+
+&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;AA1YT1G - Parking Area&lt;br /&gt;N 31° 17.160 W 007° 22.855 </groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1282661">
+                    <groundspeak:date>2009-10-06T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="31024">nandini</groundspeak:finder>
+                    <groundspeak:text encoded="False">Hello my dear friends!
+First of all my congratulations for bigpat for the FTF.. the coords were right after all!
+Next, i had the pleasure to participate in the hiding of this cache, and I´m sure that its one of the best.
+what a great look from the top with the wind! really great one.
+Remember Robalo that its was a littlle bit my crazy idea!!!
+Nice journey, great hide.
+Hughes and kisses Fish robalo team!</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-8.027217" lat="31.600933">
+        <time>2011-03-05T08:00:00.000Z</time>
+        <name>OX2PRTG</name>
+        <desc>Marrakech - Airport by Paulo_Domingues, Traditional Cache(1.5/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2PRTG</url>
+        <urlname>Marrakech - Airport</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2526299">
+            <groundspeak:name>Marrakech - Airport</groundspeak:name>
+            <groundspeak:placed_by>Paulo_Domingues</groundspeak:placed_by>
+            <groundspeak:owner id="2281">Paulo_Domingues</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;b&gt;Marrakech - Airport&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;p&gt;Marrakech-Menara Airport is an airport serving Marrakech, the capital city of the Marrakech-Tensift-El Haouz region in Morocco. It is an international facility that receives some European flights as well as flights from Casablanca and some of the Arab world nations. The airport served over 3.1 million passengers in the year 2008.&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;p&gt;During World War II, the airport was used by the United States Army Air Force Air Transport Command as a hub for cargo, transiting aircraft and personnel. It functioned as a stopover en-route to Casablanca Airfield or to Agadir Airport on the North African Cairo-Dakar transport route for cargo, transiting aircraft and personnel.&lt;/p&gt; 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>[PT] Mete a mão por baixo.
+[EN] Puts his hand underneath.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

@@ -1,0 +1,1555 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>40 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:37:19.174Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="-74.9041167" lat="4.9557833">
+        <time>2012-09-02T01:13:04.000Z</time>
+        <name>OX3V8CP</name>
+        <desc>Armero by JEMEJIA, Traditional Cache(2.7/1.4/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3V8CP</url>
+        <urlname>Armero</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3553211">
+            <groundspeak:name>Armero</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Armero-Guayabal, is a municipality in the Tolima_Department. According to the National Department of Statistics of Colombia, 12,852 lived in the town in 2005. Its median temperature is 26 °C. It was founded in 1895, but was not officially recognized as the seat of the region until 29 September 1908, by President Rafael Reyes. The town was originally named San Lorenzo. In 1930, the name was changed to Armero in memory of José León Armero The original seat of the region was destroyed on November 13, 1985 after an eruption of the Nevado del Ruiz Volcano that destroyed the town and killed about 23,000 people. Approximately 31,000 people lived in the area at the time. The incident became known as the While the destruction of the town made world news in its own right, the best known victim was Omayra Sánchez, a young girl who died after being trapped by water and concrete up to her neck for three days. After this event, the town of  was assigned as the seat of the municipality of Armero, rendering Armero ;The survivors were relocated to the towns of Guayabal and 128);Lérida where they received housing and money, though little was done in aiding the survivors in reconstructing their lives. In the area where the city was located, survivors created an extensive cemetery. Where each one had a house, they constructed a tomb with an epitaph. In this way, they constructed a new symbolic city called The Camposanto. Francisco González explains in his book, Epitafios, algo de historia hasta esta tarde pasando por Armero(Epitaphs, a bit of history during this afternoon, passing through Armero). The cache is a small container whit loogbook, and any surprise.&lt;br/&gt;N 04° 57.347 W 074° 54.247 </groundspeak:long_description>
+            <groundspeak:encoded_hints>Esquina izquierda atras</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.7</ox:difficulty>
+                <ox:size>2.3</ox:size>
+                <ox:terrain>1.4</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Historic site</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-75.2837833" lat="5.0711">
+        <time>2012-09-02T01:18:22.000Z</time>
+        <name>OX3V8D1</name>
+        <desc>Melvin en Cerro Bravo. by JEMEJIA, Traditional Cache(2.6/3.3/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3V8D1</url>
+        <urlname>Melvin en Cerro Bravo.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3553221">
+            <groundspeak:name>Melvin en Cerro Bravo.</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">En la vìa que conduce de Bogotá a Manizales se encuentra el cache, especificamente en el carril derecho viniendo de Manizales despuès de pasar el alto de letras y antes de llegar a Cerro bravo.&lt;br/&gt;&lt;br/&gt;On the road from Bogota to Manizales is the cache, specifically in the right lane coming from Manila after spending the height of letters and before arriving at Cerro Grande.&lt;br/&gt;&lt;br/&gt;El volcán Cerro Bravo está construido sobre rocas intrusivas terciarias de composición granodiorítica, pertenecientes al Stock de Manizales, y rocas metamorficas paleozoicas del Grupo Cajamarca, en intersección de fallas del Sistema Palestina con otras de dirección transversal. Sus primeros estadios de formación finalizaron con la formación de calderas y los últimos corresponden a explosiones piroclásticas y formación de domos. Los productos del volcán son lavas que recorrieron distancias máximas de 5 km y alcanzaron espesores hasta de 100 m, domos, depósitos de flujos, oleadas y caídas piroclásticas y lahares o flujos de lodo. La composición petrológica varía entre andesitas y dacitas, compuestas de plagioclasa, ortopiroxeno, hornblenda, titanomagnetita, con relictos de cuarzo y biotita. Esto explica la emisión de lavas muy viscosas que pueden moverse lentamente por distancias cortas o la formación de domos que no fluyen y taponan el conducto volcánico y son total o parcialmente destruidos por colapso gravitacional o por voladura para destapar el cráter; también, facilita la ocurrencia de erupciones piroclásticas muy violentas con producción de grandes columnas de erupción, debido al alto contenido de gases en el magma. Los lahares se forman aprovechando la abundancia de agua, los valles estrechos y las pendientes altas.&lt;br/&gt;Fuente: Ingeominas.&lt;br/&gt;El cache es un animal que nunca encontraras en esta zona.&lt;br/&gt;&lt;br/&gt;The volcano Cerro Bravo is built on Tertiary intrusive rocks of granodioritic, Stock belonging to Manizales, and Paleozoic metamorphic rocks of the Cajamarca Group, fault intersecting with other Palestine System transverse direction. His early training stages ended with the formation of boilers and correspond to recent explosions and pyroclastic formation of domes. The products of the volcano are lava that traveled distances up to 5 km and reached thicknesses of up to 100 m, domes, tanks flows, pyroclastic surges and falls and lahars or mudflows. The petrological composition varies between andesites and dacites, composed of plagioclase, orthopyroxene, hornblende, titanomagnetite, with relict quartz and biotite. This explains the emission of highly viscous lavas that can move slowly for short distances or to form domes that do not flow and clog the volcanic conduit and are wholly or partially destroyed by bombing or by gravitational collapse to uncover the crater also facilitates the occurrence very violent eruptions with pyroclastic producing large eruption columns, due to the high gas content in the magma. Lahars form taking advantage of the abundance of water, narrow valleys and steep slopes.&lt;br/&gt;Source: Ingeominas.&lt;br/&gt;The cache is an animal that never find in this area.&lt;br/&gt;&lt;br/&gt;N 05° 04.266 W 075° 17.027 </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>3.7</ox:size>
+                <ox:terrain>3.3</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMG_4124.jpg</ox:name>
+                    <ox:size>170080</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-74.0553333" lat="4.6056">
+        <time>2012-08-13T00:06:04.000Z</time>
+        <name>OX3RY7Z</name>
+        <desc>Monserrate, Plaza de los peregrinos by JEMEJIA, Traditional Cache(1.6/2.3/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3RY7Z</url>
+        <urlname>Monserrate, Plaza de los peregrinos</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3513663">
+            <groundspeak:name>Monserrate, Plaza de los peregrinos</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Pequeño cache en un contenedor plàstico magnetizado, contine loogbook, una ceràmica, un pin y otras sorpresa. El Cerro de Monserrate es el símbolo por excelencia de Bogotá. Ubicado a 3.152 metros de altura sobre el nivel del mar, alberga en su cima el Santuario del Señor Caído, lugar de peregrinación de nacionales y extranjeros. Tomado de:http://www.cerromonserrate.com&lt;br/&gt;&lt;br/&gt;Small cache in a magnetized plastic container, contine loogbook, a ceramic, a pin and other surprises. The Cerro de Monserrate is the symbol of Bogotá. Located 10341 ft above the sea level at its summit houses the Shrine of the Fallen Lord, place of pilgrimage and abroad, surrounded by lush vegetation and which affords the best landscape of the savannah of Bogota. at the confluence of faith, nature, sports and the best of national and foreign cuisine. The Cerro de Monserrate is one of the most recognizable formations of the plain of Bogota, as well as a symbol of the city. Belonging to the eastern hills. In the foothills the Spanish conquistador Gonzalo Jimenez de Quesada founded the first Spanish settlement in the region of Bacatá, in the current second career with Thirteenth Street, not far from the Chorro de Quevedo, was later called Old Town, then known as Teuzaquillo. In 1620, Fernández de Valenzuela family began construction of the chapels of the hill, which became known as Las Nieves until the mid XVIII.5 In fact, Pedro Fernández de Valenzuela with the permission of the president of the New Kingdom of Granada Juan Borja erected a chapel dedicated to Santa Cruz de Monserrate.5 Years later, Solis Pedro Valenzuela founded a monastery dedicated to St. Mary of the Cross of Monserrate, evoking the monastery of Santa Maria de El Paular of Segovia, where he a brother monk, carrying out the expansion work of the chapel and the house next door in the second half of the year 1650.5 In the same period a road was adapted from the church of Las Nieves had to hilltop, counting on its way with small shrines for pilgrims, who remembered the hills of Bethlehem and Montserrat respectively in Andalusia and Catalonia.&lt;br/&gt;&lt;br/&gt;N 04° 36.195 W 074° 03.195 </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>2.3</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-74.05535" lat="4.6054667">
+        <time>2012-08-13T00:17:35.000Z</time>
+        <name>OX3RY7X</name>
+        <desc>Plaza de los peregrinos by JEMEJIA, Traditional Cache(2.6/2.3/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3RY7X</url>
+        <urlname>Plaza de los peregrinos</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3513661">
+            <groundspeak:name>Plaza de los peregrinos</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Pequeño cache en un contenedor plàstico magnetizado, contine loogbook, una ceràmica, un pin y otras sorpresa. El Cerro de Monserrate es el símbolo por excelencia de Bogotá. Ubicado a 3.152 metros de altura sobre el nivel del mar, alberga en su cima el Santuario del Señor Caído, lugar de peregrinación de nacionales y extranjeros. Tomado de:http://www.cerromonserrate.com&lt;br/&gt;&lt;br/&gt;Small cache in a magnetized plastic container, contine loogbook, a ceramic, a pin and other surprises. The Cerro de Monserrate is the symbol of Bogotá. Located 10341 ft above the sea level at its summit houses the Shrine of the Fallen Lord, place of pilgrimage and abroad, surrounded by lush vegetation and which affords the best landscape of the savannah of Bogota. at the confluence of faith, nature, sports and the best of national and foreign cuisine. The Cerro de Monserrate is one of the most recognizable formations of the plain of Bogota, as well as a symbol of the city. Belonging to the eastern hills. In the foothills the Spanish conquistador Gonzalo Jimenez de Quesada founded the first Spanish settlement in the region of Bacatá, in the current second career with Thirteenth Street, not far from the Chorro de Quevedo, was later called Old Town, then known as Teuzaquillo. In 1620, Fernández de Valenzuela family began construction of the chapels of the hill, which became known as Las Nieves until the mid XVIII.5 In fact, Pedro Fernández de Valenzuela with the permission of the president of the New Kingdom of Granada Juan Borja erected a chapel dedicated to Santa Cruz de Monserrate.5 Years later, Solis Pedro Valenzuela founded a monastery dedicated to St. Mary of the Cross of Monserrate, evoking the monastery of Santa Maria de El Paular of Segovia, where he a brother monk, carrying out the expansion work of the chapel and the house next door in the second half of the year 1650.5 In the same period a road was adapted from the church of Las Nieves had to hilltop, counting on its way with small shrines for pilgrims, who remembered the hills of Bethlehem and Montserrat respectively in Andalusia and Catalonia.&lt;br/&gt;</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>2.8</ox:size>
+                <ox:terrain>2.3</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Historic site</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>DSCN0276.jpg</ox:name>
+                    <ox:size>50453</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-76.2833333" lat="3.8833333">
+        <time>2012-08-12T21:41:04.000Z</time>
+        <name>OX3TFX8</name>
+        <desc>Navstar by ITHANHOT, Traditional Cache(2.5/3.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3TFX8</url>
+        <urlname>Navstar</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3530629">
+            <groundspeak:name>Navstar</groundspeak:name>
+            <groundspeak:placed_by>ITHANHOT</groundspeak:placed_by>
+            <groundspeak:owner id="141097">ITHANHOT</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">camino al derrumbado, comienza desde el puente pasando el rio guadalajara, se suben mas o menos  de 700m a un 1km, una vez alli se observara un arbol grande a mano izquierda en una pequeña montaña, cuando subas alli tendras que caminar montaña arriba buscando el cache</groundspeak:long_description>
+            <groundspeak:encoded_hints>a las espaldas del gran observante que mira a la ciudad</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>tree.jpg</ox:name>
+                    <ox:size>71426</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>tree 5.jpg</ox:name>
+                    <ox:size>44300</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>tree 4.jpg</ox:name>
+                    <ox:size>35791</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>tree 6.jpg</ox:name>
+                    <ox:size>72759</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-74.0330167" lat="4.7241833">
+        <time>2012-08-04T23:17:54.000Z</time>
+        <name>OX3D8X7</name>
+        <desc>Skate Park by JEMEJIA, Traditional Cache(3.6/2.3/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3D8X7</url>
+        <urlname>Skate Park</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3166409">
+            <groundspeak:name>Skate Park</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Pequeño cache, que contiene un helicopetro, un bastòn y libro de registro, se encuentra protegido en bolsa plástica y tiene el logo de geocache.&lt;br/&gt;Small cache, which contains a helicopter, a stick and record book, is protected in a plastic bag and has the logo of geocache.&lt;br/&gt;&lt;br/&gt;El parque de la Calle 9 con 146, en el Barrio Cèdritos en Bogotá se caracteriza por su gran actividad deportiva.&lt;br/&gt;&lt;br/&gt;Pequeño cache, que contiene un helicoptero, un pequeño bastòn y libro de registro, se encuentra protegido en bolsa plástica y tiene el logo de geocache.&lt;br/&gt;&lt;br/&gt;Park Street District 9 in Bogota Cedritos is characterized by a great sport.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt; </groundspeak:long_description>
+            <groundspeak:encoded_hints>Alguna vez fueron árboles grandes y frondosos. Were once large, leafy trees.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.6</ox:difficulty>
+                <ox:size>1.4</ox:size>
+                <ox:terrain>2.3</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMG_2976.jpg</ox:name>
+                    <ox:size>147192</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-74.0389" lat="4.7060167">
+        <time>2012-08-04T14:04:26.000Z</time>
+        <name>OX3NCN2</name>
+        <desc>Parque el Country by JEMEJIA, Traditional Cache(1.7/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3NCN2</url>
+        <urlname>Parque el Country</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3408359">
+            <groundspeak:name>Parque el Country</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">El Parque Metropolitano El Country se encuentra ubicado en la localidad de Usaquén de Bogotá, Colombia, especificamente en la Calle 127C con Carrera 11D a dos cuadras del Centro Comercial Unicentro.&lt;br/&gt;Anterior a ser llamado Parque El country, fue la antigua cancha de polo del Country Club de Bogotá. En el 2007, fue rebautizado y abierto a los ciudadanos, pero como aún no forma parte formal del Distrito, no se han hecho las inversiones necesarias para contar con todas las facilidades necesarios para constituirse en un Parque Urbano.&lt;br/&gt;Mientras es resuelto el status del parque, los terrenos son usados para jugar Ultimate frisbee y fútbol.&lt;br/&gt;&lt;br/&gt;El cache es una pequeña caja plàstica que contiene loogbook, una cerámica y un par de aretes,BYOP.&lt;br/&gt;&lt;br/&gt;Fuente: Wikipedia.&lt;br/&gt;&lt;br/&gt;The Metropolitan Park The Country is located in the town of Usaquén of Bogota, Colombia, specifically on Calle Carrera 11D 127C with two blocks of the Mall Unicentro. Prior to being called The Country Park, this was the old polo field at the Country Club of Bogota. In 2007, it was renamed and open to the public, but as yet not a formal part of the District, have not made ​​the investments necessary to have all the facilities necessary to become an urban park. While it is resolved the status of the park, the land is used to play Ultimate Frisbee and soccer. The cache is a small plastic box containing loogbook, a ceramic and a couple of aretes.BYOP.&lt;br/&gt;&lt;br/&gt; </groundspeak:long_description>
+            <groundspeak:encoded_hints>P, Magnetic, agacharse.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.7</ox:difficulty>
+                <ox:size>1.7</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>3a2d35fe-7924-46d3-8f77-c978ee98d8ad.jpg</ox:name>
+                    <ox:size>88792</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-74.0586667" lat="4.6750333">
+        <time>2012-08-04T15:52:21.000Z</time>
+        <name>OX3P78D</name>
+        <desc>Parque Lineal el Virrey by JEMEJIA, Traditional Cache(1.6/1.7/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3P78D</url>
+        <urlname>Parque Lineal el Virrey</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3432953">
+            <groundspeak:name>Parque Lineal el Virrey</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">El parque lineal y corredor ecológico de ronda El Virrey es un parque que se extiende desde la carrera Séptima hasta la Autopista Norte a la altura de la calle Ochenta y ocho.&lt;br/&gt;&lt;br/&gt;El parque posee línea de la red de ciclorrutas, paseo peatonal y zonas de descanso, así como bebederos de agua para visitantes y mascotas.1 No se permite la realización de actividades de alto impacto. En su extremo occidental, sobre la autopista Norte, se encuentra la estación Virrey del sistema TransMilenio.&lt;br/&gt;&lt;br/&gt;El proyecto del desarrollo de este parque fue la creación de un parque lineal a lo largo de la quebrada de El Virrey (Río Negro) para protección y conservación de la fuente de agua, y las especies animales y vegetales de la zona, especialmente la avifauna que anida y vive en él.&lt;br/&gt;&lt;br/&gt;El área del parque se dividió en tres grandes zonas: La primera comprendida entre Carrera Séptima y la Carrera 11. La segunda se extiende desde la Carrera 11 y la 15. Estas dos primeras zonas se caracterizan por ser un parque angosto el cual amplía su extensión en la tercera zona que se extiende desde la Carrera 15 hasta la Autopista Norte.&lt;br/&gt;&lt;br/&gt;El cache es un pequeño contenedor plàstico que cotiene un avartar y loogbook,BYOP.&lt;br/&gt;&lt;br/&gt;The linear park and ecological corridor round The Viceroy is a park that extends from the seventh race to the North Freeway to the street level Eighty eight.&lt;br/&gt;&lt;br/&gt;The park has online network of bicycle paths, pedestrian and seating areas and drinking fountains for visitors and mascotas.1 not allowed to carry out high-impact activities. At its western end, on the highway north is the station of the TransMilenio system Viceroy.&lt;br/&gt;&lt;br/&gt;The development project of this park was to create a linear park along the gorge of the Viceroy (Black River) to protect and conserve the water source, and animal and plant species in the area, especially the birds that nests and lives in it.&lt;br/&gt;&lt;br/&gt;The park area was divided into three zones: the first between Seventh Carrera and Carrera 11. The second extends from the Carrera 11 and 15. These first two areas are characterized by a narrow park which extends its length in the third zone extending from Avenue 15 to Highway North.&lt;br/&gt;&lt;br/&gt;The cache is a small plastic container and loogbook cotiene a avartar, BYO&lt;br/&gt;&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>El verde mira hacia abajo.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>1.7</ox:size>
+                <ox:terrain>1.7</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>de26dcce-651a-43c7-bdc3-96e19cd58ca3.jpg</ox:name>
+                    <ox:size>59811</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-74.0300833" lat="4.7151333">
+        <time>2012-08-04T13:23:31.000Z</time>
+        <name>OX3K835</name>
+        <desc>Palatino by JEMEJIA, Traditional Cache(1.2/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3K835</url>
+        <urlname>Palatino</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3344378">
+            <groundspeak:name>Palatino</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Cerca a la carrera Sèptima se encuentra el centro comercial Palatino, detrás de este existe un parque que conecta con la carrera 9, deben buscar por ahí.&lt;br/&gt;&lt;br/&gt;Pueden aprovechar para comer deliciosos tacos cerca a la caller 140.&lt;br/&gt;El cache contiene dos pequeñas artesanìas colombianas, loogbook y logo de geocaching, está protegido tambièn por una bolsa sellable.&lt;br/&gt;BYOP.&lt;br/&gt;Near the seventh race is the mall Palatine, behind this there is a park connected with the Street ninth, should look around.&lt;br/&gt;&lt;br/&gt;Can use to eat tacos near the Street 140.&lt;br/&gt;The cache contains two small Colombian crafts, geocaching loogbook and logo is also protected by a resealable bag.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Alguna vez fue un àrbol</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.2</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>99f87887-cdae-4cad-bb2d-603b4fa388d9.jpg</ox:name>
+                    <ox:size>72670</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-74.052" lat="4.6723667">
+        <time>2012-08-04T13:42:51.000Z</time>
+        <name>OX3KW8Q</name>
+        <desc>Homenaje a Colmenares by JEMEJIA, Traditional Cache(1.7/1.3/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3KW8Q</url>
+        <urlname>Homenaje a Colmenares</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3362810">
+            <groundspeak:name>Homenaje a Colmenares</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Luis Andres Colmenares murió asesinado en extrañas circuntancias en el parque el Virrey de la ciudad de Bogotá, al dìa de hoy su muerte no ha sido esclarecida.&lt;br/&gt;Este cache pretende recordarlo y no olvidar que se debe hacer justicia.&lt;br/&gt;&lt;br/&gt;En el parque lineal el Virrey se puede pasear en bicicleta y aprovechar para tomar un cafè, cuando esten en él recuerden a Colmenares.&lt;br/&gt;El cache se encuentra camuflado en la zona, deben mirar con cuidado los objetos grandes de color rojizo.BYOP.&lt;br/&gt;&lt;br/&gt;Luis Andres Colmenares was murdered in the park in strange circuntancias Viceroy, which to date have not yet been established.&lt;br/&gt;This cache is intended to remember and not forget to do justice.&lt;br/&gt;&lt;br/&gt;In the linear park Viceroy can ride bikes and take to make a coffee.&lt;br/&gt;The cache is hidden in the area, should look carefully at the big red objects. BYOP.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt; </groundspeak:long_description>
+            <groundspeak:encoded_hints>cintas en la base. Prismas rectangulares. Sirven para hacer casas.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.7</ox:difficulty>
+                <ox:size>3.1</ox:size>
+                <ox:terrain>1.3</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>ac21da37-25bf-49f3-8f22-5539beb5e0c3.jpg</ox:name>
+                    <ox:size>71147</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>IMG_3872.jpg</ox:name>
+                    <ox:size>132544</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-74.03135" lat="4.7277667">
+        <time>2012-08-04T23:26:08.000Z</time>
+        <name>OX3DX7R</name>
+        <desc>Madeira. by JEMEJIA, Traditional Cache(3.4/3.4/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3DX7R</url>
+        <urlname>Madeira.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3184995">
+            <groundspeak:name>Madeira.</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">El barrio Cédritos en la Ciudad de Bogotá se caracteriza por tener parques públicos muy bien cuidados por sus vecinos.&lt;br/&gt;&lt;br/&gt;El contenido del cache es un fosil de diente de dinosaurio del desierto de la Tatacoa, recuperado del cache Nacimiento del Virrey.&lt;br/&gt;&lt;br/&gt;BYOP.&lt;br/&gt;N 004º 43&quot; 666&quot;&lt;br/&gt;W 074º 01&quot; 881&quot;&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Los troncos, esquina.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.4</ox:difficulty>
+                <ox:size>3.9</ox:size>
+                <ox:terrain>3.4</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMG_3833.jpg</ox:name>
+                    <ox:size>180221</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-74.0249167" lat="4.8647">
+        <time>2012-08-04T23:51:11.000Z</time>
+        <name>OX3MVAK</name>
+        <desc>Castillo Marroquín by JEMEJIA, Traditional Cache(4.1/2.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3MVAK</url>
+        <urlname>Castillo Marroquín</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3391698">
+            <groundspeak:name>Castillo Marroquín</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>4</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True"> El Castillo Marroquín es un castillo construido alrededor de 1902 en los predios de la Hacienda El Castillo en el sector de La Caro, municipio de Chía hacia el norte de Bogotá en los predios de la hacienda del ex presidente José Manuel Marroquín.&lt;br/&gt;&lt;br/&gt;Su construcción fue encomendada por Lorenzo Marroquín Osorio en 1899 al arquitecto francés Gastón Lelarge quien contó con la colaboración de los maestros Julián Lombana y Demetrio Chávez; tiene una extensión de 61 hectáreas. Cuando la familia Marroquín decidió vender la construcción, los nuevos compradores no pudieron habitarla. Después de esto hecho fue abandonado, y posteriormente fue alquilado primero para un cabaret y posteriormente como hospital psiquiátrico.&lt;br/&gt;&lt;br/&gt;En 1952 fue comprado por el médico cirujano y escritor Roberto Restrepo, quien lo restauró completamente. En 1970, un petrolero venezolano llamado Guillermo Villasmil, compró la propiedad y decidió remodelarla y decorarla. La dotó de piscina y habitaciones para invitados especiales y levantó un criadero de caballos.&lt;br/&gt;&lt;br/&gt;Durante la época de violencia de los carteles de drogas en Colombia (70's y 90's) el castillo perteneció a Juan Camilo Zapata Vázquez, un narcotraficante perteneciente al cartel de Medellín y socio principal de José Gonzalo Rodríguez Gacha (alias El Mexicano), sitio donde se encontraban para realizar fiestas y reuniones, finalmente Juan Camilo Zapata V. es dado de baja por la policía y el bien pasa a manos del estado.&lt;br/&gt;&lt;br/&gt;Tomado de Wikipedia.&lt;br/&gt;&lt;br/&gt;El cache es un pequeño contenedor plàstico que contiene un naipe y loogbook. BYOP. &lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Son Dos. Muchas piedras, mover piedras.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>4.1</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMG_3772.jpg</ox:name>
+                    <ox:size>157706</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-73.9129" lat="4.9093167">
+        <time>2012-08-04T23:46:47.000Z</time>
+        <name>OX3QGWR</name>
+        <desc>El paraiso. by JEMEJIA, Traditional Cache(2.8/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3QGWR</url>
+        <urlname>El paraiso.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3471993">
+            <groundspeak:name>El paraiso.</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Un hermoso sitio de vuelo de parapente en el municipio de Sopo, aprovechen para hacer un vuelo en dobles y aprovechar la vista de la represa del Tominé. deben decir que estan interesados en volar para ingresar.&lt;br/&gt;&lt;br/&gt;El cache es un pequeño contenedor transparente plàstico que contiene loogbook y algunas sorpresas. &lt;br/&gt;BYOP.&lt;br/&gt;&lt;br/&gt;A beautiful paragliding site in the town of Sopo, take the opportunity to do a double take flight in view of the dam Tomine. should say they are interested in flying to enter. The cache is a small transparent plastic container containing loogbook and some surprises. &lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>A la Izquierda de la zona de despegue entre la maleza. Camino. Pocos paso</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.8</ox:difficulty>
+                <ox:size>2.9</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMG_4333.jpg</ox:name>
+                    <ox:size>87340</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>IMG_4334.jpg</ox:name>
+                    <ox:size>63844</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-74.0276" lat="4.7232167">
+        <time>2012-08-04T23:09:07.000Z</time>
+        <name>OX3K3WR</name>
+        <desc>Geo-Hard. by JEMEJIA, Traditional Cache(1.9/1.4/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3K3WR</url>
+        <urlname>Geo-Hard.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3340336">
+            <groundspeak:name>Geo-Hard.</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Tradicional Cache, el cual contiene un pequeño juguete, loogbook y un iman.BYOP&lt;br/&gt;&lt;br/&gt;La calle 147 en la ciudad de Bogotà es una vìa bastante transitada la cual inicia en la carrera sèptima y permite acceder a múltiples barrios de norte de la ciudad.&lt;br/&gt;Hay bastantes muggles en la zona, así que se debe tener cuidado al retirar y reinstalar el cache.&lt;br/&gt;&lt;br/&gt;Traditional Cache, which contains a small toy, and a iman.BYOP loogbook.&lt;br/&gt;147th Street in the city of Bogota is a fairly busy road which starts at Seventh Avenue and provides access to multiple neighborhoods north of the city.&lt;br/&gt;There are plenty of muggles in the area, so be careful when removing and reinstalling the cache. &lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Ramas.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.9</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.4</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMG_3591.jpg</ox:name>
+                    <ox:size>124922</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-74.0296167" lat="4.7183833">
+        <time>2012-08-04T15:55:36.000Z</time>
+        <name>OX3JEG4</name>
+        <desc>Belmira 2 by JEMEJIA, Traditional Cache(3.0/1.3/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3JEG4</url>
+        <urlname>Belmira 2</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3320755">
+            <groundspeak:name>Belmira 2</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True"> Cache Urbano ubicado en el Barrio Bèlmira.&lt;br/&gt;Contenedor metálico que lleva en su interior dos artesanias colombianas, loogbook y hoja descriptiva de geocache para muggles.&lt;br/&gt;&lt;br/&gt;Cerca a la Carrera 7, a pocas cuadras del CC Palatino, en la ciudad de Bogotá se encuentra este parque en el cual las familias llevan a sus niños y mascotas a pasear.&lt;br/&gt;Usualmente hay muchos muggles y celadores, así que cuidado al sacarlo y reinstalarlo.&lt;br/&gt;BYOP.&lt;br/&gt;Near the Carrera 7a in the city of Bogotá is the park where families bring their children and pets for a walk.&lt;br/&gt;There are usually many Muggles and guards, so be careful when removing and reinstalling. &lt;br/&gt;&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Toca agacharse.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>1.9</ox:size>
+                <ox:terrain>1.3</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>916fb560-5d45-4983-a3d7-3c83737a7667.jpg</ox:name>
+                    <ox:size>77796</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-74.0369167" lat="4.7049">
+        <time>2012-08-04T13:52:10.000Z</time>
+        <name>OX3NCP9</name>
+        <desc>Country 3 by JEMEJIA, Traditional Cache(2.6/1.9/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3NCP9</url>
+        <urlname>Country 3</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3408397">
+            <groundspeak:name>Country 3</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">El Parque Metropolitano El Country se encuentra ubicado en la localidad de Usaquén de Bogotá, Colombia, especificamente en la Calle 127C con Carrera 11D a dos cuadras del Centro Comercial Unicentro.&lt;br/&gt;&lt;br/&gt;Contenedor de tupperware, contiene algunas sorpresas que pueden ver en las &lt;br/&gt;&lt;br/&gt;The Metropolitan Park The Country is located in the town of Usaquén of Bogota, Colombia, specifically on Calle Carrera 11D 127C with two blocks of the Mall Unicentro.&lt;br/&gt;&lt;br/&gt;Cache plane contains two characters many surprises.&lt;br/&gt;BYOP.&lt;br/&gt; </groundspeak:long_description>
+            <groundspeak:encoded_hints>Lindas flores, pared al fondo.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>2.9</ox:size>
+                <ox:terrain>1.9</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMG_3092.jpg</ox:name>
+                    <ox:size>208239</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-74.0308667" lat="4.79445">
+        <time>2012-08-04T23:36:13.000Z</time>
+        <name>OX3N5QW</name>
+        <desc>Mansiòn Donoso. by JEMEJIA, Traditional Cache(3.1/2.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3N5QW</url>
+        <urlname>Mansiòn Donoso.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3401719">
+            <groundspeak:name>Mansiòn Donoso.</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">La mansiòn Donoso se encuentra en la Cra 7 saliendo de Bogotá por una de las vias que conduce a Chia, Sopo y Tunja. En ella se realizan conciertos y el juego de paintball es muy bueno.&lt;br/&gt;&lt;br/&gt;El Cache es un contenedor plástico que contiene una moneda geocion, dos juguetes y loogbook, BYOP.&lt;br/&gt;&lt;br/&gt;Donoso mansion is located in the Bogotá Cra 7 out of one of the roads leading to Chia, Sopo and Tunja.&lt;br/&gt;The cache is a plastic container holding a coin geocion, two toys and loogbook, BYOP &lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Piedras debes mover.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.1</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMG_3793.jpg</ox:name>
+                    <ox:size>176195</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>IMG_3795.jpg</ox:name>
+                    <ox:size>136116</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-74.0295667" lat="4.7168333">
+        <time>2012-08-04T15:35:07.000Z</time>
+        <name>OX3KR4V</name>
+        <desc>Ringo Mirringo by JEMEJIA, Traditional Cache(1.7/1.1/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3KR4V</url>
+        <urlname>Ringo Mirringo</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3359806">
+            <groundspeak:name>Ringo Mirringo</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">El parque Belmira Plaza en el barrio que lleva su mismo nombre en Bogotà tiene bastante actividad comercial por encontrarse en una vìa muy transitada&lt;br/&gt;&lt;br/&gt;El cache es una pequeña caja de color naranja, que contiene loogbook, un libro pequeño de Harry Poter, hoja para muggles y un gancho.&lt;br/&gt;BYOP.&lt;br/&gt;&lt;br/&gt;Park Plaza in the neighborhood Belmira in Bogotà have enough business for being in a busy thoroughfare&lt;br/&gt;The cache is a small orange box, which contains loogbook, a small book of Harry Potter, Muggle sheet and a hook.&lt;br/&gt;BYOP&lt;br/&gt; </groundspeak:long_description>
+            <groundspeak:encoded_hints>Casita azul.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.7</ox:difficulty>
+                <ox:size>2.5</ox:size>
+                <ox:terrain>1.1</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMG_3652.jpg</ox:name>
+                    <ox:size>131810</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-74.0472167" lat="4.6545667">
+        <time>2012-08-04T15:59:28.000Z</time>
+        <name>OX3HKRX</name>
+        <desc>La seca de los cerros orientales. by JEMEJIA, Traditional Cache(2.8/3.8/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3HKRX</url>
+        <urlname>La seca de los cerros orientales.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3296041">
+            <groundspeak:name>La seca de los cerros orientales.</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">El cache es un contenedor plàstico que contiene logbook y un cocodrilo. BYOP&lt;br/&gt;&lt;br/&gt;Los cerros Orientales en la ciudad de Bogotà pueden alcanzar los 3100 MSNM, (10.170 ft) desde ellos se puede apreciar la ciudad en todo su esplendor.&lt;br/&gt;Cerca al club Metropolitan hay un camino que los llevarà al Cache.&lt;br/&gt;&lt;br/&gt;The eastern hills in the city of Bogotà can reach 3100 m,(10.170 ft) from them you can see the city in all its splendor.&lt;br/&gt;Metropolitan Fencing Club is a path that will lead to the Cache.&lt;br/&gt;The cache is a plastic container logbook and a crocodile. BYOP &lt;br/&gt;N 04° 39.274 W 074° 02.833 </groundspeak:long_description>
+            <groundspeak:encoded_hints>Despuès de cruzar la quebrada. Rocas Grandes. Grafittis despuès de donde esta escondid</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.8</ox:difficulty>
+                <ox:size>3.2</ox:size>
+                <ox:terrain>3.8</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMG_4129.jpg</ox:name>
+                    <ox:size>259560</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>IMG_3399.jpg</ox:name>
+                    <ox:size>230520</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>IMG_3400.jpg</ox:name>
+                    <ox:size>258137</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-73.93875" lat="4.85035">
+        <time>2012-08-04T13:38:40.000Z</time>
+        <name>OX3X0J</name>
+        <desc>Meusa by JEMEJIA, Traditional Cache(1.7/2.8/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3X0J</url>
+        <urlname>Meusa</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="116299">
+            <groundspeak:name>Meusa</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Una larga recta en la vìa a Sopo con muros de Tapia.&lt;br/&gt;El cache es una caja plástica que contiene un perro en cerámica,log book.BYOP&lt;br/&gt;&lt;br/&gt;La vía la Calera-Sopo se caracteriza por sus hermosos paísajes y los muros de tapia de antiguas construcciones.&lt;br/&gt;&lt;br/&gt;The way the Calera-Sopo is known for its beautiful landscapes and fence walls of ancient buildings.&lt;br/&gt;The cache is a plastic box containing , a ceramic dog, logbook.&lt;br/&gt;BYOP&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;N 04° 51.021 W 073° 56.325.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Alcantarilla,Muro de tapias, veras el km 3 desde donde está el cache.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.7</ox:difficulty>
+                <ox:size>2.5</ox:size>
+                <ox:terrain>2.8</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMG_3213.jpg</ox:name>
+                    <ox:size>115782</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-75.46235" lat="5.0557667">
+        <time>2012-08-04T23:14:07.000Z</time>
+        <name>OX3G94E</name>
+        <desc>Cerro de Oro. by JEMEJIA, Traditional Cache(2.8/2.8/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3G94E</url>
+        <urlname>Cerro de Oro.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3256006">
+            <groundspeak:name>Cerro de Oro.</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Contenedor de gafas el cual tiene en su interior tres pequeños juguetes, una cadena porta placas, log book.&lt;br/&gt;BYOP.&lt;br/&gt;&lt;br/&gt;En la ciudad de Manizales existe un mirador en donde la gente suele subir en las noches a ver el paisaje, este sitio tiene varios sitios interesantes, en uno de ellos se encuentra el Cache.&lt;br/&gt;&lt;br/&gt;In the city of Manizales a viewpoint where people usually go at night to see the landscape, this site has several vantage points, one of them is the Cache.&lt;br/&gt;Container glasses which has within it three small toys, a plate holder chain, log book.&lt;br/&gt; </groundspeak:long_description>
+            <groundspeak:encoded_hints> Están prohibidos en ese sector.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.8</ox:difficulty>
+                <ox:size>3.4</ox:size>
+                <ox:terrain>2.8</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMG_3332.jpg</ox:name>
+                    <ox:size>119830</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-74.0245167" lat="4.6892333">
+        <time>2012-08-04T14:08:31.000Z</time>
+        <name>OX3EC9V</name>
+        <desc>Multicolor Aguadora. by JEMEJIA, Traditional Cache(2.6/2.4/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3EC9V</url>
+        <urlname>Multicolor Aguadora.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3199474">
+            <groundspeak:name>Multicolor Aguadora.</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Contenedor reciclado de tetrapack que contiene un llavero de Homero Simpson,un pez,un muñeco plástico, una pieza de vidrio fundido, log book, y hoja descriptiva del juego.&lt;br/&gt;&lt;br/&gt;Tetrapack recycling container containing a keychain of Homer Simpson, a fish, a plastic doll, a piece of molten glass, log book, and fact sheet from the game.&lt;br/&gt;BYOP.&lt;br/&gt;&lt;br/&gt;La empresa de Acueducto de Bogotá tiene un club en los cerros orientales de Bogotá, llamado la aguadora, arriba de Usaquen,antiguamente era privado, hoy tiene acceso al público.&lt;br/&gt;&lt;br/&gt;El cache es un empaque reciclado de tetrapack que contiene un llavero de Homero Simpson,un pez,un juguete plástico, una pieza de vidrio fundido, log book, y hoja descriptiva del juego, está protegido al interior por bolsa sellada tipo ziploc.&lt;br/&gt;&lt;br/&gt;The Bogotá Aqueduct company has a club in the eastern hills of Bogota, called the water carrier, above Usaquen, formerly private, now has access to the public.&lt;br/&gt;&lt;br/&gt;The Cache is a Packa of Tetrapack recycling container containing a keychain of Homer Simpson, a fish, a plastic doll, a piece of molten glass, log book, and fact sheet from the game.&lt;br/&gt;BYOP.&lt;br/&gt;&lt;br/&gt;N 04° 41.354 W 074° 01.471 </groundspeak:long_description>
+            <groundspeak:encoded_hints>Las canchas de tenis. Esquina. Fin del camino. Poste. Tennis courts. Corner. End of the road.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>2.8</ox:size>
+                <ox:terrain>2.4</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMG_3156.jpg</ox:name>
+                    <ox:size>203745</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-74.0468667" lat="4.721">
+        <time>2012-08-04T23:00:12.000Z</time>
+        <name>OX3M889</name>
+        <desc>El parque de la &quot;P&quot; by JEMEJIA, Traditional Cache(1.8/1.2/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3M889</url>
+        <urlname>El parque de la &quot;P&quot;</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3374328">
+            <groundspeak:name>El parque de la &quot;P&quot;</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">El parque Nueva Autopista limita hacìa el occidente con el parque Alcalá, los cuales cuentan con amplias zonas verdes y equipos para hacer ejercicio.&lt;br/&gt;&lt;br/&gt;El cache es un pequeno contenedor magnetizado que lleva en su interior el Loogbook,un pequeño juquete y hoja para muggles.&lt;br/&gt;BYOP.&lt;br/&gt;&lt;br/&gt;New Freeway Park to the west limits with Alcalá Park, which have large green areas and exercise equipment.&lt;br/&gt;&lt;br/&gt;The cache is a small magnetic container that carries within it the Loogbook, a small sheet juquete and muggles.&lt;br/&gt;BYOP &lt;br/&gt;&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>P, Amarrillo.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.8</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>1.2</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMG_3716.jpg</ox:name>
+                    <ox:size>115009</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-74.0711667" lat="4.8295333">
+        <time>2012-08-04T23:31:17.000Z</time>
+        <name>OX3CXG4</name>
+        <desc>Puente abandonado. by JEMEJIA, Traditional Cache(3.3/2.3/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3CXG4</url>
+        <urlname>Puente abandonado.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3155463">
+            <groundspeak:name>Puente abandonado.</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Cache de aproximadamente 7 cm de diámetro por 4cm de alto, està en una caja metálica que contiene varias sorpresas y hoja de registro.&lt;br/&gt;La hoja esta en un bolsa sellable.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The sheet is in a sealable bag.&lt;br/&gt;Little things are suggested to attach them to the cache. &lt;br/&gt;&lt;br/&gt; </groundspeak:long_description>
+            <groundspeak:encoded_hints>Puente abandonado. Muros de piedra.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.3</ox:difficulty>
+                <ox:size>3.1</ox:size>
+                <ox:terrain>2.3</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Historic site</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMG_2923.jpg</ox:name>
+                    <ox:size>184189</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-74.0034333" lat="5.0238167">
+        <time>2012-08-04T23:41:08.000Z</time>
+        <name>OX3C53D</name>
+        <desc>Hombre de gengibre. by JEMEJIA, Traditional Cache(3.9/3.2/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3C53D</url>
+        <urlname>Hombre de gengibre.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3132966">
+            <groundspeak:name>Hombre de gengibre.</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>4</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">El cache está ubicado en la alcaldía de Zipaquira, específicamente la terraza de la edificaciòn a la cual tienen acceso los turistas los fines de semana.&lt;br/&gt;Es un cache pequeño de plàstico transparente que contiene un hombre de gengibre, una hoja de registro, se encuentra protegipo por una bolsa sellable.&lt;br/&gt;&lt;br/&gt;The cache is located in the municipality of Zipaquira, on the terrace of the building which is open to tourists on weekends.&lt;br/&gt;Cache is a small transparent plastic containing a gingerbread man, a recording sheet, is protect whiya ziplock bag.&lt;br/&gt;Revisar cerca a las canales transparentes. &lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints> La marquesina,las canales, ventanas torcidas.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.9</ox:difficulty>
+                <ox:size>1.6</ox:size>
+                <ox:terrain>3.2</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMG_2755.jpg</ox:name>
+                    <ox:size>96569</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>IMG_2753 1.jpg</ox:name>
+                    <ox:size>165354</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-73.9428667" lat="4.9104333">
+        <time>2012-08-04T15:31:46.000Z</time>
+        <name>OX3X2C</name>
+        <desc>Alpina by JEMEJIA, Traditional Cache(1.6/1.8/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3X2C</url>
+        <urlname>Alpina</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="116355">
+            <groundspeak:name>Alpina</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">En la poblaciòn de Sopo, Cundinamarca se encuentra el parador de una empresa muy conocida de la Región, el cual es visitado los fines de Bogotá por cientos de turistas de Bogotá.&lt;br/&gt;El Cache es un contenedor de rollos de fotografìa,el cual contiene una pequeña artesanía colombiana, Log Book, una pieza de vidrio y un pequeño peluche.&lt;br/&gt;BYOP&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;In the town of Sopo, Cundinamarca is the hostel for a well known company in the region, which is visited Bogota purposes for hundreds of tourists from Bogota.&lt;br/&gt;The cache is a container for rolls of film, which contains a small Colombian crafts, Log Book, a piece of glass and a small bear.&lt;br/&gt;Take advantage of your first merengón and milojas that are delicious.&lt;br/&gt;&lt;br/&gt;N 04° 54.626 W 073° 56.572&lt;br/&gt; </groundspeak:long_description>
+            <groundspeak:encoded_hints>Al fondo a la derecha.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>1.8</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMG_3215.jpg</ox:name>
+                    <ox:size>168853</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>IMG_3218.jpg</ox:name>
+                    <ox:size>87046</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-74.03745" lat="4.7074667">
+        <time>2012-08-04T13:59:57.000Z</time>
+        <name>OXZTDYT</name>
+        <desc>Country 2 by JEMEJIA, Traditional Cache(2.3/1.8/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTDYT</url>
+        <urlname>Country 2</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28463822">
+            <groundspeak:name>Country 2</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">El Parque Metropolitano El Country se encuentra ubicado en la localidad de Usaquén de Bogotá, Colombia, especificamente en la Calle 127C con Carrera 11D a dos cuadras del Centro Comercial Unicentro.&lt;br/&gt;&lt;br/&gt;N 04° 42.448 W 074° 02.247</groundspeak:long_description>
+            <groundspeak:encoded_hints>paralelas negras. magnetic cache.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.3</ox:difficulty>
+                <ox:size>1.8</ox:size>
+                <ox:terrain>1.8</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMG_3806.jpg</ox:name>
+                    <ox:size>177587</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-74.0320333" lat="4.7179833">
+        <time>2012-08-04T23:04:17.000Z</time>
+        <name>OX3JEGN</name>
+        <desc>La &quot;M&quot; Amarilla. by JEMEJIA, Traditional Cache(2.8/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3JEGN</url>
+        <urlname>La &quot;M&quot; Amarilla.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3320772">
+            <groundspeak:name>La &quot;M&quot; Amarilla.</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Cerca a la Cra 9 se encuentra una famosa cadena de restaurantes,&lt;br/&gt;El cache contiene un duende y loogbook,podría decirse que es casí un nano cache.&lt;br/&gt;&lt;br/&gt;En la ciudad de Bogotá encontraran grandes centros comerciales y restaurantes, la zona donde se encuentra el cache es de bastante tráfico en todas las horas de la semana.&lt;br/&gt;Se deberá tener especial cuidado con los muggles al sacar el cache.&lt;br/&gt;BYOP.&lt;br/&gt;In Bogota you will find great shopping and restaurants, the area where the cache is enough traffic at all hours of the week.&lt;br/&gt;It should be especially careful when removing the muggles cache.&lt;br/&gt;&lt;br/&gt;Near the Cra 9 is a famous chain of restaurants which can be accessed either in vehicle or on foot.&lt;br/&gt;Near the Cra 9 is a famous restaurant chain,&lt;br/&gt;The cache contains a goblin and loogbook could say that it's almost a nano cache. &lt;br/&gt;N 04° 43.079 W 074° 01.922 </groundspeak:long_description>
+            <groundspeak:encoded_hints>La salida de la M amarilla.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.8</ox:difficulty>
+                <ox:size>1.4</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMG_3500.jpg</ox:name>
+                    <ox:size>149655</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-75.4445333" lat="5.0542333">
+        <time>2012-08-04T23:22:27.000Z</time>
+        <name>OX3C95T</name>
+        <desc>El papa cerca de Y. by JEMEJIA, Traditional Cache(3.4/3.4/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3C95T</url>
+        <urlname>El papa cerca de Y.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3136884">
+            <groundspeak:name>El papa cerca de Y.</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True"> Contenedor Cilíndrico el cual lleva en su interior la piedra filosofal de Harry Poter y la escoba de Hermione,además del cascabel de mi gato que lo quiso donar, log book y hoja para muggles.&lt;br/&gt;BYOP&lt;br/&gt;&lt;br/&gt;Subiendo por el cerro de oro, en la hermosa ciudad de Manizales llegarás a un pequeño grupo de casas que luego te conducen a una intersecciòn en Y, en estas se encuentran algunas piezas del escultor Memo Vallejo.&lt;br/&gt;Sería interesante descansar en la Y al lado del Papa.&lt;br/&gt;&lt;br/&gt;Walking up the hill of gold, come to a small group of houses that then lead you to an intersection in Y, these are some pieces of Vallejo Memo sculptor.&lt;br/&gt;It would be interesting to relax at the Y next to the Pope.&lt;br/&gt;&lt;br/&gt;Cylindrical container which contains the Sorcerer's Stone Harry Potter and Hermione's broom, in addition to the bell of my cat who wanted to donate. log book and sheet muggles. &lt;br/&gt; </groundspeak:long_description>
+            <groundspeak:encoded_hints>El papa se escampa bajo su sombra.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.4</ox:difficulty>
+                <ox:size>3.9</ox:size>
+                <ox:terrain>3.4</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMG_3347.jpg</ox:name>
+                    <ox:size>151333</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>IMG_3334.jpg</ox:name>
+                    <ox:size>164575</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-74.0628" lat="4.6239167">
+        <time>2012-08-04T13:29:28.000Z</time>
+        <name>OX3FM3J</name>
+        <desc>Parque Nacional Bogotá by JEMEJIA, Traditional Cache(2.6/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3FM3J</url>
+        <urlname>Parque Nacional Bogotá</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3236759">
+            <groundspeak:name>Parque Nacional Bogotá</groundspeak:name>
+            <groundspeak:placed_by>JEMEJIA</groundspeak:placed_by>
+            <groundspeak:owner id="138642">JEMEJIA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Pequeño contenedor transparente que contiene dos juguetes y una pequeña artesanía.&lt;br/&gt;&lt;br/&gt;Small transparent container containing two toys and a small craft&lt;br/&gt;BYOP.&lt;br/&gt;&lt;br/&gt;El parque Nacional data de 1.934, año durante el cual fue inaugurado por el presidente Enrique Olaya Herrera, uno de sus grandes promotores y de donde derivó el nombre completo con el que se le ha conocido a través de la historia urbanística de Bogotá.&lt;br/&gt;&lt;br/&gt;Es el segundo escenario en antigüedad de los que subsisten en la Ciudad Capital y es sin duda ejemplo, fuente de inspiración y estereotipo de los parques bogotanos, siendo por su rica herencia y tradición, el más importante de su género.&lt;br/&gt;&lt;br/&gt;Su parte urbana, comprendida entre las calles 36 a 39 y carreras Séptima a Quinta mantiene el trazado original que asemeja un triángulo redondeado en invertido, trenzado por caminos que comunican y desembocan a diferentes monumentos y piletas.&lt;br/&gt;&lt;br/&gt;Por el centro del parque cruza una vía que una la séptima con la Av circunvalar, está vìa es importante para la búsqueda del caché.&lt;br/&gt;&lt;br/&gt;The National Park dates back to 1934, the year during which it was inaugurated by President Enrique Olaya Herrera, one of its greatest promoters and from which derived the name by which it has been known through the urban history of Bogota.&lt;br/&gt;&lt;br/&gt;It is the second stage in seniority of those living in the capital city and is certainly such a source of inspiration and stereotype Bogota parks, with its rich heritage and tradition, the most important of its kind.&lt;br/&gt;&lt;br/&gt;Its urban part, between the streets and runs from 36 to 39 Seventh to Fifth maintains the original layout that resembles a rounded triangle inverted, twisted roads that connect and flow at different monuments and fountains.&lt;br/&gt;&lt;br/&gt;By the middle of the park that crosses a road with the Seventh Avenue bypass, this pathway is important for search cache.&lt;br/&gt;BYOP.&lt;br/&gt;&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Cerca a una curva. Metal Triángulo. En las noches ayuda mucha.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>1.6</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Historic site</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMG_3293.jpg</ox:name>
+                    <ox:size>173708</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-73.792" lat="5.093367">
+        <time>2012-02-05T08:00:00.000Z</time>
+        <name>OX3C6PB</name>
+        <desc>¿Sed? by El Derrotero, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3C6PB</url>
+        <urlname>¿Sed?</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3134514">
+            <groundspeak:name>¿Sed?</groundspeak:name>
+            <groundspeak:placed_by>El Derrotero</groundspeak:placed_by>
+            <groundspeak:owner id="92301">El Derrotero</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Suesca es un municipio hecho para la aventura. Está ubicado a
+sólo 45 minutos de Bogotá.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;¿Cómo llegar?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;«En Servicio Público:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Tome el Sistema Transmilenio
+hasta la estación Portal del Norte, en esa estación podrá tomar el
+bus intermunicipal con destino a Suesca. El pueblo de Suesca queda
+a 45 minutos de Bogotá por la Autopista del Norte, una vía en
+general en buenas condiciones.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;En carro:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Salga por la Autopista norte en
+dirección a Tunja, deberá pasar dos cobros de peaje, luego del
+segundo cobro del peaje se aproxima a la desviación Suesca,
+Sesquile, Guatavita, que es el único puente vehicular que
+encontrará despues del peaje, haga la oreja y gire a la derecha por
+seis kilómetros, toda la vía es pavimentada y se encuentra en
+general en buen estado, en los últimos kilómetros la vía está en
+regular estado y es muy transitada por peatones y
+ciclistas.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Las rocas de Suesca quedan un
+kilómetro antes del pueblo, la entrada se encuentra antes del
+puente sobre el rio Bogotá, tomando a la derecha hasta la carrilera
+del tren y siguiendo la carrilera por 150 metros hacia el
+norte.&lt;/em&gt;&lt;em&gt;»&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Fuente: www.suesca.com&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Aprovecha el viaje a Suesca y escala en los farallones o visita
+alguno de los siguientes atractivos:&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>del gr. [ß?s??]
+1. f. Fundamento o apoyo principal de algo.
+(...)
+7. f. Geom. Lado a partir del cual se mide la altura de una figura plana o de un sólido.
+8. f. Geom. Línea o superficie paralela a aquella en que se supone que descansa.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-75.533" lat="6.183033">
+        <time>2008-02-17T08:00:00.000Z</time>
+        <name>OX19NYM</name>
+        <desc>Palmas by Jucaboes, Traditional Cache(3.5/3.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX19NYM</url>
+        <urlname>Palmas</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1212740">
+            <groundspeak:name>Palmas</groundspeak:name>
+            <groundspeak:placed_by>Jucaboes</groundspeak:placed_by>
+            <groundspeak:owner id="22897">Jucaboes</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">2658 mt OSL. Going there is a good chance to see the nature around&lt;br/&gt;our city valley.&lt;br/&gt;&lt;br/&gt;Hiding on a crack of a big rock, watching the Aburra Valley.&lt;br/&gt;Waiting for you.</groundspeak:long_description>
+            <groundspeak:encoded_hints>You could start your hike here: N6°11.045 W75° 32.711</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-75.5652" lat="6.121317">
+        <time>2008-10-19T07:00:00.000Z</time>
+        <name>OX1HEYC</name>
+        <desc>Higueron by Jucaboes, Traditional Cache(3.5/3.2/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX1HEYC</url>
+        <urlname>Higueron</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1444333">
+            <groundspeak:name>Higueron</groundspeak:name>
+            <groundspeak:placed_by>Jucaboes</groundspeak:placed_by>
+            <groundspeak:owner id="22897">Jucaboes</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">En las Cuevas del Higuerón&lt;br/&gt;&lt;br/&gt;Luego de atravesar la cueva principal, la cual tiene forma triangular pues esta formada por tres piedras muy grandes y que tiene salida al oriente y al occidente, salimos hacia la quebrada. En el sitio donde llegamos al pie de la quebrada, miramos la roca del norte de la cueva y veremos una pista. Para acceder al cache hay que bajar por entre las rocas, por el decenso que lleva a la base de la roca de la pista. No hay que a travesar el estrecho tunel que permite descender, sino que debemos buscar en esta zona. El sitio es oscuro y por ende recomendamos llevar linterna pues entre tanta piedra no será facil de encontrar. Desde donde uno se puede parar el cache esta hacia el sur oriente.&lt;br/&gt;Additional Hidden Waypoints&lt;br/&gt;R11HEYC - Referencia 1&lt;br/&gt;N 06° 08.086 W 075° 33.870&lt;br/&gt;&lt;br/&gt;R21HEYC - Referencia 2&lt;br/&gt;N 06° 07.796 W 075° 33.986&lt;br/&gt;&lt;br/&gt;R31HEYC - Entrada a Cuevas&lt;br/&gt;N 06° 07.289 W 075° 33.932&lt;br/&gt;&lt;br/&gt;ST1HEYC - Parque Eco. El Salado&lt;br/&gt;N 06° 08.336 W 075° 34.124</groundspeak:long_description>
+            <groundspeak:encoded_hints>Suerte!</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.2</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-75.5036167" lat="6.2789833">
+        <time>2011-11-10T21:14:31.000Z</time>
+        <name>OXZTNK9</name>
+        <desc>El matorral by UNFANDELIV, Traditional Cache(3.5/3.2/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTNK9</url>
+        <urlname>El matorral</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28471184">
+            <groundspeak:name>El matorral</groundspeak:name>
+            <groundspeak:placed_by>UNFANDELIV</groundspeak:placed_by>
+            <groundspeak:owner id="70657">UNFANDELIV</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Se encuentra en el parque arví, contiene bastantes elementos y libro de visitas, debes buscar bien entre los matorrales para poder ubicarlo.&lt;br/&gt;&lt;br/&gt;el contenedor es plastico con tapa naranja, contiene, varias monedas antiguas, llavero, manilla tricolor, un dado, lapiz y sacapuntas para la bitácora, brujula, portapapeles y otras mas que ya no recuerdo. </groundspeak:long_description>
+            <groundspeak:encoded_hints>Se encuentra entre matorrales</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1727311">
+                    <groundspeak:date>2012-01-10T05:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="84706">masfurioso22</groundspeak:finder>
+                    <groundspeak:text encoded="False">lo busque el 9 de enero en el parque arvi.. con 2 personas mas ..y te comento amigo q no lo logramos encontrar x mas de media hora y no hallamos el contenedor....ojala puedas escribirme...gracias</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>2.9</ox:size>
+                <ox:terrain>3.2</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-74.0506667" lat="4.6881167">
+        <time>2011-08-23T04:29:27.000Z</time>
+        <name>OXZTQZX</name>
+        <desc>BOG Lay Over by ANDRADEKBCKIWI, Traditional Cache(3.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTQZX</url>
+        <urlname>BOG Lay Over</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28473466">
+            <groundspeak:name>BOG Lay Over</groundspeak:name>
+            <groundspeak:placed_by>ANDRADEKBCKIWI</groundspeak:placed_by>
+            <groundspeak:owner id="54995">ANDRADEKBCKIWI</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">El cache es un nano, tiene un iman adentro para mantenerlo adherido a una banca.&lt;br/&gt;&lt;br/&gt;Les recomiendo que se aseguren que no hay gente en la banca, ni alrededor, cerca hay un supermercado Pomona.&lt;br/&gt;&lt;br/&gt;Por favor dejen el cache donde lo encontraron y lo mas probable es que el log book este lleno, asi que lleven un pedazo de papel pequeño.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Busca donde sentarte.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1757256">
+                    <groundspeak:date>2012-02-24T22:03:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="94130">ChrisGeocacher</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1863632">
+                    <groundspeak:date>2012-01-08T20:59:00.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="76311">OSWALDOMEJIAS</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1710008">
+                    <groundspeak:date>2011-09-27T00:53:16.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="76311">OSWALDOMEJIAS</groundspeak:finder>
+                    <groundspeak:text encoded="False">Súper, fue emocionante encontrarlo. Je je que bien :)</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1575648">
+                    <groundspeak:date>2011-09-27T00:53:16.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="62414">yesito</groundspeak:finder>
+                    <groundspeak:text encoded="False">Súper, fue emocionante encontrarlo. Je je que bien :)</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-74.0474167" lat="4.7071833">
+        <time>2011-08-23T04:20:40.000Z</time>
+        <name>OXZTQZY</name>
+        <desc>Cache Calleja Alta by ANDRADEKBCKIWI, Traditional Cache(2.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTQZY</url>
+        <urlname>Cache Calleja Alta</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28473467">
+            <groundspeak:name>Cache Calleja Alta</groundspeak:name>
+            <groundspeak:placed_by>ANDRADEKBCKIWI</groundspeak:placed_by>
+            <groundspeak:owner id="54995">ANDRADEKBCKIWI</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">EL cache es un pequeño frasco de vidrio con tapa blanca, el log book esta doblado y esta adentro del frasco.&lt;br/&gt;&lt;br/&gt;Deben buscar por el parque que tiene los juegos, del lado Oeste o izquierdo mirando hacia el Norte hay un borde de concreto, ahi deben buscar.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Buscar por los huecos</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2064226">
+                    <groundspeak:date>2012-09-09T05:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="138642">JEMEJIA</groundspeak:finder>
+                    <groundspeak:text encoded="False">El cache no fue encontrado, creo que es el mismo que se encuentra en geocaching que se denomina la rana, al cual le cambiaron las coordenadas.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1757255">
+                    <groundspeak:date>2012-02-25T23:25:00.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="94130">ChrisGeocacher</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-75.57395" lat="4.8458">
+        <time>2011-08-22T04:37:53.000Z</time>
+        <name>OX32PWX</name>
+        <desc>Atardecer en la montaña by wihucol, Traditional Cache(2.7/2.8/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX32PWX</url>
+        <urlname>Atardecer en la montaña</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2852152">
+            <groundspeak:name>Atardecer en la montaña</groundspeak:name>
+            <groundspeak:placed_by>wihucol</groundspeak:placed_by>
+            <groundspeak:owner id="53566">wihucol</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Ubicado en la via que conduce de Santa Rosa de Cabal, municipio de Risaralda hacia Termales de Santa Rosa. Ubicado en un sitio estratégico para ver el atardecer. Recomendado buscarlo entre las 4 pm hasta las 5:30 pm. Todo el trayecto se puede hacer en carro particular o servicio publico. La ultima parte se hace a pie, caminando 100 mts hacia un cerro desde donde se puede ver un hermoso atardecer. &lt;br/&gt;&lt;br/&gt;El punto más cercano corresponde a un pequeño establecimiento donde se puede hacer pesca deportiva y comer unas deliciosas tortas de chocolo. Ubiquese en el puente por donde pasa un pequeño río. 20 metros adelante del establecimiento mirando hacia el sur este, en la cima del primer cerro se encuentre el tesoro en un contenedor color verde biche. </groundspeak:long_description>
+            <groundspeak:encoded_hints>Al final del puente por donde pasa el riachuelo mire hacia el sur este camine 50 metros por la via carreteable y desviece a la izquierda pase sobre un pequeño obstáculo hacia el potrero y y siga el camino de herradura hacia la cima del cerro. Busqué a 1.50 mts de un arbol que ha sido cortado.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.7</ox:difficulty>
+                <ox:size>2.9</ox:size>
+                <ox:terrain>2.8</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-75.4926333" lat="4.7084333">
+        <time>2011-08-18T14:27:44.000Z</time>
+        <name>OX32AQ2</name>
+        <desc>El arbol en Y by wihucol, Traditional Cache(3.0/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX32AQ2</url>
+        <urlname>El arbol en Y</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2840470">
+            <groundspeak:name>El arbol en Y</groundspeak:name>
+            <groundspeak:placed_by>wihucol</groundspeak:placed_by>
+            <groundspeak:owner id="53566">wihucol</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Ubicado en el parque regional natural Ucumari en el departamento de Risaralda. Resguardo La pastora.&lt;br/&gt;&lt;br/&gt;Se llega tomando una chiva o transporte particular desde Pereira, dirigiéndose hacia la florida en carretera pavimentada. Posteriormente se continúa hacia el cedral, aproximadamente 1 hora en carretera sin pavimentar. Una vez en el cedral se toma camino de herradura a pie alrededor de 2 horas hasta llegar a la pastora, donde se dispone de alojamiento, alimentación y zona de camping. El caché es un contenedor plástico de color verde biche.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Encuentre el árbol más grande de la pastora (aprox. 1.5 metros de diámetro). Camine 65 pasos en dirección a la cabaña de la zona de camping y después 20 pasos en dirección sur. Encontrará un árbol en forma de &quot;Y&quot;, busque en sus raíces el tesoro.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-74.07805" lat="4.73425">
+        <time>2011-06-07T00:06:36.000Z</time>
+        <name>OXZTVAG</name>
+        <desc>Puente de la virgen by Andrade, Traditional Cache(2.5/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTVAG</url>
+        <urlname>Puente de la virgen</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28475717">
+            <groundspeak:name>Puente de la virgen</groundspeak:name>
+            <groundspeak:placed_by>Andrade</groundspeak:placed_by>
+            <groundspeak:owner id="31197">Andrade</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Una vez lleguen al lugar van a encontrar un muro de concreto cubierto por pasto, ahi deben buscar.&lt;br/&gt;&lt;br/&gt;La caja contiene una libreta, lapiz, borrador, saca puntas, unas cartas (naipes) y unos billetes didacticos.&lt;br/&gt;&lt;br/&gt;La idea es que la persona que este buscando el cache lleve consigo un objeto de valor similar para intercambiarlo, y una vez encontrado dejarlo donde se encontro.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="2042681">
+                    <groundspeak:date>2012-08-26T17:48:16.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="145208">ANDRESGUTIERREZGOMEZ</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1773722">
+                    <groundspeak:date>2012-03-25T05:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="94130">ChrisGeocacher</groundspeak:finder>
+                    <groundspeak:text encoded="False">me gusto  mucho el lugar, no me senti acosado por porteros jejej pero tambien habia mucha basurita :( y al mirar me toco cojer mas de una cosa que no era :S por lo tanto deje de buscar. Si depronto estaba contra el muro de ladrillos en la parte de arriba, cortaron el pasto, entonces depronto ya no esta. Puede confirmar si esta pa pegar otra visitica?</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-75.5449333" lat="6.1056">
+        <time>2011-03-31T21:18:37.000Z</time>
+        <name>OX1V92Q</name>
+        <desc>Mirador de los caminantes by pe5pe, Traditional Cache(3.6/3.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX1V92Q</url>
+        <urlname>Mirador de los caminantes</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1706821">
+            <groundspeak:name>Mirador de los caminantes</groundspeak:name>
+            <groundspeak:placed_by>pe5pe</groundspeak:placed_by>
+            <groundspeak:owner id="15721">pe5pe</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Desde uno de los miradores de la reserva de San Sebastian, desde donde se ven los valles de Aburra y san Nicolas&lt;br/&gt;&lt;br/&gt;A este lugar se puede llegar tomando un bus integrado al metro, (el q va para la escuela de ingenieria), antes de el alto hay una entrada por la cual se toma el sendero muy bien demarcado y luego de unos 45 minutos se llega al mirador #3 donde ademas de la hermosa vista encontraran un contenedor con un conejo (que viene del jardin botanico), un dado (que viene de juegos tradicionales), un mosqueton con brujula y un dinosaurio. espero q lo disfruten y q este permanezca alli un buen tiempo.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.6</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>2 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:38:19.560Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="17.1259" lat="-22.5675667">
+        <time>2010-12-21T13:46:55.000Z</time>
+        <name>OX2J7FF</name>
+        <desc>WOW what a view by DERSACHENSUCHER, Unknown Cache(2.0/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2J7FF</url>
+        <urlname>WOW what a view</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2390487">
+            <groundspeak:name>WOW what a view</groundspeak:name>
+            <groundspeak:placed_by>DERSACHENSUCHER</groundspeak:placed_by>
+            <groundspeak:owner id="4908">DERSACHENSUCHER</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is temporarily unavailable !
+Nano!!!&lt;br /&gt;This one is a &quot;mystery multi&quot; it has 2 stages and a final.&lt;br /&gt;The coordinates above are not the one's for the cache!&lt;br /&gt;&lt;br /&gt;This is the puzzle&lt;br /&gt;S22° (6x6-2).1(10x10-6) E0(9.000.000-8.999.983)°(20-13).(751-111)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Check your coordinates here: http://www.geochecker.com/index.php?code=042b60b4753c8de73852c9b77dd2c1a1&amp;action=check&amp;wp=4743324a374646&amp;name=576f77207768617420612076696577&amp;language=Eng</groundspeak:long_description>
+            <groundspeak:encoded_hints>[Stage 1:]Under loose stones
+[Stage 2:]Under loose stones
+[Final:]Under loose stones</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="890432">
+                    <groundspeak:date>2010-12-21T13:52:38.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="4908">DERSACHENSUCHER</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="17.12835" lat="-22.57245">
+        <time>2010-12-10T15:27:14.000Z</time>
+        <name>OX2E347</name>
+        <desc>Avis View by DERSACHENSUCHER, Traditional Cache(1.0/1.7/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2E347</url>
+        <urlname>Avis View</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2267130">
+            <groundspeak:name>Avis View</groundspeak:name>
+            <groundspeak:placed_by>DERSACHENSUCHER</groundspeak:placed_by>
+            <groundspeak:owner id="4908">DERSACHENSUCHER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Nice view on the Avis Dam.&lt;br/&gt;You will need 10$ per car to accses &lt;br/&gt; </groundspeak:long_description>
+            <groundspeak:encoded_hints>[DE]Unten nicht oben! [EN] On the ground</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1292602">
+                    <groundspeak:date>2011-06-21T13:20:38.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="4908">DERSACHENSUCHER</groundspeak:finder>
+                    <groundspeak:text encoded="False">The cache is now owned by Morty Mouse.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>3.3</ox:size>
+                <ox:terrain>1.7</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

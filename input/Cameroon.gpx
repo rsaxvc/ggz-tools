@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>2 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:38:20.474Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="9.994367" lat="5.222917">
+        <time>2011-10-15T00:53:26.000Z</time>
+        <name>OXZTP29</name>
+        <desc>Brænde Ådal by SPEJDERSPORT, Traditional Cache(1.8/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTP29</url>
+        <urlname>Brænde Ådal</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28471618">
+            <groundspeak:name>Brænde Ådal</groundspeak:name>
+            <groundspeak:placed_by>SPEJDERSPORT</groundspeak:placed_by>
+            <groundspeak:owner id="65877">SPEJDERSPORT</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Find &amp; vind I Danmarks Største Skattejagt med Spejdersport og Garmin</groundspeak:long_description>
+            <groundspeak:encoded_hints>Nede i en  lavning</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1644280">
+                    <groundspeak:date>2011-10-18T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="6074">Sundanze</groundspeak:finder>
+                    <groundspeak:text encoded="False">Disse koordinater passe med cachen &quot;Hagenskov Slotsbanke&quot; hvis man ændrer Nord-koordinatet til 55.
+
+Koordinaterne til denne cache &quot;Brænde Ådal&quot; bør tilrettes!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1620337">
+                    <groundspeak:date>2011-10-14T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="65241">3Roser</groundspeak:finder>
+                    <groundspeak:text encoded="False">Hmmmmm - dette koordinat udvider vist Spejdersports &quot;Danmarks største skattejagt&quot; til &quot;Verdens største skattejagt&quot;---:-)
+Hvis man nu erstatter det første ciffer i breddegraden med 5, således at koordinatet bliver N 55° 13.375’  Ø009° 59.662’ - så er man indenfor Danmarks grænser. Meeeeen - koordinatet angiver et sted i nærheden af Ebberup - og dér er der vist ingen Brænde Ådal-----:-)
+</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1620341">
+                    <groundspeak:date>2011-10-14T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="65241">3Roser</groundspeak:finder>
+                    <groundspeak:text encoded="False">Hmmmmm - dette koordinat udvider vist Spejdersports &quot;Danmarks største skattejagt&quot; til &quot;Verdens største skattejagt&quot;---:-), idet det angiver en placering i Cameroon-----
+Hvis man nu erstatter det første ciffer i breddegraden med 5, således at koordinatet bliver N 55° 13.375’  Ø009° 59.662’ - så er man indenfor Danmarks grænser. Meeeeen - koordinatet angiver et sted i nærheden af Ebberup - og dér er der vist ingen Brænde Ådal-----:-)
+</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.8</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="10.9413333" lat="50.3407167">
+        <time>2011-08-02T07:34:22.000Z</time>
+        <name>OX297R2</name>
+        <desc>Schlangenweg by Schlappentiger, Unknown Cache(4.0/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX297R2</url>
+        <urlname>Schlangenweg</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2122634">
+            <groundspeak:name>Schlangenweg</groundspeak:name>
+            <groundspeak:placed_by>Schlappentiger</groundspeak:placed_by>
+            <groundspeak:owner id="3365">Schlappentiger</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>4</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Die Koordinaten sind fiktiv. An dieser Stelle wirst Du nichts finden.&lt;br/&gt;Dieser Cache ist ein kleines &quot;Bonbon&quot; für alle, die sich auf den langen Weg machen, um den Multi OX291F8 anzugehen.&lt;br/&gt;Die echten Koordinaten findest Du in einer der Stages von &quot;Auf Schusters Rappen&quot;.&lt;br/&gt;&lt;br/&gt; </groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="264154">
+                    <groundspeak:date>2010-05-29T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2853">dg7nct</groundspeak:finder>
+                    <groundspeak:text encoded="False">BETATEST!
+
+Auf Schusters Rappen unterwegs gewesen, so war auch der Schlangenweg zusammen mit Mark E.86 und Cachedog Zensi zum Testen an der Reihe.
+
+Auch hier waren die Koordinaten exakt und der Kleine war dank üblicher Tarnung ebenfalls rasch auszumachen!
+
+no trade
+
+Danke sagt Matthias, dg7nct mit Cachedog Zensi!</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>4.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

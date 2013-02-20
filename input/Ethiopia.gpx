@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>1 geocache.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:38:30.369Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="39.2351" lat="5.8680333">
+        <time>2012-03-23T02:17:04.000Z</time>
+        <name>OXZTKDC</name>
+        <desc>TCinEthiopia by GeoJulieL, Traditional Cache(2.3/1.7/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTKDC</url>
+        <urlname>TCinEthiopia</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469079">
+            <groundspeak:name>TCinEthiopia</groundspeak:name>
+            <groundspeak:placed_by>GeoJulieL</groundspeak:placed_by>
+            <groundspeak:owner id="101804">GeoJulieL</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The cache was placed by Absera and Julie. It is about 100 meters off on a side road.  The main road goes from Negele to Hawassa.  The nearest large village is Kibre Mengist. It is at the base of a large tree. It contains items related to the US Forest Service and the Tattered Cover Bookstore and Wines Off Wynkoop. &lt;br/&gt;  </groundspeak:long_description>
+            <groundspeak:encoded_hints>At base of large tree</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.3</ox:difficulty>
+                <ox:size>2.8</ox:size>
+                <ox:terrain>1.7</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Absera with geocache.jpg</ox:name>
+                    <ox:size>165359</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Behind large tree.jpg</ox:name>
+                    <ox:size>191939</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+</gpx>

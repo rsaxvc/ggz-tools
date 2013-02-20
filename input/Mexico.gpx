@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>12 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:37:40.095Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="-95.2141111" lat="16.1752778">
+        <time>2012-09-15T21:54:36.000Z</time>
+        <name>OXZTD01</name>
+        <desc>arriba del túnel  by RUBENS CALDERON, Traditional Cache(1.0/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTD01</url>
+        <urlname>arriba del túnel </urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28462899">
+            <groundspeak:name>arriba del túnel </groundspeak:name>
+            <groundspeak:placed_by>RUBENS CALDERON</groundspeak:placed_by>
+            <groundspeak:owner id="21803">RUBENS CALDERON</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Es nuestro primer cache esperamos poner mas y les guste la vista al mar, les dejamos unos lentes para el sol</groundspeak:long_description>
+            <groundspeak:encoded_hints>Al otro lado del túnel, subiendo por un lado en el túnel del desagüe</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>3.8</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-100.4095" lat="20.5932167">
+        <time>2012-07-28T18:35:27.000Z</time>
+        <name>OX3RDJA</name>
+        <desc>Cerro de las Campanas - La gruta by RREYNOSO72, Traditional Cache(1.9/2.7/2.9)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3RDJA</url>
+        <urlname>Cerro de las Campanas - La gruta</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3498608">
+            <groundspeak:name>Cerro de las Campanas - La gruta</groundspeak:name>
+            <groundspeak:placed_by>RREYNOSO72</groundspeak:placed_by>
+            <groundspeak:owner id="137314">RREYNOSO72</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Cerro de las Campanas&lt;br/&gt;&lt;br/&gt;Existe el misterio de porqué Maximiliano se atrincheró en este Cerro, y se rumora que esta entrada oculta llevaba a un pasaje que venía desde el Convento de la Cruz, otros dicen que desde alguna casa del Centro de la ciudad. Lo cierto es que el suelo de Querétaro no se presta a construcción de subterráneos por tener un alto contenido de humedad que requieren darle bastante mantenimiento, Anteriormente esta entrada permitía ingresar, pero las autoridades la bloquearon por seguridad, ahora ya tiene una reja algo endeble.&lt;br/&gt;&lt;br/&gt;El contenedor no está en la coordenada, hay que buscar la entrada a la gruta y el árbol que queda exactamente encima.&lt;br/&gt;&lt;br/&gt;Este es mi primer geocaché, espero haberlo realizado bien. Grupo en Facebook https://www.facebook.com/groups/422196184498551/&lt;br/&gt;&lt;br/&gt;El Parque abre todos los días excepto el Lunes, de 6 am a 6 pm, la entrada cuesta $1.00 por persona. Hay un museo, la Capilla y la explanada con la estatua de Juárez. Bastante bueno para ir a hacer ejercicio.El estacionamiento se hace en las calles aledañas, no tiene costo.&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Debajo de la Piedra</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2064909">
+                    <groundspeak:date>2012-09-11T05:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="149062">RBurgos</groundspeak:finder>
+                    <groundspeak:text encoded="False">Encontrado!! qué lugar más curioso e interesante descripción... el parque muy bien cuidado, interesante el sonido de las piedras.campanas y enorme escultura, encontrado junto con mi hija Jessica en estos lugares de Querétaro.El caché es de cartón, la humedad lo puede dañar, a falta de otro recipiente le pusimos un plástico en la tapa. veré si puedo agregar fotos.Saludos a todos desde El Salvador, tierra que nos vio nacer.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>1.9</ox:difficulty>
+                <ox:size>1.7</ox:size>
+                <ox:terrain>2.7</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>2012-07-28 095726.jpg</ox:name>
+                    <ox:size>161948</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.0976333" lat="28.7282167">
+        <time>2012-07-25T06:20:44.000Z</time>
+        <name>OX3QTFQ</name>
+        <desc>Establo de Quinta Carolina by VWFLYER, Traditional Cache(2.6/1.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3QTFQ</url>
+        <urlname>Establo de Quinta Carolina</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3480269">
+            <groundspeak:name>Establo de Quinta Carolina</groundspeak:name>
+            <groundspeak:placed_by>VWFLYER</groundspeak:placed_by>
+            <groundspeak:owner id="26775">VWFLYER</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache introduces you to Luis Terrazas' favorite hacienda the Quinta Carolina. &lt;br/&gt;&lt;br/&gt;Este cache te introduce a la hacienda favorita de Luis Terrazas- La Quinta Carolina.&lt;br/&gt;&lt;br/&gt;El cache es un pequeño Tupperware con tapa amarilla.&lt;br/&gt;&lt;br/&gt;The cache is a small tupperware with a yellow/orange lid.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Luis Terrazas was the governor of Chihuahua around the turn of the century. He was one of the wealthiest men in Mexico. His properties extended over much of Chihuahua State. He had many haciendas and quintas but the Quinta Caralina was said to be his favorite. At the time it was well outside of the city of Chihuahua. He built it as a gift to and named it after his wife Carolina Cuilty. His extreme wealth was one of the goads that provoked the Mexican Revolution. He lost this property and most others during the Mexican Revolution. It is now owned by the State of Chihuahua and is slowly undergoing restoration. Luis Terrazas' grave and townhouse are in downtown Chihuahua. &lt;br/&gt;&lt;br/&gt;Luis Terrazas era el gobernador de Chihuahua, alrededor de la vuelta del siglo. Fue uno de los hombres más ricos de México. Sus propiedades se extendían sobre gran parte del estado de Chihuahua. Tenía muchas haciendas y quintas pero la Quinta Caralina se decía que era su favorito. En aquel entonces estaba bien fuera de la ciudad de Chihuahua. Él lo construyó como regalo para y lo nombró por su esposa Carolina Cuilty. Su extrema riqueza fue uno de los aguijones que provocaron la Revolución Mexicana. Él perdió esta propiedad y la mayoría de las demás durante la Revolución Mexicana. Ahora es propiedad del Estado de Chihuahua y está en proceso de restauración. La tumba de Luis Terrazas y su casa estan en el centro de la Ciudad Chihuahua.&lt;br/&gt;&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>base of wall</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Historic site</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>imagen036jk8ra7.jpg</ox:name>
+                    <ox:size>27524</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-114.72845" lat="32.71705">
+        <time>2012-06-05T18:42:12.000Z</time>
+        <name>OXZTFG7</name>
+        <desc>The Kache by EagleEyeBev&amp;1LegMan, Traditional Cache(2.6/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTFG7</url>
+        <urlname>The Kache</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28465323">
+            <groundspeak:name>The Kache</groundspeak:name>
+            <groundspeak:placed_by>EagleEyeBev&amp;1LegMan</groundspeak:placed_by>
+            <groundspeak:owner id="68241">EagleEyeBev&amp;1LegMan</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Another cache in Los Algodones, Mexico. Easy walk from the border crossing. Don't forget your passport. BYOP. The cache is outside and you do not need to enter a business to find it.</groundspeak:long_description>
+            <groundspeak:encoded_hints>If your stumped ask for help in The Klinic</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1920002">
+                    <groundspeak:date>2012-06-07T06:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="13658">sanshandyman</groundspeak:finder>
+                    <groundspeak:text encoded="False">First to Find.  Thank you.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>2.5</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-89.6279444" lat="21.0471389">
+        <time>2011-12-30T02:48:59.000Z</time>
+        <name>OXZTMWG</name>
+        <desc>Mi primero by abuelo, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTMWG</url>
+        <urlname>Mi primero</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28470478">
+            <groundspeak:name>Mi primero</groundspeak:name>
+            <groundspeak:placed_by>abuelo</groundspeak:placed_by>
+            <groundspeak:owner id="81148">abuelo</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Adentro del cilindro encontraras 2 calcomanías de TT  (Téllez / Terere Jiu Jitsu) pluma y papel para dejar tus impresiones (no te lleves la pluma y el papel!!)</groundspeak:long_description>
+            <groundspeak:encoded_hints>Columnas paralelas en el monte</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-106.5233667" lat="31.6723833">
+        <time>2011-08-22T15:09:08.000Z</time>
+        <name>OXZTR1G</name>
+        <desc>Trepachanga1 by rimugu, Traditional Cache(2.5/3.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTR1G</url>
+        <urlname>Trepachanga1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28473516">
+            <groundspeak:name>Trepachanga1</groundspeak:name>
+            <groundspeak:placed_by>rimugu</groundspeak:placed_by>
+            <groundspeak:owner id="53621">rimugu</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Ve en la direccion a donde las antenas se juntan/Go in direction where antennas meet.&lt;br/&gt;Entre parede de piedras artificiales y pared de piedras artificiales, solo un poco arriba del camino/Between man made stone wall and man made stone wall, just a bit above the road.&lt;br/&gt;30 pesos por persona para entrar al parque/30 pesos per person to enter the park.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Yoghurt</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.4</ox:size>
+                <ox:terrain>3.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-99.1876333" lat="19.4332167">
+        <time>2011-08-16T21:10:40.000Z</time>
+        <name>OXZTR60</name>
+        <desc>General José by LUISFERFRANCO, Traditional Cache(1.2/1.2/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTR60</url>
+        <urlname>General José</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28473655">
+            <groundspeak:name>General José</groundspeak:name>
+            <groundspeak:placed_by>LUISFERFRANCO</groundspeak:placed_by>
+            <groundspeak:owner id="53238">LUISFERFRANCO</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">-- ¿Quienes ganaron la copa América en 2011?&lt;br/&gt;&lt;br/&gt;Este es un caché pequeño (espero que el de la basura no lo encuentre y lo deje ahí unos días) pensado para niños chiquitos, así que no esperen mucho. Está escondido en un contenedor de rollos de 35&quot; y tiene unas moneditas brillantes cuyo valor no llegua a los cinco pesos.&lt;br/&gt;&lt;br/&gt;-- Who won American Cup in 2011? (soccer)&lt;br/&gt;&lt;br/&gt;This is a very small cache (I hope the trashman leaves it there for some days), suitable to be found for small kids, don't expect that much :-) It's hidden on a 35mm film can and contains few (new) non-valuable coins, not worth more than 0.50 USD or so.&lt;br/&gt; </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.2</ox:difficulty>
+                <ox:size>1.8</ox:size>
+                <ox:terrain>1.2</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-108.6418833" lat="30.7739667">
+        <time>2011-08-13T07:21:38.000Z</time>
+        <name>OXZTR9B</name>
+        <desc>Billy telegraph by Doctordevey, Traditional Cache(1.4/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTR9B</url>
+        <urlname>Billy telegraph</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28473759">
+            <groundspeak:name>Billy telegraph</groundspeak:name>
+            <groundspeak:placed_by>Doctordevey</groundspeak:placed_by>
+            <groundspeak:owner id="44427">Doctordevey</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">A top telegraph pass, up to the top of the mountain, carefull don't get too close to those towers.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Look for the cross</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.4</ox:difficulty>
+                <ox:size>3.4</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-110.3851333" lat="24.5411167">
+        <time>2011-02-27T19:38:00.000Z</time>
+        <name>OX2MX1W</name>
+        <desc>Cardoncito Canyon Climb #2 by ScottE, Traditional Cache(2.5/3.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2MX1W</url>
+        <urlname>Cardoncito Canyon Climb #2</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2469828">
+            <groundspeak:name>Cardoncito Canyon Climb #2</groundspeak:name>
+            <groundspeak:placed_by>ScottE</groundspeak:placed_by>
+            <groundspeak:owner id="13449">ScottE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Cache hidden in El Cardoncito, one of the most picturesque coves of Isla Partida. This is the second of a two cache series.&lt;br/&gt;&lt;br/&gt;This cache will require a 1/3 mile hike up the canyon in one of the best anchorages on the island.&lt;br/&gt;&lt;br/&gt;Getting to this cache will take you past a brackish well built by fisherman 50 or so years ago as you hike up the canyon over large rocks and boulders. There's a couple of rocks which are extra physical in terms of climbing up. Once you find the cache, continue your hike up the canyon.&lt;br/&gt;&lt;br/&gt;There's great snorkeling, diving, and kayaking along the walls of the cove. Lots of Sally Lightfoot crabs, and various fish and bird species.&lt;br/&gt;&lt;br/&gt;Cache is seeded with polished rocks, bungee cord, thermometer, hear figurines, screwdriver, golf tee, army men, hotwheels, and a few other 'treasures'.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-110.4054833" lat="24.5524833">
+        <time>2011-02-27T19:39:16.000Z</time>
+        <name>OX2MX1H</name>
+        <desc>Little Double Bight by ScottE, Traditional Cache(2.0/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2MX1H</url>
+        <urlname>Little Double Bight</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2469818">
+            <groundspeak:name>Little Double Bight</groundspeak:name>
+            <groundspeak:placed_by>ScottE</groundspeak:placed_by>
+            <groundspeak:owner id="13449">ScottE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Explore Little Double Bight - a neat little bay with two small coves.&lt;br/&gt;&lt;br/&gt;This is a neat little cove on Isla Partida. In addition to the cache, there's some decent exploring to be had here, like the old fish camp in a cave along the Northern cove of the bight. And there's good snorkling and diving along the Southern cove's wall.&lt;br/&gt;&lt;br/&gt;Cache is a small tin and is seeded with a safety whistle and eyeglass cleaner cloth, not much room for much else. While there's a pencil end in the cache to sign the log, please bring our own pen in standard caching fashion.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-110.3881" lat="24.5399">
+        <time>2011-02-27T19:35:55.000Z</time>
+        <name>OX2MX1Q</name>
+        <desc>Cardoncito Canyon Climb #1 by ScottE, Traditional Cache(2.5/3.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2MX1Q</url>
+        <urlname>Cardoncito Canyon Climb #1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2469824">
+            <groundspeak:name>Cardoncito Canyon Climb #1</groundspeak:name>
+            <groundspeak:placed_by>ScottE</groundspeak:placed_by>
+            <groundspeak:owner id="13449">ScottE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Cache hidden in El Cardoncito, one of the most picturesque coves of Isla Partida. This is the first of a two cache series.&lt;br/&gt;&lt;br/&gt;This cache will require a bit of a climb in one of the best anchorages on the island.&lt;br/&gt;&lt;br/&gt;Getting to this cache will take you near a brackish well built by fisherman 50 or so years ago.&lt;br/&gt;&lt;br/&gt;There's great snorkeling, diving, and kayaking along the walls of the cove. Lots of Sally Lightfoot crabs, and various fish and bird species.&lt;br/&gt;&lt;br/&gt;Cache is seeded with a heart figurine, and three neck keychains - BMW/Oracle, FJ Cruiser, and OpenSolaris.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-87.0157333" lat="20.40855">
+        <time>2010-12-22T13:55:44.000Z</time>
+        <name>OX22DRZ</name>
+        <desc>Cozumel Road Side Hide by RLPRATT, Traditional Cache(2.1/2.3/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX22DRZ</url>
+        <urlname>Cozumel Road Side Hide</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1919891">
+            <groundspeak:name>Cozumel Road Side Hide</groundspeak:name>
+            <groundspeak:placed_by>RLPRATT</groundspeak:placed_by>
+            <groundspeak:owner id="4093">RLPRATT</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Cozumel is a wonderful place to find caches and secluded beaches. This cache is a replacement for one originally placed just across the road, and disappeared after one find.&lt;br/&gt;&lt;br/&gt;You are looking for a round cammo pre-form, bring your own pen. Logs that state: &quot;Sent from my mobile device&quot; only will be deleted and not considered a valid log entry. (There seems to be a rash of these logs going around from couch cachers)&lt;br/&gt;&lt;br/&gt;Special thanks to Dive-N-Diva who has agreed to look after this cache for me.&lt;br/&gt;&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1735626">
+                    <groundspeak:date>2011-03-31T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="88662">THE.ARKAROO</groundspeak:finder>
+                    <groundspeak:text encoded="False">Can't believe: The Cruisin' Cachers again - to whom I thank the Belize cache... Hahaha, cruis'n seems to be popular here! I am out for work, at the SMEC 2011 scientific meeting on the Liberty of the Seas, but now, let's go caching on a scooter! Slowly learning how to steer that thing! Thanks for the cache, mate!
+
+The Arkaroo - who loves the mountains and the waters.
+
+Travel Bugs visiting:
+* Arkaroo's Treasure (TB38AN6)
+* Rockhounds B.C. Flag (TB3D42K)
+* Chucky's Lure (TB3ERDX)
+* Z-Bug (TB3MM7E)
+</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.1</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>2.3</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

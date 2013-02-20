@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>22 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:37:29.286Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="-66.1556" lat="18.39925">
+        <time>2012-02-27T15:34:50.000Z</time>
+        <name>OXZTKVN</name>
+        <desc>Look up and get your hands dirty by DeifyingGravity, Traditional Cache(1.6/2.2/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTKVN</url>
+        <urlname>Look up and get your hands dirty</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469491">
+            <groundspeak:name>Look up and get your hands dirty</groundspeak:name>
+            <groundspeak:placed_by>DeifyingGravity</groundspeak:placed_by>
+            <groundspeak:owner id="95392">DeifyingGravity</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Stand on the cement table, and look up, feel inside the gaps (: Good Luck!</groundspeak:long_description>
+            <groundspeak:encoded_hints>Look above</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>3.8</ox:size>
+                <ox:terrain>2.2</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-66.0597833" lat="18.4223667">
+        <time>2011-10-25T01:57:09.000Z</time>
+        <name>OXZTNT8</name>
+        <desc>OccupyPuertoRico(O15) by josedcrespo, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTNT8</url>
+        <urlname>OccupyPuertoRico(O15)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28471369">
+            <groundspeak:name>OccupyPuertoRico(O15)</groundspeak:name>
+            <groundspeak:placed_by>josedcrespo</groundspeak:placed_by>
+            <groundspeak:owner id="49362">josedcrespo</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Nuestro primer cache, conmemorará el establecimiento del campamento #OCCUPYPUERTORICO . Se ubica en el Parque Dr. José N. Gándara conjuntamente con el campamento de ocupación.&lt;br/&gt;&lt;br/&gt;El cache es uno de relativamente fácil acceso, el parque cuenta con estacionamiento en sus orillas. Hay columpios, chorreras, subeibajas, cancha de baloncesto, árboles de extensa sombra y una brisa incesante sirve de repelente natural de mosquitos.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Sentado en un banquito azul el pobre árbol estuvo atado en tiempos previos.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-67.0416358" lat="18.0819833">
+        <time>2011-08-18T01:15:59.000Z</time>
+        <name>OX1CXK6</name>
+        <desc>Porta Coeli, San Germán by MILTON_FMH, Traditional Cache(1.9/1.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX1CXK6</url>
+        <urlname>Porta Coeli, San Germán</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1308516">
+            <groundspeak:name>Porta Coeli, San Germán</groundspeak:name>
+            <groundspeak:placed_by>MILTON_FMH</groundspeak:placed_by>
+            <groundspeak:owner id="53251">MILTON_FMH</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is a micro-cache (small chromed bison container), for a fast and easy hunt. This container has a wire that helps to retrieve it, please leave it in the same way and bring your own pen/pencil. Come and visit San Germán, the second oldest city of Puerto Rico, after San Juan. Enjoy its history and beautiful architecture!&lt;br/&gt;&lt;br/&gt;Built in 1606 the Porta Coeli (&quot;Gateway to Heaven&quot;) cathedral is one of the oldest church structures in the western hemisphere. Located in San German, Puerto Rico, it was restored by the Institute of Puerto Rican Culture and now serves as a museum of religious paintings and wooden carvings dating back from the 18th and 19th centuries. There are also some interesting examples of architecture and architectural details in and near the city's plaza (Source: Wikipedia).&lt;br/&gt;San Germán, founded in 1573, is one of the oldest towns on the island and is one of only two that are listed in the National Register of Historic Places. Its isolation has helped preserve its unique character, readily evident on its plazas and quaint streets. Today it is a university town, with Puerto Rico's Inter American University located on a beautiful campus. You'll want to see the many well-preserved historic homes near Porta Coeli, the coffee plantation, and the impressive San Germán de Auxerre Church (Source: http://www.gotopuertorico.com/puerto-rico-porta-coeli.php).&lt;br/&gt;&lt;br/&gt;Porta Coeli Museum is open Wednesday through Sunday from 8:00 AM -12:00 M and 1:00 PM to 4:20 PM. There is a $ 3.00 fee for the entrance. The Convento de Porta Coeli is located in the Plaza Porta Coeli at Ramas and Dr. Veve streets in the San Germán Historic District. It contains many of its original furnishings as well as a collection of religious art that includes colonial paintings and wooden statues dating back to the 18th and 19th centuries. Among its treasures is an altarpiece by José Campeche, the first-and by many considered to be the greatest-artist born in Puerto Rico (Source: http://www.gotopuertorico.com/puerto-rico-porta-coeli.php).&lt;br/&gt;&lt;br/&gt;HOW TO GET THERE: Take road 2 from Mayaguez or from San Juan. From Road 2 exit on Road 122. The church is located in the center of the town. You can park on the streets in front of Porta Coeli church or go to the parking area at the NE side of the church located at N18 04.934 W67 02.430&lt;br/&gt;&lt;br/&gt;Use your better tourist/photographic stealth mode; there is a guardian in the area, lots of muggles visiting, and muggles looking from their houses. Put only your initials in the logsheet. Enjoy!!!</groundspeak:long_description>
+            <groundspeak:encoded_hints>Look for the buttons of Mr. José Marcial Quiñones</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="423524">
+                    <groundspeak:date>2010-02-24T03:47:04.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4062">Pasto_Pasto</groundspeak:finder>
+                    <groundspeak:text encoded="False">Hace muchos años no visitaba este pueblo. Es una tremenda experiencia poder regresar sólo a apreciar sus bellezas y monumentos. Muy buen escondite. 
+
+TFTC!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="830835">
+                    <groundspeak:date>2009-04-10T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7609">ShotgunPR</groundspeak:finder>
+                    <groundspeak:text encoded="False">Otro facilito. De noche ni habían muggles, mucho menos guardia en el GZ. Un importante lugar histórico. </groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.9</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Historic site</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-67.0308167" lat="17.9722167">
+        <time>2011-08-17T22:27:46.000Z</time>
+        <name>OX1BBAY</name>
+        <desc>Playita Rosada, La Parguera by MILTON_FMH, Multi-cache(3.0/2.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX1BBAY</url>
+        <urlname>Playita Rosada, La Parguera</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="1262132">
+            <groundspeak:name>Playita Rosada, La Parguera</groundspeak:name>
+            <groundspeak:placed_by>MILTON_FMH</groundspeak:placed_by>
+            <groundspeak:owner id="53251">MILTON_FMH</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">I assure that you will enjoy this hunt; do not forget to bring a hat, water and sunblock. Tennis shoes or boots are recommended. Enjoy!!!&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The Parguera village in Lajas is famous for the beauty of its coral reefs, mangrove islands and channels and the bioluminescent bay. It lies in one of the PR natural protected areas designated as multiuse. In addition there is a small beach of artificial origin in La Parguera, known as Pinky Beach (Playita Rosada), it was built in the 60’s, and open for public use in 1976. This place is one of the many tourist attractions in La Parguera, and is visited in particular by families with small children. The sand of this beach was brought from the north-west coast of Puerto Rico; the red mangrove community that covered this area was removed to build this beach. The name of the beach has its origin in the sand coloration by those days.&lt;br/&gt;&lt;br/&gt;This place is under the jurisdiction of The Department of Natural and Environmental Resources (DNER or DRNA in spanish). This beach has gazebos; barbecue area and fresh water facilities. Also has a kind of sea water swimming pool, with a wooden deck surrounding it.&lt;br/&gt;&lt;br/&gt;In this area you will be able to observe Red, Black, White, and Button wood mangrove trees, Emajaguillas, Casuarinas pines and Beach Grapes trees, among others. Also you will see seagrass beds and a lot of marine invertebrates.&lt;br/&gt;&lt;br/&gt;HOW TO GET THERE: If you come from Ponce / Mayaguez by route #2, you must take exit 194 towards road 116. Keep on that route all the way until you reach 304 at the left. This will drive you to La Parguera. On 304 take the third entrance to the left (Calle 7) this will drive you directly to Playita Rosada. On the way you must pass the Parguera Nautical Club and continue until the end of the road; there you will find a fence, and a DRNA sign.&lt;br/&gt;&lt;br/&gt;If you come later than 5:00 pm you can leave your car in the area and continue on foot, the area could be solitary but is safe. If the gate is closed you can access by an entrance at the right side of the fence. If you come between 8:30 am and 5:00 pm the DRNA personnel will let you enter your car without any fee. During the evening this area is commonly used by people jogging or walking. Don't forget to bring water!&lt;br/&gt;&lt;br/&gt;If you want to see Playita Rosada pictures you can access the following link: http://www.ceducapr.com/playitarosada.htm</groundspeak:long_description>
+            <groundspeak:encoded_hints>STAGE 1: In a tree, passing the deck and the swimming pool. Is a 35 mm film container, covered with leaves.STAGE 2: Between the crevices of a big black rock. Is a 35 mm film container, covered with small rocks.FINAL: The cache is beneath a rock. Look toward the house on the hill.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="423500">
+                    <groundspeak:date>2010-02-25T20:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4062">Pasto_Pasto</groundspeak:finder>
+                    <groundspeak:text encoded="False">Después de la aventura por La Parguera, decidí emprender otra más ya que lo que se aprecia a lo largo de este cache es espectacular. Con todo el calor que hacía y el sol encima de mi, logré subir la colina y una vez allá arriba, la satisfacción y majestuosidad de la vista me brindaron las energías necesarias para bajar. 
+
+TFTC!
+TNLNSL</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-66.8278" lat="18.0364333">
+        <time>2011-08-16T22:37:03.000Z</time>
+        <name>OX3284Z</name>
+        <desc>Gaby's World by MILTON_FMH, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3284Z</url>
+        <urlname>Gaby's World</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2837987">
+            <groundspeak:name>Gaby's World</groundspeak:name>
+            <groundspeak:placed_by>MILTON_FMH</groundspeak:placed_by>
+            <groundspeak:owner id="53251">MILTON_FMH</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is a micro-cache (black bison), for a park and grab. It is&lt;br/&gt;located outside a famous place in Yauco. Please bring your own pen.&lt;br/&gt;This is place for the entire family to enjoy!&lt;br/&gt;&lt;br/&gt;This cache is located in the Barrio Jacanas in Yauco, if you are&lt;br/&gt;coming by the PR-2, take exit 200 and then the PR-127 to the right,&lt;br/&gt;go the km 5.1, then you are close to GZ, enjoy the hunt!!!</groundspeak:long_description>
+            <groundspeak:encoded_hints>Hole in a living being</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-66.363933" lat="18.460967">
+        <time>2010-12-21T08:00:00.000Z</time>
+        <name>OX2FTYC</name>
+        <desc>Puente San Vicente by ZEQ5, Traditional Cache(1.5/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2FTYC</url>
+        <urlname>Puente San Vicente</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2318843">
+            <groundspeak:name>Puente San Vicente</groundspeak:name>
+            <groundspeak:placed_by>ZEQ5</groundspeak:placed_by>
+            <groundspeak:owner id="8977">ZEQ5</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;
+ Felicidades a Pasto Pasto por su # 69
+FTF &lt;/p&gt;
+&lt;p&gt;El Puente San Vicente, se encuentra en la carretera 688 del
+barrio Sabana, en Vega Baja.&lt;/p&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;a href=&quot;http://s01.flagcounter.com/more/E3k&quot;&gt;&lt;/a&gt;
+&lt;p&gt;En 1873 se inauguró la Central San Vicente, en el pueblo de Vega
+Baja conocida como &quot;Ciudad del Melao Melao&quot;.&lt;/p&gt;
+&lt;p&gt;El puente San Vicente fue construido en el 1945. Al sur del
+mismo se encuentra cimientos de ladrillos y piedras que forman
+parte del antiguo puente del sistema ferroviario de la Central de
+caña San Vicente.&lt;/p&gt;
+&lt;p&gt;Desde el puente se pueden ver las chimeneas de la central.&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Estoy protegido ...</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1277167">
+                    <groundspeak:date>2010-12-26T20:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7609">ShotgunPR</groundspeak:finder>
+                    <groundspeak:text encoded="False">Interesante lugar,  me llamaron mucho la atención las ruinas cercanas. Este fue el próximo que intenté para desquitar el &quot;bajón&quot; de geocaching que tenía hace semanas!. TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="935276">
+                    <groundspeak:date>2010-12-21T20:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4062">Pasto_Pasto</groundspeak:finder>
+                    <groundspeak:text encoded="False">Wow no lo puedo creer!!! Este es mi FTF #69 (lucky number) y pensaba que el de ayer sería el último del 2010. Lo curioso es que no me llegó nunca la notificación de este cache y ya estaba en mi casa cuando me dio con entrar a la página y me topé con este cache virgen.
+
+Lo encontré a las 12:25am por lo que demás está decir que estaba muy oscuro. Gracias por traerme hasta aquí y por el pin, está muy bonito.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-66.849633" lat="18.332733">
+        <time>2011-03-01T08:00:00.000Z</time>
+        <name>OX2NRHP</name>
+        <desc>Plaza de los artesanos, Lares by ZEQ5, Traditional Cache(1.0/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2NRHP</url>
+        <urlname>Plaza de los artesanos, Lares</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2496266">
+            <groundspeak:name>Plaza de los artesanos, Lares</groundspeak:name>
+            <groundspeak:placed_by>ZEQ5</groundspeak:placed_by>
+            <groundspeak:owner id="8977">ZEQ5</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;
+Felicidades a zualon y
+papoblair por FTF!!!&lt;/p&gt;
+&lt;p&gt;Quick PNG&lt;/p&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;Plaza de los artesanos Esta plaza se construyo en reconocimiento
+a los artesanos Lareños, los señores:&lt;/p&gt;
+&lt;p&gt;Juan Cruz Aviles&lt;/p&gt;
+&lt;p&gt;Carmelo Soto&lt;/p&gt;
+&lt;p&gt;Por distinguirse en distintas fases de la artesanía durante el
+transcurso de su vida y por ser nombrados, MONUMENTOS VIVIENTES&lt;/p&gt;
+&lt;p&gt;Dado el 24 de octubre de 2003, en Lares Puerto Rico&lt;/p&gt;
+&lt;p&gt;**No te olvides traer una herramienta para sacar el log**&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Muy ovio, cuando llegues entenderá!</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1277274">
+                    <groundspeak:date>2011-04-24T07:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7609">ShotgunPR</groundspeak:finder>
+                    <groundspeak:text encoded="False">Sencillito. La placita muy bien cuidada, a pesar de estar en un lugar un poco desapercibido. TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-66.716117" lat="18.472083">
+        <time>2010-07-09T07:00:00.000Z</time>
+        <name>OX29N11</name>
+        <desc>Plaza de Arecibo by ZEQ5, Traditional Cache(1.5/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX29N11</url>
+        <urlname>Plaza de Arecibo</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2135374">
+            <groundspeak:name>Plaza de Arecibo</groundspeak:name>
+            <groundspeak:placed_by>ZEQ5</groundspeak:placed_by>
+            <groundspeak:owner id="8977">ZEQ5</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;
+Felicidades a Yahmader,
+Vejadez y S3phiroth2006 por FTF!!!&lt;/p&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;Este cache esta hubicado en la Plaza de Recreo de Arecibo. La
+cual fue dedicada a Luis Muñoz Rivera. En esta plaza puedes
+disfrutar de Noches de galerias que se llevan a cabo cada tercer
+viernes de cada mes. Tambien no se olviden pasar por la heladeria
+la cual me deleitaba desde niño es la mas antigua en Arecibo.
+Pruebenlos les encantara.&lt;/p&gt;
+&lt;p&gt;Desde esta plaza puedes observar la Iglesia catolica que es muy
+hermosa e inpresionante. Esta Plaza fue dedicada a gran procer Luis
+Muñoz Rivera este nació en Barranquitas, Puerto Rico el 17 de julio
+de 1859. En 1882 se dió a conocer como poeta al publicar en el
+periódico ponceño El Pueblo la poesía ¡Adelante!. Se distinguió
+como piloto de ideas liberales, orador, periodista y poeta. Se le
+considera discípulo y continuador de la obra de Román Baldorioty de
+Castro.&lt;/p&gt;
+&lt;p&gt;La personalidad y obra de Luis Muñoz Rivera influyeron mucho en
+la historia puertorriqueña. Es interesante recordar que Luis Muñoz
+Rivera fue el padre del gran gobernador y líder político Luis Muñoz
+Marín. Aún así, la fama de Luis Muñoz Rivera como político, orador
+y poeta fue tan grande, que si no hubiera nacido Luis Muñoz Marín,
+sería recordado por sus grandes méritos y logros personales.&lt;/p&gt;
+&lt;p&gt;Asi que por la hermosa historia que encierra este lugar y los
+innumerables recuerdos que tengo desde niño en esta plaza junto a
+mi padre y abuelo coloco este cache.&lt;/p&gt;
+&lt;p&gt;Tengan cuidado con los muggles de dia y de noche hay muchos en
+los edificios altos.&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Creciendo entre gigantes.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="831859">
+                    <groundspeak:date>2010-09-18T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7609">ShotgunPR</groundspeak:finder>
+                    <groundspeak:text encoded="False">Una plaza bien conservada y rodeada de varios edificios históricos. Aquí cerquita hay hasta una réplica de la Estatua de la Libertad, perdida está su historia entre la de los edificios que circundan el casco urbano de Arecibo. Este cache puede ser un poco tricky por los muggles en los alrededores. TFTC.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="424224">
+                    <groundspeak:date>2010-07-11T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4062">Pasto_Pasto</groundspeak:finder>
+                    <groundspeak:text encoded="False">Luego del evento aproveché que estaba por el área y busqué este cache. Nunca antes había visitado la plaza de Arecibo y quedé impresionado con la hermosura de su catedral.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-66.700033" lat="18.265217">
+        <time>2011-03-09T08:00:00.000Z</time>
+        <name>OX2PVNB</name>
+        <desc>Plaza de Utuado by ZEQ5, Traditional Cache(3.0/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2PVNB</url>
+        <urlname>Plaza de Utuado</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2528092">
+            <groundspeak:name>Plaza de Utuado</groundspeak:name>
+            <groundspeak:placed_by>ZEQ5</groundspeak:placed_by>
+            <groundspeak:owner id="8977">ZEQ5</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;
+Felicidades a zualon,
+athmom58 y papoblair por FTF!!!&lt;/p&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;Utuado fue fundado en el 12 de octubre del 1739. Es conocido
+como la Ciudad del Viví. Esta situado en el centro montañoso de la
+isla entre los municipios de Hatillo y Arecibo por el norte;
+Adjuntas, Ponce y Jayuya por el sur; Ciales y Jayuya por el este; y
+Lares por el oeste.&lt;/p&gt;
+&lt;p&gt;Pasa y visita esta perla del centro de la isla.&lt;/p&gt;
+&lt;p&gt;Llévate algo para filmar y sacar el log , BYOP.&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Siéntate y admira el edificio de la legislatura municipal.
+Estoy camuflado.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1277281">
+                    <groundspeak:date>2011-04-24T07:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7609">ShotgunPR</groundspeak:finder>
+                    <groundspeak:text encoded="False">De paso por los pueblos de la montaña no podía dejar pasar este en el pueblo de mi amigo farmaco1.  Muy ingenioso, me gustó mucho lo bien mantenida que se ve la plaza. TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>5.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-66.538733" lat="18.435533">
+        <time>2010-10-12T07:00:00.000Z</time>
+        <name>OX2GJVB</name>
+        <desc>Sixto Escobar Vargas &quot;El Gallito&quot; by ZEQ5, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2GJVB</url>
+        <urlname>Sixto Escobar Vargas &quot;El Gallito&quot;</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2341813">
+            <groundspeak:name>Sixto Escobar Vargas &quot;El Gallito&quot;</groundspeak:name>
+            <groundspeak:placed_by>ZEQ5</groundspeak:placed_by>
+            <groundspeak:owner id="8977">ZEQ5</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;
+FTF:Felicidades a
+cyber_nuno!!!&lt;/p&gt;
+&lt;p&gt;Nació el 23 de marzo de 1913 – 17 de noviembre de 1979 en
+el Barrio Palmas Altas de Barceloneta. Este cache se encuentra en
+una plasita con una estatua de Sixto Escobar Vargas. Para el FTF
+hay un pin de PR.&lt;/p&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;A lo largo de su carrera como boxeador tuvo 92 combates, de los
+cuales ganó 79, perdió 12 y empató en uno. En su memoria, una
+avenida de Barceloneta lleva su nombre, la cual se extiende de
+norte a sur. Este honor se le otorgó con motivo del gran triunfo de
+Sixto Escobar al conquistar el Primer Campeonato Mundial del Peso
+Pluma para Puerto Rico, el 26 de junio de 1934. Por esta hazaña fue
+electo en el año 1950, al reputado Salón de la Fama del Boxeo.&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Duro como...</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1277173">
+                    <groundspeak:date>2010-12-26T20:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7609">ShotgunPR</groundspeak:finder>
+                    <groundspeak:text encoded="False">Que bueno ver un cache puesto aquí, la estatua la había notado en una ocasión pero desconocía de quien se trataba. Aunque la sobre-importancia del capitalismo extremo le quita un poco de brillo al monumento. Muy bien mantenido a pesar de todo. TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="424358">
+                    <groundspeak:date>2010-11-20T20:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4062">Pasto_Pasto</groundspeak:finder>
+                    <groundspeak:text encoded="False">Aproveché que estaba por el área y busqué este cache que me quedaba en ruta. Me alegra que hayan puesto otro cache aquí porque la placita es muy bonita y a veces pasa desapercibida. El log está completamente mojado! Deben cambiarlo de inmediato. No tenía nada para remplazarlo. Le tomé una foto al container como evidencia.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>5.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-66.863167" lat="18.474383">
+        <time>2010-09-23T07:00:00.000Z</time>
+        <name>OX2FC65</name>
+        <desc>El otro mofongo, Km 92.1 by ZEQ5, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2FC65</url>
+        <urlname>El otro mofongo, Km 92.1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2305630">
+            <groundspeak:name>El otro mofongo, Km 92.1</groundspeak:name>
+            <groundspeak:placed_by>ZEQ5</groundspeak:placed_by>
+            <groundspeak:owner id="8977">ZEQ5</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;
+FTF: &lt;u&gt;Congratulations to
+Vejadez &amp; Yahmader!!!&lt;/u&gt;&lt;/p&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;Siguiendo la linea de los Mofongos,&lt;/p&gt;
+&lt;p&gt;Este lugar es una delicia, Para compartir con tu familia.
+Tambien me llama mucho la atencion el arbol gigante que esta detras
+de la guagua. Me habian comentado que al crecer hiban perdiendo las
+espinas. Pero a este chico le faltan muchos, muchos a~nos para
+perder estas amiguitas. El cache es uno muy interesante. No se
+olbiden traer un lápiz o bolígrafo para firmar el log.&lt;/p&gt;
+&lt;p&gt;Following the mofogono,&lt;/p&gt;
+&lt;p&gt;We enjoy this place regularly with our family. I had been told
+that the enormous tree next to the bus looses it's thorns as it
+grows. This tree needs many years before loosing them. This cache
+is a quick park n grab. Be discrete as it's a busy area. Happy
+hunting... BYOP&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Protejo el árbol.
+
+I'm protecting the tree.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1277164">
+                    <groundspeak:date>2010-12-27T02:43:09.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="7609">ShotgunPR</groundspeak:finder>
+                    <groundspeak:text encoded="False">El cache está deteriorado internamente y el log existente no se puede usar.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1277163">
+                    <groundspeak:date>2010-12-26T20:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7609">ShotgunPR</groundspeak:finder>
+                    <groundspeak:text encoded="False">Lo encontré, pero como mencionó MariusLola el log está destruido. No tenía logs de ese tamaño para reemplazarlo.
+
+This entry was edited by ShotgunPR on Sunday, 26 December 2010 at 20:07:23.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-66.537533" lat="18.456767">
+        <time>2010-07-10T07:00:00.000Z</time>
+        <name>OX2B1M2</name>
+        <desc>Plaza de los proceres de Barceloneta by ZEQ5, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2B1M2</url>
+        <urlname>Plaza de los proceres de Barceloneta</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2176326">
+            <groundspeak:name>Plaza de los proceres de Barceloneta</groundspeak:name>
+            <groundspeak:placed_by>ZEQ5</groundspeak:placed_by>
+            <groundspeak:owner id="8977">ZEQ5</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;
+FTF: Congratulations to
+s3phiroth2006!!!&lt;/p&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;En esta plaza puedes encontrar un paseo tablado con vista a un
+pequeno lago. Tienes bancos dondes puedes disfrutar con tu familia.
+Y si te gusta apostar a los caballos tienes la tiendita de al lado.
+No gastes mucho.&lt;/p&gt;
+&lt;p&gt;Esta hermosa plaza fue creada en memoria de muchas personas que
+aunque muchos de sus nombres han sido olvidados fueron una gran
+contribución al levantamiento de Barceloneta. Entre ellos podrás
+encontrar al gran fundador el Sr.Bonocio LLenza Feliu llego a PR en
+1840 procedente de Blaners ciudad de Gerona, Cataluña, España, fue
+el fundador de Barceloneta Y su primer Alcalde, le llamo así a este
+municipio en Honor al pueblo de la Barceloneta de la Barceloneta
+ubicado en la provincial de Barcelona. Es notable decir que era el
+Alcalde y tan bien juez. Dueño de la hacienda El Palenque. Donde
+estuvo ubicada su casa actualmente es el centro cultural Histórico
+de este Pueblo.&lt;/p&gt;
+&lt;p&gt;También puedes observar una gran estatua levantada en memoria de
+aquellos héroes de nuestra patria que están dando actualmente sus
+servicios y aquellos que han dados sus vidas para mantener nuestro
+país libre. Porque la libertad no es gratis. Y felicito a todos
+aquellos que de una forma u otra como yo tienen familiares en el
+Servicio Militar y en el cual me siento muy orgulloso de haber sido
+parte. Y créanme esta no es una lucha perdida. Bueno el cache que
+estas buscando es un nano.&lt;/p&gt;
+&lt;p&gt;Cuando realices este cache puedes aprovechar y realizar otros
+que están muy cerca en este mismo pueblo como: GC1DMR3- Don Benito:
+Traigo un ramillete..., GC1DMR6-Villa Georgetti, Barceloneta,
+GC1F5GV- La Boca, Barceloneta y GC2ACM6- Isla de Roque.&lt;/p&gt;
+&lt;p&gt;Si te gusta caminar o Montain Bike tienes acceso a un area
+bastante amplia con una vista hermosa por todo el Rio de Manati que
+deciende por Barceloneta.&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Antonio Davila me vigila!</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="831873">
+                    <groundspeak:date>2010-09-18T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7609">ShotgunPR</groundspeak:finder>
+                    <groundspeak:text encoded="False">Muy bonita plaza. Había pasado por aquí en busca del cache de &quot;La Boca&quot; y en esa ocasión la plaza no existía tal y como está ahora. Hay que felicitar a ese alcalde que está dejando a Barceloneta bien agradable y acogedor para el visitante. Vi unos caminos que se ven bien tentadores para correr en MTB, alguien del área que sepa al respecto me deja saber si hay veredas cerca para y darle pedal. TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="424240">
+                    <groundspeak:date>2010-07-11T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4062">Pasto_Pasto</groundspeak:finder>
+                    <groundspeak:text encoded="False">Muy bonita plaza. Encontramos este cache luego de un laaaaaaaaaaargo día!</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-66.6955" lat="18.481133">
+        <time>2010-06-05T07:00:00.000Z</time>
+        <name>OX29N56</name>
+        <desc>Playa la posa del obispo by ZEQ5, Traditional Cache(4.5/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX29N56</url>
+        <urlname>Playa la posa del obispo</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2135503">
+            <groundspeak:name>Playa la posa del obispo</groundspeak:name>
+            <groundspeak:placed_by>ZEQ5</groundspeak:placed_by>
+            <groundspeak:owner id="8977">ZEQ5</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>4.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;
+FTF: Felicidades a
+CacheBusters Team!!!&lt;/p&gt;
+ &lt;br /&gt;&lt;br /&gt; &lt;a href=&quot;http://s01.flagcounter.com/more/E3k&quot;&gt;&lt;/a&gt;
+&lt;p&gt;La Playa La poza del obispo es acta para el disfrute de toda la
+familia. Estas buscando un cache que no es nada de típico, bien
+diferente a los usuales. Se confunde con la naturaleza. (hint)&lt;/p&gt;
+&lt;p&gt;El cache esta cerca del Faro de Arecibo. Esta playa se le otorga
+su nombre (según cuentan los viejos del área) por un gran Obispo
+que venia a desembarcar en San Juan y debido a una gran tormenta
+que destruyo su envarcacion llegaron nadando a salvo a esta hermosa
+poza. Siendo esta bautizada la Poza del Obispo. Esta hermosa poza
+cuenta con una gran vida marina. La cual puedes disfrutar
+realizando Snorkling veras de todo. Y es muy acta para toda la
+familia. Los que disfrutan de surfing este es lugar excelente. No
+se recomienda visitar el lugar cuando hay problemas atmosféricos ya
+que las olas rompen hasta los gazebos y las corrientes submarinas
+son peligrosas durante estos sucesos.&lt;/p&gt;
+&lt;p&gt;Si deseas puedes buscar estos caches que estan muy cerca y
+disfrutaras de un hermoso tours por todo el hermoso Pueblo de
+Arecibo. GC238RH -La Cueva del Indio - Arecibo GC2ACJY - Dama entre
+Caballeros GC29N11 - Plaza de Arecibo GC26AKW - Rotario Arecibo Te
+recomiendo traer agua y sun block. &quot;&quot;BYOP&quot;&quot;&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>1. No busques por un conteiner típico.
+2. No soy de plástico y puedo darte calor en algún momento.
+3. Recuerda donde estoy no me caen cocos.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1277132">
+                    <groundspeak:date>2011-03-19T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7609">ShotgunPR</groundspeak:finder>
+                    <groundspeak:text encoded="False">¡Zeq, de verdad que te botaste con este cache! Es uno de los más originales que he hallado, y de paso te invito a que busques el de [url=http://coord.info/GC1XMTY]La Marquesa Forest Park[/url] que te va poner a sudar la gota gorda también! Tan pronto pasaron algunos minutos y noté que el GPSr brincaba, pensé que esto es una actividad que requiere más de pensar que de seguir el GPSr, así que me senté y fué algo así como la famosa canción: ¡&quot;saca la mano... y AHI TÁ&quot;!   ¡Muy bueno y recomendado! TFTC
+
+This entry was edited by ShotgunPR on Sunday, 20 March 2011 at 13:28:19 UTC.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="424226">
+                    <groundspeak:date>2010-07-09T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4062">Pasto_Pasto</groundspeak:finder>
+                    <groundspeak:text encoded="False">Llegué a la playa a las 12:15pm. En ese momento estaba lloviznando pero pensé que no tardaría mucho y comencé a caminar hasta el GZ. Tan pronto llegué a la palma supe que no sería cuestión de unos minutos y así fue. Estuve buscando por una hora y no lograba ni siquiera encontrar un posible escondite. Por los “hints” que ofrece el cache sabía lo que estaba buscando pero el problema era dónde encontrarlo. Estaba acompañado de mi recién adquirido Colorado 300 y mi preciado iPhone y aún así no encontraba precisión en las coordenadas. Por algún motivo las coordenadas cambiaban constantemente y casi siempre me llevaban a donde no tenía que buscar.
+
+Después de buscar por una hora y con el sol encima decidí contactar al dueño del cache vía e-mail en busca de pistas adicionales. Mientras el tiempo corría me compré una botella de agua en uno de los kioscos y descansé 15 minutos dentro de mi carro. En ese momento le envié un mensaje a mi amigo jy_hunting con esperanzas de que me respondiera. Continué con la búsqueda y milagrosamente zeq me contestó el e-mail. Con esa ayuda adicional recobré la motivación pero el sol y la arena me forzaban a irme. Pasadas dos horas arrastrándome como serpiente entre uvas playeras, jy_hunting llama. Me pregunta: ¿Todavía estás ahí? Le contesto que sí. Me dice: “Wow, tú si que eres perseverante.” Con su ayuda y la de zeq pude concentrarme en un área en particular y me vestí de paciencia para poder hallar el preciado atípico envase.
+
+Este es mi cache #322 y me atrevo a decir que está entre los cinco más creativos y más difíciles en todo Puerto Rico. El envase es muy original. Sugiero que hagan uso de los “attributes” en el listing para que futuros geocachers tengan una idea más clara de las cualidades y condiciones de este cache. Creo que es bien importante llevar agua y protección solar. 
+
+Muchachos los felicito por su creatividad y les agradezco haberme llevado a tan bonita playa. Gracias por su atención y por la ayuda que me brindaron con las pistas.
+
+T - $0.75
+L - €0.50 
+
+TFTC! 
+
+</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>4.5</ox:difficulty>
+                <ox:size>1.5</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-66.0462167" lat="18.4047833">
+        <time>2011-03-06T23:53:24.000Z</time>
+        <name>OXZTX0Z</name>
+        <desc>Could save your life by pesqair, Traditional Cache(2.6/2.4/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTX0Z</url>
+        <urlname>Could save your life</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477343">
+            <groundspeak:name>Could save your life</groundspeak:name>
+            <groundspeak:placed_by>pesqair</groundspeak:placed_by>
+            <groundspeak:owner id="13930">pesqair</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Detrás de el edificio de ciencias naturales. Ziplock con &quot;geocache&quot; escrito. Premio útil para el FTF. Si te llevas algo, dejas algo. Error de 16 pies.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>2.4</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-65.8688333" lat="18.1754333">
+        <time>2010-11-28T08:00:00.000Z</time>
+        <name>OX2JVZX</name>
+        <desc>Expreso a Japon by JAAS666, Traditional Cache(3.4/3.4/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2JVZX</url>
+        <urlname>Expreso a Japon</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2409224">
+            <groundspeak:name>Expreso a Japon</groundspeak:name>
+            <groundspeak:placed_by>JAAS666</groundspeak:placed_by>
+            <groundspeak:owner id="7409">JAAS666</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Está pista de caminar con entretenimiento para los más chicos fue&lt;br /&gt;construida hace varios años atrás. luego de una temporada de&lt;br /&gt;fuertes lluvias madre naturaleza reclamó lo que le pertenecía y sin&lt;br /&gt;ton ni son dejó ese hueco ahí.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Si mi memoria no me falla, han pasado ya dos administraciones&lt;br /&gt;(ambas azules, antes que pregunten) y el hueco sigue ahí.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Pueden notar como los columpios y demás equipo se ha deteriorado&lt;br /&gt;sin un sólo niño poder jugar con ellos. Equipos que estaban nuevos&lt;br /&gt;de paquete cuando esto ocurrió.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Regresando al caché, estas buscando in embaze mediano que contiene&lt;br /&gt;in reading light para el FTF.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Buena suerte. &lt;strong&gt;Antes que nada, la seguridad es primero.. NO&lt;br /&gt;ES NECESARIO BRINCAR LAS VAYAS DE SEGURIDAD PARA TOMAR EL&lt;br /&gt;CACHÉ.&lt;/strong&gt; 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>The &quot;G Logo&quot; marks the spot.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="694875">
+                    <groundspeak:date>2010-12-07T20:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4062">Pasto_Pasto</groundspeak:finder>
+                    <groundspeak:text encoded="False">Sin tomar en cuenta que llovería hoy, me tiré en busca de este cache y otros que me faltaban de esta zona. Llovía a cántaros cuando llegué al GZ y tuve que esperar dentro del carro como 2 horas. En realidad no fue tan malo pues normalmente de 3-7pm estoy en el tapón escuchando &quot;El Goldo y la Pelúa&quot; y esta vez los escuché &quot;relax&quot; en mi carro. Tan pronto escampó, salí en busca del cache y debo decir que lo encontré rápido gracias a la lluvia. Las gotas se habían alineado en una pendiente perfecta y sabiá que eso no era parte de la vegetación. Abrir el envase fue lo mejor de todo porque el aroma de esa poción mágica que me ayuda a pasar mis &quot;PT tests&quot; sin hacer mucho ejercicio, me encanta.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.4</ox:difficulty>
+                <ox:size>3.8</ox:size>
+                <ox:terrain>3.4</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-65.8270167" lat="18.15015">
+        <time>2010-07-24T07:00:00.000Z</time>
+        <name>OX2C8MB</name>
+        <desc>Plaza de Humacao  by JAAS666, Traditional Cache(3.4/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2C8MB</url>
+        <urlname>Plaza de Humacao </urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2212853">
+            <groundspeak:name>Plaza de Humacao </groundspeak:name>
+            <groundspeak:placed_by>JAAS666</groundspeak:placed_by>
+            <groundspeak:owner id="7409">JAAS666</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Humacao, tambien conocida como &quot;La Perla del Oriente&quot; y &quot;La Ciudad Gris&quot;. Fue fundada en Abril del 1722 y se convirtio en pueblo autonomo en el 1793. El nombre proviene de un antiguo jefe indio llamado Jumacao. Este cache se encuentra en la hermosa Plaza.&lt;br /&gt;&lt;br /&gt;Mientras buscas este cache podras ver la Iglesia Catolica &quot;Dulce Nombre de Jesus&quot;. Fundada en 1774 es considerada una de las mas hermosas Catedrales en la isla.&lt;br /&gt;&lt;br /&gt;Esta plaza es visitada por mucha gente asi que precaucion al remover el cache de su escondite.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Humacao is known as &quot;La Perla del Oriente&quot; (pearl of the orient) and &quot;La Cuidad Gris&quot; (gray city). Humacao was founded on April, 1722 and became autonomous (town) in 1793. Humacao derives its name from a local Indian chief Jumacao. You are looking for a cache in the beautiful Plaza in the center of the town.&lt;br /&gt;&lt;br /&gt;While searching for this cache you can take a look at the catholic church Dulce Nombre de Jesús. Founded in 1774 and considered one of the most beautiful in the Island.&lt;br /&gt;This plaza is always visited by a lot of people so be careful when removing the cache.&lt;br /&gt;&lt;br /&gt;Good Luck and don't forget to BYOP!!! 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Si te sientas a descansar no me encontraras.
+
+If you sit down to rest you won't find me.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1908120">
+                    <groundspeak:date>2012-06-27T04:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="129465">geekcologist</groundspeak:finder>
+                    <groundspeak:text encoded="False">Awesome cache &amp; great hiding place. It needs maintenance. </groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1277144">
+                    <groundspeak:date>2011-03-27T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7609">ShotgunPR</groundspeak:finder>
+                    <groundspeak:text encoded="False">Estuve como 10 minutos buscando cuando hice lo que indica el listing que NO se haga y me puse a pensar sobre QUIEN puso el cache. Con eso el cache apareció casi como si el cache comenzara a gritar. Solo tengo una palabra para describir este cache. Diabólico. TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="424267">
+                    <groundspeak:date>2010-07-28T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4062">Pasto_Pasto</groundspeak:finder>
+                    <groundspeak:text encoded="False">Déjà vu from GC1YAPR. Very clever!</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.4</ox:difficulty>
+                <ox:size>1.7</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-65.7817167" lat="18.2022833">
+        <time>2010-07-24T07:00:00.000Z</time>
+        <name>OX2C7XY</name>
+        <desc>¿Area Escénica? by JAAS666, Traditional Cache(1.9/3.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2C7XY</url>
+        <urlname>¿Area Escénica?</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2212158">
+            <groundspeak:name>¿Area Escénica?</groundspeak:name>
+            <groundspeak:placed_by>JAAS666</groundspeak:placed_by>
+            <groundspeak:owner id="7409">JAAS666</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Whiskas y Friskies personlamente les invitan a tomar el tour,&lt;br /&gt;presentado por ellos mismos, aqui en su hogar en el Área&lt;br /&gt;Escenica... Wait.. What... &lt;b&gt;¿Area qué?&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;De seguro esta área tuvo su proposito en algun momento y no dudo&lt;br /&gt;que haya sido imporesionante llegar aqui a ver el paisaje..&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Lamentablemente esto es otro ejemplo de como el gobierno gasta&lt;br /&gt;dinero del pueblo para dejarlo perder.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;El camino no es dificil, pero la falta de mantenimiento lo hacen un&lt;br /&gt;poco incomodo comparado a como deberia ser. Pueden aprovechar y&lt;br /&gt;practicar un poco de CITO, en el area de parkin hay un zafacon&lt;br /&gt;donde pueden dejar lo que saquen.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Es una lastima ver estos lugares perderse; a menos claro, que el&lt;br /&gt;plan del gobierno sea hacer una atraccion tipo &quot;Indiana Jones&quot;. De&lt;br /&gt;todas maneras, a nosotros los GeoCachers nos funciona.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;P.S. Whiskas y Friskies me pidieorn que les dejara saber que como&lt;br /&gt;donativo por el tour agradecian si pueden traerles algo de&lt;br /&gt;comer.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Whiskas&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Friskies&lt;br /&gt;&lt;br /&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;AE2C7XY - Parking Area&lt;br /&gt;N 18° 12.193 W 065° 46.894</groundspeak:long_description>
+            <groundspeak:encoded_hints>Si ponen esto en condiciones óptimas me quedo al decubierto.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1779313">
+                    <groundspeak:date>2012-04-02T04:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="105006">steelcat93</groundspeak:finder>
+                    <groundspeak:text encoded="False">Founf it in the brush full of water everything ruined. Couldnt log find. When the next day with paper pen pencil dried everything and bouble bag.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1277143">
+                    <groundspeak:date>2011-05-14T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7609">ShotgunPR</groundspeak:finder>
+                    <groundspeak:text encoded="False">Me habían comentado el pasado y desenlace de este lugar y aunque no lo había visitado antes, me resulto bastante triste e irónico que los gobiernos (todos) no se hayan preocupado por restablecer la belleza a este lugar. Se ve que en su creación hubo un interés particular de resaltar esta área. Desde aquí también se pueden ver claramente los famosos y misteriosos radares del Yunque, que apenas se dejan ver libres de neblina, como era el caso hoy. TFTC.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="424266">
+                    <groundspeak:date>2010-07-28T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4062">Pasto_Pasto</groundspeak:finder>
+                    <groundspeak:text encoded="False">Recuerdo que hace varios meses le pregunté a nexzaj cuando fuimos a buscar Telemetry Cliff: “¿Oye, por qué no escondes un cache ahí?” Al visitar el lugar me contesté la pregunta. 
+
+Me parece fascinante el aspecto de “crítica” que tiene este cache. Creo que es el primero de esta índole en Puerto Rico. La mayoría son resaltando lugares y uno que otro incomprensible. Mabodomoca acaba de escribir lo que estuve pensando desde que salí del lugar. Hay potencial para que la AGPR haga un proyecto de conservación o hasta un CITO event. Otra alternativa es que se haga como parte de un proyecto de servicio de Eagle Scout y más ahora con el BOOM! Que ha tenido el geocaching dentro de Boy Scouts of America gracias a la nueva insignia de mérito. 
+
+Casi se me olvida el cache. Ufff… un calor insoportable, sol ardiente, humedad… No tuve problema con las coordenadas pero sí con la densa vegetación. Definitivamente mi próximo “geo-tool” será un machete. 
+</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.9</ox:difficulty>
+                <ox:size>3.8</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-65.87195" lat="18.1947333">
+        <time>2010-07-13T07:00:00.000Z</time>
+        <name>OX2BNG0</name>
+        <desc>La Cueva del indio (Reloaded) by JAAS666, Traditional Cache(4.1/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2BNG0</url>
+        <urlname>La Cueva del indio (Reloaded)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2195420">
+            <groundspeak:name>La Cueva del indio (Reloaded)</groundspeak:name>
+            <groundspeak:placed_by>JAAS666</groundspeak:placed_by>
+            <groundspeak:owner id="7409">JAAS666</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>4</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Muggled about 8 months ago, this one's back looking for revenge.. BEWARE!&lt;br/&gt;&lt;br/&gt;&quot;Muggleado&quot; hace 8 meses, este regresa con ganas de vengarse.. PRECAUCION!&lt;br/&gt;&lt;br/&gt;English Version&lt;br/&gt;&lt;br/&gt;La Cueva del Indio in Las Piedras was discovered during some developer’s excavations in 1982. Once they realized what they found, the place was protected. It has been on National Registrar of Historic monuments since 2003.&lt;br/&gt;&lt;br/&gt;The park can be visited weekdays from 8am - 4pm but with a previous appointment through the tourism and cultural office (787-733-2160 ext. 2474). This is free of charge.&lt;br/&gt;&lt;br/&gt;The cache is located OUTSIDE the park accessible 24 hours a day.&lt;br/&gt;&lt;br/&gt;----------------&lt;br/&gt;&lt;br/&gt;Spanish Version:&lt;br/&gt;&lt;br/&gt;La Cueva del Indio en Las Piedras fue descubierta durante unas excavaciones realizadas en el 1982. Una vez se dieron cuenta de lo que habian descubierto, el lugar ha sido protegido. A sido parte del Registro Nacional de Monumentos Historicos desde el 2003.&lt;br/&gt;&lt;br/&gt;El parque puede ser visitado en dias de semana de 8am a 4pm con cita previa a traves de la oficina de cultura y turismo (787-733-2160 ext. 2474).Las visitas son libre de costo.&lt;br/&gt;&lt;br/&gt;El cache esta localizado AFUERA del parque y esta accesible las 24 horas del dia.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Careful with the barbed wire.
+Precaucion con el alambre de puas.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="424253">
+                    <groundspeak:date>2010-07-28T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4062">Pasto_Pasto</groundspeak:finder>
+                    <groundspeak:text encoded="False">Déjà vu from GC1VKYT. 
+
+I asked for assistance from the owner because the reception was poor on the GZ. I think this one is a little bit harder than the other one.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>4.1</ox:difficulty>
+                <ox:size>1.8</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-65.87235" lat="18.1763333">
+        <time>2010-07-15T07:00:00.000Z</time>
+        <name>OX2BNBG</name>
+        <desc>Forgotten Heroes by JAAS666, Multi-cache(3.1/1.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2BNBG</url>
+        <urlname>Forgotten Heroes</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="2195281">
+            <groundspeak:name>Forgotten Heroes</groundspeak:name>
+            <groundspeak:placed_by>JAAS666</groundspeak:placed_by>
+            <groundspeak:owner id="7409">JAAS666</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Siempre me pregunte de donde habian salido estos dos.&lt;br/&gt;Increiblemente, llamamos a la alcaldia y nos dijeron que habian&lt;br/&gt;sido utilizados en la guerra y los habian donado.. eso fue todo lo&lt;br/&gt;que sabian.&lt;br/&gt;&lt;br/&gt;Todavia me interesa saber mas sobre ellos asi que si alguien sabe&lt;br/&gt;mas de esto se lo agradeceria.&lt;br/&gt;&lt;br/&gt;Para encontrar este cache necesitas la numeración de 6 dígitos que podrás encontrar parado en las coordenadas iniciales. Luego utilizando esa numeración podrás resolver las coordenadas finales.&lt;br/&gt;&lt;br/&gt;Sustituye las letras con los digitos correspondientes de esta manera:&lt;br/&gt;A es el primer dígito, B el segundo dígito y asi sucesivamente.(no hay que multiplicar)&lt;br/&gt;&lt;br/&gt;N18 1F.[C-E]CA&lt;br/&gt;W065 5D.[D+E][D+B]F</groundspeak:long_description>
+            <groundspeak:encoded_hints>No tubo break!!</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="424250">
+                    <groundspeak:date>2010-07-28T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4062">Pasto_Pasto</groundspeak:finder>
+                    <groundspeak:text encoded="False">Muy original y divertido. Definitivamente sería bueno conseguir más información acerca de esos dos héroes y darle también un poco de cariño para que no se queden en el olvido.
+
+TNLNSL  
+</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="831890">
+                    <groundspeak:date>2010-07-19T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7609">ShotgunPR</groundspeak:finder>
+                    <groundspeak:text encoded="False">Me agradó mucho esta búsqueda, no solo porque estaba a la expectativa de ver &quot;quienes&quot; eran los héroes, sino porque me trajeron recuerdos de las historias que nos contaban mis tíos cuando éramos pequeños. De mi familia por parte de madre, todos los varones (9, mis tíos) sirvieron en varios conflictos bélicos. Se podrán imaginar cuánto influyó eso en la vida de toda la familia. Solo aquellos que han tenido que tomar un arma y usarla contra otro ser humano saben lo que realmente eso significa, y el alto costo que tiene la guerra; en más de un ámbito. Los que se fueron y no regresaron y los que fueron y regresaron físicamente, pero que su alma se perdió o se quedó militando. Esos son los héroes verdaderos. Gracias por este cache. </groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.1</ox:difficulty>
+                <ox:size>2.5</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-65.8390333" lat="18.1454167">
+        <time>2010-07-13T07:00:00.000Z</time>
+        <name>OX2BNAR</name>
+        <desc>UPR Humacao by JAAS666, Traditional Cache(2.7/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2BNAR</url>
+        <urlname>UPR Humacao</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2195258">
+            <groundspeak:name>UPR Humacao</groundspeak:name>
+            <groundspeak:placed_by>JAAS666</groundspeak:placed_by>
+            <groundspeak:owner id="7409">JAAS666</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Park and Grab facilito en el area de la Universidad de Puerto Rico recinto de Humacao, lo que lo hace un poco complicado es la cantidad de gente en el area.&lt;br/&gt;&lt;br/&gt;------------&lt;br/&gt;&lt;br/&gt;Very easy Park &amp; Grab near the Universdad de Puerto Rico, Humacao Campus, what makes it challenging is the ammount of people in the area.&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Espero que hayan traido su GeoCaching Toolbox.
+
+Hope you have your GeoCaching Toolbox with you.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1277138">
+                    <groundspeak:date>2011-04-03T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="7609">ShotgunPR</groundspeak:finder>
+                    <groundspeak:text encoded="False">Any news on this one?</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="424244">
+                    <groundspeak:date>2010-07-28T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4062">Pasto_Pasto</groundspeak:finder>
+                    <groundspeak:text encoded="False">Easy park &amp; grab! It would be nice if another cache is hidden inside the university.
+
+TNLNSL</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="831876">
+                    <groundspeak:date>2010-07-19T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7609">ShotgunPR</groundspeak:finder>
+                    <groundspeak:text encoded="False">Tremendo hiding spot. Lo pude sacar rápido con un &quot;soplo&quot; aunque colocarlo de vuelta fue un poco difícil por los comensales del negocio enfrente que entre botella y botella, no dejaban de observar todo lo que hacía. Volví con &quot;el mecaneo&quot; del carro y se les quitó el presentamiento y pude volver a ubicar el cache en su escondite.  Muy bueno. TFTC. </groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.7</ox:difficulty>
+                <ox:size>1.9</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-65.8838167" lat="18.1929">
+        <time>2010-07-13T07:00:00.000Z</time>
+        <name>OX2BNB4</name>
+        <desc>Sports Zone by JAAS666, Traditional Cache(2.7/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2BNB4</url>
+        <urlname>Sports Zone</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2195269">
+            <groundspeak:name>Sports Zone</groundspeak:name>
+            <groundspeak:placed_by>JAAS666</groundspeak:placed_by>
+            <groundspeak:owner id="7409">JAAS666</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Este cache esta localizado en un area donde se encuentran el Parque de Pelota Francisco Negron, hogar de los Artesanos de Las Piedras y la Pista Atletica, la cual en ocasiones es utilizada para jugar futbol.&lt;br/&gt;&lt;br/&gt;BYOP y que se diviertan.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Home Run!!!!</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="424246">
+                    <groundspeak:date>2010-07-28T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4062">Pasto_Pasto</groundspeak:finder>
+                    <groundspeak:text encoded="False">El último del &quot;jaas666 tour&quot; [:D]
+
+8/8 [^]</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="831881">
+                    <groundspeak:date>2010-07-19T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7609">ShotgunPR</groundspeak:finder>
+                    <groundspeak:text encoded="False">El clima estaba tornándose un poco hostil, pero eso no evitó que hiciera un &quot;Home RUN&quot; jejeje TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.7</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-65.8756" lat="18.1813167">
+        <time>2010-07-13T07:00:00.000Z</time>
+        <name>OX2BNBN</name>
+        <desc>Intel by JAAS666, Traditional Cache(2.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2BNBN</url>
+        <urlname>Intel</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2195286">
+            <groundspeak:name>Intel</groundspeak:name>
+            <groundspeak:placed_by>JAAS666</groundspeak:placed_by>
+            <groundspeak:owner id="7409">JAAS666</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Localizado en una de las entradas de la antigua fabrica de Intel. Hace unos años esta fabrica fue expandida, se añadio una gran cantidad de edificios adicionales y de la noche a la manana, practicamente sin estrenar los edificios, cerraron la misma.&lt;br/&gt;&lt;br/&gt;Alguien sabe que paso aqui?</groundspeak:long_description>
+            <groundspeak:encoded_hints>Esta es la antigua entrada.
+This is the old entrance.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="424252">
+                    <groundspeak:date>2010-07-28T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4062">Pasto_Pasto</groundspeak:finder>
+                    <groundspeak:text encoded="False">En este cache es imposible llevarse un DNF porque si no sabes dónde buscar todo lo que tienes que hacer es llamar. Muy original y gracioso.  </groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="831895">
+                    <groundspeak:date>2010-07-19T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7609">ShotgunPR</groundspeak:finder>
+                    <groundspeak:text encoded="False">Conozco a muchos que trabajaron ahí. Que triste se ve todo ahora. Se ve bien lúgubre el lugar. Sería bueno que volviera la actividad laboral en ese lugar, aunque eso depende de muchas otras cosas que a veces los gobiernos prefieren hacerse de la vista larga y dejar estos &quot;elefantes blancos&quot; como monolitos a la mediocridad.  TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

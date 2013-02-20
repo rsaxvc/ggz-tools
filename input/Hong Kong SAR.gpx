@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>11 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:37:42.661Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="114.2654333" lat="22.3083167">
+        <time>2012-07-17T07:51:19.000Z</time>
+        <name>OX2KTE1</name>
+        <desc>Junk Bay by vistalia, Traditional Cache(2.0/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2KTE1</url>
+        <urlname>Junk Bay</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2437531">
+            <groundspeak:name>Junk Bay</groundspeak:name>
+            <groundspeak:placed_by>vistalia</groundspeak:placed_by>
+            <groundspeak:owner id="8159">vistalia</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Formerly Junk Bay, Tseung Kwan O is a satellite town newly built in 1990s.&lt;br/&gt;&lt;br/&gt;Most of the town is built on a reclamation land. Long stretches of the natural shorelines of Junk Bay have already been lost to reclamations.&lt;br/&gt;&lt;br/&gt;The cache is hidden in the only remained shoreline in eastern Junk Bay. Residents living in the sadness concrete lands come here for leisure walk and fishing.&lt;br/&gt;&lt;br/&gt;Beside of the muggles, please take extra care of your personal safety when locating or retrieving the cache. Don’t fall yourself or drop anything into the water.&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Covered by rocks</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.1</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="114.2863667" lat="22.2813833">
+        <time>2012-07-17T07:47:22.000Z</time>
+        <name>OX3A56C</name>
+        <desc>Micro Airfield by vistalia, Traditional Cache(1.8/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3A56C</url>
+        <urlname>Micro Airfield</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3073476">
+            <groundspeak:name>Micro Airfield</groundspeak:name>
+            <groundspeak:placed_by>vistalia</groundspeak:placed_by>
+            <groundspeak:owner id="8159">vistalia</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Situated in the coast of Southern China, Hong Kong is covered with beautiful green mountains overlooking to the South China Sea. Wind coming un-obstructively from the sea can generate strong slope lift when it hits the mountain. There are many fantastic slope soaring sites scattered around the territory.&lt;br/&gt;&lt;br/&gt;GZ is by far the most popular flying site in the territory, partly because it is accessible by public transport. It is situated in eastern part of Sai Kung peninsula. The flying site is just at the road side. The surrounding scenery is one of the most attractive in Hong Kong.&lt;br/&gt;&lt;br/&gt;The best flying seasons here are autumn and winter when northeast monsoon prevails. Come here in holiday during these seasons you may able to see many radio-controlled gliders soaring in the sky. Some gliders with wheels even make use of the road as a runway for landing. All passer please follow the instruction of airfield operation commander.&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Do your push up here</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.8</ox:difficulty>
+                <ox:size>3.8</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="114.2848333" lat="22.2913833">
+        <time>2012-07-17T07:44:40.000Z</time>
+        <name>OX3GVN3</name>
+        <desc>Junk View by vistalia, Traditional Cache(1.5/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3GVN3</url>
+        <urlname>Junk View</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3272859">
+            <groundspeak:name>Junk View</groundspeak:name>
+            <groundspeak:placed_by>vistalia</groundspeak:placed_by>
+            <groundspeak:owner id="8159">vistalia</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">A detour along High Junk Peak Country Trail, the path for climbing to the cache zone is fairly steep but you can reward with the contrasting view of scenic Clearwater Bay, High Junk Peak and modern developments of Tseung Kwan O at the same time.&lt;br/&gt;&lt;br/&gt;Please beware of the steep slope when searching the cache.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Two hundred and seventy degrees of view</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="114.2960667" lat="22.2954167">
+        <time>2012-07-17T07:41:28.000Z</time>
+        <name>OX3A54N</name>
+        <desc>Junk Peak by vistalia, Traditional Cache(2.0/3.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3A54N</url>
+        <urlname>Junk Peak</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3073423">
+            <groundspeak:name>Junk Peak</groundspeak:name>
+            <groundspeak:placed_by>vistalia</groundspeak:placed_by>
+            <groundspeak:owner id="8159">vistalia</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">High Junk Peak - one of the four treacherous peaks in Hong Kong - is primary attraction of Clearwater Bay Country Park. Steep and menacing, the spur offers surprisingly peaceful vistas. This juxtaposition of wild ruggedness and bucolic charm have lured many visitors in times old and new. One poet in the Qing Dynasty wrote the Bamboo Verse to mark his journey to High Junk Peak, &quot;Hiking across Sheung Yeung Shan and Ha Yeung Shan, the encounter with High Junk made my day&quot;.&lt;br/&gt;&lt;br/&gt;Towering 344 meters above the sea, it tests hikers with a tough final ascent. On the east face of its abrupt summit, precipices plunge down to densely wooded foothills, where buttress slopes stretch all the way to Clearwater Bay and the typhoon shelter beyond. The High Junk Peak Country Trail, a hillside green walk, takes you to a lookout atop Sheung Yeung Shan. This sinuous route offers breathtaking views on both sides. The eastern view, revealing jagged cliffs of High Junk Peak, is particularly arresting. Common Melastoma (Melastoma candidum) is widely distributed in these hills. In early spring, when a burst of pink dresses nearby slopes, the formidable High Junk Peak seems almost tame.&lt;br/&gt;&lt;br/&gt;Please beware of the cliff and steep slope when searching the cache.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>see under and grab upper</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="114.2771333" lat="22.3830333">
+        <time>2012-07-17T07:36:01.000Z</time>
+        <name>OX2RPB9</name>
+        <desc>Dragon Shelter by vistalia, Traditional Cache(2.0/3.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2RPB9</url>
+        <urlname>Dragon Shelter</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2583518">
+            <groundspeak:name>Dragon Shelter</groundspeak:name>
+            <groundspeak:placed_by>vistalia</groundspeak:placed_by>
+            <groundspeak:owner id="8159">vistalia</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Sai Kung Hoi was a fishing harbour that fishermen still gather here today. The harbour is now a typhoon shelter, where motorized junks used in the local tourist trade now are moored. They are boats that now can be hired for fishing and swimming trips.&lt;br/&gt;&lt;br/&gt;Having evolved from a fishing village, it is a paradise for seafood lovers, locals and foreign tourists alike. Visitors can stroll along the waterfront of Sai Kung Town or explore the lanes of the old town.&lt;br/&gt;&lt;br/&gt;The cache is well hidden in a group of submerged rocks that is 60 meters away from the waterfront promenade. During high tide, the rocks are surrounded by sea water and it would be adviseable to go at low tide when the tide is lower than 1.0M only. Please aware of the rising tide when searching the cache.&lt;br/&gt;&lt;br/&gt;The Tidal informatin can be found at following link:&lt;br/&gt;http://www.weather.gov.hk/tide/etide_main.htm&lt;br/&gt;&lt;br/&gt;There is a small cove between the GZ and the promenade. You may able to see some dragon boats anchoring in this shelter before &quot;Dragon Boat Festival&quot; in 5th month of Chinese lunar calendar. If you are lucky to visit the cache site during the days of &quot;Dragon Boat Festival&quot;, please take more pictures to this derby and share with us.&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Hidden in a rock crevices, root</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="114.1706833" lat="22.3151667">
+        <time>2010-12-28T14:16:01.000Z</time>
+        <name>OX1P7F2</name>
+        <desc>Rambler Zone by kinglee, Traditional Cache(3.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX1P7F2</url>
+        <urlname>Rambler Zone</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1586117">
+            <groundspeak:name>Rambler Zone</groundspeak:name>
+            <groundspeak:placed_by>kinglee</groundspeak:placed_by>
+            <groundspeak:owner id="9156">kinglee</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Nearby MongKok(Wikipedia) is the happening place in Hong Kong! All your needs in leisure, food and shopping are all in this little area. However, depending on the time of the attempt, the difficulty rating will vary. You will surely find rambling muggles, hordes of them watching you. Be warned.&lt;br /&gt;&lt;br /&gt;The area has only one legitimate entrance and opens from 0700-2300hrs daily. You may also get to experience an &quot;odour&quot; treat if the wind direction is apt. But no smoking please.&lt;br /&gt;&lt;br /&gt;The container only has a logbook and it can be opened by just squeezing lightly on both of the longer ends. No prying needed but do be gentle with it.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Take a seat on the 2nd bench and TIE YOUR SHOELACE.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1753950">
+                    <groundspeak:date>2012-02-24T10:28:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="91303">EVEREST349</groundspeak:finder>
+                    <groundspeak:text encoded="False">Got it at my 2nd attempt, cool container! 
+via OpenCaching Android app</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1598076">
+                    <groundspeak:date>2011-10-03T16:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="63775">Lammerite</groundspeak:finder>
+                    <groundspeak:text encoded="False">TFTC!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1700114">
+                    <groundspeak:date>2011-06-29T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="11109">plop_____</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found it on a rainy day. There were a few old people sitting around, but they had been hiding behind umbrellas and so posed no threat.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1344004">
+                    <groundspeak:date>2011-06-28T16:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="11109">plop_____</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1005122">
+                    <groundspeak:date>2011-01-08T12:53:50.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4876">moloi</groundspeak:finder>
+                    <groundspeak:text encoded="False">TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>1.6</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="113.956" lat="22.2563">
+        <time>2011-01-06T03:34:01.000Z</time>
+        <name>OX2G0ZR</name>
+        <desc>Tai Tung Shan (Sunset Peak) by moloi, Traditional Cache(3.4/3.9/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2G0ZR</url>
+        <urlname>Tai Tung Shan (Sunset Peak)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2324652">
+            <groundspeak:name>Tai Tung Shan (Sunset Peak)</groundspeak:name>
+            <groundspeak:placed_by>moloi</groundspeak:placed_by>
+            <groundspeak:owner id="4876">moloi</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">My first National Day Cache. The cache is only enough space for a logbook. Please bring your own writing tools and return the cache to original position after retrieving. A small cache here is all because of the historical issue of another cache nearby.&lt;br/&gt;&lt;br/&gt;Tai Tung Shan (Sunset Peak) is one of my favorite mountains on Lantau Island in Hong Kong. I love to climb up from Wong Lung Hang Country Trail, all the way up to 770m to Lautau Mountain Camp (Nan Tau Ying, Ying in Chinese means camp site) and have a coffee break there. You will surely love the scene there.&lt;br/&gt;If you find climbing up to 770m is too tough to you. You may consider to take New Lantau Bus #3 or #23 and get off at Pak Kung Au. You will save 490m.&lt;br/&gt;&lt;br/&gt;The last alternative is to go up from Nam Shan and start from Mui Wo. You can take New Lautau Bus #3 from Tung Chung or ferry from Central Pier to Mui Wo.&lt;br/&gt;&lt;br/&gt;Of course, there still have many other routes that can lead you to GZ, but not recommended here. If you want to know or even try, you may contact me. &lt;br/&gt;&lt;br/&gt;Remark *** Anyone who enjoys a peaceful and quiet retreat will definitely like the Lantau Mountain Camp, at about 770 meter elevation of Sunset Peak (869 meter). The camp provides 20 small stone houses, which were built before World War II as a rest haven for the British colony's Christian missionaries taking time off from their work in China. The houses are available for rent by civilians who book in advance.&lt;br/&gt;(some information copy from hongkongdotcom)</groundspeak:long_description>
+            <groundspeak:encoded_hints>Camouflaged, under a big rock</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1382781">
+                    <groundspeak:date>2011-07-27T10:06:25.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="48265">quannd</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.4</ox:difficulty>
+                <ox:size>3.1</ox:size>
+                <ox:terrain>3.9</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="114.1812" lat="22.2992333">
+        <time>2010-12-28T14:12:25.000Z</time>
+        <name>OX27PYP</name>
+        <desc>Cosco by kinglee, Traditional Cache(1.7/1.5/3.1)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX27PYP</url>
+        <urlname>Cosco</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2077642">
+            <groundspeak:name>Cosco</groundspeak:name>
+            <groundspeak:placed_by>kinglee</groundspeak:placed_by>
+            <groundspeak:owner id="9156">kinglee</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is a part of a long and easy Hong Kong main attraction(Ave of Stars; (visit link) walkway to see the good and the ugly of the Harbor. You will find pet dogs along this section and enjoy the nice view along the rest of the way.&lt;br /&gt;&lt;br /&gt;Visit during office hours if you want to see some interesting loading/unloading of Cosco!.&lt;br /&gt;Visit at 8pm and you can catch a glimpse of the &quot;A Symphony of Lights&quot; laser show. (visit link)&lt;br /&gt;&lt;br /&gt;Do not attempt this section on a very windy day!&lt;br /&gt;&lt;br /&gt;Cache is camouflaged and hidden while you have no where to hide from muggles.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Have a crack at it!</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1598077">
+                    <groundspeak:date>2011-10-03T16:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="63775">Lammerite</groundspeak:finder>
+                    <groundspeak:text encoded="False">TFTC!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1386953">
+                    <groundspeak:date>2011-08-01T11:31:24.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="25551">Hilmy</groundspeak:finder>
+                    <groundspeak:text encoded="False">Took me ages to find it but finaly i made it :-)
+I went there 3 times till i had it. But actualy it was prety simple. The thingwith the muggles confused me. But the crack was prety helpfull. Havefun withthis cache.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1255745">
+                    <groundspeak:date>2011-05-25T04:11:49.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="23651">GeoJ2T</groundspeak:finder>
+                    <groundspeak:text encoded="False">TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="997940">
+                    <groundspeak:date>2011-01-06T03:27:11.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4876">moloi</groundspeak:finder>
+                    <groundspeak:text encoded="False">TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.1</ox:awesomeness>
+                <ox:difficulty>1.7</ox:difficulty>
+                <ox:size>1.5</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="114.1715333" lat="22.29395">
+        <time>2010-12-28T14:36:01.000Z</time>
+        <name>OXZTXKG</name>
+        <desc>Art of Cultural Space by Agito, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTXKG</url>
+        <urlname>Art of Cultural Space</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477918">
+            <groundspeak:name>Art of Cultural Space</groundspeak:name>
+            <groundspeak:placed_by>Agito</groundspeak:placed_by>
+            <groundspeak:owner id="9159">Agito</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">What is &quot;Art of Cultural Space&quot;? Because the cache is hidden between: &lt;br/&gt;- The Hong Kong Museum of Art, founded in 1962, was formerly known as the City Museum and Art Gallery. It aims to preserve the cultural heritage of China and promote art with a local focus. In 1991, it opened its doors at the current Tsim Sha Tsui Premises.&lt;br/&gt;&lt;br/&gt;- The Hong Kong Cultural Centre marked a new era in the development of the performing arts of all variety in Hong Kong. The foundation stone was laid in 1979, construction works started in 1984 and the building completed in 1989. Since its grand opening on 8 November 1989, the Cultural Centre has remained the premier cultural venue offering stimulating environment for arts talents and quality programmes to the public.&lt;br/&gt;&lt;br/&gt;- The Hong Kong Space Museum , the main local institution aimed at popularising astronomy and space science, was officially opened in October 1980. Its unique egg-shaped dome has become a striking landmark of the City.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1598078">
+                    <groundspeak:date>2011-10-03T16:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="63775">Lammerite</groundspeak:finder>
+                    <groundspeak:text encoded="False">TFTC!!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="945992">
+                    <groundspeak:date>2010-12-30T12:01:02.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4876">moloi</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found it, TFTC.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="114.1509833" lat="22.2821833">
+        <time>2010-12-28T14:17:57.000Z</time>
+        <name>OX20XD4</name>
+        <desc>Dr S by kinglee, Traditional Cache(1.5/1.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX20XD4</url>
+        <urlname>Dr S</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1874357">
+            <groundspeak:name>Dr S</groundspeak:name>
+            <groundspeak:placed_by>kinglee</groundspeak:placed_by>
+            <groundspeak:owner id="9156">kinglee</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This location is all about Dr &quot;S&quot;. You can learn about a legendary person who had done great things to this land.. and beyond....&lt;br/&gt;&lt;br/&gt;You will find yourselves standing outside the wall of a building of great historical value. To enter this building to enjoy what is within, you will have a pay a small fee unless its Wednesday. All possible if it is between 10am and 7pm.&lt;br/&gt;&lt;br/&gt;Opening Hours&lt;br/&gt;&lt;br/&gt;Monday to Wednesday and Friday to Saturday: 10:00 am to 6:00 pm&lt;br/&gt;Sunday and Public Holidays: 10:00 am to 7:00 pm&lt;br/&gt;Closed at 5:00 pm on Christmas Eve and Lunar New Year's Eve&lt;br/&gt;Closed on Thursday (except Public Holidays, the anniversaries of Dr S's birth (12 November) and death (12 March)) and on the first two days of Lunar New Year&lt;br/&gt;&lt;br/&gt;The cache is well hidden in the free of charge zone. Please keep off the sloping road as vehicles in this land tends to perform careless deeds.</groundspeak:long_description>
+            <groundspeak:encoded_hints>scratch your knee </groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1598079">
+                    <groundspeak:date>2011-10-03T16:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="63775">Lammerite</groundspeak:finder>
+                    <groundspeak:text encoded="False">TFTC!!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="945990">
+                    <groundspeak:date>2010-12-30T11:58:39.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4876">moloi</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found It. </groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>1.6</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="114.1519833" lat="22.2752333">
+        <time>2010-12-28T14:03:12.000Z</time>
+        <name>OX20Q1F</name>
+        <desc>Mid Peak by kinglee, Traditional Cache(1.5/2.5/2.9)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX20Q1F</url>
+        <urlname>Mid Peak</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1869191">
+            <groundspeak:name>Mid Peak</groundspeak:name>
+            <groundspeak:placed_by>kinglee</groundspeak:placed_by>
+            <groundspeak:owner id="9156">kinglee</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">At the start of a series of steep slopes up to the peak and down to Mid-levels. This is the space in between. Its neither here nor there.&lt;br /&gt;&lt;br /&gt;If you had made it to GZ after navigating the roads leading here, you deserve to log this cache.&lt;br /&gt;&lt;br /&gt;There will be some muggles despite the position of this trail. Beware of dog poo/pee that those muggles brought along...&lt;br /&gt;&lt;br /&gt;The cache container only has room for tiny swaps but you will have to bring your own writing tools.&lt;br /&gt;&lt;br /&gt;To get to GZ, you will either had walked a great deal of slopes/steps and is prepared to walk the same on your return trip. A sign will say it takes 30mins up to the peak, but it didn't say that it will be a painful up-slope climb. 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>1 of the 2</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1728002">
+                    <groundspeak:date>2012-01-11T16:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="85034">Toshiake</groundspeak:finder>
+                    <groundspeak:text encoded="False">Swapped a marble for a HKD0.10 piece.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1598080">
+                    <groundspeak:date>2011-10-03T16:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="63775">Lammerite</groundspeak:finder>
+                    <groundspeak:text encoded="False">TFTC!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1242036">
+                    <groundspeak:date>2011-05-10T07:08:50.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="20698">Rokeer</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="945991">
+                    <groundspeak:date>2010-12-30T12:00:04.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4876">moloi</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found it. TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

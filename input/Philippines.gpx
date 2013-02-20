@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>2 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:38:12.248Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="120.86605" lat="14.0769">
+        <time>2012-05-20T10:51:26.000Z</time>
+        <name>OXZTJ3W</name>
+        <desc>Three in One. by bestvue, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTJ3W</url>
+        <urlname>Three in One.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28467823">
+            <groundspeak:name>Three in One.</groundspeak:name>
+            <groundspeak:placed_by>bestvue</groundspeak:placed_by>
+            <groundspeak:owner id="89174">bestvue</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Cache is called Three in One and nothing to do with the Coffee variety. But because by placing one cache I've covered 3 bases.&lt;br/&gt;1. Open caching&lt;br/&gt;2. A Munzee&lt;br/&gt;3. A Geocache&lt;br/&gt;The cache is located in a Hotel specifically in the associated Italian Restaurant called &quot;Il Gallo Nero&quot; The restaurant is open from 11 am to 9 pm from Sunday to Thursday, and 11 am to 10 pm on Fridays and Saturdays. Which is the only time the cache can be available.&lt;br/&gt;Even if you don't eat it's a cool place to have a quiet drink or three.&lt;br/&gt;N14 04.614 E120 51.959</groundspeak:long_description>
+            <groundspeak:encoded_hints>If you can't see it just ask</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>El-Callo-Nero2.jpg</ox:name>
+                    <ox:size>65202</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>El-Callo-Nero.jpg</ox:name>
+                    <ox:size>36146</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="120.569133" lat="14.382767">
+        <time>2010-04-25T07:00:00.000Z</time>
+        <name>OX27Y9R</name>
+        <desc>Big Guns by bestvue, Traditional Cache(3.0/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX27Y9R</url>
+        <urlname>Big Guns</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2083751">
+            <groundspeak:name>Big Guns</groundspeak:name>
+            <groundspeak:placed_by>bestvue</groundspeak:placed_by>
+            <groundspeak:owner id="89174">bestvue</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">A small Nano (BYOP) hidden on a big Gun.
+ &lt;br /&gt;&lt;br /&gt; Gibraltar of the East
+&lt;p&gt;Corregidor,&lt;/p&gt;
+&lt;p&gt;officially named Fort Mills, was the largest of four fortified
+islands protecting the mouth of Manila Bay from attack and was
+fortified prior to World War I with powerful coastal artillery.&lt;/p&gt;
+
+&lt;p&gt;At 3.5 miles (5.6 km) long and 1.5 miles (2.4 km) across at its
+head, the tadpole-shaped island lay two miles (3 km) from Bataan.
+Its widest but elevated area, known as Topside, contained most of
+its 56 coastal artillery pieces and installations. Middleside was a
+small plateau containing more battery positions as well as
+barracks. Bottomside was the low ground where a dock area and the
+civilian town of San Jose was located. American servicemen
+alternately dubbed it as &quot;The Rock&quot; or the &quot;Gibraltar of the East&quot;,
+in comparison to the peninsular fortress that guards the main
+entrance to the Mediterranean Sea between Europe and Africa. The
+tunnel system under Malinta Hill was the most extensive
+construction on Corregidor. It consisted of a main east-west
+passage 826 feet (252 m) long with a 24 foot (7.6 m) diameter and
+had 25 lateral passages, each about 400 feet (120 m) long,
+branching out at regular intervals from each side of the main
+passage. A separate system of tunnels north of this main tunnel
+housed the underground hospital and had its own 12 laterals and
+space for 1,000 beds. The facility could be reached either through
+the main tunnel or by a separate outside entrance on the north side
+of Malinta Hill. The Navy tunnel system, which lay opposite the
+hospital, under the south side of Malinta was connected to the main
+tunnel by a partially completed low passageway through the
+quartermaster storage lateral. East of this was Malinta Tunnel,
+location of Gen.Douglas MacArthur's headquarters. Reinforced with
+concrete walls, floors, and overhead arches, blowers to furnish
+fresh air, and a double-track electric tramway line along the
+east-west passage, the Malinta Tunnel furnished bombproof shelter
+for the hospital, headquarters, and shops, as well as a maze of
+underground storehouses.&lt;/p&gt;
+&lt;p&gt;More at http://en.wikipedia.org/wiki/Battle_of_Corregidor&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://flagcounter.com/more/RZ4&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.wunderground.com/cgi-bin/findweather/getForecast?query=Manila,%20PH&quot;&gt;
+&lt;/a&gt;&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Big Barrels pivot here - Not the road side</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>BG-Spoiler.jpg</ox:name>
+                    <ox:size>46698</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Bang.jpg</ox:name>
+                    <ox:size>71053</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+</gpx>

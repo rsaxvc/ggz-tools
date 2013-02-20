@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>23 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:37:27.935Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="24.035289" lat="54.405253">
+        <time>2012-08-06T07:00:00.000Z</time>
+        <name>OX3T2DZ</name>
+        <desc>Medelynas by VejasPink, Traditional Cache(1.0/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3T2DZ</url>
+        <urlname>Medelynas</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3517693">
+            <groundspeak:name>Medelynas</groundspeak:name>
+            <groundspeak:placed_by>VejasPink</groundspeak:placed_by>
+            <groundspeak:owner id="137902">VejasPink</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">{LTU} &lt;br/&gt;Paprasta geoslėptuvė. Niekuo neįpatinga paslėpimo vieta, pati slėptuvė irgi paprasta. Sukurta pradedantiesiems.&lt;br/&gt;{ENG}&lt;br/&gt;Simple one. Nothing special about hiding place or cache itself. Created for beginners.&lt;br/&gt;&lt;br/&gt;{LTU} &lt;br/&gt;Lengva pasiekti tiek pėsčiomis, tiek dviračiu, tiek ir motoriniu transportu. Nenutolusi nuo miesto centro. Greitai randama.&lt;br/&gt;Sėkmės :)&lt;br/&gt;{ENG}&lt;br/&gt;Easy to reach on foot, by bike or motor vehicle. Not far from city center. Quickly discoverable.&lt;br/&gt;Good luck :) </groundspeak:long_description>
+            <groundspeak:encoded_hints>{LTU} Apsuptas surudijusio metalo {ENG} Surrounded by rusty metal</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2046974">
+                    <groundspeak:date>2012-08-11T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="75165">Shokas</groundspeak:finder>
+                    <groundspeak:text encoded="False">Greitai ir nesunkiai radom:)
+Aciu</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="24.039997" lat="54.425683">
+        <time>2012-08-01T07:00:00.000Z</time>
+        <name>OX3RQWD</name>
+        <desc>MedUpevilnėslis by VejasPink, Traditional Cache(3.0/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3RQWD</url>
+        <urlname>MedUpevilnėslis</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3508500">
+            <groundspeak:name>MedUpevilnėslis</groundspeak:name>
+            <groundspeak:placed_by>VejasPink</groundspeak:placed_by>
+            <groundspeak:owner id="137902">VejasPink</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">{LTU}&lt;br/&gt;DĖMESIO: ŠIOJE SLĖPTUVĖJE - TIK LIETUVIŠKAS APRAŠYMAS.&lt;br/&gt;Geoslėptuvė padėta netoli Nemuno kranto. &lt;br/&gt;&lt;br/&gt;{ENG}&lt;br/&gt;ATTENTION: ONY LITHUANIAN DESCRIPTION IN THIS CACHE. &lt;br/&gt;Geocache is placed near the bank of river Nemunas.&lt;br/&gt;&lt;br/&gt;Bus geriau jei turėsite su savimi žibintuvėlį&lt;br/&gt;Jei vykstate ten po stipraus lietaus turėkite guminius batus&lt;br/&gt;It's better to have a flashlight&lt;br/&gt;If you are going there after heavy rainfall take rubber boots</groundspeak:long_description>
+            <groundspeak:encoded_hints>{LTU} Tamsi vieta. Siena. Lubos. {ENG} Dark place. Wall. Ceiling.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2046962">
+                    <groundspeak:date>2012-08-11T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="75165">Shokas</groundspeak:finder>
+                    <groundspeak:text encoded="False">Teko brautis per miskeli ir zolynus, is blogos puses privaziavom:D
+Aciu</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="24.035967" lat="54.430636">
+        <time>2012-08-04T07:00:00.000Z</time>
+        <name>OX3RY76</name>
+        <desc>Alytus: northern fortification by VejasPink, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3RY76</url>
+        <urlname>Alytus: northern fortification</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3513639">
+            <groundspeak:name>Alytus: northern fortification</groundspeak:name>
+            <groundspeak:placed_by>VejasPink</groundspeak:placed_by>
+            <groundspeak:owner id="137902">VejasPink</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">{LTU}&lt;br/&gt;Istorinė vieta: Alytaus I ir II fortai&lt;br/&gt;&lt;br/&gt;{ENG}&lt;br/&gt;Historical place: Alytus I and II forts&lt;br/&gt;(only LTU text in this cache, sorry)&lt;br/&gt;&lt;br/&gt;{LTU}&lt;br/&gt;&lt;br/&gt;Geoslėptuvė skirta supažindinti su buvusiais Alytaus šiaurinės dalies gynibiniais įtvirtinimais.&lt;br/&gt;&lt;br/&gt;Teritorijoje auga nešienauta labai aukšta žolė. Apsirenkite tinkamai.&lt;br/&gt;&lt;br/&gt;Geoslėptuvė įrengta po atsilupusia pušies žieve, būkite atsargūs ir nenuplėškite jos.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="2046971">
+                    <groundspeak:date>2012-08-11T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="75165">Shokas</groundspeak:finder>
+                    <groundspeak:text encoded="False">Tikejomes kazko idomaus, bet pasirodo ten nieko nera :(
+Anywa, aciu uz lobi :)</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Historic site</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="24.011783" lat="54.4009">
+        <time>2012-08-08T07:00:00.000Z</time>
+        <name>OX3TP7J</name>
+        <desc>Panorama by VejasPink, Multi-cache(3.0/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3TP7J</url>
+        <urlname>Panorama</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="3536715">
+            <groundspeak:name>Panorama</groundspeak:name>
+            <groundspeak:placed_by>VejasPink</groundspeak:placed_by>
+            <groundspeak:owner id="137902">VejasPink</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">{LTU} &lt;br/&gt;Geoslėptuvių užduočių kompleksas.&lt;br/&gt;&lt;br/&gt;{ENG} Geocache tasks group.&lt;br/&gt;&lt;br/&gt;(created for LTU cachers)&lt;br/&gt;&lt;br/&gt;{LTU} &lt;br/&gt;Geoslėptuvių užduočių kompleksas. Patogiausia pėsčiomis arba dar geriau - dviračiu. Reikia turėti GPS į kurį galima įvesti koordinates arba teks naudotis internetiniais žemėlapiais (pvz: Google EARTH). Reikalingas žibintuvėlis. Geriau su savimi turėti fotoaparatą.&lt;br/&gt;&lt;br/&gt;{ENG} Geocache tasks group. Use bike or just walk. You should have GPS with manual coordinates entering function (or use online maps like Google EARTH). Flaslight required. It's better to have photocamera with you.</groundspeak:long_description>
+            <groundspeak:encoded_hints>{LTU} PEACE, arba kam Jezui reikalinga elektra?! {ENG} PEACE, or why Jesus needs electricity?!</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="24.034617" lat="54.391006">
+        <time>2012-08-01T07:00:00.000Z</time>
+        <name>OX3RR00</name>
+        <desc>E.M.O by VejasPink, Traditional Cache(1.5/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3RR00</url>
+        <urlname>E.M.O</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3508611">
+            <groundspeak:name>E.M.O</groundspeak:name>
+            <groundspeak:placed_by>VejasPink</groundspeak:placed_by>
+            <groundspeak:owner id="137902">VejasPink</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">{LTU}&lt;br/&gt;Mikrolobis. Urbanizuota teritorija.&lt;br/&gt;&lt;br/&gt;{ENG}&lt;br/&gt;Microcache. Urban territory.&lt;br/&gt;&lt;br/&gt;{LTU}&lt;br/&gt;Mikrolobis 35 mm juostelės dėžutėje. Reikalingas pieštukas apsilankymų sąrašo pildymui. Vieta nuošali, būkite atsargūs.&lt;br/&gt;&lt;br/&gt;PERSPĖJIMAS: ŠI SLĖPTUVĖ YRA PADĖTA VIRŠ ŽEMĖS, APLEISTOJE STRUKTŪROJE. EINATE TEN SAVA RIZIKA! ĮSITIKINKITE JOG TEN EITI LEGALU. NELIPKITE JEI NESATE TIKRAS, KAD TAI SAUGU!&lt;br/&gt;&lt;br/&gt;{ENG}&lt;br/&gt;Microcache in 35mm film canister. Need pencil for logbook registration. This place is quite secluded, be careful.&lt;br/&gt;&lt;br/&gt;WARNING: THIS CACHE IS PLACED IN ABANDONED STRUCTURE OVER GROUND SURFACE. YOU ARE GOING THERE AT YOUR OWN RISK! MAKE SURE IT IS LEGAL TO GO THERE. DO NOT CLIMB IF YOU ARE NOT SURE IT IS SAFE! </groundspeak:long_description>
+            <groundspeak:encoded_hints>{LTU} Kabantis virš EMO merginos. KAIRE puse {ENG} Hanging over EMO girl. LEFT side</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2046964">
+                    <groundspeak:date>2012-08-11T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="75165">Shokas</groundspeak:finder>
+                    <groundspeak:text encoded="False">Patiko emo girl ir aplink augantys obuoliai su kraisem :)
+Terrainas klaidinantis, kadangi reikia lipti, turetu buti bent jau 2 ar daugiau.
+Aciu</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="24.004728" lat="54.429364">
+        <time>2012-08-01T07:00:00.000Z</time>
+        <name>OX3RQVJ</name>
+        <desc>AENSK by VejasPink, Traditional Cache(2.5/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3RQVJ</url>
+        <urlname>AENSK</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3508474">
+            <groundspeak:name>AENSK</groundspeak:name>
+            <groundspeak:placed_by>VejasPink</groundspeak:placed_by>
+            <groundspeak:owner id="137902">VejasPink</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">{LTU}&lt;br/&gt;Ši slėptuvė atstovauja Alytaus apleistą pramonės rajoną. Jei domitės sovietine architektūra - ši vieta skirta kaip tik Jums. &lt;br/&gt;&lt;br/&gt;{ENG}&lt;br/&gt;This cache represents Alytus city abandoned industrial area. If You are interested in soviet architecture - this place is perfect for You.&lt;br/&gt;&lt;br/&gt;{LTU}&lt;br/&gt;Geoslėptuvė yra padėta fontane šalia dalinai apleistos gamyklos. Norint pasiekti šią slėptuvę Jums gali prireikti šiokių tokių laipiojimo įgūdžių. Jei esate žemas - gali praversti kopėčios.&lt;br/&gt;Geriau ieškoti šios slėptuvės kai aplinkinės įmionės yra uždarytos. Spėju, kad geriausias laikas yra tarp 19:00 iki 07:00 valandų.&lt;br/&gt;Aš labai rekomenduoju kartu su savimi pasiimti draugą, jei prireiktų pagalbos.&lt;br/&gt;Nerekomenduočiau ten eiti po stipraus lietaus.&lt;br/&gt;Fotoaparatas nėra būtinas, bet geriau jį turėti.&lt;br/&gt;PERSPĖJIMAS: ŠI SLĖPTUVĖ YRA PADĖTA APLEISTOJE STRUKTŪROJE. EINATE TEN SAVA RIZIKA! ĮSITIKINKITE JOG TEN EITI LEGALU.&lt;br/&gt;&lt;br/&gt;{ENG}&lt;br/&gt;Geocache is placed in fountain near partly abandoned facility. Reaching this cache requires some climbing skills. Ladder might be useful if You are short. &lt;br/&gt;It is better to go for this cache in hours then companies around this place are closed. I guess best time is from 7 pm to 7 am.&lt;br/&gt;I strongly recommend to have frend going there in case You need some help. &lt;br/&gt;I wouldn't recommend to go there after heavy rainfall.&lt;br/&gt;Photocamera is not necessary, but it's better to have it.&lt;br/&gt;WARNING: THIS CACHE IS PLACED IN ABANDONED STRUCTURE. YOU ARE GOING THERE AT YOUR OWN RISK! MAKE SURE IT IS LEGAL TO GO THERE.</groundspeak:long_description>
+            <groundspeak:encoded_hints>{LTU} Aukšciausiame žiede {ENG} In the highest bloom</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2046958">
+                    <groundspeak:date>2012-08-11T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="75165">Shokas</groundspeak:finder>
+                    <groundspeak:text encoded="False">Pasilaipiojom:)
+Aciu</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="24.005017" lat="54.37325">
+        <time>2012-08-18T07:00:00.000Z</time>
+        <name>OX3V22H</name>
+        <desc>Radžiūnai mound by VejasPink, Traditional Cache(2.0/2.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3V22H</url>
+        <urlname>Radžiūnai mound</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3547130">
+            <groundspeak:name>Radžiūnai mound</groundspeak:name>
+            <groundspeak:placed_by>VejasPink</groundspeak:placed_by>
+            <groundspeak:owner id="137902">VejasPink</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">{LTU}&lt;br/&gt;Slėptuvė padėta Vidzgirio botaniniame rezervate ant Nemuno kranto.&lt;br/&gt;&lt;br/&gt;{ENG} &lt;br/&gt;Cache placed in Vidzgiris botanical reserve on the bank of river Nemunas.&lt;br/&gt;&lt;br/&gt;{LTU}&lt;br/&gt;Radžiūnų piliakalnis stūkso Nemuno kairiajame krante, prie nuostabių Kirmijos upelio šlaitų, pačiame Vidzgirio botanikos draustinyje, kuris garsus ne tik ypatinga augalų įvairove, bet ir istorinėmis vietomis. Iki piliakalnio veda įrengtas  pėsčiųjų ekologinis mokomasis takas.&lt;br/&gt;Netoli piliakalnio yra įsikūręs nuotykių parkas „Tarzanija&quot;.&lt;br/&gt;&lt;br/&gt;{ENG}&lt;br/&gt;The mound of Radziunai is located on the left bank of Nemunas River, next to slopes of the wonderful Kirmija brook, in the botanical sanctuary of Vidzgiris. The sanctuary is famous not only for its diverse plants but also for historical places. There is a pedestrian ecological path leading tourists to the mound.&lt;br/&gt;&lt;br/&gt;{RUS}&lt;br/&gt;Городище Раджюнай (ущё называемое Пилайте) - археологический памятник, история которого уходит в XIII в. С вершины городища открывается удивительный вид на долину Нямунаса, притягивающий отдыхающих. Для них у подножья городища оборудовано место для отдыха.&lt;br/&gt;&lt;br/&gt;{FR} &lt;br/&gt;La colline du château de Radziūnai (appelé Pilaitė) est un monument archéologique, dont l'histoire remonte au XIII siècle. Il offre un paysage merveilleux de la vallée du Niémen, qui attire les excursionnistes. Un endroit pour faire du feu est spécialement installé pour eux au pied de cette colline.</groundspeak:long_description>
+            <groundspeak:encoded_hints>{LTU} Tamsoje tarp dvieju {ENG} In the darkness between two</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="20.97825" lat="55.293633">
+        <time>2012-08-14T07:00:00.000Z</time>
+        <name>OX3TPH7</name>
+        <desc>Nida gliding school by VejasPink, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3TPH7</url>
+        <urlname>Nida gliding school</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3537014">
+            <groundspeak:name>Nida gliding school</groundspeak:name>
+            <groundspeak:placed_by>VejasPink</groundspeak:placed_by>
+            <groundspeak:owner id="137902">VejasPink</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">{LTU} mikro&lt;br/&gt;&lt;br/&gt;{ENG} micro&lt;br/&gt;&lt;br/&gt;{LTU}&lt;br/&gt;Geoslėptuvė paslėpta buvusios Nidos skalndymo mokyklos teritorijoje. Plačiau apie šios vietos istoriją: &lt;br/&gt;Nidos sklandymo mokykla veikė 1933–1939 m.&lt;br/&gt;Kauno apylinkių Pažaislio kalvos jau nebetenkino sklandytojų, todėl 1933 m. sklandymo mokykla buvo perkelta į Nidą, kur aukštos kopos, ir pučiant rytų vėjui, susidaro tinkamas skriejimui šlaito antvėjis. Atvykę sklandytojai savo jėgomis montavo angarą, statė valgyklą, mokyklos pastatą. Sklandymo mokyklos auklėtiniai naudodavosi tuo metu aukščiausia Kuršių nerijoskopa, kuri dabar ir vadinasi Sklandytojų kopa. Ji yra antra kopa už Parnidžio kopos Kaliningrado srities link. Čia buvo pagrindinėLietuvos sklandytojų vasaros stovyklavietė.&lt;br/&gt;1933 m. rugpjūčio 30 d. mokyklos instruktorius Gregoras Heidrikis pasiekė pirmąjį Lietuvos išsilaikymo ore rekordą. Jis be nusileidimo skriejo 3 val. 10 min. O 1933 m. rugsėjo 3 d. Nidos sklandymo mokykla buvo oficialiai atidaryta. Po dešimties dienų, pučiant rytų vėjui, Bronius Oškinis sklandytuvu T-1 įvykdė ”C” piloto normatyvus. Tuo būdu jis tapo pirmas šį piloto vardą įgijęs Lietuvoje.&lt;br/&gt;1935 m. birželio 5 d. naudodamasis audros frontu sklandytojas Jonas Pyragius atliko pirmąjį perskridimą – sklandytuvu iš Nidos įPalangą (75 km).&lt;br/&gt;1979 m. ant buvusio angaro pamatų pastatyta arka, žyminti buvusios sklandymo mokyklos vietą. 1998 m., pažymint sklandymo mokyklos 65 metų jubiliejų, atidengtas paminklinis akmuo lietuvių ir vokiečių sklandytojams. Buvusią sklandymo mokyklos vietą galima pasiekti pasukus nuo kelio, vedančio link Parnidžio kopos.&lt;br/&gt;(Šaltinis: http://lt.wikipedia.org/wiki/Nidos_sklandymo_mokykla)&lt;br/&gt;Dar apie mokyklą: http://www.neringoje.lt/sklandymo.htm&lt;br/&gt;Slėptuvė yra mikrokonteineris su logbook'u ir pieštuku.&lt;br/&gt;{ENG}&lt;br/&gt;Geocache is placed in memorial of former Nida gliding school.&lt;br/&gt;The Gliding School was functioning in 1933 – 1939; here was the basic summer camping place for Lithuanian gliders. In 1979, on the former hangar basement the ark, signifying the location of the former Gliding School, is constructed. In 1998, celebrating the 65 year jubilee of the Gliding School, the monumental stone for Lithuanian and German gliders was unveiled. One can reach the famous location of Gliding School by making a turn from the path leading towards the Dune of Parnidis.&lt;br/&gt; &lt;br/&gt;(Source: http://www.visitneringa.com/en/main/relaxation/museums/monumentstonenida)&lt;br/&gt; &lt;br/&gt;Cache is micro size container with logbook and pencil.</groundspeak:long_description>
+            <groundspeak:encoded_hints>{LTU} angaro pamatas {ENG} fundament of hangar</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Historic site</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="25.0414167" lat="54.6585">
+        <time>2012-08-01T07:38:13.000Z</time>
+        <name>OXZTE0K</name>
+        <desc>Getting to know Lentvaris park by iconoclast_2P, Multi-cache(3.0/2.3/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTE0K</url>
+        <urlname>Getting to know Lentvaris park</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="28463878">
+            <groundspeak:name>Getting to know Lentvaris park</groundspeak:name>
+            <groundspeak:placed_by>iconoclast_2P</groundspeak:placed_by>
+            <groundspeak:owner id="138654">iconoclast_2P</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Lentvario gyvenviete istorijos šaltiniuose minima dar Kryžiuociu ordino kronikose. Parkas suklestejo tik XIX a. pabaigoje, kai dvara paveldejo grafas Vladislovas Tiškevicius (prieš tai dvaras priklause jo tevui Juozapui Tiškeviciui). Naujojo savininko iniciatyva ir lešomis buvo perstatyti rumai, kurie igavo neogotikines formas, (architektas Waeg’as). Pati parko teritorija užimanti daugiau nei 20 hektaru ploto, buvo suprojektuota žymaus prancuzu landšafto architekto Eduardo Fransua Andre (Édouard François André, 1840–1911). Šio talentingo kurejo deka Lentvario dvaro parkas išsiskiria iš kitu Lietuvos parku. Cia galima rasti ispudinga vandenu sistema, besijungiancia tvenkiniais ir upeliais, kriokliais. Parkas pasižymi unikalia Lietuvoje taku sistema - akmeniniais laiptais. Parko erdves imituoja kalnu kraštovaizdi, taciau del vietoves reljefiškumo - kalvotumo, atrodo naturaliai, cia gausu dirbtiniu uolu, daug akmenu, yra grota ir akmeniniai pakeliu suoliukai, betoniniai medžiu kelmai. Iš istoriniu šaltiniu yra žinoma, kad Tiškeviciu laikais parkas klestejo, cia vyko kulturinis gyvenimas, grafai augino daug žirgu, taip pat isteige viniu fabrika.&lt;br/&gt;&lt;br/&gt;P.S. Pagrindinis lobis yra susipažinimas su parku, tad neskubekite keliaudami iš lobio etapo i etapa ir skirkit laiko apsižvalgymui. Taigi mes prašome apsilankymo log'e pasidalinti, jums labiausiai patikusios vietos šiame parke, nuotrauka.&lt;br/&gt;&lt;br/&gt;[EN] ABOUT LENTVARIS MANOR WITH PARK&lt;br/&gt;&lt;br/&gt;Lentvaris settlement in historical source is mentioned even in chronicles of the Teutonic Order. But Park flourished only in the end of XIX century, when manor was inherited by earl Wladyslaw Tyszkiewicz (befor him it belonged to his father Joseph Tyszkiewicz). By initiative and funds of new owner the mansion was rebuild and acquired neogothic forms (by architect Weag). The territory of park is 20 ha, and where designed by famous French landscaping architect Eduard Fransua Andre (Édouard François André, 1840–1911). Thanks to this talented creator, Lentvaris Manor Park is exclusive comparing with other parks of Lithuania. In this park we can find impressive water system, which is connected with ponds and steams, waterfalls and cascades. The park has a unique in Lithuania path system and stone stairs. Park space simulates mountain landscape, but because of area relief effects - hilly (undulating), it looks natural. Park is rich in artificial rocks, many stones, there is a grotto, benches made from rocks and concrete tree stumps. According to historical sources it is known that the park has thrived in times of Tyszkiewicz, there was a cultural life, earls has raised a lot of horses, as well as set up a nail factory.&lt;br/&gt;&lt;br/&gt;P.S. The main treasure is to get to know this park, so do not rush while moving from cache stage to stage and spare some time just to look around. Consequently we will ask you to include in your visit log a picture of place you liked the most in this park.</groundspeak:long_description>
+            <groundspeak:encoded_hints>[LT] Tarp uolu po akmenimi [EN] Between rocks under the stone</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>2.8</ox:size>
+                <ox:terrain>2.3</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="25.4409" lat="54.8387">
+        <time>2012-04-17T12:09:29.000Z</time>
+        <name>OXZTJWB</name>
+        <desc>Base Treasure by MARIUKASM, Traditional Cache(1.4/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTJWB</url>
+        <urlname>Base Treasure</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28468551">
+            <groundspeak:name>Base Treasure</groundspeak:name>
+            <groundspeak:placed_by>MARIUKASM</groundspeak:placed_by>
+            <groundspeak:owner id="10317">MARIUKASM</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">LT: Lobis pasleptas apleistoje karineje rysiu bazeje salia Kreivalauziu. Tai yra baltas plastikinis konteineris, suvyniotas i juoda plastiko maiseli. FTF prizas - 100 talonu banknotas (vagnorke).&#xD;&lt;br/&gt;&#xD;&lt;br/&gt;EN: The cache is hidden in an abandoned military communications base near Kreivalauziai. This is a white plastic container, wrapped in a black plastic bag. FTF prize - 100 vouchers banknote (vagnorka).</groundspeak:long_description>
+            <groundspeak:encoded_hints>LT: Salia grafiti EN: Near graffiti</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.4</ox:difficulty>
+                <ox:size>3.1</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="25.258117" lat="54.713483">
+        <time>2008-03-30T07:00:00.000Z</time>
+        <name>OX1APN7</name>
+        <desc>Seskines Oz by SUPERNIAL, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX1APN7</url>
+        <urlname>Seskines Oz</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1243231">
+            <groundspeak:name>Seskines Oz</groundspeak:name>
+            <groundspeak:placed_by>SUPERNIAL</groundspeak:placed_by>
+            <groundspeak:owner id="38013">SUPERNIAL</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Seskines esker commonly known as Oz of Seskine is a typical esker
+of the last glaciations. It was formed 16 – 18 thousands years ago.
+Its length is about 1.2 Km, height varies from 3 to 16 meters,
+averaged width is about 50 meters.
+ &lt;br /&gt;&lt;br /&gt; Seskines Oz Take a refreshing walk through Seskines Oz. Lots of
+trees and open space. It’s a shame that all this beauty will be
+extinct very soon because of new roads building directly through Oz
+to connect Seskines and Virsuliskes districts. Cache is hidden in
+untouched part of Oz. Please take some trash bags because lots of
+CITO is needed to be done there. 
+&lt;p&gt;&lt;b&gt;Congratulations LY2KW on FTF&lt;/b&gt;&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Lying branch. Cavity.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2063430">
+                    <groundspeak:date>2012-09-05T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="137902">VejasPink</groundspeak:finder>
+                    <groundspeak:text encoded="False">TFTC, easy one</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="2045764">
+                    <groundspeak:date>2012-04-12T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="75165">Shokas</groundspeak:finder>
+                    <groundspeak:text encoded="False">TFTC!:)</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="860419">
+                    <groundspeak:date>2008-07-01T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3533">PRUSUX</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found It. Very exact coordinates. No trade. Thanks.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="25.334633" lat="54.785683">
+        <time>2011-08-31T07:00:00.000Z</time>
+        <name>OX33AYC</name>
+        <desc>Underwater base by SUPERNIAL, Traditional Cache(4.5/4.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX33AYC</url>
+        <urlname>Underwater base</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2870457">
+            <groundspeak:name>Underwater base</groundspeak:name>
+            <groundspeak:placed_by>SUPERNIAL</groundspeak:placed_by>
+            <groundspeak:owner id="38013">SUPERNIAL</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>4.5</groundspeak:difficulty>
+            <groundspeak:terrain>4.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Go for an underwater adventure and try to find this cache. Grab&lt;br/&gt;your wetsuit or a pair of swimming trunks and dive to find this&lt;br/&gt;hidden treasure.&lt;br/&gt;&lt;br/&gt;There is an underwater base for divers located right in front of&lt;br/&gt;Bay Watch house at one of the most popular lakes around Vilnius&lt;br/&gt;&quot;Green Lakes/Žaleji Ežerai&quot;, as it's called by locals.&lt;br/&gt;It's used to train divers to change gear under water. Be really&lt;br/&gt;careful though. You have to be a good swimmer or diver or both to&lt;br/&gt;get it. I'm not taking any responsibility for anything that might&lt;br/&gt;happen to you when you're trying to get this cache. It's really&lt;br/&gt;save though if you know what you're doing. Underwater base is&lt;br/&gt;hidden at 4.8 meters deep. It should be doable for any experienced&lt;br/&gt;swimmer. I didn't use any special gear except scuba mask to hide&lt;br/&gt;it. So a pair of flippers and goggles should be enough. Good luck&lt;br/&gt;finding it. Read hint before you go in. Please sign the log book on&lt;br/&gt;dry land. Paper is not waterproof.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Follow the white dirty rope.
+SE pole.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>4.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>4.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Diving</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="23.9592833" lat="54.0302">
+        <time>2012-03-17T19:58:31.000Z</time>
+        <name>OX3ER51</name>
+        <desc>Fun in the snow by SUPERNIAL, Traditional Cache(1.1/1.1/2.9)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3ER51</url>
+        <urlname>Fun in the snow</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3210857">
+            <groundspeak:name>Fun in the snow</groundspeak:name>
+            <groundspeak:placed_by>SUPERNIAL</groundspeak:placed_by>
+            <groundspeak:owner id="38013">SUPERNIAL</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Druskininkai is famous for its mineral springs, recreational SPAs, AquaPark and relaxed atmosfere. In 2011 Druskininkai added one more (frozen) water based sports activity to its list. Its snow arena for all your skiing/snowboarding needs.&lt;br/&gt;&lt;br/&gt;For everyone who loves to ski or snowboard there is a great place in Druskininkai,Lithuania. Here you can learn your back flips, carves and jumps all year long. Guests from our neibourghs Latvia, Poland, Russia and Bielorussia are comon to spot here. Whenever youre ready to test your skills, or just want to take a look at the nice view from the slope you're welcome to find this cache. </groundspeak:long_description>
+            <groundspeak:encoded_hints>Pine triangle</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2065040">
+                    <groundspeak:date>2012-09-12T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="149392">Ptn2012</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>1.1</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>1.1</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>current.jpg</ox:name>
+                    <ox:size>27619</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="25.2509" lat="54.71415">
+        <time>2008-03-27T07:00:00.000Z</time>
+        <name>OX1AM5Q</name>
+        <desc>Twin Towers / LNK by SUPERNIAL, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX1AM5Q</url>
+        <urlname>Twin Towers / LNK</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1240829">
+            <groundspeak:name>Twin Towers / LNK</groundspeak:name>
+            <groundspeak:placed_by>SUPERNIAL</groundspeak:placed_by>
+            <groundspeak:owner id="38013">SUPERNIAL</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Visit Lithuanian &quot;twin towers&quot; and TV station at the same time.
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;This urban &lt;b&gt;nano&lt;/b&gt; cache is located between another &quot;twin
+towers&quot; object and Lithuanian TV station &quot;LNK&quot; premices. Cache is a
+white plastic film canister preloaded with log book and pencil
+.&lt;/p&gt;
+&lt;p&gt;Look now, this is important.&lt;/p&gt;
+&lt;h2&gt;&lt;b&gt;Please place cache exactly the way it was when you
+discovered it.&lt;/b&gt;&lt;/h2&gt;
+otherwise it will get wet again&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Congratulations zhioorkie on First To Find&lt;/b&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Magnetic. Rain.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2045767">
+                    <groundspeak:date>2011-12-06T20:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="75165">Shokas</groundspeak:finder>
+                    <groundspeak:text encoded="False">Darem naktini reida per lobius :)
+FITW Svajokle:) TFTC!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="860418">
+                    <groundspeak:date>2008-06-29T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3533">PRUSUX</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found it laying on the ground! Placed in possible previous place. First in LT:) thanks.
+
+p.s. Logbook was wet and dirty. Possible maintenance required.
+
+[This entry was edited by prusux on Tuesday, July 01, 2008 at 2:47:19 AM.]</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>5.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="25.2913333" lat="54.6872833">
+        <time>2011-08-01T14:49:08.000Z</time>
+        <name>OX1FJ1W</name>
+        <desc>Dreams of an Iron Wulf or Tower of Gediminas by SUPERNIAL, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX1FJ1W</url>
+        <urlname>Dreams of an Iron Wulf or Tower of Gediminas</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1387742">
+            <groundspeak:name>Dreams of an Iron Wulf or Tower of Gediminas</groundspeak:name>
+            <groundspeak:placed_by>SUPERNIAL</groundspeak:placed_by>
+            <groundspeak:owner id="38013">SUPERNIAL</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Grand duke of Lithuania, Gedeminas had a dream. And that dream led him to a place where now Vilnius is. Find the cache at most popular tourist attraction that you can visit.&lt;br/&gt;&lt;br/&gt;A NANO cache container . Gediminas Tower is the only remaining functional part of the Upper Castle in Vilnius, Lithuania.&lt;br/&gt;The first fortifications were built of wood by the Duke of the Grand Duchy of Lithuania Gediminas (1316-1341). First the castle was built of brick in 1409 by Duke Vytautas the Great, (1392-1430). There are some fragments of the old castle, which are now restored according to numerous archeological researches on the Gediminas Hill.&lt;br/&gt;&lt;br/&gt;It is possible to get onto the top of the Gediminas Hill by foot or by a funicular. The tower houses an exposition of archeologic findings from the hill and surrounding areas. There is a good observation point at the top of the tower, from where the panorama of Vilnius Old Town can be admired.&lt;br/&gt;&lt;br/&gt;Gediminas Tower is an important state and historic symbol of Vilnius and Lithuania: it is depicted on national currency litas and mentioned in numerous Lithuanian patriotic poems and folk songs. The Flag of Lithuania was re-hoisted atop the tower on October 7, 1988, during the independence movement that was finalized by the Act of the Re-Establishment of the State of Lithuania on March 11, 1990. [1] A reconstruction of Royal Palace in Vilnius is currently taking place at the bottom of the Gediminas Hill near Vilnius Cathedral.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Corner. Magnetic. P.S. Be especially attentive handling cache container please</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2045794">
+                    <groundspeak:date>2012-05-19T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="75165">Shokas</groundspeak:finder>
+                    <groundspeak:text encoded="False">Quick one :) Almost park and grab if you go with elevator :D
+Thanks!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1851584">
+                    <groundspeak:date>2012-04-19T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="123396">o|^_^|o</groundspeak:finder>
+                    <groundspeak:text encoded="False">TFTC!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1992877">
+                    <groundspeak:date>2010-10-09T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7109">IVSS_XX</groundspeak:finder>
+                    <groundspeak:text encoded="False">17:00
+FITW wolis, Dainiss, Karumnieks, thearmi, Dmitrijs, bindons, Acetons, Cikliskais Triketons, aisiic, ilzer
+
+This was pretty hard to find. 
+But the most interesting part was descent of the hill. Some ran, some went the path, some, including me, took the elevator. Then discovered that we have to pay to get out, we went to the toilet and then took the elevator back to the top. There we made the final decision that nonetheless we don't want to go down on foot and took the elevator once again :D Finally payed two lits to get out.
+
+#14 in Vilnius trip</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="25.3401333" lat="54.8512333">
+        <time>2011-07-19T16:50:27.000Z</time>
+        <name>OX30F1P</name>
+        <desc>Liubavas manor by MARIUKASM, Traditional Cache(2.0/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX30F1P</url>
+        <urlname>Liubavas manor</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2785031">
+            <groundspeak:name>Liubavas manor</groundspeak:name>
+            <groundspeak:placed_by>MARIUKASM</groundspeak:placed_by>
+            <groundspeak:owner id="10317">MARIUKASM</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">LT: Lobis yra pasleptas Liubavo kaime, buvusio dvaro teritorijoje. Tai yra baltas plastikinis 35 mm fotojuostos konteineris.&lt;br/&gt;EN: The cache is hidden in the Liubavas village, the former territory of the manor. It is a white plastic 35 mm film container. </groundspeak:long_description>
+            <groundspeak:encoded_hints>LT: Koplycios pamatai. EN: Chapel foundation</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1857642">
+                    <groundspeak:date>2012-05-26T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="53730">SAUSAS145</groundspeak:finder>
+                    <groundspeak:text encoded="False">muziejukas malune tai gerulis [:D] rekomenduoju, kinderi vos išsivedžiau
+super small museum in the water mill - recomend, enjoy
+
+This entry was edited by sausas on Saturday, 26 May 2012 at 21:17:40 UTC.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1824465">
+                    <groundspeak:date>2012-05-24T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="53730">SAUSAS145</groundspeak:finder>
+                    <groundspeak:text encoded="False">rastas</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1804552">
+                    <groundspeak:date>2012-05-09T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="111585">ly3nml</groundspeak:finder>
+                    <groundspeak:text encoded="False">Rastas nesunkiai. TFTC!</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="25.5213" lat="54.805417">
+        <time>2011-06-25T07:00:00.000Z</time>
+        <name>OX2YX51</name>
+        <desc>Sidetracked - Bezdonys by MARIUKASM, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2YX51</url>
+        <urlname>Sidetracked - Bezdonys</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2738045">
+            <groundspeak:name>Sidetracked - Bezdonys</groundspeak:name>
+            <groundspeak:placed_by>MARIUKASM</groundspeak:placed_by>
+            <groundspeak:owner id="10317">MARIUKASM</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">SideTracked Caches are intended to provide quick Cache-and-dashes at Train Stations. This is one of the series of over 500 caches started in the UK and Ireland.
+
+The cache is black 35mm film container and hidden in smal but nice Bezdonys Train Station:&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/mariukasm/3644196341/&quot;&gt;&lt;/a&gt;&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Corner of the building at the bike rack. Ground level.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="25.47235" lat="54.838983">
+        <time>2011-06-25T07:00:00.000Z</time>
+        <name>OX2YX6K</name>
+        <desc>Nemencine rest-place by MARIUKASM, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2YX6K</url>
+        <urlname>Nemencine rest-place</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2738094">
+            <groundspeak:name>Nemencine rest-place</groundspeak:name>
+            <groundspeak:placed_by>MARIUKASM</groundspeak:placed_by>
+            <groundspeak:owner id="10317">MARIUKASM</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">On the bank of the Neris, near the Nemencine SFE administrative building there is a resting-place, where you can enjoy your rest.
+
+&lt;a href=&quot;http://www.flickr.com/photos/mariukasm/5869857486/&quot;&gt;&lt;/a&gt;&lt;p&gt;The cache is at far end of the resting-place. This is a small plastic container wrapped in a black bag.&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Stump</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="25.4267333" lat="54.8571667">
+        <time>2011-05-22T07:00:00.000Z</time>
+        <name>OX2WP96</name>
+        <desc>Electra by MARIUKASM, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2WP96</url>
+        <urlname>Electra</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2672826">
+            <groundspeak:name>Electra</groundspeak:name>
+            <groundspeak:placed_by>MARIUKASM</groundspeak:placed_by>
+            <groundspeak:owner id="10317">MARIUKASM</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">LT: Lobis paslepas salia 330kV elektros skirstymo pastotes. Galite uzmesti aki, bet laikykites saugaus atstumo.&lt;br/&gt;EN: The cache is hidde near the 330 kV electrical distribution building. Take the look but keep the safe distance. </groundspeak:long_description>
+            <groundspeak:encoded_hints>LT: Akmuo prie azuolo.EN: The stone near the oak.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="25.4356167" lat="54.8317833">
+        <time>2011-01-09T15:29:51.000Z</time>
+        <name>OX2FREF</name>
+        <desc>Star of Davis by MARIUKASM, Traditional Cache(1.6/1.7/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2FREF</url>
+        <urlname>Star of Davis</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2317420">
+            <groundspeak:name>Star of Davis</groundspeak:name>
+            <groundspeak:placed_by>MARIUKASM</groundspeak:placed_by>
+            <groundspeak:owner id="10317">MARIUKASM</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>3.6</ox:size>
+                <ox:terrain>1.7</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="25.29825" lat="54.7116833">
+        <time>2010-12-18T10:13:44.000Z</time>
+        <name>OX1T7DG</name>
+        <desc>Ogmina by ly2big, Traditional Cache(2.8/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX1T7DG</url>
+        <urlname>Ogmina</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1675442">
+            <groundspeak:name>Ogmina</groundspeak:name>
+            <groundspeak:placed_by>ly2big</groundspeak:placed_by>
+            <groundspeak:owner id="7839">ly2big</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is NANO size cache.&lt;br /&gt;&lt;br /&gt;When you come to this spot - you will see OGMINA,  a well known electronics store. Besides all other articles, you can buy here a various well known, high value GPS navigators.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1770766">
+                    <groundspeak:date>2012-03-14T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="38013">SUPERNIAL</groundspeak:finder>
+                    <groundspeak:text encoded="False">Logging old finds</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="2046161">
+                    <groundspeak:date>2012-02-29T20:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="75165">Shokas</groundspeak:finder>
+                    <groundspeak:text encoded="False">Trecias bandymas, kita puse ir lobis rastas :)
+TFTC!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1392235">
+                    <groundspeak:date>2011-08-02T11:50:26.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="49750">mdmx</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.8</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="25.3392667" lat="54.7346833">
+        <time>2010-12-18T10:09:24.000Z</time>
+        <name>OX1T3A3</name>
+        <desc>Plento baras by ly2big, Traditional Cache(2.6/1.7/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX1T3A3</url>
+        <urlname>Plento baras</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1671492">
+            <groundspeak:name>Plento baras</groundspeak:name>
+            <groundspeak:placed_by>ly2big</groundspeak:placed_by>
+            <groundspeak:owner id="7839">ly2big</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">PLENTO BARAS - a small restaurant from CILI chain.&lt;br/&gt;&lt;br/&gt;My first hiden NANO size.&lt;br/&gt;Plento Baras ( 45 meters from my cache) is my favorite for a Sunday's dinner. Used to be even better some 2-3 years ago, before CILI acquired it.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Not to be seen. Touch it!</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2046158">
+                    <groundspeak:date>2012-04-12T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="75165">Shokas</groundspeak:finder>
+                    <groundspeak:text encoded="False">Greitas, lengvas :)
+TFTC!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1770767">
+                    <groundspeak:date>2012-03-14T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="38013">SUPERNIAL</groundspeak:finder>
+                    <groundspeak:text encoded="False">Logging old finds</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.7</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="21.4748333" lat="55.3857833">
+        <time>2010-06-05T07:00:00.000Z</time>
+        <name>OX29RNH</name>
+        <desc>Tautrim by MERDIAN, Traditional Cache(1.5/1.5/2.9)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX29RNH</url>
+        <urlname>Tautrim</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2138893">
+            <groundspeak:name>Tautrim</groundspeak:name>
+            <groundspeak:placed_by>MERDIAN</groundspeak:placed_by>
+            <groundspeak:owner id="3693">MERDIAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Lobis pasleptas atvykstant i Silute is siaurines puses, lengvai pasiekiamoje miskingoje vietoveje.&lt;br/&gt;&lt;br/&gt;On the road from the north shortly before Silutè this easily accessible cache is located in a wooded area.&lt;br/&gt;Bring your own pen.&lt;br/&gt;Additional Hidden Waypoints&lt;br/&gt;0129RNH - Parkas / Parking&lt;br/&gt;N 55° 23.179 E 021° 28.347&lt;br/&gt;&lt;br/&gt;&lt;br/&gt; &lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Betoninio vamzdzio pietiniame gale; priesais akmuo
+In the southern end of a concrete pipe; stone in front
+Im südlichen Ende eines Betonrohres; Stein davor</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1858130">
+                    <groundspeak:date>2012-05-28T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="124350">SWINDLER2009</groundspeak:finder>
+                    <groundspeak:text encoded="False">FIRST TIME OPENCACHING :)</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

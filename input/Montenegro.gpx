@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>4 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:38:00.262Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="18.71595" lat="42.4906667">
+        <time>2012-08-05T11:44:25.000Z</time>
+        <name>OXZTDY4</name>
+        <desc>St.Ivan by VBPOPOVIC, Traditional Cache(2.4/3.8/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTDY4</url>
+        <urlname>St.Ivan</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28463801">
+            <groundspeak:name>St.Ivan</groundspeak:name>
+            <groundspeak:placed_by>VBPOPOVIC</groundspeak:placed_by>
+            <groundspeak:owner id="139196">VBPOPOVIC</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">Old church on the road to Perast from St Andria castle</groundspeak:long_description>
+            <groundspeak:encoded_hints>Plastic container</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.4</ox:difficulty>
+                <ox:size>3.1</ox:size>
+                <ox:terrain>3.8</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>St Ivan Church.jpg</ox:name>
+                    <ox:size>64261</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="18.7117333" lat="42.5215167">
+        <time>2012-08-05T11:37:15.000Z</time>
+        <name>OXZTDY5</name>
+        <desc>Struge by VBPOPOVIC, Multi-cache(2.2/3.8/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTDY5</url>
+        <urlname>Struge</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="28463802">
+            <groundspeak:name>Struge</groundspeak:name>
+            <groundspeak:placed_by>VBPOPOVIC</groundspeak:placed_by>
+            <groundspeak:owner id="139196">VBPOPOVIC</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">The beautiful view of Risan and Boka Bay&lt;br/&gt;&lt;br/&gt; </groundspeak:long_description>
+            <groundspeak:encoded_hints>On the edge</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.2</ox:difficulty>
+                <ox:size>3.3</ox:size>
+                <ox:terrain>3.8</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>chirp</ox:tag>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Struge.jpg</ox:name>
+                    <ox:size>144744</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="18.569617" lat="42.479133">
+        <time>2011-10-09T07:00:00.000Z</time>
+        <name>OX35N0G</name>
+        <desc>On the edge by Igor &amp; Mira, Traditional Cache(2.5/2.4/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX35N0G</url>
+        <urlname>On the edge</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2939715">
+            <groundspeak:name>On the edge</groundspeak:name>
+            <groundspeak:placed_by>Igor &amp; Mira</groundspeak:placed_by>
+            <groundspeak:owner id="10885">Igor &amp; Mira</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br /&gt;&lt;br /&gt; &lt;p&gt;&lt;strong&gt;&lt;em&gt;Mountain village Zlijebi, located at the foot of
+mountain Orjen is known for is specific building of houses with
+stoneroofs what represents rarity in wider area.&lt;br /&gt;
+The village is located at more than 700 m above sea level with the
+unique view on the entrance of the Bay of Kotor. In the village
+there is church of St. Nikola that dates back from the 16th
+century.The church is located at an altitude of 708
+meters.&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;&lt;br /&gt;
+&lt;em&gt;In favorable weather conditions, this place often overfly
+paragliding enthusiasts.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;How to reach the destination?&lt;br /&gt;
+&lt;br /&gt;
+If you take your own car, the road&lt;br /&gt;
+starts from a small place, Meljine, near Herceg Novi. There is
+a&lt;br /&gt;
+roundabout where you turn to the road Herceg Novi-Trebinje from
+the&lt;br /&gt;
+Adriatic highway, the position is: N 42°27.323 E 018°33.496
+which&lt;br /&gt;
+further takes you to your destination.&lt;br /&gt;
+&lt;br /&gt;
+After approximately 6,9 km of drive, you come to the Village of
+Kameno, the position: N42°28.841 E 018°31.748 then you turn right,
+keeping on your drive&lt;br /&gt;
+towards the village of Zlijebi.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;After some time you have to turn right at this
+point&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;&lt;em&gt;:&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;  &lt;em&gt;N
+42°29.377 E 018°32.109&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;The ride lasts until the position: N 42°28.911 E
+018°33.771 where you can park your car.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;From this position for about ten to fifteen minutes' walk you
+reach the church.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;Cache is hidden near the church, at a place like the cache
+name.&lt;br /&gt;
+&lt;br /&gt;
+Be careful if you come with small children. Watch it for their
+movement because of the very steep terrain exposure, especially
+east and southeast of the church.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;&lt;em&gt;Good Luck!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;PK35N0G - Parking&lt;br /&gt;N 42° 28.911 E 018° 33.771&lt;br /&gt;&lt;br /&gt;S135N0G - Church of St. Nikola&lt;br /&gt;N 42° 28.756 E 018° 34.155</groundspeak:long_description>
+            <groundspeak:encoded_hints>Near the church, in the bottom of the highest rock on the south side, covered with stones.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2022756">
+                    <groundspeak:date>2012-08-07T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="139196">VBPOPOVIC</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.4</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>St Nikola.jpg</ox:name>
+                    <ox:size>117108</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="18.6026167" lat="42.4954167">
+        <time>2011-03-14T21:13:32.000Z</time>
+        <name>OX2Q1Q6</name>
+        <desc>Mountain of Thunder by Igor &amp; Mira, Traditional Cache(2.0/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2Q1Q6</url>
+        <urlname>Mountain of Thunder</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2533915">
+            <groundspeak:name>Mountain of Thunder</groundspeak:name>
+            <groundspeak:placed_by>Igor &amp; Mira</groundspeak:placed_by>
+            <groundspeak:owner id="10885">Igor &amp; Mira</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Cache is situated on the mountain Snijeznica 1104m of elevation. Here on this top there is a church St.Ilija (Eliah) from the 15th century. The position is: N 42°29.718 E 018°36.164 The church was rebuilt last year. In the previous period, very often it was exposed to devastating lightning strikes.&lt;br/&gt;From this spot there is beautiful view of the Bay of Kotor. Don’t miss the moment.&lt;br/&gt;From this spot, down to the south in the base, you can also see villages: Bunovici on the right and Gornji Morinj on the left side.&lt;br/&gt;In case of bad weather, you can look for the shelter in a small cave which is nearby on the position: N 42°29.760 E 018°36.054&lt;br/&gt;In the period from spring to autumn the encounter with poisonous snakes is possible. Therefore, be careful while touching the stones. The appropriate clothing is necessary.&lt;br/&gt;Cache is hidden in the vicinity of the church.&lt;br/&gt;How to reach the destination? If you take your own car, the road starts from a small place, Meljine, near Herceg Novi. There is a roundabout where you turn to the road Herceg Novi-Trebinje from the Adriatic highway, the position is: N 42°27.323 E 018°33.496 which further takes you to your destination. After approximately 6,9 km of drive, you come to the Village of Kameno, the position: N 42°28.841 E 018°31.748 then you turn right, keeping on your drive towards the village of Ubli. The ride lasts until the position: N 42°29.738 E 018°35.731 where you can park your car.&lt;br/&gt;Just there on the left side there is a stone well from the Austro-Hungarian time. The water is not potable.&lt;br/&gt;In the close vicinity there is WP1: N 42°29.744 E 018°35.737 From this position your pedestrian’s adventure begins, by the old gravel path till the position WP2: N 42°29.844 E 018°36.049 where you find a sign to turn right. You keep on walking up, which is not going to last long. On that part of your trip, for the orientation you can follow the marked stones with blue arrows. &lt;br/&gt;Good Luck!&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Metal cross on a rock Cache is covered with a stone at the bottom of the rock North side Micro Cache Green Waterproof Match Box  </groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2022755">
+                    <groundspeak:date>2012-08-07T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="139196">VBPOPOVIC</groundspeak:finder>
+                    <groundspeak:text encoded="False">The hint helped us to find geocache.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>16 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:37:33.729Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="36.2288333" lat="49.9887667">
+        <time>2012-06-12T07:26:31.000Z</time>
+        <name>OXZTF5T</name>
+        <desc>Пролетарская лестница (Proletarian stairs) by kurianin, Traditional Cache(1.9/1.8/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTF5T</url>
+        <urlname>Пролетарская лестница (Proletarian stairs)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28465000">
+            <groundspeak:name>Пролетарская лестница (Proletarian stairs)</groundspeak:name>
+            <groundspeak:placed_by>kurianin</groundspeak:placed_by>
+            <groundspeak:owner id="5184">kurianin</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Лестница на самом деле не называется Пролетарской. Обычно пишут, что это лестница ведущая с Пролетарской площади на Университетскую горку. &lt;br/&gt;Лестница построена в 1957 году. С площадки вверху открывается красивая панорама. &lt;br/&gt;Тайник в небольшом контейнере я спрятал на верхней площадке. &lt;br/&gt;Ориентируйтесь на координаты и подсказку.&lt;br/&gt;---------------------------------------------------------&lt;br/&gt;The stairs are not really called the Proletarian. Usually, they write that it is stairway leading from the Proletarian Square to University Hill. The stairway was built in 1957. There is beautiful panorama from the top of stairs. &lt;br/&gt;I hid cache in a small container on the top of stairway. &lt;br/&gt;Focus on the coordinates and my tip.  </groundspeak:long_description>
+            <groundspeak:encoded_hints>Угол каменного парапета. Нужно присесть. The corner of the stone parapet. Maybe you need to squat.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2022817">
+                    <groundspeak:date>2012-08-08T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="5184">kurianin</groundspeak:finder>
+                    <groundspeak:text encoded="False">I hid another container.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1926726">
+                    <groundspeak:date>2012-07-07T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="84134">Brigadire</groundspeak:finder>
+                    <groundspeak:text encoded="False">Нашли тайник сегодня, обошлись без подсказки. На тайнике были первыми.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.9</ox:difficulty>
+                <ox:size>2.5</ox:size>
+                <ox:terrain>1.8</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>DSC03137.jpg</ox:name>
+                    <ox:size>135474</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>DSC03141.jpg</ox:name>
+                    <ox:size>119789</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="36.2103167" lat="49.9855667">
+        <time>2012-06-09T14:08:49.000Z</time>
+        <name>OXZTF8Z</name>
+        <desc>Old Kharkov circus by kurianin, Traditional Cache(1.6/1.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTF8Z</url>
+        <urlname>Old Kharkov circus</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28465098">
+            <groundspeak:name>Old Kharkov circus</groundspeak:name>
+            <groundspeak:placed_by>kurianin</groundspeak:placed_by>
+            <groundspeak:owner id="5184">kurianin</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Так сложилось, что в Харькове три цирка. &lt;br/&gt;В самом новом на набережной Харькова проводятся представления для детей и взрослых. &lt;br/&gt;Цирк Миссури сгорел и не восстанавливается, угол Дмитриевской и Карла Маркса.&lt;br/&gt;Классический старый цирк на Гончаровке продолжает служить цирковому делу, но уже в качестве тренировочного. &lt;br/&gt;&lt;br/&gt;Рядом со старым цирком на Гончаровке я спрятал тайник. &lt;br/&gt;Координаты должны точно указывать на место закладки. Смотрите мою подсказку. &lt;br/&gt;Не торопитесь, не применяйте силу. Контейнер (большая преформа) подвешен на крючке.&lt;br/&gt;-----------------------------------------------------------------&lt;br/&gt;There are three circus in Kharkov. &lt;br/&gt;In the newest circus on the Kharkov embankment performances for children and adults are shown. &lt;br/&gt;Circus of Missouri was burned down and it is not restored, placed on the corner of Demetrius and Karl Marx streets. &lt;br/&gt;The classic old circus on old restiction Goncharovka continues work, but for practice only. For example there is a children's circus studio.&lt;br/&gt;&lt;br/&gt;Near the old circus on Goncharovka I hid the cache. &lt;br/&gt;Coordinates must point accurately to the container location. See my tip. &lt;br/&gt;Do not hurry, do not use force. The container (large bottle preform) is hanging on a wire hook.&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>В дупле. Ищите вверху. In the hollow of a tree. Look toward the top</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1926727">
+                    <groundspeak:date>2012-07-07T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="84134">Brigadire</groundspeak:finder>
+                    <groundspeak:text encoded="False">Нашли сегодня, обошлись без подсказки, координаты разъехались метров на 10, но место закладки довольно очевидно. В блокноте была запись Михаила, за вчерашний вечер.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="39.6601333" lat="48.6224333">
+        <time>2012-03-24T08:26:37.000Z</time>
+        <name>OXZTKBN</name>
+        <desc>Лабиринт2.Очереватый. by AS4TIK, Multi-cache(5.0/4.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTKBN</url>
+        <urlname>Лабиринт2.Очереватый.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469026">
+            <groundspeak:name>Лабиринт2.Очереватый.</groundspeak:name>
+            <groundspeak:placed_by>AS4TIK</groundspeak:placed_by>
+            <groundspeak:owner id="12232">AS4TIK</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>5</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">Вам хочется чего-то нового?&lt;br/&gt;&lt;br/&gt;Надоели скучные одношаговые тайники, которые берутся с первого посещения даже без карты и навигатора?&lt;br/&gt;&lt;br/&gt;Вам нравится дышать свежим хвойным воздухом, но это слишком легко для вас? Прогулки должны для вас обязательно сочетаться с непролазными дебрями?&lt;br/&gt;&lt;br/&gt;Тогда представляю вашему вниманию очень сложный и, надеюсь, такой же интересный тайник нового для Украины формата: лесной лабиринт.&lt;br/&gt;&lt;br/&gt;Вам не взять его за один день, но и первый день позволит вам почувствовать приятную усталость от прогулки по хвойному лесу.&lt;br/&gt;&lt;br/&gt;Второй день, скорее всего, тоже не познакомит вас с финальным кладом, но познакомит вас с дебрями и топями лиственного леса.&lt;br/&gt;&lt;br/&gt;Для того, что бы пройти вступительную часть лабиринта, созданную для новичков, вам достаточно будет и телефона с какой-нибудь программой навигации. Но вот дальше пройти без понимания “проекция точки” или “идти по азимуту” скорее всего не получится. Вообще в лабиринте многое было сделано для того, что бы найти финальный клад было не просто. Т.е. этот лабинит, скорее всего не сильно годится для начинающего кешера.&lt;br/&gt;&lt;br/&gt;И поскольку лабиринт получился ну ооочень сложным, то ништяки в финальном кладе тоже ну оооочень хорошие (например Внешний USB/eSATA винчестер Seagate GoFlex 500Gb)&lt;br/&gt;&lt;br/&gt;Вас ждут тупики и загадки, тайные проходы и теле-порты, кормушки для животных и домики на деревьях, а так же зайцы, лисы, цапли и обилие кабанов.&lt;br/&gt;&lt;br/&gt;Лабиринт - виртуальный, т.к. стен между проходами нет. Вернее стенами в лабиринте служит пространство. Проход в этом лабиринте - это вымышленная линия между координатными точками. Координатной точкой в лабиринте считается металлическая табличка, закрепленная на дереве. Вы можете ознакомиться с условными обозначениями и подсказками (https://docs.google.com/document/d/1U7DM_i31PdazexSr8VNYoTl1mCkIL49nCOMjLy88q2c/edit) (а лучше распечатать), применяемыми на табличках, что бы потом не гадать, что же означает та или иная запись. К тому же в том же файле в конце описаны известные на данный момент ошибки на табличках и состояние их исправления. Ошибки я конечно же постараюсь ближайшее время исправить, но если вы отправляетесь прямо сейчас, то лучше о них знать.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Периметр лабиринта составил 13,5км, а площадь, которая вместила все ходы лабиринта -11км2.&lt;br/&gt;&lt;br/&gt; &lt;br/&gt;&lt;br/&gt;Происхождение идеи.&lt;br/&gt;&lt;br/&gt;Как-то случайно прочитал последний отзыв, а он оказался из тайника &quot;Лабиринт&quot;. Мне очень понравилась идея - виртуальный лабиринт в реальном лесу. Очень захотелось тогда полазить по такому лабиринту и начал искать по-ближе. Что бы хотя бы не в России. Но даже тщательное загугливание дало очень интересный и совершенно неожиданный для меня результат. Оказалось, что &quot;Лабиринт&quot; является единственным лабиринтом. При чем не в Луганске, не в Украине, а на всем пост советском пространстве. Среди более чем десяти тысяч тайников, лишь один является лабиринтом. Есть тайники посвященные каким-либо лабиринтам (архитектурным или историческим памятникам), но лабиринт, в котором можно побродить по виртуальным проходам существует в единственном экземпляре. В Московскую область ехать из Луганска, что бы полазить в лесном лабиринте как-то несколько накладно. А если нельзя в лабиринт поиграть, в виду его отсутствия, то его надо создать, что бы могли поиграть другие.&lt;br/&gt;&lt;br/&gt;Было решено создать похожий лабиринт в лесу Луганской области. И назван он по этомуномердва, а не первый.&lt;br/&gt;&lt;br/&gt;Содержимое тайника.&lt;br/&gt;Контейнеров в лабиринте много. Во всех контейнерах есть: ништяки, карандаш, блокнот, скотч, запасной пакет. Скотч для запаковывания контейнера - не забирайте. В финальном кладе кроме того лежит: Внешний USB/eSATA винчестер Seagate GoFlex 500Gb - 1шт, наушники Gembird mhs-103 - 3шт, наушники простые вакуумные - 5шт, флешка в виде ручки на 4Гб - 2шт, брелок - сумка для SIM-карт - 4шт, шнурок - медиатор Nokia - 2шт, USB-кардридер в виде переходника microSD-SD - 3шт, переходник USB-microUSB, сумка подводная для фотоаппарата - 1шт. И да, имейте совесть, не забирайте все сразу. </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>5.0</ox:difficulty>
+                <ox:size>5.0</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Табличка.jpg</ox:name>
+                    <ox:size>44266</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Закат в лесу.jpg</ox:name>
+                    <ox:size>92938</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Табличка 2.jpg</ox:name>
+                    <ox:size>44266</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Паучек.jpg</ox:name>
+                    <ox:size>24666</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Домик на дереве.jpg</ox:name>
+                    <ox:size>28617</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Мухомор.jpg</ox:name>
+                    <ox:size>196764</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Косуля.jpg</ox:name>
+                    <ox:size>168062</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Лабиринт зимой.jpg</ox:name>
+                    <ox:size>221429</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Ящерка2.jpg</ox:name>
+                    <ox:size>94068</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Земляника.jpg</ox:name>
+                    <ox:size>22678</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Мышка.jpg</ox:name>
+                    <ox:size>38091</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Мотылек.jpg</ox:name>
+                    <ox:size>68746</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="36.82815" lat="49.84655">
+        <time>2012-02-19T16:48:39.000Z</time>
+        <name>OXZTM1E</name>
+        <desc>Долгая дорога в дюнах (Long road to dunes) by Brigadire, Traditional Cache(3.4/3.1/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTM1E</url>
+        <urlname>Долгая дорога в дюнах (Long road to dunes)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469670">
+            <groundspeak:name>Долгая дорога в дюнах (Long road to dunes)</groundspeak:name>
+            <groundspeak:placed_by>Brigadire</groundspeak:placed_by>
+            <groundspeak:owner id="84134">Brigadire</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">There is no time these places were used as a final part of a tank shooting range, i.e. area where shells could fly from tank range close to village the Robin kilometers in five jugo-to the west, on opposite coast of Severski Donets. Tablets telling about that Here and there come across that the space is unsafe. But armed forces of Ukraine have not the best times and apparently in those places of shooting for a long time didn't hear. Hilly sand were mastered by fans to send on errands on all-terrain vehicles, sometimes local collectors of scrap metal with металлодетекторами reap in those crash the crop. Also the small pine forests rich with mushrooms around grow and it is possible to see local residents with baskets up to the top filled mushrooms.&lt;br/&gt;&lt;br/&gt;Nevertheless, trustworthy information that this place isn't used for the designated purpose namely as the site of tank range at us isn't present, therefore we recommend to observe certain care - if will hear cannon shots - it is not necessary to be put there. Though, most likely, at military men in such situations it is accepted to expose a cordon.&lt;br/&gt;&lt;br/&gt;We have hidden a cache in northern part of range. If to rise on one of large dunes, it is possible to see other dune which is strengthened from North side by four old enough pines. The hiding place under an extreme left pine, is dug deeply enough, from above is covered by fur-tree needles and a dry branch.&lt;br/&gt;&lt;br/&gt;Некогда эти места использовались как излётное пространство танковой директрисы, т.е. область куда могли залетать снаряды со стороны танкового полигона расположенного рядом с селом Малиновка километрах в пяти юго-западнее, на противоположном берегу Северского Донца.  Кое-где попадаются таблички говорящие о том что пространство небезопасно. Но вооруженные силы Украины переживают не самые лучшие времена и судя по всему в тех местах стрельб давно не слышали.  Бугристые пески освоили любители погонять на квадроциклах, иногда местные сборщики металлолома с металлодетекторами собирают в тех крах свой урожай. Также вокруг растут небольшие сосняки, богатые грибами и можно увидеть местных жителей с корзинками доверху набитыми маслятами.&lt;br/&gt;&lt;br/&gt;Тем не менее, достоверной информации о том, что это место не используется по назначению, а именно как участок танкового полигона у нас нет, поэтому рекомендуем соблюдать определенную осторожность - если услышите орудийные выстрелы - не стоит туда соваться. Хотя, вероятнее всего, у военных  в таких ситуациях принято выставлять оцепление.&lt;br/&gt;&lt;br/&gt;Сам кэш мы спрятали в северной части полигона. Если подняться на одну из крупных дюн,  можно увидеть другую дюну,  которая укреплена с северной стороны четырьмя довольно старыми соснами. Тайник под крайней левой сосной, закопан достаточно глубоко, сверху прикрыт еловыми иголками и сухой веткой.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1813331">
+                    <groundspeak:date>2010-11-25T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="5184">kurianin</groundspeak:finder>
+                    <groundspeak:text encoded="False">Очень понравилось.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.4</ox:difficulty>
+                <ox:size>3.5</ox:size>
+                <ox:terrain>3.1</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="36.4923333" lat="49.48225">
+        <time>2012-02-19T16:29:23.000Z</time>
+        <name>OXZTM1F</name>
+        <desc>Гремучий источник (Rattling Spring) by Brigadire, Traditional Cache(3.1/3.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTM1F</url>
+        <urlname>Гремучий источник (Rattling Spring)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469671">
+            <groundspeak:name>Гремучий источник (Rattling Spring)</groundspeak:name>
+            <groundspeak:placed_by>Brigadire</groundspeak:placed_by>
+            <groundspeak:owner id="84134">Brigadire</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Far from main roads, from villages and settlements there is a wonderful source with remarkable, pure, cold water. Water under a good pressure escaping from pipes of a spring with noise falls in a stone bowl and flows giving life to a small rivulet further. Probably because of this cheerful vital energy with which this spring it flows and has been named by Rattling. Passing by can enjoy waters and have a rest in this vital place a little. Well and hunters behind caches can leave record in a notebook of a hiding place which we have hidden absolutely nearby.&lt;br/&gt;&lt;br/&gt;If to stand a back to road and to examine vicinities, you will see a hill, and on a hill some pines. There under the oldest and knotty pine we have hidden a cache.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Вдали от больших дорог,от сел и поселков есть чудный источник с замечательной, чистой, холодной водой. Вода под хорошим напором вырываясь из труб родника с шумом падает в каменную чашу и течет дальше давая жизнь небольшой речушке. Наверное из-за этой веселой жизненной энергии с которой течет этот родник он и был назван Гремучим. Проезжающие мимо могут испить воды и немного отдохнуть в этом жизнеутверждающем месте. Ну а геокэшеры могут оставить запись в блокноте  тайника, который мы спрятали совсем неподалеку.&lt;br/&gt;&lt;br/&gt;Если стоять спиной к дороге и осматривать окрестности, вы увидите холм, а на холме несколько сосен. Там под самой старой и узловатой сосной мы спрятали кэш.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1805077">
+                    <groundspeak:date>2012-05-08T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="5184">kurianin</groundspeak:finder>
+                    <groundspeak:text encoded="False">Нашел, все в порядке. Контейнер в идеальном состоянии.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.1</ox:difficulty>
+                <ox:size>3.9</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="35.7248333" lat="49.4724167">
+        <time>2012-02-19T16:05:48.000Z</time>
+        <name>OXZTM1G</name>
+        <desc>Орловская крепость (Orlovskaya fortress) by Brigadire, Traditional Cache(2.6/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTM1G</url>
+        <urlname>Орловская крепость (Orlovskaya fortress)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469672">
+            <groundspeak:name>Орловская крепость (Orlovskaya fortress)</groundspeak:name>
+            <groundspeak:placed_by>Brigadire</groundspeak:placed_by>
+            <groundspeak:owner id="84134">Brigadire</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Orlovskaya Fortress Ukrainian defensive line - earthwork, located on the right bank of the river. Berestovaya. One of the Ukrainian line of fortresses. The original name of the ninth. In 1738 it was renamed on the name Orlovsky Cavalry Regiment, deployed in the area between the fortresses Paraskevskoy and Orlovskaya. Ground, rectangular in plan, the four-bastion. The area of ​​the fortress yard more than 1 hectare. On the floor of the north-western entrance to the fort is situated. Southwest Gate of reinforced ravelin directed to the river Berestovoy. The fortress was surrounded by a dry moat, sections of which have survived to this day. On the seventh line Paraskevskoy strength and ninth - Ivanovo was connected by a moat and rampart.&lt;br/&gt;&lt;br/&gt;Fortress Ukrainian defensive line played an important role during the Russian-Turkish war 1736-1739 period. The construction of these defenses have stopped raiding Crimean Tatars in Russia. Russia's military company was successful and the defensive line once deep in the rear, gradually lost its importance.&lt;br/&gt;&lt;br/&gt;Orlovskaya fortress preserved better than others. From the ramparts of this remarkable structure is easy to imagine how it looked almost three hundred years ago. An interesting fact is that the fortress of Orlovskaya locals still refer to the Turkish shaft.&lt;br/&gt;&lt;br/&gt;Cache is hidden under a passing meters thirty or forty of the north-eastern corner of the fort unfinished electric line. . The cache was buried just below the pole. On top of the container are pieces of electro-ceramics, all covered with earth masked turf.&lt;br/&gt;&lt;br/&gt;Орловская крепость украинской оборонительной линии - земляное укрепление, расположена на правом берегу р. Берестовая. Одна из крепостей Украинской линии. Первоначальное название Девятая. В 1738 г. переименована по названию Орловского конного полка, размещенного на территории между крепостями Параскевской и Орловской. Земляная, прямоугольная в плане, четырех-бастионная. Площадь крепостного двора более 1 га. С напольной северо-западной стороны расположен въезд в крепость. Юго-западная куртина усилена равелином, направленным к реке Берестовой. Крепость была окружена сухим рвом, участки которого сохранились до наших дней. С седьмой на линии Параскевской крепостью и девятой — Ивановской соединялась валом и рвом.&lt;br/&gt;&lt;br/&gt;Крепости украинской оборонительной линии сыграли важную роль во время  Русско-Турецкой войны 1736—1739 годов. Благодаря строительству этих защитных сооружений прекратились набеги крымских татар на территории России. Военная компания для России прошла успешно и оборонительная линия оказавшись глубоко в тылу, постепенно утратила свою значимость.&lt;br/&gt;&lt;br/&gt;Орловская крепость сохранилась лучше остальных. Находясь на валах этого замечательного сооружения очень легко себе представить как она выглядела почти триста лет назад. Интересным фактом является то, что Орловскую крепость  местные жители до сих пор называют Турецким валом.&lt;br/&gt;&lt;br/&gt;Тайник спрятан под проходящей метрах в тридцати-сорока от северо-восточного угла крепости недостроенной линией электропередач. . Кэш зарыт прямо под столбом. Сверху на контейнере лежат куски электро-керамики, все присыпано землей маскировано дерном.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1813336">
+                    <groundspeak:date>2010-09-10T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="5184">kurianin</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>3.6</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="35.82985" lat="49.9701">
+        <time>2012-02-19T12:49:55.000Z</time>
+        <name>OXZTM1J</name>
+        <desc>Санжары (Sanzhary) by Brigadire, Traditional Cache(3.5/3.2/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTM1J</url>
+        <urlname>Санжары (Sanzhary)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469674">
+            <groundspeak:name>Санжары (Sanzhary)</groundspeak:name>
+            <groundspeak:placed_by>Brigadire</groundspeak:placed_by>
+            <groundspeak:owner id="84134">Brigadire</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">In the vicinity of the village Manchenko, between the villages and Sanzhary Travnevoe is an interesting place. Long beams with steep slopes, very similar to man-made shafts, which are probably remnants of the ancient walls of the Scythian settlement. The ruins of the ancient monumental it construction or natural formation - we suggest you find out yourself by visiting this cache. The place is not crowded, but the locals can be seen quite often - in the beam grazing cows in the exposed Cretaceous formations - local produce come chalk, in a small shallow pond at the northern tip of the beam, the boys catch crayfish.&lt;br/&gt;&lt;br/&gt;Near the pond there are two large craters. If you stand so that the pond will be left, to look for treasure on the south side of the hopper located on the right hand. Once again I call your attention - a place-through, so that when you get cache, try not to attract attention.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;В окрестностях поселка Манченки, между селами Санжары и Травневое есть интересное место. Длинная балка с крутыми склонами, очень похожими на рукотворные валы, которые возможно являются остатками стен древнего скифского городища. Руины ли это древнего монументального строительства или природное образование - мы предлагаем вам разобраться самим, посетив данный тайник. Место здесь не многолюдное, но местных жителей можно встретить довольно часто - в балке пасут коров, в обнажившихся меловых образованиях - местные приезжают добывать мел, в небольшом неглубоком пруду на северной оконечности балки, мальчишки ловят раков.&lt;br/&gt;&lt;br/&gt;Рядом с прудом есть две большие воронки. Если стоять так что пруд будет слева, то клад нужно искать на южной стороне воронки находящейся по правую руку. Еще раз обратим ваше внимание - место проходное, так что откапывая и закапывая обратно тайник, постарайтесь не привлекать к себе внимания.&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1813335">
+                    <groundspeak:date>2010-11-12T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="5184">kurianin</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>3.6</ox:size>
+                <ox:terrain>3.2</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="35.9431667" lat="50.0065">
+        <time>2012-02-19T12:39:55.000Z</time>
+        <name>OXZTM1K</name>
+        <desc>Теплые воды (Warm water) by Brigadire, Traditional Cache(1.6/2.9/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTM1K</url>
+        <urlname>Теплые воды (Warm water)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469675">
+            <groundspeak:name>Теплые воды (Warm water)</groundspeak:name>
+            <groundspeak:placed_by>Brigadire</groundspeak:placed_by>
+            <groundspeak:owner id="84134">Brigadire</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Not far from Kharkov, near the village resort located Berezovskoye &quot;Berezovsky mineral water.&quot; The history of this resort begins long before the discovery of the healing properties of water Berezovsky Kharkiv scientists. Inhabitants nearby villages were aware of underground springs, miraculous healing from various ailments and called them &quot;warm waters&quot;.&lt;br/&gt;&lt;br/&gt;The first information associated with the development of Berezovsky's mineral waters are in 1862, when Dr. Gurevich gave a presentation on the healing properties of Berezovskaya water at a meeting of  Kharkov Medical Society. This post has generated interest among physicians and in 1864 was organized by the Commission under the control of N.N. Beketov It turned out that the water source close to the mineral, salt, etc. composition of water from the famous Belgian Spa source and can therefore treat the same ailment.&lt;br/&gt;&lt;br/&gt;Despite such remarkable properties of the water resort absolutely no luck with the hosts and up to the revolution, it is virtually marked time. From earlier times, after the revolutions, wars have only a wooden building of one of the cottages built in 1872 which is now a Berminvod museum .&lt;br/&gt;&lt;br/&gt;In 1918 a new stage of development the source, and in 1926 adopted the first one hundred patients. In the prewar period were built new housing, dining, club and opened a factory for bottling mineral water, but once the war has destroyed everything that was created as a result of damage caused by the Nazis was 5.5 million rubles. After the war the buildings were rebuilt hospital.&lt;br/&gt;&lt;br/&gt;The heyday of the resort falls on the 70th of the last century, when the resort is whiter than 1,000 people attend each year.&lt;br/&gt;&lt;br/&gt;  Since 2008, the resort has the status of clinical and a clinical base of the Kharkov Medical Academy.&lt;br/&gt;&lt;br/&gt;Access to the spa is free. You can stroll through the park, a drink of water. You can also visit the pump room where there are special machines to heat the water. As a result of heating the water is very reminiscent of Zheleznovodsk mineral springs. strolling through the alleys of the park Berezovsky we go to the lake. Water is clean, nice beach.&lt;br/&gt;&lt;br/&gt;From the north the lake is closed steep, overgrown with birch slope. Here in the birch grove, we decided to organize the cache.&lt;br/&gt;&lt;br/&gt;At the top of the hill is located the field between the field and birch grove is a path. Moving from the spa we pass on the brightness and distance of 80-100 meters from the center of the ravine to turn towards the lake. Around the middle of the distance between the footpath and the lake between the two birch trees growing spreading tree (presumably American maple). Here are the roots of this tree we buried treasure.&lt;br/&gt;&lt;br/&gt;Недалеко от Харькова, рядом с селом Березовское расположился санаторий &quot;Березовские минеральные воды&quot;. История этого курорта начинается задолго до открытия целебных свойств Березовских вод Харьковскими учеными. Жители окрестных селений знали о подземных ключах, чудесным образом лечащих от разных недугов и называли их &quot;Теплыми водами&quot;.&lt;br/&gt;&lt;br/&gt;Первые сведения связанные с освоением Березовских минеральных вод относятся к 1862  году, когда  доктор Гуревич выступил с докладом о лечебных свойствах Березовской воды на  собрании Харьковского медицинского общества. Это сообщение вызвало интерес среди врачей и в 1864 году была организована комиссия под управлением Бекетова Н.Н. Оказалось, что вода источника близка по минеральному, солевому и т.п. составу воде из знаменитого бельгийского источника Спа и может , соответственно, лечить те же хвори.&lt;br/&gt;&lt;br/&gt;Несмотря на столь замечательные свойства воды курорту категорически не везло с хозяевами и вплоть до революции это дело практически топталось на месте. От прежних времен, после революций, войн осталось только деревянное здание одной из дач 1872 года постройки в котором теперь музей Берминвод.&lt;br/&gt;&lt;br/&gt;В 1918 году начался новый этап освоения источника, а 1926 году были приняты первые сто пациентов. В довоенное время были построены новые корпуса, столовая, клуб и открылся завод по розливу минеральной воды, но война опять разрушила все, что было создано и в результате урон нанесенный фашистами составил 5,5  миллионов рублей. После войны в отстроенных корпусах был госпиталь.&lt;br/&gt;&lt;br/&gt;Период расцвета курорта приходится на 70-е года прошлого века, когда курорт посещали белее 1000 человек ежегодно.&lt;br/&gt;&lt;br/&gt; С 2008 года санаторий имеет статус клинического и является клинической базой Харьковской медицинской академии.&lt;br/&gt;&lt;br/&gt;Доступ на территорию санатория свободный. Можно прогуляться по парку, попить водички. Также можно посетить бювет в котором стоят специальные автоматы для подогрева воды. В результате подогрева вода очень напоминает железноводские минеральные источники. прогулявшись по аллеям Березовского парка мы выходим к озеру. вода чистая, хороший пляж.&lt;br/&gt;&lt;br/&gt;С севера озеро закрыто крутым, поросшим березняком склоном. Вот в этой березовой роще мы и решили организовать тайник.&lt;br/&gt;&lt;br/&gt;На вершине холма расположено поле, между полем и березовой рощей идет тропинка. Двигаясь со стороны санатория минуем яр и на расстоянии 80-100 метров от центра яра нужно повернуть в сторону озера. Приблизительно в середине расстояния между тропинкой и озером между двух берез растет раскидистое дерево (предположительно клен американский). Вот в корнях этого дерева мы и зарыли клад.&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1813334">
+                    <groundspeak:date>2010-08-31T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="5184">kurianin</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>3.6</ox:size>
+                <ox:terrain>2.9</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="36.5322833" lat="49.74315">
+        <time>2012-02-19T11:55:17.000Z</time>
+        <name>OXZTM1M</name>
+        <desc>Хазарская крепость (Khazar fortress) by Brigadire, Traditional Cache(1.7/2.7/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTM1M</url>
+        <urlname>Хазарская крепость (Khazar fortress)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469676">
+            <groundspeak:name>Хазарская крепость (Khazar fortress)</groundspeak:name>
+            <groundspeak:placed_by>Brigadire</groundspeak:placed_by>
+            <groundspeak:owner id="84134">Brigadire</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Right on the river ancient river Seversky Donets, on a high hill located Khazar fortress. The place was not chosen by chance - once long ago, long before the formation of the Khazar Khanate, the Scythians lived here (from IV to III centuries. BC). They first drew attention to the place, leveled the shaft, built earthen fortifications, fortified hill of turf.&lt;br/&gt;Then he left the mound and the Scythians it again overgrown with forest. After a thousand years, here come the Khazars. They came to the issue of fortification more thoroughly - clearing settlement made from forest, carried out the work to deepen the ditches swollen, the material of which was transferred to the surface of the shaft so as to make them even more inaccessible. On the eastern line of fortifications earthen foundation walls were reconstructed and covered with strong masonry. Over 300 years of Khazar fortress was tsetrom, around which developed agriculture and commerce in the area. The fortified settlement existed before the collapse of the Khazar kingdom. After this place was chosen by ancient Russians, according to some archeologists in the future there is a mixture of cultures and Khazaria Kivskoy Russia.&lt;br/&gt;Around the middle of the XI to the middle of the XVII century castle once again overgrown with forest, and in the XIX century on the site of ancient settlement situated country estate, where there were such grounds as arable land, orchards, pastures and hayfields. Eastern and northeastern parts of the greater part of the area currently covered by deciduous forest.&lt;br/&gt;&lt;br/&gt;Справа по течению древней реки, Северский Донец, на высоком холме расположилась Хазарская крепость. Место было выбрано не случайно - когда-то очень давно, задолго до образования Хазарского каганата, здесь обитали скифы (с IV по III вв. до н.э.). Они первыми обратили внимание на это место, выровняли вал, построили земляные укрепления, укрепили холм дерном. Потом скифы покинули городище и оно вновь заросло лесом. Спустя тысячу лет, сюда пришли хазары. Они  подошли к вопросу фортификации еще более основательно -  произвели расчистку городища от леса, осуществили работы по углублению заплывших рвов, материал из которых переносился на поверхность валов с тем, чтобы сделать их еще более неприступными. На восточной линии укреплений земляная основа валов была реконструирована и перекрыта мощной каменной кладкой. В течение 300 лет  Хазарская крепость была центром, вокруг которого развивались сельское хозяйство и торговля в этом районе. Укреплённое городище просуществовало до развала Хазарского царства. После этого место облюбовали русичи, по мнению некоторых археологов в дальнейшем здесь происходило смешение культур Хазарии и Кивской Руси.&lt;br/&gt;&lt;br/&gt;Now part of the former fortress is situated cemetery. On the southern and eastern part of the fort opened wonderful views over the valley of the Seversky Donets, and on the west and north - an array Mokhnach Forest and the village itself Mokhnach, picturesquely situated at the foot of the fort walls.&lt;br/&gt;&lt;br/&gt;This is a wonderful place and we invite you to visit.&lt;br/&gt;&lt;br/&gt;We have arranged a hiding place on the east side of the fort at a distance of 80-100 meters from the north-eastern corner of the modern cemetery toward the Seversky Donets. Between the two plantings of young oaks on the hillside, under the picturesque stump.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Примерно с середины XI по середину XVII века городище снова заросло лесом, а в XIX веке на месте городища располагалась помещичья усадьба, где находились такие угодья, как пашня, сады, выгоны, сенокосы. Восточный и северо-восточный участки на большей части площади в настоящее время покрыты широколиственным лесом.&lt;br/&gt;&lt;br/&gt;Сейчас в части бывшей крепости расположено кладбище. С южной и восточной части городища открываются замечательные виды на долины Северского Донца, а с западной и северной - на массив Мохначеского леса и на само село Мохнач, живописно расположенное у подножия валов городища.&lt;br/&gt;&lt;br/&gt;Вот это замечательное место мы и предлагаем Вам посетить.&lt;br/&gt;&lt;br/&gt;Тайник  мы расположили на восточной стороне городища на расстоянии 80-100 метров от северо-восточного угла современного кладбища в сторону Северского Донца.  Между двумя посадками молодых дубов, на склоне, под живописным пнем. </groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1813328">
+                    <groundspeak:date>2010-09-03T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="5184">kurianin</groundspeak:finder>
+                    <groundspeak:text encoded="False">Был с небольшой компанией геокешеров. </groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.7</ox:difficulty>
+                <ox:size>3.6</ox:size>
+                <ox:terrain>2.7</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="36.2416" lat="50.00625">
+        <time>2012-01-10T21:33:09.000Z</time>
+        <name>OX3AGPX</name>
+        <desc>Chernyshevskaya about Basseinaya by Brigadire, Traditional Cache(2.6/1.1/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3AGPX</url>
+        <urlname>Chernyshevskaya about Basseinaya</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3084559">
+            <groundspeak:name>Chernyshevskaya about Basseinaya</groundspeak:name>
+            <groundspeak:placed_by>Brigadire</groundspeak:placed_by>
+            <groundspeak:owner id="84134">Brigadire</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">There is such a crossroads in Kharkov, which is not on maps. How can this be? - You ask. It's very simple. Crossroad Basseinaya and Chernyshevskaya in Kharkov is not and can not be, because these streets are so far apart that they can not cross. But only about a hundred years ago, they intersect. The fact that the street Basseinaya was renamed in honor of the Bolshevik Petrovsky, and then called Basseinaya just another street.&lt;br/&gt;&lt;br/&gt; But Chernyshevskaya street in town at one time was not. Street names a street Chernyshevsky. How is it? -You ask. Very easy. When street names are approved to the revolutionary and patriotic resistance, it appears that if the street Chernyshevskaya change race from female to male, it will be quite revlyutionary-conscious. Now no one remembers a certain bourgeois Chernyshov, the estate which resulted in the street, but more recently started to call out again Chernyshevskaya.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Be careful, watch your feet, because that cash is better to take at night.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1736805">
+                    <groundspeak:date>2012-01-08T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="5184">kurianin</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>2.3</ox:size>
+                <ox:terrain>1.1</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="36.91645" lat="49.2761833">
+        <time>2012-01-10T21:29:23.000Z</time>
+        <name>OX39G7B</name>
+        <desc>Chalk-rock by Brigadire, Traditional Cache(3.0/3.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX39G7B</url>
+        <urlname>Chalk-rock</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3054286">
+            <groundspeak:name>Chalk-rock</groundspeak:name>
+            <groundspeak:placed_by>Brigadire</groundspeak:placed_by>
+            <groundspeak:owner id="84134">Brigadire</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Kharkiv region in spite of good elevation is not plagued by rocks. So lovers of climbing, we do not particularly grub sorted out and use any more or less suitable terrain for training. That's a climbing route was utilized large Cretaceous outcrop near the confluence of the river Csepel the Seversky Donets. Well, for us, geokesherov, this place is the interest of its extraordinary beauty and inaccessibility. &lt;br/&gt;&lt;br/&gt; Chalk Mountain is located far from the railroad and at a considerable distance from regional centers. In addition there is only a dirt road which, after not even a very heavy rains become unsuitable for use for other purposes. &lt;br/&gt;&lt;br/&gt; In these places the Seversky Donets River is wide and high water, a small rivulet Csepel probably sometimes dries up, as passes through one of the country roads, but when we were there, it will probably spread and rapid flow of noise burst gaily into the Seversky Donets. If we move from the mountains to the south, the village Protopopovka coordinates N 49 ° 15.122 'E 36 ° 55.811' is a wonderful source of very pure water ice.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Cranny to be found between the young trees. One tree is composed of two intertwined trunks. Between the trees - heavy chalk stone.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1961070">
+                    <groundspeak:date>2012-07-14T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="5184">kurianin</groundspeak:finder>
+                    <groundspeak:text encoded="False">It is very beautiful place. Очень понравилось. Рекомендую.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.8</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="34.6473667" lat="49.65365">
+        <time>2012-01-10T21:25:12.000Z</time>
+        <name>OX39QDZ</name>
+        <desc>Peter the Great well by Brigadire, Traditional Cache(2.1/2.7/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX39QDZ</url>
+        <urlname>Peter the Great well</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3061218">
+            <groundspeak:name>Peter the Great well</groundspeak:name>
+            <groundspeak:placed_by>Brigadire</groundspeak:placed_by>
+            <groundspeak:owner id="84134">Brigadire</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">In a small forest, relatively close to Poltava is a place which is considered the hydrological monument. According to legend here in the Northern War, a few days before its decisive phase - the battle of Poltava were part of the Russian army, who were preparing to cross the Vorskla. Legend tells that the soldiers had dug a well and first tasted the water from the well of the king himself - Peter I.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.1</ox:difficulty>
+                <ox:size>3.8</ox:size>
+                <ox:terrain>2.7</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="36.6517333" lat="49.4242">
+        <time>2012-01-10T21:19:43.000Z</time>
+        <name>OX39HJZ</name>
+        <desc>Cretaceous giant by Brigadire, Traditional Cache(3.3/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX39HJZ</url>
+        <urlname>Cretaceous giant</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3055607">
+            <groundspeak:name>Cretaceous giant</groundspeak:name>
+            <groundspeak:placed_by>Brigadire</groundspeak:placed_by>
+            <groundspeak:owner id="84134">Brigadire</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Once again looking at satellite images, Kharkiv region, we stumbled on an interesting education in the village of Melovaya, Balakleya area. A little Googling found that this is a huge blue-white spot is clearly visible from space - a large chalk quarry, which elevation is 163 - 66 m and an area of 400 hectares. Do not visit this place and do not look at this giant with my own eyes and we could not gather, plunging the train into bikes we have moved on.&lt;br/&gt;&lt;br/&gt;Arriving at the place and came to the career field (N 49 ° 26.071 'E 36 ° 40.920'), on the west side, we met a very kind-hearted security guard, who told us that in itself can not be mine, because Protected area - expensive equipment, a serious risk of accidents, etc. But it gave us an interesting excursion. We went to the edge of a cliff with a magnificent view of the site development has made some pictures, looked at the huge excavators, which are still frozen at the bottom of the Cretaceous giant. It turned out mine is not working for about two years ... In a career constantly water accumulates due to hitting out of the ground springs. And despite the fact that it is constantly pumped out, the lake was formed inside the pit depth of 14 meters. Several years ago the lake had been stocked and the workers now career in his spare time catching fish there. The banks of the Cretaceous giant sometimes fall off, so the edge should not be approached. Still amazed that mine is a favorite habitat of crows. They immediately set. They are turned down over a white giant cawing broke the silence, the sleeping monster industry. Our guide said that they had always lived here... Hide a cache, we decided on another career, which is located two kilometers west of the Cretaceous giant. It is much smaller in size, but also looks very picturesque. At the specified coordinates are two dilapidated tower of unknown purpose. When facing them in the top left of the right of the tower in a small recess in the rock washed with water covered with bricks is hiding. In dry weather to get to the tabs, observing precautions you can, without any equipment. But when you visit all the same, be careful and attentive - top wells towers are open to them can fail through negligence. This object is too guarded, but not as serious as the previous one. If you do not want to communicate with the guards do not try to penetrate a barrier that restricts the enclosed area.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1813324">
+                    <groundspeak:date>2012-05-19T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="5184">kurianin</groundspeak:finder>
+                    <groundspeak:text encoded="False">I found cache. Very interesting place.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.3</ox:difficulty>
+                <ox:size>3.7</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="36.5303833" lat="49.5495167">
+        <time>2012-01-10T21:14:29.000Z</time>
+        <name>OX39F0M</name>
+        <desc>Liman Lake by Brigadire, Traditional Cache(3.0/2.9/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX39F0M</url>
+        <urlname>Liman Lake</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3053117">
+            <groundspeak:name>Liman Lake</groundspeak:name>
+            <groundspeak:placed_by>Brigadire</groundspeak:placed_by>
+            <groundspeak:owner id="84134">Brigadire</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Among the water bodies of Kharkiv region, Lake Lyman holds a special place. To begin, we note that it is the largest natural lake Kharkiv region - 5.5 km in length, and at its widest point - 2.5 km in width. The name of Lyman Lake was still in the nineteenth century because of its shallow depth (1.2 m) and the fact that in dry years could dry up almost completely to the bottom. When in the late 50s of the 20th century, it was decided to use the Lyman cooling Zmievskaya power plant, the lake was lowered, strengthened its shores, and deepened. Then the lake again filled with water from the Seversky Donets. And since a huge cooling pond works in the city of Kharkov taking a direct part in the production of electricity. One feature of the Lyman Lake is the fact that its temperature is always several degrees higher than in other water bodies of Kharkiv region in the neighborhood. It turned out that this is a good factor, which allows you to raise this commodity grade fish. Well, everything else is just beautiful and memorable place to visit in our area.&lt;br/&gt;&lt;br/&gt;The container was carefully disguised us dry shoots of ivy and wild grape and hidden in the branches of willow, which is quite easy to find the coordinates in the header.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1813326">
+                    <groundspeak:date>2012-02-11T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="5184">kurianin</groundspeak:finder>
+                    <groundspeak:text encoded="False">Посетил с женой в морозный зимний день. Все в порядке.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.1</ox:size>
+                <ox:terrain>2.9</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="35.31335" lat="49.9518">
+        <time>2012-01-09T11:23:48.000Z</time>
+        <name>OX39JZZ</name>
+        <desc>Well-parrot by Brigadire, Traditional Cache(2.0/2.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX39JZZ</url>
+        <urlname>Well-parrot</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3056940">
+            <groundspeak:name>Well-parrot</groundspeak:name>
+            <groundspeak:placed_by>Brigadire</groundspeak:placed_by>
+            <groundspeak:owner id="84134">Brigadire</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Traveling on the road Kharkiv came across a remarkable hydrographic features - well, water tower in the shape of a parrot sitting on a perch. Clear, icy water. In the summer of this item can be a very useful point on the path of any geokeshera and beyond.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Cache should be sought in the hollow.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.6</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="35.86925" lat="49.51735">
+        <time>2012-01-08T16:28:19.000Z</time>
+        <name>OX2J88T</name>
+        <desc>Fort St. Paraskovija by Brigadire, Traditional Cache(2.3/3.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2J88T</url>
+        <urlname>Fort St. Paraskovija</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2391241">
+            <groundspeak:name>Fort St. Paraskovija</groundspeak:name>
+            <groundspeak:placed_by>Brigadire</groundspeak:placed_by>
+            <groundspeak:owner id="84134">Brigadire</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Fort St. Praskovia - one of 16 earthen forts, built from 1736 to 1739, Kharkiv and Poltava. Preserved earthen wall height of about 4-5 meters in front of the main bastions and walls. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt; The fortress is situated outside the village Paraskovja, on a fairly steep hill. From the village, past the fortress is a dirt road. The cache contains a few souvenirs, a notepad and pencil.</groundspeak:long_description>
+            <groundspeak:encoded_hints>look for the whole of two parts</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1857801">
+                    <groundspeak:date>2010-09-10T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="5184">kurianin</groundspeak:finder>
+                    <groundspeak:text encoded="False">Нашел вместе с коллегами по geocaching.su</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.3</ox:difficulty>
+                <ox:size>3.5</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

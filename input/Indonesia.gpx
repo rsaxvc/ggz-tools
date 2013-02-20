@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>3 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:38:04.051Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="117.5021" lat="2.1577">
+        <time>2012-08-10T20:52:27.000Z</time>
+        <name>OXZTDTK</name>
+        <desc>Rumahku by johna26, Virtual Cache(1.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTDTK</url>
+        <urlname>Rumahku</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Virtual Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28463692">
+            <groundspeak:name>Rumahku</groundspeak:name>
+            <groundspeak:placed_by>johna26</groundspeak:placed_by>
+            <groundspeak:owner id="138273">johna26</groundspeak:owner>
+            <groundspeak:type>Virtual Cache</groundspeak:type>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Rumahku is a place where I live.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:verification/>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="112.7308333" lat="-7.2880833">
+        <time>2012-05-03T12:40:14.000Z</time>
+        <name>OXZTJFZ</name>
+        <desc>sop buntut by Priyohw, Traditional Cache(1.0/1.3/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTJFZ</url>
+        <urlname>sop buntut</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28468198">
+            <groundspeak:name>sop buntut</groundspeak:name>
+            <groundspeak:placed_by>Priyohw</groundspeak:placed_by>
+            <groundspeak:owner id="114081">Priyohw</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">A very delicious cache</groundspeak:long_description>
+            <groundspeak:encoded_hints>Near gelora pancasila</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.3</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="106.80915" lat="-6.1275167">
+        <time>2012-03-15T14:55:08.000Z</time>
+        <name>OX2KMK1</name>
+        <desc>Menara Syahbandar by LUKYKURNIAWAN, Traditional Cache(2.0/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2KMK1</url>
+        <urlname>Menara Syahbandar</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2432881">
+            <groundspeak:name>Menara Syahbandar</groundspeak:name>
+            <groundspeak:placed_by>LUKYKURNIAWAN</groundspeak:placed_by>
+            <groundspeak:owner id="99859">LUKYKURNIAWAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The Menara Syahbandar (also known as de Uitkijk), situated about 50 meters from the Maritime Museum, is the former watch tower that was built on the remains of the old bastion Culemborg. The watch tower acted as a signal box and observation post since 1839 over the roads of Batavia. Before 1839 the signals with the ships were exchanged from the flagpole at the old VOC-shipyard situated straight behind the watchtower. The tower lost part of her function after 1886 when the new harbor of Tanjung Priok was opened.&lt;br/&gt;&lt;br/&gt;The Maritime Museum (Indonesian: Museum Bahari) is located in the old Sunda Kelapa harbor area in Penjaringan Administrative Village, Penjaringan Subdistrict, Jakarta, Indonesia. The museum was inaugurated inside the former Dutch East India Company warehouses. The museum focuses on the maritime history of Indonesia and the importance of the sea to the economy of present-day Indonesia. The museum displays models of fishing boats and other maritime objects from different parts of Indonesia. The museum also exhibits the celebrated Pinisi schooners of the Bugis people of South Sulawesi, which at present make up one of the last sea-going sailing fleets in the world.&lt;br/&gt;&lt;br/&gt;The Maritime Museum was installed in a former Dutch East India Company warehouses. The warehouses were built beside the mouth of Ciliwung River, the main river of Jakarta. The warehouses is divided into two parts: the Westzijdsche Pakhuizen or &quot;warehouses of the west bank&quot; (constructed from 1652–1771) and the Oostzijdsche Pakhuizen or &quot;warehouses of the east bank&quot;. The west warehouse consists of four building units, three of them are now used for the museum. These were formerly used to store spices e.g. nutmeg and pepper. Also coffee, tea and cloths were stored here before being shipped to various ports of Asia and Europe.</groundspeak:long_description>
+            <groundspeak:encoded_hints>The cache is an effervescent container, hide on the top of the tower. Go up stair and the cache is in the left corner of the window where you can see a small memorial monument (cenotaph)</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Menara Syahbandar.jpg</ox:name>
+                    <ox:size>73631</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>cenotaph view.jpg</ox:name>
+                    <ox:size>51999</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+</gpx>

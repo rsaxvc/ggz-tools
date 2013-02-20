@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>1 geocache.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:38:23.968Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="36.8074833" lat="-1.32245">
+        <time>2011-03-14T09:21:25.000Z</time>
+        <name>OXZTX0F</name>
+        <desc>TITAN by garminkenya, Multi-cache(1.6/1.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTX0F</url>
+        <urlname>TITAN</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477328">
+            <groundspeak:name>TITAN</groundspeak:name>
+            <groundspeak:placed_by>garminkenya</groundspeak:placed_by>
+            <groundspeak:owner id="12222">garminkenya</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This chirp will direct you to the upcoming Garmin Concept shop in Nairobi</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="2042610">
+                    <groundspeak:date>2012-08-25T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="138080">maseno</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>2.2</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+                <ox:tag>chirp</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+</gpx>

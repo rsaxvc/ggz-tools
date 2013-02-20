@@ -1,0 +1,1541 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>35 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:37:20.680Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="46.0747" lat="51.5371667">
+        <time>2012-09-19T11:35:43.000Z</time>
+        <name>OXZTCXR</name>
+        <desc>Останец &quot;Три монаха&quot;. by Aurum_Puer, Traditional Cache(2.0/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTCXR</url>
+        <urlname>Останец &quot;Три монаха&quot;.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28462829">
+            <groundspeak:name>Останец &quot;Три монаха&quot;.</groundspeak:name>
+            <groundspeak:placed_by>Aurum_Puer</groundspeak:placed_by>
+            <groundspeak:owner id="150394">Aurum_Puer</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">   Есть на Соколовой горе  одна удивительная достопримечательность, отличается она, еще и тем, что создана не руками человека, а самой природой. Речь идет об удивительной природной достопримечательности - эрозионном останце «Три Монаха».&lt;br/&gt;&lt;br/&gt;   Расположен останец практически на самом обрыве крутого восточного склона Соколовой горы, недалеко от поселка Затон. Саратовцы нарекли останец и другим интересным именем – «Чертов палец», поскольку по своей вытянутой около цилиндрической форме, он действительно напоминает поднятый вверх указательный палец гигантских размеров. Высота останца составляет порядка тридцати метров, ширина около шести метров, при этом природный памятник располагается на древнем оползневом теле, что вместе с естественным выветриванием негативно сказывается на его состоянии, «чертов палец» нуждается в природоохранных мероприятиях. Кроме того, его необходимо защитить от туристического вандализма, каждый, турист, посетивший «Три Монаха» хочет оставить себе на память его небольшой кусочек.&lt;br/&gt;&lt;br/&gt;   В далеком прошлом останец входил в единственный в Саратовской области эрозионный блок, который со временем распался, в результате уцелел лишь «Чертов палец». Структура останца мелкозернистая, в основном он состоит из серого песчаника, кварцевого состава. У самого его основания находятся округлые образования, которые состоят из чередующихся пород песка и глины. Размер образований достигает примерно до 1,5 метров, что абсолютно уникально, в плане геологии. &lt;br/&gt;&lt;br/&gt;   Много легенд и приданий связано с останцем «Три Монаха». Это место было известным ещё в 19 веке, что могут подтвердить безмолвные хранители истории - старинные путеводители по знаменитым, тогда, местам Саратова, в которые останец входил под пунктом достопримечательности. &lt;br/&gt;&lt;br/&gt;   Уже тогда, многие туристы старались попасть на это удивительное место, которое расположено на одном из живописнейших берегов Волги. Именно отсюда открывается великолепный пейзаж на бассейн реки, самый протяженный мост в Европе и Зеленый остров.&lt;br/&gt;&lt;br/&gt;Источник: http://www.geocaching.su/?pn=101&amp;cid=9067</groundspeak:long_description>
+            <groundspeak:encoded_hints>Тайник находится в точке, с координатами N 51&quot; 32.278 Е 046&quot;04.324 , в основании вяза . ( см.фото)</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>05 ноября 2010 г 3.jpg</ox:name>
+                    <ox:size>97999</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>05 ноября 2010 г 2.jpg</ox:name>
+                    <ox:size>47252</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>05 ноября 2010 г.jpg</ox:name>
+                    <ox:size>56993</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="44.5218833" lat="52.452">
+        <time>2012-09-19T11:16:00.000Z</time>
+        <name>OXZTCXT</name>
+        <desc>Водопад на реке Камзолка. by Aurum_Puer, Traditional Cache(2.0/1.9/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTCXT</url>
+        <urlname>Водопад на реке Камзолка.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28462830">
+            <groundspeak:name>Водопад на реке Камзолка.</groundspeak:name>
+            <groundspeak:placed_by>Aurum_Puer</groundspeak:placed_by>
+            <groundspeak:owner id="150394">Aurum_Puer</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">   Водопад — падение воды в реке с уступа, пересекающего речное русло. Водопадом считают место где падает вода выше чем с метра. Ниже - пороги и уступы. Именно такой, чуть  более метра мы и обнаружили в ходе совместной поездки саратовских и волгоградских кэшеров.&lt;br/&gt;&lt;br/&gt;   Водопады - одни из самых симпатичных и впечатляющих творений природы. Вид воды, свободно падающей в воздухе и разбивающейся на земле в облаке брызг и гремящего рева - действительно одно из прекраснейших переживаний в жизни. Кроме того, большинство водопадов расположено в первозданной, захватывающей местности, и в местах у водопадов всегда можно наблюдать красивые радуги.&lt;br/&gt;&lt;br/&gt;Источник: http://www.geocaching.su/?pn=101&amp;cid=10817</groundspeak:long_description>
+            <groundspeak:encoded_hints>Тайник заложен недалеко от водопада в корнях дерева.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.9</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>03 сентября 2011 г 2.jpg</ox:name>
+                    <ox:size>235114</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>03 сентября 2011 г.jpg</ox:name>
+                    <ox:size>224379</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="46.20285" lat="51.6399167">
+        <time>2012-09-18T10:56:02.000Z</time>
+        <name>OXZTCYC</name>
+        <desc>Заброшенный сквер им. &quot;Первого учителя&quot;. by Aurum_Puer, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTCYC</url>
+        <urlname>Заброшенный сквер им. &quot;Первого учителя&quot;.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28462848">
+            <groundspeak:name>Заброшенный сквер им. &quot;Первого учителя&quot;.</groundspeak:name>
+            <groundspeak:placed_by>Aurum_Puer</groundspeak:placed_by>
+            <groundspeak:owner id="150394">Aurum_Puer</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">   Наверное, многие саратовцы помнят, что в советские годы одной из главных достопримечательностей парка Липок являлась Аллея Писателей, объединявшая более десятка скульптурных бюстов выдающихся деятелям культуры. Закрепившееся название не совсем точно, так как наряду с такими поэтами и писателями, как - А.С. Пушкин, М.Е. Салтыков-Щедрин, М.Ю. Лермонтов, Н.А. Добролюбов, И А. Крылов, Н.В. Гоголь, в комплекс аллеи входили также памятники композиторам - П.И. Чайковскому, М.И. Глинке, Л.В.Бетховену, Ф.Шопену, учёным А.С. Поповуи, И.М. Сеченову, и даже Карлу Марксу. Все бюсты были установлены на невысокие фигурные постаменты. &lt;br/&gt;К 1990-м годам большинство изваяний нуждалось в реставрации, в том числе в результате актов вандализма: были повреждены пьедесталы, отколоты носы. В ходе последовавшей реконструкции Липок, бюсты были демонтированы. Совсем недавно я узнала, что они были перевезены в село Усть-Курдюм, где их вновь установили в парке Первой учительницы.&lt;br/&gt;&lt;br/&gt;   Из интернета удалось узнать, что данный парк был открыт 17 сентября 2001 года при поддержке тогдашнего губернатора Д.Ф. Аяцкого. Проект был безвозмездно разработан архитектором районной администрации. Над созданием парка потрудились многие жители района. В их числе — сотрудники районного управления культуры, образования, учителя, работники социальной сферы, учащиеся. Примечательно, что среди его создателей не было профессиональных строителей и специалистов.&lt;br/&gt;&lt;br/&gt;Подобный парк является единственным на территории области. Он разбит на месте старого пустыря. В парке посажено около 1000 деревьев, сооружен фонтан. Настоящим украшением парка является большая мемориальная доска, увековечившая память о Первой Учительнице.&lt;br/&gt;&lt;br/&gt;   В настоящее время парк заброшен и сейчас там полный упадок, вызывающий грусть. Если не обращать внимание на вандализм и невежество местной молодежи, да пасущихся коз на ухоженных когда-то клумбах, можно увидеть интересную задумку архитектора, полюбоваться  цветущими лилейниками, стройными березками, катальпами и др.&lt;br/&gt;&lt;br/&gt;Источник: http://www.geocaching.su/?pn=101&amp;cid=12118</groundspeak:long_description>
+            <groundspeak:encoded_hints>Тайник имеет координаты N 51&quot;38.395 E 046&quot;12.171 Спрятан он на довольно открытом месте - на самой верхней площадке, за металлической стенкой желоба для стока воды (см. фото) и прикрыт камушками. Кэш представляет собой капсулу с микро-карандашом, точилкой и специальным листом для отметки посетителей. Обмен призами не предусмотрен!</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>28 сентября 2012.jpg</ox:name>
+                    <ox:size>133321</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>28 сентября 2012 2.jpg</ox:name>
+                    <ox:size>82826</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="47.9269333" lat="52.22425">
+        <time>2012-09-18T10:07:00.000Z</time>
+        <name>OXZTCYD</name>
+        <desc>Гора Маячная. by Aurum_Puer, Traditional Cache(2.0/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTCYD</url>
+        <urlname>Гора Маячная.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28462849">
+            <groundspeak:name>Гора Маячная.</groundspeak:name>
+            <groundspeak:placed_by>Aurum_Puer</groundspeak:placed_by>
+            <groundspeak:owner id="150394">Aurum_Puer</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">   Недалеко от трассы Сызрань-Саратов-Волгоград высится гора Маячная или Мерная. Уж чуть ли не середину Волги ей приписывают. Виды с неё открываются фантастические. Здесь как нигде отчётливо видно деление Волги на левый степной и правый холмистый берега. Разница между ними колоссальная. Сейчас их объединяет одна область, хотя еще и ста лет не прошло с того момента, как заволжские степи относились к Самарской губернии.&lt;br/&gt;&lt;br/&gt;   Раздолье невероятное. Маячная кокетливо меняется, то сплошь покрыта зелёной травой и пейзажи делаются шотландскими, то желтеет, то и вовсе чернеет. По осени мы и застали её тёмно-коричневой.&lt;br/&gt;&lt;br/&gt;   По указу Петра I в 1699 году на «горной стороне» против острова строится маленькая крепость-городок для защиты от кочевников. В центре укрепления воздвигается сторожевой пост — Маяк. С тех пор гора, на которой разместилась крепость, стала называться Маячной. Это самая старая часть современного Хвалынска, за которой до сих пор осталось это название, Маячная гора. Позже здесь стали селиться люди.&lt;br/&gt;&lt;br/&gt;   Внизу на берегу Волги - Меровка, сейчас её уже нет на картах, осталось название по старой памяти. Меровка — село, образованное в 1868г. Административный центр на 1912 год Хвалынск, в наше время город Вольск. Деревянная церковь-школа, с отдельной деревянной колокольней на столбах, была построена в селе Меровка Хвалынского уезда Саратовской губернии в 1896 году на средства казны и тщанием прихожан. В штате причта состояли священник и псаломщик. В селе была церковно-приходская школа. В хвалынской Меровке было 160 дворохозяев, жители специализировались на садоводстве. После 1906 г. 42 хозяина вышли на отруба по 15-20 десятин, исчезли пастбища, образовалось два общества. В 1917 г. крестьяне разделили землю имения графа Воронцова-Дашкова. В результате белые не смогли привлечь в свои ряды ни одного человека из этого села (хотя у власти КомУча и не было реставраторских помышлений), а в Красную Армию осенью 1918 г. по призыву ушло свыше 50 человек. &lt;br/&gt;После постройки ГЭС затопило деревню Меровка. От деревни осталось только название и один домик, в котором сейчас расположен рыбацкий стан, а остальная деревня под водой. Сейчас там дачный посёлок, построенный уже после возведения ГЭС. &lt;br/&gt;&lt;br/&gt;   Маячная это фактически самая заметная вершина северной части Девичьей гряды, то есть знаменитых в этих краях Девичьих горок. Высота её около 180 метров. Как это часто бывает с горами и горками, особенно волжскими, есть тут свои легенды.&lt;br/&gt;&lt;br/&gt;   Из книги Худякова Д.С. - &quot;Хвалынская «кругосветка&quot;: По преданию, где-то рядом с Маячной горой долго занималась разбоем шайка некой Пелагеи, которую в легендах обычно называют «девушкой Пелагеюшкой». Покинув свою семью, чем-то обидевшую ее, она примкнула к разбойникам и вскоре стала у них верховодить.&lt;br/&gt;Немного севернее, у Лысой горы, в заросшем непроходимым лесом овраге держала будто бы свой стан другая атаманша, сестра Пелагеи, Аринка. Кроме храбрости обладала она, как рассказывают, еще и умением использовать колдовские чары, чему научил ее старик-чернокнижник по прозванию Лысый. Выходя при появлении купеческих судов на крутой берег, Аринка только взмахивала рукой — и тут же стихал ветер, тряпками повисали паруса, непомерной тяжестью наливались весла в руках гребцов, а волжская вода прекращала свой бег. Появившиеся невесть откуда подручные атаманши захватывали судно и начинали грабеж.&lt;br/&gt;&lt;br/&gt;   Есть в этой легенде, сложенной, вероятно, в конце уже XVII в., и еще одно популярное тогда в наших краях «действующее лицо» — Степан Разин. Узнав о «подвигах» молодой и, надо полагать, очень привлекательной атаманши, прилетал он к ней ночами «на персидском ковре-самолете». Долго отклоняла Аринка ухаживания Степана, но однажды не устояла против горячих ласк его, нарушив тем самым зарок, данный когда-то своему учителю-чародею. Когда на следующий день вышла она на гору, чтоб остановить плывущее по реке судно, взмаху ее не подчинились ни ветер, ни вода, ни гребцы. С горя бросилась Аринка с кручи и разбилась насмерть. А Степан, как говорят, нет-нет да прилетает ночью в Аринкин овраг и подолгу сидит там, охваченный грустью.&lt;br/&gt;&lt;br/&gt;Источник: http://www.geocaching.su/?pn=101&amp;cid=12596</groundspeak:long_description>
+            <groundspeak:encoded_hints>Тайник заложен ближе к соседнему холму под деревцем по координатам N 52°13.455  E 47°55.616.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>08 сентября 2012.jpg</ox:name>
+                    <ox:size>89628</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>08 сентября 2012 2.jpg</ox:name>
+                    <ox:size>120217</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="46.3215" lat="52.2224167">
+        <time>2012-09-18T09:40:12.000Z</time>
+        <name>OXZTCYE</name>
+        <desc>Храм во имя преподобного Сергия Радонежского. by Aurum_Puer, Traditional Cache(3.0/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTCYE</url>
+        <urlname>Храм во имя преподобного Сергия Радонежского.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28462850">
+            <groundspeak:name>Храм во имя преподобного Сергия Радонежского.</groundspeak:name>
+            <groundspeak:placed_by>Aurum_Puer</groundspeak:placed_by>
+            <groundspeak:owner id="150394">Aurum_Puer</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">   В 1701 году на территории будущего Саратовского уезда были основаны два села — Дорофеевка и Алексеевка. В годы Советской власти из двух сел было образовано одно, за которым было оставлено название Алексеевка. Сохранившийся доныне храм находился в селе Дорофеевка. Каменная церковь, с каменными же колокольней и оградой, была построена в 1884 году тщанием прихожан. Престолов в храме было три: главный во имя святителя Николая Чудотворца, приделы в честь Вознесения Господня и во имя преподобного Сергия Радонежского. &lt;br/&gt;   В штате причта были два священника, диакон и два псаломщика. Дома для причта церковные. В приходе были двухклассная земская и две церковных школы (одноклассная и двухклассная). &lt;br/&gt;   Церковь в селе Алексеевка (ныне разрушена) была построена в 1906 году тщанием прихожан с помощью вольского мещанина Владимира Рыжова и других жертвователей. Церковь деревянная, теплая, с такою же колокольней. Престол в ней был один — в честь Рождества Христова. В штате храма были священник, диакон и псаломщик. Дома для причта были церковные. В приходе были церковноприходская и земская школы. &lt;br/&gt;   В годы советской власти Храм был частично разрушен, здание использовалось как зернохранилище. Уникальные росписи были забелены. &lt;br/&gt;   Напротив Храма располагался тир. Зачастую Храм служил целью для стреляющих. Из-за этого фасад здания со стороны главного входа сильно повреждён. &lt;br/&gt;&lt;br/&gt;В наши дни ведутся активные реставрационные работы частично разрушенного в годы Советской власти храмового здания. А так же строительство новых монастырских зданий.&lt;br/&gt;   Вначале при храме образовался православный скит, который был освящен в честь св. преподобных Кирилла и Марии, родителей св. преп. Сергия Радонежского.&lt;br/&gt;   В 2007 году скиту был присвоен статус Свято-Сергиева женского монастыря.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Сам кэш спрятан на холме, с которого открывается вид на всё село. Коробочка с призами находится рядом с березкой, растущей на склоне, под камнем, по координатам N 52&quot;13.345 E 046&quot;19.290.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>09 сентября 2012 г 2.jpg</ox:name>
+                    <ox:size>93377</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>09 сентября 2012 г.jpg</ox:name>
+                    <ox:size>39359</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="48.0336833" lat="52.4204333">
+        <time>2012-09-18T09:13:57.000Z</time>
+        <name>OXZTCYF</name>
+        <desc>Неразгаданные тайны древнего городища. by Aurum_Puer, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTCYF</url>
+        <urlname>Неразгаданные тайны древнего городища.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28462851">
+            <groundspeak:name>Неразгаданные тайны древнего городища.</groundspeak:name>
+            <groundspeak:placed_by>Aurum_Puer</groundspeak:placed_by>
+            <groundspeak:owner id="150394">Aurum_Puer</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">       Городскому жителю, чей ежедневный маршрут  укладывается в привычную схему «дом — работа — магазин», очень трудно уверовать в какую-либо мистику. Если и происходит что-то аномальное, то происходит оно почему-то, не здесь и не с нами... Событие, участником которого я стал, заставило уверовать в то, что необъяснимые события могут случаться не только где-нибудь в глухой сибирской тайге, а совсем рядом — на территории Хвалынского национального парка.&lt;br/&gt;&lt;br/&gt;       В конце 19-го века признаки городища обнаружил один из самых блестящий краеведов того времени, создатель Хвалынского краеведческого музея Михаил Алексеевич Радищев (один из потомков А. Н. Радищева). Михаил Алексеевич к тому времени имел исключительные по своему значению коллекции, известные в Москве и Санкт-Петербурге.  Охотник и краевед, обследуя лесные окрестности с. Подлесное, на вершине одной из гор, он обратил внимание на два десятка провалов в земле: они имели правильную четырехугольную форму и были расположены в  геометрическом порядке. Результаты организованной им археологической экспедиции показали, что данное поселение относится к  фино-угорской группе, жившей здесь 4 тысячи лет назад. Революция и последующие исторические события, отвлекли внимание ученых от городища, и только в 70-е годы ХХ века, группа саратовских археологов и студентов исторического факультета, вернулось к открытию А.М. Радищева. В составе той группы оказался тогдашний студент и наш сегодняшний гид Виктор Алексеевич. Раскопки нескольких землянок дали интересные результаты: среди находок оказалось много костей диких и домашних животных, но не было найдено ни одного фрагмента человеческих останков. Это подтверждало теорию о том, что в традициях племен фино-угров было сжигание умерших на деревьях.&lt;br/&gt;&lt;br/&gt;       Места для городищ выбирались на самых верхних частях лесных отрогов, причем только с восточной стороны плато. Крутые склоны защищали места поселений с двух, а иногда с трех сторон. Кроме того места проживания по периметру защищались валами из земли и камней, глубокими рвами, а затем огораживались бревенчатым частоколом. Городище к которому мы должны совершить восхождение имело порядковый номер 10, а всего было открыто 20 городищ. Расположенные цепочкой протяженностью около 20 километров (от д/о «Черемшаны-2» до поселка Алексеевка) они по сути занимают всю центральную часть национального парка.&lt;br/&gt;&lt;br/&gt;Источник: http://www.geocaching.su/?pn=101&amp;cid=12589 </groundspeak:long_description>
+            <groundspeak:encoded_hints>Тайник легче найти, если идти вдоль рва (или скорее, канавы), ограждающего городище с северной стороны. Закладка находится под камнем, просьба не рыть вокруг дерева!</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>01 сентября 2012 г.jpg</ox:name>
+                    <ox:size>187161</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>01 сентября 2012 г 2.jpg</ox:name>
+                    <ox:size>163520</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="85.3376833" lat="54.5195667">
+        <time>2012-08-13T05:09:18.000Z</time>
+        <name>OXZTDPA</name>
+        <desc>озеро Апрелька by aleks-d, Traditional Cache(2.0/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTDPA</url>
+        <urlname>озеро Апрелька</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28463590">
+            <groundspeak:name>озеро Апрелька</groundspeak:name>
+            <groundspeak:placed_by>aleks-d</groundspeak:placed_by>
+            <groundspeak:owner id="100701">aleks-d</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Бирюзовое озеро возле деревни Апрелька одно из удивительных мест в Кузбассе. Говорят, что оно образовалось на месте бывшего карьера, где стояли драги, намывающие золото. Так что озеро практически бездонное, во всяком случае, старожилы затрудняются сказать, какая тут глубина. И при ясной погоде с солнцем на небе, и при хмурой с серыми тучами вода в озере не просто сине-голубая, а бирюзовая. Трудно взгляд отвести. Название озеру дали такое же, как и у близлежащей деревни – Апрелька. Сама деревенька, где местного населения уже меньше, чем дачного, входит в состав Урского поселения. А последнее относится к Гурьевскому району. &lt;br/&gt;&lt;br/&gt;Каждый год едут на Апрельское озеро, множество людей.  Говорят, что и сама вода исцеляющая, но еще больше лечит глина, которой на берегах озера хоть ковшом экскаватора черпай. От компрессов с нею якобы уже на другой день заживают раны, перестает ломить суставы, а цветов этой глины… белая, голубая, красная, желтая, черная, зеленая, золотистая, серебристая и просто перемешанная всеми цветами глина.  &lt;br/&gt;&lt;br/&gt;Как добраться:&lt;br/&gt;&lt;br/&gt;Дорога на бирюзовое озеро проста. От Кемерова в сторону горнолыжного комплекса Танай в Промышленновском районе. Добравшись до трассы Ленинск-Новосибирск, сворачиваем в сторону Ленинска, проезжаем старинное село Красное, и направляеемся в деревню Аринчево, но берем правее, мимо деревни Кокуй и въезжаем в красивейшую деревеньку Хрестиновку. А уж отсюда ведет одна дорога – на Гурьевск. Но уже через пять минут появится Апрелька и сразу за ней озеро. Обрывистый берег в 50 метрах от трассы.  &lt;br/&gt;&lt;br/&gt;Убедительная просьба, увозите свой мусор с собой. Многочисленные туристы и так все кругом по загадили. Давайте будем беречь то, что дала нам природа. </groundspeak:long_description>
+            <groundspeak:encoded_hints>Тайник находится вдоль озера в лесочке у кривой сосны в корнях слегка закопан у основания дерева.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.7</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>DSC06958----.jpg</ox:name>
+                    <ox:size>110769</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>DSC06945-------.jpg</ox:name>
+                    <ox:size>112214</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="48.36035" lat="53.0656333">
+        <time>2012-08-11T07:04:25.000Z</time>
+        <name>OXZTDTE</name>
+        <desc>Таинственный тонель by IRA.KOTENKA, Traditional Cache(3.0/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTDTE</url>
+        <urlname>Таинственный тонель</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28463687">
+            <groundspeak:name>Таинственный тонель</groundspeak:name>
+            <groundspeak:placed_by>IRA.KOTENKA</groundspeak:placed_by>
+            <groundspeak:owner id="139997">IRA.KOTENKA</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Двигаясь по обводной дороге от трассы Р-228 (Сызрань-Саратов-Волгоград) в сторону трассы М5, на спуске в овр. Деловая Кубра перед мостом будет поворот направо на грунтовую дорогу. Координаты поворота: N53°04.186',  E048°21.248'  . Проехав по ней до первых деревьев ищите дорогу направо, которая и приведет вас к заветной точке, которая находится  метрах в 70 слева от дороги. Координаты входа в тоннель: N53°03.938',  E048°21.621'  . Полазив по окрестным кустам, Вы обязательно его найдете. Сам тайник находиться на противоположной стороне тоннеля, чтоб добраться до него придется пройти780 метров под землей. На выходе вас поджидают отвесные бетонные стены по обоим краям, но залезть на них не составляет особого труда. Однако наличие хотя бы одного мужчины в команде приветствуется. Выбравшись на поверхность земли справа (по ходу движения)  метрах в 20 от выхода Вы увидите лежащую разрушенную бетонную трубу, под ней прикрытый камнями лежит заветный клад.</groundspeak:long_description>
+            <groundspeak:encoded_hints>возьмите резиновые сапоги</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>chirp</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="29.7588" lat="60.0297667">
+        <time>2012-08-03T08:19:48.000Z</time>
+        <name>OXZTDZ8</name>
+        <desc>Северный No1 by HyLog, Unknown Cache(2.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTDZ8</url>
+        <urlname>Северный No1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28463836">
+            <groundspeak:name>Северный No1</groundspeak:name>
+            <groundspeak:placed_by>HyLog</groundspeak:placed_by>
+            <groundspeak:owner id="138213">HyLog</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Описание окружающей местности&lt;br/&gt;Первоначально была идея заложить пошаговый тайник на северных фортах No1, 3 и 7. Однако проехав по дамбе на Кронштадт и посетив форты No3 и 7 убедились, что они полностью разрушены, разворованы, превращены в свалки и более не представляют ни исторической, ни исследовательской ценности. Относительно неплохо сохранился северный форт No1, расположенный несколько в стороне от дороги, но до которого можно доехать на транспорте по отдельной искуственной дамбе. На нем и было решено создать тайник.&lt;br/&gt;Итак, немного истории. Первые планы по защите северного фарватера относятся еще к петровскому времени. Однако по настоящему большие работы начались с 1800-х годов, когда там были устроены сплошные свайные и ряжевые преграды. Северный форт No1 был построен на искуственном островке, на сваях, которые забивали в морское дно зимою со льда. Первоначально он представлял собой деревянное укрепление, которое в 1827 году было заменено на каменное. Перед Крымской войной были построены казематы с кирпичными сводами с толщиной в замке 2 метра. Форт был облицован гранитом. В июне 1854 г. англо-французская эскадра подошла к Кронштадту. Оценив мощь фортов и батарей и потеряв пару мелких судов на минных заграждениях (первых в мире), эскадра отбыла восвояси ни с чем.&lt;br/&gt;Во время Зимней и Отечественной войн 1939-1945 гг. северные форты, Тотлебен и Овручев огнем артиллерии способствовали прорыву линии Маннергейма, пресекали попытки немцев и финнов продвинуться к Ленинграду на приморских направлениях.&lt;br/&gt;После войны северные форты использовались под склады флотского имущества, полигоны для испытания пирогелей (Впечатляют сталактиты из расплавившегося в казематах кирпича), хранилища мин. В 1960-х годах прошла компания по сбору металлолома - все железо на фортах было снято, оторвано и увезено. В настоящее время северный форт No1 сохранил остатки укреплений в виде бетонных и земляных траверзов, снарядных погребов, дальномерного павильона, шахты прожектора, оборудованной подъемным механизмом, казарм и многочисленных ДОТов. В целом форт постепенно разрушается и разворовывается мародерами. Вряд ли такой комплекс фортификационных сооружений, как Кронштадтский, существует еще где-либо в мире, и сочетание богатой истории и былой военно-морской мощи России с нынешним упадком и разорением дает пищу для размышлений и ассоциаций.&lt;br/&gt;&lt;br/&gt;Описание тайника&lt;br/&gt;Для взятия этого тайника Вам НЕОБХОДИМ ФОНАРИК!!!!!&lt;br/&gt;&lt;br/&gt;Ответвление на северный форт No1 от основной дороги на Кронштадт находится в точке N 60.01.220, E 029.44.698. К форту легко проехать на любой машине практически до точки закладки тайника. На въезде висит грозная, но ржавая табличка &quot;Запретная зона! Стреляю!&quot;, которая игнорируется как рыбаками, так и &quot;отдыхающими&quot;. Для стимуляции осмотра форта тайник сделан пошаговым. Недостающие цифры для координат зашифрованы в двух виртуальных точках. &lt;br/&gt;Первая указана в начальных координатах - это восточный фланг форта.&lt;br/&gt;Вторая точка находится по координатам: N 60. 01. 789    E 29. 45. 423&lt;br/&gt;&lt;br/&gt;в этой точке найдите гранитный спуск к воде, и посчитайте количество ступеней (включая промежуточные площадки) на данном спуске:&lt;br/&gt;&lt;br/&gt;Если ступеней 7 C=1, D=5&lt;br/&gt;&lt;br/&gt;Если ступеней 9 C=3, D=4&lt;br/&gt;&lt;br/&gt;Если ступеней 12 C=2 D=3&lt;br/&gt;&lt;br/&gt;Если ступенй 16 С=3 D=2 &lt;br/&gt;&lt;br/&gt;Пройдя указанные шаги, мы получаем данные, которые подставляем в формулу.&lt;br/&gt;N 60.01. 7(5 D)Z, E 029.45.DCZ&lt;br/&gt;Z=C0:5 (умножения нет)&lt;br/&gt;Тут, правее и ниже цифры 8 ищите микрокапсулу с дальнейшими шагами.&lt;br/&gt;Она находится слева, в гранитной нише, прикопана в песок и прикрыта кирпичем.&lt;br/&gt;&lt;br/&gt;В зимний период в случае высокого снежного покрова данная капсула может быть недступна. Для взятия тайника зимой (а также - в случае утери основной капсулы) - ищите дубликат. В этой же самой нише вам надо пройти через гранит, найти выдолбленную нишу в кирпиче, и с левой стороны этой ниши в выщерблине нащупать дубликат капсулы (см. фото).</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Дубликат тайника.jpg</ox:name>
+                    <ox:size>41827</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>1051.jpg</ox:name>
+                    <ox:size>152601</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Тайник 4.jpg</ox:name>
+                    <ox:size>94860</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>1052.jpg</ox:name>
+                    <ox:size>128639</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="29.8426667" lat="59.8941667">
+        <time>2012-08-02T06:58:49.000Z</time>
+        <name>OXZTDZZ</name>
+        <desc>Сокровище Лихтенбергских by HyLog, Traditional Cache(2.5/1.1/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTDZZ</url>
+        <urlname>Сокровище Лихтенбергских</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28463858">
+            <groundspeak:name>Сокровище Лихтенбергских</groundspeak:name>
+            <groundspeak:placed_by>HyLog</groundspeak:placed_by>
+            <groundspeak:owner id="138213">HyLog</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Описание окружающей местности&lt;br/&gt;Усадьба «Сергиевка» Биологического института СПбГУ, бывшее поместье семьи Лихтенбергских. В свое время ее владельцами были будущие цари: Александр Николаевич (Александр I) и Елизавета Петровна, Николай I и его дочь Мария Николаевна. В 1844-50 гг усадьба приняла вид, отдаленно напоминающий теперешний, стараниями знаменитого архитектора Штакеншнейдера, которому принадлежит авторство многих великолепных зданий Петербурга. &lt;br/&gt;&lt;br/&gt;Летний дворец – жемчужина усадьбы – построен в 1832-42 гг к свадьбе Марии Николаевны и герцога Максимилиана Лихтенбергского. Когда-то в парке было много скульптур, установленных вдоль дорожек. До наших дней они, к сожалению, не сохранились. Однако, неподалеку от дворца, в овраге, находится интересный памятник – высеченная в цельном куске камня голова «Русич» или «Старик», возле которой бьет родник. Есть легенда, что под впечатлением именно от этого памятника, Александр Сергеевич Пушкин написал свою поэму «Руслан и Людмила».&lt;br/&gt;&lt;br/&gt;Увы, но интерьеры дворцов также не дошли до нас. Во время войны усадьба была сильно повреждена. Основные реставрационные работы проходили в 80-ых годах, дворцы восстанавливались в 1965-ом, однако церковь Святой Троицы до сих пор стоит в руинах. Однако мы все же имеем возможность наслаждаться красотой разбитого парка. Для меня это, пожалуй, лучший парк в окрестностях Петербурга. Конечно, по размерам и количеству достопримечательностей он не может сравниться с Петергофом, Пушкином или Павловском, но, как мне кажется, он намного уютнее и живописнее.&lt;br/&gt;&lt;br/&gt;-=-=-=-=-=-=-=-=-=-=-&lt;br/&gt;Авторские права на фотографии (с) «Бродячая камера» www.enlight.ru, полную галерею, посвященную усадьбе, можно найти по адресу http://www.enlight.ru/camera/114/index.html&lt;br/&gt;Вопросы, пожелания, комментарии к тайнику можно присылать на адрес aleckkATmail.ru&lt;br/&gt;-=-=-=-=-=-=-=-=-=-=-&lt;br/&gt;&lt;br/&gt;Описание тайника&lt;br/&gt;Для успешного нахождения тайника вам понадобится лист бумаги, карандаш и линейка.&lt;br/&gt;&lt;br/&gt;Тайник пошаговый и включает в себя три закладки, две виртуальные точки плюс необязательную бонус-точку. Координаты первой точки даны вверху страницы. Это точка у парадного подъезда Летнего дворца усадьбы. Обойдите усадьбу вокруг (с северной стороны, недавно отреставрированной, открывается потрясающий вид на залив).&lt;br/&gt;&lt;br/&gt;Вторая виртуальная точка находится по азимуту 288 на расстоянии 143 метра. Это тот самый камень. Посчитайте столбики на мосту с одной стороны по пути к (Z). Сколько целых сантиметров составляет диаметр отверстия в носу (Y)?&lt;br/&gt;&lt;br/&gt;Теперь вы можете узнать координаты бонус-точки:&lt;br/&gt;N 59 53.593&lt;br/&gt;E 29 50.4(Z 10)&lt;br/&gt;(Закопана в корнях стройной ели)&lt;br/&gt;&lt;br/&gt;А также координаты первого микроконтейнера (коробка из-под фотопленки):&lt;br/&gt;N 59 53.(Y 1)69&lt;br/&gt;E 29 50.057&lt;br/&gt;(Искать на высоте полметра) &lt;br/&gt;&lt;br/&gt;Координаты второго микрика следующие:&lt;br/&gt;&lt;br/&gt;N 59 53.41Z&lt;br/&gt;E 29 50.1(Y-1)(Y 1)&lt;br/&gt;(Искать в полости корня ели, заткнутого шишкой)&lt;br/&gt;&lt;br/&gt;Необязательная для посещения бонус-точка содержит подсказку к поиску финальной точки. Своим появлением она обязана питерскому геокэшеру AlexSvar, поддерживающему, пожалуй, лучший Веб-ресурс по окрестностям Петербурга www.around.spb.ru. Бонус-точка не является основной целью этого тайника, однако она может стать утешением для тех, кто по какой-либо причине не сможет добраться до финального контейнера. В первом микроконтейнере вы найдете половину координат финального контейнера. Второй микрик содержит вторую половину координат главного тайника.&lt;br/&gt;&lt;br/&gt;Это восстановленный вариант тайника. Задумка автора была посложнее. В частности, подсказку для поиска также нужно было найти в микриках. Сейчас подсказка дается открытым текстом: &lt;br/&gt;&quot;Финальная закладка в дупле дерева&quot;. &lt;br/&gt;Также прошу прощения за возможные косяки. По вопросам тайника связыватесь с игроками &quot;Seriy Volk&quot; или &quot;Cossacks&quot;.&lt;br/&gt;&lt;br/&gt;Пожалуйста, не забирайте ничего из этих двух микроконтейнеров! Главное сокровище ждет вас в финальной точке. Записывайте координаты и подсказки на собственный листок.&lt;br/&gt;&lt;br/&gt;Вся прогулка спланирована таким образом, что вы не пройдете дважды по одной и той же дорожке, учтите это при выборе направления движения. Я свел к минимуму перемещения вне проложенных дорожек, новые тропы вряд ли будут к лицу старинной усадьбе. Суммарное расстояние при поиске тайника составит около 3-х километров, учтите также заявленную сложность и планируйте время для поисков заранее. Не сочтите за труд следовать правилам посещения парка, даже если они кажутся вам странными. Кроме бонус-точки, ВСЕ ЧАСТИ ТАЙНИКА ДОСТУПНЫ БЕЗ РАСКОПОК, учтите это. Тайник, за исключением бонус-точки, можно искать вплоть до установления устойчивого снежного покрова. Сложность закладки после восстановления 31 ноября 2004 уменьшилась до 3. После восстановления 30 апреля 2006 местоположение точек изменилось, проверьте актуальность ваших распечаток. Удачи!&lt;br/&gt;-------------&lt;br/&gt;ВНИМАНИЕ! Парк, которому посвящен тайник, популярен у местных жителей и многопосещаем. Постарайтесь замаскировать части тайника также, как они были замаскированы до вашего посещения!</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>1.1</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>438.jpg</ox:name>
+                    <ox:size>41111</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>440.jpg</ox:name>
+                    <ox:size>50156</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>436.jpg</ox:name>
+                    <ox:size>31772</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>437.jpg</ox:name>
+                    <ox:size>35669</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>439.jpg</ox:name>
+                    <ox:size>47413</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="29.8551667" lat="60.5566667">
+        <time>2012-08-02T06:42:51.000Z</time>
+        <name>OXZTE01</name>
+        <desc>Странное письмо by HyLog, Traditional Cache(3.0/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTE01</url>
+        <urlname>Странное письмо</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28463860">
+            <groundspeak:name>Странное письмо</groundspeak:name>
+            <groundspeak:placed_by>HyLog</groundspeak:placed_by>
+            <groundspeak:owner id="138213">HyLog</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Описание окружающей местности&lt;br/&gt;Странно, что все это было уже весьма давно, а помню все это так, как будто бы все произошло вчера.&lt;br/&gt;&lt;br/&gt;Чертыхаясь, чуть не матерясь, и проклиная друзей, которые так настойчиво пытались меня оставить &quot;еще по одной&quot;, я стоял у расписания пригородных поездов на безымянной станции: по всему выходило, что та электричка, хвост которой я видел минуту назад, бегом поднимаясь на платформу, была последняя на сегодня. А значит светила мне так же ясно, как светил в начале платформы красный светофор, пятнадцатикилометровая прогулка домой по шпалам и рельсам. Встряхнувшись, и купив в близлежащей палатке бутылку пива (ну не идти же в такой дальний путь на сухое горло), я спустился на насыпь. И вдруг увидел валявшийся прямо у железнодорожного полотна какой-то листок. Подойдя поближе, я наклонился, и рассмотрел странный листик. Это оказался обычный, почтовый конверт, какие циркулируют с письмами по всей нашей необъятной родине. Адрес отправителя на конверте отсутствовал, а адрес получателя совсем расплылся от влаги, так что прочитать чего-то было совсем невозможно.&lt;br/&gt;&lt;br/&gt;Однако, внутри конверта было что-то еще.&lt;br/&gt;&lt;br/&gt;Мгновение подумав, я перевернул конверт. Он оказался незапечатан. И оттуда выпали два сложенных пополам листка.&lt;br/&gt;&lt;br/&gt;Развернув первый, я, в бледном и неровном свете станционного фонаря, прочитал:&lt;br/&gt;&lt;br/&gt;&quot;Привет!&lt;br/&gt;&lt;br/&gt;Если ты читаешь это письмо, значит я уже покинул пределы России. Не ищи меня: это бесполезно. Когда ты понадобишься, то я сам тебя найду, где бы ты ни был. Все, что принадлежит тебе, я сохранил в надежном месте, которое скрыто пусыми консервными банками (прости, я знаю, как ты брезгливо относишься ко подобным вещам - но ничего другого под рукой не оказалось, а нужно было действовать быстро) примерно на высоте человеческого роста. Все указания, как найти - смотри на следующем листе. Для верности, что все это не попадет к посторонним людям, я записал все известным тебе шифром. Но ты сможешь это прочесть без труда - коли ты еще помнишь, как читать такие послания.&lt;br/&gt;&lt;br/&gt;Прощай, и береги себя. Нам всем нужно беречься в это время.&quot;&lt;br/&gt;&lt;br/&gt;А на втором листе была написана сплошная китайская грамота, которую я сфотографировал, и сейчас показываю на фотографиях.&lt;br/&gt;&lt;br/&gt;Целую ночь я просидел тогда на станции под фонарем, вертя листок то так то эдак, пытаясь проникнуть в смысл этих иероглифов. Но ничего не получилось.&lt;br/&gt;&lt;br/&gt;И поныне иногда, правда - все реже и реже - достаю я этот странный листик, смотрю на него, пытаюсь понять тот смысл, что заключен в странных строчках. Но все время мне чего-то не хватает: времени, сил после рабочего дня, усидчивости, а может быть, что и еще чего-то, что я не могу описать словами. И снова и снова я откладываю этот лист, что бы вернуться к нему позже. Потом... Когда-нибудь...&lt;br/&gt;&lt;br/&gt;Описание тайника&lt;br/&gt;&lt;br/&gt; &lt;br/&gt;Предлагаю Вашему вниманию простенький логический тайник. Хочу предупредить заранее: в точке тайника нет никаких достопримечательностей - тайник основан ИСКЛЮЧИТЕЛЬНО на своей логической составляющей, без которой он теряет всякий смысл. Большая просьба к играющим: не писать никаких наводок на тайник в интернет-блокноте - дайте другим играющим решить эту задачу самостоятельно.&lt;br/&gt;&lt;br/&gt;Координаты, указанные в заголовке тайника, никакого отношения к месту закладки не имеют! Все необходимые данные находятся в описании и на фотографии тайника.&lt;br/&gt;&lt;br/&gt;Тайник всесезонный! Зимой в качестве маскировки путайте следы.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>7523.jpg</ox:name>
+                    <ox:size>50767</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="29.8947667" lat="60.1556833">
+        <time>2012-07-30T08:06:32.000Z</time>
+        <name>OXZTE25</name>
+        <desc>Пенаты by HyLog, Unknown Cache(3.0/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTE25</url>
+        <urlname>Пенаты</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28463926">
+            <groundspeak:name>Пенаты</groundspeak:name>
+            <groundspeak:placed_by>HyLog</groundspeak:placed_by>
+            <groundspeak:owner id="138213">HyLog</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Описание окружающей местности&lt;br/&gt;Если ехать из Петербурга по северному берегу Финского залива, то через 44 километра Приморское шоссе приведет в поселок Репино (бывшая Куоккала), и вскоре справа, за деревьями, блеснет стеклянными крышами двухэтажный деревянный дом, а у дороги появятся резные узорчатые ворота с надписью: &quot;Пенаты&quot;. Это Музей-усадьба И. Е. Репина (1844-1930). &lt;br/&gt;В усадьбе, ставшей в 1940 году мемориальным музеем, великий художник прожил три десятилетия. Здесь провел он остаток дней и здесь же осенью 1930 года был похоронен на холме, который сам определил как место будущей могилы. В то время Куоккала была финской территорией. В &quot;Пенатах&quot; стояли два дома. В том, что вблизи дороги, жил со своей семьей Юрий Ильич Репин, сын художника и сам художник. В доме Ильи Ефимовича жила его дочь, Вера Ильинична. Она открывала для осмотра его мастерскую многочисленным посетителям, желавшим видеть, как жил и работал Репин. &lt;br/&gt;В самом конце 1939 года, ввиду начавшейся зимней военной кампании за Карельский перешеек, дети художника спешно покинули &quot;Пенаты&quot; и перебрались в Хельсинки. &quot;Пенаты&quot; оказались на территории СССР. Делами усадьбы занялась Российская Академия художеств, ставшая правопреемницей Императорской Академии художеств, которой когда-то были завещаны &quot;Пенаты&quot;. Но открытый здесь музей уже через год пришлось эвакуировать. Картины и рисунки Репина, предметы обстановки и личные вещи провели в надежных подвалах старинного здания Академии на Васильевском острове все военные годы и всю блокаду. В июне 1944 года война ушла из Куоккалы. Тогда стало известно, что репинского дома больше нет. Сгорели и дом Юрия, и все беседки в парке. Случилось все это в год столетия со дня рождения И. Е. Репина. Усадьбу решено было восстановить. Исторических материалов хватало. Ведь сохранился архив Репина, содержащий множество фотографий, запечатлевших не только обитателей &quot;Пенатов&quot;, их друзей и родных, но и всю обстановку, убранство комнат, вид дома снаружи и парк. &lt;br/&gt;В июне 1962 года состоялось открытие возрожденной репинской усадьбы. Дом &quot;пророс&quot; новыми стенами, а сохраненные вещи заняли привычные места. Как и прежде, в &quot;Пенаты&quot; приходят почитатели великого художника. Осматривая комнаты, слушают пояснения, записанные на разных языках, затем беседуют с научным сотрудником, готовым ответить на вопросы. Покидая усадьбу, многие говорят о возникшем у них ощущении присутствия в доме самого хозяина, тем более, что показываемые в конце экскурсии кадры кинохроники помогают &quot;вживую&quot; представить себе жесты, мимику, походку Репина. Реальное присутствие хозяина усадьбы переживают и работники музея. В этом нет мистики. В обаянии творческой личности, в необоримости духа творчества и заложено бессмертие. (См. http://nauka.relis.ru/15/0202/15202090.htm).&lt;br/&gt;Музей работает: ср-вс 10.30-16.00. Вход в парк до 20.00. &lt;br/&gt;тел. 432 08 34, Репино, Приморское ш., 411&lt;br/&gt;&lt;br/&gt;Описание тайника&lt;br/&gt;Тайник пошаговый. Координаты данные вверху страницы – место расположения центрального входа на территорию усадьбы. Для того чтобы найти контейнер Вам предстоит прогуляться по парку и посетить несколько объектов. План их расположения находится прямо у входа. &lt;br/&gt;Итак, первое место – «Храм Озириса и Изиды». На фронтоне «храма» стилизованное изображение солнца. Количество лучей справа от «солнца» – Х, слева от «солнца» - Y.&lt;br/&gt;Вторая точка – Башенка Шахерезады. Количество колонн (столбов) с фронтальной стороны строения – Z. Третья точка – могила И.Е. Репина. Могила окаймлена гранитными блоками в виде прямоугольника. Количество блоков по «короткой» стороне – А. Четвертая точка – артезианский колодец Посейдона. Количество углов у бетонного бассейна колодца – В. Итак, подставьте полученные данные в формулу:&lt;br/&gt;N 60 09.XYZ E 29 5A.71B . Тайник заложен в корнях большой старой ели. Замаскирован корой и гнилушками.&lt;br/&gt;&lt;br/&gt;Тайник заложен в корнях большой старой ели. Замаскирован гнилушками и  мхом. При извлечении соблюдайте маскировку и острожность. В летнее время, даже в эти кусты могут заглянуть люди. Удачи.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Место закладки 1.jpg</ox:name>
+                    <ox:size>240502</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Дом-музей Репина.jpg</ox:name>
+                    <ox:size>28880</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="29.74215" lat="60.2139167">
+        <time>2012-07-30T08:19:06.000Z</time>
+        <name>OXZTE23</name>
+        <desc>Про уродов и людей by HyLog, Traditional Cache(3.0/3.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTE23</url>
+        <urlname>Про уродов и людей</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28463924">
+            <groundspeak:name>Про уродов и людей</groundspeak:name>
+            <groundspeak:placed_by>HyLog</groundspeak:placed_by>
+            <groundspeak:owner id="138213">HyLog</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Описание окружающей местности&lt;br/&gt;В том месте, на которое указывают координаты тайника, до 40х годов прошлого века находилась церквочка Спаса Нерукотворного Образа.&lt;br/&gt;&lt;br/&gt;Чуть южнее этого места находится могила одного Человека. По нашему мнению России и сейчас не хватает таких людей. Вы прочитаете о нем по-подробнее при подготовке ко взятию тайника.&lt;br/&gt;&lt;br/&gt;Описание тайника&lt;br/&gt;Если вас не смущает посещение кладбища, то вы найдете описанное место и узнаете о каком человеке идет речь. Если вы не любите кладбища или по другим причинам не можете его посетить, то вам придется чуть больше поискать в интернете.&lt;br/&gt;&lt;br/&gt;Тайник находится в 180 метрах на северо-запад от места гибели этого человека (N?? ??.?92 E?? ??.?86).&lt;br/&gt;&lt;br/&gt;Надеемся, что вы сами поймете кого мы считаем уродами.&lt;br/&gt;&lt;br/&gt;Желаем удачных поисков! :)&lt;br/&gt;&lt;br/&gt;P.S. При просмотре старых фотографий, а также когда будете &quot;на месте&quot;, обратите внимание на уровень песка. Это само по себе довольно интересно.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Место гибели.jpg</ox:name>
+                    <ox:size>50142</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Фото тайника.jpg</ox:name>
+                    <ox:size>124818</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="30.0266333" lat="60.0795">
+        <time>2012-07-30T08:27:33.000Z</time>
+        <name>OXZTE22</name>
+        <desc>Озеро Разлив - &quot;Шалаш Ленина&quot; by HyLog, Unknown Cache(2.5/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTE22</url>
+        <urlname>Озеро Разлив - &quot;Шалаш Ленина&quot;</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28463923">
+            <groundspeak:name>Озеро Разлив - &quot;Шалаш Ленина&quot;</groundspeak:name>
+            <groundspeak:placed_by>HyLog</groundspeak:placed_by>
+            <groundspeak:owner id="138213">HyLog</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Описание окружающей местности&lt;br/&gt;Курортный административный район Санкт-Петербурга расположен в северо-западной части пригородной зоны. Он представляет собой территорию, обладающую уникальным природным потенциалом и рекреационными ресурсами, имеющими не только региональное, но и федеральное значение.&lt;br/&gt;Озеро Разлив - крупное гидротехническое сооружение, создано в 1723 году. Раньше на этой территории протекала река Сестра. Но было принято решение о создании плотины на реке Сестре, чтобы &quot;фонтаны действовать могли противу Петергофских&quot;… Однако, плотина, будучи построенной, была использована для более важных целей: к тому времени появилась острая необходимость в строительстве оружейного завода, который мог бы снабжать столицу оружием. Из него вытекало две реки - заводская (Сестра), приводящая в движение станки, и Водосливной канал. Стоит упомянуть и вот еще что: кроме реки Сестры, озеро Разлив подпитывается рекой Черная; проистекающей из озера Меднозаводский Разлив (в районе поселка медный завод Всеволожского района Ленинградской области), протяженность реки – 34 км. &lt;br/&gt;Одной из интереснейших страниц в истории Сестрорецка является событие, произошедшее в 1720 году: это испытание &quot;потаенного судна&quot; - прообраза первой подводной лодки изобретения крестьянина Ефима Никонова на озере Разлив. Испытание проходило при личном наблюдении Петра и осталось в памяти как символ дерзновенного полета научной мысли, на два столетия опередившей инженерные решения нашего века&lt;br/&gt;Шалаш Ленина.&lt;br/&gt;На берегу озера Разлив находится исторический памятник и музей «Шалаш». После событий мирной демонстрации 3-4 июля 1917 года в Петрограде временное правительство издает приказ об аресте более 40 видных деятелей большевистской партии, и с 10 июля В. Ленин и Г. Зиновьев вынуждены скрываться на берегу Разлива под видом «косцов». Во всю идет планирование Октябрьских событий – выстрела « Авроры», штурма Зимнего. Основные статьи в газеты пишутся отсюда. К двоим «косцам» тянутся революционно-настроенные рабочие Сестрорецкого оружейного завода, идут к ним за советом. Рабочие завода помогали В.И.Ленину скрываться от царской охранки, а затем переправиться в Финляндию. Сестрорецк становится не только арсеналом революции (на заводе им. Воскова было сосредоточено оружие) , но и «центром управления» - здесь разрабатывается теория первых шагов будущего красного правительства. До сих пор одной из достопримечательностей Сестрорецка является шалаш Ленина в разливе. Шалаш-музей посещают иностранные туристы, а приверженцы коммунистических идей проводят здесь свои митинги. &lt;br/&gt;&lt;br/&gt;Режим работы музея:&lt;br/&gt;С 11:00 до 18:00&lt;br/&gt;Выходной день – среда.&lt;br/&gt;Телефон:&lt;br/&gt;(812)434-6145&lt;br/&gt;&lt;br/&gt;Описание тайника&lt;br/&gt;Добраться до пос. Тарховка (станция Тарховка) можно на электричке(Сестрорецкое направление). Естественно до озера Разлив можно доехать и на машине: после поселка Александровская – через переезд – направо. От ст. Тарховка до тайника км 4-4.5.&lt;br/&gt;Поиск тайника лучше начинать с большого заасфальтированного кольца, где недавно открылся ресторан «Шалаш». Здесь можно оставить машину. Тайник находится в лесном массиве в треугольнике между рестораном (N60° 04, 770 E030° 01,598), старой пристанью( куда раньше приплывали кораблики с туристами)(60° 05,082 E030° 01, 590) и музеем – мемориалом(N60° 04, 906 E030° 01, 874). Тайник находится в корнях одно-стоящей березы севернее небольшой елочки. Рядом зеленый забор!</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Памятник.jpg</ox:name>
+                    <ox:size>51231</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="29.7008" lat="60.2061667">
+        <time>2012-07-30T08:12:34.000Z</time>
+        <name>OXZTE24</name>
+        <desc>Терийоки by HyLog, Unknown Cache(3.0/3.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTE24</url>
+        <urlname>Терийоки</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28463925">
+            <groundspeak:name>Терийоки</groundspeak:name>
+            <groundspeak:placed_by>HyLog</groundspeak:placed_by>
+            <groundspeak:owner id="138213">HyLog</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Описание окружающей местности&lt;br/&gt;Перед созданием данного тайника были двойственные чувства. Так как тайников в данном районе уже хватает (есть тайники и в Репино, и в Комарово, и «Гора смерти» не так уж далеко), но оставить «белым пятном» Зеленогорск было бы не правильно. И вот почему.&lt;br/&gt;Первое упоминание в документах о Терийоки датируется 1548 годом, когда в числе нескольких казненных контрабандистов (по указу шведского короля Густава Ваза) в Выборге оказался Антти из Терийоки. &lt;br/&gt;Историческое имя «Терийоки» своим происхождением обязано небольшой речушке, которая теперь зовется ручьем Жемчужный (Зеленогорский). Вероятно, древнее карельское название ее звучало несколько иначе – Тервайоки или «смоляная река» (Как раз на берегу этого ручья и заложен тайник). Скорее всего, рыбаки, жившие в устье этой реки (тогда еще реки) имели здесь смолокурни и смолили свои лодки. Ведь рыболовство было основным промыслом коренного населения побережья Финского залива на протяжении как минимум семи веков! &lt;br/&gt;В первой половине ХУП века в Терийоки насчитывалось 29 дворов. В ХVI-ХVII веках побережье Финского залива становится &quot;Нотебургскими землями&quot; и &quot;Выборгскими землями&quot; Шведского государства. В результате налоговой дискриминации шведского правительства часть православного русского и прибалтийско-финского населения уходит под Тверь, а их земли занимают переселенцы из юго-восточной Финляндии - всего сменилось около 50 тысяч человек.&lt;br/&gt;В XVIII - XIX веках территория входит в состав Российской империи, а возведенный в устье Невы Санкт-Петербург на два века становится столицей империи. Когда после Ништадтского мира 1721 года эта территория была присоединена Петром I к России, она была &quot;дарована&quot; русским вельможам. После раздела сфер влияния между Наполеоном и Александром I в Тильзите (1807г.) эта территория была воссоединена с Финляндией, ставшей с 1811 года &quot;великим княжеством Финляндии&quot;, пользовавшимся, правда, существенной автономией. Однако, после 1820 года залесенные &quot;Линтульские дарованные земли&quot; отошли в ведение Сестрорецкого оружейного завода, нуждавшегося в древесном угле.&lt;br/&gt;Тогда это была глухая провинция волости Кивеннапа (См. тайник «Кивеннапа»). Рубка лесов и охота были запрещены, и медведи иногда задирали коров, а на детей нападали волки. В 1849 году в Терийоки было 36 дворов и мыловаренный заводик с 4 рабочими. На карте 1876 года здесь насчитывается 30-40 строений хуторного типа, что могло соответствовать населению в 100-200 человек.&lt;br/&gt;В 1878-1880 годах была построена железная дорога Петербург - Выборг - Риихимяки. Участок Петербург - Выборг был построен раньше, и первый поезд прошел здесь уже в 1870 году. У станции Терийоки, тогда первой после Белоостррва, железная дорога проходила лишь в 1-2 км от берега моря, прямо-таки соблазняя петербуржцев возможностью выехать летом из душного города к прохладному побережью, покрытому сухими лесами. В деревни толпами стали приезжать петербуржцы, что для местных крестьян стало новым источником дохода. И на песчаных землях, переходивших теперь в собственность не столько крестьян, сколько состоятельных петербуржцев, строились дачи. Основную массу владельцев и арендаторов дач составляли некрупные чиновники и предприниматели. Сюда же приезжала на лето интеллигенция, связанная службой и творческой работой с Петербургом. С Терийоками связаны страницы жизни и творчества многих деятелей русской культуры - Л. Андреева, М. Горького, В. Серова, И. Репина, К. Чуковского, А. Ахматовой... Из деятелей финской культуры здесь бывали М, Ярнефельт, А. Аалто, Э. Раутаваара, О. Мериканто, Духовным вождем финского населения был уроженец этих мест Микко Уотинен (27.03.1885 - 04.04.1931).&lt;br/&gt;В 1917 году свершилась Октябрьская революция. Сенат Финляндии б декабря 1917 года принял декларацию независимости, которую сразу же признало Советское правительство. Страна была на грани гражданской войны - для Финляндии она стала освободительной войной, так как основной силой &quot;красных&quot; были 42 тыс. солдат российских гарнизонов. 12 января 1918 года Сейм предоставил Сенату неограниченные полномочия &quot;для наведения твердого порядка в стране&quot;. Сенат поручил это К. Г. Маннергейму, отправив его в г. Вааса, где поддержка &quot;белым&quot; была сильнее.&lt;br/&gt;27 января 1918 года Красная гвардия приступила к захвату власти в Хельсинки - создан Совет народных уполномоченных во главе с Маннером. Страна раскололась на &quot;белый&quot; Север и &quot;красный&quot; Юг.&lt;br/&gt;Чтобы отрезать &quot;красный&quot; Выборг от революционного Петрограда, белые 27 января 1918 года пытаются захватить станцию Терийоки, где тогда было лишь 6 красногвардейцев. Но уже на следующий день из Петрограда сюда прибывают отряды рабочих и утверждают советскую власть, оставив достаточно сильный отряд Кальюнена.&lt;br/&gt;В середине февраля в Финляндии началась гражданская война, в которой одерживают победу &quot;белые&quot;. 21 апреля они занимают Кивеннапу (Первомайское). А 24 апреля и Терийоки.&lt;br/&gt;Но Зимняя и Вторая мировая воины все ставят на свое место и Терийоки снова отходят в состав России.&lt;br/&gt;В 1946 году Указом Президиума Верховного Совета РСФСР создается Курортный район Ленинграда с центром в городе Терийоки. Следующим правительственным постановлением от 1 октября 1947 года город Терийоки переименовывается в Зеленогорск. Для остальных населенных пунктов были изобретены такие же незамысловатые наименования.&lt;br/&gt;&lt;br/&gt;Описание тайника&lt;br/&gt;До Зеленогорска можно добираться как угодно – на электричке, на машине, на маршрутке, на велосипеде. &lt;br/&gt;1.Так как тайник пошаговый, то первую остановку логично сделать на вокзале (N 60. 12. 370 E 029. 42. 048). Выйдите из своего транспорта и осмотритесь. &lt;br/&gt;Как театр начинается с вешалки, так и город начинается с вокзала. Первый деревянный вокзал в Терийоках появился в 1870 году, одновременно с окончанием строительства железной дороги. Вначале это была первая станция на финской стороне после Белоострова. Тогда еще никто не ожидал, что &quot;дачный бум&quot; охватит все финское Побережье, от Дюн до Ваммельсуу и дальше. Резкий рост пассажиропотока привел к тому, что старое здание вокзала перестало удовлетворять потребности пассажиров. Поэтому одновременно со зданием ст. Раяйоки началось строительство нового, каменного, здания вокзала в Терийоках. Ввиду военного времени, строительство велось медленными темпами. Оба здания были введены в эксплуатацию лишь 1 декабря 1917 года. Архитектором обоих зданий был Бруно Гранхольм. В его творчестве явственно просматривается влияние &quot;национального романтизма&quot; и модерна. Особенно это проявилось в облике здания ст. Раяйоки (не сохранилось). Оба здания настолько напоминали ж.-д. станции Выборга и Хельсинки, что многие принимали их за творения самого Сааринена. &lt;br/&gt;В период русских дачных сезонов ежедневно на привокзальной площади сотни извозчиков ожидали пассажиров с дачных поездов. Спрос на услуги извозчиков был так велик, что этот промысел привлекал сюда и жителей отдаленных деревень. Работы хватало всем, и дневной заработок в 5-6 рублей (13-15 марок) считался еще умеренным. Сейчас на площади извозчиков не меньше. &lt;br/&gt;Посмотрите на вокзал со стороны привокзальной площади. Внутри по периметру большой арки расположено множество прямоугольников – сосчитайте их – это число A (не четное число). &lt;br/&gt;2. Наша следующая точка – это Кирха (N 60. 11. 751 E 029. 42.369). Пройдем вдоль ж/д по улице Паровозной и свернем направо на проспект Ленина (бывшая ул.Виертотие). Пройдем под ж/д. мостом. Мост был построен одновременно с новым зданием станции (1914-17) и разрушен во время войн. Восстановленный мост выглядит несколько иначе. Пройдя под мостом, мы, наконец, окажемся на бывшей Виертотие.&lt;br/&gt;Так уж вышло, что все действовавшие в Терийоках конфессии разместили свои храмы на Виертотие по соседству, на одной стороне улицы. Терийокский приход финской Евангелическо-лютеранской церкви был образован лишь в 1904 году. До этого жители деревни Терийоки лютеранского вероисповедания относились к приходу все той же Кивеннапы (ныне Первомайское, примерно в 20 км), известному с 1445 года. &lt;br/&gt;23.08.1903 состоялось церковное собрание деревни Терийоки, которое постановило ходатайствовать о выделении деревни в самостоятельный приход.&lt;br/&gt;20.02.1905 на церковном собрании Терийокского прихода было решено заключить заем в 100000 марок для постройки церкви. Строительство было начато в 1907 году.&lt;br/&gt;Автором проекта был финский архитектор Йозеф Стенбек (Stenbäck), построивший еще несколько зданий на Карельском перешейке, в частности, кирху в Койвисто (ныне Приморск). Здание кирхи является примером т. н. &quot;национального романтизма&quot; в архитектуре Финляндии. Это направление в финской культуре представлено такими именами, как Я. Сибелиус в музыке, А. Галлен-Каллела в живописи, Э. Сааринен в архитектуре. Церковный алтарь украшала картина художника Илмари Лауниса &quot;Снятие Спасителя со креста&quot;. 12-регистровый орган для кирхи был заказан в Германии.&lt;br/&gt;Строительство кирхи было завершено в 1908 г., в том же году было основано кладбище. С 1909 года церковь начала действовать.&lt;br/&gt;Обойдите кирху вокруг. Сколько в ней двухстворчатых дверей? Это число B.&lt;br/&gt;3. Двинемся дальше по проспекту Ленина к точке N 60. 11. 573 E 029. 42. 455. Это православный Храм Казанской иконы Божией Матери. &lt;br/&gt;Пожалуй, наиболее впечатляющим сооружением в Терийоках является чудом сохранившаяся православная церковь. Церковь восхитительной, редкой красоты, которая очаровывала даже местных финнов-лютеран. &lt;br/&gt;Те, кто проезжают мимо, обязательно притормозят или замедлят ход. Мы тоже полюбуемся. &lt;br/&gt;Первая православная церковь была построена в Терийоках еще 1880 году на средства, пожертвованные купцом Дурдиным, и потому получила название &quot;Дурдинская&quot;. Освящена она была 6.08.1880 во имя Казанской иконы Божией Матери, по благословению митрополита Санкт-Петербургского, Новгородского и Финляндского Исидора (Никольского). Вскоре размеры церкви перестали удовлетворять потребностям верующих.&lt;br/&gt;Для нового храма был приобретен на пожертовования новый участок площадью 4300 кв. саж. (2,14 га), на возвышении, в центре селения, взамен прежнего участка, всего 267 кв. саж., находившегося в низине, в стороне от центра. Закладка храма была совершена в 1910 году.&lt;br/&gt;Храм построен по проекту архитектора Н. Н. Никонова, с расчетной вместимостью 800 чел. Стиль храма - московско-ярославский, XVI столетия, с тем лишь различием, что строителями устранена пестрота окраски, и вся церковь снаружи оштукатурена и выкрашена в один белый цвет. Высота колокольни с крестом 23 саж. (49,07 м). Вес главного колокола составлял 395 пуд., общий вес всех колоколов 561 пуд. Большой колокол был пожертвован богачом А. М. Александровым. Иконостасы всех 3-х алтарей выполнены по проекту гражд. инж. В. Ф. Иванова, соответственно стилю церкви. Иконы выполнены худ. А. П. Розановым.&lt;br/&gt;В 1924 году церковь пережила сильное бедствие - ураган и наводнение, принесшие большой урон. А в 1925 в церкви был пожар: загорелись дрова. Пожар продолжался с 3 ч. дня до 6 ч. утра. Это событие потрясло все Терийоки. Для подачи воды в длинную цепь выстроились солдаты, пожарные, прихожане, ученики Терийокского реального училища и начальной школы - все участвовали в спасении только что отремонтированного храма. Своды церкви выдержали пожар. Повреждения были большие: кроме покраски, которая вся была испорчена, сгорела половина алтаря. Долго еще внутри пахло гарью, которая въелась в стены и иконостас, а также во все деревянные предметы - двери, шкафы, скамейки.&lt;br/&gt;После революции относительно мирная жизнь храма продолжалась 22 года. Затем над ним пронеслись две войны - Зимняя и Великая Отечественная. Пострадавший от обстрелов, лишившийся колоколов и внутреннего убранства храм около 30 лет стоял заброшенный. Здание использовалось для хозяйственных нужд. К реставрации его внешнего вида приступили в конце 70-х годов. Планировалось использовать здание &quot;для культурных целей&quot;.&lt;br/&gt;К 15.04.1990 - Светлому Христову Воскресенью - основные отделочные работы внутри храма были завершены, сняты леса, простоявшие там без малого 10 лет, и праздничная пасхальная литургия была впервые совершена перед главным престолом во имя Божией Матери, иконы Казанской.&lt;br/&gt;Обойдите храм. Сколько куполов с золотыми крестами находится на храме. Это число D.&lt;br/&gt;4. Вернемся теперь на левую сторону Виертоие и пойдем к точке N 60. 11. 567 E 029.42.130. Здесь, в юго-западном углу «треугольника», находится небольшая круглая постройка с колоннами. В советское время здесь находилось кафе «Ротонда» (в народе - «Гайка»), где можно было угоститься мороженым. В начале 90-х годов кафе захирело. Когда-то давно на этом самом месте находился т. н. «ларек Золотого Мари», или в другом переводе - кафе «Золотая Мэри» (Kultasen Marin kioski). Сюда заходили на чашку кофе терийокские извозчики, чья стоянка находилась неподалеку. Кстати, это место считалось географическим центром Терийок, и возле ларька стоял указатель дорог. «Ротонда» цела до сих пор, а к «юбилею» Зеленогорска ее покрасили, но она по-прежнему бесхозна.&lt;br/&gt;Посчитаем, сколько пар колонн находится по периметру «ларька Золотой Мэри». Это будет число C.&lt;br/&gt;5. Перейдем через дорогу и войдем в парк культуры и отдыха Зеленогорска.&lt;br/&gt;В период русских дач парк был центром культурной жизни петербургской дачной публики. Парк простирается до самого берега, куда ведет прямая широкая аллея. На берегу когда-то находились «Кургауз» (казино), водолечебница, концертный зал и ресторан с залом длиной во много десятков метров. Все эти летние деревянные постройки были разобраны и проданы на вывоз почти сразу после окончания гражданской войны.&lt;br/&gt;На самом прибрежном песке располагался яхт-клуб, основанный в 1910 по инициативе адмирала Скрыдлова. Яхт-клуб имел искусственную гавань для укрытия яхт от шторма. У финнов существует версия, что на самом деле российское военное ведомство предполагало использовать это сооружение для своих коварных целей.&lt;br/&gt;В парке имелись также площадки для «лаун-тенниса» и стадион. Для проведения массовых праздничных мероприятий на стадионе была устроена эстрада.&lt;br/&gt;И мы прогуляемся по парку. Пройдем к точке N 60.11.315 E 029.41. 999. Рядом с этой точкой лежит якорь. Вопрос: Сколько у этого якоря крюков? Это будет число E. &lt;br/&gt;Число F=D-E.&lt;br/&gt;Все, это окончание нашей экскурсии. &lt;br/&gt;Теперь осталось найти тайник. Но прежде можно немного отдохнуть на «Золотом пляже», искупаться, если это лето. И вбить цифры в формулу координат тайника: 60. B*4. F(B*3)F ; 029. E(F-B). A(C-1).&lt;br/&gt;&lt;br/&gt;Тайник заложен в 1,4 км. от вокзала по бывшей Кивеннапской дороге, на берегу ручья Жемчужный (Зеленогорский) под маленькой елочкой. Контейнер врыт в землю. Нужно немного убрать листья и землю. &lt;br/&gt;&lt;br/&gt;Удачных поисков!&lt;br/&gt;&lt;br/&gt;Использованы материалы сайта www.terijoki.ru и книги Балашова Е.А. Карельский перешеек: земля неизведанная. Часть 1. С-пб. 2003 г. </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Кирха.jpg</ox:name>
+                    <ox:size>47415</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Ларек.jpg</ox:name>
+                    <ox:size>71141</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Храм.jpg</ox:name>
+                    <ox:size>75438</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Парк.jpg</ox:name>
+                    <ox:size>87347</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Место закладки 2.jpg</ox:name>
+                    <ox:size>132944</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="85.5827334" lat="51.0339667">
+        <time>2007-07-28T05:00:00.000Z</time>
+        <name>OXZTEKX</name>
+        <desc>Семинский перевал by aleks-d, Traditional Cache(2.0/4.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTEKX</url>
+        <urlname>Семинский перевал</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28464476">
+            <groundspeak:name>Семинский перевал</groundspeak:name>
+            <groundspeak:placed_by>aleks-d</groundspeak:placed_by>
+            <groundspeak:owner id="100701">aleks-d</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">Онгудайский, Шебалино
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;Бийск - Чуйский тракт - перевал Семинский.&lt;br /&gt;на машине до спортивной базы, а далее пешочком на вершину.&lt;br /&gt;Тайник находится за спортивной базой на вершине, рядом с высотной отметкой(бетонный куб) у основания выступа, аккуратно завален камнями.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Семинский.jpg</ox:name>
+                    <ox:size>159194</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-123.4291667" lat="48.4511667">
+        <time>2012-07-04T14:50:29.000Z</time>
+        <name>OXZTEKV</name>
+        <desc>The I to the E by iwsd4, Traditional Cache(2.8/2.2/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTEKV</url>
+        <urlname>The I to the E</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28464474">
+            <groundspeak:name>The I to the E</groundspeak:name>
+            <groundspeak:placed_by>iwsd4</groundspeak:placed_by>
+            <groundspeak:owner id="130681">iwsd4</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">It has all sorts of toys and other trinkets. My friends and I started this geocache because we love geocaching evening though we are not that old geocaching is fun. no need to bring a pen.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Look for the mossey rock</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2062312">
+                    <groundspeak:date>2012-09-03T00:23:00.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="146516">wes69brown</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="2052884">
+                    <groundspeak:date>2012-08-31T18:47:57.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="130681">iwsd4</groundspeak:finder>
+                    <groundspeak:text encoded="False">
+Logged via OpenCaching for iPhone</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.8</ox:difficulty>
+                <ox:size>3.7</ox:size>
+                <ox:terrain>2.2</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="85.6130833" lat="55.6649833">
+        <time>2009-07-19T05:00:00.000Z</time>
+        <name>OXZTF5R</name>
+        <desc>Томская писаница by aleks-d, Traditional Cache(2.0/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTF5R</url>
+        <urlname>Томская писаница</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28464999">
+            <groundspeak:name>Томская писаница</groundspeak:name>
+            <groundspeak:placed_by>aleks-d</groundspeak:placed_by>
+            <groundspeak:owner id="100701">aleks-d</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Кемеровский, д. Писаная
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;Тайник заложен на высоком берегу р. Томь, примерно в 300 метрах ниже по течению от скал Писаницы. Подъем по склону требует некоторой осторожности. Наверху - кустарник. Ориентиры рядом с местом закладки - сосна со светлым стволом и пара берез - хорошо видны с берега. (см, фотоальбом)
+Контейнер закопан в корнях пары близко друг к другу растущих сосен, с дальней от реки стороны.
+ </groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="2026441">
+                    <groundspeak:date>2012-08-05T07:52:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="100701">aleks-d</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="2026450">
+                    <groundspeak:date>2012-07-19T08:50:00.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="100701">aleks-d</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="85.8165" lat="51.8283167">
+        <time>2010-06-13T05:00:00.000Z</time>
+        <name>OXZTFAR</name>
+        <desc>Что такое Манжерок? by aleks-d, Traditional Cache(3.0/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTFAR</url>
+        <urlname>Что такое Манжерок?</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28465154">
+            <groundspeak:name>Что такое Манжерок?</groundspeak:name>
+            <groundspeak:placed_by>aleks-d</groundspeak:placed_by>
+            <groundspeak:owner id="100701">aleks-d</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Майминский, Озерное
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;Чтобы добраться до тайника, если ехать по тракту на юг, то после памятника В.Я. Шишкову, возле села Манжерок, нужно свернуть налево на идущую в гору дорогу к селу Озерное. Из села влево выходит дорога, идущая вдоль озера, по которой необходимо проехать до противоположной оконечности озера. Здесь под тройной берзой и находиться тайник. Контейнер упакован в чрный пакет и замаскирован дрном.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1956530">
+                    <groundspeak:date>2012-07-09T05:29:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="100701">aleks-d</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="85.9266333" lat="51.54185">
+        <time>2012-06-06T08:22:29.000Z</time>
+        <name>OXZTFAP</name>
+        <desc>А горы все выше, а горы все круче. by aleks-d, Traditional Cache(2.0/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTFAP</url>
+        <urlname>А горы все выше, а горы все круче.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28465152">
+            <groundspeak:name>А горы все выше, а горы все круче.</groundspeak:name>
+            <groundspeak:placed_by>aleks-d</groundspeak:placed_by>
+            <groundspeak:owner id="100701">aleks-d</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Для того чтобы взять тайник необходимо по хребту забраться на одну из вершин горы Притор. Высота самой горы 998м. Путешествие лучше начать по уже проложенной тропе (начало широта 51 32.615 долгота 85 54,539) Машину если таковая имеется оставить возле многочисленных магазинчиков турбазы &quot;Катунь&quot;&lt;br/&gt;&lt;br/&gt;По мере продвижения перед вами будет все больше открыватся красивейшая панорама. Стоит захватить с собой попить, ибо подъем хоть и не особо сложный, но весьма энергоемкий.&lt;br/&gt;&lt;br/&gt;Сам тайник заложен в камнях чуть поодаль от основной тропы. Осторожно - змеи. </groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1956531">
+                    <groundspeak:date>2012-07-07T05:52:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="100701">aleks-d</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.6</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>35196.jpg</ox:name>
+                    <ox:size>198126</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>8261.jpg</ox:name>
+                    <ox:size>171888</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>35197.jpg</ox:name>
+                    <ox:size>159293</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>35191.jpg</ox:name>
+                    <ox:size>75695</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>35198.jpg</ox:name>
+                    <ox:size>72628</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>35192.jpg</ox:name>
+                    <ox:size>92519</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="38.7532333" lat="55.1545333">
+        <time>2010-09-05T05:00:00.000Z</time>
+        <name>OXZTJAH</name>
+        <desc>Шлюз &quot;Северка&quot; by servanta, Traditional Cache(3.0/5.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTJAH</url>
+        <urlname>Шлюз &quot;Северка&quot;</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28468030">
+            <groundspeak:name>Шлюз &quot;Северка&quot;</groundspeak:name>
+            <groundspeak:placed_by>servanta</groundspeak:placed_by>
+            <groundspeak:owner id="39841">servanta</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>5</groundspeak:terrain>
+            <groundspeak:long_description html="True"> В конце 19 века для улучшения судоходных условий река ниже г. Москвы была шлюзована. До этого крупные суда не могли подниматься к Москве. Перевалка грузов с крупных судов на мелкие производилась в Коломне. 
+Реализацией программы в  1874-1877 гг занималась французская компания - «Тауэрское общество», получившее концессию на организацию судоходства по р.Москве. Было соружено 6 шлюзов - Перервинский, Беседенский (шлюз &quot;Трудкоммуна&quot;), Андреевка, Софьинский, Фаустовский, Северка, которые обеспечили свободный проход судов с осадкой в 90 см до самой Москвы. 
+Гидроузел &quot;Северка&quot; перестроен в 1924 г. Входит в состав Московского района гидросооружений. Управлется &quot;ФГУП &quot;Канал имени Москвы&quot;. До Северского шлюза (последнего на р. Москве) обращает внимание бывшее имение Орлова-Давыдова, ныне детская колония. Против шлюза виден красивый дом отдыха Наркомздрава.За Северским шлюзом видна уже Коломна, расположенная на правом берегу реки со своими старинными башнями Кремля, из которых особенно выделяется башня Марины Мнишек.
+ &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;b&gt;Описание тайника&lt;/b&gt;&lt;br /&gt;Контейнер перезаложен под деревом (огромное спасибо Крапиве и ее компании, которые восстановили тайник). К закладке тайника можно попасть по &quot;бетонке&quot; , идущей  от ж/д платформы &quot;Хорошово&quot; до гидроузла &quot;Северка&quot;. Хорошим ориентиром может служить &lt;b&gt;маяк&lt;/b&gt;: &lt;b&gt;N 55 09.375 E 038 45.122&lt;/b&gt;, возле него можно оставить машину, а дальше метров 200  пройтись пешком. Рядом с тайником проходит оросительный канал, который впадает в Москву реку, тут не менее интересное &quot;гидросооружение&quot;, построенное бобрами.  </groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="2069571">
+                    <groundspeak:date>2012-09-16T20:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="150367">VanKertis</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>5.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>шлюзовая камера.jpg</ox:name>
+                    <ox:size>121938</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Маяк.jpg</ox:name>
+                    <ox:size>193776</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Тайник.jpg</ox:name>
+                    <ox:size>124249</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Южные ворота.jpg</ox:name>
+                    <ox:size>107476</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="30.8663833" lat="59.4622167">
+        <time>2012-04-27T06:19:33.000Z</time>
+        <name>OXZTJMK</name>
+        <desc>Клад_Rebel by Rebel_666, Traditional Cache(4.0/3.3/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTJMK</url>
+        <urlname>Клад_Rebel</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28468342">
+            <groundspeak:name>Клад_Rebel</groundspeak:name>
+            <groundspeak:placed_by>Rebel_666</groundspeak:placed_by>
+            <groundspeak:owner id="77116">Rebel_666</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>4</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Ехать на Электричке с Московского вокзала до станции Тосно,с вокзала  313 автобус до садоводства Рубеж. Дальше пешком примерно 1.2 км ))&lt;br/&gt;Пень (их там 2)). на пне нацарапан &quot;X&quot;. искать ниже в углублении пня под мхом. завёрнуто в черный полиэтиленовый пакет. Идти аккуратно - буреломы. &lt;br/&gt;&lt;br/&gt; </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>4.0</ox:difficulty>
+                <ox:size>1.3</ox:size>
+                <ox:terrain>3.3</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="41.5157833" lat="52.6616833">
+        <time>2006-01-02T06:00:00.000Z</time>
+        <name>OXZTKK9</name>
+        <desc>Трегуляй by DREBR, Traditional Cache(1.0/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTKK9</url>
+        <urlname>Трегуляй</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469262">
+            <groundspeak:name>Трегуляй</groundspeak:name>
+            <groundspeak:placed_by>DREBR</groundspeak:placed_by>
+            <groundspeak:owner id="99384">DREBR</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;Описание окружающей местности&lt;/p&gt;
+
+&lt;p&gt;Трегуляй или Тригуляй ? Как верно назвать и написать название этого лесного уголка в Притамбовье, щедро одаренного природой? На карте - Трегуляй. &lt;br /&gt;А вот профессор-филолог В.Руделев пришел в своих размышлениях к выводу, что название родилось из числительного &quot;три&quot; и присутствия голубей (гули - гули). Три голубка - символ красивый, исполненный в известной мере святости. Место это, повторяю, поразительно красивое, переживает сейчас, как говорится, лучшие дни, оно после долгих лет забвения как бы родилось второй раз. Радует глаз Церковный комплекс Трегуляевского монастыря.&lt;br /&gt;&lt;br /&gt;Предание связало с этой обителью замечательное событие, напоминающее о тесной духовной связи святителя Питирима и святителя Митрофана Воронежского. Любя уединение, Преосвященный Питирим, как только дозволяло время, удалялся за Тамбов, в густой лес, и там предавался богомыслию и молитве. Однако такие прогулки не могли полностью удовлетворять монашескую потребность в молитве, поэтому святитель определил устроить в тихом, лесистом месте особую обитель и для того избрал лучшее место во время своих уединенных странствований. Об этом он рассказал прибывшему к нему дорогому гостю, Воронежскому святителю Митрофану, прося его &quot;освидетельствовать и благословить во славу Божию избираемое им место для обители&quot;. Таким образом, оба посетили то место, где впоследствии стала красоваться святая обитель. К двум достопамятным мужам предание присоединяет еще и третьего, известно только его имя - Иннокентий. Быть может, он был одним из келейников святителя Питирима. Все трое благословили своей сердечной молитвой место для устроения монастыря. И с тех пор оно получило название Трегуляй, а мужская обитель, устроенная здесь, Трегуляевским монастырем. В ознаменование этого замечательного события в Тамбовской летописи был отмечен не только год, но и число освящения места - второй день по Воздвижению Креста Господня, 15/28 сентября 1688 года. Новостроящуюся обитель епископ посвятил великому пустыннику и постнику - Предтече и Крестителю Господню Иоанну - как бы в воспоминание о любимой Вяземской обители Смоленской епархии, где он начинал свое монашеское служение.&lt;br /&gt;&lt;br /&gt;В лесу, вблизи монастыря, Питиримом был вырыт колодец, ставший чудотворным. Летопись датирует это событие 1688 годом. Издревле вода святых источников по молитвам святых служила для исцеления телесных и духовных недугов людей. Чудесных действий святой воды удостаиваются те, кто приемлет ее с верой, кто имеет искреннее желание изменения жизни, покаяния, спасения. После купания в источнике из тела уходит усталость, а в сердце приходит тихая радость... &lt;br /&gt;&lt;br /&gt;Первый монастырский храм был построен в 1691 году и освящен владыкой Питиримом во имя Иоанна Предтечи, Строительным материалом для него служил широко используемый в крае сосновый брус. Крупнейший пожар в 1717 году полностью уничтожил все монастырские постройки, но уже в 1720 году обитель была полностью восстановлена на добровольные пожертвования жителей Тамбова. На месте сгоревшей появилась новая двухэтажная Предтеченская церковь. Через 53 года в монастыре появилась другая - Введенская церковь.&lt;br /&gt;С 1791 года деревянное строительство в монастыре уступает каменному. Монастырскую территорию в 1795 году ограничила каменная стена. Конец XVIII столетия был временем повсеместного каменного строительства не только в Трегуляевском монастыре, но и во всей епархии. Оно было связано с деятельностью Тамбовского епископа Феофила (Раева). При владыке Феофиле на щедрые пожертвования тамбовских дворян Севостьянова Ш.Ф. и Бегичевой М.С. началось строительство главного монастырского храма во имя Рождества Иоанна Предтечи. Предтеченская церковь и возведенная рядом с ней колокольня не подвергались перестройкам до начала XX века, сохраняя чистоту архитектурного стиля, характерного для провинциального зодчества конца XVIII - начала XIX веков. Главный храм Трегуляевской обители имел некоторое сходство с Успенским храмом Саровской пустыни, так как строительство осуществлялось под руководством бывшего послушника Нафанаила из Сарова.&lt;br /&gt;Второй храм, во имя Спаса Нерукотворного, возведенный в русско-византийском стиле, стал настоящим украшением Трегуляевского монастыря. Он был заложен в 1895 году, но из-за ограниченности средств строился около десяти лет.&lt;br /&gt;&lt;br /&gt;В годы Гражданской войны монастырские постройки, предназначенные для милосердного служения, стали использоваться новой властью как места заключения. Один из постоянных тамбовских лагерей размещался в Трегуляевском монастыре. Эти лагеря были пропускными пунктами для высылки людей за пределы Тамбовской губернии. Масштаб трагедии был огромен: &quot;К 15 ноября (1921 года - прим. авт.) через них прошло 27360 человек, из которых выслано за пределы Тамбовской губернии до 20 тысяч человек, а остальные переведены в другие места заключения или освобождены&quot;. &lt;br /&gt;В 1922 году была закрыта церковь и выселены священнослужители. В 1924 году Трегуляевский монастырь был включен в списки памятников церковной архитектуры, которые надлежало охранять государству. Однако списки не помешали местным властям в 1929 году решить вопрос о разборке монастырских построек. Предпоследняя страница истории Трегуляевского монастыря была драматичной - в нем открылась колония малолетних преступников. Позднее все сооружения одного из старейших тамбовских монастырей были полностью разрушены, а на территории монастыря разместилась воинская часть. Несмотря на это, никогда не зарастала тропа народной веры к источнику святителя Питирима. В Трегуляевский лес всегда стремились паломники, чтобы испить воды святого источника и окунуться в его живительную прохладу.&lt;br /&gt;В наши дни на месте некогда чудесной обители высится новый храм второго обретения мощей святителя Питирима Тамбовского, освященный Святейшим Патриархом Московским и всея Руси Алексием II в 2002 году во время празднования 320-летия со дня основания Тамбовской епархии. &lt;br /&gt;&lt;br /&gt;Основной источник: http://hramserpovoe.narod.ru/monastiri.html&lt;/p&gt;
+
+
+&lt;p&gt;Описание тайника&lt;/p&gt;
+
+&lt;p&gt;Тайник имеет две составляющие: виртуальную и реальную.&lt;br /&gt;Зачет можно получить в любое время года по любому из вариантов.&lt;br /&gt;Если будете искать контейнер зимой, то, пожалуйста, соблюдайте маскировку.&lt;br /&gt;И имейте ввиду, что при высоком уровне снега (по пояс) пенек будет не видно под снегом. &lt;br /&gt;&lt;br /&gt;&lt;strong&gt;&lt;em&gt;Виртуальная часть:&lt;br /&gt;&lt;/em&gt;&lt;/strong&gt;Для получения зачета необходимо выложить в фотоальбом тайника свое фото на фоне источника, а также прислать имя чудотворца.&lt;br /&gt;&lt;strong&gt;&lt;em&gt;Традиционная часть:&lt;br /&gt;&lt;/em&gt;&lt;/strong&gt;Добавилась благодаря игроку drebr, за что ему огромное спасибо.&lt;br /&gt;Проявивив внимательность, посчитайте количество букв в имени чудотворца (A).&lt;br /&gt;Тайник спрятан в большой пень.&lt;br /&gt;N52°39.(A-2)86 E41°31.129&lt;/p&gt;
+
+</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>P81328631.jpg</ox:name>
+                    <ox:size>145946</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>46131.jpg</ox:name>
+                    <ox:size>42259</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>P81328671.jpg</ox:name>
+                    <ox:size>110096</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="30.9475333" lat="61.81615">
+        <time>2012-02-10T09:29:14.000Z</time>
+        <name>OXZTM4J</name>
+        <desc>Мощь реки в Харлу by gera1919, Traditional Cache(2.5/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTM4J</url>
+        <urlname>Мощь реки в Харлу</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469767">
+            <groundspeak:name>Мощь реки в Харлу</groundspeak:name>
+            <groundspeak:placed_by>gera1919</groundspeak:placed_by>
+            <groundspeak:owner id="90974">gera1919</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Идея создания здесь тайника, была у меня давно. При посещении решил кое что переиграть и создать несколько иной тайник. Поэтому в данный момент тайник традиционный, а в дальнейшем будет пошаговым и усложнится. Когда его брать, решать вам!)))&lt;br/&gt; ОЧЕНЬ рекомендую прогуляться к плотине с водопадами. Мощь водной стихии, заставит вас постоять немного и подумать.&lt;br/&gt;&lt;br/&gt;_______________________&lt;br/&gt;&lt;br/&gt;В мае 2010 г. контейнер был перезаложен игроком Примус . Однако и этой закладке не пришлось долго просуществовать.&lt;br/&gt;&lt;br/&gt;ВНИМАНИЕ - ЗАКЛАДКА ОПЯТЬ ПЕРЕНЕСЕНА 3 ИЮЛЯ 2010 г.!!!&lt;br/&gt;&lt;br/&gt;С прискорбием сообщаем, что &quot;охрана очень ругалась&quot; получило свои плоды. К команде Twanger&amp;Leeona+МАМАнтёнок подошел охранник и поинтересовался целью визита. Он проворчал что-то вроде - что вы тут опять по игре шаритесь, после чего мы не могли не подойти к нему с разговором. Роман-Twanger нашел его и поинтересовался, чем мы помешали, ведь знаков, запретов и забора со стороны, с которой приехали мы нет, поэтому откуда нам знать, что это за территория. Он сказал, что это все частная территория, что его начальство (хозяина) уже достали частые посетители, что он уже предупреждал некоторых наших игроков, но количество посетителей с каждым днем все увеличивалось и увеличивалось. В связи с тем, что техноген ветхий, да и участились случаи &quot;нахождения трупов&quot;, ему отдан приказ - если будут досаждать посетители и дальше, спускать кавказцев! Охранник не возмущался, не кричал, а просто трезво все объяснил, что ни ему, ни дальнейшим посетителям проблемы не нужны... Просил перенести часть игры ближе к дамбе, ГЭС, да бы исключить неприятные инциденты. Теперь закладка находится по координатам: 61 48.969 30 56.852 (они же вынесены в заголовок), в основании заброшенного дома, ближе к земле, аккуратно и тщательно заложено камнями. Найти будет достаточно просто, туда ведет дорога... и тайник превратился почти в бамперный. Т.е. едем по дороге до моста (ГЭС), почти перед мостом будет съезд налево, дорогой не пользуются, но в хорошую погоду проедите на любом авто. Мимо дома не промахнетесь. См. фото тайника.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="2000547">
+                    <groundspeak:date>2012-07-28T20:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="138093">Mail10</groundspeak:finder>
+                    <groundspeak:text encoded="False">Попробую найти! Если там буду</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.5</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="30.8372667" lat="61.8143833">
+        <time>2012-02-10T09:21:45.000Z</time>
+        <name>OXZTM4K</name>
+        <desc>Петсиваара by gera1919, Traditional Cache(2.7/4.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTM4K</url>
+        <urlname>Петсиваара</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469768">
+            <groundspeak:name>Петсиваара</groundspeak:name>
+            <groundspeak:placed_by>gera1919</groundspeak:placed_by>
+            <groundspeak:owner id="90974">gera1919</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">&quot;Одним из наиболее привлекательных уголков Приладожья по праву считается скальный массив Петсиваара. Он расположен к северу от Сортавалы. Массив протянулся с северо-запада на юго-восток примерно на 20 км, в ширину он имеет около 10 км. Наибольшие высоты (187 м) приурочены к южной части возвышенности, гордо именуемой на картах &quot;горы Петсевара&quot;. Относительные перепады высот достигают 130 метров. Склоны холмов имееют значительную крутизну, много скальных выходов, в нижней части склонов нередко можно увидеть пояс крупноглыбовых осыпей, увеличивающих сходство с настоящими горами. Преобладает еловый лес, на скалах растут сосны. Массив разбит системой глубоких трещин, на дне которых залегают озера и болота. В южной части озера более крупные, вытянутые вдоль скальных гряд (по-карельски &quot;сельг&quot;), а на севере множество небольших лесных озер неправильной формы. Район пересекает несколько дорог: грунтовки хорошего качества и отходящие от них полузаросшие лесные дороги. В Петсивааре можно совершать короткие пешеходные, лыжные и велосипедные путешествия&quot;.&lt;br/&gt;(Из статьи К. Бекетова &quot;Ладожские шхеры и Северное Приладожье&quot;)&lt;br/&gt;&lt;br/&gt;Этот тайник адресован любителям пеших прогулок по дикой горно-таежной местности, сохранившей свой первозданный вид, несмотря на близость дорог и жилья. В горах Петсиваара трудно выделить какую-то отдельную локальную достопримечательность: весь район одинаково красив, и по нему нужно долго гулять. Самые высокие горы - между оз. Хауккаярви и Питкяярви. Особенно сильная пересеченка наблюдалась по северному берегу оз. Хауккаярви и в районе горы Ахвенламменмяки.&lt;br/&gt;&lt;br/&gt;Заход/заезд в район тайника целесообразен со стороны пос. Харлу по одной из двух дорог (здесь и ниже все координаты - в WGS84):&lt;br/&gt;&lt;br/&gt;1) Через оз. Хауккаярви. Начало дороги N61°47.594', E30°55.790'. До оз. Хауккаярви - хорошая каменистая грунтовка, видимо, проходимая для всех автомобилей. Далее дорога идет по южному берегу озера и проходима на полном приводе. Недавно в районе проводился один из этапов трофи-рейда &quot;Золотая Бочка - Ладога&quot;, и дорога местами сильно разъезжена джипами. Ближе к западному концу озера имеется подтопленный участок дороги.&lt;br/&gt;&lt;br/&gt;2) Через оз. Питкяярви. Начало дороги N61°48.230', E30°56.071'. До развилки (N61°48.384', E30°54.120') - хорошая грунтовка. От развилки налево, в гору поднимается тропа, которая входит в лес и, набирая высоту по живописной горной долине, выводит к восточному концу оз. Питкяярви. Тропа является по большей части велопроезжей (для байка). Далее она идет по южному берегу озера, и из-за микрорельефа велосипед в большинстве мест придется вести.&lt;br/&gt;&lt;br/&gt;По результатам нашей разведки я рекомендую посетить, помимо тайника, следующие точки:&lt;br/&gt;&lt;br/&gt;Смотровые площадки - вершины скальных уступов с видом на горные долины, хребты и озера:&lt;br/&gt;&lt;br/&gt;1) N61°48.703', E30°49.629' (и вообще весь рваный край скального сброса в озеро, начиная от этой точки и до тайника);&lt;br/&gt;&lt;br/&gt;2) N61°48.649', E30°49.325' - вид на оз. Хауккаярви. &lt;br/&gt;&lt;br/&gt;Еще, наверно, очень красиво пройти по скалам над северным берегом оз. Хауккаярви. Приятен также путь по ягельно-каменистым сельгам в районе высшей точки Северного Приладожья - г. 187.6 (N61°48.629', E30°50.989'). На вершине горы можно найти развалины деревянного геодезического пункта, а на соседней локальной вершинке (N61°48.666', E30°50.787') - тур, сложенный из камней.&lt;br/&gt;&lt;br/&gt;Еще одна очень хорошая смотровая площадка в массиве Петсиваара расположена возле шоссе Питкяранта - Сортавала. Проезжая Кирьявалахти (N61°46.835', E30°47.234'), не поленитесь подняться от шоссе на 70-80 метров вверх, на скалы, и вам откроется прекрасный вид на залив Хиденселькя и ладожские шхеры.&lt;br/&gt;&lt;br/&gt;Хорошие стоянки:&lt;br/&gt;&lt;br/&gt;1) N61°48.427', E30°49.940' - плоская площадка высоко над оз. Хауккаярви (25м по вертикали от воды). Очень красивый вид на озеро.&lt;br/&gt;&lt;br/&gt;2) N61°48.869', E30°50.080' - на перемычке между оз. Питкяярви и маленьким озером под горой Ахвенламменмяки.&lt;br/&gt;&lt;br/&gt;3) N61°48.096', E30°51.559' - в восточном конце оз. Питкяярви, у выхода тропы к озеру. Достоинство: вода рядом. Недостаток: расположена в низине. &lt;br/&gt;&lt;br/&gt;Вдоль обоих озер много классных мест для купания и прыжков в воду. Озера, видимо, очень глубокие.&lt;br/&gt;&lt;br/&gt;К востоку от гор Петсиваара течет река Янисйоки, представляющая интерес для любителей сплава по бурной воде.&lt;br/&gt;&lt;br/&gt;В общем, удачной прогулки! :-)&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Ищите лучше :)</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.7</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="30.2043333" lat="61.5175667">
+        <time>2012-02-09T14:03:41.000Z</time>
+        <name>OXZTM52</name>
+        <desc>Лахденпохья by gera1919, Traditional Cache(1.6/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTM52</url>
+        <urlname>Лахденпохья</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469782">
+            <groundspeak:name>Лахденпохья</groundspeak:name>
+            <groundspeak:placed_by>gera1919</groundspeak:placed_by>
+            <groundspeak:owner id="90974">gera1919</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Первые жители в окресностях нынешних Яаккима и Лахденпохья появились во II тысячелетии до нашей эры. Богатые рыбой воды Ладоги, изобиловавшие дичью и пушным зверем леса, а также плодородные почвы, способствующие развитию подсечного земледелия, привели к возникновению первых поселений. Такие географические названия, как Нива и Сиеклахти восходит еще к древнейшему, саамскому населению этих мест. &lt;br/&gt;&lt;br/&gt;Начиная с первого тысячелетия нашей эры земли Яаккима - один из районов формирования карельского племени. Среди археологических памятников той эпохи - линнамяки (укрепленное городище) Осиппала и городище Суур-Микли (IX-XIV века). &lt;br/&gt;&lt;br/&gt;Ранние карельские поселения достаточно часто подвергались грабительским набегам викингов и новгородцев. Так, упоминания о походах в Кирьялаланд (землю корелы) встречаются в скандинавских сагах. &lt;br/&gt;&lt;br/&gt;Первое письменное упоминание о землях Яаккима содержится в переписной окладной книге Вотской пятины Великого Новгорода за 1499-1500 годы. Тогда большая их часть относилась к податному округу Сорола. Административным и церковным центром была островная деревня Сорола, имевшая часовню и три кладбища. В податный округ входили также островные поселения Рукола и Микли. Первые сведения о православных церквях Георгия Победоносца в Сорола и Никольской в Микли относятся к 1571 году. &lt;br/&gt;&lt;br/&gt;В 1617 году по Столбовскому мирному договору вся территория Корельского уезда отошла к Швеции. Около четверти православного карельского населения уезда переместилось в глубь России. Опустевшие дворы заняли переселенцы из западных районов Карелии - Саво и Хяме. Земли Яаккима относились тогда к приходам Куркийоки, Сортавала и Уукунниеми. &lt;br/&gt;&lt;br/&gt;Свое современное название Яаккима получила по имени Якоба де ла Гарди, прозванного также Ленивым Яакко. В начале 17 века он на протяжении шести лет стоял лагерем на холме, именовавшемся в разное время Поповским, Стяговым и холмом Якоба. &lt;br/&gt;&lt;br/&gt;Первые упоминания о торговом поселении Сиеклахти относятся с 1663 году. &lt;br/&gt;&lt;br/&gt;Годы Северной войны 1700-1721 годов принесли большие опустошения. По условиям заключенного в 1721 году в Уусикаупунки мирного договора Швеция была вынуждена передать России Выборгскую и Ладожскую Карелии. Из них была образована Выборгская губерния. В эти же времена в официальных документах впервые начал фигурировать церковный и административный центр под названием Яаккима. &lt;br/&gt;&lt;br/&gt;В 1728 году русский император Петр II передал Яаккима в дар своей невесте Елизавете, положив начало периоду так называемых донационных земель. Так, в 1743 году владельцем земель Яаккима был граф М.Воронцов. Лишь в 1783 году после многочисленных волнений они были возвращены в казну. Однако уже в 1797 году род Воронцовых в лице графа С.Воронцова вновь получил во владение более половины земель Яаккима, а его дочь продала их затем графу А.Кушелеву-Безбородко. Волость оказалась разделенной на две части: господскую и казенную, каждая из которых отдельно вела свое хозяйство. К господской части полностью относилась территория, образовавшая позднее отдельную волость Лумиваара (1923). &lt;br/&gt;&lt;br/&gt;В 1754 году известным строителем церквей Эскилем Коллениусом в Яаккима была построена деревянная приходская церковь. Внутреннюю отделку выполнил выборгский мастер Микко Стофферт. &lt;br/&gt;&lt;br/&gt;В Яаккима на реке Ихаланйоки действовала крупная пилорама, входившая в число крупнейших поставщиков пиломатериалов Выборгской губернии. &lt;br/&gt;&lt;br/&gt;В 1757 году коллежским советником Иоганном Вильгельмом Тавастом был разработан проект соединения Сайменских озер с Ладожским путем строительства канала до Лахденпохья. План был утвержден в 1810 году, однако работы, начатые в рамках этого проекта, так никогда и не были завершены. &lt;br/&gt;&lt;br/&gt;В 1776 году поднимался вопрос о придании Яаккима городского статуса. &lt;br/&gt;&lt;br/&gt;Академик Н.Озерецковский в своей книге &quot;Путешествие по озерам Ладожскому и Онежскому&quot;, вышедшей в 1788 году, приводит следущие сведения о Яаккима: &quot;К Сердобольской округе принадлежат восемь погостов, в которых жителей, состоящих в подушном окладе, по последней переписи считается 15 837 человек, а именно: ... В Якимварском погосте - 3803 ... Из сих погостов Сердобольский, часть Рускальского, Имбилацкий, Соярвский и Якимварский - государевы... Погосты (кирхшпиль), прилежащие к берегу Ладожского озера от Кексгольма до Сердоболя, суть следующие: первый Гидола, второй Кронебург или Куркийоки (журавлиная река); оба сии причисляются к Кексгольмской округе; третий погост Якимвары, ближайший к Сердоболю, к округе которого и принадлежит.&quot; &lt;br/&gt;&lt;br/&gt;В 1797 году усадьба Лахденпохья стала собственностью Александро-Невского, а с 1798 года - Валаамского монастыря. &lt;br/&gt;&lt;br/&gt;В 1812 году территория Яаккима, как одна из частей Выборгской губернии, воссоединилась с остальной Финляндией, входившей в состав России в качестве автономного Великого Княжества. На протяжении следующих ста лет все донационные имения были постепенно выкуплены у их владельцев. &lt;br/&gt;&lt;br/&gt;В 1844 году в Яаккима было открыто общественное зернохранилище, позволившее впоследствии пережить неурожайные 1860-е годы. &lt;br/&gt;&lt;br/&gt;В 1845 году Эркки Куорикоски начал строительство новой приходской церкви по чертежам выдающегося финского архитектора Карла Людвига Энгеля. Внутреннюю отделку выполнил Себастьян Грипенберг. В 1850 году, по завершении строительства, старая деревянная церковь была разобрана, а новая освящена в следующем, 1851 году. В 1871 году в волости была открыта первая библиотека, а в 1877 - первая народная школа. &lt;br/&gt;&lt;br/&gt;Карельская железная дорога пришла в Яаккима в 1893 году, когда было завершено строительство 139-км. ветки Антреа - Сортавала, связавшей Яаккима с Выборгом и Хельсинки. &lt;br/&gt;&lt;br/&gt;В последнее десятилетие XIX века было организовано регулярное судоходство между портом Лахденпохья и островными деревнями. &lt;br/&gt;&lt;br/&gt;В 1911 году была построено новое двухэтажное здание усадьбы Раухала. &lt;br/&gt;&lt;br/&gt;В 1912 году железнодорожная ветка была продлена до порта Лахденпохья, считавшегося лучшим на Ладоге - мыс Линнанканнанниеми и остров Папинсаари представляют собой естественную защиту от стихии. &lt;br/&gt;&lt;br/&gt;В 1920 население волости Яаккима составляло 14400 человек. &lt;br/&gt;&lt;br/&gt;В 1923 году часть земель была выделена в новую волость Лумиваара. &lt;br/&gt;&lt;br/&gt;В связи со стоительством фанерного завода деревни Сиеклахти и Лахденпохья в 1924 году выделились из состава Яаккима и образовали новый поселок Лахденпохья. Автором плана застройки Лахденпохья был архитектор Отто И.Меурман. &lt;br/&gt;&lt;br/&gt;В 1928-1929 учебном году в волости было 15 народных школ, включая 5-классную совместного обучения в Лахденпохья. В 1929 году в Яаккима было открыто христианское училище. &lt;br/&gt;&lt;br/&gt;Волость Яаккима насчитывала 16 населенных пунктов. Население составляло в 1930 году 9921 человек. Основами возраставшего благосостояния были земледелие, животноводство, рыболовство и обработка леса. Развивался туризм. В 1930-е годы 4-5 судов боролись за клиентов, совершавших поездки на Валаам через местное туристическое бюро. Было открыто регулярное автобусное сообщение с Сортавала. &lt;br/&gt;&lt;br/&gt;В 1939 году 65% из 10500 человек населения волости считало земледелие своим основным занятием. Главной религией являлось лютеранство. Небольшой православный приход был в Микли. Действовало 16 народных школ, ремесленное и христианское училища. Крупнейшим производителем сельскохозяйственной продукции была была усадьба в Раухала. Работали многочисленные мельницы и лесопилки, в том числе - АО Анналан Саха в Сорола и фанерная фабрика АО Лаатокан Пуу в Лахденпохья. Численность населения Лахденпохья составляла 1960 человек. &lt;br/&gt;&lt;br/&gt;В Хууханмяки (1900 человек населения, две народные и одна средняя школы) располагался военный городок. Там стоял Выборгский полк, а в Раухала располагался третий пехотный полк. Порт Лахденпохья был основной базой финского флота на Ладоге. &lt;br/&gt;&lt;br/&gt;В результате Зимней войны, по договору от 12 марта 1940 года, земли Яааккма вместе с другими финскими территориями были присоединена к СССР. Эвакуация населения была осуществлена в ночь на 12 марта. &lt;br/&gt;&lt;br/&gt;Обезлюдевшие дома Яаккима был заселены переселенцами из различных районов СССР. 9 июля 1940 года был образован Куркиекский район с центром в Куркиеки, составной частью которого стала бывшая волость Яаккима. &lt;br/&gt;&lt;br/&gt;В ходе войны-продолжения финские войска вышли к Ладоге в районе Лахденпохья 8 августа 1941 года и к 10 августа овладели Яаккима и Лахденпохья. По мере продвижения линии фронта часть жителей смогла вернуться из эвакуации еще до Рождества 1941 года. В следующем году в свои дома вернулось более 70% жителей волости. &lt;br/&gt;&lt;br/&gt;Порт Лахденпохья стал основной базой Ладожской флотилии. В Коконниеми располагался полевой аэродром. В начале 1942 года планировалось перевести в район Лахденпохья-Хууханмяки Ставку Верховного Главнокомандующего, но эта идея так и осталась нереализованной. В Хууханмяки был организован армейский учебный центр. &lt;br/&gt;&lt;br/&gt;22 июня 1942 года в Лахденпохья по железной дороге прибыло четыре итальянских торпедных катера, а 15 июля 1942 года, также по железной дороге, было доставлено 15 немецких штурмовых десантных барж (в дальнейшем их число возросло до 30). Все эти суда были включены в состав Ладожской флотилии. &lt;br/&gt;&lt;br/&gt;19 сентября 1944 года, в день подписания Московского мирного договора, была проведена повторная эвакуация населения Яаккима. Территория волости вновь отошла к СССР. &lt;br/&gt;&lt;br/&gt;20 января 1945 года административный центр Куркиекского района был перенесен из Куркиеки во вновь образованный город Лахденпохья. &lt;br/&gt;&lt;br/&gt;В 1946 году лютеранская церковь в Лахденпохья была переоборудована под склад и сильно пострадала от пожара в 1977 году. &lt;br/&gt;&lt;br/&gt;В 1958 году Куркиекский район был был упразднен и включен в состав Сортавальского района. &lt;br/&gt;&lt;br/&gt;10 декабря 1970 года был создан Лахденпохский район с административным центром в Лахденпохья. &lt;br/&gt;&lt;br/&gt;Военный городок в Хууханмяки до 2001 года использовался для армейских нужд. &lt;br/&gt;&lt;br/&gt;В 1990 годы при участии финских специалистов было реконструировано здание железнодорожного вокзала. &lt;br/&gt;&lt;br/&gt;По информации:&lt;br/&gt;http://heninen.net/lahdenpohja/historia.htm</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="30.4014667" lat="61.4684167">
+        <time>2012-02-08T17:26:12.000Z</time>
+        <name>OXZTM6D</name>
+        <desc>Ладожские шхеры  by mudracer1, Traditional Cache(2.0/2.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTM6D</url>
+        <urlname>Ладожские шхеры </urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469824">
+            <groundspeak:name>Ладожские шхеры </groundspeak:name>
+            <groundspeak:placed_by>mudracer1</groundspeak:placed_by>
+            <groundspeak:owner id="88742">mudracer1</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">писание окружающей местности&lt;br/&gt;&lt;br/&gt;Нынешняя территория района была заселена еще в 1 тысячелетии нашей эры карельскими племенами. Основным занятием жителей края долгое время оставались собирательство, охота, рыболовство, а затем и земледелие. Жители прибрежной полосы строили легкие, но устойчивые лодки, на которых успешно плавали по Ладоге и по рекам, осваивая новые земли.&lt;br/&gt;С IX века, с 874 года, корела упоминается в скандинавских хрониках. В 1143 году Новгородская первая летопись старшего извода сообщает о том, что &quot;…В то же лето ходиша Корела на Емь, и отбежаша 2 лоиву бити&quot;. Это сообщение о неудачном, но следовательно, не первом походе корелы на финское племя емь.&lt;br/&gt;Корелы не создали своего государства в средние века. Ставший феодальной республикой в 1136 году Великий Новгород объединил под своим руководством все северные территории и населяющие их народы. Начинается интенсивное развитие политических, экономических отношений, культурных контактов корел с Новгородом. Они знакомятся с языком, материальной и духовной культурой русского народа, а в 1227 году пришло христианство. &quot;…того же лета князь Ярослав Всеволодичь, послав крести множество корел, мало не все люди&quot;, - сообщает об этом Лаврентьевская летопись. Со второй половины XIII века и до начала XIX неоднократно происходила перекройка карельских земель в результате войн со Швецией.&lt;br/&gt;В берестяной грамоте, найденной при раскопках в Новгороде и относящейся к 1396 году, упоминается Кюриеский погост, поселки Хиитола и Куркиеки. В 1996 году отмечалось 600-летие этих поселков.&lt;br/&gt;Кюриеский - Кирьяжский - Кронборгский - Куркиекский - Лахденпохский - это исторические названия территории, сохранившейся в исторических границах, на которой сейчас проживают лахденпохцы. Прошло еще почти сто, и в 1478 году в числе погостов Корельского уезда в состав Московского государства вошел и Богородицкий Кирьяжский погост с центром в Куркиеки. &lt;br/&gt;В 1617 году по Столбовому миру Швеция получила Корельский уезд с городом Корелой (нынешний Приозерск Лен.обл.), в том числе и Кирьяжский уезд. Свыше 100 лет хозяйничали шведы в Приладожье, вытеснив исконных хозяев, позакрывав православные храмы, заселяя новые земли переселенцами из глубинных районов.&lt;br/&gt;После Ништадского мира (1721 год), положившего конец Северной войне в Куркиеках появились новые хозяева. Большая группа царских сановников, в том числе царская дочь, получили земли в Куркиеках, Лумивааре и Яккиме и владели ими долгие годы.&lt;br/&gt;Очередной вехой в истории края стал 1809 год. В этом году российский царь стал еще и Великим князем Финляндским и территория погоста вошла в состав Великого княжества Финляндского. На территории уезда не было крепостного права. За сто лет у владельцев были выкуплены все жалованные имения и на их базе созданы государственные имения. В 1851 году в Яккима была освящена кирка, проект которой был разработан выдающимся финским архитектором К.Энкелем.&lt;br/&gt;Сейчас идет восстановление кирки, сгоревшей в 50-е годы. В 1893 году через район прошла железная дорога, связавшая его с Хельсинки, Выборгом и Сортавала. 31 декабря 1917 года В. И. Ленин подписал Декрет о предоставлении независимости Финляндии. Это дало толчок дальнейшему развитию экономической жизни, развивалось сельскохозяйственное производство, небольшие предприятия, был построен фанерный завод. В 1924 году поселок Сиеклахти и деревня Лахденпохья выделяются из состава Яккима и образуют поселок Лахденпохья.&lt;br/&gt;После &quot;зимней войны&quot; территория района отошла к СССР и в 1940 году был образован Куркиекский район с центром в поселке Куркиеки. Район был заселен переселенцами из других районов страны. Однако в июне 1941 года мирный труд был прерван войной. Ожесточенные бои развернулись в Приладожье, и после тяжелых боев в начале сентября советские войска оставили район. Вернулись в сентябре 1944 года. Трудно шло восстановление. В январе 1945 года районный центр был перенесен из поселка Куркиеки в только что образованный город Лахденпохья. В 1958 году район упразднили и передали в состав Сортавальского района, но с декабря 1970 года он был восстановлен как Лахденпохский район.&lt;br/&gt;&lt;br/&gt;Описание тайника&lt;br/&gt;&lt;br/&gt; &lt;br/&gt;Остров в Ладожских шхерах. Красота неимоверноя. Кто любит северную природу, тот меня поймет. Добраться так: На любом виде транспорта до г. Лахденпохья. Около 250 км. от Питера. Если проехать через весь город по прямой и упереться в Ладогу, то там есть прокат лодок. Стоит не дорого. Можно брать гребные и моторные, есть катер. Можно приезжать на несколько дней. На острове есть прекрасный пляж для купания, оборудовано место для шашлыка и палаток. Остров состоит из нагромождения довольно больших камней. Но есть почти отвесная скала, у подножья которой, практически прилипла к скале, стоит осина. Прямо у её пожножья, прикрытый мхом, спрятан контейнер. Зимой добраться до него будет трудновато из-за большого снежного покрова.&lt;br/&gt;&lt;br/&gt;Содержимое тайника&lt;br/&gt;&lt;br/&gt;1.Фирменный шампунь отеля Hilton.&lt;br/&gt;2.Фирменное мыло отеля Hilton.&lt;br/&gt;3.Брелок для ключей с символикой &quot;Рамстор&quot;.&lt;br/&gt;4.Флостики от сети аптек &quot;Первая помощь&quot;.&lt;br/&gt;5.Блокнот тайника.&lt;br/&gt;6.Карандаш</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.7</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="30.6401333" lat="61.7433">
+        <time>2012-02-08T17:17:58.000Z</time>
+        <name>OXZTM6E</name>
+        <desc>Водопады Мюллюкюля by mudracer1, Traditional Cache(3.0/3.4/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTM6E</url>
+        <urlname>Водопады Мюллюкюля</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469825">
+            <groundspeak:name>Водопады Мюллюкюля</groundspeak:name>
+            <groundspeak:placed_by>mudracer1</groundspeak:placed_by>
+            <groundspeak:owner id="88742">mudracer1</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Описание окружающей местности&lt;br/&gt;&lt;br/&gt;Мюллюкюля — в переводе с карельского «Мельничная деревня». Когда-то давно здесь, в русле реки Тохмайоки действительно была водяная мельница, о чем свидетельствуют останки на одном из берегов. В последствии финнами была построена небольшая электростанция, которая тоже на сегодняшний день лишь остов. Но природная красота реки оказалась нетронутой, русло реки очень живописно разделяется островом на два рукава, падает высокими сливами и снова сливается воедино.&lt;br/&gt;&lt;br/&gt; Машину лучше оставить на точке&lt;br/&gt;&lt;br/&gt; N 61° 44.498' &lt;br/&gt;E 30° 38.865'&lt;br/&gt;&lt;br/&gt;Далее пешком по дороге вниз мимо дома с номером 39. И перед вами открывается вид на первый  водопад. Пробираемся (перелезаем, ) на другую сторону водопада по старым постойкам. (прямо над водопадом. Далее по тропе вверх через лесок на поле. Идем все время по тропе. Под линией передачи осторожее - с интервалом в пол-метра лежат три бревна. Ести трава высокая можно и не заметить  Далее вдоль скалы (справа огромная сосна) Водопад уже слышен так же по тропе идем к нему.&lt;br/&gt;&lt;br/&gt;Описание тайника&lt;br/&gt;&lt;br/&gt; &lt;br/&gt;С правой стороны от тропинки стоят две огромные ели (мы условно назвали их &quot;два великана&quot; ) см. фото. За ними скала. Там и нужно искать. тайник закрыт камнями и мхом (см. фото)&lt;br/&gt;&lt;br/&gt;Содержимое тайника&lt;br/&gt;&lt;br/&gt;Дорожный набор&lt;br/&gt;Сувенир&lt;br/&gt;Музыкальный диск&lt;br/&gt;Открытка&lt;br/&gt;Магнит&lt;br/&gt;две новые батарейки&lt;br/&gt;резиновые перчатки</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.4</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="30.4282333" lat="61.7385333">
+        <time>2012-02-08T17:13:34.000Z</time>
+        <name>OXZTM6F</name>
+        <desc>Хутор на реке Китенйоки by mudracer1, Traditional Cache(3.0/4.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTM6F</url>
+        <urlname>Хутор на реке Китенйоки</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469826">
+            <groundspeak:name>Хутор на реке Китенйоки</groundspeak:name>
+            <groundspeak:placed_by>mudracer1</groundspeak:placed_by>
+            <groundspeak:owner id="88742">mudracer1</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br/&gt;Описание окружающей местности&lt;br/&gt;&lt;br/&gt;Еще один живописный уголок Карелии.  Река Китенйоки разливается образуя подобие озера.  Замечательное место для стоянки на несколько дней, достаточно удаленное от цивилизации, но в то же время имеющее неплохой подъезд доступный даже для пузотерок.. Ехать нужно в сторону п. Туокслахти, дальше за него прямо. Свернуть нужно тут: N 61  42,655  и   Е 30  23,921 Далее ехать до конца дороги, справа будут видны развалины финского коровника.  Прямо через лес метров 50 разлив реки.&lt;br/&gt;&lt;br/&gt;В качестве бонуса скажу, что в пределах пары километров от этого места есть два порога, один выше по течению, другой ниже, и еще один на другом ответвлении реки.&lt;br/&gt;&lt;br/&gt;Описание тайника&lt;br/&gt;&lt;br/&gt; &lt;br/&gt;Тайник спрятан в подвале второго фундамента, того, что слева. В заголовке даны координаты входа в подвал. Вход спрятан в ельнике. Стоя у входа и глядя на противоположную стенку, видим трещину. Вот в ней внизу и справа заложен камнями контейнер. Обязательно с собой берите фонарик, в подвале очень темно. Вход в подвал зарос елками, снегом его не заметет, По этому тайник можно найти круглый год. Вот на счет дороги зимой не уверен. Ну на лыжах или снегоходе никаких проблем.&lt;br/&gt;&lt;br/&gt;Содержимое тайника&lt;br/&gt;&lt;br/&gt;1. Наушники для МП3&lt;br/&gt;2. Автомобильное зарядное для Nokia &lt;br/&gt;3. Чехол для сотового телефона&lt;br/&gt;4. Набор фломастеров&lt;br/&gt;5. Китайские палочки.&lt;br/&gt;6. Много мелких игрушек</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.8</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="30.49835" lat="61.7047667">
+        <time>2012-02-08T17:07:35.000Z</time>
+        <name>OXZTM6G</name>
+        <desc>Развалины бумажной фабрики by mudracer1, Traditional Cache(2.0/4.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTM6G</url>
+        <urlname>Развалины бумажной фабрики</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469827">
+            <groundspeak:name>Развалины бумажной фабрики</groundspeak:name>
+            <groundspeak:placed_by>mudracer1</groundspeak:placed_by>
+            <groundspeak:owner id="88742">mudracer1</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">Описание окружающей местности&lt;br/&gt;&lt;br/&gt;Река Китенйоки берет начало на территории Финляндии (оз.Китенъярви) и впадает в Ладожское озеро в черте города Сортавала. На берегу этой реки в райне поселка Туокслахти находятся развалины финской бумажной фабрики, рядом с развалинами красивейший затяжной порог,&lt;br/&gt;&lt;br/&gt;советуем посетить совместно с http://www.geocaching.su/?pn=101&amp;cid=8104 (проехать можно ТОЛЬКО  через поселок Хотинлахти, поворот у огромной сосны налево, если ехать от тайника)&lt;br/&gt;&lt;br/&gt;Описание тайника&lt;br/&gt;&lt;br/&gt; &lt;br/&gt;Тайник находится рядом со входом в  полуразрушенное здание, между каменными блоками,  укрепляющими скалу, закрыт 2-мя камнями,  чуть выше тайника растут два дерева. К развалинам лучше попасть следующим образом - едем из Сортавалы через Туокслахти. Примерно через 14 км от Срртавалы будет отворотка направо между лесом и небольшим полем. В этом месте могут стоять вагончики лесорубов. Машину лучше оставить на точке&lt;br/&gt;&lt;br/&gt;N 61.42.249&lt;br/&gt;&lt;br/&gt;E30.29.763&lt;br/&gt;&lt;br/&gt;Спускаемя к реке метров 200.&lt;br/&gt;&lt;br/&gt; &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;&lt;br/&gt;Содержимое тайника&lt;br/&gt;&lt;br/&gt;Удочка для зимней рыбалки&lt;br/&gt;зубная нить&lt;br/&gt;МР3 диск&lt;br/&gt;расческа&lt;br/&gt;ложка для обуви&lt;br/&gt;кулончик &quot;дельфин&quot;</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.6</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="30.4289" lat="61.7291333">
+        <time>2012-02-07T19:00:50.000Z</time>
+        <name>OXZTM6Q</name>
+        <desc>Питкякоски by mudracer1, Traditional Cache(3.0/4.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTM6Q</url>
+        <urlname>Питкякоски</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469834">
+            <groundspeak:name>Питкякоски</groundspeak:name>
+            <groundspeak:placed_by>mudracer1</groundspeak:placed_by>
+            <groundspeak:owner id="88742">mudracer1</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br/&gt;Описание окружающей местности&lt;br/&gt;&lt;br/&gt;Богата Карелия гидроэнергетическими ресурсами. Еще прошлые хозяева – финны, широко использовали рельеф и горные речки Северного Приладожья. Наиболее щедрой рекой в этом отношении является полноводная Янисйоки, но и другие реки тоже делятся своей природной мощью с человеком.&lt;br/&gt;Река Китенйоки начинается на территории Финляндии и впадает в Ладожское озеро в городе Сортавала.  По российской территории ее длина составляет около 50 км. Река была «открыта» в информационном плане водниками, которых привлекают быстринки, пороги  и миниводопадики. Самым интересным объектом на этой реке считается малая ГЭС, расположенная в нежилой местности Питкякоски. Она построена на рекордном для плотин Приладожья перепаде высот: 25 метров. ГЭС – действующая, на одном агрегате мощностью 1.25 мегаВатт. &lt;br/&gt;Каждая электростанция, особенно в Карелии уникальна и имееет свои неповторимые черты. Эта имеет подводной канал, заключенный в подземную трубу. Вообще, ГЭС состоит из двух плотин: первая – в правом рукаве, регулирующая общий уровень воды, вторая – непосредственно перед ГЭС. От второй плотины идет оригинальный металлический водосливной желоб (см. Фото) . Возможно он был приспособлен для сплава бревен в обход подземной трубы станции, так как бревна можно сплавлять только по левому рукаву в связи с маловодностью правого. Водники же, естественно, используют правый рукав, но только в высокую воду.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Описание тайника&lt;br/&gt;&lt;br/&gt; &lt;br/&gt;До самой станции можно добраться на любом автомобиле, по левому берегу Китенйоки.&lt;br/&gt;&lt;br/&gt;Тайник спрятан около плотины, перегораживающей второй рукав реки. До коробочки нужно идти ногами, метров 600 от места парковки.&lt;br/&gt;&lt;br/&gt;Вначале тайник был спрятан у первой (рабочей) плотины, но желание охватить все достопримечательности привело к тому, что коробочка переехала на второй рукав реки, где построена регулируюшая плотина. Она намного красивей и масштабнее, но до ней нужно топать ножками, метров 600. Тропинка начинается в точке: N61` 43.571 / E30` 26.162&lt;br/&gt;&lt;br/&gt;Но я все равно рекомендую подняться (по ступеньками за зданием станции) в первой плотине.&lt;br/&gt;&lt;br/&gt;Контейнер спрятан под плоским камнем. Между ним и плотиной растут две ели.&lt;br/&gt;&lt;br/&gt;В случае утери контейнера, найдите табличку неподалеку от места закладки (почти у воды на маленькой ёлочке), первые три цифра инвентарного номера плотины - ответ на виртуальный вопрос.&lt;br/&gt;&lt;br/&gt;Соблюдайте маскировку!!!&lt;br/&gt;</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.8</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="30.1988833" lat="61.5490167">
+        <time>2012-02-07T18:53:50.000Z</time>
+        <name>OXZTM6R</name>
+        <desc>Секретные пещеры by mudracer1, Traditional Cache(1.5/4.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTM6R</url>
+        <urlname>Секретные пещеры</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469835">
+            <groundspeak:name>Секретные пещеры</groundspeak:name>
+            <groundspeak:placed_by>mudracer1</groundspeak:placed_by>
+            <groundspeak:owner id="88742">mudracer1</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br/&gt;Описание окружающей местности&lt;br/&gt;&lt;br/&gt;Не далеко от г. Лахденпохья, есть удивительные пещеры вырубленные в скале и идущие глубоко в гору. Куда она идет сложно сказать. Раньше на этом месте стаяла воинская часть, сейчас о ней говорит только остатки колючей проволоки, которой был обнесен объект. Сама пещера представляет собой выдолбленную нишу в граните, с залитым местами бетоном. Вход украшает массивные ворота. А внутри есть системы воздуховодов и др. коммуникации.&lt;br/&gt;При посещении обязательны с собой фонарь, веревки, резиновые сапоги, и компаньоны. Последних у меня не было поэтому ограничился поверхностным осмотром подземелья.&lt;br/&gt;Чуть левее, если смотреть с улицы, есть еще одна пещера., ту я уже не осмотрел, т.к. фонарь к тому времени разрядился. Дальше могут быть еще пещеры.&lt;br/&gt;Описание тайника&lt;br/&gt;&lt;br/&gt; Над входом в пещеру на горе, есть ямка –котлован. Видимо оставшаяся с ВОВ или военные что либо копали. Там растет сосна с оголенными корнями. В этих корнях и спрятан контейнер. Внимание! Когда будете подниматься, не подскользнитесь! Мокрый мох – очень скользкий!&lt;br/&gt;Содержимое тайника&lt;br/&gt;&lt;br/&gt;МП3 Турецкой музыкой&lt;br/&gt;Маникюрный набор&lt;br/&gt;Открывашка&lt;br/&gt;Ручка-шпион&lt;br/&gt;Блокнот&lt;br/&gt;Карандаш&lt;br/&gt;Селикогель</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1871394">
+                    <groundspeak:date>2012-06-06T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="119642">pashkaspb-link</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="92.980317" lat="56.0488">
+        <time>2011-09-07T07:00:00.000Z</time>
+        <name>OX33R5X</name>
+        <desc>Enisej by tchelovek, Multi-cache(1.6/1.5/2.9)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX33R5X</url>
+        <urlname>Enisej</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="2883183">
+            <groundspeak:name>Enisej</groundspeak:name>
+            <groundspeak:placed_by>tchelovek</groundspeak:placed_by>
+            <groundspeak:owner id="59193">tchelovek</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The coordinates mark a location at the top of the cliffs of northern Kransnoyarsk, from where you have a breathtaking view of the Enisej valley from bridge 777 to the left to the rocks of TakMak in the Stolby national park on the right. &lt;br/&gt;&lt;br/&gt;Especially beautiful at sunrise.&lt;br/&gt;&lt;br/&gt;The vicinity is a historic housing area of the Krasnoyarsk aluminum facctory KRAZ, nowadays RUSAL. &lt;br/&gt;&lt;br/&gt;From the cliffs you can walk down to the river and &lt;br/&gt;stroll the recreational area. &lt;br/&gt;&lt;br/&gt;Care should be taken when strolling the cliffs, as the material is not rock, but clay.&lt;br/&gt;&lt;br/&gt;Getting too close to the rim, may send you down in an avalanche of rubble.&lt;br/&gt;&lt;br/&gt;There is plenty of parking space in front of the coordinates, the location can be reached by public transportation (Bus 83) from the city center. &lt;br/&gt;&lt;br/&gt;On the cliffs to the left, there is a small restaurant with terrace. Right behind the restaurant a small road leads down to the river meadows.&lt;br/&gt;&lt;br/&gt;The cache itself is located 330 degrees and 180 meters from the coordinates.&lt;br/&gt;&lt;br/&gt;As the final is close to living quarters, please take care when logging, so as not to arouse suspicion with the neighbours.&lt;br/&gt;&lt;br/&gt;Cache content: Logbook, Pencil, Sharpener.&lt;br/&gt;&lt;br/&gt;Carrying a ballpen when logging is recommended, as pencil and sharpener are probably the first items to vanish.&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Absolutely safe from dogs and children, short people may not be able to reach it.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>2.1</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="38.67975" lat="44.3995167">
+        <time>2010-05-16T05:00:00.000Z</time>
+        <name>OX7606</name>
+        <desc>Real colonel by prepod2000, Traditional Cache(2.5/3.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX7606</url>
+        <urlname>Real colonel</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="214309">
+            <groundspeak:name>Real colonel</groundspeak:name>
+            <groundspeak:placed_by>prepod2000</groundspeak:placed_by>
+            <groundspeak:owner id="5977">prepod2000</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The hiding place is approximately in 4,5 km from the farm center Colonel's, without reaching the fourth falls which are located on right (on a course) stream inflow (if to go on a current - on the left inflow) on distance of 100 m from a place of a confluence of inflow to the river Stony, it is necessary to reach parking with fires. From parking there is a track to the left and upwards (it is visible, bypassing falls). The big tree in which roots there are a few places is Literally through 50 m to the right of a footpath. But the container there hasn't got, therefore have put it under a flat gray stone lying on roots (big - 50 on 50 sm, weight for 15 kg, attention, to children not to lift!).&lt;br/&gt;Carefully, in falls not to jump, without having convinced available of them waters! It is necessary to be ready to fords (rubber boots or mesh trainers), to 8 and 9 falls to pass difficult enough (for the insurance the rope is hung), therefore have decided to leave in more accessible place.&lt;br/&gt; &lt;br/&gt; &lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Falls are in a stream channel Colonel's (on other cards - the river Stony) length 10 km, the right inflow of the river Dzhubga, near to village Mountain that on a highway Krasnodar - Dzhubga. The cascade consists of nine falls. The biggest falls in height of 18 m. 
+Duration of the pedestrian part of a route from village Colonel's — 4-6 hours, extent of 10 km. More info + photos - http://www.geocaching.su/?pn=101&amp;cid=7606</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1342038">
+                    <groundspeak:date>2011-07-06T09:30:13.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="43119">BVI09</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1767271">
+                    <groundspeak:date>2011-07-02T12:06:00.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="41991">200RUS</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1301075">
+                    <groundspeak:date>2011-06-26T08:48:25.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="40214">SAFAROV-EDUARD</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="31.0806167" lat="60.11895">
+        <time>2010-08-16T07:00:00.000Z</time>
+        <name>OX2DH02</name>
+        <desc>Mayak by MERDIAN, Traditional Cache(1.5/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2DH02</url>
+        <urlname>Mayak</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2250664">
+            <groundspeak:name>Mayak</groundspeak:name>
+            <groundspeak:placed_by>MERDIAN</groundspeak:placed_by>
+            <groundspeak:owner id="3693">MERDIAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The cache is hidden near the lighthouse (Russian: Mayak) at lake
+Ladoga, the largest freshwater lake in Europe. 100 meter away is a
+sandy beach and a restaurant so don´t forget your bathing stuff
+during the summer.
+&lt;p&gt;1 km away you can visit the museum Doraga Schisni covering the
+Road of Life. Open Wednesday to Sunday 10 am to 5 pm, entrance fee
+40 Rubel.&lt;/p&gt;
+&lt;p&gt;The Road of Life (Russian: doroga zhizni) was the ice road
+transport route across the frozen Lake Ladoga, which provided the
+only access to the besieged city of Leningrad in the winter months
+during 1941–1944 while the perimeter in the siege was
+maintained by the German Army Group North and the Finnish Defence
+Forces. The siege lasted for 29 months from September 8, 1941, to
+January 27, 1944. Over one million citizens of Leningrad died from
+starvation, stress, exposure and bombardments. The road today forms
+part of the World Heritage Site. (Source: Wikipedia).&lt;/p&gt;
+&lt;p&gt;How to get there with public transport: Take the train from St.
+Petersburg, Finlyandsky Rail Terminal (Russian: Finlyandsky
+vokzal), also known as Finland Station (Metro-Station: Pl. Lenina)
+to Ladoschkoje Osero. One way ticket is 82.50 Rubel and the trip
+takes 1,5 hour.&lt;/p&gt;
+
+&lt;p&gt;Small note on cache maintenance: gleb_gl will
+assist. Thanks!&lt;/p&gt;
+ 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1795595">
+                    <groundspeak:date>2012-04-29T12:51:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="76201">avasjan</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="701759">
+                    <groundspeak:date>2010-12-11T19:57:50.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="6326">Putin&amp;Putinka</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

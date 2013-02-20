@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>1 geocache.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:38:25.082Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="-76.6585833" lat="-11.8961833">
+        <time>2012-03-05T01:06:21.000Z</time>
+        <name>OXZTKQT</name>
+        <desc>La Olla de Barro by captsirl, Traditional Cache(2.6/2.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTKQT</url>
+        <urlname>La Olla de Barro</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469402">
+            <groundspeak:name>La Olla de Barro</groundspeak:name>
+            <groundspeak:placed_by>captsirl</groundspeak:placed_by>
+            <groundspeak:owner id="94327">captsirl</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Description&lt;br/&gt;Well, If you Visit Lima Peru and have a day to spend exploring. Many people like follow the Rio Rimac up to the little town of Chosica. But if you want to get a little of the beaten path turn your GPS on and Look and for Santa Eulalia. We found a nice place to eat and since it was raining we decided that this location was as good as any. This will take all of a day if you staying in Lima&lt;br/&gt;Look for a white round plastic one gallon jar with a black Plastic lid&lt;br/&gt;Descripcion:&lt;br/&gt;Si visitas Lima Peru alguna vez y tienes un dia completo dedicado a explorar .Muchas personas les gusta ir a Chosica  siguiendo el Rio Rimac. Pero si quieres ir mas adentro enciende tu GPS y busca la cuidad de Santa Eulalia. Nosotros encontramos un bonito lugar donde comer en el restaurant campestre La Olla de Barro y desde que  estaba lloviendo sabiamos que el lugar seria mas aun perfecto. Esto te tomara todo un dia completo sit e quedas en Lima.&lt;br/&gt;Busca un bote de plastico blanco con tapa negra .&lt;br/&gt; </groundspeak:long_description>
+            <groundspeak:encoded_hints>Close the the river / http://maps.google.com/maps?q=-11.896189,-76.658551&amp;hl=en&amp;num=1&amp;t=h&amp;z=19</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1926658">
+                    <groundspeak:date>2012-07-07T05:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="68767">TUCUYRICUY</groundspeak:finder>
+                    <groundspeak:text encoded="False">Hola
+
+Muchas gracias por subir el caché.
+
+
+</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>4.3</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>cache.jpg</ox:name>
+                    <ox:size>177854</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+</gpx>

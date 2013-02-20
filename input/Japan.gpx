@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>9 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:37:45.906Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="139.46545" lat="35.71632">
+        <time>2012-06-08T09:04:58.000Z</time>
+        <name>OXZTF9J</name>
+        <desc>Kubo Higashi Park #2 by tokyotwowheeling, Traditional Cache(2.1/1.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTF9J</url>
+        <urlname>Kubo Higashi Park #2</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28465117">
+            <groundspeak:name>Kubo Higashi Park #2</groundspeak:name>
+            <groundspeak:placed_by>tokyotwowheeling</groundspeak:placed_by>
+            <groundspeak:owner id="100954">tokyotwowheeling</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Hidden Higashi Kubo Park. BYOP.</groundspeak:long_description>
+            <groundspeak:encoded_hints>200 m</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.1</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="139.5166667" lat="35.7166667">
+        <time>2012-03-19T10:57:03.000Z</time>
+        <name>OXZTKFN</name>
+        <desc>Koganei Park #9 by tokyotwowheeling, Traditional Cache(1.8/2.1/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTKFN</url>
+        <urlname>Koganei Park #9</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469150">
+            <groundspeak:name>Koganei Park #9</groundspeak:name>
+            <groundspeak:placed_by>tokyotwowheeling</groundspeak:placed_by>
+            <groundspeak:owner id="100954">tokyotwowheeling</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Koganei Park is the second largest park in the Metropolitan Tokyo Area, having entrances in Koganei City, Kodaira City, Nishitokyo City, and Musashino City. Koganei Park is an attraction for local residents and tourists. The park opened in 1954 and covers 1,491,000 square meters. The numerous varieties of plum trees in the park bloom in February, and the Cherry trees in late March and April, providing a desirable setting for exercise enthusiasts, photographers, picnickers, and nature lovers.&lt;br/&gt;&lt;br/&gt;The park has playgrounds for children, soccer and baseball fields, a gym with a pool and an area for skateboarding, roller skating and a unicycle practice area. It also has a bicycle trail and a bicycle center where you can rent a bicycle.&lt;br/&gt;&lt;br/&gt;小金井公園は、小金井市、小平市、西東京市、武蔵野市の入り口を持つ、首都圏で二番目に大きい公園です。小金井公園は、地元住民や観光客のアトラクションです。公園は、公園は1954年にオープンし、1491000平方メートルを拡がる。運動愛好家、写真家、ピクニック、そして自然を愛する人のための望ましい公園を提供する。2月の梅の木と3月、４月の桜の木が多く小金井公園の花見は大人気。&lt;br/&gt;&lt;br/&gt;公園は子供たちの遊具、サッカーや野球場、プールと体育館、スケートボード、ローラースケートと一輪車の練習場の遊び場があります。また、自転車を借りることができるサイクリングロードと自転車のセンターを持っています。</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.8</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>2.1</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="139.7612" lat="35.6657">
+        <time>2008-12-08T08:00:00.000Z</time>
+        <name>OX1JR33</name>
+        <desc>Old Shimbashi Station by LEEWINNIE, Traditional Cache(4.7/1.1/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX1JR33</url>
+        <urlname>Old Shimbashi Station</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1482919">
+            <groundspeak:name>Old Shimbashi Station</groundspeak:name>
+            <groundspeak:placed_by>LEEWINNIE</groundspeak:placed_by>
+            <groundspeak:owner id="67991">LEEWINNIE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>4.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">The Old Shimbashi Station reproduces the external appearance of the first Shimbashi Station,the Tokyo terminus of Japan's first railway line opened on 14 October 1872,as faithfully as possible on its original site.The first station building was designed by the American architect R.P.Bridgens(1819-91).Construction started in May 1871 and was completed in December of the same year.Western-style buildings was still rare in Tokyo at that time,but the station's imposing design symbolized Japan's modernization in tandem with the westernized rebuilding of Ginza Dori soon after the opening of the railway.&lt;br/&gt;&lt;br/&gt;The Passenger-terminal functions of Shimbashi Station were transferred to the new Tokyo Station when it was opened in 1914 and Shimbashi Station was renamed Shiodome Station and became a freight terminal.The Shimbashi Station name was transferred to Karasumori Station,which still remains as today's Shimbashi Station.In its new role as a freight terminal,Shiodome played a pivotal part in Japan's subsequent economic growth.&lt;br/&gt; &lt;br/&gt;Unfortunately,the magnificent old station building in Shiodome,which had symbolized Japan's westernization movement during the Meiji period(1868-1912),was destroyed by fire following the Great Kanto Earthquake on 1 September 1923.Renovation works in Shiodome freight terminal from 1934 onwards resulted in the demolition of the old remaining platforms and original structures not destroyed by the 1923 fire.&lt;br/&gt;Following the closure of Shiodome freight terminal in 1968,archaeological excavations in 1991 led to the discovery of the station site and the unearthing of the platforms and foundations of the first Shimbashi Station building.On 10 December 1996,the Japanese government designated the remains of the station building and part of the platform as the Old Shimbashi Station Historic Site.&lt;br/&gt;This reproduction of the first station building has been built to conserve and display these historic remains and to commemorate the birthplace of railways in Japan.&lt;br/&gt;The dotted line shows the extent of the government-designated Old Shimbashi Station Historic Site.&lt;br/&gt;&lt;br/&gt;Cache cotainer is a small card cace.&lt;br/&gt;Please have the pen.&lt;br/&gt;&lt;br/&gt;旧新橋停車場は、1872（明治5）年10月14日に開業した日本最初の鉄道ターミナル新橋停車場の駅舎の外観を、当時と同じ位置に、できるだけ忠実に再現したものです。&lt;br/&gt;新橋停車場駅舎は、アメリカ人R・P・ブリジェンスの設計による木骨石張りの構造で、1871（明治4）年5月に着工、同年12月に完成し、西洋建築がまだ珍しかった時代の東京で、鉄道開業直後に西洋風に整備された銀座通りに向かって、威容を誇っていました。&lt;br/&gt;1914（大正3）年、新設の東京駅に旅客ターミナルの機能が移り、それまでの烏森（からすもり）駅が新橋の名を引き継いで現在の新橋駅となり、貨物専用駅となった旧駅は汐留駅と改称、物流の大拠点として戦前戦後を通じて東京の経済活動を支えました。&lt;br/&gt;文明開化の象徴として親しまれていた旧駅舎は、1923（大正12）年9月1日の関東大震災に際して火災のため焼失し、1934（昭和9）年から始まった汐留駅改良工事のため、残存していたプラットホームや構内の初施設も解体されました。&lt;br/&gt;1986（昭和61）年、汐留駅はその使命を終えて廃止され、敷地の再開発工事に先立つ埋蔵文化財の発掘調査が1991（平成3）年から行われた結果、旧新橋停車場駅舎とプラットホームなど構内の諸施設の礎石が発掘されました。1996（平成8）年12月10日、駅舎とプラットホームの一部の遺構が史跡『旧新橋停車場』として国の指定を受け、この史跡を保護しつつわが国鉄道発祥の往時を偲びために、駅舎を再建することになったものです。&lt;br/&gt;&lt;br/&gt;cacheは名刺入れです。&lt;br/&gt;ペンをお持ちください。 &lt;br/&gt;&lt;br/&gt;HA HI HU HE HO </groundspeak:long_description>
+            <groundspeak:encoded_hints>Google maps(Satellite),The stairs,Magnet</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1651602">
+                    <groundspeak:date>2011-10-25T16:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="67991">LEEWINNIE</groundspeak:finder>
+                    <groundspeak:text encoded="False">Hey 
+I can create now..Ha ha.
+</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="296860">
+                    <groundspeak:date>2010-10-12T05:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3076">Romanese</groundspeak:finder>
+                    <groundspeak:text encoded="False">#5 2010-10-12 03:57
+We found the cache on our Ginza tour. T4TC.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="269045">
+                    <groundspeak:date>2010-03-28T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="748">ATSTGM</groundspeak:finder>
+                    <groundspeak:text encoded="False">I found it!
+TNLNSL, TFTC!
+
+=== Japanese ===
+takateru¿¿¿¿¿¿¿¿¿¿
+¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
+¿¿¿¿¿¿¿¿¿¿!
+¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
+
+Syosuke¿¿¿¿¿¿¿¿¿¿¿¿¿¿!
+¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
+¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿¿
+</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>4.7</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>1.1</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="139.7082417" lat="35.6617567">
+        <time>2011-06-14T12:47:37.000Z</time>
+        <name>OXZTTXK</name>
+        <desc>National Children's Castle by sawayaka, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTTXK</url>
+        <urlname>National Children's Castle</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28475317">
+            <groundspeak:name>National Children's Castle</groundspeak:name>
+            <groundspeak:placed_by>sawayaka</groundspeak:placed_by>
+            <groundspeak:owner id="34072">sawayaka</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">I hid a cache near the National Children's Castle.&lt;br/&gt;&lt;br/&gt;To celebrate the International Year of the Child in 1979, the Ministry of Health (then) initiative by the Children's Center is a large comprehensive built.&lt;br/&gt;&lt;br/&gt;Is the management association is shining Shigeru Iku Children Foundation. The hotel has a lobby video library facilities and computer room chamber music, physical education Pureihoru Design Studio, for the healthy development of children, a variety of &quot;play&quot; program offers .&lt;br/&gt;&lt;br/&gt;In order to support the welfare of children and various aspects of culture, in addition to children's play area, amphitheater and two theaters and theater Aoyama Aoyama, training room hotel restaurant, child health clinics, childcare facilities, etc. There are complex. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;*Taro Okamoto - kodomo no ki (Child's Tree)*&lt;br/&gt;&lt;br/&gt;It is sculpture &quot;Child's tree. &quot; of production of Taro Okamoto to would like you to see also. &lt;br/&gt;Vigour of the child who grows up and mischievous feeling are very human works in &quot;Child's tree&quot; (1985) that exists in Aoyama's National Children's Castle against &quot;Tower in the sun&quot; (1970) even divine the form that draws features in order that give off a golden gleam in Taro Okamoto's work and a beautiful curve that is. &lt;br/&gt;Do the face down of the face on the tip of the branch that extended to eight people as all are seen from children. It seems to be made it to height that the child that it is made to hold in the plinth can get on. &lt;br/&gt;&lt;br/&gt;Please see linked Websites as follows. &lt;br/&gt;http://members.jcom.home.ne.jp/nobish/981kodomo.html&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;cache is a small case.&lt;br/&gt;Please bring a pen to be able to write well.     </groundspeak:long_description>
+            <groundspeak:encoded_hints>The direction where the face of the blue faces.Under the over road step.Diamond Shape Mini Case.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1301071">
+                    <groundspeak:date>2011-06-26T06:42:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="40180">GC.Hidenori</groundspeak:finder>
+                    <groundspeak:text encoded="False">I came shibuya for ARG game casssino,and came this cache before the game.
+
+I got first to find.
+thanks for the cache!
+
+Logged via OpenCaching Android app.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="140.3557333" lat="36.7743">
+        <time>2005-11-05T07:00:00.000Z</time>
+        <name>OXR7DD</name>
+        <desc>Welcome to Daigo by JoshGCMN4M, Multi-cache(3.0/2.2/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXR7DD</url>
+        <urlname>Welcome to Daigo</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="722127">
+            <groundspeak:name>Welcome to Daigo</groundspeak:name>
+            <groundspeak:placed_by>JoshGCMN4M</groundspeak:placed_by>
+            <groundspeak:owner id="2921">JoshGCMN4M</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is a relatively easy two stage traditional cache. The first&lt;br/&gt;stage has the coordinates for the second. Both stages require a bit&lt;br/&gt;of hunting once you reach the coordinates. But are easily&lt;br/&gt;accessible. Daytime can have LOTS of muggles. The path is lit and&lt;br/&gt;the cache can easily be done at night. Private homes are above the&lt;br/&gt;walkway, and during nice weather people fish, walk, ride bicycles,&lt;br/&gt;and can also be seen in the back of their homes. Plenty of space to&lt;br/&gt;bring lunch and watch the ducks, fish and people. Stage 1 is a&lt;br/&gt;small black plastic box about the size of a deck of playing cards.&lt;br/&gt;It also has a log book &amp; pen. Stage 2 is a rectangular clear&lt;br/&gt;plastic 1.0L container, labeled as a cache. Initial contents: FTF&lt;br/&gt;Mickey Mouse keitai strap; Batteries (just in case you've found a&lt;br/&gt;lot of caches); Chinese &quot;silk&quot; purse; mini buddah statue; mini&lt;br/&gt;yo-yo; and of course Log Book &amp; pen. THANKS! Good luck!</groundspeak:long_description>
+            <groundspeak:encoded_hints>read the writing ON the wall</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.6</ox:size>
+                <ox:terrain>2.2</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="140.3757167" lat="36.7639">
+        <time>2005-12-11T08:00:00.000Z</time>
+        <name>OXRKPB</name>
+        <desc>A View From the Park by JoshGCMN4M, Traditional Cache(1.6/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXRKPB</url>
+        <urlname>A View From the Park</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="733936">
+            <groundspeak:name>A View From the Park</groundspeak:name>
+            <groundspeak:placed_by>JoshGCMN4M</groundspeak:placed_by>
+            <groundspeak:owner id="2921">JoshGCMN4M</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is a 35mm film case with log, pencil and eraser. It's&lt;br/&gt;VERY Close to Hwy. 118 so there LOTS of muggles, be careful. Take a&lt;br/&gt;few minutes to enjoy the view of the mountains and the Kuji River&lt;br/&gt;below. Thanks for looking. and ALWAYS C.I.T.O.</groundspeak:long_description>
+            <groundspeak:encoded_hints>      If you can't find it. Take a rest and you will. </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="140.3510667" lat="36.7706333">
+        <time>2010-11-09T08:00:00.000Z</time>
+        <name>OX2J06Y</name>
+        <desc>All Aboard in Daigo by JoshGCMN4M, Traditional Cache(3.0/1.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2J06Y</url>
+        <urlname>All Aboard in Daigo</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2383495">
+            <groundspeak:name>All Aboard in Daigo</groundspeak:name>
+            <groundspeak:placed_by>JoshGCMN4M</groundspeak:placed_by>
+            <groundspeak:owner id="2921">JoshGCMN4M</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This beautifully restored locomotive has been in a &quot;cage&quot; in the rear of the Daigo Community center since the early 1970's, and has now been moved to a more appropriate, permanent display location. You can come by train or car, or bus for that matter. You can enjoy lunch at the nearby soba shop, bakery, or many other places within walking distance. There is a Yamazaki Shop convenience store nearby too.&lt;br/&gt;&lt;br/&gt;There is a new paid parking lot next to the SL,  but you can park free behind the soba shop, or at the nearby community building Ma-in</groundspeak:long_description>
+            <groundspeak:encoded_hints>Four white sticks</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="136.9738833" lat="35.1462833">
+        <time>2010-10-24T07:00:00.000Z</time>
+        <name>OX2GBHZ</name>
+        <desc>HAGE by eizo, Unknown Cache(3.0/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2GBHZ</url>
+        <urlname>HAGE</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2334826">
+            <groundspeak:name>HAGE</groundspeak:name>
+            <groundspeak:placed_by>eizo</groundspeak:placed_by>
+            <groundspeak:owner id="2534">eizo</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">lease use the device that can hear &quot;chirp&quot; for your reaching to this final.&lt;br/&gt;&quot;chirp&quot; is a device that sends the beacon.&lt;br/&gt;http://www.garmin.com/chirp&lt;br/&gt;&lt;br/&gt;Shown coordinates are entrances to Hage Hill in Yagotourayama.&lt;br/&gt;&lt;br/&gt;Please look up at coordinates and the lock number of the cache in this place.&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>cliff where tower is seen</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="718098">
+                    <groundspeak:date>2010-12-12T09:51:54.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="6476">KOZAN3RD</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>5.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>chirp</ox:tag>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:chirp>2437356</ox:chirp>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="137.6215333" lat="34.7700167">
+        <time>2010-02-28T08:00:00.000Z</time>
+        <name>OX24FD7</name>
+        <desc>Mt. Okusa by imr-jp, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX24FD7</url>
+        <urlname>Mt. Okusa</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1981031">
+            <groundspeak:name>Mt. Okusa</groundspeak:name>
+            <groundspeak:placed_by>imr-jp</groundspeak:placed_by>
+            <groundspeak:owner id="2351">imr-jp</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Near facilities&lt;br /&gt;
+HAMANAKO MUSIC BOX MUSEUM&lt;br /&gt;
+HAMANAKO KANZANJI-SOU (HOTEL)&lt;br /&gt;
+&lt;br /&gt;
+(The rooftop in the museum is an observatory. The observatory is
+free. )&lt;br /&gt;
+The cache is hidden near the summit.&lt;br /&gt;
+&lt;br /&gt;
+You can visit by car. However, there is no parking space.&lt;br /&gt;
+Please park to the road shoulder. (Please refer to Waypoint
+&quot;PARK&quot;.)&lt;br /&gt;
+(If you are those who stay at the hotel, the parking lot at the
+hotel can be used. )&lt;br /&gt;
+&lt;br /&gt;
+You can visit from KANZANJI by the ropeway.&lt;br /&gt;
+&lt;br /&gt;
+The cost of the ropeway is 800 yen in the round trip.&lt;br /&gt;
+http://ropeway.entetsu.co.jp/announce/index.html&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+
+http://ropeway.entetsu.co.jp/announce/index.html&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;PA24FD7 - PARK&lt;br /&gt;N 34° 46.256 E 137° 37.353&lt;br /&gt;Free parking space. (Road shoulder)</groundspeak:long_description>
+            <groundspeak:encoded_hints>Under the (wood)log</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="597357">
+                    <groundspeak:date>2010-03-10T15:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="2534">eizo</groundspeak:finder>
+                    <groundspeak:text encoded="False">I got FTF.I went shortly there by car. The distance climbed the mountain was a little. The view of Lake Hamanako was very good. TFTC!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1375901">
+                    <groundspeak:date>2010-03-10T15:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="2534">eizo</groundspeak:finder>
+                    <groundspeak:text encoded="False">I got FTF.
+I went shortly there by car. 
+The distance climbed the mountain was a little. The view of Lake Hamanako was very good.
+TFTC!</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

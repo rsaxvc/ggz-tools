@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>4 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:37:58.989Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="-79.8021944" lat="43.1845833">
+        <time>2012-06-17T21:42:29.000Z</time>
+        <name>OXZTF05</name>
+        <desc>Riddle Part 3 by Lamarrevelous, Multi-cache(2.9/2.7/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTF05</url>
+        <urlname>Riddle Part 3</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="28464825">
+            <groundspeak:name>Riddle Part 3</groundspeak:name>
+            <groundspeak:placed_by>Lamarrevelous</groundspeak:placed_by>
+            <groundspeak:owner id="126914">Lamarrevelous</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">A grey duct taped container. Part 3 of five. Find them all to form the riddle. </groundspeak:long_description>
+            <groundspeak:encoded_hints>Past the entrance to the cave follow the path on the left in a tree on the right.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.9</ox:difficulty>
+                <ox:size>3.6</ox:size>
+                <ox:terrain>2.7</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-79.8067222" lat="43.1827778">
+        <time>2012-06-17T21:33:47.000Z</time>
+        <name>OXZTF06</name>
+        <desc>Riddle part 2 by Lamarrevelous, Multi-cache(2.6/2.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTF06</url>
+        <urlname>Riddle part 2</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="28464826">
+            <groundspeak:name>Riddle part 2</groundspeak:name>
+            <groundspeak:placed_by>Lamarrevelous</groundspeak:placed_by>
+            <groundspeak:owner id="126914">Lamarrevelous</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">A grey duct taped container. Part 2 of five. Find them all to form the riddle. </groundspeak:long_description>
+            <groundspeak:encoded_hints>Through the arch, by the creek, hanging on a tree.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>3.7</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-79.8089722" lat="43.1846667">
+        <time>2012-06-17T21:17:15.000Z</time>
+        <name>OXZTF08</name>
+        <desc>Riddle Part 1 by Lamarrevelous, Multi-cache(3.1/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTF08</url>
+        <urlname>Riddle Part 1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="28464828">
+            <groundspeak:name>Riddle Part 1</groundspeak:name>
+            <groundspeak:placed_by>Lamarrevelous</groundspeak:placed_by>
+            <groundspeak:owner id="126914">Lamarrevelous</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Grey duct taped tube. Collect all 5 to form the riddle. </groundspeak:long_description>
+            <groundspeak:encoded_hints>Under a rock and a hard place.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.1</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="71.8333333" lat="48.5333333">
+        <time>2011-02-15T18:23:18.000Z</time>
+        <name>OX2A6HP</name>
+        <desc>Asterix&amp;Obelix by postus, Unknown Cache(1.9/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2A6HP</url>
+        <urlname>Asterix&amp;Obelix</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2151267">
+            <groundspeak:name>Asterix&amp;Obelix</groundspeak:name>
+            <groundspeak:placed_by>postus</groundspeak:placed_by>
+            <groundspeak:owner id="12064">postus</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br/&gt;Notizen ändern&lt;br/&gt;Notizen speichernAbbrechen&lt;br/&gt;&lt;br/&gt;Bitte beachten: Du musst unserer Haftungsausschlusserklärung zustimmen, um die Services von Geocaching.com nutzen zu können.&lt;br/&gt;&lt;br/&gt;Wer hätte gedacht, dass Obelix auf seiner Reise zu den Goten einen Hinkelstein bei Heroldsbach vergessen hat? Vom Zielort aus könnt ihr den Hinkelstein sehen. Der Platz lädt sehr zu einem Picknick ein.&lt;br/&gt;&lt;br/&gt;Wer hätte gedacht, dass Obelix auf seiner Reise zu den Goten einen Hinkelstein bei Heroldsbach vergessen hat? Vom Zielort aus könnt ihr den Hinkelstein sehen. Der Platz lädt sehr zu einem Picknick ein.&lt;br/&gt;Anfang steht ein kleines Rätsel, das für Kenner von Asterix &amp; Obelix kein Problem sein dürfte. Dann heißt es suchen!! Viel Spaß!&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Rätsel:&lt;br/&gt;&lt;br/&gt;N: 49° 41. ABC&lt;br/&gt;&lt;br/&gt;E: 010° 59. DEF&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;A: Wie viele Kinder haben Cleopatra und Cäsar? &lt;br/&gt;&lt;br/&gt;B: Wie viele Personen fliegen auf dem Teppich ins Morgenland?&lt;br/&gt;&lt;br/&gt;C: Wie heißt die Frau, in die Obelix verliebt ist? (Anzahl der Buchstaben)&lt;br/&gt;&lt;br/&gt;D: Wie heißt der Hund von Obelix? (Anzahl des Buchstaben U im Namen)&lt;br/&gt;&lt;br/&gt;E: Wie heißt der britische Vetter von Asterix? ( Anzahl der Buchstaben)&lt;br/&gt;&lt;br/&gt;F: In welcher Stadt lebt der Bruder von Gutemine? (Anzahl der Buchstaben)&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1191162">
+                    <groundspeak:date>2010-05-27T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="5670">Spruti</groundspeak:finder>
+                    <groundspeak:text encoded="False">Das Rätsel hat viel Spaß gemacht, die Hefte kannte ich als Kind fast auswendig. So gab der Geochecker schon kurz nach der Veröffentlichung auf OC sein OK! [:)] Bis ich dann allerdings vor Ort suchen konnte vergingen leider noch ein paar Tage. Heute war's endlich so weit. Während ich noch nach Station 2 suchte, gesellte sich mumpf21 zu mir. So zogen wir im Team weiter. Die folgenden Stationen waren dann kein Problem mehr, und bald standen wir vor dem Hinkelstein und hielten die Finaldose in den Händen.
+
+Wir konnten schließlich uns als Erste ins Logbuch eintragen. [:D][:D][:D]
+
+Hoffentlich wird der Final von den Anliegern nicht entdeckt, oder sind sie eingeweiht?
+
+Danke für das schöne Asterix-Rätsel, das Zeigen der Final-Location und das Dösle sagt Spruti!</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.9</ox:difficulty>
+                <ox:size>1.8</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

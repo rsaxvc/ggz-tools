@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>1 geocache.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:38:36.448Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="-63.84375" lat="11.1197667">
+        <time>2012-02-15T16:37:15.000Z</time>
+        <name>OX3BEDQ</name>
+        <desc>El Tirano by franklinbaldo, Traditional Cache(1.6/1.7/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3BEDQ</url>
+        <urlname>El Tirano</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3112144">
+            <groundspeak:name>El Tirano</groundspeak:name>
+            <groundspeak:placed_by>franklinbaldo</groundspeak:placed_by>
+            <groundspeak:owner id="89203">franklinbaldo</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The beach &quot;El Tirano&quot; is near popular beach &quot;Parguito&quot; at the foot of the hill Guayamurí.&lt;br/&gt;It is the perfect place for those who want to enjoy a beach without much fuss.&lt;br/&gt;Boats depart from here to dive into the Archipelago &quot;Los Frailes&quot;.&lt;br/&gt;&lt;br/&gt;La playa de &quot;El Tirano&quot;, se encuentra cerca de la popular playa de &quot;Parguito&quot; al pie de la colina de Guayamurí.&lt;br/&gt;Es el lugar perfecto para aquellos que quieran disfrutar de una playa sin mucho alboroto.&lt;br/&gt;Aquí salen los barcos de buceo en el archipiélago de &quot;Los Frailes&quot;.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>2.5</ox:size>
+                <ox:terrain>1.7</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

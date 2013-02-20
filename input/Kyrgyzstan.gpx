@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>2 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:38:13.624Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="74.6158" lat="42.8784">
+        <time>2012-03-11T14:51:54.000Z</time>
+        <name>OXZTKMY</name>
+        <desc>Victory Square Bishkek by daoud, Virtual Cache(1.1/2.1/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTKMY</url>
+        <urlname>Victory Square Bishkek</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Virtual Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469313">
+            <groundspeak:name>Victory Square Bishkek</groundspeak:name>
+            <groundspeak:placed_by>daoud</groundspeak:placed_by>
+            <groundspeak:owner id="98474">daoud</groundspeak:owner>
+            <groundspeak:type>Virtual Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">This virtual cache is located along a path towards Victory Square in Bishkek, Kyrgyzstan. Victory Square commemorates WWII. It contains an eternal fire and is a common location where newlyweds take wedding photos. The photos here are of Victory Square and not the coordinates where the Code Phrase is hidden. The Code Phrase to log this cache is the inscription on the path at the coordinates.&lt;br/&gt;&lt;br/&gt;  </groundspeak:long_description>
+            <groundspeak:encoded_hints>Look for the inscription on the path at the coordinates.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.1</ox:difficulty>
+                <ox:size>5.0</ox:size>
+                <ox:terrain>2.1</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:phrase>76d116368dbfa1a722eb1d869173447ca1335aa202aa6fc8a9c93bcd6b6c3f26</ox:phrase>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Eternal Flame.jpg</ox:name>
+                    <ox:size>68917</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Newlyweds.jpg</ox:name>
+                    <ox:size>127517</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Victory Square.jpg</ox:name>
+                    <ox:size>70709</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Tunduk.jpg</ox:name>
+                    <ox:size>47922</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-76.3443833" lat="40.7959833">
+        <time>2011-09-12T21:28:04.000Z</time>
+        <name>OXZTQJH</name>
+        <desc>Hot time in Centralia by NISHOLLOW, Traditional Cache(1.7/2.7/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTQJH</url>
+        <urlname>Hot time in Centralia</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28473083">
+            <groundspeak:name>Hot time in Centralia</groundspeak:name>
+            <groundspeak:placed_by>NISHOLLOW</groundspeak:placed_by>
+            <groundspeak:owner id="27197">NISHOLLOW</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The cache is off old highway 61 better known has graffiti highway.and the cache is a camo coffe can with a log book and some trading items in it to start it out.please treat the cache has if it was your cache and hide it the same way or better.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Under dead wood</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1980662">
+                    <groundspeak:date>2012-07-24T16:50:07.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="133471">daringdowds</groundspeak:finder>
+                    <groundspeak:text encoded="False">Did not find because I was not willing to walk through all of the poison sumac to find it
+
+Logged via OpenCaching Android app.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.7</ox:difficulty>
+                <ox:size>2.9</ox:size>
+                <ox:terrain>2.7</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+</gpx>

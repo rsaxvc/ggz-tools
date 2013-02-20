@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>1 geocache.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:38:50.196Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="-2.5107778" lat="49.5043056">
+        <time>2012-04-10T07:00:00.000Z</time>
+        <name>OX3GE0Z</name>
+        <desc>Trail View by STEPHENGSY, Traditional Cache(2.3/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3GE0Z</url>
+        <urlname>Trail View</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3260703">
+            <groundspeak:name>Trail View</groundspeak:name>
+            <groundspeak:placed_by>STEPHENGSY</groundspeak:placed_by>
+            <groundspeak:owner id="105212">STEPHENGSY</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">A nice walk while looking for other nearby caches with a lovely view over beach. And Other Landmarks.&lt;br/&gt;&lt;br/&gt;Easy cache to find, with a nice view. Close to path so suitable for buggys and small children. However some parts are a little bumpy. Should be a pencil now thanks to twolittlepigs.&lt;br/&gt;&lt;br/&gt;Initial items are:- Paper Log, Snoopy patch, HMS Badge and 1 Franc coin.&lt;br/&gt;&lt;br/&gt;You are looking for a small white plastic container. Like a Large Pill bottle.&lt;br/&gt;&lt;br/&gt;Our first Cache placement.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Youve gone to far if you are over the wall.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.3</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>12 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:37:37.630Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="88.0910167" lat="44.3274833">
+        <time>2012-09-01T00:35:15.000Z</time>
+        <name>OXZTD9Q</name>
+        <desc>Off the trail by Hardinfam, Traditional Cache(1.5/1.8/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTD9Q</url>
+        <urlname>Off the trail</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28463200">
+            <groundspeak:name>Off the trail</groundspeak:name>
+            <groundspeak:placed_by>Hardinfam</groundspeak:placed_by>
+            <groundspeak:owner id="19174">Hardinfam</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Quick grab on a walk</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>1.8</ox:size>
+                <ox:terrain>1.8</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-87.5314" lat="38.6821667">
+        <time>2012-07-11T08:16:41.000Z</time>
+        <name>OXZTEFD</name>
+        <desc>Colbertson by infantryman150, Traditional Cache(1.7/2.3/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTEFD</url>
+        <urlname>Colbertson</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28464337">
+            <groundspeak:name>Colbertson</groundspeak:name>
+            <groundspeak:placed_by>infantryman150</groundspeak:placed_by>
+            <groundspeak:owner id="91529">infantryman150</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Small round lock n lock with swag, log. Hide back as found or better. Hidden on a lightly traveled road </groundspeak:long_description>
+            <groundspeak:encoded_hints>Look low at base of tree</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.7</ox:difficulty>
+                <ox:size>3.2</ox:size>
+                <ox:terrain>2.3</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-94.0366167" lat="44.1654167">
+        <time>2012-06-16T03:56:35.000Z</time>
+        <name>OXZTF21</name>
+        <desc>river lookout by Hcurban, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTF21</url>
+        <urlname>river lookout</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28464883">
+            <groundspeak:name>river lookout</groundspeak:name>
+            <groundspeak:placed_by>Hcurban</groundspeak:placed_by>
+            <groundspeak:owner id="126375">Hcurban</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Perfect place to get a beautiful view of the river </groundspeak:long_description>
+            <groundspeak:encoded_hints>Possible park and grab</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-110.0777333" lat="35.17025">
+        <time>2011-11-24T23:02:04.000Z</time>
+        <name>OXZTNDB</name>
+        <desc>Last Chance Cache by bsudave, Traditional Cache(2.7/1.8/2.9)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTNDB</url>
+        <urlname>Last Chance Cache</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28471000">
+            <groundspeak:name>Last Chance Cache</groundspeak:name>
+            <groundspeak:placed_by>bsudave</groundspeak:placed_by>
+            <groundspeak:owner id="72873">bsudave</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">No caching on the Rez!  Find Em while u still can!</groundspeak:long_description>
+            <groundspeak:encoded_hints>Rock</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1727300">
+                    <groundspeak:date>2012-01-10T13:52:45.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="84675">AZROCKETEER</groundspeak:finder>
+                    <groundspeak:text encoded="False">found while on a visit to navajo nation</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>2.7</ox:difficulty>
+                <ox:size>3.7</ox:size>
+                <ox:terrain>1.8</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="90.3986833" lat="41.5627167">
+        <time>2011-09-01T13:55:17.000Z</time>
+        <name>OXZTQQK</name>
+        <desc>hidey hole by jadams1107, Traditional Cache(1.7/2.7/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTQQK</url>
+        <urlname>hidey hole</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28473240">
+            <groundspeak:name>hidey hole</groundspeak:name>
+            <groundspeak:placed_by>jadams1107</groundspeak:placed_by>
+            <groundspeak:owner id="14655">jadams1107</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Just a small container cache with a few trinkets the kids picked out inside with a small notbook to log your visit.&lt;br /&gt;&lt;br /&gt;This is located in the Illiniwek Forest preserve so proper shoes and attire for hiking would be suggested. </groundspeak:long_description>
+            <groundspeak:encoded_hints>you'll find where an animal may hide</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.7</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>2.7</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-118.0728667" lat="34.5525">
+        <time>2011-07-08T22:11:38.000Z</time>
+        <name>OXZTT43</name>
+        <desc>lil bit by valjeanmaruis, Traditional Cache(2.2/1.2/2.9)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTT43</url>
+        <urlname>lil bit</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474557">
+            <groundspeak:name>lil bit</groundspeak:name>
+            <groundspeak:placed_by>valjeanmaruis</groundspeak:placed_by>
+            <groundspeak:owner id="13873">valjeanmaruis</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">this in a nice park close to where i live. be careful lots of muggles.</groundspeak:long_description>
+            <groundspeak:encoded_hints>lift</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="2021015">
+                    <groundspeak:date>2012-08-03T08:53:11.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="138664">Tori_Olsen</groundspeak:finder>
+                    <groundspeak:text encoded="False">Aaron Chloe Abe Courtney found the thun thun thun left 12 cents</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1815845">
+                    <groundspeak:date>2012-05-26T02:06:48.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="120405">traceyspad</groundspeak:finder>
+                    <groundspeak:text encoded="False">
+Logged via OpenCaching for iPhone
+
+Poss was under rock or city container. </groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1744480">
+                    <groundspeak:date>2012-02-09T08:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="90705">WDC4530</groundspeak:finder>
+                    <groundspeak:text encoded="False">FINALLY FOUND by two seniors.  Had to use the hint - it helped.  Our THANKS!</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>2.2</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.2</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="83.3172667" lat="30.8595833">
+        <time>2011-07-06T12:02:53.000Z</time>
+        <name>OXZTT5N</name>
+        <desc>Mayonnaise a lot rocks around here! by dustydash, Traditional Cache(3.0/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTT5N</url>
+        <urlname>Mayonnaise a lot rocks around here!</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474606">
+            <groundspeak:name>Mayonnaise a lot rocks around here!</groundspeak:name>
+            <groundspeak:placed_by>dustydash</groundspeak:placed_by>
+            <groundspeak:owner id="43147">dustydash</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Close by some running water, moderate terrain, but shouldn't be that hard to find. A mayonnaise jar with a few small items inside. There isn't very good satellite reception where the cache is located, I did my best though.</groundspeak:long_description>
+            <groundspeak:encoded_hints>There is a small trail on the other side of a big pipe to get down to the cache.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.0643" lat="38.9092667">
+        <time>2011-05-29T21:11:36.000Z</time>
+        <name>OXZTVTZ</name>
+        <desc>field of my youth by DIRTDEVIL530, Traditional Cache(2.9/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTVTZ</url>
+        <urlname>field of my youth</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28476196">
+            <groundspeak:name>field of my youth</groundspeak:name>
+            <groundspeak:placed_by>DIRTDEVIL530</groundspeak:placed_by>
+            <groundspeak:owner id="22575">DIRTDEVIL530</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">this is the field of the school i went to as a youth.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.9</ox:difficulty>
+                <ox:size>2.9</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.5851667" lat="31.2021167">
+        <time>2011-05-10T12:00:58.000Z</time>
+        <name>OXZTW5X</name>
+        <desc>Hulk's Box by happylun, Traditional Cache(2.7/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTW5X</url>
+        <urlname>Hulk's Box</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28476535">
+            <groundspeak:name>Hulk's Box</groundspeak:name>
+            <groundspeak:placed_by>happylun</groundspeak:placed_by>
+            <groundspeak:owner id="20553">happylun</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">&quot;I have a dream&quot;, said Walt. He was 62 years old. &quot;It will come true on this Christmas!&quot;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Wanglaoji</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.7</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.409" lat="31.005">
+        <time>2011-01-31T07:09:47.000Z</time>
+        <name>OXZTXA9</name>
+        <desc>Chinese sybol by nuvi765, Traditional Cache(2.3/2.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTXA9</url>
+        <urlname>Chinese sybol</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477632">
+            <groundspeak:name>Chinese sybol</groundspeak:name>
+            <groundspeak:placed_by>nuvi765</groundspeak:placed_by>
+            <groundspeak:owner id="11642">nuvi765</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Located in the center of Minhang District of Shanghai, only 18 kilometers (11.18 miles) from the downtown area, Qibao Ancient Town can satisfy your curiosity about ancient water townships without the bother of either long distance or the rush of crowds.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.3</ox:difficulty>
+                <ox:size>1.9</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="104.067" lat="30.6667">
+        <time>2011-01-18T12:09:23.000Z</time>
+        <name>OXZTXE1</name>
+        <desc>chengdu by tcheng, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTXE1</url>
+        <urlname>chengdu</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477748">
+            <groundspeak:name>chengdu</groundspeak:name>
+            <groundspeak:placed_by>tcheng</groundspeak:placed_by>
+            <groundspeak:owner id="9264">tcheng</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">It isn't big than a nano. </groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1775259">
+                    <groundspeak:date>2012-03-27T16:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="11485">rudychung</groundspeak:finder>
+                    <groundspeak:text encoded="False">Hi, tcheng,
+
+I'm a geocacher from Taiwan. Nice to meet you!
+
+I got a chance to visit your cache. Because as I know China have some policy to offset GPS coords, so that GPS coords may not be reliable to find a cache. 
+
+In order to find your cache, could you give more hints about hiding location on cache listing? Thanks!
+
+Greeting from Taiwan.
+Rudy  3/28</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+                <ox:tag>Night</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="116.0067667" lat="40.3489667">
+        <time>2010-11-11T08:00:00.000Z</time>
+        <name>OX2J32Q</name>
+        <desc>Changcheng Badaling by MERDIAN, Traditional Cache(1.5/3.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2J32Q</url>
+        <urlname>Changcheng Badaling</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2386248">
+            <groundspeak:name>Changcheng Badaling</groundspeak:name>
+            <groundspeak:placed_by>MERDIAN</groundspeak:placed_by>
+            <groundspeak:owner id="3693">MERDIAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The Badaling part of Chángchéng, the Great Wall, is from Beijing
+easily accessable in one or 1,5 hours by public bus or train.
+&lt;p&gt;If you want to find the cache (size is between small and regular
+and has enough space for Travel Bugs) please use the waypoints. You
+need at least 30 minutes from W1 to the cache. The part on the
+Great Wall is quite steep. The following trail, starting at W2 is
+fairly small and slippery in wet conditions and gets thorny on the
+last 10m.&lt;/p&gt;
+&lt;p&gt;Please do not try to find this cache in the snow because your
+footprints will lead the local muggles to the hiding place.&lt;/p&gt;
+&lt;p&gt;Have fun and don't forget the spoiler pictures!&lt;/p&gt;
+&lt;p&gt;Small note on cache maintenance: &quot;bj-b&quot; will
+assist. Thanks!&lt;/p&gt;&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;W12J32Q - Entry to the Great Wall&lt;br /&gt;N 40° 21.249 E 116° 00.399&lt;br /&gt;&lt;br /&gt;W22J32Q - Guizhou Pavilion for the Stele&lt;br /&gt;N 40° 20.919 E 116° 00.223&lt;br /&gt;Down the stairs&lt;br /&gt;W32J32Q - Start of small trail&lt;br /&gt;N 40° 20.932 E 116° 00.256&lt;br /&gt;&lt;br /&gt;W42J32Q - Start of very small trail&lt;br /&gt;N 40° 20.953 E 116° 00.381&lt;br /&gt;Leave the main trail and take the small branch&lt;br /&gt;W52J32Q - End of trail&lt;br /&gt;N 40° 20.940 E 116° 00.408&lt;br /&gt;Only about 10m to go</groundspeak:long_description>
+            <groundspeak:encoded_hints>Hidden under stones. See spoiler pictures!</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1290974">
+                    <groundspeak:date>2011-06-20T05:04:02.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="34058">luxel</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

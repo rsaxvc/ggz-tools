@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>3 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:38:07.644Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="18.8497167" lat="43.5956667">
+        <time>2012-08-01T11:10:24.000Z</time>
+        <name>OX3RC0T</name>
+        <desc>Roman stone bridge / Rimski most by gnet, Traditional Cache(1.0/2.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3RC0T</url>
+        <urlname>Roman stone bridge / Rimski most</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3497104">
+            <groundspeak:name>Roman stone bridge / Rimski most</groundspeak:name>
+            <groundspeak:placed_by>gnet</groundspeak:placed_by>
+            <groundspeak:owner id="46708">gnet</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">A very nice place. A cold stream flowing beneath the Roman bridge. Easy access to geocache, beware of slippery, but still easy to come under the bridge. A pleasant nature, close to the Drina River, all in all great experience.&lt;br/&gt;&lt;br/&gt;Cache container is a round plastic box with a lid containing the required content. http://www.youtube.com/watch?v=NjZ3Gv5twE8 http://www.youtube.com/watch?v=gknN67HY2LI http://www.youtube.com/watch?v=-4CHoQOkMbo </groundspeak:long_description>
+            <groundspeak:encoded_hints>Below the bridge, the creek flows.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>RB1.jpg</ox:name>
+                    <ox:size>127420</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>27072012031.jpg</ox:name>
+                    <ox:size>169295</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>RM.jpg</ox:name>
+                    <ox:size>128927</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="18.9707" lat="43.66825">
+        <time>2011-08-11T19:58:33.000Z</time>
+        <name>OXZTRA6</name>
+        <desc>Gubavica by gnet, Traditional Cache(1.6/2.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTRA6</url>
+        <urlname>Gubavica</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28473785">
+            <groundspeak:name>Gubavica</groundspeak:name>
+            <groundspeak:placed_by>gnet</groundspeak:placed_by>
+            <groundspeak:owner id="46708">gnet</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Gubavica, the hill above Gorazde. Before the war there was a place&lt;br/&gt;where a large set of Josip Broz Tito. More on the web site:&lt;br/&gt;&lt;br/&gt;http://en.wikipedia.org/wiki/Josip_Broz_Tito&lt;br/&gt;&lt;br/&gt;http://en.wikipedia.org/wiki/Gora%C5%BEde </groundspeak:long_description>
+            <groundspeak:encoded_hints>Spoiler below the stone in the shape of a heart ...</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>2.8</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="18.9766667" lat="43.6777167">
+        <time>2011-08-11T19:52:35.000Z</time>
+        <name>OXZTRA7</name>
+        <desc>Rorovi by gnet, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTRA7</url>
+        <urlname>Rorovi</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28473786">
+            <groundspeak:name>Rorovi</groundspeak:name>
+            <groundspeak:placed_by>gnet</groundspeak:placed_by>
+            <groundspeak:owner id="46708">gnet</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Excursion &quot;Rorovi&quot; is a symbol of the suffering people in the&lt;br/&gt;Bosnian Gorazde Canton, or just the city of Gorazde.&lt;br/&gt;&lt;br/&gt;Cash is made of plastic (rubbermaide), plastic boxes of standard&lt;br/&gt;dimensions, suitable for the cache. Transparent, the same is&lt;br/&gt;written waterproof marker Geocaching etc.&lt;br/&gt;&lt;br/&gt;Accessibility of the terrain is very good, you'll see in the&lt;br/&gt;pictures, next to the road communication, to the parking lot, then&lt;br/&gt;a short hike to a set of cache.&lt;br/&gt;We hope that you find in this condition will be interesting to&lt;br/&gt;come and visit the town of Gorazde Rorove. Best Regards and happy&lt;br/&gt;hunting ...&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Cash under the stump is covered with stone slabs and branches.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>2.3</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+</gpx>

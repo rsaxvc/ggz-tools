@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>3 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:38:06.351Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="-87.9384167" lat="15.8459167">
+        <time>2012-05-31T20:08:20.000Z</time>
+        <name>OXZTFKV</name>
+        <desc>VW logo by rmunguia, Traditional Cache(2.2/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTFKV</url>
+        <urlname>VW logo</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28465435">
+            <groundspeak:name>VW logo</groundspeak:name>
+            <groundspeak:placed_by>rmunguia</groundspeak:placed_by>
+            <groundspeak:owner id="122131">rmunguia</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Llavero </groundspeak:long_description>
+            <groundspeak:encoded_hints>En el área verde en una esquina  </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.2</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-86.4963833" lat="16.32875">
+        <time>2010-12-22T13:50:57.000Z</time>
+        <name>OX22YAV</name>
+        <desc>Mahogany Bay Cache by RLPRATT, Traditional Cache(1.6/1.0/2.9)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX22YAV</url>
+        <urlname>Mahogany Bay Cache</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1934829">
+            <groundspeak:name>Mahogany Bay Cache</groundspeak:name>
+            <groundspeak:placed_by>RLPRATT</groundspeak:placed_by>
+            <groundspeak:owner id="4093">RLPRATT</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Welcome to Mahogany Bay-Roatan. This area was recently developed to the tune of $62 million for both island residents and visitors arriving by cruise boats. Here you will find places to spend your money and down a few cold ones.&lt;br/&gt;&lt;br/&gt;You are looking for a camo round container about 1 inch in diameter by 3 inches long hidden in a public area. Please use lots of stealth and discreetness when searching for the cache. Bring your own pen.&lt;br/&gt;&lt;br/&gt;I encourage you to explore the island and the wonderful caches hidden from one side (West Bay and Half Moon beach area) to the other side (Jonesville Bay). If you are not a resident there are plenty of taxi's in the area that are economical no matter how big your caching group is.&lt;br/&gt;&lt;br/&gt;Although this is a gated area, the gate is to discourage local vendors from going in and selling their wares. Anyone can come on in and find the cache.&lt;br/&gt;&lt;br/&gt;Special thanks to Sam Bodden who will be monitoring this cache.&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1788886">
+                    <groundspeak:date>2012-04-18T05:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="1237">DakotaGeek</groundspeak:finder>
+                    <groundspeak:text encoded="False">Unfortunately, our ship docked a few miles away from Mahogany Bay but we persevered and made our way that last little distance to log our first (and only) cache in Honduras.  Thanks!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1771178">
+                    <groundspeak:date>2012-02-16T03:30:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4611">KEITH3333</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found while on a cruise with Schutzhund and Postie 123
+We had a little help from a security guard
+Thanks
+Keith and Dianne</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="389952">
+                    <groundspeak:date>2010-11-07T20:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3756">mcano</groundspeak:finder>
+                    <groundspeak:text encoded="False">Arrived on Carnival Valor. Took a snuba diving excursion and after that on my way back found the cache. This is my first cache in Honduras and my #1000 find :)</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="380007">
+                    <groundspeak:date>2010-03-23T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3701">THEABERGS</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found this one on the way back to the cruise ship. Thanks for the cache!</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>1.9</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-86.49695" lat="16.3262667">
+        <time>2010-12-22T13:43:55.000Z</time>
+        <name>OX2K5M8</name>
+        <desc>Roaming in Roatan by RLPRATT, Traditional Cache(2.2/2.4/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2K5M8</url>
+        <urlname>Roaming in Roatan</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2418504">
+            <groundspeak:name>Roaming in Roatan</groundspeak:name>
+            <groundspeak:placed_by>RLPRATT</groundspeak:placed_by>
+            <groundspeak:owner id="4093">RLPRATT</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Welcome to the Mahogany Bay area of Roatan Honduras. In this area you will find an assortment of stores, restaurants, a beach, chair lift to an island and ground transportation that will take you anywhere on the island and a couple of geocaches.&lt;br/&gt;&lt;br/&gt;You are looking for a cammo &quot;pre-form&quot; (looks like a test tube) cache about 60 feet from a walking trail which leads you to a beach area off of the main shopping district. Shouldn't be too hard to find, but stealth will be a must on high traffic days.&lt;br/&gt;&lt;br/&gt;Special thanks to Sam Bodden who has agreed to watch this cache along with my other cache in this area.&lt;br/&gt;&lt;br/&gt;This cache is brought to you by the Cruisin' Cachers consisting of RGS, BBD1, IBEW-Ret, Aldy, JanS03, Lakewannabees, Readingteacher27, Model12 and their spouses. Seems like one or more of us visits this area several times a year.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Crazy looking stump.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.2</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>2.4</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

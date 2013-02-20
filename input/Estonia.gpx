@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>28 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:37:22.195Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="23.7552948" lat="58.5694046">
+        <time>2011-04-23T05:00:00.000Z</time>
+        <name>OXZTF6M</name>
+        <desc>Kihuta-IN by pilditibi, Unknown Cache(2.5/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTF6M</url>
+        <urlname>Kihuta-IN</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28465026">
+            <groundspeak:name>Kihuta-IN</groundspeak:name>
+            <groundspeak:placed_by>pilditibi</groundspeak:placed_by>
+            <groundspeak:owner id="46223">pilditibi</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;[ENG] Most of people like to drive-hard close to this place,
+where the cache is hidden. Because of that this is not just another
+Drive-in-cache. But You should not hurry, but know and follow the
+traffic rules and be decent.&lt;/p&gt;
+&lt;p&gt;Read the Estonian Traffic Act valid from 2011 and find the
+answers to the following questions.&lt;br /&gt;
+A bus is the car, which has at least N seats, excepting the driver
+seat. N=?&lt;br /&gt;
+The highest speed limit on ice roads is K kilometres per hour.
+K=?&lt;br /&gt;
+From which month (U) will be valid the 2011 Traffic Act?&lt;br /&gt;
+The driver must switch on the blinking light at least (S) seconds
+before manoeuvre. S=?&lt;br /&gt;
+There is no rules for A years old children how to use the security
+equipment in taxi. A=?&lt;br /&gt;
+How many (M) wheels can a moped have?&lt;br /&gt;
+For how many (B) years is an international driving licence
+valid?&lt;br /&gt;
+Which (P) paragraph deals with requirements for traffic
+regulators?&lt;br /&gt;
+At least how far (L meters) may a car be parked from a tramway?&lt;/p&gt;
+&lt;p&gt;The cache is locating here 58° BM.(S-A)L(N-M)' 23°
+4(U-1).(P-1)(K-2)'&lt;/p&gt;
+&lt;p&gt;The starting point is on Karuse-Kalli road which was previously
+the emergency air-field.&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>hope it survives christmas</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>not here.jpg</ox:name>
+                    <ox:size>169557</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="23.0873604" lat="58.3788338">
+        <time>2011-06-04T05:00:00.000Z</time>
+        <name>OXZTF6J</name>
+        <desc>Kahtlase majaka by pilditibi, Traditional Cache(2.0/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTF6J</url>
+        <urlname>Kahtlase majaka</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28465024">
+            <groundspeak:name>Kahtlase majaka</groundspeak:name>
+            <groundspeak:placed_by>pilditibi</groundspeak:placed_by>
+            <groundspeak:owner id="46223">pilditibi</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Laidunina (Kahtla) Lighthouse was built in 1907 on Cape Laidunina on the east coast of Estonia's Saaremaa Island so it would contribute to safe navigation in the Gulf of Riga, but it never was used as lighthouse. The height of the lighthouse is 24 metres from the ground and 27 metres from sea level.&lt;br/&gt;&lt;br/&gt;The road to the lighthouse is really bad, it is not possible to drive here with low-bottomed car. The cache is not hidden at the lighthouse but at the shore.&lt;br/&gt;&lt;br/&gt;I placed stamps in the cache for first 20 founders, so please take only one stamp. Also is important to close the fence gate properly after you. Please put the container back just like it was when you found it.</groundspeak:long_description>
+            <groundspeak:encoded_hints>prickles</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="23.3897705" lat="58.5732689">
+        <time>2011-07-24T05:00:00.000Z</time>
+        <name>OXZTF6R</name>
+        <desc>Siin aeg puhkab by pilditibi, Traditional Cache(2.5/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTF6R</url>
+        <urlname>Siin aeg puhkab</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28465030">
+            <groundspeak:name>Siin aeg puhkab</groundspeak:name>
+            <groundspeak:placed_by>pilditibi</groundspeak:placed_by>
+            <groundspeak:owner id="46223">pilditibi</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The islands off the Estonian coast are virtual dreamlands, unlike anything in Europe. This is the place where time rests. Welcome to island Muhu!&lt;br/&gt;&lt;br/&gt;NB! There is no pencil in the cache.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Time rests here.jpg</ox:name>
+                    <ox:size>43450</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="23.0479164" lat="58.509304">
+        <time>2011-10-23T05:00:00.000Z</time>
+        <name>OXZTF6K</name>
+        <desc>Kirikuroti by pilditibi, Unknown Cache(3.0/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTF6K</url>
+        <urlname>Kirikuroti</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28465025">
+            <groundspeak:name>Kirikuroti</groundspeak:name>
+            <groundspeak:placed_by>pilditibi</groundspeak:placed_by>
+            <groundspeak:owner id="46223">pilditibi</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">The existence of the castle is witnessed by the ruins lying
+under ground north of the church. Lower parts of the side walls of
+the church now standing there are the only ones remaining from that
+period. Near the southern wall of the church, you will see
+trapezoid-shaped gravestones and their fragments walled into the
+floor of the choir. Read more &lt;a href=&quot;http://www.saaremaa.ee/index.php?option=com_content&amp;amp;view=article&amp;amp;id=622&amp;amp;Itemid=331&quot;&gt;
+HERE&lt;/a&gt;
+&lt;p&gt;Good to know:&lt;br /&gt;
+*The Pöide Church is the biggest single nave church in Western
+Estonia and the islands.&lt;br /&gt;
+*The rich carved decor of the church is one of the best examples of
+Estonian High Gothic.&lt;br /&gt;
+*The main portal of the church is situated to the south, not to the
+west like in other churches.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=uxPqzVV7pyk&quot;&gt;HERE&lt;/a&gt;
+you can see a nice video about the church.&lt;/p&gt;
+&lt;p&gt;Because the church is falling apart, the congregation is small
+and they don't have enough money, then they are waiting for
+donations to repair the church. To make a donation for the
+restauration, you can make a bank transfer to:&lt;br /&gt;
+EELK Pöide Maarja Kogudus&lt;br /&gt;
+IBAN: EE232200221039772450&lt;br /&gt;
+SWIFT/BIC: HABAEE2X&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;*****&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;To find out where the cache is located, use &lt;a href=&quot;http://img.geocaching.com/cache/7650aeb9-2ede-4ad4-b4a6-41c351498516.jpg&quot;&gt;
+the photo&lt;/a&gt;. This was taken while sitting on the cache.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;a href=&quot;http://www.geochecker.com/index.php?code=198734faa93b83b62d9e9afc0de5f40f&amp;amp;action=check&amp;amp;wp=47433336454252&amp;amp;name=436875726368204d6f7573652773202f204b6972696b75726f7469&amp;amp;f=bc866a5cc027dcf7c884a23912dac530&quot;&gt;
+GEOCHECKER&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;
+  </groundspeak:long_description>
+            <groundspeak:encoded_hints>under the highest</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>the church.jpg</ox:name>
+                    <ox:size>78980</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="23.1393051" lat="58.6465836">
+        <time>2011-04-09T05:00:00.000Z</time>
+        <name>OXZTF6N</name>
+        <desc>Rahnu by pilditibi, Unknown Cache(3.5/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTF6N</url>
+        <urlname>Rahnu</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28465027">
+            <groundspeak:name>Rahnu</groundspeak:name>
+            <groundspeak:placed_by>pilditibi</groundspeak:placed_by>
+            <groundspeak:owner id="46223">pilditibi</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;[ENG] The glacial boulder is a boulder (d&amp;gt;512mm) that has
+been carried by a glacier to a place far distant from its place of
+origin.&lt;/p&gt;
+&lt;p&gt;One old legend tells that the prehistoric hero Black Mart broke
+a rock from Pulli bank and his wife carried it in her apron. But
+the apron laces rended close to Oosaare, she beated her nose
+against the stone and the nose began to bleed. That's why this rock
+was called as Red (Punaski) rock.&lt;/p&gt;
+&lt;p&gt;Usually the sea reaches the Punaski boulder. The circumreference
+of this rock is 18,8m and it is about 3,9 m high. Another boulder
+should be called Mereski rock, but it is not sure.&lt;/p&gt;
+&lt;p&gt;Enjoy the view and/or sunset, but do not forget to seek the
+cache. You will find the location of cache if you have solved this
+task:
+
+&lt;/p&gt;</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>the riddle.jpg</ox:name>
+                    <ox:size>68298</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="23.3656387" lat="58.5441933">
+        <time>2011-03-06T06:00:00.000Z</time>
+        <name>OXZTF6P</name>
+        <desc>Moonsundi by pilditibi, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTF6P</url>
+        <urlname>Moonsundi</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28465028">
+            <groundspeak:name>Moonsundi</groundspeak:name>
+            <groundspeak:placed_by>pilditibi</groundspeak:placed_by>
+            <groundspeak:owner id="46223">pilditibi</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Before and during WWI the General Staff of the Tsarist
+Russian army believed that in case of an attack by foreign troops,
+the Western Estonian islands would be a prime target: after a
+successful landing, it would give a good position for the enemy to
+launch an attack on the Tsarist capital, St Petersburg. Therefore
+the army started establishing defensive installations on the
+Western Estonian islands. On the south-eastern coast of Muhu, two
+artillery stations were founded near Võiküla village that were
+intended to block the entrance to the Big Strait (positions no. 32
+and 36) and one artillery station for antiaircraft defence
+(position no 32a). The artillery stations participated in the
+battles against German warships in the autumn of 1917. Access to
+the station from Kuivastu port was provided by means of a
+narrow-gauge railway and a straight cobble stone road with the
+length of nearly 3 kilometres. The roads were constructed in
+1914–1916. The cobble stone road are well observable at
+present, the artillery stations not so well.
+&lt;p&gt;The stations were located at about one kilometre distance from
+each other. Station nr 32 were equipped with four 6-inch cannons,
+as well as with anti-aircraft guns and 11 bunkers, and located
+south from the village. The station nr 36 were equipped with five
+10-inch Durlacher-type bore cannons respectively. The big canons
+were lined up on 70 metres distance from each other, except the
+westernmost cannon that stood somewhat on the fore on 100m
+distance. The commando station was behind the artillery line. The
+construction of the artillery stations was never fully completed.
+The stations, although supported by Russian warships located in the
+Big Strait, could not stop the German army from occupying the
+islands. The positions were demolished in the artillery duel with
+German warships Köning and Kronprinz on the 17th of October,
+1917.&lt;/p&gt;
+&lt;p&gt;There is a movie about the battle &lt;a href=&quot;http://www.imdb.com/title/tt0093566/&quot;&gt;&quot;Moonzund&quot;&lt;/a&gt; and the
+history book about artillery stations &lt;a href=&quot;http://www.mil.ee/~levia/raamat-pdf&quot;&gt;&quot;Batarei Moonzunda&quot;&lt;/a&gt; by
+Yuri Melkonov, also Valentin Pikul wrote the novel &lt;a href=&quot;http://militera.lib.ru/prose/russian/pikul2/index.html&quot;&gt;Moonzund&quot;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The cache is hidden close to Järve station's nr 36 westernmost
+cannon.&lt;/p&gt;
+&lt;p&gt;Attention! It is not recommended exploring the cobble stone road
+with a low-bottomed car.&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Be careful and do not break the hidding place! </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Defensive installations.jpg</ox:name>
+                    <ox:size>48848</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>5 Durlacher-type cannons were used in posion 36.jpg</ox:name>
+                    <ox:size>52267</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="23.4425888" lat="58.5759239">
+        <time>2012-05-08T05:00:00.000Z</time>
+        <name>OXZTF6Q</name>
+        <desc>Saaremaa by pilditibi, Unknown Cache(2.0/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTF6Q</url>
+        <urlname>Saaremaa</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28465029">
+            <groundspeak:name>Saaremaa</groundspeak:name>
+            <groundspeak:placed_by>pilditibi</groundspeak:placed_by>
+            <groundspeak:owner id="46223">pilditibi</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;M/S of Saaremaa is the second of three sisters &quot;born&quot; in Saaremaa Shipping Company. Saaremaa operates on Kuivastu-Virtsu line.&lt;/p&gt;
+&lt;p&gt;Because the strait crossing time is 25 minutes only and there are usually mugglers, the difficulty level is not high.&lt;br /&gt;
+Latitude can be found on 6th deck (crew deck) at the bow side chimney under the chair.&lt;br /&gt;
+Longitude is on the 5th deck (saloon deck) stern-side under the bulwark close to the lifebelt on the left board. The spoiler photo is &lt;a href=&quot;http://www.geopeitus.ee/pic/22205.jpg&quot;&gt;HERE&lt;/a&gt;.&lt;br /&gt;
+NOTE! Where is the ship's bow and stern? You should think slightly different than usual ;)&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.tuulelaevad.ee/index.php?option=com_tuulelaevad&amp;amp;Itemid=33&amp;#12296;=et&amp;amp;page=2&quot;&gt;HERE&lt;/a&gt; you can get fares and schedules as well at the &lt;a href=&quot;http://www.tuulelaevad.ee/index.php?option=com_tuulelaevad&amp;amp;Itemid=33&amp;#12296;=et&amp;amp;page=2&quot;&gt;Tuulelaevad's website&lt;/a&gt;. You can also track the movement of Saaremaa using &lt;a href=&quot;http://www.marinetraffic.com/ais/default.aspx?mmsi=276788000&quot;&gt;AIS&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The mugglers are everywhere. Some items are at security camera field of view. On the ferry look with eyes not with fingers! Do not be afraid of sign with a lot of linquistic mistakes.&lt;/p&gt;
+&lt;p&gt;The waypoints on board cannot be found 24/7.&lt;/p&gt;
+&lt;p&gt;Have a nice trip!&lt;/p&gt;   
+
+&lt;p&gt;UNROLL!&lt;/p&gt;</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>SAAREMAA.jpg</ox:name>
+                    <ox:size>34891</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>saaremaa.jpg</ox:name>
+                    <ox:size>96670</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>The hint.jpg</ox:name>
+                    <ox:size>96670</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="25.6035167" lat="58.3620833">
+        <time>2012-04-07T12:47:13.000Z</time>
+        <name>OXZTK3Y</name>
+        <desc>Kaisa-Liisa log stairs mountain by M2gi, Traditional Cache(1.1/1.2/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTK3Y</url>
+        <urlname>Kaisa-Liisa log stairs mountain</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28468786">
+            <groundspeak:name>Kaisa-Liisa log stairs mountain</groundspeak:name>
+            <groundspeak:placed_by>M2gi</groundspeak:placed_by>
+            <groundspeak:owner id="106269">M2gi</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">(ENG) There are lots of stairs. This is certainly not the first instance at. Go a bit down or up, and then come to the intersection you will find a treasure&lt;br/&gt;&lt;br/&gt;(EE) Seal on palju treppe. See ei ole kindlasti esimese astme juures. Mine natuke alla või siis tule ülesse ja ristmikult leiad aarde</groundspeak:long_description>
+            <groundspeak:encoded_hints>karp koos asjadega</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.1</ox:difficulty>
+                <ox:size>4.5</ox:size>
+                <ox:terrain>1.2</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.1538333" lat="58.442665">
+        <time>2012-04-08T14:12:02.000Z</time>
+        <name>OXZTK2D</name>
+        <desc>BrokRogain VI by M2gi, Traditional Cache(2.0/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTK2D</url>
+        <urlname>BrokRogain VI</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28468739">
+            <groundspeak:name>BrokRogain VI</groundspeak:name>
+            <groundspeak:placed_by>M2gi</groundspeak:placed_by>
+            <groundspeak:owner id="106269">M2gi</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">BrokRogain on Afganistani missioonil hukkunud vanemveebel Ivar Brok’i (geopeituse.ee lehel hüüdnimi Ib777) mälestuseks korraldatud matkaüritus, mille raames rännatakse jalgsi läbi Eestimaa. Rogaini eesmärk on tuua loodusesse mõnus seltskond matkahuvilisi, et teha üheskoos Ivari lemmiktegevusi.&lt;br/&gt;&lt;br/&gt;BrokRogain viiakse läbi ühe aasta jooksul 10’ne etapina, alates 2008a detsembrist kuni 2010 a jaanuarini. Iga kuu (va mai) ühel nädalavahetusel korraldatakse 40 – 60 km pikkune etapp, mis on jagatud kahe päeva vahel. Iga järgmine etapp algab sealt, kust eelmine lõppes. Rännakmarsruut viib risti läbi Eesimaa – loodest kagusse, läbides kaheksat erinevat maakonda. Rännaku marsruut valitakse põhimõttel: &quot;Koht, kuhu jalg tavaliselt ei satu.&quot; Vähemalt üks etapp toimub ka mööda vett.&lt;br/&gt;&lt;br/&gt;BrokRogaini käigus otsitakse võimalikult palju marsruudile jäävaid geopeituse aardeid ning igal etapil peidetakse üks “BrokRogaini” nimeline geopeituse aare. Kõikidest peidetud aaretest kokku moodustatakse Mõistatusaare “Risti läbi Eestimaa”, mis peidetakse 2010 a esimeses pooles (leidmiseks on vajalikud BrokRogaini aaretes olevad tähed ja numbrid).</groundspeak:long_description>
+            <groundspeak:encoded_hints>London ei ole kaugel</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>5.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="25.597" lat="58.36375">
+        <time>2012-04-08T08:14:40.000Z</time>
+        <name>OXZTK2X</name>
+        <desc> It smells like fresh bread (Seal  lõhnab värkse leib) by M2gi, Traditional Cache(1.3/1.3/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTK2X</url>
+        <urlname> It smells like fresh bread (Seal  lõhnab värkse leib)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28468754">
+            <groundspeak:name> It smells like fresh bread (Seal  lõhnab värkse leib)</groundspeak:name>
+            <groundspeak:placed_by>M2gi</groundspeak:placed_by>
+            <groundspeak:owner id="106269">M2gi</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">But the smell after you find the site.
+If you are coming by car you are charged for parking on weekdays (2H parkimiskellaga free)
+Estonia&lt;br /&gt;Kordinaadid võivad olla natuke mööda. Aga lõhna peale leiad ülesse.&lt;br /&gt;Kui tuled autoga siis tööpäevadel on tasuline parkimine (2h parkimiskellaga tasuta) </groundspeak:long_description>
+            <groundspeak:encoded_hints>Vana aga kobe. Pöörleb ja pöörleb kuid vahel ka peatub</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.3</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.3</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="27.542305" lat="58.0795288">
+        <time>2008-01-19T06:00:00.000Z</time>
+        <name>OXZTKT2</name>
+        <desc>Piiripunkti by ENNVEE, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTKT2</url>
+        <urlname>Piiripunkti</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469441">
+            <groundspeak:name>Piiripunkti</groundspeak:name>
+            <groundspeak:placed_by>ENNVEE</groundspeak:placed_by>
+            <groundspeak:owner id="3209">ENNVEE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;Peitis 19.01.2008 Telc ja Laululind, 19.01.2012 adopteeris Henrik&lt;/p&gt;
+&lt;p&gt;Võhandu jõge loetakse üldiselt Seto- ja Võrumaa piiriks. Saigi sinna sätitud siis Piiripunkti aare.&lt;/p&gt; 
+&lt;p&gt;Hided 19.01.2008 Telc and Laululind, 19.01.2012 adopted by Henrik&lt;/p&gt;
+&lt;p&gt;Võhandu river is border between Setomaa and Võrumaa. Small plastic box. Not specially marked.&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Kangutada, tõsta, teisaldada, keevitada, lõhata jm pole vaja.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="27.1748619" lat="57.9162483">
+        <time>2009-04-17T05:00:00.000Z</time>
+        <name>OXZTKT3</name>
+        <desc>Paidra Veski by ENNVEE, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTKT3</url>
+        <urlname>Paidra Veski</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469442">
+            <groundspeak:name>Paidra Veski</groundspeak:name>
+            <groundspeak:placed_by>ENNVEE</groundspeak:placed_by>
+            <groundspeak:owner id="3209">ENNVEE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;Peitis 17.04.2009 Telc, 19.01.2012 adopteeris Henrik&lt;/p&gt;
+&lt;p&gt;Uitmõtte ajel tekkinud aare täienduseks mullu ühel hetkel populaarseks osutunud Piiripunkti aardele.&lt;/p&gt; 
+&lt;p&gt;Hided 17.04.2009 by Telc, 19.01.2012 adopted by Henrik&lt;/p&gt;
+&lt;p&gt;To introduce very challenging paddling event. Easy to find, in one of the checkpoints.&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Tellise taga / Behind the brick</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="25.041666" lat="58.6497231">
+        <time>2012-02-10T06:00:00.000Z</time>
+        <name>OXZTKTN</name>
+        <desc>Eesti Skautlus 100 by ENNVEE, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTKTN</url>
+        <urlname>Eesti Skautlus 100</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469460">
+            <groundspeak:name>Eesti Skautlus 100</groundspeak:name>
+            <groundspeak:placed_by>ENNVEE</groundspeak:placed_by>
+            <groundspeak:owner id="3209">ENNVEE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;2012. aastal tähistatakse Eesti skautluse 100. aastapäeva.&lt;/p&gt;
+
+&lt;p&gt;Aare on peidetud Merle ja Hannese poolt Eesti skaudiliikumise rajaja Anton Õunapuu (7.11.1887-2.04.1919) sünnikoha lähedusse Vändrasse. Aarde asukohast ca 50 meetri kaugusel edelas asub 1936. aastal Kalevlaste poolt tema auks istutatud mälestustamm. Läheduses asub ka taastatud Vabadussõjas langenute mälestussammas ja seda asendanud mälestuskivi. Anton Õunapuu on maetud kõrvalasuvale kalmistule. &lt;/p&gt;
+
+&lt;p&gt;Lähema huvi korral saab Anton Õunapuuga seotud kohtade ja mälestuste kohta väga huvitava ülevaate L. Männiksoo raamatust &quot;Anton Õunapuu ja meie&quot;.&lt;/p&gt;
+
+&lt;p&gt;Aare on peidetud käidavasse kohta kiriku ja kalmistu vahetus läheduses. Seega palun olge ettevaatlikud aarde otsimisel ja ärge häirige kohalikku rahu.&lt;/p&gt; 
+
+&lt;p&gt;The cache is hidden by Merle and Hannes in Vändra, near the birthplace of the founder of Estonian Scout Movement, Anton Õunapuu (7.11.1887-2.04.1919).&lt;/p&gt;
+ 
+&lt;p&gt;Approximately 50 metres southwest from the hiding place, there is an oak tree planted in his memory.&lt;/p&gt;
+&lt;p&gt;Nearby there is also the reconstructed monument in memory of those who died in the Estonian War of Independence and the memorial stone that used to replace it. Anton Õunapuu is buried in the cemetery next to it.&lt;/p&gt;
+ 
+&lt;p&gt;The cache is hidden in a relatively public place close to the church and cemetery. Therefore, please be careful when searching for the cache and try not to disturb the local people.&lt;/p&gt; </groundspeak:long_description>
+            <groundspeak:encoded_hints>Suure kuuse all / Under a big fir tree</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="27.4426308" lat="57.8150787">
+        <time>2011-10-02T05:00:00.000Z</time>
+        <name>OXZTQ92</name>
+        <desc>Juudatarõ by ENNVEE, Multi-cache(2.0/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTQ92</url>
+        <urlname>Juudatarõ</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="28472789">
+            <groundspeak:name>Juudatarõ</groundspeak:name>
+            <groundspeak:placed_by>ENNVEE</groundspeak:placed_by>
+            <groundspeak:owner id="3209">ENNVEE</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;&lt;i&gt;Juuda toast räägitakse, et kui vanast mindi kirikut tegema oja kaldale, siis tulid juudad ja laotasid kiriku ära. Mis päeval tehti, seda nad öösel laotasid. Kord läksid need kirikutegijad sinna sisse vaatama. Sääl sees oli laud ja punase linaga kaetud ja söögid laual. Nad vaatasid, kedagi pole näha, ja tulid välja. Hakkasid uuesti kirikut ehitama. Öösiks läksid nad koju, hommikul tulid tagasi: jälle kirik laotatud! Nii läksid nad koju, ei saanudki kirikut ehitata. Säält mööda minnes näeme tonte kooberdamas koobaste juures. Kes ei usu, võib ise vaatama minna.&lt;/i&gt; --
+&lt;a href=&quot;http://www.folklore.ee/rl/folkte/myte/pagan/kihelkonnad/setu.html&quot;&gt;folklore.ee&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;i&gt;Eesti Apostlik-Õigeusu Kiriku Issanda Muutmise Obinitsa kiriku ehitasid koguduse liikmed ühiskondlikus korras Stalini ajal 1952. a. (ehituse eestvõtja oli preester Villiam Talomees). Öösiti ehitati, päeval aga lõhkusid nõukogude võimu pooldajad selle jälle osaliselt maha.&lt;/i&gt; -- &lt;a href=&quot;http://www.setoturism.ee/?lang=est&amp;amp;m1=3&amp;amp;obj=77&quot;&gt;setoturism.ee&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lihtne kahepunktiline multi-- esimesest teise koordinaadid. Aardesse tahavad tulla väikesemõõdulised kuradid. Aseta konteiner täpselt samamoodi tagasi. Lõpp-aardele lähene ettevaatlikult, eriti lastega ja/või pimedas.&lt;/p&gt; 
+ 
+  
+&lt;p&gt;The current Obinitsa Church of Transfiguration of Our Lord was completed in 1952 under father Vilemon's leadership. 
+According to legend, the construction was often sabotaged during the night either by devils dwelling in a sandstone cave on the opposite side of the lake. The cave is also associated with other legends and is called Juudatarõ (Cave of Judas, Wolf's cave)..&lt;/p&gt; 
+
+&lt;p&gt;Another explanation offered was that the work done by voluntary builders in secret during the night was destroyed in daylight by sympathizers of the Soviet regime. Neither version has yet prevailed as fact.&lt;/p&gt;
+
+&lt;p&gt;The cache is a simple multi with coordinates to the end point to be found in the start point. Be careful approaching the end point, especially with children. Please make sure to replace the cache exactly as you found it.&lt;/p&gt; </groundspeak:long_description>
+            <groundspeak:encoded_hints>Hea kujutlusvõime korral on täitsa pees.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.6628667" lat="58.4301483">
+        <time>2003-05-10T05:00:00.000Z</time>
+        <name>OXZTWY9</name>
+        <desc>Jänese aare by ENNVEE, Traditional Cache(2.0/2.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTWY9</url>
+        <urlname>Jänese aare</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477260">
+            <groundspeak:name>Jänese aare</groundspeak:name>
+            <groundspeak:placed_by>ENNVEE</groundspeak:placed_by>
+            <groundspeak:owner id="3209">ENNVEE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">10.05.03 peitsid Kalle Lange ja Enn Veenpere&lt;br/&gt;&lt;br/&gt;Placed to celebrate the opening of the boating season and to mark the start of the second hundred of stashes in Estonia. &lt;br/&gt;&lt;br/&gt;Hint: there is a place that looks liable to fall apart - it will not be necessary to climb there. &lt;br/&gt;&lt;br/&gt;Peidetud paadisõidu-hooaja avamise puhul ja teise aaretesaja alustuseks.&lt;br/&gt;Enne aarde otsimist tasub tutvuda kohalike vaatamisväärsustega.&lt;br/&gt;Vihjeks: varisemisohtlikku kohta pole vaja ronida.&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Kõige mugavam on läheneda paadiga.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="27.1038833" lat="58.3822333">
+        <time>2003-03-29T06:00:00.000Z</time>
+        <name>OXZTWY3</name>
+        <desc>Kantsi by ENNVEE, Traditional Cache(1.8/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTWY3</url>
+        <urlname>Kantsi</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477254">
+            <groundspeak:name>Kantsi</groundspeak:name>
+            <groundspeak:placed_by>ENNVEE</groundspeak:placed_by>
+            <groundspeak:owner id="3209">ENNVEE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Peitsid 29.03.03 Kalle Lange ja Enn Veenpere. &lt;br/&gt;Taastatud 11.04.09 miniaardena.&lt;br/&gt;Vaatamist ja tegemist peaks sealpool kandis palju olema.&lt;br/&gt;Infot leiab:&lt;br/&gt;http://www.emajoe-suursoo.ee/ jm.&lt;br/&gt;&lt;br/&gt;Aare ise on väga lihtsas kohas ja sisaldab logiraamatut, kirjapulka, geopeituse juhendit ja aarde ajaloo väljatrükki.&lt;br/&gt;&lt;br/&gt;Cache replaced 11.04.09 in littlebit different location. &lt;br/&gt;Before setting out you might want to check out the sights of the area: see&lt;br/&gt;http://www.emajoe-suursoo.ee/</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1803131">
+                    <groundspeak:date>2012-05-04T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="1831">Kasutaja andres</groundspeak:finder>
+                    <groundspeak:text encoded="False">Jõe peal käidud, ja kõik muud olulised toimingud söögi, joogi ja muu sellisega tehtud, olime lõpuks suutelised end õhtul mingi hetk kokku võtma et väike jalutuskäik teha (seda küll mitte kogu seltskond - osale tundus mõnisada meetrit jalgsi ikka täitsa ületamatuna). Vaatasime RMK uhke objekti üle – õhku jäi küsimus - kas tõesti on vaja kuhugi sohu selliseid asju ehitada? kas selle raha eest midagi laiemat kasutust leidvat ei oleks saanud teha? Ja kas sellised kohad ei võiks siiski juba kevadel puhkepäevadel avatud olla, mitte ainult tööpäeva hommikuti.
+Aga et samas ka aare olemas, siis ei saanud sedagi hooletusse jätta. Kuna seltskonna mõned liikmed olid vaid paar korda geopeitusega kokku puutunud ja mõni üldse mitte, no ja et tähelepanu ei olnud õhtusel ajal ka enam kõige teravam, siis läks leidmisega veidi aega. Seni kuni Silver asja käsile võttis ja mitte just kõige traditsioonilisemal (aga efektiivsel :) ) meetodil aarde paljastas. Koht on ilus, aarde peidukoht võiks sellele rohkem vastata.. EVEJ</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.8</ox:difficulty>
+                <ox:size>2.9</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.00964" lat="59.4452217">
+        <time>2002-12-30T06:00:00.000Z</time>
+        <name>OXZTWXY</name>
+        <desc>Aastavahetuse aare by ENNVEE, Traditional Cache(2.1/2.6/3.1)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTWXY</url>
+        <urlname>Aastavahetuse aare</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477249">
+            <groundspeak:name>Aastavahetuse aare</groundspeak:name>
+            <groundspeak:placed_by>ENNVEE</groundspeak:placed_by>
+            <groundspeak:owner id="3209">ENNVEE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;Aarde peitsid 30.12.02 Illar Lasting ning Elen, Hannes ja Enn Veenpere.
+Estonian geocachers have been very successful in the year 2002 and that's why Alfa GPS and Regio decided to hide New Year's Stash. 
+
+The stash contains several things for orientating and information about the surrounding landscape. 
+Stash hidden by Illar Lasting; Elen, Hannes and Enn Veenpere.
+
+Happy New Year!
+
+Aardesse sai üksjagu orienteerumiseks vajalikku kraami ja infot ümbritsevamaastiku kohta.
+
+HEAD AASTA LÕPPU JA VEEL PAREMAT JÄRGMIST (GEOPEITUSE) AASTAT!
+&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1803132">
+                    <groundspeak:date>2009-02-05T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="1831">Kasutaja andres</groundspeak:finder>
+                    <groundspeak:text encoded="False">Tundus et seda aaret on lihtsam külastada talvel kui suvel. Seega teel pealinna veel üks kõrvalepõige suurel teelt. Parklast järvekaldale astudes tuli nentida et täpselt gepsu osutatud suunas kulges tõeline paljurealine geomaantee.... Et päris aus olla, siis seejärel, elektroonilisi ja paberil abivahendeid vaatamata sai tormatud silma jäänud saare suunas.... Ja üllatus-üllatus, kohale jõudes avastatud, et oleks võinud siiski vaadata ja teisele saarele minna.... Kohapeal avanes üsna kole pilt puude alt teostatud kaevamistöödest, ja katsetest niigi oma otsa lõpu leidnud kände täielikult hävitada... Kõike seda vaadates isegi ehk veidi neid juurealuseid uurides sai saarekesele mitu ringi peale tehtud... Ja üsna nõutuks muututud.. Alles siis kui lootus oli pea täielikult kadunud ja asutasin juba tagasiteele, paljastus aare viimasel hetkel silma jäänud kavalast kohast. Loodus oli suurepärase maskeeringu eest hoolitsenud. EVEJ</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.1</ox:awesomeness>
+                <ox:difficulty>2.1</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.36186" lat="58.3410267">
+        <time>2001-11-18T06:00:00.000Z</time>
+        <name>OXZTWY4</name>
+        <desc>Kave aare by ENNVEE, Traditional Cache(2.0/2.6/2.9)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTWY4</url>
+        <urlname>Kave aare</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477255">
+            <groundspeak:name>Kave aare</groundspeak:name>
+            <groundspeak:placed_by>ENNVEE</groundspeak:placed_by>
+            <groundspeak:owner id="3209">ENNVEE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;                
+&lt;/p&gt;&lt;p&gt;Peitsid 18.11.01 Kalle ja Hans Lange; Hannes ja Enn Veenpere.                
+&lt;/p&gt;&lt;p&gt;Raskusaste: aare - 1, maastik - 2.                 
+&lt;/p&gt;&lt;p&gt;Ümbruskonnas on veel huvitavaid objekte                vaadata:                
+&lt;/p&gt;&lt;p&gt;N 58° 20'27.7''    E 26°                21'44.0''                
+&lt;/p&gt;&lt;p&gt;N 58° 20'28.0''    E 26°                21'23.5''                
+&lt;/p&gt;&lt;p&gt;N 58° 20'38.6''    E 26°                21'41.2''                
+&lt;/p&gt;&lt;p&gt;Infot saab aardesse pandud tekstidest.                
+&lt;/p&gt;
+The stash is in a sheet-metal can rolled into a plastic
+bag. 
+
+There are more interesting sights nearby:
+N 58° 20'27.7'' E 26° 21'44.0'';
+N 58° 20'28.0'' E 26° 21'23.5'';
+N 58° 20'38.6'' E 26° 21'41.2'' 
+You can get more information about the sights from the texts in the
+stash.
+</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1803136">
+                    <groundspeak:date>2011-07-28T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="1831">Kasutaja andres</groundspeak:finder>
+                    <groundspeak:text encoded="False">Et kavas oli pikem sõit seltskonnaga siis sai teekonna kaugemas otsas Tartu ja Viljandi vahel plaani võetud ka paar lihtsamat aaret, no et kodust eemale saamist kasulikult ära kasutada :). Alustuseks Kave. Otsetee näis vägagi kõrge raskusastmega, mistõttu pool seltskonda otsustas asja alt jälgida. Mina valisin kesktee ja jõudsin aarde juba eemalt aimatavast peidikust välja võtta enne kui kõige lihtsama marsruudi valinud Marina kohale jõudis. Selliseid konteinereid oli vanasti igal endast lugupidaval perel :) EVEJ</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.9</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.1403617" lat="58.2813067">
+        <time>2002-06-18T05:00:00.000Z</time>
+        <name>OXZTWY1</name>
+        <desc>Tamme aare by ENNVEE, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTWY1</url>
+        <urlname>Tamme aare</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477252">
+            <groundspeak:name>Tamme aare</groundspeak:name>
+            <groundspeak:placed_by>ENNVEE</groundspeak:placed_by>
+            <groundspeak:owner id="3209">ENNVEE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;                
+&lt;/p&gt;&lt;p&gt;Peitsid 18.06.02 Kalle ja Hans Lange; Elen ja Enn Veenpere.                
+          
+&lt;/p&gt;&lt;p&gt;Soovitav on peale aarde otsimise ka ümbrust uurida.&lt;/p&gt;
+
+All the things have been packed into a jar and wrapped into a black plastic bag.
+It is recommended to have a look around too, once the cache has been recovered. </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.2406933" lat="58.4313617">
+        <time>2001-09-23T05:00:00.000Z</time>
+        <name>OXZTWY2</name>
+        <desc>Metsavahi by ENNVEE, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTWY2</url>
+        <urlname>Metsavahi</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477253">
+            <groundspeak:name>Metsavahi</groundspeak:name>
+            <groundspeak:placed_by>ENNVEE</groundspeak:placed_by>
+            <groundspeak:owner id="3209">ENNVEE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;                
+&lt;/p&gt;&lt;p&gt;Peitsid 23.09.01 Kalle ja Hans Lange; Elen, Hannes ja Enn Veenpere.             
+&lt;/p&gt;&lt;p&gt;Viktoriiniküsimus - millise Eesti helilooja sünnikodu asub veidi eemal?               
+&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;Tähelepanu! Aare asub Alam-Pedja looduskaitsealal. Aarde ümbruses liikumispiirangud küll puuduvad, kuid pead arvestama, et piirangualad ei ole kaugel. Tutvu enne aardekülastust piirkonna kaardiga ja loe lisa seonduvalt URL-ilt.&lt;/b&gt; &lt;/p&gt;
+Tähelepanu! Aare asub Alam-Pedja looduskaitsealal. Aarde ümbruses
+liikumispiirangud küll puuduvad, kuid pead arvestama, et
+piirangualad ei ole kaugel. Tutvu enne aardekülastust piirkonna
+kaardiga ja loe lisa seonduvalt URL-ilt.
+http://www.rmk.ee/teemad/looduses-liikujale/kaitsealad/alam-pedja-looduskaitseala/ 
+Before going there, look at:
+http://www.rmk.ee/subject-headings/for-hikers/other-protected-areas/alam-pedja-nature-reserve/ 
+The stash is packekd into ice-cream box and rolled into a black
+plastic bag.
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Aare ei ole hoone sees. Not inside the building.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Metsavahi.jpg</ox:name>
+                    <ox:size>28847</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="25.6130017" lat="59.58884">
+        <time>2001-06-02T05:00:00.000Z</time>
+        <name>OXZTWXX</name>
+        <desc>Allveelaeva aare by ENNVEE, Traditional Cache(1.9/2.1/3.1)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTWXX</url>
+        <urlname>Allveelaeva aare</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477248">
+            <groundspeak:name>Allveelaeva aare</groundspeak:name>
+            <groundspeak:placed_by>ENNVEE</groundspeak:placed_by>
+            <groundspeak:owner id="3209">ENNVEE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">The stash is hidden on a very interesting object, that reminds us of our nearest past. There is an introducing text about the object in the stash. Look out! The stones might be slippery!&lt;br/&gt;If you would like to rest or just spend the night nearby, a comfortable resthouse is waiting for you about 4 km away&lt;br/&gt;N 59 33.7233 E 25 39.7566 from the stash. &lt;br/&gt;&lt;br/&gt;Asub väga põneval objektil. Kui tahate lähiminevikku meenutada, siis sobib see väga hästi. Selgitav tekst objekti kohta on aardekarbis olemas.&lt;br/&gt;NB! Ettevaatust! Kivid võivad libedad olla</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1803135">
+                    <groundspeak:date>2009-12-11T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="1831">Kasutaja andres</groundspeak:finder>
+                    <groundspeak:text encoded="False">Vägev ehitis. Olen sellel käinud nii peale nõukogude vägede lahkumist, kui eratee silte veel ei olnud, kui hiljuti mööda teist lähenemisteed, kus sellist silti ei ole. Aga kuna kippus juba pimenema ja märgi all on teade et omaniku loal, siis järelikult on võimalik minna edasi omaniku käest küsima. Omanikku ei olnud, aare oli, Seal kus pidigi olema ja heas korras. EVEJ</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.1</ox:awesomeness>
+                <ox:difficulty>1.9</ox:difficulty>
+                <ox:size>3.9</ox:size>
+                <ox:terrain>2.1</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Ümbrus.jpg</ox:name>
+                    <ox:size>13528</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.48165" lat="58.7768167">
+        <time>2001-06-02T05:00:00.000Z</time>
+        <name>OXZTWY0</name>
+        <desc>Allika aare by ENNVEE, Traditional Cache(2.0/1.7/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTWY0</url>
+        <urlname>Allika aare</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477251">
+            <groundspeak:name>Allika aare</groundspeak:name>
+            <groundspeak:placed_by>ENNVEE</groundspeak:placed_by>
+            <groundspeak:owner id="3209">ENNVEE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Hidden near an archeological monument. An introducing text about the object is in the stash. &lt;br/&gt;&lt;br/&gt;The stash is packed into a sheet metal can. &lt;br/&gt;&lt;br/&gt;Vihjed: lähedal on üks arheoloogiamälestis. Selgitav tekst selle objekti kohta on ka aardepurgis olemas. Lugege see läbi ja võib-olla tasub seal kirjutatut katsetada :-)&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1803133">
+                    <groundspeak:date>2010-05-15T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="1831">Kasutaja andres</groundspeak:finder>
+                    <groundspeak:text encoded="False">Tänase Jõgevamaa ringi üheksas aare. Esialgu sai üritatud läheneda valelt poolt. No ei olnud teed,... Need mida navi teeks pidas ei vastanud auto laiusele või lubatud tõusunurgale. Igatahes lõpuks kuskilt põlluservalt mäkke sõites sattusin tagaküljelt mingi kaitseotstarbelise ehitise juurde.. okastraat, laigulised ja tumerohelised värvid... Aga edasi läks juba lihtsamalt. Tee viis ilusti aarde juurde parklasse. Sai leitud nii allikas kui aare, taas võsast. EVEJ.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>1.7</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.9850833" lat="58.37378">
+        <time>2001-03-04T06:00:00.000Z</time>
+        <name>OXZTWY5</name>
+        <desc>Essenite aare by ENNVEE, Traditional Cache(1.6/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTWY5</url>
+        <urlname>Essenite aare</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477256">
+            <groundspeak:name>Essenite aare</groundspeak:name>
+            <groundspeak:placed_by>ENNVEE</groundspeak:placed_by>
+            <groundspeak:owner id="3209">ENNVEE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Essen's stash is located not far from Tartu, near a not-well-known historical monument. &lt;br/&gt;&lt;br/&gt;Vihjed: lähedal on üks vähetuntud ajaloomälestis, mida aardeotsijad vaevalt et teavad. Selgitav tekst selle objekti kohta on ka aardepurgis olemas.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1784973">
+                    <groundspeak:date>2012-04-21T12:40:26.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="72927">JANEK.UIN</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1784971">
+                    <groundspeak:date>2012-02-18T10:24:00.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="72927">JANEK.UIN</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Essenite.jpg</ox:name>
+                    <ox:size>20955</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.5845283" lat="58.4583317">
+        <time>2001-07-24T05:00:00.000Z</time>
+        <name>OXZTWY7</name>
+        <desc>Paadimehe aare by ENNVEE, Traditional Cache(1.6/4.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTWY7</url>
+        <urlname>Paadimehe aare</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477258">
+            <groundspeak:name>Paadimehe aare</groundspeak:name>
+            <groundspeak:placed_by>ENNVEE</groundspeak:placed_by>
+            <groundspeak:owner id="3209">ENNVEE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;&lt;b&gt;NB! Koordinaadid oluliselt muutunud!&lt;/b&gt;
+&lt;/p&gt;&lt;p&gt;Esialgse aarde peitsid 24.07.01 Kalle ja Hans Lange, Ülle Jukk ning Enn Veenpere.
+&lt;/p&gt;&lt;p&gt;Selle koordinaadid olid: N 58° 25'47.5'' E 26° 39'57.4''. Hiljem on aare veel kahel korral taastatud (vahepealse aarde koordinaadid olid N N 58° 27'30.11'' ja E 26° 35'03.30'')
+&lt;/p&gt;&lt;p&gt;14.06.09 aitas aarde taaskord taastada Pioneer. Aarde asukoht on senisega võrreldes 14 m nihkunud.&lt;/p&gt;
+
+NB! Coordinates are changed 5/5/2002! 
+Contained in a plastic jar wrapped inside a black plastic bag. </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>4.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="26.7310283" lat="58.3780283">
+        <time>2011-02-10T08:30:38.000Z</time>
+        <name>OX2NK22</name>
+        <desc>Siristaja / Chirp by ENNVEE, Unknown Cache(1.6/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2NK22</url>
+        <urlname>Siristaja / Chirp</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2490976">
+            <groundspeak:name>Siristaja / Chirp</groundspeak:name>
+            <groundspeak:placed_by>ENNVEE</groundspeak:placed_by>
+            <groundspeak:owner id="3209">ENNVEE</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Peitsid Kaido Einama, Kalev Lilleorg ja Enn Veenpere
+&lt;p&gt;Oled alguspunktis, aga et sellel kohal on GPS-il täielik anomaalia, siis võid ka vihje abiks võtta.
+&lt;/p&gt;&lt;p&gt;Sobiva seadmega otsijad saavad vihje edasiseks liikumiseks siristajalt.
+&lt;/p&gt;&lt;p&gt;Kellel seda pole, võib lähedalasuvast garmin.ee kauplusest (sealt on ka Chirp pärit) selle hankida või teha nii:
+&lt;/p&gt;&lt;p&gt;Jaluta täpselt selle ilmakaare suunas, kuhu keegi hästi minna ei taha  niipalju meetreid, nagu on uuel Vabadussamba valguslahendusel erinevaid režiime.
+&lt;/p&gt;&lt;p&gt;Kohale jõudes vaata, kuidas voolab.
+&lt;/p&gt;&lt;p&gt;Tavaline mikro, logiraamatu, geopeituse teksti ja pliiatsiga.
+&lt;/p&gt;&lt;p&gt;Aarde saamisloo kohta võib lugeda Arvutimaailma 2011.a.
+veebruarinumbrist.&lt;/p&gt;
+
+&lt;p&gt;Hidden by Kaido Einama, Kalev Lilleorg and Enn Veenpere
+&lt;/p&gt;
+&lt;p&gt;You are at the starting point, but since GPS units behave with anomalies at this location, you can use the hint provided.
+&lt;/p&gt;&lt;p&gt;Those with a suitable device will get further directions from a chirp.
+&lt;/p&gt;&lt;p&gt;Those who don't have it can get it from the garmin.ee shop nearby (this one Chirp also comes from there) or do the following:
+&lt;/p&gt;&lt;p&gt;Walk exactly in the direction 0° for as many meters as there are distinct regimes for the new lighting solution on the Freedom monument.
+&lt;/p&gt;&lt;p&gt;When you get there, look at the current flowing.
+&lt;/p&gt;&lt;p&gt;A usual micro with a log book, geocaching overview text and a pen.
+&lt;/p&gt;&lt;p&gt;The Feb 2011 issue of Arvutimaailm has the story of how this cache came to be.&lt;/p&gt;
+
+&lt;p&gt;10 years earlyer was hidden the first cache in Estonia - HE-stash / HE-aare&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Sissekäigu keskmine post / The first column of the entrance</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1856717">
+                    <groundspeak:date>2012-02-25T20:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="64022">LAURIK87</groundspeak:finder>
+                    <groundspeak:text encoded="False">Esimesel korral sai ikka otsitud väga valest kohast. Kodus sai aga mõistatus lahendatud ja aarde asukoht oli nüüd palju loogilisem. Logitud!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1860212">
+                    <groundspeak:date>2012-01-23T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="46223">pilditibi</groundspeak:finder>
+                    <groundspeak:text encoded="False">Eelmine kord sinna üldse ei vaadanud. Seekord oli liba-&quot;aare&quot; kadunud ja segajaid vähem. Kas Tartus on kogu aeg lumi maas ja jube külm? Sõrves muuseas sai ka eile maa natuke valgeks. Tänud tegelikult lihtsa mõistatuse eest!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1784972">
+                    <groundspeak:date>2012-01-17T10:47:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="72927">JANEK.UIN</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1339185">
+                    <groundspeak:date>2011-03-17T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="1338">sookoll7</groundspeak:finder>
+                    <groundspeak:text encoded="False">Kuna oman GPS-i, mis peaks toetama &quot;siristaja&quot; siristamist, siis sammusin kohale ja hakkasin ootama, millal see sirin ka &quot;kuulda&quot; on. Mida ei olnud see oli sirin. Jõlkusin siis igal pool ümbruskonnas ringi, arvates et äkki nüüd olen õiges kohas. Aga endiselt ei olnud siristamist. Otsustasin siis abi küsida kohalikust GARMINI poest. Tööl olev noormees oli väga abivalmis minu muret lahendama. Lükkas kohe juhtme järgi gepsule ja selgus, et tarkvara oli nii vana, et ei toetanud &quot;siristajat&quot;. Väikese uuenduse järel oligi siristaja toetus olemas ja ka eesti keele soft sees. Aitähh teenindajale. Peale seda tuli juhis edasiseks tegevuseks kiiresti. Ja poodud rebane oli ikka kohal. Aitähh peitjale!</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>1.6</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="24.6154883" lat="59.4462733">
+        <time>2011-01-06T12:40:40.000Z</time>
+        <name>OX1Z7Q0</name>
+        <desc>Merirahu by vx_83, Traditional Cache(1.7/2.4/2.9)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX1Z7Q0</url>
+        <urlname>Merirahu</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1824691">
+            <groundspeak:name>Merirahu</groundspeak:name>
+            <groundspeak:placed_by>vx_83</groundspeak:placed_by>
+            <groundspeak:owner id="2010">vx_83</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">[ENG] Merirahu (Seapeace) pedestrian bridge in Merirahu housing estate in Rocca al Mare is 35,6 meters long and 3-5,5 m wide. Balcony that is towards the sea makes the bridge construction asymmetric. A lot more thought than usually has been put into picking the materials and deciding the design. Constructive scheme consists of two three-hinged arcs with varying radiuses and they are inclined towards the center axis of the bridge. Path is covered by bitumen emulsion and granite grit stone.&lt;br/&gt;&lt;br/&gt;You can't reach the bridge with your car because the way is blocked by a barrier. You can leave your car at: 59° 26' 41,67&quot; 24° 36' 47,75&quot; and from there it is a bit less than 200 meters to the cache. &lt;br/&gt;Changed container in 25.05.2011 and now it contains a pencil.&lt;br/&gt;-----------------------------------------&lt;br/&gt;[EST] Merirahu jalgteesild Merirahu elamurajoonis Rocca al Mare's on pikkusega 35,6 m, laiusega 3 - 5,5 m ja kaarte sildeava 24 m. Silla mere poole jääv rõdu muudab konstruktsiooni ebasümmeetriliseks. Materjalide valikusse ja sõlmede kujundusse on panustatud rohkem, kui tavaliselt. Konstruktiivne skeem koosneb kahest kolme liigendiga muutuva raadiusega kaarest, mis asuvad silla kesktelje poole kaldu. Dekki kandvad risttalad toetuvad kaartele ja osaliselt ripuvad nende küljes. Dekiplaat koosneb tihedalt üksteise vastu ja risttaladele naelutatud puitprussidest. Käigutee katteks on bituumenemulsioon ja graniitkillustik.&lt;br/&gt;&lt;br/&gt;Autoga päris sillani ei pääse kuna teel on tõkkepuu. Auto saab jätta koordinaatidele 59° 26' 41,67&quot; 24° 36' 47,75&quot; ning sillani jääb sealt pisut vähem kui 200 m. &lt;br/&gt;Kuna 25.05.2011 sai konteiner vahetatud pisut suurema vastu, siis on aardes nüüd ka harilik pliiats.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="2029379">
+                    <groundspeak:date>2012-04-29T13:39:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="141756">JOOZU</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1311099">
+                    <groundspeak:date>2011-07-05T15:44:17.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="42900">Kjaups</groundspeak:finder>
+                    <groundspeak:text encoded="False">Vaade oli ilus!
+Alguses sai ikka all kivide juurest otsitud ja värskelt kraabitud pinnase jälgi songitud :D
+Esimene sellelaadne kogemus ja väga rahul. 
+Kohe sai Geopeitus.ee-st uus aarde koht otsitud ja edasi avastatud.
+Tegime ka väikese aarde vahetuse.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1255514">
+                    <groundspeak:date>2011-05-25T20:26:38.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="2010">vx_83</groundspeak:finder>
+                    <groundspeak:text encoded="False">[ENG] We changed container and now it contains a pencil.
+[EST] Vahetasime konteineri pisut suurema vastu ja nüüd on seal ka harilik pliiats olemas.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1255182">
+                    <groundspeak:date>2011-05-24T19:52:12.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="2010">vx_83</groundspeak:finder>
+                    <groundspeak:text encoded="False">[ENG] Logsheet is full, so we removed cache temporarily in order to make a new logsheet. Will replace cache soon.
+
+[EST] Logileht on ääreni täis. Tõime aarde täna peidukast ära. Teeme uue logilehe ja viime aarde lähiajal tagasi.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1251511">
+                    <groundspeak:date>2011-05-22T19:44:33.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="3244">TARX</groundspeak:finder>
+                    <groundspeak:text encoded="False">Leitud. Kuna pastakas jäi autosse, siis tuli teekond uuesti läbi käia. Logiraamat ääreni täis. EVEJ</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>1.7</ox:difficulty>
+                <ox:size>1.6</ox:size>
+                <ox:terrain>2.4</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="25.5312" lat="58.7644333">
+        <time>2010-12-14T12:11:03.000Z</time>
+        <name>OX1QVE0</name>
+        <desc>Snake Hill by vilts, Unknown Cache(2.7/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX1QVE0</url>
+        <urlname>Snake Hill</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1634134">
+            <groundspeak:name>Snake Hill</groundspeak:name>
+            <groundspeak:placed_by>vilts</groundspeak:placed_by>
+            <groundspeak:owner id="2249">vilts</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;pre&gt;Cache hidden near artificial lake, where they used to dig up gravel. Fisherman like this place and there are nice trails along the shoreline.
+
+Cache in first location contains a password to decipher coordinates for the cache itself.
+Needed keysquare is following:
+c z i 5 h m
+r 9 n 3 0 u
+1 q o t x y
+a s g p w k
+l d 2 8 4 j
+f e 7 b v 6
+
+AVXFF FGFFF DVGVX
+VFXDX FXVFV GAGXX
+GFFFF VGAXA AAFDF
+DAFVG XDXGF DGAFV
+DDVDD FAGVX AVFVF
+VGXFF AAFF
+
+Deciphering with pen and paper takes about 30 minutes, coordinates are formatted DD MM.MMM. Be sure you know how the algorithm works.
+No digging in required, please place cache back where you found it. 
+&lt;/pre&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>ADFGVX</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1049358">
+                    <groundspeak:date>2009-06-28T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="10678">PAAVOALA</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1049359">
+                    <groundspeak:date>2009-06-25T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="10678">PAAVOALA</groundspeak:finder>
+                    <groundspeak:text encoded="False">[EST] Ülipika Käojaani-eelse õhtu/öö kolmas leid nädalavahetuse kõigist 31st.. Ootamatu karjäärikene. Parklas seisis veel paar autot, aga nad polnud peiturite moodigi. Paroolitops jäi ruttu silma. Seadsin end Ropkana istuma ja sain ka netiühenduseta koordinaadid mõne sekundiga kätte, sest vajalik leht oli juba avatud. Paber ja pliiats pole kindlasti minu jaoks, sellega võivad fritzid edasi jännata :-) Lõpp-aardega läks kümneid kordi kauem ja mina joondusin mitme minuti järel leidjate rivi lõppu. Väga täpsed koordinaadid mõlemas punktis. Lõpus oodanuks paroolilaadset peitmist. Tore silmaringi laiendaja, nii digitaalses kui reaalses elus. EVEJ.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.7</ox:difficulty>
+                <ox:size>2.9</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="25.8809717" lat="58.0172767">
+        <time>2010-12-10T13:39:02.000Z</time>
+        <name>OX263</name>
+        <desc>HE-aare by ENNVEE, Traditional Cache(2.0/2.0/2.9)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX263</url>
+        <urlname>HE-aare</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2111">
+            <groundspeak:name>HE-aare</groundspeak:name>
+            <groundspeak:placed_by>ENNVEE</groundspeak:placed_by>
+            <groundspeak:owner id="3209">ENNVEE</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Helme village, near historical sights, inside an empty tree-trunk. Probably the first stash in Estonia, hidden by Enn and Hannes Veenpere 10.02.01.&lt;br/&gt;Peaks tõenäoliselt olema Eestis esimene selle mängu käigus peidetud&lt;br/&gt;aare. Peitsid 10.02.01 Enn ja Hannes Veenpere.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1217951">
+                    <groundspeak:date>2009-08-01T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="17932">Vilnis</groundspeak:finder>
+                    <groundspeak:text encoded="False">Thanks for showing so interesting and historical place. We spent here some time, also met tourists from Finland.
+And thanks to juris1c who was lucky and found cache.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1049356">
+                    <groundspeak:date>2007-07-14T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="10678">PAAVOALA</groundspeak:finder>
+                    <groundspeak:text encoded="False">Finally the first cache in Estonia, the mother of it all in this country - found :) It took a few minutes to dig it out. Actually, it was visible a bit, I covered it more carefully. The log book was OK, but the cache itself was moist and money in it wet. TN, left Simpel SIM-card. Thanks a lot for the game!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1909762">
+                    <groundspeak:date>2006-04-19T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="1338">sookoll7</groundspeak:finder>
+                    <groundspeak:text encoded="False">LEITUD</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.6</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Peitmine.jpg</ox:name>
+                    <ox:size>26402</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>1 geocache.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:38:27.165Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="-149.8265167" lat="-17.5410167">
+        <time>2011-04-01T18:29:00.000Z</time>
+        <name>OXZTWQ1</name>
+        <desc>Happy Holiday TB Resort by Kerewyn, Traditional Cache(1.6/1.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTWQ1</url>
+        <urlname>Happy Holiday TB Resort</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477066">
+            <groundspeak:name>Happy Holiday TB Resort</groundspeak:name>
+            <groundspeak:placed_by>Kerewyn</groundspeak:placed_by>
+            <groundspeak:owner id="15874">Kerewyn</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is near the most famous point in Moorea.  Muggles abound off the tours, but look for a small trail out of the parking lot.  Lovely view of Cooks and Oponohu Bays.  Photo Ops ! &lt;br/&gt;&lt;br/&gt;Original contents:&lt;br/&gt;Polynesian Temporary tattoo&lt;br/&gt;Senor Frogs shot glass&lt;br/&gt;Hawaiian keychain&lt;br/&gt;I love Kailua pin&lt;br/&gt;Life is Good sticker&lt;br/&gt;Trolley Dolly TB&lt;br/&gt;Double Trouble TB&lt;br/&gt;Kimimila Thosa TB&lt;br/&gt;Log Book and pen</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+</gpx>

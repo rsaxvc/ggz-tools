@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>8 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:37:48.458Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="-90.7339667" lat="14.5565">
+        <time>2012-02-09T20:35:56.000Z</time>
+        <name>OX39G2Y</name>
+        <desc>Bienvenidos a la Antigua by Montegas, Multi-cache(3.0/3.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX39G2Y</url>
+        <urlname>Bienvenidos a la Antigua</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="3054149">
+            <groundspeak:name>Bienvenidos a la Antigua</groundspeak:name>
+            <groundspeak:placed_by>Montegas</groundspeak:placed_by>
+            <groundspeak:owner id="16219">Montegas</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The Antigua Guatemala is the city of a great historical value in Guatemala.&lt;br/&gt;&lt;br/&gt;In this cache you will walk in to the park, coffe shops, and comercial stores to a hill with a nice view of the city. You will need to go out to the road and walk up to the hill in no trail. Take a nice pair of hiking shoes but the walk will not be so long, so do not worry and enjoy. Look only on day, there are police until 6:00 of the afternoon. This one revives the cache from Lahontan &quot;Bienvenidos al antigua&quot;&lt;br/&gt;Stage 1&lt;br/&gt;You will find a plaque look for two dates denoting an anniversary. To calculate waypoint 2 determine how many years the plaque is commemorating (XXX). Also determine what day in March the plaque was dedicated (YY).&lt;br/&gt;Stage 2 from S1: Northward ((XXX+YY+109)/100) Minutes&lt;br/&gt;Eastward ((XXX-YY*11-2)/100) Minutes&lt;br/&gt;&lt;br/&gt;Stage 2&lt;br/&gt;At waypoint two you will find another plaque. Use the number of men named on the plaque (Z) to compute the location of the final.&lt;br/&gt;Final from S2: Northward ((YY*3+Z)/100) Minutes&lt;br/&gt;Westward ((YY*5-Z)/100) Minutes</groundspeak:long_description>
+            <groundspeak:encoded_hints>look for a stump in the base there are a hole covered with leafs. not need to dig</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.2</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-90.5006833" lat="14.6035167">
+        <time>2012-01-02T18:17:59.000Z</time>
+        <name>OX2TJJT</name>
+        <desc>Plaza Confucio by Montegas, Multi-cache(3.0/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2TJJT</url>
+        <urlname>Plaza Confucio</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="2609698">
+            <groundspeak:name>Plaza Confucio</groundspeak:name>
+            <groundspeak:placed_by>Montegas</groundspeak:placed_by>
+            <groundspeak:owner id="16219">Montegas</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Plaza Confucio&lt;br /&gt;This is a small and easy multi urban cache. Located in the &quot;Plaza Confucio&quot; in Guatemala City. The area is paved and very easy to get close. .&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;The cache is a small tupperwate with logbook and small items to trade. The coordinates published get you to the monument for Confucius, you need to search in the plaque this information.&lt;br /&gt;(each character represent one digit or letter)&lt;br /&gt;&lt;br /&gt;YYYY: The year of the foundation of this monument.&lt;br /&gt;&lt;br /&gt;LLLLLLL: Wich is the name (in spanish) of the chapter of the Confucius philosofy written in the plaque? The original coordinates will take you to the cache.&lt;br /&gt;&lt;br /&gt;The final coords are: N14° 36.(211+A) W90° 30.(041+B)&lt;br /&gt;&lt;br /&gt;A: Is the sum of each number of this year&lt;br /&gt;&lt;br /&gt;B: You must assign a numerical value to each letter of the word, then add all the resulting digits until a single final digit. Example: if the word was &quot;saber&quot; You Will Have (19+1+2+5+18) = 45: 4 +5 = 9.</groundspeak:long_description>
+            <groundspeak:encoded_hints>On the side of the fence. Look down between the plants</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Plaza.jpg</ox:name>
+                    <ox:size>58701</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-90.5494667" lat="14.6062167">
+        <time>2011-12-28T17:45:46.000Z</time>
+        <name>OX2PN7W</name>
+        <desc>Rotonda Marsical by Montegas, Traditional Cache(2.6/1.4/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2PN7W</url>
+        <urlname>Rotonda Marsical</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2522869">
+            <groundspeak:name>Rotonda Marsical</groundspeak:name>
+            <groundspeak:placed_by>Montegas</groundspeak:placed_by>
+            <groundspeak:owner id="16219">Montegas</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Small items to trade, the cache is a small container in a bag. &quot;Pasos y Pedales&quot; are open to the public in here the sunday in the mornings, so be careful with the muggles. The place of the cache is a site dedicated to Flavio Herrera (Guatemalan writer and poet), he donated his house to the USAC University, this house works now how &quot;Casa Universitaria de la Cultura Flavio Herrera&quot; also named &quot;Chalet Triana&quot;. Please replace the cache as like you found it, as the hint says. Beware of be on sight of muggles.</groundspeak:long_description>
+            <groundspeak:encoded_hints>en la base del arbol busca un agujero</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>1.4</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-90.4881667" lat="14.6449">
+        <time>2011-11-02T01:37:28.000Z</time>
+        <name>OXZTNNM</name>
+        <desc>Los del Cid by xemuj, Traditional Cache(2.7/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTNNM</url>
+        <urlname>Los del Cid</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28471257">
+            <groundspeak:name>Los del Cid</groundspeak:name>
+            <groundspeak:placed_by>xemuj</groundspeak:placed_by>
+            <groundspeak:owner id="67977">xemuj</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Cementerio los cipreses, lugar agradable para caminar</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1736641">
+                    <groundspeak:date>2012-01-28T20:11:56.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="16219">Montegas</groundspeak:finder>
+                    <groundspeak:text encoded="False">el  lugar es perfecto para el caching. esperamos que hayan mas retos en la linda Guatemala. gracias por la aventura. fue un poco dificil ubocar el sitio por los cambios de elevacion pero cuando llegamos al GZ fue facil dar con el contenedor. dejamos una nota de FTF TNLN.
+saludos</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1736638">
+                    <groundspeak:date>2012-01-28T20:02:56.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="16219">Montegas</groundspeak:finder>
+                    <groundspeak:text encoded="False">Gracias por el cache
+Logged via OpenCaching Android app.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1729657">
+                    <groundspeak:date>2012-01-14T06:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="16219">Montegas</groundspeak:finder>
+                    <groundspeak:text encoded="False">Intentamos ir a por él. Hemos llegado tarde a la entrada del cementerio lo intentaremos de nuevo muy pronto!
+</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.7</ox:difficulty>
+                <ox:size>2.8</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-90.8123" lat="13.9187667">
+        <time>2011-08-08T04:47:08.000Z</time>
+        <name>OXZTRD9</name>
+        <desc>El Laberinto by Montegas, Traditional Cache(3.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTRD9</url>
+        <urlname>El Laberinto</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28473881">
+            <groundspeak:name>El Laberinto</groundspeak:name>
+            <groundspeak:placed_by>Montegas</groundspeak:placed_by>
+            <groundspeak:owner id="16219">Montegas</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Located in the port of San José, Escuintla. Easy to find, the cache is in the streets of the labyrinth in San Jose, beware of Muggles, there is much activity on weekends. Take advantage and relax on the beaches filled with visitors and casual vacationers. Enjoy the sea, air, food, drink, music and life in the port of San Jose.&lt;br/&gt;&lt;br/&gt;The port of San Jose is one of the most visited places for locals and people who love the sea, every weekend this port is full of people looking for fun, relaxation, sunbathing and swimming. There is a lot of cargo activity at the port, you can buy seafood and fish as well as enjoy the local cuisine. To reach the location of the cache walk from the center of town, stands near the beach so you can also walk from there. If you do not know very well the port can start your search on the old pier, this is only the structure and the old posts buried in the sand. Enjoy your trip and stay.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Are those real rocks over there?</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>2.5</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-90.52975" lat="14.6312833">
+        <time>2011-08-08T04:41:01.000Z</time>
+        <name>OX2QWEZ</name>
+        <desc>Pensativa by Montegas, Traditional Cache(3.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2QWEZ</url>
+        <urlname>Pensativa</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2558646">
+            <groundspeak:name>Pensativa</groundspeak:name>
+            <groundspeak:placed_by>Montegas</groundspeak:placed_by>
+            <groundspeak:owner id="16219">Montegas</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">La caché es un tupperware micro como un rollo de película, con pequeños artículos para el intercambio y el libro de registro. Tener cuidado con los muggles el camino es grande y clara, y hay muchas estatuas raras de ver. Las coordenadas están en la lista de caché original. Nota importante: Fuera del cementerio es muy peligroso para un caminante con GPSr en las manos, así que pregunte a alguien que te lleve. En el interior sólo tiene que ser sigiloso.</groundspeak:long_description>
+            <groundspeak:encoded_hints>No te sobrepases con la dama</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1748355">
+                    <groundspeak:date>2012-02-18T23:43:26.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="16219">Montegas</groundspeak:finder>
+                    <groundspeak:text encoded="False">seguramente era la estatua correcta. el recipiente antetior era un poco grande y un poco visible, lo he reemplazado con un contenedor de rollo gris y negro. Feliz caceria!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1742036">
+                    <groundspeak:date>2012-02-05T06:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="67977">xemuj</groundspeak:finder>
+                    <groundspeak:text encoded="False">no se si sea la estatua correcta pero en sus piernas no habia nada</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>2.5</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-90.5389833" lat="14.6377">
+        <time>2011-08-01T05:45:04.000Z</time>
+        <name>OXZTRMW</name>
+        <desc>La democracia by Montegas, Traditional Cache(2.0/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTRMW</url>
+        <urlname>La democracia</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474116">
+            <groundspeak:name>La democracia</groundspeak:name>
+            <groundspeak:placed_by>Montegas</groundspeak:placed_by>
+            <groundspeak:owner id="16219">Montegas</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">The cache is located in Park &quot;La Democracia&quot;; walking toward the back of the park there is a ravine in which there will be no walk far to find the cache. There are many people working out, careful not to see you get in and out of the ravine. Walk with caution and hold tight to avoid falling.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;El centro deportivo Parque La Democracia está ubicado en la 28 avenida 14-02 zona 7 Ciudad de Plata II, cuenta con una extensión de 98 manzanas, ofrece instalaciones para el desarrollo de diferentes disciplinas deportivas, las cuales están abiertas al público de 05:00 a 17:30 horas. El cache está ubicado en el parque la Democracia, caminando hacia el fondo del parque hay un barranco en el cual no habrá que caminar demasiado para encontrar el cache. Hay mucha gente haciendo ejercicios, cuidado que no te vean entrar y salir del barranco. Camina con precaución y agarrate fuerte de donde puedas para no caerte.</groundspeak:long_description>
+            <groundspeak:encoded_hints>En la base del árbol</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.1</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-90.5121333" lat="14.5990667">
+        <time>2011-05-19T07:46:38.000Z</time>
+        <name>OX2NGC9</name>
+        <desc>Zona Viva by Montegas, Traditional Cache(3.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2NGC9</url>
+        <urlname>Zona Viva</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2488410">
+            <groundspeak:name>Zona Viva</groundspeak:name>
+            <groundspeak:placed_by>Montegas</groundspeak:placed_by>
+            <groundspeak:owner id="16219">Montegas</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Ubicado en la zona viva de la ciudad de Guatemala. Lugar y punto de reunión para la gente que busca de fiesta, bailar, relajarse, comer bien o ir por un buen café</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>1.6</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

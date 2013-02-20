@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>12 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:37:38.709Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="-65.25905" lat="-26.7344">
+        <time>2012-02-13T01:50:37.000Z</time>
+        <name>OXZTM3P</name>
+        <desc>Fuente del Duende - Tafi Viejo - Tucuman by ARIELTUC, Virtual Cache(1.1/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTM3P</url>
+        <urlname>Fuente del Duende - Tafi Viejo - Tucuman</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Virtual Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469740">
+            <groundspeak:name>Fuente del Duende - Tafi Viejo - Tucuman</groundspeak:name>
+            <groundspeak:placed_by>ARIELTUC</groundspeak:placed_by>
+            <groundspeak:owner id="69262">ARIELTUC</groundspeak:owner>
+            <groundspeak:type>Virtual Cache</groundspeak:type>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">La fuente del duende tiene adelante una placa de su inauguración el 04 de setiembre de... ¿Qué año?.&lt;br/&gt;&lt;br/&gt;La fuente del duende (Elf water source) was inaugurated on September 04... what year?.&lt;br/&gt;&lt;br/&gt;http://youtu.be/jrOSHFmKZVs&lt;br/&gt;&lt;br/&gt;http://www.lagaceta.com.ar/nota/475940/Tucumanos/Pedi-deseo-fuente-duende.html</groundspeak:long_description>
+            <groundspeak:encoded_hints>Ex-Fuente de los Inmigrantes</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1812783">
+                    <groundspeak:date>2012-05-18T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="112136">LILLIBAS</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found this virtual today. Thanks for showing me this place. Very interesting site. TFTV lillibas</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.1</ox:difficulty>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:phrase>9a116969410737f8fd060caff22c163cd6e996c03c53b8a5536239f0220a8baa</ox:phrase>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>duende.jpg</ox:name>
+                    <ox:size>142096</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-71.2992" lat="-42.9287333">
+        <time>2012-01-19T04:32:29.000Z</time>
+        <name>OXZTMGD</name>
+        <desc>Esquel - Cerro La Cruz by Druida, Traditional Cache(3.0/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTMGD</url>
+        <urlname>Esquel - Cerro La Cruz</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28470134">
+            <groundspeak:name>Esquel - Cerro La Cruz</groundspeak:name>
+            <groundspeak:placed_by>Druida</groundspeak:placed_by>
+            <groundspeak:owner id="86671">Druida</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Entre unas rocas escondí un envase hermético con una bolsa sellada que dentro contienen: libreta, lapiz, un regalito argentino (artesanía mía) y una monedita de centavos de dolar. &lt;br/&gt;&lt;br/&gt;Te conviene subir con el vehículo hasta arriba, al estacionamiento y luego encender el GPS hasta llegar al tesoro.&lt;br/&gt;&lt;br/&gt;Ya hay tres registros de visitantes en la libreta. ¿Qué esperás para anotarte allí y ver la hermosa vista de Esquel y su entorno?&lt;br/&gt;Si lo entontrás te invito a tomar mates!!!&lt;br/&gt;&lt;br/&gt;Esquel, Chubut, Argentina&lt;br/&gt;S 42° 55.724 W 071° 17.952      </groundspeak:long_description>
+            <groundspeak:encoded_hints>Entre las piedras</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-64.1833" lat="-31.4">
+        <time>2011-09-07T05:12:30.000Z</time>
+        <name>OXZTQMN</name>
+        <desc>cordoba by MATIAS_CUEVA75, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTQMN</url>
+        <urlname>cordoba</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28473149">
+            <groundspeak:name>cordoba</groundspeak:name>
+            <groundspeak:placed_by>MATIAS_CUEVA75</groundspeak:placed_by>
+            <groundspeak:owner id="58626">MATIAS_CUEVA75</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">donde esta</groundspeak:long_description>
+            <groundspeak:encoded_hints>cba</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1860279">
+                    <groundspeak:date>2012-05-26T03:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="69262">ARIELTUC</groundspeak:finder>
+                    <groundspeak:text encoded="False">Hola
+Te felicito por la idea de esconder un caché en la ciudad de Córdoba.
+Siento decirte que el caché no está o es muy dificil de encontrar.
+En su lugar escondí otro caché (espero que no te moleste)
+te invito a verlo al mismo en:
+http://coord.info/GC3MQ1F
+saludos
+
+PD: Únete a la comunidad argentina de geocaching http://geocachingargentina.blogspot.com/ </groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>chirp</ox:tag>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:chirp>2434</ox:chirp>
+            </ox:verification>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.6567" lat="-32.9617167">
+        <time>2011-08-30T17:36:31.000Z</time>
+        <name>OXZTQRJ</name>
+        <desc>parque independencia hivernadero by quatrinicristian, Traditional Cache(1.3/1.2/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTQRJ</url>
+        <urlname>parque independencia hivernadero</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28473270">
+            <groundspeak:name>parque independencia hivernadero</groundspeak:name>
+            <groundspeak:placed_by>quatrinicristian</groundspeak:placed_by>
+            <groundspeak:owner id="34452">quatrinicristian</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Sigue el sendero de asfalto.&lt;br/&gt;Busca unas palmeras identificadas como la especie Phoenix Reclinata.&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>El hueco al nivel del piso entre dos palmeras. al lado del cartel identificatorio.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.3</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.2</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.6369" lat="-32.9592167">
+        <time>2011-07-04T18:35:26.000Z</time>
+        <name>OXZTT7A</name>
+        <desc>Plaza Lopez by quatrinicristian, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTT7A</url>
+        <urlname>Plaza Lopez</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474657">
+            <groundspeak:name>Plaza Lopez</groundspeak:name>
+            <groundspeak:placed_by>quatrinicristian</groundspeak:placed_by>
+            <groundspeak:owner id="34452">quatrinicristian</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Microcache oculto dentro de un arbol Sofora Pendula. A unos 10 metros de un Branquiquino. Recuerda que hay mas de un Sofora Pendula.</groundspeak:long_description>
+            <groundspeak:encoded_hints>A mas de 1 metro y a menos de 3 metros de altura</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.6621667" lat="-32.9537167">
+        <time>2011-07-01T16:51:26.000Z</time>
+        <name>OXZTT94</name>
+        <desc>Palomar by quatrinicristian, Traditional Cache(1.3/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTT94</url>
+        <urlname>Palomar</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474713">
+            <groundspeak:name>Palomar</groundspeak:name>
+            <groundspeak:placed_by>quatrinicristian</groundspeak:placed_by>
+            <groundspeak:owner id="34452">quatrinicristian</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Busca a metros de Av. Pellegrini algo macnetico.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Un gabinete metalico verde.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.3</ox:difficulty>
+                <ox:size>1.2</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.6621667" lat="-32.9537167">
+        <time>2011-07-02T03:37:31.000Z</time>
+        <name>OXZTT8Q</name>
+        <desc>Palomar by quatrinicristian, Traditional Cache(1.3/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTT8Q</url>
+        <urlname>Palomar</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474701">
+            <groundspeak:name>Palomar</groundspeak:name>
+            <groundspeak:placed_by>quatrinicristian</groundspeak:placed_by>
+            <groundspeak:owner id="34452">quatrinicristian</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Cache macnetici. Busca algun objeto metalico a metros de la avenida Pellegrini.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Gabinete metalico verde</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.3</ox:difficulty>
+                <ox:size>1.5</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.6621667" lat="-32.9537167">
+        <time>2011-06-29T21:30:35.000Z</time>
+        <name>OXZTT9Z</name>
+        <desc>palomar by quatrinicristian, Traditional Cache(1.4/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTT9Z</url>
+        <urlname>palomar</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474739">
+            <groundspeak:name>palomar</groundspeak:name>
+            <groundspeak:placed_by>quatrinicristian</groundspeak:placed_by>
+            <groundspeak:owner id="34452">quatrinicristian</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Micro cache macnetico a metros de la calle. Llevar lapiz y comida para palomas :-)</groundspeak:long_description>
+            <groundspeak:encoded_hints>Gabinete metalico verde </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.4</ox:difficulty>
+                <ox:size>1.3</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.6572" lat="-32.9546833">
+        <time>2011-06-29T21:42:51.000Z</time>
+        <name>OXZTT9Y</name>
+        <desc>Parque by quatrinicristian, Traditional Cache(1.0/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTT9Y</url>
+        <urlname>Parque</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474738">
+            <groundspeak:name>Parque</groundspeak:name>
+            <groundspeak:placed_by>quatrinicristian</groundspeak:placed_by>
+            <groundspeak:owner id="34452">quatrinicristian</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Busca una palmera rodeada de arboles. Busca a mas de 1 metro de altura y a menos de 3 metros. Recipiente blanco cilindrico</groundspeak:long_description>
+            <groundspeak:encoded_hints>Tenes que ser alto/a para alcanzar el recipiente</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-60.63685" lat="-32.9592167">
+        <time>2011-06-29T13:14:03.000Z</time>
+        <name>OXZTTA3</name>
+        <desc>Plaza General Lopez by quatrinicristian, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTTA3</url>
+        <urlname>Plaza General Lopez</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474743">
+            <groundspeak:name>Plaza General Lopez</groundspeak:name>
+            <groundspeak:placed_by>quatrinicristian</groundspeak:placed_by>
+            <groundspeak:owner id="34452">quatrinicristian</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">En el interior de un arbol. A unos 10 metros de un Braquiquito. Las especies de arboles estan identificadas con carteles. </groundspeak:long_description>
+            <groundspeak:encoded_hints>Busca en el interior de una Sofora Pendula. Recorda que hay mas de una.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-58.6286111" lat="-34.6302778">
+        <time>2011-04-29T10:17:08.000Z</time>
+        <name>OXZTWDK</name>
+        <desc>Destacamento N1 by azapico, Traditional Cache(1.3/1.3/2.9)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTWDK</url>
+        <urlname>Destacamento N1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28476774">
+            <groundspeak:name>Destacamento N1</groundspeak:name>
+            <groundspeak:placed_by>azapico</groundspeak:placed_by>
+            <groundspeak:owner id="18351">azapico</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Hurlingham, Bomberos Voluntarios Destacamento N1 </groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="2032482">
+                    <groundspeak:date>2012-08-18T03:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="143148">SERGIOLASCOURS</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1733731">
+                    <groundspeak:date>2012-01-22T03:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="87479">FERCORREDOIRA</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>1.3</ox:difficulty>
+                <ox:size>2.5</ox:size>
+                <ox:terrain>1.3</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-56.9043333" lat="-37.1684833">
+        <time>2011-04-11T01:54:25.000Z</time>
+        <name>OX2NGZG</name>
+        <desc>carilo 2011 by joacochas, Traditional Cache(2.5/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2NGZG</url>
+        <urlname>carilo 2011</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2488975">
+            <groundspeak:name>carilo 2011</groundspeak:name>
+            <groundspeak:placed_by>joacochas</groundspeak:placed_by>
+            <groundspeak:owner id="16474">joacochas</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Easy terrain, near a road The cache is a small plastic jug with a yellow cap. It contains: Geocache form Log book and pencil 1 coin from Trinidad an Tobago 1 coin from Granada 2 coins from Argentina 1 small ceramic tea pot 2 small local shells 1 yellow paper clip.</groundspeak:long_description>
+            <groundspeak:encoded_hints>In the inner corner of a wood fence, under a red brick, and covered by pine needles.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1283199">
+                    <groundspeak:date>2011-06-08T14:58:31.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="31839">ALBERTOBERBEGLIA</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1217954">
+                    <groundspeak:date>2011-04-23T03:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="16474">joacochas</groundspeak:finder>
+                    <groundspeak:text encoded="False">Performed maintenance tasks</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.8</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

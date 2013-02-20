@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>2 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:38:18.284Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="19.8653333" lat="42.4204833">
+        <time>2012-05-13T10:41:48.000Z</time>
+        <name>OXZTJ9D</name>
+        <desc>Doktor Alban by bezdroza, Traditional Cache(2.6/3.4/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTJ9D</url>
+        <urlname>Doktor Alban</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28467995">
+            <groundspeak:name>Doktor Alban</groundspeak:name>
+            <groundspeak:placed_by>bezdroza</groundspeak:placed_by>
+            <groundspeak:owner id="116879">bezdroza</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Autor: Maja&lt;br/&gt;Tam gdzie z rana śpiewa jaskółka&lt;br/&gt;I gdzie się mieści stara szkółka&lt;br/&gt;Tam na wzgórzu opodal rzeczki&lt;br/&gt;Zrobiliśmy skrytkę dla naszej skrzyneczki&lt;br/&gt;To jest w Valbonë parku narodowym&lt;br/&gt;Niezwykle pięknym i widokowym&lt;br/&gt;&lt;br/&gt;Autor: Ola&lt;br/&gt;Za Górami, za lasami.&lt;br/&gt;Na bezdrożach, gdzieś w Albanii,&lt;br/&gt;tam gdzie słonko często świeci,&lt;br/&gt;leży skrzynka pełna śmieci.&lt;br/&gt;Jeśli znajdziesz to bezdroże,&lt;br/&gt;dr. Alban ci pomoże!&lt;br/&gt;&lt;br/&gt;Pamiętaj aby nie pozostawiać pustej skrzynki, rzeczy które można tam pozostawic po zabraniu zawartości muszą spełniać choć jeden z wymienionych warunków:&lt;br/&gt;- związane z offroadem&lt;br/&gt;- związane z udzielaniem pierwszej pomocy&lt;br/&gt;- zwiazane z biwakowaniem i obozowaniem&lt;br/&gt;&lt;br/&gt;Rzeczy prosimy otagować aby było wiadomo kto odnalazł ostatnią zawartość i schował obecną. &lt;br/&gt;Do skrzynki można dodać dziennik odwiedzin.  </groundspeak:long_description>
+            <groundspeak:encoded_hints>zasypana kamieniami</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>4.6</ox:size>
+                <ox:terrain>3.4</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>DSC00055.jpg</ox:name>
+                    <ox:size>217319</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>DSC00056.jpg</ox:name>
+                    <ox:size>223187</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="19.8958833" lat="42.48505">
+        <time>2010-12-07T18:35:48.000Z</time>
+        <name>OX2EZVK</name>
+        <desc>Zla Kolata by BOSOCZ, Traditional Cache(1.5/4.5/3.5)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2EZVK</url>
+        <urlname>Zla Kolata</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2293771">
+            <groundspeak:name>Zla Kolata</groundspeak:name>
+            <groundspeak:placed_by>BOSOCZ</groundspeak:placed_by>
+            <groundspeak:owner id="1678">BOSOCZ</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>4.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Zla Kolata 2534m.n.m.&lt;br/&gt;&lt;br/&gt;Zla Kolata is the highest mountain in Montenegro&lt;br/&gt;The mountain was made available only since 2008.&lt;br/&gt;&lt;br/&gt;Zla Kolata je nejvyšší hora Cerné Hory&lt;br/&gt;Hora je zprístupnena teprve od roku 2008.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Zla Kolata is located on the border of Montenegro and Albania, 10 km south of the Montenegrin small town Gusinje. It lies in the Dinaric Alps, part of the mountains Prokletije. Zla Kolata massive rock has the shape of the tooth. The top consists of the limestone. Access to it is from the village Gusinje to the south through the valley Ropojana to the village Vusanje. Here starts climbing along the marked trail.&lt;br/&gt;&lt;br/&gt;Zla Kolata se nachází na hranicích Cerné Hory a Albánie, 10 km jižne od cernohorského mestecka Gusinje. Leží v Dinárských horách, v pohorí Prokletije. Zla Kolata má tvar mohutného skalního zubu. Vrchol je z vápence. Prístup je z mestecka Gusinje na jih dolinou Ropojana do vesnice Vusanje. Tady zacíná výstup po znacené stezce.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints> 
+fotohint </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.5</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>4.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

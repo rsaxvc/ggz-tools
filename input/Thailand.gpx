@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>7 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:37:51.287Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="99.9974333" lat="12.2305">
+        <time>2011-08-26T10:12:40.000Z</time>
+        <name>OXZTQWD</name>
+        <desc>Three Tubes by 2000jago, Traditional Cache(1.4/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTQWD</url>
+        <urlname>Three Tubes</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28473358">
+            <groundspeak:name>Three Tubes</groundspeak:name>
+            <groundspeak:placed_by>2000jago</groundspeak:placed_by>
+            <groundspeak:owner id="11107">2000jago</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Located along the Sam Roy Yod beach, a mere 5 minutes walk will get you there.  Great view of Monkey Island nearby.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Do you see 3 tubes?  Check the left one.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.4</ox:difficulty>
+                <ox:size>2.4</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="99.94625" lat="12.2691667">
+        <time>2011-08-02T08:45:44.000Z</time>
+        <name>OX2MDQ9</name>
+        <desc>Near Nong Khang View by 2000jago, Traditional Cache(2.0/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2MDQ9</url>
+        <urlname>Near Nong Khang View</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2456077">
+            <groundspeak:name>Near Nong Khang View</groundspeak:name>
+            <groundspeak:placed_by>2000jago</groundspeak:placed_by>
+            <groundspeak:owner id="11107">2000jago</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Located en-route to the Nong Khang west view point, this cache will bring you within 5 minutes drive of one of the best views in the area.&lt;br/&gt;&lt;br/&gt;Most of the road to this cache is a dirt road, albeit a pretty good one. A &quot;normal&quot; car could make the trip without too much effort (except perhaps getting a bit dusty), so perhaps a 4x4 or motorcycle/mountain bike would be more appropriate. There may be mud during the rainy season, but the cache site should not be affected.&lt;br/&gt;The cache itself is located a stone's throw from the roadside.&lt;br/&gt; Note:  This cache is listed elsewhere so you may not be the first to find.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Inside the pile of rocks.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="99.9434833" lat="12.2699333">
+        <time>2011-08-02T08:36:53.000Z</time>
+        <name>OX2N1R1</name>
+        <desc>Nong Khang Shrine by 2000jago, Traditional Cache(2.0/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2N1R1</url>
+        <urlname>Nong Khang Shrine</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2474359">
+            <groundspeak:name>Nong Khang Shrine</groundspeak:name>
+            <groundspeak:placed_by>2000jago</groundspeak:placed_by>
+            <groundspeak:owner id="11107">2000jago</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Located near the shrine at the Nong Khang lookout point. Great views all around and a great place to watch the sun set behind the mountains in the distance.  Beware of ants and cacti nearby. &lt;br/&gt;Note: This cache is also listed elsewhere, so you may not be first to find.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Beside the large boulder. Underneath some stones.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="99.5340333" lat="6.8250333">
+        <time>2009-03-14T07:00:00.000Z</time>
+        <name>OX1NMYZ</name>
+        <desc>Mango Bay by resope, Traditional Cache(1.6/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX1NMYZ</url>
+        <urlname>Mango Bay</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1569281">
+            <groundspeak:name>Mango Bay</groundspeak:name>
+            <groundspeak:placed_by>resope</groundspeak:placed_by>
+            <groundspeak:owner id="8192">resope</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is our first cache hidden on our favourite island, Ko Bulone&lt;br /&gt;Lae. To find the cache, you have to leave the beautiful white sand&lt;br /&gt;beach, cross the small village and get to the small Mango Bay,&lt;br /&gt;which is populated by Chao Lae fishermen. It is better to seek the&lt;br /&gt;cache on low tide! &lt;br /&gt;&lt;p&gt;Don't forget to use a mosquito repellent, because there are lots&lt;br /&gt;of those hungry insects in the rubber tree plantation and in the&lt;br /&gt;wood which you have cross.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;We will be doing cache maintenance about every 1-2 years, beside&lt;br /&gt;this we have a local fisherman having an eye on the cache and we&lt;br /&gt;are also glad for your information about the cache!&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>      </groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1768622">
+                    <groundspeak:date>2012-02-21T04:05:33.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="98868">shrike</groundspeak:finder>
+                    <groundspeak:text encoded="False">thanks for sharing this spot and thanks for the cache.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="100.8930333" lat="12.91595">
+        <time>2008-05-11T07:00:00.000Z</time>
+        <name>OX1C4V6</name>
+        <desc>Big (C) John by CEILORD491, Traditional Cache(2.5/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX1C4V6</url>
+        <urlname>Big (C) John</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1285669">
+            <groundspeak:name>Big (C) John</groundspeak:name>
+            <groundspeak:placed_by>CEILORD491</groundspeak:placed_by>
+            <groundspeak:owner id="8829">CEILORD491</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This one is dedicated to Gerboa the cacher who apreciated and&lt;br /&gt;maintained my Bangkok cache.This is my way to say thank you for all&lt;br /&gt;you did here in Thailand for geocaching and cachers round the&lt;br /&gt;world.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;The cache is situated on the BIG C parking lot. &lt;br /&gt;&lt;p&gt;lil film canister... bring our own pen&lt;/p&gt;&lt;br /&gt;Small note on cache maintenance: Gerboa will&lt;br /&gt;maintain this cache as well. thanks! 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>not on the ground, magnetic, inside a hose</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1382936">
+                    <groundspeak:date>2011-07-28T10:13:21.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="48249">neovinhtru</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1256694">
+                    <groundspeak:date>2011-05-29T02:26:13.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="24924">TANUFAI</groundspeak:finder>
+                    <groundspeak:text encoded="False">Logged via OpenCaching Android app.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="100.5565667" lat="13.7423833">
+        <time>2006-05-04T07:00:00.000Z</time>
+        <name>OXVVRR</name>
+        <desc>BKK-SKV Bangkok Sukhumvit Micro by CEILORD491, Traditional Cache(2.0/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXVVRR</url>
+        <urlname>BKK-SKV Bangkok Sukhumvit Micro</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="800320">
+            <groundspeak:name>BKK-SKV Bangkok Sukhumvit Micro</groundspeak:name>
+            <groundspeak:placed_by>CEILORD491</groundspeak:placed_by>
+            <groundspeak:owner id="8829">CEILORD491</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">BKK-SKV is a tiny capsule with scroll log only placed in Sukhumvit-Area in Bangkok. Because BKK-SKV is very shy,it hides from all the tourists in a crowded tourist area. Be careful when you log it, you may be seen by tons of muggels. 1 fast grip and the cache is in your hand. &lt;br /&gt;&lt;br /&gt;GPS signal could be very weak !!!  EPE of 5 m.Maybe you should read the hint.&lt;br /&gt;&lt;br /&gt;bring a pencil&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;LITTLE HINT: take SOI 11 &lt;br /&gt;&lt;br /&gt;GERMAN:&lt;br /&gt;&lt;br /&gt;BKK-SKV ist eine kleine Rolle im Sukhumvitviertel.Weil BKK-SKV sehr schuechtern ist versteckt er sich vor all den vielen Touristen dort. Seit vorsichtig beim Heben da es enorm viele Muggels gibt. Ein schneller Griff reicht um ihn ans Tageslicht zu befoerdern.&lt;br /&gt;&lt;br /&gt;GPS Signal kann dort sehr schwach sein. Nehmt den Hint mit. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;stift mitbringen 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Post 7/1
+lowest Hole</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="428515">
+                    <groundspeak:date>2010-02-03T20:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4174">The_Irons</groundspeak:finder>
+                    <groundspeak:text encoded="False">&quot;Du Papa, was gab es denn dort Interessantes zu sehen?&quot;
+&quot;Kühles Bier in großen Flaschen ...&quot;
+
+I know, what the owner wants to show us with this cache - the restaurant nearby - sitting under palms and drinking cold Thai beer is a pleasure ...
+
+¡TFTC y un saludo!</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="100.6283833" lat="13.7551667">
+        <time>2010-12-23T02:34:53.000Z</time>
+        <name>OX2J2YV</name>
+        <desc>Ram 24 by artnithi, Traditional Cache(2.2/1.4/3.2)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2J2YV</url>
+        <urlname>Ram 24</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2386127">
+            <groundspeak:name>Ram 24</groundspeak:name>
+            <groundspeak:placed_by>artnithi</groundspeak:placed_by>
+            <groundspeak:owner id="8460">artnithi</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Here's my first cache. It equipped with Garmin Chirp to inform you if you have Garmin GPS. It's easy to find to find cache in the suburb of Bangkok. Near by there is a University, you can come and relax.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Beat around in the bush and see Mr. Postman.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1382937">
+                    <groundspeak:date>2011-07-28T10:14:20.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="48249">neovinhtru</groundspeak:finder>
+                    <groundspeak:text encoded="False">hghughghjghghkjhjkj</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.2</ox:awesomeness>
+                <ox:difficulty>2.2</ox:difficulty>
+                <ox:size>3.9</ox:size>
+                <ox:terrain>1.4</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

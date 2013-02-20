@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>10 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:37:44.057Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="23.31375" lat="42.5280167">
+        <time>2012-09-03T09:04:36.000Z</time>
+        <name>OX3VZYM</name>
+        <desc>South Vitosha Geocache by VISOROP, Traditional Cache(2.5/3.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3VZYM</url>
+        <urlname>South Vitosha Geocache</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3574878">
+            <groundspeak:name>South Vitosha Geocache</groundspeak:name>
+            <groundspeak:placed_by>VISOROP</groundspeak:placed_by>
+            <groundspeak:owner id="129563">VISOROP</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">EN&lt;br /&gt;
+ &lt;br /&gt;
+A nice cache, placed in the south-east part of the mountaint - a rarely visited place with wonderful sights and panoramas.  The place, called peak Malak Kotor, is usually used as a rest point for long hikes and is perfect for a quick cache seek. Possible start locations for the search are:&lt;br /&gt;
+&lt;ol&gt;
+&lt;li&gt;1. The village of Zheleznitsta&lt;/li&gt;
+&lt;li&gt;2. The summit of Cherni Vryh&lt;/li&gt;
+&lt;li&gt;3. The villages of Yarlovo and Chuipetlyovo – the paths  are on the maps and they seem to be well marked, at least in the beginning.&lt;/li&gt;
+&lt;/ol&gt;
+Near the cache place there is a wonderful panorama – Rila mountains in combination with Plana mountain- a must see &lt;br /&gt;&lt;br /&gt;
+&lt;h3&gt;Please do not attempt to access the cache after first snowfall - the rocks could get quite slippery, the paths to the location are not marked with winter markings, there is also high avalanche risk - no way to get there during the winter.&lt;/h3&gt;
+ &lt;br /&gt;
+Hope you enjoy it &lt;br /&gt;
+ &lt;br /&gt;
+ &lt;br /&gt;
+БГ&lt;br /&gt;
+ &lt;br /&gt;
+Як кеш, скрит в юго-източната част на планината – място, което се посещава рядко, по-диво е, много красиво и с много красиви панорами. Самото място, наречено връх Малък Котор, често се ползва за почивка при дълги преходи. Възможни изходни точки са:
+&lt;ol&gt;
+&lt;li&gt;1. Село Железница&lt;/li&gt;
+&lt;li&gt;2. Черни Връх&lt;/li&gt;
+&lt;li&gt;3. Селата Ярлово и Чуйпeтльово през връх Ярловки Купен – пътеките ги има, виждам ги на картите и поне в началото си са означени много добре.&lt;/li&gt;
+&lt;/ol&gt;
+Близо до кеша има красива гледка – Рила планина в комбинация с по-ниската Плана планина – много яко за снимки &lt;br /&gt;&lt;br /&gt;
+&lt;h3&gt;Моля не опитвайте да достъпите кеша след първия снеговалеж - скалите могат да бъдат много хлъзгави, пътеките до самото място не са обозначени със зимна маркировка, околните склонове са лавиноопасни - няма начин да го достъпите през зимата.&lt;/h3&gt;
+ &lt;br /&gt;
+Надявам се да ви хареса 
+        </groundspeak:long_description>
+            <groundspeak:encoded_hints>EN: Under a rock; BG: Pod kamuk</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Distant view of the cache location.jpg</ox:name>
+                    <ox:size>96611</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="27.8458333" lat="42.1778333">
+        <time>2012-06-28T07:51:03.000Z</time>
+        <name>OX3NDHC</name>
+        <desc>The Abandoned Waterslide by mollov80, Traditional Cache(3.0/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3NDHC</url>
+        <urlname>The Abandoned Waterslide</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3409206">
+            <groundspeak:name>The Abandoned Waterslide</groundspeak:name>
+            <groundspeak:placed_by>mollov80</groundspeak:placed_by>
+            <groundspeak:owner id="128198">mollov80</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True"> Well this is not exactly a traditional cache per se... You will find a container at the given coordinates alright, but you will have to figure out a way to obtain the cache itself from the container, without damaging it or removing it from its place.&lt;br/&gt;&lt;br/&gt;You will find yourself at a place somewhat forgotten by a lot of people. This is the so called Popski beach at Tsarevo. There is no way to miss the lonely, rusty, yellow and abandoned waterslide in the middle of the field, right next to the path. This waterslide was working some 10-15 years ago, but it is non functioning since then. The place is totally deserted. Very close to the slide you will have some fun geocaching.&lt;br/&gt;&lt;br/&gt;One more thing before you go! BYOP! BRING YOUR OWN PENCIL!&lt;br/&gt;&lt;br/&gt;Have fun!&lt;br/&gt;&lt;br/&gt;There is a Geocaching challenge near by: http://coord.info/CX4B4A</groundspeak:long_description>
+            <groundspeak:encoded_hints>It's a WATERslide after all... If only there was a river or... I don't know a sea to get water from. Oh, wait! There is! Also - BYOP!</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>1.5</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>P6030674.jpg</ox:name>
+                    <ox:size>44668</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>BYOP.jpg</ox:name>
+                    <ox:size>16947</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>SPOILER 51.jpg</ox:name>
+                    <ox:size>199831</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="27.8515" lat="42.1711833">
+        <time>2012-06-28T08:08:25.000Z</time>
+        <name>OX2B4ER</name>
+        <desc>Tzarevo's First by mollov80, Multi-cache(2.5/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2B4ER</url>
+        <urlname>Tzarevo's First</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="2179045">
+            <groundspeak:name>Tzarevo's First</groundspeak:name>
+            <groundspeak:placed_by>mollov80</groundspeak:placed_by>
+            <groundspeak:owner id="128198">mollov80</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Tsarevo (Bulgarian: Царево, also transliterated Carevo or Tzarevo; formerly known as Vasiliko, Βασιλικον in Greek and Michurin) is a town and seaside resort in southeastern Bulgaria, the administrative centre of a municipality in Burgas Province. It lies on a cove 70 km southeast of Burgas, on the southern Bulgarian Black Sea Coast of Strandzha.&lt;br/&gt;&lt;br/&gt;Underwater archaeological surveys have discovered amphoras from the Late Antiquity (4th–6th century) and import red-polished pottery made in Constantinople, Syria and North Africa, which indicates prospering trade in the area at the time. The city's southern peninsula has remains of a medieval fortress.&lt;br/&gt;&lt;br/&gt;The town was first mentioned as Vasiliko by the 12th-century Arab geographer Muhammad al-Idrisi. Whether it existed during the First Bulgarian Empire is unknown. In the 15th and 16th century, Vasilikoz was an Ottoman port. According to 17th-century traveller Evliya Çelebi, in 1662 the town Vasilikoz Burgas comprised a square fortress on a ridge overlooking the Black Sea surrounded by plenty of vineyards. Although its cove was suitable even for the largest of ships, it was usually avoided by the seamen because it offered little protection from the powerful eastern winds.&lt;br/&gt;&lt;br/&gt;Vasilikoz was featured in the Ottoman tax registers in the late 17th and the 18th century, as part of the kaza of Anchialos (Pomorie). According to the Austrian ambassador in Constantinople, in 1787 it was a town of 200 houses and a lively port. In 1829, another western traveller mentioned Vasiliko as a town of 220 houses, the main occupation of its residents being ship building and fishing. Another source lists its population in 1831 as 1,800 (with 434 houses).&lt;br/&gt;&lt;br/&gt;The old town was located in the southern part of the cove, where the modern quarter of Tsarevo called Vasiliko is. In the first half of the 19th century, Vasiliko had a marine of 42 ships. There were 10 windmills and a watermill in the vicinity, and the nearby vineyards produced up to 6,000 pails of wine a year. There was a Greek school which was also visited by many Bulgarians, contributing to their partial Hellenization.&lt;br/&gt;&lt;br/&gt;In 1882, a fire destroyed almost the entire town, forcing the locals to re-establish the city on a new site, on the peninsula of the northern cove called Limnos. In 1903, the new Vasiliko had 150 houses, but other statistics list 460 houses in 1898 (160 Bulgarian and 300 Greek) and 240 Greek-only houses in 1900.&lt;br/&gt;&lt;br/&gt;After the village was ceded to Bulgaria in 1913, following the Balkan Wars, its Greek population moved to Greece and was replaced by Bulgarians from Eastern Thrace. In 1926, Vasiliko had 409 households. After a new wharf was constructed 1927–1937 with the financial aid of Tsar Boris III of Bulgaria, the town was renamed to Tsarevo (a literal Bulgarian translation of Vasiliko, &quot;royal place&quot;) in his honour.&lt;br/&gt;&lt;br/&gt;Between 1950 and 1991, it was known as Michurin, in honour of the Soviet botanist Ivan Vladimirovich Michurin.&lt;br/&gt;&lt;br/&gt;Source: http://en.wikipedia.org/wiki/Tsarevo&lt;br/&gt;&lt;br/&gt;This is the first cache placed in Tzarevo and it is a multi-cache which will give you the opportunity to look around the sights in the town's center.&lt;br/&gt;&lt;br/&gt;Stage 1 - Beginning&lt;br/&gt;Your journey starts: N42 10.271 E27 51.090. The first stage begins in the middle of main street in the town of Tsarevo. At the coordinates you will find:&lt;br/&gt;&lt;br/&gt;A - remains of a plane - go to N42 10.256 E27 50.880&lt;br/&gt;B - remains of a ship - go to N42 10.245 E27 51.129&lt;br/&gt;C - remains of a fortress - go to N42 10.297 E27 51.117&lt;br/&gt;D - remains of a submarine - go to N42 10.225 E27 50.754&lt;br/&gt;&lt;br/&gt;Stage 2 - The Memorial&lt;br/&gt;&lt;br/&gt;At the new coordinates you will find a monument. How many men are in it? The answer is X. Replace the digit in the equations below.&lt;br/&gt;New coordinates are: N42 10.X57 E27 51.X70&lt;br/&gt;&lt;br/&gt;Stage 3 - The Revolutionary&lt;br/&gt;&lt;br/&gt;At the new coordinates you will find a monument of a prominent Bulgarian revolutionary, who along with his band released Tsarevo (then Vasiliko) during the Balkan War in 1912. Find out who this revolutionary was and the years of his birth and death.&lt;br/&gt;&lt;br/&gt;The year of birth was yYYy. You can replace the middle two-digits istead of YY in the equations below.&lt;br/&gt;The year of death minus 1598 = ZZZ&lt;br/&gt;&lt;br/&gt;Your new coordinates are: N42 10.XYY E27 51.ZZZ&lt;br/&gt;&lt;br/&gt;Stage 4 - The Marina 1&lt;br/&gt;&lt;br/&gt;At the new coordinates you will find:&lt;br/&gt;A - a boat - go to N42 10.XX5 E27 51.496&lt;br/&gt;C - a ship - go to N42 10.X79 E27 51.310&lt;br/&gt;C - an anchor - go to N42 10.181 E27 51.57X&lt;br/&gt;D - a hotel - go to N42 10.X54 E27 51.X33&lt;br/&gt;&lt;br/&gt;Stage 5 - The Marina 2&lt;br/&gt;&lt;br/&gt;At the new coordinates you will find:&lt;br/&gt;A - a boat - go to N42 10.50X E27 51.534&lt;br/&gt;C - a rock - go to N42 10.38X E27 51.637&lt;br/&gt;C - a bridge - go to N42 10.X79 E27 51.619&lt;br/&gt;D - a light house - go to N42 10.383 E27 51.48X&lt;br/&gt;&lt;br/&gt;Stage 6 - The Park&lt;br/&gt;&lt;br/&gt;At the new coordinates will find a statue of a woman holding an atom. How many electrons does this atom has? The answer is Q.&lt;br/&gt;Cache is located at: N42 10.Q(YY + X) E27 51.ZZZ-(9*Q +1)&lt;br/&gt;&lt;br/&gt;NOTE: At the site there are not many muggles, but there may be some so caution is advisable. Please hide the cache exactly as you found it. &lt;br/&gt;&lt;br/&gt;There is also a geocaching challenge near by: http://coord.info/CX4B4A</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.5</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>SPOILER1 2.jpg</ox:name>
+                    <ox:size>177801</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>carevo.jpg</ox:name>
+                    <ox:size>44884</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>SPOILER3.jpg</ox:name>
+                    <ox:size>158482</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>SPOILER4.jpg</ox:name>
+                    <ox:size>98721</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>SPOILER2 4.jpg</ox:name>
+                    <ox:size>248806</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="27.8409167" lat="42.19415">
+        <time>2012-06-28T08:20:39.000Z</time>
+        <name>OX30VQ9</name>
+        <desc>Arapya - The Island's Challenge by mollov80, Traditional Cache(5.0/5.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX30VQ9</url>
+        <urlname>Arapya - The Island's Challenge</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2796271">
+            <groundspeak:name>Arapya - The Island's Challenge</groundspeak:name>
+            <groundspeak:placed_by>mollov80</groundspeak:placed_by>
+            <groundspeak:owner id="128198">mollov80</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>5</groundspeak:difficulty>
+            <groundspeak:terrain>5</groundspeak:terrain>
+            <groundspeak:long_description html="True">WARNING: This is an EXTREME geocache!!! Only experienced geocachers shoud attempt this! Evil cache!&lt;br/&gt;&lt;br/&gt;   The cache is hidden on Bulgarka Island (also called Bird's Island) at Arapya beach resort, Between Tsarevo and Lozenets.&lt;br/&gt;&lt;br/&gt;   There are several ways to get to the Island. You can swim to it, but only really experienced swimmers should attempt this, so I do not recommend it. You can go there by a boat of course. You can hire a waterwheel from the beach and use it to go to the island. The approach I am recommending is to walk along the shore line very close to the rocks as far as you can reach. There will be some places you will have to walk in water and there will be some place you will have to swim trough. This route is definitely worth it - I enjoyed it very much when hiding the cache. A bit of warning though - you will need some sort of shoes, otherwise you will cut your feet on the rocks. Gloves are also a good idea. Be VERY careful all the way to the island and on the island itself. You will be walking on the edge of cliffs and in the water - caution is advised.&lt;br/&gt;&lt;br/&gt;   The island is small but very beautiful. It is inhabitable, but there is a small fisherman's cabin on it, but usually there is no one there, so don't be alarmed. On the island and near the cache's place there are nesting colonies of birds. It is very important to enjoy the birds FROM A DISTANCE and NOT TO DISTURB them. Be very, very quiet and stealth, as well as careful, when approaching the cache's place, so you wouldn't scare off the birds.&lt;br/&gt;&lt;br/&gt;   The cache is EVIL! An experienced geocacher should be able to understand what he is looking for and find the cache. It may take a while, so be patient.&lt;br/&gt;&lt;br/&gt;   I hope you will enjoy this adventure as much as I did!&lt;br/&gt;&lt;br/&gt;   Additional information&lt;br/&gt;&lt;br/&gt;   Arapya is a camping in the southern Bulgarian Black Sea coast between the resorts of Tsarevo and Lozenets. Situated in a picturesque bay surrounded by pine and deciduous forests. As at the time of socialism, and today the campsite is mainly visited by Polish, Czech and Bulgarian tourists during the summer. Founded in the mid 60s of the twentieth century, the campsite attracts many tourists who still come each year. Favorite spot for surfers because of the presence of appropriate wind. The campsite has a separate paid parking (see the supplementary waypoint).&lt;br/&gt;   The Bird Island is a small island in the gulf of camping &quot;Arapya&quot; an area of ​​7.5 acres. Its altitude is about 5 m. The island landing and nesting gulls, cormorants and other birds, hence its name.&lt;br/&gt;&lt;br/&gt;   Herring Gull (Larus argentatus)&lt;br/&gt;&lt;br/&gt;The European Herring Gull (Larus argentatus) is a large gull (up to 26 inches or 66 cm long), and is the most abundant and best known of all gulls along the shores of western Europe. It breeds across Northern Europe, Western Europe, Scandinavia and the Baltic states. Some European Herring Gulls, especially those resident in colder areas, migrate further south in winter, but many are permanent residents, e.g. in the British Isles, Iceland, or on the North Sea shores. European Herring Gulls are also abundant around inland garbage dumps, and some have even adapted to life in inland cities.&lt;br/&gt;&lt;br/&gt;European Herring Gull flocks have a loose pecking order, based on size, aggressiveness and physical strength. Adult males are usually dominant over females and juveniles in feeding and boundary disputes, whilst adult females are typically dominant when selecting nest sites.[6] Communication between these birds is complex and highly-developed — employing both calls and body language. Two identical vocalizations can have very different (sometimes opposite) meanings, for example — depending on the positioning of the head, body, wings and tail relative to each other and the ground in the calling gull. Unlike many flocking birds, European Herring Gulls do not engage in social grooming and keep physical contact between individuals to a minimum. Outside of the male/female and parent/chick relationship, each gull attempts to maintain a respectful 'safe distance' from others of its kind. Any breach of this results in fighting, though severe injuries are seldom inflicted.&lt;br/&gt;&lt;br/&gt;These are omnivores and opportunists like most Larus gulls, and will scavenge from garbage dumps, landfill sites, and sewage outflows, with refuse comprising up to half of the bird's diet. It also steals the eggs and young of other birds (including those of other gulls), as well as seeking suitable small prey in fields, on the coast or in urban areas, or robbing plovers or lapwings of their catches. European Herring Gulls may also dive from the surface of the water or engage in plunge diving in the pursuit of aquatic prey, though they are typically unable to reach depths of greater than 1–2 metres due to their natural buoyancy. During courtship, the hen will approach the cock on his own territory with a hunched, submissive posture whilst making begging calls (similar to those emitted by young gulls). If the cock chooses not to attack her and drive her away, he will respond by assuming an upright posture and making a mewing call. This is followed by a period of synchronised head-tossing movements, after which the cock will then regurgitate some food for his prospective mate. If this is accepted, copulation will follow. A nesting site will then be chosen by both birds.[6] European Herring Gulls are almost exclusively sexually monogamous and may pair up for life, provided that the couple are successful in hatching their eggs.&lt;br/&gt; &lt;br/&gt;&lt;br/&gt;Pygmy Cormorant (Phalacrocorax pygmeus)&lt;br/&gt;&lt;br/&gt;The Pygmy Cormorant is a member of the cormorant family of seabirds. It breeds in southeastern Europe and southwestern Asia. It is partially migratory, with northern populations wintering further south, mostly within in its breeding range. It is a rare vagrant to western Europe.&lt;br/&gt;&lt;br/&gt;The Pygmy Cormorant breeds colonially in wetlands with still or slowly flowing fresh water in coastal deltas and well-vegetated freshwater lakes. It builds a nest of grass and twigs in a low tree or reedbed, into which it lays its 3-6 eggs. Both parents incubate for 27–30 days, and nestlings become independent after 70 days.&lt;br/&gt;It is a medium-sized green-glossed black bird, 45–55 cm long and with a 75–90 cm wingspan. It has a long tail and short thick bill. Adults have small white feather tufts on the head neck and underparts in the breeding season. Non-breeding birds have a white throat. The sexes are similar, but juveniles are duller and browner.&lt;br/&gt;&lt;br/&gt;This species is distinguished from the Great Cormorant and the Common Shag by its much smaller size, lighter build, and long tail.&lt;br/&gt;It feeds mainly on fish, often hunting in groups, and perches in trees between fishing expeditions.&lt;br/&gt;&lt;br/&gt;Threats include the drainage and serious degradation of wetlands and their associated woodland, water pollution, disturbance, and the illegal hunting and drowning of many Pygmy Cormorants in fishing nets.&lt;br/&gt;The breeding range, once much more extensive, continues to contract, and the breeding population of the species in Europe is estimated at only 6,400 to 7,300 pairs. The biggest colony is in the Danube Delta, numbering 4,000 pairs, but this seems certain to plunge due to a massive canalisation scheme, which despite the protected status of the delta, commenced in May 2004.&lt;br/&gt;The Pygmy Cormorant is one of the species to which the Agreement on the Conservation of African-Eurasian Migratory Waterbirds (AEWA) applies.</groundspeak:long_description>
+            <groundspeak:encoded_hints>ROCK the island!</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>5.0</ox:difficulty>
+                <ox:size>2.5</ox:size>
+                <ox:terrain>5.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Boat required</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>220px-Phalacrocorax_pygmeus_1_(Martin_Mecnarowski).jpg</ox:name>
+                    <ox:size>6694</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>arapya.jpg</ox:name>
+                    <ox:size>76837</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>270px-Herring-gull,_Varna,_Bulgaria.jpg</ox:name>
+                    <ox:size>10222</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>02062011029.jpg</ox:name>
+                    <ox:size>47859</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="27.8624" lat="42.1647167">
+        <time>2012-06-28T07:58:08.000Z</time>
+        <name>OX2Y99F</name>
+        <desc>Vasiliko by mollov80, Traditional Cache(2.0/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2Y99F</url>
+        <urlname>Vasiliko</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2719924">
+            <groundspeak:name>Vasiliko</groundspeak:name>
+            <groundspeak:placed_by>mollov80</groundspeak:placed_by>
+            <groundspeak:owner id="128198">mollov80</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The church &quot;Holly Assumption&quot; stands alone on the southern peninsula of the city of Tzarevo. It was built in 1831, but its current architectural image dates from 1895, where at the same place there was an older church called &quot;Holy Trinity&quot;. For its existance, are reminding us some icons from the last decades of the XVIII century they were made from the hand of the painter John of Ahtopol. The format of these icons is smaller and their adjustment to a new altar speaks of the existence of an older one. Inflicted on them and scenic adjustments the painter D. Poliksoidu. Inside we have an icon of St. Nicholas (1805), patron of sailors and fishermen, and one of John the Baptist, respectfully inscribed by the painter John. Influence of Western Renaissance perceive the plot Archangel Michael on the head of Satan. As described examples of icon painting in Strandjan Tzarevski Church of the Holy Trinity, must be added and the works of one of the last painters: D. Poliksoidu, painted another &quot;Trinity&quot; and &quot;Assumption&quot;, &quot;Mary&quot; &quot;Jesus Christ&quot; and &quot;Archangel Gabriel&quot; and &quot;Mother&quot; of the altar gates, dating from 1895 Here you can see the icon of St. Spiridon &quot;the hand of Ierudiu Zografoozlu, marked by setting iconpaintings art.&lt;br/&gt;&lt;br/&gt;The Cache offers you a pleasant walk to the Vasiliko quarter of Tsarevo. At the place where the cache is hid, which is very near to the church you can see some rare and protected plants distributed only at the Black Sea - yellow paparonka (Glaucium flavum) and Black Sea campion (Silene euxina). NOTE: Please watch out for muggles, while looking for the cache.&lt;br/&gt;&lt;br/&gt;____________________&lt;br/&gt;&lt;br/&gt;Църквата „Успение Богородично“ самотно се извисява на южния полуостров на града. Построена е през 1831 г., но сегашният ѝ архитектурен образ датира от 1895 г. На същото място е съществувала и по-стара църква с име &quot;Света Троица&quot;. За нея напомнят някои икони от последните десетилетия на XVIII в. Те са от ръката на зографа Йоан от Ахтопол. Форматът на тези икони е по-малък и приспособяването им към нов иконостас говори за съществуването на по-стар такъв. Върху тях са нанасяни и живописни корекции от зографа Г. Поликсоиду. До нас са достигнали една икона на Свети Никола (1805 г.), патрон на моряците и рибарите, и една на Иван Кръстител, почтително надписана от зографа Йоан. Влияние на западния Ренесанс долавяме в сюжета „Архангел Михаил върху главата на Сатаната“. Към описаните образци на странджанската иконна живопис в царевската църква „Света Троица“, трябва да се добавят и творбите на едни от последните зографи: Г. Поликсоиду, нарисувал още една „Света Троица“, както и „Успение Богородично“, „Богородица“, „Иисус Христос” и „Архангел Гавраил” и „Богородица” на олтарните двери, датирани от 1895 г. Тук може да се види и иконата „Свети Спиридон“ от ръката на Иерудиу Зографоозлу, носеща белезите на залязващото иконописно изкуство.&lt;br/&gt;&lt;br/&gt;Кеша ви предлага една приятна разходка до кв. &quot;Василико&quot; на гр. Царево. На мястото където е крит кеша, което е непсредствено близо до самата църква можете да видите някои редки и защитени растения парактерни само за нашето Черноморие - жълта папаронка (Glaucium flavum) и черноморско плюскавиче (Silene euxina).</groundspeak:long_description>
+            <groundspeak:encoded_hints>Under one of the three big rocks.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>11062011174.jpg</ox:name>
+                    <ox:size>34776</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>11062011175.jpg</ox:name>
+                    <ox:size>10732</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>SPOILER2.jpg</ox:name>
+                    <ox:size>52614</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>SPOILER1.jpg</ox:name>
+                    <ox:size>215482</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="25.95505" lat="43.76355">
+        <time>2012-03-25T07:00:00.000Z</time>
+        <name>OX3FCH0</name>
+        <desc>The Alpinist hut by tsvetelin, Traditional Cache(2.0/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3FCH0</url>
+        <urlname>The Alpinist hut</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3229487">
+            <groundspeak:name>The Alpinist hut</groundspeak:name>
+            <groundspeak:placed_by>tsvetelin</groundspeak:placed_by>
+            <groundspeak:owner id="129784">tsvetelin</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;pre&gt;
+[EN]
+&lt;/pre&gt;
+&lt;p&gt;Traditional geocache in the area around village of Basarbovo, near to the &quot;Alpinist&quot; hut. It is a micro cache, there is only a pencil and a logbook inside.&lt;/p&gt;
+
+&lt;pre&gt;
+[BG]
+&lt;/pre&gt;
+&lt;p&gt;Традиционен кеш в района на с. Басарбово, близо до хижа &quot;Алпинист&quot;. Кешът е малък (микро), съдържа само бележник и химикал.&lt;/p&gt;
+
+
+ &lt;br /&gt;&lt;br /&gt; 
+&lt;pre&gt;
+[EN]
+&lt;/pre&gt;
+&lt;p&gt;The hut was built between 1959 - 1961 by climbers and tourists from tourist company &quot;Prista&quot;. The hut is a single storey building with a steep alpine roof. The main building of the hut is &quot;leaning&quot; directly on the rocks, there is an additional building with bungalows.&lt;/p&gt;
+&lt;p&gt;The hut had capacity for approximately 50 persons, but currently the bungalow annex is not used and the hut is in a process of reconstruction.&lt;/p&gt;
+&lt;p&gt;Plate mounted on the wall reads: &quot;In 1910, under the leadership of Helmut Broks, along Rousse Lom, ​​the first attempts in Bulgaria for rock climbing using a rope were made.&quot;&lt;/p&gt;
+
+&lt;pre&gt;
+[BG]
+&lt;/pre&gt;
+&lt;p&gt;Хижата е построена в периода 1959 - 1961 г. от алпинистите и туристите от туристическо дружество &quot;Приста&quot;. Хижата представлява едноетажна сграда със стръмен алпийски покрив. Основната сграда на хижата е &quot;облегната&quot; директно на скалите, има допълнителна пристройка с бунгала.&lt;/p&gt;
+&lt;p&gt;Хижата е разполагала с около 50 места, но в момента пристройката с бунгалата не се използва. Хижата е в процес на реконструкция.&lt;/p&gt;
+&lt;p&gt;Плоча, монтирана на хижата гласи: &quot;През 1910 година, под ръководството на Хелмут Брокс, по поречието на Русенски Лом се правят първите опити в България за катерене по скали с използване на въже&quot;.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;RP3FCH0 - TURN&lt;br /&gt;N 43° 46.126 E 025° 57.256&lt;br /&gt;Turn left here...</groundspeak:long_description>
+            <groundspeak:encoded_hints>[EN]
+Along to the route of the climbers there is a place, where you can enter only after &quot;Open Sesame!&quot; is shouted, there is a treasure inside, but for the size of the it only a spider will believe me.
+[BG]
+По пътя на алпинистите има място, в което можеш да влезеш само след като &quot;Сезам, отвори се!&quot; е извикано, има съкровище вътре, но за размера му само паяк ще ми повярва.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="24.7043833" lat="42.1410333">
+        <time>2012-06-28T07:44:14.000Z</time>
+        <name>OX37N6E</name>
+        <desc>Four Witches - #4 The Witch of Darkness by mollov80, Unknown Cache(3.5/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX37N6E</url>
+        <urlname>Four Witches - #4 The Witch of Darkness</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2999481">
+            <groundspeak:name>Four Witches - #4 The Witch of Darkness</groundspeak:name>
+            <groundspeak:placed_by>mollov80</groundspeak:placed_by>
+            <groundspeak:owner id="128198">mollov80</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Meet the fearsome Witch of Darkness. A very evil entity that appears only at night. The witch has a treasure buried somewhere. She usually leaves markings on the trees, so she can find it back again. If you dare go look for her treasure, but prepare yourself. You will need a good flashlight and UV light. Follow the markers and find the cache. They say you actually can see her eyes when you arrive at the final destination.</groundspeak:long_description>
+            <groundspeak:encoded_hints>At some point you should find a small plaque. Yse UV light to see the cache's coordinates. Despite that you have the coordinates you will still need to follow the markers to find the box. You are looking for two stump right next to each other. One had two markers on it and the next contains your cache.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>4.4</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>UV light</ox:tag>
+                <ox:tag>Night</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>witch_of darkness.jpg</ox:name>
+                    <ox:size>35477</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>woods_002.jpg</ox:name>
+                    <ox:size>13997</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>woods.jpg</ox:name>
+                    <ox:size>28885</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="24.7303333" lat="42.1341333">
+        <time>2012-06-28T07:33:53.000Z</time>
+        <name>OX320DR</name>
+        <desc>Hell's Woods Night Cache by mollov80, Unknown Cache(3.0/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX320DR</url>
+        <urlname>Hell's Woods Night Cache</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2830572">
+            <groundspeak:name>Hell's Woods Night Cache</groundspeak:name>
+            <groundspeak:placed_by>mollov80</groundspeak:placed_by>
+            <groundspeak:owner id="128198">mollov80</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is the first night cache in Plovdiv and the third or fourth in Bulgaria at all! Needless to say, you will need a strong flashlight or a headlamp.&lt;br/&gt;&lt;br/&gt;Mladezhki halm Hill or Youth hill (Dzhendem Tepe) is the largest of the six hills in Plovdiv. The altitude the highest point is 385 m. The Turkish name &quot;Dzhendem&quot; translates as &quot;hell&quot;. Despite the hell name the cache will offer you a nice (hopefully) walk in the park of the hill. The total length of the route is about 500 m. These coordinates will take you to a fountain, next to an abandoned house. As you arrive at the site you should stand to the northwest direction and point your light to the trees that are in that direction. You should now see the first two markers. All markers are placed at about 2-2,5 m above the ground. Follow the markers until you reach a tree with a big arrow pointing down. This way you will know that you have reached the end. Look for the cache at the base of that tree.&lt;br/&gt;&lt;br/&gt;NOTE: Although you will be looking for the cache at night and at that time there should not be any Muggles around the cache, PLEASE look around before you begin the search and remove the cache. After you are finished it is extremely important to hide the cache back EXACTLY as you found it!&lt;br/&gt;&lt;br/&gt;There is a geocaching.com challenge near by - &quot;Feed The Goat&quot; (http://coord.info/CX2CB3)&lt;br/&gt;_______________&lt;br/&gt;&lt;br/&gt;Това е първият нощен кеш в Пловдив и третият или четвъртият в България изобщо! Излишно е да казвам, че ще ви трябва силен фенер или челник.&lt;br/&gt;&lt;br/&gt;Младежкият хълм (Джендем тепе) е най-голямото от шестте тепета в Пловдив. Надморската височина на най-високата му точка е 385 м. Турското наименование &quot;джендем&quot; в превод означава &quot;ад&quot;. Въпреки адското наименование, кеша ще ви предложи приятна (надявам се) разходка в парковата част на тепето. Общата дължина на маршрута е около 500 м. Посочените координати ще ви отведат до чешмичка, до изоставена къща. Като пристигнете на мястото трябва да застанете в посока северозапад и да осветите със фенера или челника си дърветата, които се намират в тази посока. Вече би трябвало да виждате първите два маркера. Всички маркери са поставени на височина 2-2,5 м над земята. Следвайте маркерите, докато ви отведат до дърво с голяма стрелка сочеща надолу. Така ще познаете, че сте стигнали края. Потърсете кеша в основата на въпросното дърво.&lt;br/&gt;&lt;br/&gt;ВНИМАНИЕ: Въпреки, че ще търсите кеша през нощта и по това време не би трябвало да има мъгъли около мястото на кеша, МОЛЯ огледайте се добре преди да предприемете търсенето и ваденето на кеша. След като приключите е изключително важно да скриете кеша отново ТОЧНО както го намерихте! &lt;br/&gt;&lt;br/&gt;Наблизо има geocaching.com предизвикателство - &quot;Feed The Goat&quot; (http://coord.info/CX2CB3)</groundspeak:long_description>
+            <groundspeak:encoded_hints>Search at the base of the tree.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Night</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>PIC08242.jpg</ox:name>
+                    <ox:size>61752</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>nightcaching.jpg</ox:name>
+                    <ox:size>31392</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>can_logo_small.jpg</ox:name>
+                    <ox:size>4150</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>1_72-night-sky-600.jpg</ox:name>
+                    <ox:size>26507</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="27.8576333" lat="42.17455">
+        <time>2012-06-22T19:00:06.000Z</time>
+        <name>OX3NDWN</name>
+        <desc>The Lonely White Cross by mollov80, Unknown Cache(3.0/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3NDWN</url>
+        <urlname>The Lonely White Cross</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3409525">
+            <groundspeak:name>The Lonely White Cross</groundspeak:name>
+            <groundspeak:placed_by>mollov80</groundspeak:placed_by>
+            <groundspeak:owner id="128198">mollov80</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">If you have recently visited the town of Tsarevo, you probably saw the huge white cross, which is visible from the Central beach and other places in town. Youth Initiative group of Tsarevo rose this Christian symbol, which is six meters high, on the rocky promontory on the beautiful area &quot;The Crows&quot; in the bay of the Central beach. The white rocks are a well known place for the local people. After building a temporary unique approach for its odd rock shapes are already part of the urban environment and attraction in the city and its guests. The cross is made ​​of white pine transported from Velingrad. The Christian symbol is a gift from the young people for the celebration of the city &quot;St. Duh&quot;.&lt;br/&gt;&lt;br/&gt;The coordinates will take you to that particular cross. When you reach it you must take out your UV light and look for the final coordinates, written somewhere in the base of the cross. Not far from the cross will find your cache. The cache is evil kind! Do not draw the muggle's attention on yourself and hide the cache as you found it!&lt;br/&gt;&lt;br/&gt;______&lt;br/&gt;&lt;br/&gt;Ако сте посетили гр. Царево наскоро, вероятно ви е направил впечатление огромният бял кръст, който се вижда от Централния плаж и други места в града. Инициативна младежка група от Царево издига този християнски символ, висок 6 метра, върху красивия скалист нос „Гаргите” в залива на централния плаж. Белите скали са знаково място за местните хора. След изграждането на временен подход уникалните заради причудливите си форми скали, вече са част от градската среда и атракция за града и гостите му. Кръстът е изработен от бял бор, транспортиран от Велинград. Християнският символ е подарък от младите хора за празника на града „Св. Дух”.&lt;br/&gt;&lt;br/&gt;Координатите ще ви отведът именно до този кръст. Когато стигнете до него трябва да извадите ултравиолетова светлине и да потърсите финалните координати, изписани някъде в основата на кръста. Не далеч от кръста ще намерите и вашия кеш. Кешът е от типа evil! Не привличайте вниманието на мъгълите върху себе си и скрийте кеша, както сте го намерили!</groundspeak:long_description>
+            <groundspeak:encoded_hints>Hidden in plain sight!</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>UV light</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>SPOILER 45.jpg</ox:name>
+                    <ox:size>132633</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>P6081181.jpg</ox:name>
+                    <ox:size>48422</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>P6081186.jpg</ox:name>
+                    <ox:size>62366</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>P6081179.jpg</ox:name>
+                    <ox:size>20851</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="24.74725" lat="42.146">
+        <time>2012-01-25T15:51:49.000Z</time>
+        <name>OX24HEH</name>
+        <desc>The 3rd of March by KREONOV, Traditional Cache(2.4/2.7/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX24HEH</url>
+        <urlname>The 3rd of March</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1982994">
+            <groundspeak:name>The 3rd of March</groundspeak:name>
+            <groundspeak:placed_by>KREONOV</groundspeak:placed_by>
+            <groundspeak:owner id="88061">KREONOV</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">A nice quick cache we made to celebrate our national hollyday and to note a small mini-event meeting thing we did in Plovdiv. Plovdiv is become more and more attractive geocaching destination and this cache will aid to make it even more attractive.&lt;br/&gt;&lt;br/&gt;-----&lt;br/&gt;&lt;br/&gt;Един малък кеш, който спретнахме за да отпразнуваме националният празник (3-ти март) и една малка среща която си спретнахме във все по-привлекателната geocaching дестинация и този кеш ще спомогне за това.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1909670">
+                    <groundspeak:date>2010-03-02T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="128198">mollov80</groundspeak:finder>
+                    <groundspeak:text encoded="False">We hid this cache together with Mr. Kreonov! Nice idea to log it to Opencaching.com! :)</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.4</ox:difficulty>
+                <ox:size>3.4</ox:size>
+                <ox:terrain>2.7</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

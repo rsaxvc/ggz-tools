@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>2 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:38:16.987Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="100.2551" lat="50.656617">
+        <time>2011-07-16T08:00:00.000Z</time>
+        <name>OX30EM5</name>
+        <desc>Chinzo's Cache by World Traveler, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX30EM5</url>
+        <urlname>Chinzo's Cache</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2784642">
+            <groundspeak:name>Chinzo's Cache</groundspeak:name>
+            <groundspeak:placed_by>World Traveler</groundspeak:placed_by>
+            <groundspeak:owner id="56066">World Traveler</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is placed to honor our Mongolia tour guide, Chinzo.
+Chinzo will maintain the cache and will soon be a member of
+Geocaching.com.
+ &lt;br /&gt;&lt;br /&gt; You can reach the cache via a walk along the shoreline of Lake
+Khovsgol or through the Toilogt Ger Camp. Cache is approximately
+260 meters from the Toilogt entrance signpost
+&lt;p&gt;Parking is at N 50 39.268 E 100 15.218&lt;/p&gt;
+
+&lt;p&gt;Small note on cache maintenance: There is a local
+cache guardian. Name and contact info on file with
+geocaching.com.&lt;/p&gt;</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="100.16155" lat="50.61705">
+        <time>2011-07-14T08:00:00.000Z</time>
+        <name>OX30EM8</name>
+        <desc>Khosgoval Lake View by World Traveler, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX30EM8</url>
+        <urlname>Khosgoval Lake View</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2784645">
+            <groundspeak:name>Khosgoval Lake View</groundspeak:name>
+            <groundspeak:placed_by>World Traveler</groundspeak:placed_by>
+            <groundspeak:owner id="56066">World Traveler</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Great views of Khovsgol Lake and the Barren Mountain Range.
+ &lt;br /&gt;&lt;br /&gt; Cache is located at a turn out off a Mongolia mountain road where
+we had a cup of tea after our hike in the area.
+&lt;p&gt;Access to the correct road off the &quot;main lake shore road&quot; is at
+N 50 37.272 E 100 12.016. You will see the old, wooden Russian
+Resort buildings to the west. Turn west, find a road and follow the
+road up the mountain. Please bring pen or pencil to sign log.&lt;/p&gt;
+
+&lt;p&gt;Small note on cache maintenance: There is a local
+cache guardian. Name and contact info on file with
+geocaching.com.&lt;/p&gt;</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

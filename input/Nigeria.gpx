@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>1 geocache.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:38:34.077Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="5.47265" lat="5.9996167">
+        <time>2011-01-03T12:49:11.000Z</time>
+        <name>OXZTXH6</name>
+        <desc>Melle en Floris in de Franse Keuken by abumelle, Unknown Cache(3.4/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTXH6</url>
+        <urlname>Melle en Floris in de Franse Keuken</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477846">
+            <groundspeak:name>Melle en Floris in de Franse Keuken</groundspeak:name>
+            <groundspeak:placed_by>abumelle</groundspeak:placed_by>
+            <groundspeak:owner id="4848">abumelle</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Interactieve puzzeltocht van 3,5 kilometer en ongeveer 2 uur, voor kinderen rond 11 jaar (en hun ouders) rond de Amerongse Berg. Tocht voert door de geschiedenis en over het hoogste punt van Midden-Nederland. Oregons zijn te huur voor €10 nabij startpunt. Voor meer info en feedback surf naar www.florisenmelle.nl.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Een best vette interactieve digitale speurtocht bij de Amerongse Berg, geschreven voor Garmin Oregon
+
+ (en Colorado. Ook te spelen op een Androidphone of Iphone,  na downloaden resp. wheryougo of Pigo)</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.4</ox:difficulty>
+                <ox:size>3.8</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+</gpx>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>2 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:38:15.019Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="-71.14745" lat="21.4712833">
+        <time>2010-12-22T13:38:12.000Z</time>
+        <name>OX21TCZ</name>
+        <desc>Turks National Museum Cache by RLPRATT, Traditional Cache(1.1/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX21TCZ</url>
+        <urlname>Turks National Museum Cache</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1901260">
+            <groundspeak:name>Turks National Museum Cache</groundspeak:name>
+            <groundspeak:placed_by>RLPRATT</groundspeak:placed_by>
+            <groundspeak:owner id="4093">RLPRATT</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Welcome to the Turks and Caicos National Museum Cache! You will be looking for a regular size Lock/Lock container on the grounds of the Museum. If you come by cruise boat, you can take a taxi or rent a car at the cruise boat terminal and visit this cache and see the island the way you want to see it. It is about 3 miles, as the crow flies, from the cruise boat dock.&lt;br/&gt;&lt;br/&gt;This is the country's first and only museum. It occupies a 150 year old residence, Guinep House, originally built by Bermudian wreckers from timbers they salvaged from ships that crashed on nearby reefs. Today about half of its display areas are devoted to the remains of the most complete archaeological excavation ever performed in the West Indies, the wreck of a Spanish caravel (sailing ship) that sank in shallow water sometime before 1513. At first it was thought the ship wreck was Columbus' Pinta, but researchers proved otherwise. Columbus was thought to have landed here during his explorations.&lt;br/&gt;&lt;br/&gt;If you choose to visit the museum, (but not necessary to find the cache) a modest charge of $7 or $5 with proof of Cruise Boat identification.&lt;br/&gt;&lt;br/&gt;Having trouble finding the cache? Ask Nikki or any other museum worker, who will be happy to assist you.&lt;br/&gt;&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Knock, knock</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1793988">
+                    <groundspeak:date>2012-04-29T22:08:38.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="106971">JsnJWlsn</groundspeak:finder>
+                    <groundspeak:text encoded="False">
+Logged via OpenCaching for iPhone</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1233309">
+                    <groundspeak:date>2011-02-24T20:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="18846">OceanCloud</groundspeak:finder>
+                    <groundspeak:text encoded="False">Had a great encounter with a local who knew of the cache but decided to only give us &quot;hints&quot;.  Fun time!  TFTC!</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.1</ox:difficulty>
+                <ox:size>4.2</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-71.13385" lat="21.5119167">
+        <time>2010-12-22T13:32:55.000Z</time>
+        <name>OX21TEA</name>
+        <desc>Turks Light House Cache by RLPRATT, Traditional Cache(1.9/1.7/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX21TEA</url>
+        <urlname>Turks Light House Cache</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1901302">
+            <groundspeak:name>Turks Light House Cache</groundspeak:name>
+            <groundspeak:placed_by>RLPRATT</groundspeak:placed_by>
+            <groundspeak:owner id="4093">RLPRATT</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Welcome to the only light house on Grand Turk Island.  You are looking for a cammo &quot;pre-form&quot; (like a test tube) cache container that is high above the ocean just outside of the fenced-in property of the light house grounds.&lt;br/&gt;&lt;br/&gt;The cache is approximately 5 miles from the cruise boat docking area.  To get to the cache either rent a golf cart or grab a taxi to drive you around.  Both are available at the cruise boat terminal landing area.&lt;br/&gt;&lt;br/&gt;Please bring your own pencil.&lt;br/&gt;&lt;br/&gt;Enjoy the island and watch out for the horses and donkeys roaming around without a home.</groundspeak:long_description>
+            <groundspeak:encoded_hints>In the bush, 10 feet from the left of the big round cement thing.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1766791">
+                    <groundspeak:date>2012-03-05T05:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="97514">ISLANDDRAFT</groundspeak:finder>
+                    <groundspeak:text encoded="False">Ok, this says no one has found this cache since Dec 2010? That won't do.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.9</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>1.7</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

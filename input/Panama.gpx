@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>1 geocache.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:38:22.623Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="-82.4523055" lat="8.8029722">
+        <time>2012-04-18T19:33:13.000Z</time>
+        <name>OXZTJW1</name>
+        <desc>Boquete Hexagonal Stones by LORDOFTHINGS, Virtual Cache(1.0/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTJW1</url>
+        <urlname>Boquete Hexagonal Stones</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Virtual Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28468541">
+            <groundspeak:name>Boquete Hexagonal Stones</groundspeak:name>
+            <groundspeak:placed_by>LORDOFTHINGS</groundspeak:placed_by>
+            <groundspeak:owner id="109603">LORDOFTHINGS</groundspeak:owner>
+            <groundspeak:type>Virtual Cache</groundspeak:type>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The Area&lt;br/&gt;&lt;br/&gt;Boquete is located on the highlands of Panama, namely in the province of Chiriqui. The town is within sight of Panama's best known volcano.&lt;br/&gt;&lt;br/&gt;The Baru Volcano can be seen on clear mornings -otherwise covered in clouds-. If you are situated at the location of this virtual cache, you should see the Baru Volcano bearing 278 degrees at a distance of about 10 kilometers. The volcano is 3,474 meters high and at its summit the lowest recorded temperatures are around zero Celsius, the only place in Panama with such temperatures in natural form.&lt;br/&gt;&lt;br/&gt;This volcano is dormant but potentially active, in fact in 2006 an earthquake swarm ocurred underneath the mountain. Its last major eruption was around 500 A.D. and there is evidence of another catastrophic eruption around 1450 A.D. Panama was &quot;discovered&quot; in 1501.&lt;br/&gt;&lt;br/&gt;The Rock Formation&lt;br/&gt;&lt;br/&gt;When a thick lava flow cools, it contracts vertically but cracks perpendicular to its directional flow with remarkable geometric regularity - in most cases forming a regular grid of remarkable hexagonal extrusions that almost appear to be made by man.&lt;br/&gt;&lt;br/&gt;Columnar Basalts are rock formations resulting from the quick cooling of lava flow. Fractures form in a random cellular network (similar to soap bubbles, organic cells, etc.), though the average distribution of sides is six, giving the hexagonal structures an eerie man-made appearance.&lt;br/&gt;&lt;br/&gt;The Location&lt;br/&gt;&lt;br/&gt;Hopefully it remains as it is forever as some of these rocks can be seen used in ornaments of fences such as one house on the road to this cache. Nowadays it is exploited as a rock climbing venue though it is PUBLIC property.&lt;br/&gt;&lt;br/&gt;Getting There&lt;br/&gt;&lt;br/&gt;Don't count on public transport unless you hire a local taxi. Best way is by car or rent a motorcycle in the center of town. &lt;br/&gt;&lt;br/&gt;Verification By Code Phrase&lt;br/&gt;&lt;br/&gt;After visiting the location of this virtual cache, if you continue northbound on this narrow road (as most people would, few do it southbound) you will eventually come around back down to Los Naranjos. Prior to getting to Los Naranjos on your return you will pass by these coordinates (+/- 3m):&lt;br/&gt;&lt;br/&gt;     N 08* 47' 41.5&quot;   W 082* 26' 45.3&quot; &lt;br/&gt;&lt;br/&gt;Right there you will find two small businesses (cafe type) competing on the same product. Assuming you continued northbound after finding the virtual cache (or southeast at this very location), What is the motto (in spanish as they advertise it) of the cafe on your left (the better choice BTW)? &lt;br/&gt;&lt;br/&gt;Important Note to those NOT familiar with PANAMA&lt;br/&gt;If you are a visiting tourist looking to log this location you will probably ask for directions. You should note that the OpenCaching site *incorrectly* labels the cache location as &quot;Las Lajas, Chiriqui, Panama&quot;. The fact is the location name is Boquete, or more specifically Los Naranjos in Boquete. The town of Las Lajas (and district AFAIK) is at least 60 kms away in a straight line and is a coastal area, not a mountain area. So, you have been warned, don't end up in Las Lajas rather than in the indicated coordinates.&lt;br/&gt;&lt;br/&gt;FINAL NOTES TO REVIEWERS&lt;br/&gt;Thanks to the positive remarks, likewise to Manville Possum for making the point regarding the code phrase, corrective action has been taken so now it can only be logged if one has really been there. </groundspeak:long_description>
+            <groundspeak:encoded_hints>Something with fruit</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:phrase>5c65be6bf64282d7a2b84c153a73a7ead6aabc6ab3b41c09745fcd3ac6222272</ox:phrase>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>DSC04995.jpg</ox:name>
+                    <ox:size>143568</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+</gpx>

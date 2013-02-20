@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>3 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:38:05.229Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="70.4881333" lat="34.42485">
+        <time>2011-06-21T04:54:30.000Z</time>
+        <name>OXZTTKG</name>
+        <desc>Welcome to FS #1 by joshuaT, Virtual Cache(1.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTTKG</url>
+        <urlname>Welcome to FS #1</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Virtual Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28475035">
+            <groundspeak:name>Welcome to FS #1</groundspeak:name>
+            <groundspeak:placed_by>joshuaT</groundspeak:placed_by>
+            <groundspeak:owner id="36007">joshuaT</groundspeak:owner>
+            <groundspeak:type>Virtual Cache</groundspeak:type>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">There have been a few groups that have been in charge of this place and they've put their patches embedded on the ground. They are a nice sight to see when you get here so once you step off the bird look around and you'll see what it is.&lt;br/&gt;&lt;br/&gt;To claim this cache you have to answer the questions:&lt;br/&gt;1. How many patches do you see?&lt;br/&gt;2. Name 2 of the groups&lt;br/&gt;&lt;br/&gt;Just send me a message with the answers and you'll be able to claim it.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:verification/>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="70.4858167" lat="34.42485">
+        <time>2011-06-21T04:08:20.000Z</time>
+        <name>OXZTTKH</name>
+        <desc>Welcome to FS by joshuaT, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTTKH</url>
+        <urlname>Welcome to FS</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28475036">
+            <groundspeak:name>Welcome to FS</groundspeak:name>
+            <groundspeak:placed_by>joshuaT</groundspeak:placed_by>
+            <groundspeak:owner id="36007">joshuaT</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">I was cleaning my room and found something from Easter so I decided it would be a good container to hide, kind of water proof. A very easy cache and I just hope the locals don't see it or else it will walk away.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1304229">
+                    <groundspeak:date>2011-07-01T15:45:12.000Z</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="41778">ANOOBEK</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1304226">
+                    <groundspeak:date>2011-07-01T15:27:20.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="41778">ANOOBEK</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="69.0570333" lat="33.95">
+        <time>2011-04-01T03:50:50.000Z</time>
+        <name>OXZTWQ2</name>
+        <desc>Time on Your Hands by BSINGER2, Traditional Cache(2.3/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTWQ2</url>
+        <urlname>Time on Your Hands</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477067">
+            <groundspeak:name>Time on Your Hands</groundspeak:name>
+            <groundspeak:placed_by>BSINGER2</groundspeak:placed_by>
+            <groundspeak:owner id="15810">BSINGER2</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Made by Cristol. Light blue. Micro log. Micro pencil.&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1304228">
+                    <groundspeak:date>2011-07-01T15:44:35.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="41778">ANOOBEK</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1229273">
+                    <groundspeak:date>2011-04-29T16:27:06.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7047">NOHOGIS</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.3</ox:difficulty>
+                <ox:size>1.8</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+</gpx>

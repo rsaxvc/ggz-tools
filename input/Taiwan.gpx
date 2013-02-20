@@ -1,0 +1,2758 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>46 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:37:17.623Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="121.795883" lat="25.14045">
+        <time>2012-09-07T07:00:00.000Z</time>
+        <name>OX3WAED</name>
+        <desc>NMMST Regional Exploration Exhibition by COOKIE450, Traditional Cache(1.0/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3WAED</url>
+        <urlname>NMMST Regional Exploration Exhibition</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3584977">
+            <groundspeak:name>NMMST Regional Exploration Exhibition</groundspeak:name>
+            <groundspeak:placed_by>COOKIE450</groundspeak:placed_by>
+            <groundspeak:owner id="8843">COOKIE450</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">A new educational area here Keelung the north side of Taiwan island. To have a hunting and learn some from the NMMST about our marine science and technology. http://www.nmmst.gov.tw/chhtml/index/1&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Please take a picture of the cache and your hunting gear to attach with your found log. Thanks.</groundspeak:long_description>
+            <groundspeak:encoded_hints>magnetic, pavilion.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.487283" lat="23.468983">
+        <time>2011-05-15T07:00:00.000Z</time>
+        <name>OX2WEVB</name>
+        <desc>Rueigang highway - Ended by rudychung, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2WEVB</url>
+        <urlname>Rueigang highway - Ended</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2665670">
+            <groundspeak:name>Rueigang highway - Ended</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">This complete drray's Rueigang highway serials.
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;The terrain rating really depends on what vehicle you take to be
+here.&lt;/p&gt;
+&lt;p&gt;If you driven a car from north &lt;strong&gt;GC GC2KDTB
+&quot;SHITIPING&quot;&lt;/strong&gt; or from south &lt;strong&gt;GC GC252WN &quot;Tropic of
+Cancer&quot;&lt;/strong&gt; to be here, it's 1.0.&lt;/p&gt;
+&lt;p&gt;If you rafted from &lt;strong&gt;GC GC11ZKY &quot;Boating&quot;&lt;/strong&gt; to be
+here, it's 2.0.&lt;/p&gt;
+&lt;p&gt;And if you rode a bicycle from &lt;strong&gt;GC GC2NDG8
+&quot;Beginning&quot;&lt;/strong&gt;, went through &lt;strong&gt;GC GC2NDGZ
+&quot;Scenery&quot;&lt;/strong&gt; to be this &lt;strong&gt;GC GC2WEVB &quot;Ended&quot;&lt;/strong&gt;
+on this Rueigang highway, it's 3.0 plus.&lt;/p&gt;
+&lt;p&gt;Drray and the owner rudychung suggested you that you should
+really try this 3.0 biking way, if you could!&lt;/p&gt;
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>magnet</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>5.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>The Old Bridge.jpg</ox:name>
+                    <ox:size>79785</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>The 30 Biking Road.jpg</ox:name>
+                    <ox:size>41220</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>View to New Bridge.jpg</ox:name>
+                    <ox:size>49931</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>View to Another Side.jpg</ox:name>
+                    <ox:size>59276</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.5162" lat="25.020833">
+        <time>2011-04-09T07:00:00.000Z</time>
+        <name>OX2RTGZ</name>
+        <desc>Meet Kawabata-Bashi by rudychung, Unknown Cache(3.0/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2RTGZ</url>
+        <urlname>Meet Kawabata-Bashi</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2586577">
+            <groundspeak:name>Meet Kawabata-Bashi</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is a historical and geographical tour to a bridge, which
+is previously called Kawabata-Bashi.
+
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;The listed coords is just for pointing to
+this bridge, Kawabata-Bashi. It's not the coords of Final GZ.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Historical Questions:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Question A:&lt;br /&gt;
+A lady writer has written an essay about this bridge called &quot;Meet
+Kawabata-Bashi&quot; (&lt;a href=&quot;http://blog.udn.com/linju2056/968984&quot;&gt;visit link&lt;/a&gt;). She told that the
+scenery of sunset on this bridge almost made her falling to her
+knees and praying. This lady has been a reporter, visited and lived
+at Taipei before. How many weeks have she spent to go around Taiwan
+as she has mentioned in this essay? The answer is A.&lt;/p&gt;
+&lt;p&gt;Question B:&lt;br /&gt;
+This bridge is also very famous in one of Views of Zhonghe Township
+about moonlight reflection on the wave of the river underneath this
+bridge. How many famous Views are there around Zhonghe Township?
+The number is B.&lt;/p&gt;
+&lt;p&gt;Question C:&lt;br /&gt;
+When this bridge is first built at year 1938, how long (in meter)
+is this bridge? The answer is C (3 digits). Hint: xx4 meters.&lt;/p&gt;
+&lt;p&gt;Question D:&lt;br /&gt;
+The present name of this bridge is different, it is changed by a
+previous Mayor of Zhonghe Township. How many times have he won the
+election of the Major of Zhonghe Township? The answer is D.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Geographical Waypoints:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Now, let's take on some tour around this
+bridge. Please be very very careful for your safety when you walk
+or bike around this bridge. The traffic on this bridge is very very
+busy.&lt;/p&gt;
+&lt;p&gt;Waypoint E (N25 01.297, E121 30.989):&lt;br /&gt;
+Please go under this bridge to waypoint E. You could find a wooden
+ruler mounted on one of piers. The purpose of this ruler is for
+measuring the water level of the running river. Normally, such
+kinds of rulers are made by painting or metals. But this ruler is
+made by wood, which is quite unique, now. If you watch this ruler
+close enough, you could still tell that those tree annual rings are
+still clearly identified on the ruler. There are digits on the
+ruler marking the height of water level. Please count those digits,
+what's the highest number? The answer is E (2 digits).&lt;/p&gt;
+&lt;p&gt;Waypoint F (N25 01.302, E121 30.988):&lt;br /&gt;
+Now, please go upon the bridge to waypoint F. Be careful now to the
+traffic. There is a side walkway on the bridge. Please walk on it.
+Don't run into the car road. Here, you could see the present name
+of this bridge. In year 1971, this bridge have been maintained and
+a man signed the name for it. He is also the (F)th President of
+Republic of China. What's the number of F?&lt;/p&gt;
+&lt;p&gt;Waypoint E (N25 01.297, E121 30.989):&lt;br /&gt;
+Please go under the bridge and &lt;b&gt;back to waypoint E, agin&lt;/b&gt;.
+Please look for a sign as the photo below.&lt;br /&gt;
+
+&lt;/p&gt;
+&lt;p&gt;The text on the sign is...&lt;br /&gt;&lt;/p&gt;
+&lt;pre&gt;
+三菱重工業株式會社
+神戶造船所製作
+昭和 G 年
+&lt;/pre&gt;
+&lt;p&gt;The number covered by yellow dot is G.&lt;/p&gt;
+&lt;p&gt;Waypoint H (N25 01.199, E121 30.972):&lt;br /&gt;
+Now you could go under this side of bridge from waypoint G to
+waypoint H, where is the best location to looks closely to those
+piers of this bridge. Those piers look like letter 'm'. But looking
+carefully, piers of this bridge could be obviously separated into
+two types, 'n' and 'i'. The 'n' type is built at Japan-Ruled Age.
+The 'i' type is built afterward. Look cross the river, how many
+type 'n' piers which stands in the river and not painted in blue
+color? The answer is H.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Final GZ:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Now, enough sight touring. The final GZ could be calculated with
+these answers and numbers. Please use following equations to
+examine your answers and numbers...&lt;/p&gt;
+&lt;br /&gt;
+(A + B + C + D) mod 7 = 3&lt;br /&gt;
+(E + F + G + H) mod 7 = 5
+&lt;p&gt;where mod is modular arithmetic. If you're not sure what is
+modular, please check &lt;a href=&quot;http://en.wikipedia.org/wiki/Modular_arithmetic&quot;&gt;wiki page&lt;/a&gt; for
+more information.&lt;/p&gt;
+&lt;p&gt;You should come here at evening for a sunset. I believed that
+our lady reporter in Question A first met Kawabata-Bashi, here, at
+Final GZ.&lt;/p&gt;
+&lt;br /&gt;
+N25 01.(C - A*4 - B*3 - D*8)&lt;br /&gt;
+E121 31.(E*2 + F*2 + G + H - 1)
+&lt;p&gt;You can also check your coords of Final GZ on &lt;a href=&quot;http://www.geochecker.com/index.php?code=51a88dda35c7d9aac97a19e3deb123ff&amp;amp;action=check&amp;amp;wp=4743325254475a&amp;amp;name=4d656574204b617761626174612d4261736869&quot;&gt;
+Geochecker.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;SE2RTGZ - GC2RTGZ Waypoint E&lt;br /&gt;N 25° 01.297 E 121° 30.989&lt;br /&gt;&lt;br /&gt;SF2RTGZ - GC2RTGZ Waypoint F&lt;br /&gt;N 25° 01.302 E 121° 30.988&lt;br /&gt;&lt;br /&gt;SG2RTGZ - GC2RTGZ Waypoint G&lt;br /&gt;N 25° 01.038 E 121° 30.947&lt;br /&gt;&lt;br /&gt;SH2RTGZ - GC2RTGZ Waypoint H&lt;br /&gt;N 25° 01.199 E 121° 30.972 &lt;/p&gt; </groundspeak:long_description>
+            <groundspeak:encoded_hints>Final GZ is at a safe place without car traffic and about ten meters high.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Sign Bridge Steel Girder.jpg</ox:name>
+                    <ox:size>54974</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Type 'n' Piers.jpg</ox:name>
+                    <ox:size>31955</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.005667" lat="24.254367">
+        <time>2010-06-30T07:00:00.000Z</time>
+        <name>OX2B08D</name>
+        <desc>Birdwatch at Dasyueshan Forest Recreation by rudychung, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2B08D</url>
+        <urlname>Birdwatch at Dasyueshan Forest Recreation</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2175004">
+            <groundspeak:name>Birdwatch at Dasyueshan Forest Recreation</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">A Cache to Birdwatch at Dasyueshan Forest Recreation Area.&lt;br/&gt;&lt;br/&gt;Detail information, please refer to Taiwan Forest Bureau... http://www1.forest.gov.tw/RA_En_JP/0300003/RA_En-01.htm&lt;br/&gt;A detail introductory PDF here...&lt;br/&gt;http://www1.forest.gov.tw/DM/RA/0300003_DM.pdf&lt;br/&gt;Good Birdwatch blog at the area...&lt;br/&gt;http://www.rv530.com.tw/viewpostext.php?post_id=298&lt;br/&gt;&lt;br/&gt;This cache is made suitable for a birdwatch schedule. In the schedule, you should take a night in the Dasyueshan Inn. Take an easy walk around nightfall or early morning. Enjoy fresh air and quietness in the forest.&lt;br/&gt;&lt;br/&gt;Dasyueshan Forest Recreation Area is not a free park. Opening hours come from 08:00 to 17:00, and of course you could stay night in the area. Admission charge takes on person each and your car, too. It has also different charge fee between workday and weekend. Detail fee amount, please take a close look at web site of Taiwan Forest Bureau.&lt;br/&gt;&lt;br/&gt;When you put the cache back, please note the left view sight of the cache. Try to make sure, it could not be easily peeked by muggles who walk from the left side of the cache. Thanks!</groundspeak:long_description>
+            <groundspeak:encoded_hints>1. giant trees cross above a pavilion
+2. in a tree hole beside trail</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Giant Cross.jpg</ox:name>
+                    <ox:size>132281</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.25345" lat="24.2357">
+        <time>2010-11-14T08:00:00.000Z</time>
+        <name>OX2JB2F</name>
+        <desc>8-88 by rudychung, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2JB2F</url>
+        <urlname>8-88</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2393928">
+            <groundspeak:name>8-88</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Back to 80s.
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;Thanks to Ju&amp;Si, please note that the
+8-88 sign (milestone) has been moved hundreds of meters away,
+please use GPSr coords and spoiler's photo to found the cache.&lt;/p&gt;
+&lt;p&gt;Edge and I had a journey back to our 80s ages, those good old
+days of our young. We had 80s songs keep playing in our car, shared
+old memory between us, and pitied to those times not waiting us and
+passed.&lt;/p&gt;
+&lt;p&gt;And in the road, we passed through an 8-88 benchmark and decided
+to setup a cache to remember this journey.&lt;/p&gt;
+&lt;p&gt;If you visited this cache, please note your safety, because
+there is no safe place to park your car. Please log the cache and
+leave as soon as possible. The cache is put at left side of the
+photo beside us.&lt;/p&gt;
+&lt;p&gt;rudy &amp; edge&lt;br /&gt;
+
+&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>see description</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Benchmark of 8-88.jpg</ox:name>
+                    <ox:size>71390</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.501117" lat="24.902767">
+        <time>2011-11-24T08:00:00.000Z</time>
+        <name>OX387TA</name>
+        <desc>Entrance of Minor Peaks Trail 20 - Mt. Lion Head by rudychung, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX387TA</url>
+        <urlname>Entrance of Minor Peaks Trail 20 - Mt. Lion Head</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3016403">
+            <groundspeak:name>Entrance of Minor Peaks Trail 20 - Mt. Lion Head</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is the entrance of the trail 20 to Mt. Lion Head.
+
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;For you being here with a car or a motorbike, you should not
+skip an old cache &lt;a href=&quot;http://coord.info/GCR9ZA&quot;&gt;GCR9ZA&lt;/a&gt;
+nearby. Be prepared an exciting hiking trail ahead. I strongly
+suggest you climbing up the Mt. Lion Head, as myself is a climbing
+lover, too.&lt;/p&gt;
+&lt;p&gt;For you being here with a bike, the Terrain Rating should be 3
+starts. I strongly encourage you to be here in this way, as I'm
+also a bike lover.&lt;/p&gt;
+&lt;p&gt;But if you don't climb up to the Mt. top neither nor to bike
+here. The scenery here is still very reward. Welcome!&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&quot;Please post photos of your cool climbing or handsome biking,
+for I love to share and be shared photos with each other.&quot;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;This cache could be easily muggled, so
+please don't put any TB/GC in it. Thanks!&lt;/p&gt;</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>With My Bike.jpg</ox:name>
+                    <ox:size>55318</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.365683" lat="24.876883">
+        <time>2011-08-21T07:00:00.000Z</time>
+        <name>OX32NBV</name>
+        <desc>Wu Liao Jian by rudychung, Traditional Cache(1.5/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX32NBV</url>
+        <urlname>Wu Liao Jian</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2850693">
+            <groundspeak:name>Wu Liao Jian</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Wu Liao Jian is a famous hiking mountain in north Taiwan.
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;In case you didn't find the cache, you could also log a found
+with a photo of your GPSr at hand and the Wu Liao Jian
+benchmark.&lt;/p&gt;
+&lt;p&gt;It's not an easy trail for every hiker. In my opinion, it is
+more difficult than Huangdi Dian. Actually, we have failed at the
+1st time we tried to climb up the hill. We gave up and returned at
+a cache point near this one.&lt;/p&gt;
+&lt;p&gt;There are several good introduction web blogs at this mountain.
+Please refer to following geocacher blogs:&lt;br /&gt;
+hkw0704: http://www.tadpole.net.tw/2006/04/blog-post_08.html&lt;br /&gt;
+jingle_tt:
+http://jingle-tt.blogspot.com/2006/07/blog-post_30.html&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>under rock</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>On The Top.jpg</ox:name>
+                    <ox:size>27826</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.508333" lat="25.008333">
+        <time>2010-10-10T07:00:00.000Z</time>
+        <name>OX2GYHE</name>
+        <desc>10/10/10, Star Gazing at Taipei Riverbank by rudychung, Unknown Cache(3.5/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2GYHE</url>
+        <urlname>10/10/10, Star Gazing at Taipei Riverbank</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2352108">
+            <groundspeak:name>10/10/10, Star Gazing at Taipei Riverbank</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Star Gazing, also a basic skill of geocacher.
+
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;Note: The listed coordinates are BOGUS and USELESS.&lt;/p&gt;
+&lt;p&gt;10/10/2010 is the day that geocache official site celebrating
+10-10-10, ten years of geocaching and ten years of Groundspeak in
+2010. Also it's a birthday of Republic of China. We have a firework
+festival at this night.&lt;/p&gt;
+&lt;p&gt;Not just the fireworks, by standing at grand zero, you could
+clearly see the star Vega along with Altair and Deneb lined as
+Summer Triangle. It's the second brightest star in the northern
+celestial hemisphere, and a relatively close star at only 25
+light-years from Earth.&lt;/p&gt;
+&lt;p&gt;The owner of this cache won't tell you the coords of cache. But
+instead, he stood on the GZ. And at the precise time, 10/10/2010,
+10:10:10 p.m., he measured and recorded the Horizontal coordinate
+of Vega as Az/Alt: 302° 26'36&quot;/27° 31'08&quot;, hour angle (HA) as
+4h55m11.21s and right ascension (RA) as 18h37m16.10s. He asked
+geocachers to calculate the coords by themselves. And during
+measurement error of his skill and rounding error of calculation,
+he gave the last digits of coords and told that coords would looks
+like N25° 00.m90'/E121° 30.n01, where you need to calculate m,n
+your self and check it at &lt;a href=&quot;http://www.geochecker.com/index.php?code=68467c5bd6be545b213cc7a83ffbc7d9&amp;amp;action=check&amp;amp;wp=47433247594845&amp;amp;name=31302f31302f31302c20537461722047617a696e672061742054616970656920526976657262616e6b&quot;&gt;
+Geochecker.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Hint:&lt;/b&gt; Thanks to hunter, admuk, there should be no
+ambiguity by using the following formula to find the day since
+J2000.0.&lt;/p&gt;
+&lt;pre&gt;
+dwhole = 367 * year - trunc(7 * (year+trunc((month+9)/12))/4) + trunc(275 * month / 9) + day - 730531.5
+dfrac =  (hour + minute/60 + second/3600)/24
+J2000 day = dwhole + dfrac
+&lt;/pre&gt;
+&lt;pre&gt;
+where...
+hour, minute, second is the UT time
+trunc() is a truncation function which gets the integer part of a number. For example: trunc(3.1412) = 3
+&lt;/pre&gt;
+Referenced from:
+http://www2.arnes.si/~gljsentvid10/sidereal.htm&lt;br /&gt;
+Please use LMST in the referenced to calculate longitude. 
+
+&lt;h2&gt;三十國慶觀星寶&lt;/h2&gt;
+&lt;p&gt;
+觀星，這也是獵人基本技&lt;/p&gt;
+&lt;p&gt;
+請注意：寶頁的座標是假的、無效的。&lt;/p&gt;
+&lt;p&gt;2010 年 10 月 10
+日，地理藏寶的官方網站慶祝
+10-10-10 Geocaching
+十周年。這天，也是中華民國的生日。我們晚上，有國慶煙火來慶祝這特別的一天。&lt;/p&gt;
+&lt;p&gt;
+不只是煙火，站在寶點，你也可以清楚的看到中國著名的織女星。織女、牽牛、與天津四這三顆夏日明星，合組著名的夏日大三角，清清楚楚的佔據在夏日的夜空上，很容易就可以認出他們來。織女星也是北半球星空裡第二明亮的恆星，非常的靠近太陽系，僅僅
+25 光年而已。&lt;/p&gt;
+&lt;p&gt;
+這個寶的寶主他很壞，他不明講這個寶的
+GPS
+座標。不過呢，他站在寶點上，在
+&quot;西元 2010
+年十月十日，晚上十點十分十秒&quot;
+準點，他測量並且記錄了織女星在地平座標系的座標，在方位角與仰角
+(Az/Alt) 為 &quot;302° 26'36&quot;/27°
+31'08&quot;，又測量了時角 (HA)
+為 4h55m11.21s，赤經 (RA)為
+18h37m16.10s。他要求獵友們自己計算座標。不過由於技術欠佳，在測量上有誤差外，計算上也因有捨入誤差，他給了
+GPS
+座標最後的幾個數字。他說座標大概如下：N25°
+00.m90'/E121° 30.n01。 數字 m,n
+就留個各位獵友自己來計算。你也可以來這裡檢查
+&lt;a href=&quot;http://www.geochecker.com/index.php?code=68467c5bd6be545b213cc7a83ffbc7d9&amp;amp;action=check&amp;amp;wp=47433247594845&amp;amp;name=31302f31302f31302c20537461722047617a696e672061742054616970656920526976657262616e6b&quot;&gt;
+Geochecker.com&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;提示:&lt;/b&gt; 謝謝獵友 admuk
+熱情提供，請用下面的公式來計算
+J2000
+應該就不會有混淆的情況發生。&lt;/p&gt;
+&lt;pre&gt;
+dwhole = 367 * year - trunc(7 * (year+trunc((month+9)/12))/4) + trunc(275 * month / 9) + day - 730531.5
+dfrac =  (hour + minute/60 + second/3600)/24
+J2000 day = dwhole + dfrac
+&lt;/pre&gt;
+&lt;pre&gt;
+其中...
+hour, minute, second 是世界時
+trunc() 是一個函式，會拿掉小數，留下整數。比如說：trunc(3.1412) = 3
+&lt;/pre&gt;
+上面的公式參考：
+http://www2.arnes.si/~gljsentvid10/sidereal.htm。&lt;br /&gt;
+你可以使用其中 LMST
+計算的方法來求得寶點的經度。
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>tree hole</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>GeoGebra.jpg</ox:name>
+                    <ox:size>18453</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.368933" lat="24.875517">
+        <time>2011-08-21T07:00:00.000Z</time>
+        <name>OX32NCC</name>
+        <desc>The 6th Saddle to Wu Liao Jian by rudychung, Traditional Cache(1.5/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX32NCC</url>
+        <urlname>The 6th Saddle to Wu Liao Jian</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2850710">
+            <groundspeak:name>The 6th Saddle to Wu Liao Jian</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The saddle on the trail to Wu Liao Jian.
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;Please note that GPSr signal is very weak
+around GZ. Please use hint to find the cache.&lt;/p&gt;
+&lt;p&gt;In case you didn't find the cache, you could also log a found
+with a photo of your GPSr at hand and the 6th saddle routing
+sign.&lt;/p&gt;
+&lt;p&gt;Wu Liao Jian is a famous hiking mountain in north Taiwan.&lt;/p&gt;
+&lt;p&gt;It's not an easy trail for every hiker. In my opinion, it is
+more difficult than Huangdi Dian. And this 6th saddle is a
+returning point for those hikers who decided if or if not to
+continue on climbing to hill. As a matter of face, we have failed
+at the 1st time we tried to climb up the hill and returned at this
+cache point, too.&lt;/p&gt;
+&lt;p&gt;There are several good introduction web blogs at this
+mountain.&lt;br /&gt;
+Please refer to following geocacher blogs:&lt;br /&gt;
+hkw0704: http://www.tadpole.net.tw/2006/04/blog-post_08.html&lt;br /&gt;
+jingle_tt:
+http://jingle-tt.blogspot.com/2006/07/blog-post_30.html&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>under bench</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>The 6th Saddle.jpg</ox:name>
+                    <ox:size>108304</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Map 2.jpg</ox:name>
+                    <ox:size>75142</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.4958" lat="24.969367">
+        <time>2012-02-12T08:00:00.000Z</time>
+        <name>OX3CFBP</name>
+        <desc>Minor Peaks No. 16 - Nanshi Jiao Shan by rudychung, Traditional Cache(1.0/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3CFBP</url>
+        <urlname>Minor Peaks No. 16 - Nanshi Jiao Shan</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3142833">
+            <groundspeak:name>Minor Peaks No. 16 - Nanshi Jiao Shan</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The No. 16 in the Top 100 Minor Peaks of Taiwan
+
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;Nanshi Jiao Shan, also called Feng Lu Sai Shan, is the top peak
+in Zhonghe District. The Nanshan Land God is a most famous location
+for praying for richness and sightseeing.&lt;/p&gt;
+&lt;p&gt;The trail to Nanshi Jiao Shan is also call Youth Trail which
+really make you felt youth. You could follow this trail to the
+Youth Ridge. And you could also follow this trail to Tian Shang
+Shan, the No.18 Minor Peark of Taiwan.&lt;/p&gt;
+&lt;p&gt;This is a small cache. Small items may be fixable into the
+cache. I forgot to put a pen in it, hunters, please bring your pen
+for log. There is also a FTF gift in the cache, you are welcomed to
+take the gift.&lt;/p&gt;
+</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Benchmark 3.jpg</ox:name>
+                    <ox:size>62672</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Incense.jpg</ox:name>
+                    <ox:size>78512</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.40565" lat="25.032017">
+        <time>2011-12-25T08:00:00.000Z</time>
+        <name>OX39Q4P</name>
+        <desc>Peony Heart Ecological Park by rudychung, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX39Q4P</url>
+        <urlname>Peony Heart Ecological Park</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3060931">
+            <groundspeak:name>Peony Heart Ecological Park</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">A hiking trail around 1.5 hours.
+
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;This is hiking trial combined a old ancient Zhangnao Laos Trial
+(樟腦寮步道) and Xinzhuang Youth Park
+(新莊青年公園). You could park
+your car at the entrance of the Youth Park beside Changshou Road
+(長壽路). Hike up along Zhangnao Laos trial. On
+the top of the trial there is a 2-floor viewing platform where you
+could take a look downhill of Xinzhuang Dist. And then hike down
+continuously through Peony Pavilion (牡丹亭) or
+Vitality Square (活力廣場).&lt;/p&gt;
+&lt;p&gt;This is not a heavy trial, it may only take you 1.5 hours.
+However, there are few toilets along the trail or in the park. You
+have better going to WC before hiking up at the entrance.&lt;/p&gt;
+&lt;p&gt;Please refer to following web pages for more information.&lt;br /&gt;
+Official Website: http://www.chc.gov.tw/nature/park.htm&lt;br /&gt;
+Tony's Travel Diary:
+http://www.tonyhuang39.com/tony0854/tony0854.html&lt;br /&gt;&lt;/p&gt;
+</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Map 1.jpg</ox:name>
+                    <ox:size>54021</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="120.68475" lat="24.49375">
+        <time>2010-05-04T07:00:00.000Z</time>
+        <name>OX27ZC4</name>
+        <desc>Tunghsiao Mt. HuTou by rudychung, Traditional Cache(1.5/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX27ZC4</url>
+        <urlname>Tunghsiao Mt. HuTou</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2084785">
+            <groundspeak:name>Tunghsiao Mt. HuTou</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Here are great views and historic places.&lt;br/&gt;&lt;br/&gt;As one whose hometown is so close to the mountain, I wondered why have I never visited this location before when I was a child. This place is so peaceful and with good views. There are also ancient historical buildings around the mountain. I strongly suggest to have an easy walk down the hill.&lt;br/&gt;&lt;br/&gt;There are two benchmark, 2nd and 3nd grades. &lt;br/&gt;A good introductory web page could be found at Tony's Travel Journal, http://www.tonyhuang39.com/tony0700/tony0700.html here.&lt;br/&gt;And my visiting journal, rudyBike, http://rudybike.blogspot.com/2009/10/11.html here.&lt;br/&gt;&lt;br/&gt;Before taking the cache out, please take a close look on how it is placed. And be careful on putting it back. The cache is not in a good waterproofing. Thanks!  [:)]</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>On the Mountain Top.jpg</ox:name>
+                    <ox:size>40691</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Cache 1.jpg</ox:name>
+                    <ox:size>46547</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Geocoin From French Poet.jpg</ox:name>
+                    <ox:size>41547</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.680717" lat="25.041333">
+        <time>2012-03-04T08:00:00.000Z</time>
+        <name>OX3DW0Q</name>
+        <desc>Sifenwei Shan by rudychung, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3DW0Q</url>
+        <urlname>Sifenwei Shan</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3183816">
+            <groundspeak:name>Sifenwei Shan</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">641 meters altitude with two 2nd-grade benchmarks.
+
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;The view on the mountain top is grand and almost 360° view with mountains and sea around. You should come here from Dajian Shan and follow the Sifenwei trail just like we did, or ride a bike like one of my friends did. But, if you preferred, you could also drive a car and walk some meters to enjoy the view.&lt;/p&gt;
+&lt;p&gt;Sifenwei Shan&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;Sunset with Taipei 101&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;One of 3rd-Grade Benchmark&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;The Other 3rd-Grade Benchmark&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;Panorama Photo&lt;br /&gt;
+&lt;br /&gt;
+From Eric's Biking Diary, http://bike.ericchen.info/20091208.htm&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>behind fence, cover by stones.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1778841">
+                    <groundspeak:date>2012-03-07T20:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="8843">COOKIE450</groundspeak:finder>
+                    <groundspeak:text encoded="False">A foggy day. Will come back for the view. The view of this point in previous time was around of trees as I remember and now it was cleared from somehow and worth to go. Drink &amp; Go. ... Rudy... TFTC. Happy Hunting.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1778842">
+                    <groundspeak:date>2012-03-04T19:10:15.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="8843">COOKIE450</groundspeak:finder>
+                    <groundspeak:text encoded="False">Published</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>The Other 3rd-Grade Benchmark.jpg</ox:name>
+                    <ox:size>59094</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Rock Climber 1.jpg</ox:name>
+                    <ox:size>68769</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Sunset with Taipei 101.jpg</ox:name>
+                    <ox:size>16415</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Sifenwei Shan.jpg</ox:name>
+                    <ox:size>55128</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>837.jpg</ox:name>
+                    <ox:size>102689</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>One of 3rd-Grade Benchmark.jpg</ox:name>
+                    <ox:size>94271</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.573517" lat="25.0677">
+        <time>2010-06-10T07:00:00.000Z</time>
+        <name>OX25X7H</name>
+        <desc>Hunters' Trials: Rock Climbing v2.0 by rudychung, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX25X7H</url>
+        <urlname>Hunters' Trials: Rock Climbing v2.0</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2023139">
+            <groundspeak:name>Hunters' Trials: Rock Climbing v2.0</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Rock climbing, one of basic hunters' skills.
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;This is one of trials to hunters' geocaching skills. I try to
+emphasize one skill at a time, and do my best to make it easy and
+fun.&lt;/p&gt;
+&lt;p&gt;Please climb up at the ground zero, and be very careful on rock
+climbing. After reaching to the top, please seek for 4 letters
+which in form of &quot;NxEy&quot;, where x and y are numbers. The cache is at
+another location&lt;/p&gt;
+
+&lt;pre&gt;
+&quot;N 25° 04.0ab, E 121° 34.3cd&quot;
+&lt;/pre&gt;
+where...
+
+&lt;pre&gt;
+a=x+y
+b=x
+c=3*x
+d=y
+&lt;/pre&gt;
+&lt;p&gt;Please find the real cache and log your found with the pen
+inside.&lt;/p&gt;
+&lt;p&gt;I know this kind of cache should be Multiple, but since cache
+1.x is a Traditional one, let's keep it that way. For hunters who
+has already found the cache 1.x, your are welcomed to re-log your
+found of cache 2.0. Please also be very careful, I could not take
+any responsibility on your trial. Maybe, take some warm-up and
+practice before reach to the top.&lt;/p&gt;
+&lt;p&gt;The location is inside Neihu Extreme Sport park. You could come
+here with a bicycle in west entrance of the park. If you came here
+with a motorbike or a car, you could park it at COSCO or RT-MART
+and walk to the park. The part is also very quiet, look around to
+find the beauty of the park.&lt;/p&gt;
+&lt;p&gt;Hunters! You are welcomed to post your photos of rock
+climbing.&lt;/p&gt;
+
+&lt;h2&gt;
+攀岩，獵人基本技
+v2.0&lt;/h2&gt;
+&lt;p&gt;
+攀岩，獵人基本技巧之一&lt;/p&gt;
+&lt;p&gt;
+這是獵人尋寶所需的許多技巧之一。我試著尋寶只需用到一個技巧，並且儘量讓尋寶過程簡單又有趣。&lt;/p&gt;
+&lt;p&gt;
+請於寶點開始攀登，在沒有第二人確保的情況下，請小心攀登。
+當你到頂點的時候，請找找由四個英文字母與數字組成的單字。
+這個單字長這樣
+&quot;NxEy&quot;，其中 x、y
+為數字。
+寶在另一個位置：&lt;/p&gt;
+
+&lt;pre&gt;
+&quot;N 25° 04.0ab, E 121° 34.3cd&quot;
+&lt;/pre&gt;
+其中...
+
+&lt;pre&gt;
+a=x+y
+b=x
+c=3*x
+d=y
+&lt;/pre&gt;
+&lt;p&gt;
+請算出真正的座標，把寶找出來。寶裡面有支筆，可以用來記錄。&lt;/p&gt;
+&lt;p&gt;
+這樣寶應該屬於多重寶，不過，因為之前的
+v1.x
+版，都是傳統寶，就讓他保持原狀吧。
+請務必自己小心，寶主無法對你的安全負任何責任。最好在起登之前，做做熱身運動、伸展伸展身體。&lt;/p&gt;
+&lt;p&gt;
+這個寶點，就在內湖運動公園之內。你可以騎單車由西邊的入口進入。
+如果，你騎機車或開車過來，你可以停在附近的
+COSTCO
+或大潤發，然後步行到這裡。
+這公園非常的安靜，非常的值得你逛逛，找找這個公園美麗的地方。&lt;/p&gt;
+&lt;p&gt;
+獵人們，請把你們攀岩的英姿貼在網路上，讓大家來欣賞吧！&lt;/p&gt;
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Follow the red bold line between the novice and the well-trained.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Rock Climber.jpg</ox:name>
+                    <ox:size>80375</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.466233" lat="25.109517">
+        <time>2011-12-24T08:00:00.000Z</time>
+        <name>OX39JWA</name>
+        <desc>Horn of Shezi Island by rudychung, Traditional Cache(1.0/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX39JWA</url>
+        <urlname>Horn of Shezi Island</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3056827">
+            <groundspeak:name>Horn of Shezi Island</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Horn of Shezi Island
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;Coming from the south of the 3rd Avenue of Taipei City, following along the road to the north, you will end up to this point, horn of Shezi Island. The 3rd Avenue is actually combined with Yanping South Road and Yanping North Road from sec. 1 to sec. 9, beginning from Taipei Botanical Garden, going through Zhong Shan Hall, Taipei North Gate, Dihua Jie street, to this horn.&lt;/p&gt;&lt;p&gt;Standing on this horn, Keelung River is on your right, Tamsui River is on your left, Guanyinshan is in front of you, Guandu Bridge is not far away if you could swim. It is difficult to describe the beauty of Shezi Island, let's listen to &lt;a href=&quot;http://youtu.be/soDU5gXPpxI&quot;&gt;the Song of Shezi Island&lt;/a&gt;.&lt;/p&gt;</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.4561" lat="24.946333">
+        <time>2012-02-12T08:00:00.000Z</time>
+        <name>OX3CFBK</name>
+        <desc>Minor Peaks No. 18 - Tian Shang Shan by rudychung, Traditional Cache(1.5/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3CFBK</url>
+        <urlname>Minor Peaks No. 18 - Tian Shang Shan</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3142830">
+            <groundspeak:name>Minor Peaks No. 18 - Tian Shang Shan</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The No. 18 in the Top 100 Minor Peaks of Taiwan
+
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;Tian Shang Shan, a top peak in Tucheng District is very famous
+in Tung flower.&lt;/p&gt;
+&lt;p&gt;You could come here in a long trail from Nanshi Jiao Shan, or
+easily from Tung Viewing Trail which is only 1.4 km.&lt;/p&gt;
+&lt;p&gt;The view on the mountain top is very spectacular, whole Taipei
+is underneath your food, no wondering there is another name called
+Emperor Mountain.&lt;/p&gt;
+&lt;p&gt;This is a small cache. Small items may be fixable into the
+cache. I forgot to put a pen in it, hunters, please bring your pen
+for log. There is also a FTF gift in the cache, you are welcomed to
+take the gift.&lt;/p&gt;
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>under platform corner, easy reach</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Map.jpg</ox:name>
+                    <ox:size>81341</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Benchmark 2.jpg</ox:name>
+                    <ox:size>50865</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.524867" lat="25.052967">
+        <time>2012-02-21T08:00:00.000Z</time>
+        <name>OX3D24Z</name>
+        <desc>Mihashicho, Sanban Qiao by rudychung, Traditional Cache(2.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3D24Z</url>
+        <urlname>Mihashicho, Sanban Qiao</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3159922">
+            <groundspeak:name>Mihashicho, Sanban Qiao</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Two Peaceful Parks amoung Busy City.
+
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;Two parks, Linsen and Kanglee, located at intersection of Nanjing East Road and Linsen Road, combined together is used to be a grave yard in Japanese Ruled Period, called Mihashicho, a name from Sanban Qiao in Chineses. The 2nd Taiwan governor and mother of the 3rd at the time were buried in the place.&lt;/p&gt;
+&lt;p&gt;At year 1997, during developing of Taipei City, whole location is reconstructed as Chongshan No. 14 and No. 15 Park. Two shintos were moved 228 Peace Memorial Park and placed besided Hitorical Museum. It is now that these two shintos were moved back to the original place at year 2010. Two studies about the historical construction reservation were listed below, worth of you to take a look and think about it.&lt;br /&gt;
+* http://www.yuyen.tw/2011/04/blog-post_18.html&lt;br /&gt;
+* http://inhelix.blogspot.com/2010/08/1.html&lt;br /&gt;
+* http://inhelix.blogspot.com/2011/01/2.html&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Although the area is now full of residents and traffics, these two pars are still a quiet and peaceful place for taking a rest.&lt;/p&gt;
+&lt;p&gt;Thanks Tikapo. Coords is updated based on Google Satellite.&lt;/p&gt;
+</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Kanglee Park.jpg</ox:name>
+                    <ox:size>142934</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.526583" lat="25.046133">
+        <time>2010-06-16T07:00:00.000Z</time>
+        <name>OX2AB4Z</name>
+        <desc>Huashan Railway Station by rudychung, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2AB4Z</url>
+        <urlname>Huashan Railway Station</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2155677">
+            <groundspeak:name>Huashan Railway Station</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">The only left Japanese railway station in Taipei city.
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;You will never find the station in train time-table now and
+then. It was once the first large cargo station in Taiwan before
+1986, and sadly almost abandoned currently. The original area
+including an east exit of railway tunnel and platform are now be
+transformed to Central Culture Park. This should be the name of the
+cache, but I prefer it as the old one, Huashan Railway Station.&lt;/p&gt;
+&lt;p&gt;The cache is hidden in an easily reachable place. Please don't
+get yourself exposed into an electric danger.&lt;/p&gt;
+&lt;h2&gt;華山驛&lt;/h2&gt;
+&lt;p&gt;
+這是台北市裡唯一僅剩，日治時代的火車貨運站。&lt;/p&gt;
+&lt;p&gt;
+仔細看看火車時刻表，不管是現行的還是以前的時刻表，你一定看不到這一站：『華山』車站。截至民國
+75
+年，華山車站都還是台灣最大的火車貨運站。後來退役了，卻沒有得到應有的照顧。在原來車站的位置，包括鐵路隧道東出口以及火車月台，目前被改為中央文化公園。這也應是這個寶的名字，但是我寧願取它一個比較老的名字『華山驛』。&lt;/p&gt;
+&lt;p&gt;
+這個寶藏在一個可以安全拿取的地方，不要被電到囖！&lt;/p&gt;
+</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Cargo Station.jpg</ox:name>
+                    <ox:size>41989</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Nice plant near GZ.jpg</ox:name>
+                    <ox:size>65531</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.537867" lat="25.299233">
+        <time>2011-12-18T08:00:00.000Z</time>
+        <name>OX33HZJ</name>
+        <desc>Hoek Lighthouse v3 by rudychung, Traditional Cache(1.5/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX33HZJ</url>
+        <urlname>Hoek Lighthouse v3</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2877221">
+            <groundspeak:name>Hoek Lighthouse v3</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;This is the v3 version of Haima-san's original setup, &lt;a href=&quot;http://coord.info/GC16ZYM&quot;&gt;Hoek Lighthouse&lt;/a&gt;&lt;/p&gt;
+
+
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;This is the most northern point of Taiwan main island.&lt;/p&gt;
+&lt;p&gt;The cache is a round-flat tin can. It is about 10cm diameter,
+3cm tall. Watch tide,
+the GZ may not be safe.&lt;/p&gt;
+&lt;p&gt;There is a free parking at (N 25° 17.537 E 121° 32.310)&lt;/p&gt;
+
+&lt;h2&gt;富貴角燈塔續集&lt;/h2&gt;
+&lt;p&gt;
+這是海馬兄原來設置的富貴角燈塔續集，&lt;a href=&quot;http://coord.info/GC16ZYM&quot;&gt;Hoek
+Lighthouse&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+這是台灣本島最北極端的寶。&lt;/p&gt;
+&lt;p&gt;
+寶盒是圓形扁平罐頭。直徑大約
+10 公分，高度大約 3
+公分。要小心潮汐，寶點可能不安全。&lt;/p&gt;
+&lt;p&gt;
+獵友們可以在這裡免費停車
+(N 25° 17.537 E 121° 32.310)&lt;/p&gt;
+&lt;p&gt;The Most Northern
+Point/台灣最北端&lt;br /&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;PK33HZJ - Free Parking&lt;br /&gt;N 25° 17.537 E 121° 32.310&lt;br /&gt;This is a free parking</groundspeak:long_description>
+            <groundspeak:encoded_hints>In a crack on the top of a huge rock</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>The Light House.jpg</ox:name>
+                    <ox:size>54247</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Feng Lin #1.jpg</ox:name>
+                    <ox:size>62710</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Approach to the Lighthouse.jpg</ox:name>
+                    <ox:size>55509</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.5146" lat="25.0416">
+        <time>2011-03-19T07:00:00.000Z</time>
+        <name>OX2K1HF</name>
+        <desc>228 Peace Memorial Park v2 by rudychung, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2K1HF</url>
+        <urlname>228 Peace Memorial Park v2</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2414574">
+            <groundspeak:name>228 Peace Memorial Park v2</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Peace and Peaceful Park.
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;Related introduction, please visit wiki &lt;a href=&quot;http://en.wikipedia.org/wiki/228_Peace_Memorial_Park&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Please visit this park in day time. It's a clean and peaceful
+park in Taipei city, very suitable for a whole family to spending a
+nice and easy morning or evening here. Although, it's very famous
+for its night time, I suggested not to come here at night.&lt;/p&gt;
+
+&lt;h2&gt;
+二二八和平紀念公園
+二版&lt;/h2&gt;
+&lt;p&gt;
+和平與安靜的公園&lt;/p&gt;
+&lt;p&gt;
+相關的介紹，請看中文維基百科...
+&lt;a href=&quot;http://zh.wikipedia.org/wiki/%E4%BA%8C%E4%BA%8C%E5%85%AB%E5%92%8C%E5%B9%B3%E7%B4%80%E5%BF%B5%E5%85%AC%E5%9C%92&quot;&gt;
+二二八和平紀念公園
+- 维基百科&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+請於白天的時候來這個公園。這個位於台北市中心的公園，既乾淨又和平，非常的合適全家人花個輕鬆的早晨或傍晚來散步。
+雖然晚上的二二八很有名，但是我不建議晚上的時候來。&lt;/p&gt;
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>1. magnet
+2. 228 bench</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Peaceful Ground 1.jpg</ox:name>
+                    <ox:size>41395</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Peaceful Ground.jpg</ox:name>
+                    <ox:size>62237</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>National Taiwan Museum.jpg</ox:name>
+                    <ox:size>50401</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Feel The Monument.jpg</ox:name>
+                    <ox:size>74976</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.529283" lat="25.04605">
+        <time>2010-10-31T07:00:00.000Z</time>
+        <name>OX2HHVQ</name>
+        <desc>The End of The Rail v2 by rudychung, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2HHVQ</url>
+        <urlname>The End of The Rail v2</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2370655">
+            <groundspeak:name>The End of The Rail v2</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">A new hidden at 100 ROC.
+
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;The v1 is at the end of pieces of rails. The v2 is now beside the end of real rails. But it's not inside the railway, please don't try to get into it. Please search at a place where you could see the end.&lt;/p&gt;
+&lt;p&gt;Stand very still in the area and feel the ground. Could you feel a 300-kilometer-per-hour train running underneath your feet?&lt;/p&gt;
+
+&lt;h2&gt;鐵路盡頭 v2&lt;/h2&gt;
+&lt;p&gt;中華民國建國百年新藏&lt;/p&gt;
+&lt;p&gt;這個寶的第一版，藏在幾根鐵軌的盡頭。現在第二版，則藏在真正的鐵軌盡頭的附近。 不過，並沒有藏得很靠近鐵軌，所以請不要嘗試爬到鐵軌所在的隧道。 請在一個可以看到鐵道盡頭的地方來找。&lt;/p&gt;
+&lt;p&gt;好好地、靜靜地站著，並且感覺一下大地。你可以感覺到一台時速三百公里的火車，在你的腳下開過去嗎？&lt;/p&gt;
+
+&lt;p&gt;Please search at a place where you could see this view. / 站在寶點可以看個景&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;New view from GZ (2012/3/17)&lt;br /&gt;
+&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>as title, nano and magnet</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>New View from GZ.jpg</ox:name>
+                    <ox:size>55224</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>A Length of Rail.jpg</ox:name>
+                    <ox:size>93578</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>The End of The Rail v2.jpg</ox:name>
+                    <ox:size>60318</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.5106" lat="25.0427">
+        <time>2011-12-07T08:00:00.000Z</time>
+        <name>OX2C1GM</name>
+        <desc>Zhong Shan Hall v2 by rudychung, Traditional Cache(2.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2C1GM</url>
+        <urlname>Zhong Shan Hall v2</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2206011">
+            <groundspeak:name>Zhong Shan Hall v2</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Teenager's playing field of skateboards and BMX bikes.
+
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;This is a v2, re-hidden, hunters are
+welcomed to re-declare your new found to this v2.
+這是第二版重藏，有尋訪過的獵友，歡迎再次
+log found。&lt;/p&gt;
+&lt;p&gt;Official website is here, &lt;a href=&quot;http://w2.csh.taipei.gov.tw/&quot;&gt;http://w2.csh.taipei.gov.tw/&lt;/a&gt;.&lt;br /&gt;
+
+English wiki is here, &lt;a href=&quot;http://en.wikipedia.org/wiki/Zhongshan_Hall&quot;&gt;http://en.wikipedia.org/wiki/Zhongshan_Hall&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is a historical building when Taiwan is under Japanese
+rule. But now, it's a paradise of teenage skateboards and BMX
+bikes.&lt;/p&gt;
+&lt;p&gt;For your best enjoying of hunting, please visit the place after
+7:00 PM, especially at a Friday or Saturday night. Sitting here and
+watching to those young-age will guarantee reduce your age.&lt;/p&gt;
+&lt;p&gt;This cache is inspired by edgehung's TYPE25: Min-Tzu Park. If
+you have been there, it should be no problem of finding the
+cache.&lt;/p&gt;
+&lt;p&gt;Please don't post the picture of the cache
+container in your found log. Thanks! &lt;/p&gt;
+
+&lt;h2&gt;中山堂&lt;/h2&gt;
+&lt;p&gt;
+青少年玩滑板與特技單車的場地&lt;/p&gt;
+&lt;p&gt;
+中山堂的官方網站在這裡...
+&lt;a href=&quot;http://w2.csh.taipei.gov.tw/&quot;&gt;台北市中山堂管理所&lt;/a&gt;。&lt;br /&gt;
+
+中文的維基百科在這裡…
+&lt;a href=&quot;http://en.wikipedia.org/wiki/Zhongshan_Hall&quot;&gt;中山堂
+(台北市) -
+维基百科，自由的百科全書&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;
+這是一個建立於日治時期的歷史古蹟，也是青少年玩滑板與特技單車天堂。&lt;/p&gt;
+&lt;p&gt;
+來這裡最好的時間是晚上七點之後，尤其是星期五或週末的晚上。只要坐著，看看他們溜溜滑板、競技單車，保證年輕好幾歲。&lt;/p&gt;
+&lt;p&gt;
+這個寶的靈感來自獵友
+edgehung 的 TYPE25:
+民族公園。如果你曾經找過民族公園寶，找這個寶應該不成問題。&lt;/p&gt;
+&lt;p&gt;
+請獵友們不要公布寶盒的相片。感謝！
+&lt;/p&gt;
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>behind 2 triangles and in a round circle
+locate coords with Google Satellite Map</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>What a good day to hunt!.jpg</ox:name>
+                    <ox:size>78295</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.506517" lat="25.0422">
+        <time>2010-09-18T07:00:00.000Z</time>
+        <name>OX2C1FB</name>
+        <desc>Ximen, The Red House by rudychung, Traditional Cache(1.5/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2C1FB</url>
+        <urlname>Ximen, The Red House</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2205971">
+            <groundspeak:name>Ximen, The Red House</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Doorway to teenagers paradise
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;Xi-Men Ding, a place you cannot miss to experience difference
+faces of Taiwan. This location is like no others in Taiwan. It's
+Japanese Harajuku in Taipei City. Teenagers gather here for
+Japanese cultures and movies. For your best fun of visiting the
+place, you should pick a time after 7:00 PM. Especially, in Friday
+or Saturday night. Take a free walk to visit stores here, which you
+could not find at other places.&lt;/p&gt;
+&lt;p&gt;The cache is originally hidden around Xi-Men Exit 6 of Taipei
+Metro. But during it's muggled, it's now move to nearby The Red
+House. The Red House is a western-style red-brick octagonal
+structure. Detail introduction could be found at ...&lt;br /&gt;
+&lt;a href=&quot;http://www.redhouse.org.tw/info_en.html&quot;&gt;Official
+Website&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://en.wikipedia.org/wiki/Red_House_Theater&quot;&gt;Wikipedia
+of Red House Theater&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;For a geocacher like me, there is an extra excitement here, to
+hide a cache in such crowded. It's also a challenge to put the
+cache back. Please be very slinking when you seek and put the cache
+back, especially, to bagger muggles. They watch careful what is
+hold in your hands, and things you put back.&lt;/p&gt;
+&lt;p&gt;The cache has a log book and a pen in it.&lt;/p&gt;
+&lt;h2&gt;西門。紅樓&lt;/h2&gt;
+&lt;p&gt;青少年的天堂&lt;/p&gt;
+&lt;p&gt;
+想要體驗台灣的另一個面貌，你不能錯過西門町。你在台灣找不到第二個像這樣的地方，他就像日本的原宿在台北一樣。
+十來歲的青少年風迷日本的文化與電影而聚集在這裡。你應該選擇在晚上七點之後來這裡拜訪，最好是星期五或星期六的晚上。
+漫步在這裡的街道，你可以好好的逛逛這裡的商店，你在台灣的其他方找不到相同的商店。&lt;/p&gt;
+&lt;p&gt;
+這個寶本來藏在西門捷運站的六號出口，不過後來被麻瓜掉了。現在，搬到附近的紅樓。
+紅樓是西方式的紅磚建築，八角形的結構。詳細的介紹可以參考：&lt;br /&gt;
+
+&lt;a href=&quot;http://www.redhouse.org.tw/info_en.html&quot;&gt;紅樓的官方網站&lt;/a&gt;&lt;br /&gt;
+
+&lt;a href=&quot;http://en.wikipedia.org/wiki/Red_House_Theater&quot;&gt;紅樓戲院的維基百科&lt;/a&gt;&lt;br /&gt;
+&lt;/p&gt;
+&lt;p&gt;
+對我而言，在這裡藏寶很刺激，因為這裡實在太熱鬧了。要把寶放回去，也是一個很大的挑戰。
+當你尋找或著是放回去的時候，請保持神祕。尤其小心，乞丐麻瓜。
+他們會注意你手上拿著什麼，並放了什麼東西回去。&lt;/p&gt;
+&lt;p&gt;
+這個寶裡面有小本子與一支筆。&lt;/p&gt;
+&lt;p&gt;And GPSr is quite floating around GZ, please check the satellite
+picture to find the cache.  / GPS
+的訊號，在這裡飄得很厲害。請看看下面的衛星空照圖來打寶。
+&lt;br /&gt;
+&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>magnet, outdoors, iron dancing lion.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Satellite Picture.jpg</ox:name>
+                    <ox:size>21140</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.5" lat="25.0">
+        <time>2011-11-26T08:00:00.000Z</time>
+        <name>OX38ATP</name>
+        <desc>25°N 121.5°E, a Half Degree Confluence Point by rudychung, Traditional Cache(1.5/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX38ATP</url>
+        <urlname>25°N 121.5°E, a Half Degree Confluence Point</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3019298">
+            <groundspeak:name>25°N 121.5°E, a Half Degree Confluence Point</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is a half Degree Confluence point, an easy one.
+
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;I learned the &lt;a href=&quot;http://confluence.org/&quot;&gt;Degree Confluence
+Project&lt;/a&gt; from a &lt;a href=&quot;http://coord.info/CX3144&quot;&gt;worldwide
+Challenge CX3144&lt;/a&gt;. And I think it will be cool if I could visit
+one of confluence points near my home location. Badly, two points
+&lt;b&gt;25°N 121°E&lt;/b&gt; and &lt;b&gt;25°N 122°E&lt;/b&gt; nearby are both located on
+sea, which are far beyond my reach.&lt;/p&gt;
+&lt;p&gt;But, wait a minute, how about the middle point &lt;b&gt;25°N
+121.5°E&lt;/b&gt;? Wonderful! it is located in a sports ground, which is
+very easy to reach.&lt;/p&gt;
+&lt;p&gt;我從官網的&lt;a href=&quot;http://coord.info/CX3144&quot;&gt;全世界的挑戰（worldwide
+Challenge）CX3144&lt;/a&gt;知道有&lt;a href=&quot;http://confluence.org/&quot;&gt;經緯交叉點（Degree
+Confluence
+Project）&lt;/a&gt;這樣的計畫。
+我想，如果我也可以也去拜訪我家附近一兩個交叉點，那一定很有趣。
+可惜，離我最近的兩個點
+&lt;b&gt;25°N 121°E&lt;/b&gt; and &lt;b&gt;25°N 122°E&lt;/b&gt;
+都在海上，對我而言根本到不了。&lt;/p&gt;
+&lt;p&gt;
+不過，如果是這兩點的中點
+&lt;b&gt;25°N
+121.5°E&lt;/b&gt;呢？太棒了！就座落在運動場上，非常容易到達。&lt;/p&gt;
+
+&lt;p&gt;This point is located in a plane ground which is very easy to
+reach. But it is not suitable for hiding a cache. Please take few
+more steps to take the cache.&lt;/p&gt;
+&lt;p&gt;At the half Degree Confluence point &lt;b&gt;25°N 121.5°E&lt;/b&gt;, please
+take a picture to your GPS device which displaying your position,
+as close as the best. This picture along is enough for declaring
+your found.&lt;/p&gt;
+&lt;p&gt;And then take out your compass and walk in direction 28°
+clockwise from the north (roughly north-northeast, as 0° as the
+north and 90° as the east) until you meet a concrete wall. The
+cache is a smaller one than film container located at where you
+meet the wall.&lt;/p&gt;
+&lt;p&gt;
+這個點就落在運動場上，非常容易到達。不過因為不適合藏寶，所以請你多走幾步路來找到實體的寶盒。&lt;/p&gt;
+&lt;p&gt;
+請在這個半調子的經緯交叉點
+&lt;b&gt;25°N 121.5°E&lt;/b&gt;
+上，照一張你 GPS
+的相片，相片上顯示你的座標，越準越好。
+請把相片貼出來，這樣就可以
+log found 了。&lt;/p&gt;
+&lt;p&gt;
+然後，請你把指北針拿出來，由北順時鐘算
+28°（大約北北東方向，請注意：0°
+為正北方，90°
+為正東方），然後直線向前走。
+請一直走，一直遇到水泥牆壁之後，寶盒就藏在牆壁的的洞裡。&lt;/p&gt;
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>a half-covered hole on the wall</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>5.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>My Example.jpg</ox:name>
+                    <ox:size>52969</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>25N 1215E.jpg</ox:name>
+                    <ox:size>37767</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.522417" lat="25.058">
+        <time>2011-09-12T07:00:00.000Z</time>
+        <name>OX342F5</name>
+        <desc>Mackay Memorial Hospital by rudychung, Traditional Cache(1.5/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX342F5</url>
+        <urlname>Mackay Memorial Hospital</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2892119">
+            <groundspeak:name>Mackay Memorial Hospital</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Rather burn out, than rust out.
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;Mackay Memorial Hospital was established in memory of Dr. George
+Leslie Mackay who coming to Taiwan with the message salvation for
+all men.&lt;/p&gt;
+&lt;p&gt;About the history and profile of the hospital, please refer to
+&lt;a href=&quot;http://eng.mmh.org.tw/dnn/AboutMackay/History/tabid/177/language/zh-TW/Default.aspx&quot;&gt;
+http://eng.mmh.org.tw/dnn/AboutMackay/History/tabid/177/language/zh-TW/Default.aspx&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Mackay, The Black Bearded Bible Man, is the best known
+Westerners to have lived in Taiwan. A best description about his
+dedication to Taiwan was written in his dairy and which later be
+written as a song, &quot;My Final Resting Place&quot; (&lt;a href=&quot;http://vimeo.com/28176934&quot;&gt;listen to the song&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;i&gt;My Final Resting Place, by Mackay&lt;/i&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;
+How dear is Formosa to my heart!
+On that island the best of my years have been spent.
+How dear is Formosa to my heart!
+A lifetime of joy is centered here.
+I love to look up to its lofty peaks,
+down into its yawning chasms,
+and away out on its surging seas.
+How willing I am to gaze upon these forever!
+
+My heart’s ties to Taiwan cannot be severed!
+To that island I devote my life.
+My heart’s ties to Taiwan cannot be severed!
+There I find my joy.
+I should like to find a final resting place within sound of its surf,
+and under the shade of its waving bamboo.
+&lt;/pre&gt;
+&lt;h2&gt;馬偕醫院&lt;/h2&gt;
+&lt;p&gt;
+寧願燒盡，不願朽壞！&lt;/p&gt;
+&lt;p&gt;
+馬偕醫院是紀念馬偕博士，以「基督救世之精神，醫治病患之肉體、精神及靈魂」為宗旨而設立。&lt;/p&gt;
+&lt;p&gt;
+關於醫院的歷史與概觀，可以參考馬偕的網站：
+&lt;a href=&quot;http://www.mmh.org.tw/intro/intro3.asp&quot;&gt;http://www.mmh.org.tw/intro/intro3.asp&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;
+黑鬍子傳教士，馬偕，是居住於台灣的西方人。關於他對台灣的貢獻與感情，最好的描述就寫在他的日記裡，後來這段文字還被譜成一首台語歌『最後的住家』(&lt;a href=&quot;http://vimeo.com/28176934&quot;&gt;聽這首歌&lt;/a&gt;)。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;i&gt;最後的住家,
+馬偕&lt;/i&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+我全心所疼惜的台灣啊！&lt;br /&gt;
+
+我的青春攏總獻給你。&lt;br /&gt;
+
+我全心所疼惜的台灣啊！&lt;br /&gt;
+
+我一生的歡喜攏在此。&lt;br /&gt;
+
+我在雲霧中看見山嶺，&lt;br /&gt;
+
+從雲中隙孔觀望全地，&lt;br /&gt;
+
+波瀾大海遙遠的對岸，&lt;br /&gt;
+
+我意愛在此眺望無息。&lt;br /&gt;
+
+&lt;br /&gt;
+我心未可割離的台灣啊！&lt;br /&gt;
+
+我的人生攏總獻給你。&lt;br /&gt;
+
+我心未可割離的台灣啊！&lt;br /&gt;
+
+我一生的快樂攏在此。&lt;br /&gt;
+
+盼望我人生的續尾站，&lt;br /&gt;
+
+在大湧拍岸的響聲中，&lt;br /&gt;
+
+在竹林搖動的蔭影裏，&lt;br /&gt;
+
+找到一生最後的住家。&lt;br /&gt;
+&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>if GPS is floating, please take a phone call.  [:)]</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>馬偕醫院.jpg</ox:name>
+                    <ox:size>55567</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.712533" lat="25.052367">
+        <time>2012-03-03T08:00:00.000Z</time>
+        <name>OX3DQYJ</name>
+        <desc>Jiangzi TOU Shan by rudychung, Traditional Cache(1.5/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3DQYJ</url>
+        <urlname>Jiangzi TOU Shan</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3180866">
+            <groundspeak:name>Jiangzi TOU Shan</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This is NOT the #11 of Taiwan Top 100 Minor Peaks.
+
+&lt;p&gt;How embarrassed I am. I was planed to visit Jiangziliao Shan, the #11 of Taiwan Top 100 Minor Peaks, but I setup a wrong waypoint which is Jiangzitou Shan. What's wrong with my map? There are two Jiangzi TOU Shan, and no Jiangzi LIAO Shan at all. Too bad! The word TOU is total different from LIAO, and these are actually two different mountains.&lt;/p&gt;
+&lt;p&gt;But, hey, why not? Geocaching is not only mountain climbing. Although, there is no view on the hill top, but this is a place that you will never come if not geocaching. And this is what geocache all about, visit a place you will never know if no cache is placed.&lt;/p&gt;
+&lt;p&gt;Note: Although this hill is very closed to road, it is not an easy trail. Please be very careful not to lose your way. And yes, there is no view on the hill top. Sorry! ^^&lt;/p&gt;
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>2 meters to Benchmark</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>JiangzitouShan.jpg</ox:name>
+                    <ox:size>68537</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.668083" lat="25.051317">
+        <time>2012-03-04T08:00:00.000Z</time>
+        <name>OX3DVY6</name>
+        <desc>Minor Peaks No. 12 - Dajian Shan by rudychung, Traditional Cache(1.5/1.9/2.9)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3DVY6</url>
+        <urlname>Minor Peaks No. 12 - Dajian Shan</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3183737">
+            <groundspeak:name>Minor Peaks No. 12 - Dajian Shan</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Taiwan 100 Minor Peaks No. 12, Dajian Shan.
+
+ &lt;br /&gt;&lt;br /&gt; &lt;p&gt;The view on the mountain top is absolutely astounding and breath taking. You should come here by evening with nice weather and good seeing, just like my family did today. We stayed at the top until night, enjoyed so much wind breathing and an one-million-dollars-worthy night show.&lt;/p&gt;
+&lt;p&gt;From here, you could also follow an easy trail to Sifenwei San, where the view is even grand with mountains and sea.&lt;/p&gt;
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>3 meters to benchmark. covered by a new stone.
+please take a look at the spoil picture.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1778840">
+                    <groundspeak:date>2012-03-22T16:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="8843">COOKIE450</groundspeak:finder>
+                    <groundspeak:text encoded="False">A great view in good weather day to see the Taipei city view. Thanks for the cache. Happy hunting.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1771337">
+                    <groundspeak:date>2012-03-04T19:10:35.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="11485">rudychung</groundspeak:finder>
+                    <groundspeak:text encoded="False">Published</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.9</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Benchmark 1.jpg</ox:name>
+                    <ox:size>69236</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Dajian Shan.jpg</ox:name>
+                    <ox:size>63958</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>One-Milliion-Dollars Night Show.jpg</ox:name>
+                    <ox:size>28989</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Spoiler Picture.jpg</ox:name>
+                    <ox:size>67503</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Welcome!.jpg</ox:name>
+                    <ox:size>64629</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.780667" lat="25.070983">
+        <time>2012-03-03T08:00:00.000Z</time>
+        <name>OX3DQX9</name>
+        <desc>Minor Peaks No. 10 - Wufen Shan by rudychung, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3DQX9</url>
+        <urlname>Minor Peaks No. 10 - Wufen Shan</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3180826">
+            <groundspeak:name>Minor Peaks No. 10 - Wufen Shan</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">The No. 10 in the Top 100 Minor Peaks of Taiwan.
+
+&lt;p&gt;Wufen Shan is very famous in his broad view and a giant white foot-ball-like radar on the top of mountain. There are some opions you could choose to climb up this mountain. You could even drive a car to be here. My favor way is by taking Pingxi Line railway to Shifen Station, walk along railway to Coal Mine Museum, and then climb up along Shifen Trail.&lt;/p&gt;
+&lt;p&gt;The cache is a small one, with a logsheet and a pencil in it. You are welcomed to take the FTF gift.&lt;/p&gt;
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>Within 3 meters to 2nd-grade Benchmark</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>2nd Grade Benchmark.jpg</ox:name>
+                    <ox:size>94149</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>3rd Grade Benchmark.jpg</ox:name>
+                    <ox:size>81117</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Wufen Shan.jpg</ox:name>
+                    <ox:size>67978</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.730133" lat="25.053333">
+        <time>2012-03-11T08:00:00.000Z</time>
+        <name>OX3E9XV</name>
+        <desc>Minor Peaks No. 11 - Jiangziliao Shan by rudychung, Traditional Cache(1.5/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3E9XV</url>
+        <urlname>Minor Peaks No. 11 - Jiangziliao Shan</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3197180">
+            <groundspeak:name>Minor Peaks No. 11 - Jiangziliao Shan</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Taiwan 100 Minor Peaks No. 11, Jiangziliao Shan.
+
+&lt;p&gt;Jiangziliao, located between Keelung and Xizhi, is the highest mountain of Keelung City. On the mountain top, a 360° grand view of mountains and seas is the best reward to hikers and geocachers like us. However, during Keelung, located at the north of Taiwan, directly facing East China Sea, has a four-season humid subtropical climate. You have to be very good luck to see the 360° degress view.&lt;/p&gt;
+&lt;p&gt;There are some other attractions, which worth of visiting. Taian Fall is one of them, if you are a good hiker, you could also hike from here. Jiangziliao Precipice is also very famous on a huge giant slick with running water on it.&lt;/p&gt;
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>corner of platform</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Jiangziliao Shan.jpg</ox:name>
+                    <ox:size>81674</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.768617" lat="25.06285">
+        <time>2012-02-19T08:00:00.000Z</time>
+        <name>OX3CY0W</name>
+        <desc>Dingziliao Shan by rudychung, Traditional Cache(1.5/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3CY0W</url>
+        <urlname>Dingziliao Shan</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3155951">
+            <groundspeak:name>Dingziliao Shan</groundspeak:name>
+            <groundspeak:placed_by>rudychung</groundspeak:placed_by>
+            <groundspeak:owner id="11485">rudychung</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">A hill-top on the middle way to Wu Fen Shan.
+
+&lt;p&gt;This is a hill-top in the middle of the trail to Wu Fen Shan. A very historical land-god temple (more than 200 years), is right beside the trail and gives a very good shelter and resting place for hikers.&lt;/p&gt;
+&lt;p&gt;It's a pity, Donn and I could not make it to the Wufeng Shan. However, we will come back to it for a new cache there.&lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>5 meters around benchmark</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Dingziliao Shan.jpg</ox:name>
+                    <ox:size>75133</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Benchmark.jpg</ox:name>
+                    <ox:size>97933</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="120.73275" lat="24.600133">
+        <time>2007-07-08T07:00:00.000Z</time>
+        <name>OX146Z7</name>
+        <desc>Cape of Good Hope by Jing., Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX146Z7</url>
+        <urlname>Cape of Good Hope</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1049388">
+            <groundspeak:name>Cape of Good Hope</groundspeak:name>
+            <groundspeak:placed_by>Jing.</groundspeak:placed_by>
+            <groundspeak:owner id="1321">Jing.</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br /&gt;&lt;br /&gt; &lt;b&gt;There is a famous scenic site in Miaoli County, you can see the
+sea here, the train and especially is wind power generator, there
+are a lot of wind power generators here, you can close the distance
+to watch them even touch them to experience enormously and
+shake.&lt;/b&gt;&lt;br /&gt;
+
+&lt;b&gt;A lot of people choose to come here during dusk, because here is
+a good place to view and admire the sunset, Please pay attention to
+your security If you come here during dusk, there is not any street
+lamp here.&lt;/b&gt;&lt;br /&gt;
+&lt;p&gt;&lt;b&gt;The site may not be very easy to look for , because the road
+to reach here is not very clear, but I believe that you can find it
+, because you have navigation device and there are some indexes
+here can help you , go to find out this place with good vision and
+hope that you enjoy it.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;J1146Z7 - A fine view&lt;br /&gt;N 24° 36.170 E 120° 43.870&lt;br /&gt;You can't miss this site!!</groundspeak:long_description>
+            <groundspeak:encoded_hints>Do not down to the slopes</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Cape of Good Hope.jpg</ox:name>
+                    <ox:size>29449</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="120.745317" lat="21.946967">
+        <time>2011-11-01T07:00:00.000Z</time>
+        <name>OX372AJ</name>
+        <desc>Let's go sailing. Let's go diving. by COOKIE450, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX372AJ</url>
+        <urlname>Let's go sailing. Let's go diving.</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2981350">
+            <groundspeak:name>Let's go sailing. Let's go diving.</groundspeak:name>
+            <groundspeak:placed_by>COOKIE450</groundspeak:placed_by>
+            <groundspeak:owner id="8843">COOKIE450</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">A lovely place. The lovely harbor. Let's go sailing. Let's go diving. It is near my friend's diving center here. After my visit. Enjoy the sea food by the way here. Enjoy the blue sky and enjoy the fresh air. Please BYOP. Happy hunting.</groundspeak:long_description>
+            <groundspeak:encoded_hints>magnetic and fire hose</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>sail boat.jpg</ox:name>
+                    <ox:size>95019</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>vitality group.jpg</ox:name>
+                    <ox:size>108595</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>vitality.jpg</ox:name>
+                    <ox:size>117559</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.1762" lat="24.7062333">
+        <time>2011-04-22T03:07:52.000Z</time>
+        <name>OXZTWHN</name>
+        <desc>Neiwan Water Park by Ruby1988, Multi-cache(3.5/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTWHN</url>
+        <urlname>Neiwan Water Park</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="28476900">
+            <groundspeak:name>Neiwan Water Park</groundspeak:name>
+            <groundspeak:placed_by>Ruby1988</groundspeak:placed_by>
+            <groundspeak:owner id="10970">Ruby1988</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Neiwan Water Park is located within the Bay Street entrance to enter the necessary land. It has different style bridges and pavilions and the modern-style Chinese garden. People can relax in a nice place.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Neiwan Water Park </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.5</ox:difficulty>
+                <ox:size>2.5</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.0867833" lat="24.7335667">
+        <time>2011-04-22T02:11:04.000Z</time>
+        <name>OXZTWHP</name>
+        <desc>Chutung Forest Trail by Ruby1988, Traditional Cache(2.6/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTWHP</url>
+        <urlname>Chutung Forest Trail</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28476901">
+            <groundspeak:name>Chutung Forest Trail</groundspeak:name>
+            <groundspeak:placed_by>Ruby1988</groundspeak:placed_by>
+            <groundspeak:owner id="10970">Ruby1988</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Situated in Dapeng Mountain, the trail provides a good mountaineering place for the citizens in Chutung Township. Behind Pujhao Temple, there is a path directly leading to the mountain, and there you can get a bird’s eye view of the township.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Red street light</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="120.9787833" lat="24.8017">
+        <time>2011-04-01T02:09:40.000Z</time>
+        <name>OXZTWQ3</name>
+        <desc>History of glass museum by Ruby1988, Traditional Cache(2.6/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTWQ3</url>
+        <urlname>History of glass museum</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477068">
+            <groundspeak:name>History of glass museum</groundspeak:name>
+            <groundspeak:placed_by>Ruby1988</groundspeak:placed_by>
+            <groundspeak:owner id="10970">Ruby1988</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">    The museum was renovated from the autonomy house built in 1936 as a guesthouse and banquet hall to the Japanese royal family and high ranking officers. The landscape and interior design had an atmosphere of leisure residency and matched the subtle character of glass art. After Taiwan’s restoration, the building was occupied by the Takeover Committee, American army consultant allegation, and military police station, consequently. Since the function of the building was changing according to the needs of the residents, the interior compartment had changed dramatically. The two stories concrete building annex to the north eastern corner of the main building had evolved from the horizontal court building of European style to the vertical development official building. Nevertheless, this museum still maintains European style with contemporary Oriental architecture by the brick wall erected on the south western side and the classic image of the lobby. It also next to many leisure resorts such as Confucius Temple, Zoo, gymnasium, and holiday market of flower.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Big stone</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1200317">
+                    <groundspeak:date>2011-04-09T04:14:55.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="7064">shiehyt</groundspeak:finder>
+                    <groundspeak:text encoded="False">Couldn't find this cache. 
+
+--
+Sent from my iPhone Cache Me App</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.0101667" lat="24.77675">
+        <time>2011-03-05T09:01:22.000Z</time>
+        <name>OXZTX20</name>
+        <desc>Hsinchu Science Park (HSP) by shiehyt, Traditional Cache(2.0/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTX20</url>
+        <urlname>Hsinchu Science Park (HSP)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477375">
+            <groundspeak:name>Hsinchu Science Park (HSP)</groundspeak:name>
+            <groundspeak:placed_by>shiehyt</groundspeak:placed_by>
+            <groundspeak:owner id="7064">shiehyt</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The National Science Council set up the Hsinchu Science Park (HSP), the first establishment of its kind in Taiwan, on December 15, 1980. By ushering in technologies and talent from abroad, bringing about the transformation of domestic conventional industry, and fostering the upgrade of industrial technology across the board, the park is intended to help high-tech industry take off in Taiwan.&lt;br/&gt;&lt;br/&gt;Straddling the city and county of Hsinchu, the 6.5-square kilometer HSP now mainly houses semiconductor and optoelectronics ventures. Around 450 tenant companies employ roughly 140,000 people.&lt;br/&gt; &lt;br/&gt;The Hsinchu Science Park is constantly extending its industry capacity as well as competence in semiconductor, opto-electronics, information, and telecommunications industries. Thus, more than 70% of global IT industry products are initiated from companies at the Hsinchu Science Park. As a venue full of chances, the Hsinchu Science Park has turned out to be the first choice of high-tech industry investment globally.&lt;br/&gt;&lt;br/&gt;This cache is located in the dormitory area of HSP and near a beautiful artificial lake, Jingsin Lake. Please bring your own pen with you and happy hunting.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Near a tree root.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.0435" lat="24.7493833">
+        <time>2011-03-05T08:42:12.000Z</time>
+        <name>OXZTX21</name>
+        <desc>Baoshan Reservoir by shiehyt, Traditional Cache(2.0/3.0/2.9)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTX21</url>
+        <urlname>Baoshan Reservoir</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477376">
+            <groundspeak:name>Baoshan Reservoir</groundspeak:name>
+            <groundspeak:placed_by>shiehyt</groundspeak:placed_by>
+            <groundspeak:owner id="7064">shiehyt</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Baoshan Reservoir is located in Baoshan Township, Hsinchu County, within the catchment area of about 3.20 square kilometers. It supports Hsinchu Science Park(HSP), industrial water, Hsinchu, JuTong, Baoshan, and other regions of drinking water.&lt;br/&gt;&lt;br/&gt;Reservoir has a lake trail about 3.2 km, passing through two beautiful suspension bridges. In the end of April and early May each year, there are full of snow-white tung blossom around the reservoir and it is very suitable for outing.&lt;br/&gt;&lt;br/&gt;Please bring your own pen with you and happy hunting.</groundspeak:long_description>
+            <groundspeak:encoded_hints>In a tree hole</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1283194">
+                    <groundspeak:date>2011-06-08T13:22:41.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="31787">raphaie</groundspeak:finder>
+                    <groundspeak:text encoded="False">Logged via OpenCaching Android app.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.0399833" lat="24.8070333">
+        <time>2011-03-04T09:25:19.000Z</time>
+        <name>OXZTX24</name>
+        <desc>HSR Hsinchu Station by Ruby1988, Traditional Cache(1.1/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTX24</url>
+        <urlname>HSR Hsinchu Station</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477379">
+            <groundspeak:name>HSR Hsinchu Station</groundspeak:name>
+            <groundspeak:placed_by>Ruby1988</groundspeak:placed_by>
+            <groundspeak:owner id="10970">Ruby1988</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">HSR Hsinchu Station is an elevated station with outstanding design which won the Award of Taiwan Architecture 2006.  The design of THSR Hsinchu Station is with the concept of traditional Hakka buildings; wafer and semi-conductor shows the characteristics of Hsinchu, a city with high tech industry and culture of ancient town. &lt;br/&gt;&lt;br/&gt; The design of streamline roof is for adaptability of the strong wind in Hsinchu.  The first floor is the lobby of ticket office, shops and transfer area, the second floor is the coulisse, and the third floor is the platform. &lt;br/&gt;&lt;br/&gt; HSR Hsinchu Station provides all-in-one services for travelers to Hsinchu downtown and the Science Park, it will connect to the Neiwan line of Taiwan Railway Administration in the future.  Beside the station is THSR Exhibition, which introduces the whole transportation system and simulation station.  It is free of visit with reservation.&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1164216">
+                    <groundspeak:date>2011-03-05T08:09:08.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7064">shiehyt</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found it by my daughter.
+TFTC.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.1</ox:difficulty>
+                <ox:size>3.5</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.0196" lat="24.8223">
+        <time>2011-03-04T09:11:20.000Z</time>
+        <name>OXZTX25</name>
+        <desc>Hsinchu County Stadium by Ruby1988, Traditional Cache(1.2/2.0/2.9)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTX25</url>
+        <urlname>Hsinchu County Stadium</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477380">
+            <groundspeak:name>Hsinchu County Stadium</groundspeak:name>
+            <groundspeak:placed_by>Ruby1988</groundspeak:placed_by>
+            <groundspeak:owner id="10970">Ruby1988</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">There are a stadium, gym, and swimming pool with warm water option in the County Stadium, where people can go swimming, play sports, and dance or learn martial arts. Besides large sports events, it is also a great recreational place for county residents.</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1766938">
+                    <groundspeak:date>2012-03-03T16:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="94843">JOEJOET3</groundspeak:finder>
+                    <groundspeak:text encoded="False">Does this cache still there?</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1206756">
+                    <groundspeak:date>2011-04-17T10:39:23.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="17140">CV1706</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found it. 
+TFTC
+TNLN</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1204921">
+                    <groundspeak:date>2011-04-12T00:44:42.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7664">mikehsiao</groundspeak:finder>
+                    <groundspeak:text encoded="False">Nice hide but easy find
+
+--
+Sent from my iPhone Cache Me App</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1164215">
+                    <groundspeak:date>2011-03-05T08:07:13.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7064">shiehyt</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found this cache. 
+TFTC.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>1.2</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="120.8617" lat="23.6888">
+        <time>2008-11-17T08:00:00.000Z</time>
+        <name>OX1J9ZG</name>
+        <desc>Dream Works of the Mei by COOKIE450, Traditional Cache(2.0/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX1J9ZG</url>
+        <urlname>Dream Works of the Mei</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1469354">
+            <groundspeak:name>Dream Works of the Mei</groundspeak:name>
+            <groundspeak:placed_by>COOKIE450</groundspeak:placed_by>
+            <groundspeak:owner id="8843">COOKIE450</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br/&gt;&lt;br/&gt; The wine of recently famous movie cape no.7 in here. With many super cute big dolls here. This is a black magnetic nano cache.&lt;br/&gt;&lt;br/&gt;You can preview through the website here.&lt;br/&gt;http://www.hsinifa.com.tw/&lt;br/&gt;&lt;br/&gt;I need to add one more note for cacher know to reduce the confusion. The coordinate I posted is located in the front gate which with better signal reception. Not the place of the cache. The cache is located in one black color sign that in the left side while cacher faces to the store.</groundspeak:long_description>
+            <groundspeak:encoded_hints>back of the sign in the front door</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.78265" lat="25.1438833">
+        <time>2005-03-20T08:00:00.000Z</time>
+        <name>OXN6A2</name>
+        <desc>Historic Battery (back of NTOU) by COOKIE450, Traditional Cache(1.6/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXN6A2</url>
+        <urlname>Historic Battery (back of NTOU)</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="631689">
+            <groundspeak:name>Historic Battery (back of NTOU)</groundspeak:name>
+            <groundspeak:placed_by>COOKIE450</groundspeak:placed_by>
+            <groundspeak:owner id="8843">COOKIE450</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">easy to reach. &lt;br/&gt;&lt;br/&gt; You can start from this coordinate &quot;N 25-08.937 E 121-46.495&quot; the Longun&lt;br/&gt;Trail in National Taiwan Ocean University, NTOU, that nearby 1st student&lt;br/&gt;dormitory. Uphill to the top of the trail and follow the goal's coordinate to get it.&lt;br/&gt;&lt;br/&gt;With good view to the ocean, fishing port and Keelung island.</groundspeak:long_description>
+            <groundspeak:encoded_hints>bottom of tree trunk</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1158456">
+                    <groundspeak:date>2011-02-26T05:08:05.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="11376">PATRICK.TAIWAN</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found it with family. Good place with great views. TFTC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>follow the picture.jpg</ox:name>
+                    <ox:size>73433</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>superMariao.jpg</ox:name>
+                    <ox:size>48869</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>yellow eTrex.jpg</ox:name>
+                    <ox:size>49360</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="120.7987667" lat="24.1801167">
+        <time>2005-08-07T08:00:00.000Z</time>
+        <name>OXQ1PD</name>
+        <desc>Tou Ke Mountain by Jing., Traditional Cache(1.6/2.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXQ1PD</url>
+        <urlname>Tou Ke Mountain</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="686849">
+            <groundspeak:name>Tou Ke Mountain</groundspeak:name>
+            <groundspeak:placed_by>Jing.</groundspeak:placed_by>
+            <groundspeak:owner id="1321">Jing.</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">  &lt;br/&gt;&lt;br/&gt; The Tou Ke Mountain located the eastern border place of Taichung City.&lt;br/&gt;There are five hiking paths on reach the Tou Ke Mountaintop&lt;br/&gt;I proposed hiking path V&lt;br/&gt;&lt;br/&gt;Hiking Path V&lt;br/&gt;It is about 2130 meters long and between 595 and 859 meters above sea level. The path mainly goes along the crest line between Tou Ke Mountain and Er Ke Mountain and the main cre st of the Tou Ke Mountain System. It connects Hiking Paths I, II, III, and IV as it winds along the top of each mountain. Along the way are several great viewing points, such as Heisong Pavilion, Gaofong Pavilion, Tou Ke Ridge, and Mu Ta. The Tou Ke Ridge's elevation is 859 meters, the highest point of Taichung City.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Original Contents:&lt;br/&gt;key ring&lt;br/&gt;toy cat&lt;br/&gt;toy dinosaur&lt;br/&gt;pencil&lt;br/&gt;pencil sharpener&lt;br/&gt;notebook&lt;br/&gt;TB Wooden &quot;E=Mc2&quot; Nickel&lt;br/&gt;&lt;br/&gt;Additional Waypoints&lt;br/&gt;J0Q1PD - Mountaintop&lt;br/&gt;N 24° 10.768 E 120° 47.997&lt;br/&gt;Have nice view in Mountaintop&lt;br/&gt;J1Q1PD - Parking area for Hiking Path 3&lt;br/&gt;N 24° 10.750 E 120° 46.993&lt;br/&gt;I come back to check this cache on February 1 , 2006&lt;br/&gt;this time I go to the mountaintop from Hiking Path 3, so I add this waypoint.&lt;br/&gt;&lt;br/&gt;it is a parking area if you drive you can parking here (free)&lt;br/&gt;J2Q1PD - Starting point for Hiking Path 3&lt;br/&gt;N 24° 10.730 E 120° 47.311&lt;br/&gt;I come back to check this cache on February 1 , 2006&lt;br/&gt;this time I go to the mountaintop from Hiking Path 3, so I add this waypoint.&lt;br/&gt;&lt;br/&gt;It about 2.5 hours of hiking back and forth on this Path 3&lt;br/&gt;J3Q1PD - Parking area for Hiking Path 2&lt;br/&gt;N 24° 11.035 E 120° 47.110&lt;br/&gt;it is a parking area if you drive you can parking here (free)&lt;br/&gt;J4Q1PD - Starting point for Hiking Path 2&lt;br/&gt;N 24° 11.057 E 120° 47.147&lt;br/&gt;It about 3 hours of hiking back and forth on this Path 2&lt;br/&gt;J5Q1PD - Starting point for Hiking Path 5&lt;br/&gt;N 24° 11.532 E 120° 47.762&lt;br/&gt;It about 3 hours of hiking back and forth on this Path 5&lt;br/&gt;J6Q1PD - Chung-cheng camping area for Hiking Path 4&lt;br/&gt;N 24° 10.436 E 120° 46.918&lt;br/&gt;This coords is the gate of the camping area, you will pass this area first then reaching the starting point of Hiking Path 4 and you can find the place to park the car in this area.&lt;br/&gt;J7Q1PD - Starting point for Hiking Path 4&lt;br/&gt;N 24° 10.380 E 120° 47.094&lt;br/&gt;It about 3 hours of hiking back and forth on this Path 4&lt;br/&gt;J8Q1PD - Parking area for Hiking Path 1&lt;br/&gt;N 24° 11.383 E 120° 47.082&lt;br/&gt;Parking area for Hiking Path 1 (free)&lt;br/&gt;J9Q1PD - Starting point for Hiking Path 1&lt;br/&gt;N 24° 11.369 E 120° 47.111&lt;br/&gt;It about 3.5 hours of hiking back and forth on this Path 1</groundspeak:long_description>
+            <groundspeak:encoded_hints>Two storeys path, In the bottom</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1713897">
+                    <groundspeak:date>2011-12-28T16:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="1321">Jing.</groundspeak:finder>
+                    <groundspeak:text encoded="False">SNEHAGOHAD
+
+Please describe your comment If you really find the cache and I'll delete your log If I didn't see your signature in logbook.
+</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1198806">
+                    <groundspeak:date>2011-04-03T16:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="8843">COOKIE450</groundspeak:finder>
+                    <groundspeak:text encoded="False">Finally. I found it after several try. Thanks to the cache owner for this cache. I like the path 5-1. I can enjoy the forest in this path for a such early morning. Happy hunting.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Hiking Path V.jpg</ox:name>
+                    <ox:size>82069</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="120.97105" lat="24.7760833">
+        <time>2011-01-26T02:50:40.000Z</time>
+        <name>OXZTXBX</name>
+        <desc>Ching-Tsao Lake  by Ruby1988, Traditional Cache(1.2/1.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTXBX</url>
+        <urlname>Ching-Tsao Lake </urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477682">
+            <groundspeak:name>Ching-Tsao Lake </groundspeak:name>
+            <groundspeak:placed_by>Ruby1988</groundspeak:placed_by>
+            <groundspeak:owner id="10970">Ruby1988</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Ching-Tsao Lake (meaning the lake of green grass) used to be a mini-sized lake hundreds of years ago, which was also used as a dam. After the end of the Japanese colonial period in Taiwan, the first magistrate of Hsin-chu County ordered to reconstruct the dam, resulting in a 30 square kilometer area for storing water. It was the first large-scaled construction in Hsin-chu since the establishment of the local government.</groundspeak:long_description>
+            <groundspeak:encoded_hints>a water pipe</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1766939">
+                    <groundspeak:date>2012-03-03T16:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="94843">JOEJOET3</groundspeak:finder>
+                    <groundspeak:text encoded="False">I search all pipe. But I can't found anything.
+Does this cache still there?</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1172234">
+                    <groundspeak:date>2011-03-11T16:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="8843">COOKIE450</groundspeak:finder>
+                    <groundspeak:text encoded="False">DNF. After back I rechecked the cache on internet to see one previous log. beside &quot;chair&quot;??? Will find time to hunt this cache again to see any luck. Happy Hunting. ¿¿??¿¿¿¿¿¿</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1159429">
+                    <groundspeak:date>2011-02-27T09:36:35.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7064">shiehyt</groundspeak:finder>
+                    <groundspeak:text encoded="False">Nice hiding! All of my family with 3 dogs search this cache about 30 minutes. When I am giving up and sitting on a chair, my wife found it near the chair suddenly.
+
+Many visitors are near the hidden place. Put this cache back costs me a long while.
+
+T.F.T.C.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.2</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.011875" lat="24.829495">
+        <time>2011-01-19T09:52:28.000Z</time>
+        <name>OXZTXD7</name>
+        <desc>Cultural Affairs Bureau of Hsinchu County Government by Ruby1988, Traditional Cache(1.1/1.1/2.8)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTXD7</url>
+        <urlname>Cultural Affairs Bureau of Hsinchu County Government</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477723">
+            <groundspeak:name>Cultural Affairs Bureau of Hsinchu County Government</groundspeak:name>
+            <groundspeak:placed_by>Ruby1988</groundspeak:placed_by>
+            <groundspeak:owner id="10970">Ruby1988</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">A cache close to the Jeibei Kuang Ming Business Areaand the culture centre . There are lots of delicious food, a variety of choices.&lt;br/&gt;This cache is easy to find and it is offering a convenient place to do your logging. As the container is a yellow plastic box.&lt;br/&gt;If possible please share some of your Hsinchu pictures you made during the visit of this interesting place.&lt;br/&gt;Remember to bring a pen with you as there is none in the container and please avoid to use stickers for your log as the log book only has limited space.&lt;br/&gt;&lt;br/&gt;Enjoy!!!</groundspeak:long_description>
+            <groundspeak:encoded_hints>Big pothole</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1766936">
+                    <groundspeak:date>2012-03-03T16:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="94843">JOEJOET3</groundspeak:finder>
+                    <groundspeak:text encoded="False">TFTC!</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1206758">
+                    <groundspeak:date>2011-04-17T10:42:04.000Z</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="17140">CV1706</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found it. 
+TFTC
+TNLN</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1206757">
+                    <groundspeak:date>2011-04-17T10:41:42.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="17140">CV1706</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1198175">
+                    <groundspeak:date>2011-04-05T00:29:46.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="11376">PATRICK.TAIWAN</groundspeak:finder>
+                    <groundspeak:text encoded="False">I found this cache with my family. TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1172232">
+                    <groundspeak:date>2011-03-11T16:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="8843">COOKIE450</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found it,&quot;THIS IS MY FIRST OPENCACHING find. Hope it is a GOOD opening. Happy Hunting. ¿¿¿!!~~</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.8</ox:awesomeness>
+                <ox:difficulty>1.1</ox:difficulty>
+                <ox:size>2.8</ox:size>
+                <ox:terrain>1.1</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.8033" lat="25.1458167">
+        <time>2010-02-22T08:00:00.000Z</time>
+        <name>OX249WG</name>
+        <desc>New Open Chao-jin Coastal Park by COOKIE450, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX249WG</url>
+        <urlname>New Open Chao-jin Coastal Park</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1975708">
+            <groundspeak:name>New Open Chao-jin Coastal Park</groundspeak:name>
+            <groundspeak:placed_by>COOKIE450</groundspeak:placed_by>
+            <groundspeak:owner id="8843">COOKIE450</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">It is a black film canister. Please take a pen with you to have a log. &lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>hang</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1265369">
+                    <groundspeak:date>2011-05-31T04:07:12.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="26693">andy661105</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1265368">
+                    <groundspeak:date>2011-05-31T04:06:42.000Z</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="26693">andy661105</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1265367">
+                    <groundspeak:date>2011-05-31T04:06:27.000Z</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="26693">andy661105</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1265365">
+                    <groundspeak:date>2011-05-31T04:02:47.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="26693">andy661105</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1158457">
+                    <groundspeak:date>2011-02-26T09:10:49.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="11376">PATRICK.TAIWAN</groundspeak:finder>
+                    <groundspeak:text encoded="False">TFTC.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="121.5637833" lat="25.0386333">
+        <time>2008-03-03T08:00:00.000Z</time>
+        <name>OX19WVW</name>
+        <desc>Taipei City Hall by KLO25, Traditional Cache(1.6/1.0/2.8)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX19WVW</url>
+        <urlname>Taipei City Hall</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1218420">
+            <groundspeak:name>Taipei City Hall</groundspeak:name>
+            <groundspeak:placed_by>KLO25</groundspeak:placed_by>
+            <groundspeak:owner id="3139">KLO25</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">A cache close to the Taipei City Hall and the Taipei 101 building. This cache is easy to find and it is offering a convenient place to do your logging. As the container is a film box, trading is limited to very small objects.&lt;br/&gt;&lt;br/&gt;If possible please share some of your Taipei pictures you made during the visit of this interesting place.&lt;br/&gt;&lt;br/&gt;Remember to bring a pen with you as there is none in the container and please avoid to use stickers for your log as the log book only has limited space.&lt;br/&gt;&lt;br/&gt;Happy Hunting! &lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>A dry place.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1849755">
+                    <groundspeak:date>2012-06-03T16:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="120198">Miohuang</groundspeak:finder>
+                    <groundspeak:text encoded="False">GPS showed that I was right to cache, somehow I just could not find it.
+Maybe it was the rainy day....I just missed it.
+
+Could someone give me more hints? I was so close to it.....</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1518204">
+                    <groundspeak:date>2011-08-06T16:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="4876">moloi</groundspeak:finder>
+                    <groundspeak:text encoded="False">Nice hide, quick found. TNLNSL TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1172794">
+                    <groundspeak:date>2011-03-19T05:12:15.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="11376">PATRICK.TAIWAN</groundspeak:finder>
+                    <groundspeak:text encoded="False">TFTC</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1093219">
+                    <groundspeak:date>2011-01-25T15:28:31.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="11291">KUOLIAN</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+                <groundspeak:log id="1146038">
+                    <groundspeak:date>2008-12-05T16:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="8843">COOKIE450</groundspeak:finder>
+                    <groundspeak:text encoded="False">A good place to hide the cache in a city.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.8</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

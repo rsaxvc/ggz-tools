@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>9 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:37:47.073Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="-6.5127333" lat="53.0106667">
+        <time>2012-07-28T20:46:59.000Z</time>
+        <name>OXZTE3G</name>
+        <desc>The walk by ROHAN.VERMEULEN, Traditional Cache(2.8/2.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTE3G</url>
+        <urlname>The walk</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28463968">
+            <groundspeak:name>The walk</groundspeak:name>
+            <groundspeak:placed_by>ROHAN.VERMEULEN</groundspeak:placed_by>
+            <groundspeak:owner id="137538">ROHAN.VERMEULEN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Off the beaten path, it gets slippery, look around, careful you might walk over it. (Once you have this no-one can take it from you.) </groundspeak:long_description>
+            <groundspeak:encoded_hints>Look up look down it is under your feet, no digging required.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.8</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Secret.jpg</ox:name>
+                    <ox:size>89345</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-7.5053" lat="52.2092833">
+        <time>2012-01-08T17:49:55.000Z</time>
+        <name>OX3AD1R</name>
+        <desc>Crough Wood by mr.-oda, Unknown Cache(3.0/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX3AD1R</url>
+        <urlname>Crough Wood</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Unknown Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3081021">
+            <groundspeak:name>Crough Wood</groundspeak:name>
+            <groundspeak:placed_by>mr.-oda</groundspeak:placed_by>
+            <groundspeak:owner id="62120">mr.-oda</groundspeak:owner>
+            <groundspeak:type>Unknown Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The coordinates leads you to a parking lot and the entrance to the forest.&lt;br/&gt;&lt;br/&gt;IMPORTANT: The container is a bit of a puzzle itself and is not a test of your strength, but more your patience. If it isn't fairly smooth or it starts to click your are being to rough. PLEASE BE GENTLE.&lt;br/&gt;And gloves might be a god thing to bring&lt;br/&gt;_____________________________________________________________________&lt;br/&gt;&lt;br/&gt;ehcac eht dnif ot elba eb dluohs uoy thgie orez eno tod eno eert seerged neves orez orez tseW orez thgie xis tod owt eno seerged owt evif htroN ot og uoy fI&lt;br/&gt;_____________________________________________________________________</groundspeak:long_description>
+            <groundspeak:encoded_hints>Cache: Between rocks</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>3.0</ox:difficulty>
+                <ox:size>1.6</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:images>
+                <ox:image>
+                    <ox:name>IMAG0228.jpg</ox:name>
+                    <ox:size>110734</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-7.3866833" lat="52.5461667">
+        <time>2011-12-12T21:22:40.000Z</time>
+        <name>OX391Y8</name>
+        <desc>Abbey Meadow, KCAT and Kings River by mr.-oda, Traditional Cache(2.0/1.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX391Y8</url>
+        <urlname>Abbey Meadow, KCAT and Kings River</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="3040550">
+            <groundspeak:name>Abbey Meadow, KCAT and Kings River</groundspeak:name>
+            <groundspeak:placed_by>mr.-oda</groundspeak:placed_by>
+            <groundspeak:owner id="62120">mr.-oda</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">You will need a 13mm or adjustable spanner to open the geocache. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Callan Augustinian Friary, known as 'Abbey Meadow'.&lt;br/&gt;&lt;br/&gt;Edmund Butler of Pottlerath, a noted patron of literature, successfully petitioned Pope Pius II for the foundation of the friary in 1461. After Edmund died in 1462, the actual buildings were erected by his son, James, probably after 1467 when he received a papal dispensation to marry his concubine, to whom he was related.&lt;br/&gt;&lt;br/&gt;In 1472 the friary became observant—its community adopted the fashion then spreading across Europe for the strictest observance of the monastic rules — and in 1479 it became the centre of the Irish Observant Congregation.&lt;br/&gt;&lt;br/&gt;After it was closed (dissolved) and its lands confiscated by the order of Henry VIII in his campaign against the church, it passed into the hands of the Earls of Ormonde. A new monastery for the Augustinian friars was founded in the town of Callan in 1766.&lt;br/&gt;&lt;br/&gt;The friary church is a long, rectangular building with a central bell-tower. The east end or choir, is lit by a fine east window and in its south wall is one of the finest sedelias (a seat for officiating priests) in Ireland.&lt;br/&gt;&lt;br/&gt;The domestic buildings and the cloister court no longer survive. However, a freshwater well still remains on the grounds of the abbey.&lt;br/&gt;&lt;br/&gt;KCAT - Kilkenny Collective for Arts Talent&lt;br/&gt;An art and study centre run by the camphill movement in the old sausage factory in Callan. The centre is offering several artistic courses; drama, painting, sculpturing etc.&lt;br/&gt;&lt;br/&gt;Abhainn Rí - Kings River&lt;br/&gt;The river flows through South Tipperary and County Kilkenny and ends up in River Nore.&lt;br/&gt;&lt;br/&gt;It has its source in the Slieveardagh Hills in South Tipperary. It flows southeast from the hills and crosses into County Kilkenny. It is joined by the Munster River before passing through the town of Callan. It continues eastwards from Callan, past Kells and joins the River Nore west of Thomastown&lt;br/&gt;</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.6</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-7.3623667" lat="52.5015833">
+        <time>2011-10-23T10:21:56.000Z</time>
+        <name>OX35RP7</name>
+        <desc>Disco in the jungle by mr.-oda, Traditional Cache(1.6/2.6/3.1)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX35RP7</url>
+        <urlname>Disco in the jungle</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2943271">
+            <groundspeak:name>Disco in the jungle</groundspeak:name>
+            <groundspeak:placed_by>mr.-oda</groundspeak:placed_by>
+            <groundspeak:owner id="62120">mr.-oda</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is full of music, so if you want to swag bring a CD yourself. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The CDs doesn't have to be new, I just went to a charity shop and bought a couple and then added some of my own, and you are more than welcome to do the same  </groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1687907">
+                    <groundspeak:date>2011-11-04T00:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="28386">Quo Vadis</groundspeak:finder>
+                    <groundspeak:text encoded="False">I needed 15 minutes for found the cashe. But is good hidden it. I exchanged one a CD.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.1</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>3.7</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-7.3906667" lat="52.5434833">
+        <time>2011-10-23T10:07:54.000Z</time>
+        <name>OX30YAC</name>
+        <desc>The old well in Callan by mr.-oda, Traditional Cache(1.7/1.4/2.8)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX30YAC</url>
+        <urlname>The old well in Callan</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2798754">
+            <groundspeak:name>The old well in Callan</groundspeak:name>
+            <groundspeak:placed_by>mr.-oda</groundspeak:placed_by>
+            <groundspeak:owner id="62120">mr.-oda</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">From the inscription at the well:&lt;br/&gt;This well was one of the main sources of clean drinking water for the people of Callan in times past.&lt;br/&gt;A hand operated pump erected in the 19th century was in use until the 1920's&lt;br/&gt;“And oh! How a drink from its depth upward pressing would act on one's frame like a magical spell.” John Lock&lt;br/&gt;First Finder Certifikate will be e-mailed on request.&lt;br/&gt;Have fun &lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1687908">
+                    <groundspeak:date>2011-11-04T00:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="28386">Quo Vadis</groundspeak:finder>
+                    <groundspeak:text encoded="False">This is a joke. It is not cache to find. </groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.8</ox:awesomeness>
+                <ox:difficulty>1.7</ox:difficulty>
+                <ox:size>1.5</ox:size>
+                <ox:terrain>1.4</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-7.2528833" lat="52.64775">
+        <time>2011-10-23T10:04:25.000Z</time>
+        <name>OX35BJY</name>
+        <desc>Bus stop Kilkenny by mr.-oda, Traditional Cache(1.9/1.0/2.8)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX35BJY</url>
+        <urlname>Bus stop Kilkenny</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2930676">
+            <groundspeak:name>Bus stop Kilkenny</groundspeak:name>
+            <groundspeak:placed_by>mr.-oda</groundspeak:placed_by>
+            <groundspeak:owner id="62120">mr.-oda</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">A little help to find the bus stop for busses going to North to Dublin or South towards Clonmel or Waterford &lt;br/&gt; &lt;br/&gt;The real bus stop is around the corner at N 52° 38.938 W 007° 15.094&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>magnetic</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1687909">
+                    <groundspeak:date>2011-11-04T00:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="28386">Quo Vadis</groundspeak:finder>
+                    <groundspeak:text encoded="False">It is not funny</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.8</ox:awesomeness>
+                <ox:difficulty>1.9</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-7.11075" lat="52.2545">
+        <time>2011-10-14T09:38:56.000Z</time>
+        <name>OX35V2Z</name>
+        <desc>Waterford-Tramore Railway Terminus by Ericles, Traditional Cache(2.0/1.4/2.9)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX35V2Z</url>
+        <urlname>Waterford-Tramore Railway Terminus</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2944596">
+            <groundspeak:name>Waterford-Tramore Railway Terminus</groundspeak:name>
+            <groundspeak:placed_by>Ericles</groundspeak:placed_by>
+            <groundspeak:owner id="6826">Ericles</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">A Park &amp; Grab near the former terminus of the Waterford-Tramore Railway&lt;br/&gt;&lt;br/&gt;In the early 1850s, a group of local Quaker entrepreneurs got tired of waiting for a railway to Tramore so they decided to build it themselves. After securing the £77,000 from local business owners, they hired thefather of the Irish railways William Dargan and things got rolling fast. Construction began in February of 1853 and was completed in record time with the final stakes hammered on September 2nd that same year. The 7 ¼ mile track was laid entirely through manual labor and crossed a bog where they had to fell trees to act as trestles. But would people use it?&lt;br/&gt;&lt;br/&gt;The businessmen hoped that during the week, people would commute from Tramore to Waterford for work and on weekends the city folk would consider Tramore “a pleasant retreat for the citizens of Waterford and others who assembled there for the benefit of the salt water”. They were right. On opening day, 15th September 1853 over 10,000 townspeople came out to watch the iron horse make its first run. The first real run had actually been the day before – but just for the directors and guests. Like kids on a roller coaster, they insisted on making a second trip before retiring for a banquet. Demand was so great that during the first few weeks the guard had to be called out to prevent riots for the last train leaving Tramore every night.&lt;br/&gt;&lt;br/&gt;Not content with overnight success, the directors arranged discounts with Tramore hotels and offered free passes to anyone who would build a new house in Tramore ensuring a steady and long-term ridership. To ensure full trains at all times they offered passage to many local charities. The company continued this into the new century. From 1930 through 1944 they organized special trains to take the poor families to Tramore. On one day alone in 1936 over 2000 kids were transported back and forth to Tramore. They were also given a free meal and on that day enjoyed over 7,000 sandwiches, 600 pounds of sweets, 400 pounds of cooked meat, 350 pans of bread, 180 gallons of milk, 10 boxes of apples, 19 cases of oranges and 400 dozen small bottles of lemonade.&lt;br/&gt;&lt;br/&gt;The railway had many unique features. It had no connections to any other rail line in the country, had only one crossing (Bath Street right outside the Waterford station) and all of the original cars were open to the air on the left side. For a time in the 1860s it was also the fastest line in the country clicking along at over 30mph. With no stops and nothing but countryside once they were beyond Poleberry the powerful steam locomotives would routinely make the run in less than 15 minutes.&lt;br/&gt;&lt;br/&gt;By the 1920s the Tramore Road had been greatly improved and a bus line had sprung up in direct competition to the rails. The bus charged only 7 pence so the trains cut their fee to 4 pence. As the bus line struggled, the railway company bought it outright and then shut it down completely. Alas, others would eventually take their place and by the mid 1950s with more and more competition from cars and busses the railway was unable to come up with the money to upgrade all of their steam engines to new diesel engines. The railway began to slide into irrelevance despite still doing crisp business. Rail traffic actually peaked in 1952 with trains running hourly 14 times a day. However, by 1960 the CIE, which had purchased the line just 10 years earlier, announced the line would close for good at the end of the year. On the 31st of December with protesters lining the route the final run left Waterford at 1:25 and the final train departed Tramore at 2:10. To avoid demonstrations the last train was never run. Within a few months the tracks were pulled up and shipped off. The only remains of the line are the names of a few streets and the old station in Tramore now used as a visitor’s center.&lt;br/&gt;&lt;br/&gt;This cache is placed across the street from the original northern terminus of the line. You are looking for a small black cylinder stuck to the light pole on the south west side of the bridge over the John’s River. You’ll find it half a meter from the ground between the the bridge pillar and the light pole just hidden by the ivy. It should even be handicachable. Be sure to set the cache with the opening facing up to keep it dry. Enjoy the hunt and history of the area!&lt;br/&gt;&lt;br/&gt;Geocaching Ireland - http://GeocachingIreland.com </groundspeak:long_description>
+            <groundspeak:encoded_hints>Between pillar and light post - just in the ivy</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1710422">
+                    <groundspeak:date>2011-12-22T00:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="62120">mr.-oda</groundspeak:finder>
+                    <groundspeak:text encoded="False">Yes, first OP cache. The logbook was somewhat damp, but I could easily sign, thanks.</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>2.9</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>2.0</ox:size>
+                <ox:terrain>1.4</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-8.5" lat="52.1134667">
+        <time>2011-05-23T15:08:16.000Z</time>
+        <name>OX2WPQ1</name>
+        <desc>Nagle's Hill radio site by Dankoozy, Traditional Cache(1.5/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2WPQ1</url>
+        <urlname>Nagle's Hill radio site</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2673255">
+            <groundspeak:name>Nagle's Hill radio site</groundspeak:name>
+            <groundspeak:placed_by>Dankoozy</groundspeak:placed_by>
+            <groundspeak:owner id="23229">Dankoozy</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">This cache is located on the summit of Nagle's Hill where several radio masts now reside.&lt;br/&gt;&lt;br/&gt;There are several paths up here that can be accessed from the Killavullen to Cork road, Cloghvoolia, or walk up directly from Killavullen village&lt;br/&gt;&lt;br/&gt;Elevation: 409m (according to my inaccurate GPS)&lt;br/&gt;&lt;br/&gt;The cache itself is a Bunalun Organic tomatoe puree jar with several items inside but mostly pencils and a piosa páipéar.&lt;br/&gt;No rocks need to be removed to find the cache.&lt;br/&gt;&lt;br/&gt;The radio masts are used for mobile phone networks (GSM and UMTS), FM radio and several other things. If you are a Meteor or '3' (maybe Vodafone and Ohtue also) customer you will get a most excellent signal up here.&lt;br/&gt;&lt;br/&gt;There are grand wide paths on this hill but some are slightly narrower depending on which way you go. There are paths all the way up to the mast but to get at the cache itself you will have to go between a couple of Christmas trees.&lt;br/&gt;&lt;br/&gt;While placing the cache I noticed it was exactly 8 and a half degrees west. Perhaps this was done on purpose when they were building the mountain ;)&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1763127">
+                    <groundspeak:date>2012-02-29T00:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="77286">PAULIEPELON</groundspeak:finder>
+                    <groundspeak:text encoded="False">Not found, did however find a Cairn with quite a few stones disturbed and rubbish strewn about. Its either gone or well hidden. If you are searching around try not to disturb the Cairn and bring your rubbish home.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1423538">
+                    <groundspeak:date>2011-08-14T15:17:40.000Z</groundspeak:date>
+                    <groundspeak:type>Didn't find it</groundspeak:type>
+                    <groundspeak:finder id="52391">MARKMCGLOUGHLIN</groundspeak:finder>
+                    <groundspeak:text encoded="False">
+Logged via OpenCaching for iPhone. We got pretty close I think. The GPS coordinates were correct on the iPhone, but we just couldn't find it. We live in Blarney so we may try again some time. </groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-7.4386" lat="55.266">
+        <time>2010-12-07T17:54:13.000Z</time>
+        <name>OX2CX45</name>
+        <desc>Glenevin Waterfall  by cyrus2050, Traditional Cache(1.6/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2CX45</url>
+        <urlname>Glenevin Waterfall </urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2231571">
+            <groundspeak:name>Glenevin Waterfall </groundspeak:name>
+            <groundspeak:placed_by>cyrus2050</groundspeak:placed_by>
+            <groundspeak:owner id="1649">cyrus2050</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">A walk through a beautiful park near Clonmany with scenic views leading to the Glenevin Waterfall. Parking and entrance to the park is free, but please note that the car park closes at 8pm and waterfall closes at 9pm. Allow yourself at least 45 mins to an hour to find this cache, travel to the site of the waterfall and back to car park.&lt;br/&gt;&lt;br/&gt;The Cache&lt;br/&gt;&lt;br/&gt;The cache is a medium sized ammo tin with Geocaching label on the side. A FTF prize of a Nintendo DS game cartridge, and small selection of usual swaps were available at the time of placing the cache.&lt;br/&gt;&lt;br/&gt;Glenevin Waterfall&lt;br/&gt;&lt;br/&gt;This cache will take you to a hidden treasure in the North Donegal countryside, the Glenevin Waterfall.  Tumbling down into a funnel shape solid rock pool below from a height of around 30 feet.&lt;br/&gt;&lt;br/&gt;With scenery conjuring comparisons with Tolkien's shire, footbridges criss crossing the stream leading to the waterfall and stepping stones for the adventurous, this is a great place for a walk with the kids.  The route to the waterfall is well signposted, there are a number of smaller waterfalls on the climb to the top.&lt;br/&gt;&lt;br/&gt;There are picnic areas available to stop at as you climb to the area of the waterfall, though the climb is not strenuous, you can go at your own pace and enjoy the surroundings.  If you are hungry you can stop at the Tea Rooms as you enter the park, they do a great all-day Irish breakfast with tea and toast!&lt;br/&gt;&lt;br/&gt;Please be careful when uncovering the cache, muggles can come up to the cache site behind you so please be discreet when taking out the cache and hiding it again.  If you see anything you like in the cache box, please trade up or even so everyone can enjoy the contents.  From the cache site you will also see nearby Tullagh Bay beach, it’s beautiful and well worth a visit with a few horses and a foal nearby for you to feed grass and apples to (bring your own apples!)&lt;br/&gt;&lt;br/&gt;Parking&lt;br/&gt;&lt;br/&gt;Parking is available onsite, you will need to stop and open the metal gate at the side of the road and enter to park your car. I have posted co-ordinates to the car park as a waypoint. &lt;br/&gt;&lt;br/&gt;Good Luck and enjoy your trip to the Waterfall!</groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1268114">
+                    <groundspeak:date>2011-06-01T17:45:01.000Z</groundspeak:date>
+                    <groundspeak:type>Additional Find</groundspeak:type>
+                    <groundspeak:finder id="10389">malcolmph</groundspeak:finder>
+                    <groundspeak:text encoded="False">found today on a slight detour from work</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="1021954">
+                    <groundspeak:date>2010-01-10T00:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="10389">malcolmph</groundspeak:finder>
+                    <groundspeak:text encoded="False"/>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.6</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

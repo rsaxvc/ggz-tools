@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>4 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:38:01.426Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="-68.46895" lat="18.73175">
+        <time>2012-02-16T18:55:39.000Z</time>
+        <name>OXZTM35</name>
+        <desc>Punta Tin Cana by mooseontheloose, Traditional Cache(1.7/1.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTM35</url>
+        <urlname>Punta Tin Cana</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469723">
+            <groundspeak:name>Punta Tin Cana</groundspeak:name>
+            <groundspeak:placed_by>mooseontheloose</groundspeak:placed_by>
+            <groundspeak:owner id="92684">mooseontheloose</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Small aluminum round tin with easy access.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Small round aluminum tin approximately 4&quot; diameter. 3 metres from trolley/train route. No bushwacking. Easy, paved or grassy terrain. Just a fun, easy find while you are enjoying the Punta Cana sun and landscape, on your way from, say, the beach or hotel lobby to the tennis courts or Manglar restaurant. &lt;br/&gt;&lt;br/&gt;Contents when placed ... dog tag, Canadian souvenir button, two safari animals, as well as pen and logbook.  Please feel free to take something and leave something.  Thanks!  Enjoy!</groundspeak:long_description>
+            <groundspeak:encoded_hints>about 4 feet off the ground</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.7</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>tin and contents as first placed.jpg</ox:name>
+                    <ox:size>99544</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>You're getting very warm .jpg</ox:name>
+                    <ox:size>105114</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-70.8317817" lat="19.442765">
+        <time>2011-01-30T02:24:55.000Z</time>
+        <name>OXZTXAJ</name>
+        <desc>villamil by CAVILLAM, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTXAJ</url>
+        <urlname>villamil</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28477641">
+            <groundspeak:name>villamil</groundspeak:name>
+            <groundspeak:placed_by>CAVILLAM</groundspeak:placed_by>
+            <groundspeak:owner id="11548">CAVILLAM</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Casa</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-69.1625333" lat="18.4496167">
+        <time>2009-01-30T08:00:00.000Z</time>
+        <name>OX1M7N4</name>
+        <desc>Cueva de las Maravillas by MERDIAN, Traditional Cache(1.5/1.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX1M7N4</url>
+        <urlname>Cueva de las Maravillas</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1526723">
+            <groundspeak:name>Cueva de las Maravillas</groundspeak:name>
+            <groundspeak:placed_by>MERDIAN</groundspeak:placed_by>
+            <groundspeak:owner id="3693">MERDIAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The Cueva de las Maravillas (cave of miracles) is a very beautiful
+cave system. The main entrance is located directly at the highway. 
+&lt;p&gt;The cache itself is outside the area. If using my parking
+suggestion direct at the highway, you climb over / through a fence
+and 70m away you can search without beeing seen and disturbed by
+muggels. If in trouble, please use the two spoiler fotos.&lt;/p&gt;
+&lt;p&gt;Small note on cache maintenance: cmoline will
+assist. Thanks!&lt;/p&gt;&lt;p&gt;Additional Hidden Waypoints&lt;/p&gt;PP1M7N4 - Parking spot just for the cache&lt;br /&gt;N 18° 26.940 W 069° 09.743&lt;br /&gt;Parking spot just for the cache</groundspeak:long_description>
+            <groundspeak:encoded_hints>At the bottom of a big tree. In the ground, covered with earth and stones.</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1674457">
+                    <groundspeak:date>2011-08-25T04:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="61204">DCASIUS</groundspeak:finder>
+                    <groundspeak:text encoded="False">Found on my way back to the airport.  Easy find.  TNLN, TFTC.</groundspeak:text>
+                </groundspeak:log>
+                <groundspeak:log id="851076">
+                    <groundspeak:date>2009-04-01T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7753">riebecker</groundspeak:finder>
+                    <groundspeak:text encoded="False">Immediately found.  
+That maybe sure-tests Cache in DomRep.  
+ 
+Gleich gefunden.  
+Der vielleicht sicherste Cache in DomRep.  
+  
+Gruß und Dank  
+Greeting and thanks
+
+riebecker  
+
+TB in/out
+
+[This entry was edited by riebecker on Thursday, April 09, 2009 at 5:55:33 PM.]</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.5</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-69.8426833" lat="18.481">
+        <time>2009-01-30T08:00:00.000Z</time>
+        <name>OX1M7KM</name>
+        <desc>Los Tres Ojos by MERDIAN, Traditional Cache(2.5/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX1M7KM</url>
+        <urlname>Los Tres Ojos</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1526677">
+            <groundspeak:name>Los Tres Ojos</groundspeak:name>
+            <groundspeak:placed_by>MERDIAN</groundspeak:placed_by>
+            <groundspeak:owner id="3693">MERDIAN</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">The Parque Los Tres Ojos (three eyes) is an impressive labyrinth of
+bizarrely shaped, partly collapsed stone grottoes. The biggest
+attraction of the underground cave system are three breathtaking
+beautiful lakes. Because of the partly broken ceiling of the caves,
+the lakes are both underground as well as outdoor. 
+&lt;p&gt;The cache itself is outside of the main area, accessable through
+the end of the small inside parking place, so there is no entrence
+fee to be paid. As there might be some muggles around, please use
+the provided spoiler pictures.&lt;/p&gt;
+&lt;p&gt;Small note on cache maintenance: cmoline has
+graciously agreed to assist with any needed maintanance.&lt;/p&gt; 
+</groundspeak:long_description>
+            <groundspeak:encoded_hints>At the bottom of a natural cliff near a tree, protected with large stones</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="851075">
+                    <groundspeak:date>2009-04-01T19:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="7753">riebecker</groundspeak:finder>
+                    <groundspeak:text encoded="False">Immediately found.  
+In the proximity, we have seen young dogs.  
+  
+Beautiful Cache  
+  
+Ein wirklich schöner und sicherer Cache.
+In der Nähe lagen junge Hunde.
+
+Gruß und Dank
+Greeting 
+
+riebecker
+
+TB in
+Coin out
+
+[This entry was edited by riebecker on Friday, April 10, 2009 at 1:17:15 PM.]</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

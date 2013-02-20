@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>7 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:37:49.856Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="-71.3369444" lat="-29.9744444">
+        <time>2012-08-12T04:48:43.000Z</time>
+        <name>OXZTDRD</name>
+        <desc>casa by MMUNIZAGA1975713, Traditional Cache(1.4/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTDRD</url>
+        <urlname>casa</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28463655">
+            <groundspeak:name>casa</groundspeak:name>
+            <groundspeak:placed_by>MMUNIZAGA1975713</groundspeak:placed_by>
+            <groundspeak:owner id="141433">MMUNIZAGA1975713</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Dentro de la cada</groundspeak:long_description>
+            <groundspeak:encoded_hints>Pide permiso al dueño de casa</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.4</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-72.1442" lat="-41.4062167">
+        <time>2012-01-23T00:57:39.000Z</time>
+        <name>OXZTMDN</name>
+        <desc>Cerro Arco Iris-Cochamo by cotecerda, Traditional Cache(2.7/3.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTMDN</url>
+        <urlname>Cerro Arco Iris-Cochamo</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28470049">
+            <groundspeak:name>Cerro Arco Iris-Cochamo</groundspeak:name>
+            <groundspeak:placed_by>cotecerda</groundspeak:placed_by>
+            <groundspeak:owner id="9978">cotecerda</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Es un pote de plastico que contiene lapices GARMIN. Favor solo saca uno para que otros tambien puedan llevarlos.&lt;br/&gt;Está a la derecha de la llegada al mirador del Cerro Arco Iris, entre los arbustos mas bajos a ras de piso.&lt;br/&gt;Disfuten el sendero el cual es el mejor trekking que he hecho.</groundspeak:long_description>
+            <groundspeak:encoded_hints>En el suelo entre los arbustos mas bajos</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.7</ox:difficulty>
+                <ox:size>3.7</ox:size>
+                <ox:terrain>3.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-70.5077167" lat="-33.3237667">
+        <time>2011-10-09T15:59:33.000Z</time>
+        <name>OXZTQ55</name>
+        <desc>OPCEXT003 by EXTREMO1969, Traditional Cache(2.7/2.8/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTQ55</url>
+        <urlname>OPCEXT003</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28472668">
+            <groundspeak:name>OPCEXT003</groundspeak:name>
+            <groundspeak:placed_by>EXTREMO1969</groundspeak:placed_by>
+            <groundspeak:owner id="63201">EXTREMO1969</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">El cache esta escondido en el tronco del arbol</groundspeak:long_description>
+            <groundspeak:encoded_hints>En el arbol</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.7</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>2.8</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-70.50975" lat="-33.3325167">
+        <time>2011-10-09T15:57:01.000Z</time>
+        <name>OXZTQ56</name>
+        <desc>OPCEXT002 by EXTREMO1969, Traditional Cache(2.5/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTQ56</url>
+        <urlname>OPCEXT002</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28472669">
+            <groundspeak:name>OPCEXT002</groundspeak:name>
+            <groundspeak:placed_by>EXTREMO1969</groundspeak:placed_by>
+            <groundspeak:owner id="63201">EXTREMO1969</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">El cache esta oculto en la base del arbol, entre las piedras</groundspeak:long_description>
+            <groundspeak:encoded_hints>En un arbol</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1863541">
+                    <groundspeak:date>2012-06-11T20:27:00.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="125249">gecko4wd</groundspeak:finder>
+                    <groundspeak:text encoded="False">&quot;&quot;</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>2.7</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-70.5135667" lat="-33.3007667">
+        <time>2011-10-01T19:01:03.000Z</time>
+        <name>OXZTQBB</name>
+        <desc>OPCEXT001 by EXTREMO1969, Traditional Cache(2.8/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTQBB</url>
+        <urlname>OPCEXT001</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28472860">
+            <groundspeak:name>OPCEXT001</groundspeak:name>
+            <groundspeak:placed_by>EXTREMO1969</groundspeak:placed_by>
+            <groundspeak:owner id="63201">EXTREMO1969</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>3</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">Podras llegar por dos rutas distintas, la vista luego de una caminata de dos horas tranquilas, tendras una vista de Santiago muy agradable</groundspeak:long_description>
+            <groundspeak:encoded_hints>En la base de un arbol</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.8</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-70.5968667" lat="-33.4145167">
+        <time>2011-09-28T18:57:22.000Z</time>
+        <name>OXZTQCX</name>
+        <desc>GARMIN STORE CHILE by cotecerda, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTQCX</url>
+        <urlname>GARMIN STORE CHILE</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28472908">
+            <groundspeak:name>GARMIN STORE CHILE</groundspeak:name>
+            <groundspeak:placed_by>cotecerda</groundspeak:placed_by>
+            <groundspeak:owner id="9978">cotecerda</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Micro</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Debes tener un GPS configurado para comunicarse con un CHIRP en forma inalámbrica. Puedes obtener información en el siguiente link: https://buy.garmin.com/shop/shop.do?pID=74811. &lt;br/&gt;&lt;br/&gt;El Chirp te entregará un mensaje con una promoción de descuento en la Tienda Garmin, al cual accedes mostrando el mensaje en tu GPS.&lt;br/&gt;&lt;br/&gt;Si tu GPS no tiene la función para la conexión con un CHIRP, entonces imprime esta información, la llevas a la tienda y obtendrás un 20% de descuento en cualquier modelo de GPS de la nueva generación, que te permita conectarte con el CHIRP.&lt;br/&gt;&lt;br/&gt;El CHIRP es un dispositivo que envía un mensaje a un GPS que se encuentre a unos 10 metros de distancia y que tenga habilitada la conexión inalámbrica con el CHIRP.</groundspeak:long_description>
+            <groundspeak:encoded_hints>GARMIN STORE</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1863542">
+                    <groundspeak:date>2012-06-11T04:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="125249">gecko4wd</groundspeak:finder>
+                    <groundspeak:text encoded="False">encontrado y conectado con el Chirp</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>1.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+                <ox:tag>chirp</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:chirp>2460690</ox:chirp>
+            </ox:verification>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="-71.2506667" lat="-29.9030667">
+        <time>2011-09-25T16:55:10.000Z</time>
+        <name>OX332M5</name>
+        <desc>La Serena 467 by valannur, Traditional Cache(2.6/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX332M5</url>
+        <urlname>La Serena 467</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2862483">
+            <groundspeak:name>La Serena 467</groundspeak:name>
+            <groundspeak:placed_by>valannur</groundspeak:placed_by>
+            <groundspeak:owner id="47137">valannur</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Cache urbano, escondido en conmemoración de 467 años de la ciudad de La serena.&lt;br/&gt;&lt;br/&gt;El cache es el típico tupperware de tapa azul transparente, con la etiqueta verde de cache oficial.&lt;br/&gt;Contiene un Logbook, un encendedor, tres mini mapas antiguos de La Serena.&lt;br/&gt;Buena Caceria.&lt;br/&gt;Valannur (Team HJS)</groundspeak:long_description>
+            <groundspeak:encoded_hints>El cache esta escondido en un masetero de piedra atrás de la catedral, frente a una tienda de antigüedades y tras una reja. Solo hay que meter la mano entre los barrotes y alcanzar el recipiente.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.6</ox:difficulty>
+                <ox:size>3.4</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+</gpx>

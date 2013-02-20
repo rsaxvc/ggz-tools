@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>1 geocache.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:38:29.297Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="-60.893" lat="14.4192833">
+        <time>2012-02-03T21:38:25.000Z</time>
+        <name>OXZTM85</name>
+        <desc>La pointe Dunkerque by cachotier83, Traditional Cache(1.3/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTM85</url>
+        <urlname>La pointe Dunkerque</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28469878">
+            <groundspeak:name>La pointe Dunkerque</groundspeak:name>
+            <groundspeak:placed_by>cachotier83</groundspeak:placed_by>
+            <groundspeak:owner id="36466">cachotier83</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Sur la trace des caps ..&lt;br/&gt;Il reste quelques vestiges de ce fortin, il défendait l'accès de la baie du MARIN contre les incursions, entre autres de la flotte anglaise .. &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;Le 13 janvier 1762, un flottille anglaise dirigée par l'amiral RODNEY débarqua 1200 hommes sur le territoire, en bombardant les fortins des pointes Borgnesse et Dunkerque, qui commandaient l'entrée de la baie du MARIN,, commandée par DE FOLLEVILLE, lieutenant du Roi.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;..........................................&lt;br/&gt;On the &quot;trace des caps&quot; ..&lt;br/&gt;it remains some vestiges of this small fort, it defended the access of the LE MARIN'S bay against the incursions, among others of the English fleet.. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;January 13th, 1762, one English flotilla managed by admiral RODNEY off-loaded 1200 men on the territory, by bombarding the small forts of points Borgnesse and Dunkerque, who proteted the entrance of the bay LE MARIN , commanded by FOLLEVILLE, lieutenant of King. </groundspeak:long_description>
+            <groundspeak:encoded_hints>Dans un mur / in a wall</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1744467">
+                    <groundspeak:date>2012-02-08T23:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Comment</groundspeak:type>
+                    <groundspeak:finder id="36466">cachotier83</groundspeak:finder>
+                    <groundspeak:text encoded="False">QUI sera le premier à découvrir cette cache ??
+WHO will be the first to discover this cache ??</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.3</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:images>
+                <ox:image>
+                    <ox:name>SPOILER.jpg</ox:name>
+                    <ox:size>200573</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>true</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+</gpx>

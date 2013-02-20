@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>6 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:37:53.836Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="56.1716667" lat="24.69685">
+        <time>2011-07-17T11:22:01.000Z</time>
+        <name>OXZTRXV</name>
+        <desc>Rock pool by shams, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTRXV</url>
+        <urlname>Rock pool</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474363">
+            <groundspeak:name>Rock pool</groundspeak:name>
+            <groundspeak:placed_by>shams</groundspeak:placed_by>
+            <groundspeak:owner id="45957">shams</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">It's there, hidden somewhere very next to you.&lt;br/&gt;Please log your name and date and put it back.&lt;br/&gt;Enjoy the swim in the rock pool not far from there .... let the small fish eat the dead skin of your feet :)&lt;br/&gt;Enjoy!</groundspeak:long_description>
+            <groundspeak:encoded_hints>move the obstacle</groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1407911">
+                    <groundspeak:date>2011-07-31T22:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="51559">stoelzeleinsOC</groundspeak:finder>
+                    <groundspeak:text encoded="False">Yeh, our first FTF in Oman and on the first day of holy Ramadan.
+This one was not on our map when we prepared the trip. But now we came again to Hatta area, the nice place.
+TFTC the stoelzeleinsOC</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="55.92615" lat="24.5036667">
+        <time>2009-12-03T08:00:00.000Z</time>
+        <name>OX21NX5</name>
+        <desc>Poort by Carbon_Hunter, Traditional Cache(1.7/3.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX21NX5</url>
+        <urlname>Poort</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1897887">
+            <groundspeak:name>Poort</groundspeak:name>
+            <groundspeak:placed_by>Carbon_Hunter</groundspeak:placed_by>
+            <groundspeak:owner id="3134">Carbon_Hunter</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1.5</groundspeak:difficulty>
+            <groundspeak:terrain>3.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;p&gt;This cache will hopefully encourage you to get to the nearby
+TOUCH cache by U-S-ARABIA.&lt;/p&gt;
+&lt;p&gt;This is a stunning location and inspired the two hiders to place
+a physical cache and 2 EarthCaches in the nearby proximity.&lt;/p&gt; 
+
+ &lt;p&gt;
+
+ &lt;/p&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>In a mini Poort (crack/cleft) in the rock.</groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.7</ox:difficulty>
+                <ox:size>2.6</ox:size>
+                <ox:terrain>3.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="55.8548" lat="24.3287667">
+        <time>2011-01-06T05:56:20.000Z</time>
+        <name>OX2K00K</name>
+        <desc>Thorny Fossils by Carbon_Hunter, Traditional Cache(2.5/2.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2K00K</url>
+        <urlname>Thorny Fossils</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2413090">
+            <groundspeak:name>Thorny Fossils</groundspeak:name>
+            <groundspeak:placed_by>Carbon_Hunter</groundspeak:placed_by>
+            <groundspeak:owner id="3134">Carbon_Hunter</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">A cache placed while we were fossil hunting after a day out in Oman. Placed on UAE's 39th National Day - and the day that Qatar was awarded the 2022 FIFA World Cup football.&lt;br/&gt;&lt;br/&gt;Fossils exit in the vicinity.</groundspeak:long_description>
+            <groundspeak:encoded_hints>Where else? Try a rock - trees will definitely not hamper your signal here :) </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.7</ox:size>
+                <ox:terrain>2.6</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="56.7319" lat="23.1704">
+        <time>2011-01-06T05:53:12.000Z</time>
+        <name>OX2KYGA</name>
+        <desc>Nessie's Omani Cousin  by Carbon_Hunter, Traditional Cache(2.5/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2KYGA</url>
+        <urlname>Nessie's Omani Cousin </urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2441446">
+            <groundspeak:name>Nessie's Omani Cousin </groundspeak:name>
+            <groundspeak:placed_by>Carbon_Hunter</groundspeak:placed_by>
+            <groundspeak:owner id="3134">Carbon_Hunter</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">This one looks a bit like a perified version of the Loch Ness Monster. Hope you enjoy the nice little break from the road looking for this cache. Safe for kids too.&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Replace the rocks as closely as the surrounds as possible </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.7</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="56.1195833" lat="24.3167167">
+        <time>2010-12-26T12:16:14.000Z</time>
+        <name>OX2K00G</name>
+        <desc>Oh! Oasis by Carbon_Hunter, Traditional Cache(2.5/3.8/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX2K00G</url>
+        <urlname>Oh! Oasis</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="2413087">
+            <groundspeak:name>Oh! Oasis</groundspeak:name>
+            <groundspeak:placed_by>Carbon_Hunter</groundspeak:placed_by>
+            <groundspeak:owner id="3134">Carbon_Hunter</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>4</groundspeak:terrain>
+            <groundspeak:long_description html="True">Looking for the nearby UNLISTED from geocaching.com on a caching expedition with my brother CINCOL and our family, and a bunch of muggles - we crested this hill and our breaths were taken away by the appearance of this lush green oasis. When we returned to hide the cache- they were felling palm trees and there were many many trunks laying throughout the oasis. Obviously preparation for the next trees that needed planting. Fresh herbs were providing a wonderful scent throughout.&lt;br/&gt;&lt;br/&gt;Enjoy this cache dedicated to caching and brothers.&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints>Scramble up - Peter is a rock </groundspeak:encoded_hints>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.6</ox:size>
+                <ox:terrain>3.8</ox:terrain>
+            </ox:ratings>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="57.65995" lat="23.0760333">
+        <time>2010-12-08T07:59:53.000Z</time>
+        <name>OX1WT9Q</name>
+        <desc>Someone-else's War  by Carbon_Hunter, Traditional Cache(2.5/1.6/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OX1WT9Q</url>
+        <urlname>Someone-else's War </urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="1752205">
+            <groundspeak:name>Someone-else's War </groundspeak:name>
+            <groundspeak:placed_by>Carbon_Hunter</groundspeak:placed_by>
+            <groundspeak:owner id="3134">Carbon_Hunter</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2.5</groundspeak:difficulty>
+            <groundspeak:terrain>1.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Next to the remains of a RAF Venom fighterjet and the grave of the pilot.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Thanks to Laurence Garey for the info online (http://l.garey2.googlepages.com/home).&lt;br/&gt;&lt;br/&gt;TAKE CARE WHEN CROSSING ROAD - cars can drive fast around the nearby corner.&lt;br/&gt;&lt;br/&gt;Also note that there is a Police checkpoint at Birakt al Mawz at the bottom of the mountain. They want to check you license; car insurance and that you have a 4x4. They will NOT let you up is this is not in order.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Basically in the 1950's, Oman was at war with itself. The coastal areas under the Sultan and the inland areas (under a local Imam) were fighting..&lt;br/&gt;&lt;br/&gt;The Sultan asked the British to assist. They provided both ground and air support. The full story can be obtained from the above link - with some great photos and personal experience)..&lt;br/&gt;&lt;br/&gt;This Venom fighter crashed while Flight Lieutenant Owen Watkinson was on a sortie out of Sharjah. The small cairn/tomb next to the cache is his grave..&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The wreckage still left is part of the central structure (the base of the 2 wings) and cental turbine housing..&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Additonal sources:.&lt;br/&gt;&lt;br/&gt;http://l.garey2.googlepages.com/home.&lt;br/&gt;&lt;br/&gt;http://www.globalsecurity.org/military/library/report/1985/MJB.htm.&lt;br/&gt;&lt;br/&gt;http://www.britains-smallwars.com/SAS/JebelAkhdar.html .&lt;br/&gt;&lt;br/&gt;http://www.thenational.ae/apps/pbcs.dll/article?AID=/20090906/NATIONAL/709059936/1187/enewsletter&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;</groundspeak:long_description>
+            <groundspeak:encoded_hints> Look in a foxhole.
+ Be careful of muggles on the road. </groundspeak:encoded_hints>
+            <groundspeak:logs>
+                <groundspeak:log id="1737315">
+                    <groundspeak:date>2010-12-03T20:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="89174">bestvue</groundspeak:finder>
+                    <groundspeak:text encoded="False">As previously discussed and requested by the owner this cache is now relocated &quot;OUTSIDE&quot; the offending compound.
+New Coords
+N23 04.564
+E57 39.602
+Spoiler Pic to follow.
+****   TFTC 372  ***</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.5</ox:difficulty>
+                <ox:size>3.2</ox:size>
+                <ox:terrain>1.6</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Historic site</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+</gpx>

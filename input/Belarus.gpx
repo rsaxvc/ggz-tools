@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/0" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0" xmlns:ns3="http://www.groundspeak.com/cache/1/0/1" xmlns:ns4="http://www.gsak.net/xmlv1/5" xmlns:ox="http://www.opencaching.com/xmlschemas/opencaching/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OpenCaching" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.opencaching.com/xmlschemas/opencaching/1/0 http://www.opencaching.com/xmlschemas/opencaching/1/0/opencaching.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd">
+    <name>OpenCaching GPX</name>
+    <desc>4 geocaches.  Terms of Use: http://opencachetest.garmin.com/#terms</desc>
+    <author>OpenCaching</author>
+    <email>site@OpenCaching.com</email>
+    <url>http://localhost/api/geocache.ggz</url>
+    <time>2013-02-14T17:38:02.838Z</time>
+    <keywords>geocache, cache, opencaching, waypoint, ox</keywords>
+    <wpt lon="30.7486" lat="54.8571167">
+        <time>2012-07-30T07:41:38.000Z</time>
+        <name>OXZTE29</name>
+        <desc>Заброшенная деревенька by HyLog, Traditional Cache(2.0/2.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTE29</url>
+        <urlname>Заброшенная деревенька</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28463930">
+            <groundspeak:name>Заброшенная деревенька</groundspeak:name>
+            <groundspeak:placed_by>HyLog</groundspeak:placed_by>
+            <groundspeak:owner id="138213">HyLog</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>2</groundspeak:difficulty>
+            <groundspeak:terrain>2</groundspeak:terrain>
+            <groundspeak:long_description html="True">Описание окружающей местности&lt;br/&gt;БАРСЕЕВО. БАРСЕЕВА – деревня в Горбовском с/с, на карте Могилёвского наместничества 1777-1795 г.г. значится Барсеевка. Скорее всего название происходит от дохристианского имени Барсей, вариант слова барсук (Жучкевич В.А.) В лексикографических словарях выявлены слова:&lt;br/&gt;а) Барсни – кожаные лапти;&lt;br/&gt;б) Барсание – вдевание оборы в ушко лаптя;&lt;br/&gt;в) Барсать – выполнять работу неаккуратно.&lt;br/&gt;&lt;br/&gt;Раиса Матюшкина.&lt;br/&gt;БАРСЕЕВО&lt;br/&gt;Хотя не близки расстояния&lt;br/&gt;От городов и от столиц,&lt;br/&gt;Зато, смотри вокруг в Барсеево&lt;br/&gt;Родных, знакомых столько лиц.&lt;br/&gt;&lt;br/&gt;Так приезжайте к нам, дивитесь все:&lt;br/&gt;Деревня – сказка, а не сон.&lt;br/&gt;Координаты – область Витебская&lt;br/&gt;И наш, Лиозненский район.&lt;br/&gt;&lt;br/&gt;Описание тайника&lt;br/&gt;Начните свою прогулку от маленькой деревеньки Барсеево и вдохните чистого и свежего воздуха полной грудью, а далее отправляейтесь по координатам  N 54° 51.427' E 30° 44.916' к месту закладки в Горбово 2. Пройдя через всю деревню и при желании посетив заброшенные домики Вы выйдете к старой водонапорной башне на верху которой расположилось гнездо аистов. Вдохнув еще немного свежего воздуха Вы приблизитесь почти вплотную к тайнику. Закладка расположена в полуметре от пяти отдельностоящих маленьких осин между двух камней.&lt;br/&gt;&lt;br/&gt;Удачи в поисках!&lt;br/&gt;&lt;br/&gt;Содержимое тайника&lt;br/&gt;Разное </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>2.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>2.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Место закладки.jpg</ox:name>
+                    <ox:size>36499</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>52883.jpg</ox:name>
+                    <ox:size>39116</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>52886.jpg</ox:name>
+                    <ox:size>16894</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>52882.jpg</ox:name>
+                    <ox:size>15139</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>52885.jpg</ox:name>
+                    <ox:size>31694</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="30.6931167" lat="54.93525">
+        <time>2012-07-30T09:42:26.000Z</time>
+        <name>OXZTE1X</name>
+        <desc>История одного местечка. Добромысли by HyLog, Traditional Cache(1.0/1.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTE1X</url>
+        <urlname>История одного местечка. Добромысли</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Traditional Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28463918">
+            <groundspeak:name>История одного местечка. Добромысли</groundspeak:name>
+            <groundspeak:placed_by>HyLog</groundspeak:placed_by>
+            <groundspeak:owner id="138213">HyLog</groundspeak:owner>
+            <groundspeak:type>Traditional Cache</groundspeak:type>
+            <groundspeak:container>Small</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>1</groundspeak:terrain>
+            <groundspeak:long_description html="True">Описание окружающей местности&lt;br/&gt;Среди густого дремучего леса, на берегу небольшой речушки Черница расположилось древнее селение Добромысли. Видимо неспроста назвали так село – жили здесь люди, у которых рождались добрые мысли. Сегодня – это центр сельского совета Лиозненского района, а когда-то известное еврейское местечко с богатой историей. Жили здесь предки художника Марка Шагала. Его дед Давид-Мордух Еселев Шагал родился в 1825 году и приехал в Лиозно из Добромыслей, отец художника Хацкель, родившийся в 1863 году, также числился добромыслянским мещанином.&lt;br/&gt;&lt;br/&gt;Всё местечко составляли две пересекающиеся улицы Горбовская и Бабиновичская. Одна - еврейская, другая – белорусская. На пересечении стояли пожарная каланча, магазинчик и административное здание. У людей населявших Добромысли были прочные связи с Витебском. Туда ездили учиться и работать, создавали новые семьи. В больших добротных двухэтажных домах села, местные жители поселялись в основном на первом этаже. Вторые этажи летом сдавались дачникам. Добромысли окружают сосновый бор, в реке Чернице в изобилии водились раки, можно было купаться. 19 августа (на Спаса) ежегодно в Добромыслях была большая ярмарка. Съезжались отовсюду: и с деревень, и с местечек. Продавали, покупали, приезжали узнать новости, поговорить. Был большой праздник.&lt;br/&gt;&lt;br/&gt; Летом 1941года, как обычно, в Добромысли съехались родные и знакомые из Москвы и Ленинграда, Минска и Витебска. Почти все с маленькими детьми. Приезжих было даже больше обычного – чувствовалась какая-то особая напряженность, и многие семьи не решились уезжать далеко на юг. И тут началась война…&lt;br/&gt;&lt;br/&gt;Бои за Витебск шли 9–11 июля 1941 года, а в районе Лиозно, окруженные советские части еще сопротивлялись оккупантам в течение недели. Вскоре в Добромыслях появились немцы. На восток успело уйти совсем мало местных жителей. В основном, те, кто предпринимал подобные попытки, были вынуждены вернуться обратно.&lt;br/&gt;&lt;br/&gt;Почти сразу стали создаваться формирования полицаев. Сначала это были не местные, а привезенные из деревни Вишняки, но вскоре к ним добавились добромыслянские жители. Начались акции по уничтожению евреев. В первые облавы попадали те, кто не успевал спрятаться. Забирали только мужчин. Облавы по вылавливанию прятавшихся евреев-мужчин проводились в местечке регулярно, преимущественно по ночам, чтобы застать жителей врасплох. Схваченных мужчин-евреев пьяные полицаи отводили за окраину Добромыслей за мост через реку и там расстреливали на открытом месте. Нередки были доносы соседей в полицию. Издевательства и расправы над евреями продолжались до осени 1942 года.&lt;br/&gt;&lt;br/&gt;Через некоторое время поблизости от Добромыслей были найдены трупы двух немецких солдат. Немецкие власти решили отыграться на евреях и организовали массовую казнь невинных людей. Были схвачены и согнаны в колхозный сарай старики, женщины, малые дети. Их продержали без еды и питья взаперти несколько дней, в течение которых к ним еще и еще добавляли евреев, выловленных в лесу, отысканных в погребах и других укрытиях. Ежедневно по 10 заложников уводили из дома на расстрел.&lt;br/&gt;&lt;br/&gt;Настал день, когда людей под охраной полицаев и немцев на глазах односельчан повели на казнь. Шли они по дороге на Лиозно. Больных тянули за собой на одеялах. По воспоминаниям очевидцев, несчастных заставили самих копать себе яму, а потом стали стрелять. Перед убийством палачи долго издевались над людьми. В яму падали и только раненые люди. Ещё несколько дней земля на месте казни шевелилась. Спастись удалось немногим.&lt;br/&gt;&lt;br/&gt;Сейчас от старого местечка практически ничего не осталось. В годы войны многие дома были сожжены. Когда советские войска освободили Добромысли, и люди стали возвращаться к родным очагам, только печные трубы стояли на их месте. Жили в землянках, строились.&lt;br/&gt;&lt;br/&gt;В Добромыслях установлен памятник Советским солдатам, погибшим при освобождении местечка. А в 2002 году недалеко от дороги Лиозно – Добромысли был поставлен памятник погибшим добромыслянским евреям. Установили его немного ближе к Лиозно и к дороге. А место, которое стало братской могилой для 112 человек и сейчас можно увидеть в лесу.&lt;br/&gt;&lt;br/&gt;Добромыслянские евреи ушли в вечность, но память о них осталась.&lt;br/&gt;&lt;br/&gt;По материалам:&lt;br/&gt;&lt;br/&gt;http://shtetle.co.il/Shtetls/dobromysli/u_vek.html&lt;br/&gt;&lt;br/&gt;В качестве полезной информации:&lt;br/&gt;&lt;br/&gt;По итогам поездок в Беларусь Викка (НЕСЕЗОН) скомпилировала свой опыт, написала статью &quot;Едем в Беларусь!...или бытовуха путешествий&quot; и любезно предоставила мне возможность поделиться ею с вами.&lt;br/&gt;&lt;br/&gt;вариант 1, без картинок, облегчённый, можно распечатать с собой&lt;br/&gt;&lt;br/&gt;вариант 2 чуть подробнее и с картинками&lt;br/&gt;&lt;br/&gt;часть А и часть В&lt;br/&gt;&lt;br/&gt;Описание тайника&lt;br/&gt;Традиционный контейнер заложен недалеко от памятника, под берёзой. Замаскирован корой и листьями.</groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>3.0</ox:size>
+                <ox:terrain>1.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Verifiable</ox:tag>
+            </ox:tags>
+            <ox:verification>
+                <ox:QR>true</ox:QR>
+                <ox:number>true</ox:number>
+            </ox:verification>
+            <ox:images>
+                <ox:image>
+                    <ox:name>Тайник 3.jpg</ox:name>
+                    <ox:size>128885</ox:size>
+                    <ox:required>true</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+                <ox:image>
+                    <ox:name>Памятник 3.jpg</ox:name>
+                    <ox:size>108994</ox:size>
+                    <ox:required>false</ox:required>
+                    <ox:spoiler>false</ox:spoiler>
+                </ox:image>
+            </ox:images>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="30.9717334" lat="53.81985">
+        <time>2010-04-30T05:00:00.000Z</time>
+        <name>OXZTT5X</name>
+        <desc>На графских развалинах by perri, Virtual Cache(1.0/2.5/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTT5X</url>
+        <urlname>На графских развалинах</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Virtual Cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474613">
+            <groundspeak:name>На графских развалинах</groundspeak:name>
+            <groundspeak:placed_by>perri</groundspeak:placed_by>
+            <groundspeak:owner id="16915">perri</groundspeak:owner>
+            <groundspeak:type>Virtual Cache</groundspeak:type>
+            <groundspeak:container>Large</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>2.5</groundspeak:terrain>
+            <groundspeak:long_description html="True">Чаусский, город Чаусы
+
+&lt;br /&gt;&lt;b&gt;Описание тайника&lt;/b&gt;&lt;br /&gt;
+Тайник (развалины амбара графской усадьбы) можно найти на северной окраине города Чаусы около школы-интернат. Издали можно ориентироваться на старую водонапорную башню.
+
+Это место хранит память о старой усадьбе, когда-то принадлежавшей графу Дмитрию Александровичу Толстому - Могилевскому губернатору. Род графов Толстых поселился здесь в конце 18 века.Усадьба была расположена на высоком холме над рекой Басей. Говорят, что когда-то одной из зимних забав графов было катание с этой заснеженной горы прямо к пологим берегам покрытой льдом реки. 
+
+Сейчас от большой когда-то усадьбы осталось, к сожалению, немного: липовая посадка, старый амбар, который по своей архитектуре на первый взгляд напоминает усадьбу. Однако, не смотря на красиво декорированный фасад, здесь все же хранили зерно. По рассказам жителей, здесь настигла смерть последнего арендатора усадьбы - пана Кальмеера, призрак которого и по сей день иногда встречается запоздалым путникам.
+
+От амбара открывается живописный пейзаж - холмы, река Бася, мирно петляющая у их подножья, березовые рощи на другом берегу.
+
+Так описывается это место в статье Евгения Зубовича &quot;Неизвестные Чаусы&quot;. Статья расположена по адресу: &lt;br /&gt;&lt;b&gt;http://chausy.info/nevyadomyya_chausy/ &lt;/b&gt;&lt;br /&gt;
+
+&lt;br /&gt;&lt;b&gt;Описание тайника&lt;/b&gt;&lt;br /&gt;
+
+ 
+Сейчас это только виртуальный тайник. В последствии здесь будет заложен и традиционный тайник.
+
+Содержимое тайника
+
+Для взятия тайника вам необходимо указать инвентарный номер, написанный на углу южной стороны амбара.   </groundspeak:long_description>
+            <groundspeak:logs>
+                <groundspeak:log id="1776000">
+                    <groundspeak:date>2012-03-25T21:00:00.000Z</groundspeak:date>
+                    <groundspeak:type>Found it</groundspeak:type>
+                    <groundspeak:finder id="56277">Hunter_Belarus</groundspeak:finder>
+                    <groundspeak:text encoded="False">Это мой первый тайник. Хотя пока в Беларуси их всего-то два:)</groundspeak:text>
+                </groundspeak:log>
+            </groundspeak:logs>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>5.0</ox:size>
+                <ox:terrain>2.5</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+            <ox:verification/>
+        </ox:opencaching>
+    </wpt>
+    <wpt lon="30.9661167" lat="53.7673667">
+        <time>2010-06-05T05:00:00.000Z</time>
+        <name>OXZTT60</name>
+        <desc>Криница в д. Шеперево by perri, Multi-cache(1.0/3.0/3.0)</desc>
+        <url>http://opencachetest.garmin.com/#geocache/OXZTT60</url>
+        <urlname>Криница в д. Шеперево</urlname>
+        <sym>Geocache</sym>
+        <type>Geocache|Multi-cache</type>
+        <groundspeak:cache archived="False" available="True" id="28474616">
+            <groundspeak:name>Криница в д. Шеперево</groundspeak:name>
+            <groundspeak:placed_by>perri</groundspeak:placed_by>
+            <groundspeak:owner id="16915">perri</groundspeak:owner>
+            <groundspeak:type>Multi-cache</groundspeak:type>
+            <groundspeak:container>Regular</groundspeak:container>
+            <groundspeak:difficulty>1</groundspeak:difficulty>
+            <groundspeak:terrain>3</groundspeak:terrain>
+            <groundspeak:long_description html="True">&lt;br /&gt;&lt;b&gt;Описание окружающей местности&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;Криница находится в Восточной Беларуси (Могилевская область) Чаусский район, деревня Шеперево. Она является одной из важных точек зеленого туристического маршрута &quot;Дорогами радимичей&quot;. Маршрут проходит по местам, где когда-то жили наши предки - люди из племени радимичей, потомки великого славянского вождя Радима, который привел свой народ издалека и основал на этих землях несколько первых поселений. Радимичи жили между Днепром и Десной по течению Сожа и его притоков.
+ &lt;br /&gt;
+&lt;br /&gt;Так как дороги этого туристического маршрута не всегда проходимы для личного автомобиля, а общественный транспорт не позволяет насладиться всеми прелестями путешествия, двигаться по маршруту лучше на велосипеде.
+ &lt;br /&gt;
+
+&lt;br /&gt;Добираться до деревни Шеперево можно двумя путями. Самый разумный - от железнодорожной станции Чаусы надо ехать в сторону славного и древнего города Пропойска до первого поворота на деревню Голочево. Проехав Голочево, вы вскоре увидите деревню Шеперево, которая вытянулась вдоль одной центральной улицы. Как найти криницу, может подсказать любой местный житель.
+ &lt;br /&gt;
+
+&lt;br /&gt;Проезжая по деревням стоит обратить внимание на то, что в них встречаются не очень адекватные собаки, которые спокойно реагируют на пешехода (даже если у него в руках велосипед), но стараются облаять велосипедиста. 
+ &lt;br /&gt;
+
+&lt;br /&gt;В деревне вы можете найти несколько родников, каждый из которых хорош по-своему. Но вам нужен именно самый известный из них. Родник находится на правом берегу безымянного извилистого звонкого ручья. От самой дороги к роднику ведет тропинка 30 - 40 м. Место около криницы спокойное, умиротворенное. Неподалеку есть столик и скамеечка, однако это место не для пикников. Скорее оно для путника, который устал и, попив ключевой водички, присел отдохнуть. 
+ &lt;br /&gt;
+
+&lt;br /&gt;Вода этой кринички прозрачная и вкусная. Местные жители очень дорожат этим источником и ухаживают за ним. Сюда приезжают за водичкой люди даже из Чаус и из Могилева. 
+ &lt;br /&gt;
+
+&lt;br /&gt;Чужаков здесь видят издали, и если вы на долго задержитесь у кринички, то кто-нибудь из местных жителей обязательно подойдет полюбопытствовать, а может быть и расскажет таинственную историю родника. &lt;br /&gt;
+
+&lt;br /&gt;&lt;b&gt;Описание тайника&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;Тайник - стеклянная банка (не люблю пластик), в которой спрятаны предметы. Она спрятана между корнями старого дерева и прикрыта опавшими листьями.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Традиционная часть тайника&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;Когда вы найдете родник, отыскать тайник будет не сложно. От источника примерно 15 метров на Запад до лежащей на земле старой деревянной балки. Затем от нее примерно 8 метров на Юг (вверх по склону почти до самого верха). Тайник спрятан между корнями растущих вместе нескольких деревьев.&lt;br /&gt;
+&lt;br /&gt;&lt;b&gt;Виртуальная часть тайника на зимний период&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;Через ручей можно перейти или переехать по бревенчатому мосту. Для того, чтобы узнать число А надо лишь посчитать количество бревен, из которых состоит мост.&lt;br /&gt;Криница &quot;одета&quot; в бетонные кольца. Для того, чтобы узнать число B надо лишь посчитать сколько бетонных колец можно увидеть, заглянув в родник.
+&lt;br /&gt;Она защищена от дождя оголовком, который обит жестью и имеет дощатую дрерцу. Количество досточек соединенных брусками (бруски не в счет) даст вам число С.&lt;br /&gt;
+И так вопрос: Каково значение имеет число D, если оно равно сумме чисел А, В и С (D=A+B+C).        </groundspeak:long_description>
+        </groundspeak:cache>
+        <ox:opencaching>
+            <ox:ratings>
+                <ox:awesomeness>3.0</ox:awesomeness>
+                <ox:difficulty>1.0</ox:difficulty>
+                <ox:size>4.0</ox:size>
+                <ox:terrain>3.0</ox:terrain>
+            </ox:ratings>
+            <ox:tags>
+                <ox:tag>Exclusive</ox:tag>
+            </ox:tags>
+        </ox:opencaching>
+    </wpt>
+</gpx>
