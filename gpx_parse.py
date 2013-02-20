@@ -10,6 +10,7 @@ class GchParser:
 		self._gch=Geocache()
 		self._close_tag_handlers={
 			"name":self.handle_name,
+			"groundspeak:name":self.handle_gs_name,
 			"code":self.handle_code,
 			"wpt":self.handle_wpt_close,
 			}
@@ -31,6 +32,10 @@ class GchParser:
 		self._gch.terrain = float( text )
 
 	def handle_name(self,text,ebi):
+		self._gch.name=text
+		self._gch.code=text
+
+	def handle_gs_name(self,text,ebi):
 		self._gch.name=text
 
 	def handle_code(self,text,ebi):
@@ -112,7 +117,7 @@ class GpxParser:
 		if( tag == "wpt" ):
 			self._mode = "wpt"
 
-		self._textbuffer=""
+		self._textbuffer=u""
 		self._depth = self._depth + 1
 		if( self._mode == "wpt" ):
 			self._gch_parser.start( tag, attrs, self._parser.CurrentByteIndex )
