@@ -18,11 +18,12 @@ class XmlWriter:
 
 	def OpenTag( self, tag ):
 		self.indent()
-		self._fs.write( "<%s>\n"%tag )
 		self._indent = self._indent + 1
+		self._fs.write( "<%s>\n"%tag )
 
 	def CloseTag( self, tag ):
 		self._indent = self._indent - 1
+		self.indent()
 		self._fs.write( "</%s>\n"%tag )
 
 	def OpenTagCloseTag( self, tag, text ):
