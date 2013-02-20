@@ -1,7 +1,7 @@
 class Geocache:
 	def __init__(self):
-		self.name=""
-		self.code=""
+		self.name=u""
+		self.code=u""
 		self.awesomeness = 3.0
 		self.difficulty  = 3.0
 		self.size        = 3.0
@@ -10,6 +10,6 @@ class Geocache:
 		self.file_len    = 0
 		self.lat         = 0.0
 		self.lon         = 0.0
-		self.type        = ""
+		self.type        = u""
 
 
