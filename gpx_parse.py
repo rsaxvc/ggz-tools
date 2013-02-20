@@ -12,6 +12,7 @@ class GchParser:
 			"name":self.handle_name,
 			"groundspeak:name":self.handle_gs_name,
 			"code":self.handle_code,
+			"groundspeak:type":self.handle_type,
 			"wpt":self.handle_wpt_close,
 			}
 
@@ -40,6 +41,9 @@ class GchParser:
 
 	def handle_code(self,text,ebi):
 		self._gch.code=code
+
+	def handle_type(self,text,ebi):
+		self._gch.type=text
 
 	def handle_wpt_close(self,text,ebi):
 		self._gch.file_len = ebi - self._gch.file_pos
