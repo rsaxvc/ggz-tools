@@ -9,7 +9,7 @@ static char tag_stack[STACK_SIZE];
 static unsigned short tag_stack_idx[STACK_SIZE];
 static unsigned short tag_stack_head;
 
-static char element_buffer[STACK_SIZE];
+static char element_buffer[1024];
 static size_t element_buffer_usage;
 
 void start_element(void *data, const char *element, const char **attribute)
