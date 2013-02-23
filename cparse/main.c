@@ -50,7 +50,7 @@ element_buffer[element_buffer_usage]='\0';
 
 int main( int num_args, const char * args[] )
 {
-#define BUFF_SIZE 10
+#define BUFF_SIZE 4096
 FILE           *fp;
 
 if( num_args != 2 )
