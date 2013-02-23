@@ -50,8 +50,7 @@ element_buffer[element_buffer_usage]='\0';
 
 int main( int num_args, const char * args[] )
 {
-size_t file_size;
-char buff[1024];
+#define BUFF_SIZE 10
 FILE           *fp;
 
 if( num_args != 2 )
@@ -73,12 +72,24 @@ XML_SetCharacterDataHandler(parser, handle_data);
 tag_stack_head = 0;
 tag_stack_idx[tag_stack_head] = tag_stack_head;
 
+
+	int bytes_read;
 do
 	{
-	file_size = fread(buff, sizeof(char), sizeof(buff), fp);
+	void *buff = XML_GetBuffer(parser, BUFF_SIZE);
+	if (buff == NULL)
+		{
+		printf("Failed to get buffer from eXpat\n");
+		break;
+		}
 
-	/* parse the xml */
-	if (XML_Parse(parser, buff, file_size, XML_TRUE) == XML_STATUS_ERROR)
+	bytes_read = fread( buff, sizeof(char), BUFF_SIZE, fp );
+	if ( bytes_read < 0 )
+		{
+		break;
+		}
+
+	if (! XML_ParseBuffer(parser, bytes_read, bytes_read == 0 ) )
 		{
 	    printf("Error: %s at line:%i col:%i byte:%i\n",
 			XML_ErrorString(XML_GetErrorCode(parser)),
@@ -88,8 +99,7 @@ do
 			);
 		break;
 		}
-	}while( file_size == sizeof( buff ) );
-
+	}while( bytes_read > 0 );
 
 fclose(fp);
 XML_ParserFree(parser);
