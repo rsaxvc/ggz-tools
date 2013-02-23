@@ -21,7 +21,7 @@ strcpy( tag_stack + tag_stack_head, element );
 tag_stack_head += strlen( element );
 tag_stack_idx[tag_stack_head] = stored_stack_idx;
 
-printf("SE:%s Stack:%s Head:%i\n",element,tag_stack,tag_stack_head);
+//printf("SE:%s Stack:%s Head:%i\n",element,tag_stack,tag_stack_head);
 }
 
 void end_element(void *data, const char *el)
@@ -38,7 +38,7 @@ element_buffer_usage = 0;
 tag_stack_head = tag_stack_idx[tag_stack_head];
 tag_stack[tag_stack_head] = '\0';
 
-printf("EL:%s Stack:%s Head:%i\n",el,tag_stack, tag_stack_head);
+//printf("EL:%s Stack:%s Head:%i\n",el,tag_stack, tag_stack_head);
 }
 
 void handle_data(void *data, const char *content, int length)
