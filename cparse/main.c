@@ -80,10 +80,11 @@ do
 	/* parse the xml */
 	if (XML_Parse(parser, buff, file_size, XML_TRUE) == XML_STATUS_ERROR)
 		{
-	    printf("Error: %s at line:%i col:%i\n", 
+	    printf("Error: %s at line:%i col:%i byte:%i\n",
 			XML_ErrorString(XML_GetErrorCode(parser)),
 			XML_GetCurrentLineNumber( parser ),
-			XML_GetCurrentColumnNumber( parser )
+			XML_GetCurrentColumnNumber( parser ),
+			XML_GetCurrentByteIndex( parser )
 			);
 		break;
 		}
