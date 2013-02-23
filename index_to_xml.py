@@ -33,7 +33,7 @@ class XmlWriter:
 		self._fs.write( "</%s>\n"%tag )
 
 	def entry( self, geocache ):
-		self.OpenTag( "geocache" )
+		self.OpenTag( "gch" )
 		self.OpenTagCloseTag( "name",        "%s"%geocache.name )
 		self.OpenTagCloseTag( "code",        "%s"%geocache.code )
 		self.OpenTagCloseTag( "awesomeness", "%f"%geocache.awesomeness )
@@ -45,16 +45,16 @@ class XmlWriter:
 		self.OpenTagCloseTag( "lat",         "%f"%geocache.lat )
 		self.OpenTagCloseTag( "lon",         "%f"%geocache.lon )
 		self.OpenTagCloseTag( "type",        "%s"%geocache.type )
-		self.CloseTag( "geocache" )
+		self.CloseTag( "gch" )
 
 def index_to_xml( index ):
 	( temphndl, tempname ) = tempfile.mkstemp(".csv")
 	os.close( temphndl )
 	fs = codecs.open( tempname, "w", "utf-8" )
 	x = XmlWriter(fs)
-	x.OpenTag( "geocache_index" )
+	x.OpenTag( "ggz" )
 	for g in index.cachelist:
 		x.entry( g )
-	x.CloseTag( "geocache_index" )
+	x.CloseTag( "ggz" )
 	fs.close()
 	return tempname
