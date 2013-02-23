@@ -32,7 +32,7 @@ ptr = in_word_set ( tag_stack, tag_stack_head );
 
 if( ptr != NULL )
 	{
-	printf("Found handler\n");
+	ptr->handler( data, el );
 	}
 element_buffer_usage = 0;
 tag_stack_head = tag_stack_idx[tag_stack_head];
