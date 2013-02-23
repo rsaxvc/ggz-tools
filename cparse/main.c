@@ -85,6 +85,7 @@ do
 			XML_GetCurrentLineNumber( parser ),
 			XML_GetCurrentColumnNumber( parser )
 			);
+		break;
 		}
 	}while( file_size == sizeof( buff ) );
 
