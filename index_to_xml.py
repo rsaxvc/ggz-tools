@@ -29,7 +29,7 @@ class XmlWriter:
 	def OpenTagCloseTag( self, tag, text ):
 		self.indent()
 		self._fs.write( "<%s>"%tag )
-		self._fs.write( text )
+		self._fs.write( escape( text ) )
 		self._fs.write( "</%s>\n"%tag )
 
 	def entry( self, geocache ):
