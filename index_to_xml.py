@@ -48,7 +48,7 @@ class XmlWriter:
 		self.CloseTag( "gch" )
 
 def index_to_xml( index ):
-	( temphndl, tempname ) = tempfile.mkstemp(".csv")
+	( temphndl, tempname ) = tempfile.mkstemp(".xml")
 	os.close( temphndl )
 	fs = codecs.open( tempname, "w", "utf-8" )
 	x = XmlWriter(fs)
