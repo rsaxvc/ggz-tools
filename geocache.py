@@ -11,5 +11,6 @@ class Geocache:
 		self.lat         = 0.0
 		self.lon         = 0.0
 		self.type        = u""
+		self.found_status = ""
 
 

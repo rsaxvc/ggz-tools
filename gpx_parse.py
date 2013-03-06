@@ -10,6 +10,7 @@ class GchParser:
 		self._gch=Geocache()
 		self._close_tag_handlers={
 			"gpx/wpt/name":self._handle_name,
+			"gpx/wpt/sym":self._handle_sym,
 			"gpx/wpt/groundspeak:cache/groundspeak:name":self._handle_gs_name,
 			"gpx/wpt/groundspeak:cache/groundspeak:type":self._handle_type,
 			"gpx/wpt":self._handle_wpt_close,
@@ -23,6 +24,9 @@ class GchParser:
 		self._open_tag_handlers={
 			"gpx/wpt":self._handle_wpt_open,
 			}
+
+	def _handle_sym(self,text,ebi):
+		self._gch.found_status = text
 
 	def _handle_ox_awesomeness(self,text,ebi):
 		self._gch.awesomeness = float( text )
