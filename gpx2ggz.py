@@ -59,5 +59,5 @@ if( len( sys.argv ) >= 3 ):
 		parse_time,zip_time,index_xml_time)
 
 else:
-	print "Please run:%s [input.gpx]... output.zip" % sys.argv[0]
+	print "Please run:%s [input.gpx]... output.ggz" % sys.argv[0]
 
