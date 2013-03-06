@@ -96,13 +96,9 @@ class GpxParser:
 		self._parser.buffer_text = 1
 		self._tag_stack = []
 
-	def ParseFile(self, filename ):
-		"Parse a file specified by filename"
-
-		#open + parse + close file
-		f = open( filename )
-		self._parser.Parse(f.read(),0)
-		f.close()
+	def ParseText(self, blob ):
+		"Parse some bytes"
+		self._parser.Parse(blob,0)
 
 		#close down parser
 		self._parser.Parse("", 1) # end of data
@@ -117,6 +113,15 @@ class GpxParser:
 
 		#return result set
 		return list
+
+	def ParseFile(self, filename ):
+		"Parse a file specified by filename"
+
+		#open + parse + close file
+		f = open( filename )
+		blob = f.read()
+		f.close()
+		return self.ParseText( blob )
 
 	def _pushTag(self, tag):
 		"Accumulate the tag onto the tag stack, return a string-id representing the tag-stack"

@@ -5,6 +5,14 @@ import codecs
 import os
 import tempfile
 
+def crc32_to_hex( crc ):
+	ulong = long()
+	if( crc < 0 ):
+		ulong = crc+2**31
+	else:
+		ulong = crc
+	return hex(ulong)[2:].upper()
+
 
 class XmlWriter:
 	"Simple XML serializer"
@@ -34,17 +42,19 @@ class XmlWriter:
 
 	def entry( self, geocache ):
 		self.OpenTag( "gch" )
-		self.OpenTagCloseTag( "name",        "%s"%geocache.name )
 		self.OpenTagCloseTag( "code",        "%s"%geocache.code )
+		self.OpenTagCloseTag( "name",        "%s"%geocache.name )
+		self.OpenTagCloseTag( "type",        "%s"%geocache.type )
+		self.OpenTagCloseTag( "lat",         "%f"%geocache.lat )
+		self.OpenTagCloseTag( "lon",         "%f"%geocache.lon )
+		self.OpenTagCloseTag( "file_pos",    "%d"%geocache.file_pos )
+		self.OpenTagCloseTag( "file_len",    "%d"%geocache.file_len )
+		self.OpenTag( "ratings" )
 		self.OpenTagCloseTag( "awesomeness", "%f"%geocache.awesomeness )
 		self.OpenTagCloseTag( "difficulty",  "%f"%geocache.difficulty )
 		self.OpenTagCloseTag( "size",        "%f"%geocache.size )
 		self.OpenTagCloseTag( "terrain",     "%f"%geocache.terrain )
-		self.OpenTagCloseTag( "file_pos",    "%d"%geocache.file_pos )
-		self.OpenTagCloseTag( "file_len",    "%d"%geocache.file_len )
-		self.OpenTagCloseTag( "lat",         "%f"%geocache.lat )
-		self.OpenTagCloseTag( "lon",         "%f"%geocache.lon )
-		self.OpenTagCloseTag( "type",        "%s"%geocache.type )
+		self.CloseTag( "ratings" )
 		self.CloseTag( "gch" )
 
 def index_to_xml( index ):
@@ -53,8 +63,13 @@ def index_to_xml( index ):
 	fs = codecs.open( tempname, "w", "utf-8" )
 	x = XmlWriter(fs)
 	x.OpenTag( "ggz" )
-	for g in index.cachelist:
-		x.entry( g )
+	for f in index.filelist:
+		x.OpenTag( "file" )
+		x.OpenTagCloseTag( "name", f.name )
+		x.OpenTagCloseTag( "crc", crc32_to_hex( f.crc ) )
+		for g in f.cachelist:
+			x.entry( g )
+		x.CloseTag( "file" )
 	x.CloseTag( "ggz" )
 	fs.close()
 	return tempname
