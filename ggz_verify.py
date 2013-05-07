@@ -11,6 +11,8 @@ total_caches = 0
 if( len( sys.argv ) >= 2 ):
 	gpxindex = Index()
 	for file in sys.argv[1:]:
+		small_files = 0
+
 		print "Checking:",file
 		z = zipfile.ZipFile(file, "r")
 
@@ -33,6 +35,15 @@ if( len( sys.argv ) >= 2 ):
 					print "Error:CRC failure in ",filename
 					print "\tGPX crc:",str(file_index.crc)
 					print "\tZIP crc:",str(info.CRC)
+				if( len(text) < 100*1024 ):
+					small_files = small_files + 1
+					if( small_files == 1 ):
+						print "Warning:multiple small files(<100KiB) in archive"
+						print "\tThese should be combined"
+				if( len(text) > 5*1024*1024 ):
+					print "Warning:large file(>5Mib) in archive:",filename
+					print "\tGPX size:",len(text)
+					print "\tThis should be split into smaller files"
 				file_index.name = filename[5:]
 				gpxindex.filelist.append( file_index )
 			elif( filename.startswith("index/") ):
