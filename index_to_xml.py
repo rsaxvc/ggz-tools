@@ -6,12 +6,13 @@ import os
 import tempfile
 
 def crc32_to_hex( crc ):
-	ulong = long()
-	if( crc < 0 ):
-		ulong = crc+2**31
-	else:
-		ulong = crc
-	return hex(ulong)[2:].upper()
+	ulong = long(crc)
+	if( ulong < 0 ):
+		ulong = ulong + 2**32
+	hex_ulong = hex(ulong)[2:].upper()
+	if hex_ulong[-1] == "L":
+		return hex_ulong[:-1]
+	return hex_ulong
 
 
 class XmlWriter:
