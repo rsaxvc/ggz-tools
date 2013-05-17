@@ -55,6 +55,8 @@ class XmlWriter:
 		self.OpenTagCloseTag( "size",        "%f"%geocache.size )
 		self.OpenTagCloseTag( "terrain",     "%f"%geocache.terrain )
 		self.CloseTag( "ratings" )
+		if( geocache.found_status == "Geocache Found" or geocache.found_status == "Found It" ):
+			self.OpenTagCloseTag( "found", "true" )
 		self.CloseTag( "gch" )
 
 def index_to_xml( index ):
