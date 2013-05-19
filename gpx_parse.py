@@ -19,10 +19,24 @@ class GchParser:
 			"gpx/wpt/ox:opencaching/ox:ratings/ox:difficulty":self._handle_ox_difficulty,
 			"gpx/wpt/ox:opencaching/ox:ratings/ox:size":self._handle_ox_size,
 			"gpx/wpt/ox:opencaching/ox:ratings/ox:terrain":self._handle_ox_terrain,
+
+			"gpx/wpt/groundspeak:cache/groundspeak:difficulty":self._handle_gs_difficulty,
+			"gpx/wpt/groundspeak:cache/groundspeak:terrain":self._handle_gs_terrain,
+			"gpx/wpt/groundspeak:cache/groundspeak:container":self._handle_gs_container,
 			}
 
 		self._open_tag_handlers={
 			"gpx/wpt":self._handle_wpt_open,
+			}
+
+		self._gs_container_size_map = {
+			"micro": 2.0,
+			"small": 3.0,
+			"regular": 4.0,
+			"large": 5.0,
+			"other": -1.0,
+			"not chosen": -2.0,
+			"virtual": 0.0,
 			}
 
 	def _handle_sym(self,text,ebi):
@@ -39,6 +53,15 @@ class GchParser:
 
 	def _handle_ox_terrain(self,text,ebi):
 		self._gch.terrain = float( text )
+
+	def _handle_gs_difficulty(self,text,ebi):
+		self._gch.difficulty = float( text )
+
+	def _handle_gs_terrain(self,text,ebi):
+		self._gch.terrain = float( text )
+
+	def _handle_gs_container(self,text,ebi):
+		self._gch.size = self._gs_container_size_map[text.lower()]
 
 	def _handle_name(self,text,ebi):
 		self._gch.name=text
