@@ -11,18 +11,19 @@ class GchParser:
 		self._close_tag_handlers={
 			"gpx/wpt/name":self._handle_name,
 			"gpx/wpt/sym":self._handle_sym,
+
+			"gpx/wpt/groundspeak:cache/groundspeak:container":self._handle_gs_container,
+			"gpx/wpt/groundspeak:cache/groundspeak:difficulty":self._handle_gs_difficulty,
 			"gpx/wpt/groundspeak:cache/groundspeak:name":self._handle_gs_name,
+			"gpx/wpt/groundspeak:cache/groundspeak:terrain":self._handle_gs_terrain,
 			"gpx/wpt/groundspeak:cache/groundspeak:type":self._handle_type,
-			"gpx/wpt":self._handle_wpt_close,
 
 			"gpx/wpt/ox:opencaching/ox:ratings/ox:awesomeness":self._handle_ox_awesomeness,
 			"gpx/wpt/ox:opencaching/ox:ratings/ox:difficulty":self._handle_ox_difficulty,
 			"gpx/wpt/ox:opencaching/ox:ratings/ox:size":self._handle_ox_size,
 			"gpx/wpt/ox:opencaching/ox:ratings/ox:terrain":self._handle_ox_terrain,
 
-			"gpx/wpt/groundspeak:cache/groundspeak:difficulty":self._handle_gs_difficulty,
-			"gpx/wpt/groundspeak:cache/groundspeak:terrain":self._handle_gs_terrain,
-			"gpx/wpt/groundspeak:cache/groundspeak:container":self._handle_gs_container,
+			"gpx/wpt":self._handle_wpt_close,
 			}
 
 		self._open_tag_handlers={
