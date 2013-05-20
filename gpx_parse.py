@@ -61,7 +61,11 @@ class GchParser:
 		self._gch.terrain = float( text )
 
 	def _handle_gs_container(self,text,ebi):
-		self._gch.size = self._gs_container_size_map[text.lower()]
+		try:
+			self._gch.size = self._gs_container_size_map[text.lower()]
+		except KeyError:
+			print "Warning:Don't know how to handle size of '" + text + "' on cache '" + self._gch.name + "'";
+			self._gch.size = -1.0
 
 	def _handle_name(self,text,ebi):
 		self._gch.name=text
