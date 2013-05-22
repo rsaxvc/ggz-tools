@@ -14,6 +14,8 @@ if( len( sys.argv ) >= 3 ):
 	os.system("rm -f %s"%sys.argv[-1])
 	z = zipfile.ZipFile( sys.argv[-1], "w", zipfile.ZIP_DEFLATED )
 
+	small_files = 0
+
 	# Create tables
 	index = Index()
 	for  file in sys.argv[ 1:-1]:
@@ -22,6 +24,17 @@ if( len( sys.argv ) >= 3 ):
 
 		basefile = os.path.basename(file)
 		print "Processing %s"%(basefile)
+
+		sz = os.path.getsize(file)
+		if( sz < 100*1024 ):
+			small_files = small_files + 1
+			if( small_files == 2 ):
+				print "Warning:packing multiple small files(<100KiB)"
+				print "\tThese should be combined"
+		if( sz > 5*1024*1024 ):
+			print "Warning:large file(>5Mib):",basefile
+			print "\tGPX size:",sz
+			print "\tThis should be split into smaller files"
 
 		parse_time = time.time()
 		print "\tParsing XML into cachelist"
