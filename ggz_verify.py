@@ -37,7 +37,7 @@ if( len( sys.argv ) >= 2 ):
 					print "\tZIP crc:",str(info.CRC)
 				if( len(text) < 100*1024 ):
 					small_files = small_files + 1
-					if( small_files == 1 ):
+					if( small_files == 2 ):
 						print "Warning:multiple small files(<100KiB) in archive"
 						print "\tThese should be combined"
 				if( len(text) > 5*1024*1024 ):
