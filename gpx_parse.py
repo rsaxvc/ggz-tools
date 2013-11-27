@@ -150,7 +150,7 @@ class GpxParser:
 		"Parse a file specified by filename"
 
 		#open + parse + close file
-		f = open( filename )
+		f = open( filename, "rb" )
 		blob = f.read()
 		f.close()
 		return self.ParseText( blob )

@@ -39,7 +39,7 @@ if( len( sys.argv ) >= 3 ):
 		parse_time = time.time()
 		print "\tParsing XML into cachelist"
 		p = GpxParser()
-		f = open( file )
+		f = open( file, "rb" )
 		text = f.read()
 		f.close()
 		file_index.cachelist = p.ParseText(text)
