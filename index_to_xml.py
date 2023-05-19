@@ -68,7 +68,7 @@ def index_to_xml( index ):
 	x.OpenTag( "ggz" )
 	for f in index.filelist:
 		x.OpenTag( "file" )
-		x.OpenTagCloseTag( "name", f.name )
+		x.OpenTagCloseTag( "name", f.name.decode('utf-8') )
 		x.OpenTagCloseTag( "crc", crc32_to_hex( f.crc ) )
 		for g in f.cachelist:
 			x.entry( g )
