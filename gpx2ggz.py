@@ -63,6 +63,7 @@ if( len( sys.argv ) >= 3 ):
 	tempname = index_to_xml( index )
 	zip_time = zip_time - time.time()
 	z.write( tempname, "index/com/garmin/geocaches/v0/index.xml" )
+	z.close()
 	zip_time = zip_time + time.time()
 	index_xml_time = time.time() - index_xml_time
 	os.system("rm -f %s"%tempname)
